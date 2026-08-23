@@ -2,7 +2,7 @@
 
 ## 📅 August 23, 2026
 
-> 16 post(s) archived.
+> 17 post(s) archived.
 
 ---
 
@@ -129,6 +129,14 @@
 > The Bolsheviks killed more ppl &amp; committed more acts of systematic mass murder &amp; pure horror than any other group in the 20th century. Yet it is nothing more than a footnote in our schools. We are taught that “we won the cold war,” but the truth is we were defeated from within. Media
 
 🔗 [View original post](https://x.com/ClassicLearner/status/2091333264971563501)
+
+---
+
+### 🕐 01:14 UTC · @elonmusk
+
+> A French writer explained the error in 1850. A Nobel economist repeated it in a Pennsylvania lecture hall in 1978. Governments still make it every year. Almost nobody watches the clip. This is Milton Friedman on the parable of the broken window, the oldest mistake in economics. The trick is that the destruction is visible and the cost is not. You see the glazier get paid. You never see what the shopkeeper would have bought instead. Watch how he sets it up before he names the fallacy. He lets the audience agree with the wrong answer first. 176 years of warnings. Still the most persuasive bad idea in politics. Media
+
+🔗 [View original post](https://x.com/0gMirren/status/2091333126614065614)
 
 ---
 

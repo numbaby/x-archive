@@ -42,6 +42,13 @@
     "file": "data/posts/2026/08/2026-08-23.jsonl",
     "fingerprint": "612b5b5cc0861e0b33ff2cb7313640f3548c11740b68502d84cee8b98a388a5d"
   },
+  "2091333126614065614": {
+    "account": "elonmusk",
+    "date": "2026-08-23",
+    "file": "data/posts/2026/08/2026-08-23.jsonl",
+    "fingerprint": "9a051bb4600765e6743ca1d1d4a2941aac39e4c8913ade7cf455a2453edc85f0",
+    "media": []
+  },
   "2091333264971563501": {
     "account": "elonmusk",
     "date": "2026-08-23",
@@ -1714,6 +1721,13 @@
     "file": "data/posts/2026/08/2026-08-23.jsonl",
     "fingerprint": "9434a9d858538fe73af1dfb2e64fa2a2e81a4d38353cc69c20850253a088fd4e"
   },
+  "2091528818838438174": {
+    "account": "Unlockyourlife_",
+    "date": "2026-08-23",
+    "file": "data/posts/2026/08/2026-08-23.jsonl",
+    "fingerprint": "9a012421b9124f316ff7445df823d7bb7412d3a4f87269a759a37490c600808a",
+    "media": []
+  },
   "2091528944701014504": {
     "account": "Wise1Philosophy",
     "date": "2026-08-23",
@@ -2400,6 +2414,85 @@
     "date": "2026-08-23",
     "file": "data/posts/2026/08/2026-08-23.jsonl",
     "fingerprint": "074093f277917359f8425ee19008137ac9ce8a6024ff791f2466560aa0584eab",
+    "media": []
+  },
+  "2091599475114758247": {
+    "account": "Wise1Philosophy",
+    "date": "2026-08-23",
+    "file": "data/posts/2026/08/2026-08-23.jsonl",
+    "fingerprint": "ed306477008f7f58a4f9be2952693029faf8cc0b7c77560a8220b6f2242fdcae",
+    "media": [
+      {
+        "local_path": "assets/images/2026/08/23/2091599475114758247-1.png",
+        "sha256": "8afe1fc5ddffd07ca439d97031b5c0ed0514026f13bfef29c01e76352413a586",
+        "source_url": "https://pbs.twimg.com/media/HQbao3Ma4AAUn5i.png?name=orig"
+      }
+    ]
+  },
+  "2091599487731110244": {
+    "account": "Wise1Philosophy",
+    "date": "2026-08-23",
+    "file": "data/posts/2026/08/2026-08-23.jsonl",
+    "fingerprint": "a83c188f1472882d4faf5de16a04d70a4118851afc0e3061a3764e1b32a166bd",
+    "media": [
+      {
+        "local_path": "assets/images/2026/08/23/2091599487731110244-1.jpg",
+        "sha256": "c6cb25a8e7826d4ccce67b2c7710e5215cfd9797e76c1b9a648d6811438a3195",
+        "source_url": "https://pbs.twimg.com/media/HQbaplXbkAAIB7o.jpg?name=orig"
+      }
+    ]
+  },
+  "2091599516105605291": {
+    "account": "Wise1Philosophy",
+    "date": "2026-08-23",
+    "file": "data/posts/2026/08/2026-08-23.jsonl",
+    "fingerprint": "30fe43b1a83bce826dfc34caeca82ca24514571badba296f2568d63df6f0f78a",
+    "media": [
+      {
+        "local_path": "assets/images/2026/08/23/2091599516105605291-1.jpg",
+        "sha256": "e40a4f71d69ed934f1c2ffac60ce943fffc03f10bf8830fb3c3f9fc54427e30f",
+        "source_url": "https://pbs.twimg.com/media/HQbarH8aAAAp7Re.jpg?name=orig"
+      }
+    ]
+  },
+  "2091599615565107486": {
+    "account": "Wise1Philosophy",
+    "date": "2026-08-23",
+    "file": "data/posts/2026/08/2026-08-23.jsonl",
+    "fingerprint": "2482f7fbe70e9d2df8a4063257d1341fd3f52ddb1ac6e88cb2a8ec7d2446a133",
+    "media": [
+      {
+        "local_path": "assets/images/2026/08/23/2091599615565107486-1.png",
+        "sha256": "088acf50bee9b5cf0f2377f634a6bc68b93daac7cdb65922749eb5d7fb4125a2",
+        "source_url": "https://pbs.twimg.com/media/HQbaxD4asAAObtm.png?name=orig"
+      }
+    ]
+  },
+  "2091599639984418961": {
+    "account": "Wise1Philosophy",
+    "date": "2026-08-23",
+    "file": "data/posts/2026/08/2026-08-23.jsonl",
+    "fingerprint": "b97e9fb8e0ba9e0a9409bc52b3f12567a911c7a1855e89adfd2630e485295b88",
+    "media": [
+      {
+        "local_path": "assets/images/2026/08/23/2091599639984418961-1.png",
+        "sha256": "7a38f0cfdf1c7c40162c2dcd3e0c525c11dfed70561e16b75da35b651779c826",
+        "source_url": "https://pbs.twimg.com/media/HQbaydia4AEOeTJ.png?name=orig"
+      }
+    ]
+  },
+  "2091599653569728942": {
+    "account": "Wise1Philosophy",
+    "date": "2026-08-23",
+    "file": "data/posts/2026/08/2026-08-23.jsonl",
+    "fingerprint": "9eaeece81221856a8b56ca959532c4f9aa707df2a458610ef67013f41f7e9e5c",
+    "media": []
+  },
+  "2091602399295087005": {
+    "account": "Unlockyourlife_",
+    "date": "2026-08-23",
+    "file": "data/posts/2026/08/2026-08-23.jsonl",
+    "fingerprint": "25372b00d88b2c2732d15de4b66d48b820de52ab51b49c531317f541f81d2550",
     "media": []
   }
 }

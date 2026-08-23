@@ -2,7 +2,65 @@
 
 ## 📅 August 23, 2026
 
-> 73 post(s) archived.
+> 79 post(s) archived.
+
+---
+
+### 🕐 18:53 UTC · @Wise1Philosophy
+
+> This ex-Cursor engineer at SpaceXAI just broke down how he uses a &quot;Chief of Staff&quot; GrokBot to manage 20 other AI agents and automate 90% of his work. It’s a fascinating 30-minute listen : a step-by-step guide to building your own team below. 👇 Media
+
+🔗 [View original post](https://x.com/thetripathi58/status/2091599653569728942)
+
+---
+
+### 🕐 18:53 UTC · @Wise1Philosophy
+
+> Who could have known this kid would grow up to build the AI that is changing everyone&apos;s life today
+
+![Who could have known this kid would grow up to build the AI that is changing everyone&apos;s life today](../../../../assets/images/2026/08/23/2091599639984418961-1.png)
+
+🔗 [View original post](https://x.com/aibytekat/status/2091599639984418961)
+
+---
+
+### 🕐 18:53 UTC · @Wise1Philosophy
+
+> The engineer who designed the first computer mouse and invented the graphical user interface realized one brutal truth: The engineers who follow standard career advice plateau early. The ones who ignore it create the future everyone else copies for 40 years. His name is Douglas Engelbart. He demonstrated it all live in 1968. Here are 4 career frameworks he used that contradict everything you&apos;ve been told:
+
+![The engineer who designed the first computer mouse and invented the graphical user interface realized one brutal truth: The engineers who follow standard career advice plateau early. The ones who igno](../../../../assets/images/2026/08/23/2091599615565107486-1.png)
+
+🔗 [View original post](https://x.com/AIPandaX/status/2091599615565107486)
+
+---
+
+### 🕐 18:52 UTC · @Wise1Philosophy
+
+> The mathematician who cracked the Enigma code and invented the concept of artificial intelligence realized one brutal truth: The engineers who follow standard career advice plateau early. The ones who ignore it end wars and define entire fields of science. His name is Alan Turing. He built the first computational machines in the 1940s. Here are 4 career frameworks he used that contradict everything you&apos;ve been told:
+
+![The mathematician who cracked the Enigma code and invented the concept of artificial intelligence realized one brutal truth: The engineers who follow standard career advice plateau early. The ones who](../../../../assets/images/2026/08/23/2091599516105605291-1.jpg)
+
+🔗 [View original post](https://x.com/aibytekat/status/2091599516105605291)
+
+---
+
+### 🕐 18:52 UTC · @Wise1Philosophy
+
+> A brilliant statistician who spent 50 years studying why massive engineering projects fail realized one terrifying truth: Individual incompetence is almost never the actual problem. His name is W. Edwards Deming, the man who famously rebuilt Japan&apos;s post-war manufacturing empire from scratch. He argued that we obsess over individual performance and completely ignore the environment. Here are 4 operational frameworks he used to build elite, failure-proof organizations:
+
+![A brilliant statistician who spent 50 years studying why massive engineering projects fail realized one terrifying truth: Individual incompetence is almost never the actual problem. His name is W. Edw](../../../../assets/images/2026/08/23/2091599487731110244-1.jpg)
+
+🔗 [View original post](https://x.com/thetripathi58/status/2091599487731110244)
+
+---
+
+### 🕐 18:52 UTC · @Wise1Philosophy
+
+> The programmer who invented object-oriented programming and built the first personal computer at Xerox PARC realized one brutal truth: The engineers who follow standard career advice plateau early. The ones who ignore it create paradigms that every developer uses 50 years later. Her name is Adele Goldberg. She built Smalltalk in the 1970s. She bypassed the traditional corporate playbook using these 4 unconventional strategies:
+
+![The programmer who invented object-oriented programming and built the first personal computer at Xerox PARC realized one brutal truth: The engineers who follow standard career advice plateau early. Th](../../../../assets/images/2026/08/23/2091599475114758247-1.png)
+
+🔗 [View original post](https://x.com/thetripathi58/status/2091599475114758247)
 
 ---
 
