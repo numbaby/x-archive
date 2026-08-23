@@ -2,7 +2,17 @@
 
 ## 📅 August 23, 2026
 
-> 8 post(s) archived.
+> 10 post(s) archived.
+
+---
+
+### 🕐 14:08 UTC · @elonmusk
+
+> Starlink Stories: From the eye of a 190-mph tornado to the middle of the Indian Ocean, these innovators are using @Starlink to make the impossible a reality. &quot;Starlink is probably our most crucial piece of equipment. It&apos;s really been a game-changer.&quot; &quot;I am a lot braver when it comes to entering foreign lands thanks to Starlink.&quot; &quot;Previously, wirelessly downloading a single AutoPath mapping file took 20 to 30 minutes of agonizing wait time, during which the tractor engine had to remain running. &quot;Every minute we&apos;re sitting there just idling the tractor is costing us money, whether in fuel or wasted, useless hours we put on the machine. With Starlink, files download almost instantly.&quot; &quot;We can save lives with a functional real-time earthquake monitoring network like the one we operate.&quot; It&apos;s worth reading these stories in the article: https://www.pcmag.com/articles/starlink-stories-7-extreme-users-bringing-the-internet-to-the-ends-of-earth
+
+![Starlink Stories: From the eye of a 190-mph tornado to the middle of the Indian Ocean, these innovators are using @Starlink to make the impossible a reality. &quot;Starlink is probably our most crucia](../../../../assets/images/2026/08/23/2091527932271292925-1.jpg)
+
+🔗 [View original post](https://x.com/SawyerMerritt/status/2091527932271292925)
 
 ---
 
@@ -69,5 +79,13 @@
 > we’re having debates about datacenters and China is publicly developing superhuman robot armies what the actual hell are we doing here guys china’s AI robot just hit 14.5 m/s
 
 🔗 [View original post](https://x.com/ArthurMacwaters/status/2091394815543898327)
+
+---
+
+### 🕐 00:22 UTC · @elonmusk
+
+> A world with zero discrimination would still produce wildly unequal group outcomes. Thomas Sowell demonstrated how firstborn sons score higher on IQ tests and land more prestigious careers than their younger brothers, but nobody blames discrimination for that gap. Canadian junior hockey shows that players born January through March dominate the leagues because the January 1 cutoff makes them the oldest and strongest kids in every age group. Overseas Chinese communities run retail across Southeast Asia, Lebanese merchants dominate trade in West Africa, and German immigrants once owned the American brewing industry. Same specialization repeats under completely different majorities and legal systems. Treating every disparity as automatic proof of discrimination starts with the wrong diagnosis, and the wrong diagnosis never delivers the right cure. But the fantasy that some planner can just rearrange people like chess pieces and force equal results remains one of the most stubborn fallacies in economics. Media
+
+🔗 [View original post](https://x.com/Rothmus/status/2091320021653852309)
 
 ---

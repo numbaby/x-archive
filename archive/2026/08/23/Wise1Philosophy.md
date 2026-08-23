@@ -2,7 +2,49 @@
 
 ## 📅 August 23, 2026
 
-> 65 post(s) archived.
+> 71 post(s) archived.
+
+---
+
+### 🕐 17:06 UTC · @Wise1Philosophy
+
+> I got erectile dysfunction at 40. I exercised regularly, my testosterone was normal, and I thought ED only happened to older men. Here are 8 signs I wish I didn’t ignore (&amp; how to fix it): 1. No morning wood
+
+🔗 [View original post](https://x.com/DPro_Coach/status/2091572695393816907)
+
+---
+
+### 🕐 16:50 UTC · @Wise1Philosophy
+
+> This Radiologist said : &quot;If I have cancer, I won’t go to the hospital. I’ve seen too many people die from chemo, not from cancer.&quot; 1. I’ll fast for 30 days and I’ll stop working. Media
+
+🔗 [View original post](https://x.com/_Gut_Laboratory/status/2091568665896317330)
+
+---
+
+### 🕐 16:36 UTC · @Wise1Philosophy
+
+> A former Hyatt housekeeping manager said: &quot;The minibar charges $14 for a Coke and $18 for a bag of cashews but there&apos;s a free snack and drink system most guests never learn about because nobody at the front desk mentions it.&quot; &quot;In 8 years managing housekeeping at two full-service Hyatt properties, I restocked roughly 40,000 minibars. I watched guests open the door, see the prices, close it, and walk to the lobby vending machine or the CVS across the street. Smart move. Better than paying $14 for a can of soda.&quot; &quot;But the smartest move is the one almost nobody makes, because nobody tells them it exists. Every Hyatt property I worked at had complimentary water, coffee, and tea available on request. Many had a club lounge with a full spread of free food and drinks that eligible guests walked past every single day without entering. Some had evening receptions with complimentary wine, beer, cocktails, and appetizers that could replace a $60 dinner.&quot; &quot;I watched a couple pay $63 in minibar charges over a 3-night anniversary stay while a club lounge with free champagne, cheese boards, and desserts sat 20 feet down the hallway from their room. They checked out, saw the charges, argued about them at the desk, and left frustrated. The lounge was included with their status. Nobody told them.&quot; I asked her to break down everything - what&apos;s free, what&apos;s hidden, what nobody at the front desk mentions, and every insider detail from 8 years and 40,000 minibar restocks at two Hyatt properties. Here&apos;s all of it 🧵
+
+🔗 [View original post](https://x.com/Kevincreates77/status/2091565304128434300)
+
+---
+
+### 🕐 16:20 UTC · @Wise1Philosophy
+
+> groom&apos;s fastest sprint of his life. he still lost made with Seedance 2.5 3D reference. #DreaminaAI #DreaminaSeedance25 #DreaminaAI3DContest Media
+
+🔗 [View original post](https://x.com/socialwithaayan/status/2091561235506684096)
+
+---
+
+### 🕐 16:11 UTC · @Wise1Philosophy
+
+> The entire OS of this 1980s computer was written in a single language: Lisp. This was the Lisp Machine, built to accelerate the first AI golden age before cheaper workstations and the &quot;AI Winter&quot; killed it. Was its failure a necessary sacrifice for mainstream computing?
+
+![The entire OS of this 1980s computer was written in a single language: Lisp. This was the Lisp Machine, built to accelerate the first AI golden age before cheaper workstations and the &quot;AI Winter&](../../../../assets/images/2026/08/23/2091558840034853173-1.jpg)
+
+🔗 [View original post](https://x.com/Claritysteps/status/2091558840034853173)
 
 ---
 
@@ -332,6 +374,15 @@
 ![](../../../../assets/images/2026/08/23/2091480799438680511-1.jpg)
 
 🔗 [View original post](https://x.com/apex_mentality_/status/2091480799438680511)
+
+---
+
+### 🕐 10:59 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/08/23/2091480564868227548-1.png)
+
+🔗 [View original post](https://x.com/Philosophy_p_/status/2091480564868227548)
 
 ---
 
