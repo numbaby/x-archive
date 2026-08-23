@@ -2,7 +2,27 @@
 
 ## 📅 August 23, 2026
 
-> 24 post(s) archived.
+> 27 post(s) archived.
+
+---
+
+### 🕐 22:14 UTC · @elonmusk
+
+> This chart really scares the hell out of me you can see how dramatically U.S. birth rates have fallen in just a few decades… and they’re still falling If this continues, we’re heading toward a place with far fewer children and young people, and an increasingly old population....that would be very depressing future Even if we achieve the abundance through AI, what does abundance mean if there are fewer and fewer people around to inherit the future? this is a really big problem, and it&apos;s something most people don&apos;t realize it yet and we don&apos;t really have much time until it&apos;s too late
+
+![This chart really scares the hell out of me you can see how dramatically U.S. birth rates have fallen in just a few decades… and they’re still falling If this continues, we’re heading toward a place w](../../../../assets/images/2026/08/23/2091650376365666545-1.jpg)
+
+🔗 [View original post](https://x.com/XFreeze/status/2091650376365666545)
+
+---
+
+### 🕐 21:44 UTC · @elonmusk
+
+> Reminder: Grok Build has xhigh effort, and it’s insanely powerful If you want to brute-force your way through a difficult project, just type: /effort Then switch to Extra High Effort It gives Grok 4.6 its highest reasoning and implementation effort for the really hard stuff
+
+![Reminder: Grok Build has xhigh effort, and it’s insanely powerful If you want to brute-force your way through a difficult project, just type: /effort Then switch to Extra High Effort It gives Grok 4.6](../../../../assets/images/2026/08/23/2091642814606032998-1.jpg)
+
+🔗 [View original post](https://x.com/XFreeze/status/2091642814606032998)
 
 ---
 
@@ -87,6 +107,14 @@
 > AIDS is...not what we were told in high school in the 1990s. If you had condomless sex with 100 random white women, the odds of getting HIV would be 1 in 105,000. That’s before adjusting for college and lack of injection drug use, and other factors.
 
 🔗 [View original post](https://x.com/wil_da_beast630/status/2091565066546029026)
+
+---
+
+### 🕐 15:55 UTC · @elonmusk
+
+> HOLY SH*T, I BUILT A F**KING COMPANY INSIDE GROK BOT i split the operation into separate roles for research, writing, outreach, ops, finance and support. each agent owns one narrow job 6 agents → 1 shared operation → automatic handoffs → human approval each bot keeps its own workflow and memory, then passes finished work forward instead of routing everything back through me the control layer catches anything that sends, spends, publishes or deletes and pushes it into approval before anything happens after a few runs this stops feeling like ai chat. it feels like a 24/7 operations team running behind one dashboard Media
+
+🔗 [View original post](https://x.com/gippp69/status/2091554828858069191)
 
 ---
 
