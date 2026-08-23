@@ -2,7 +2,15 @@
 
 ## 📅 August 23, 2026
 
-> 79 post(s) archived.
+> 80 post(s) archived.
+
+---
+
+### 🕐 19:57 UTC · @Wise1Philosophy
+
+> 1,000 people walk into Store A. 50 buy. 500 people walk into Store B. 100 buy. Store B looks 4x better at selling. But check how many people walked in actually looking for what the store sells. In Store A, only 250 were. 50 of them bought. In Store B, all 500 were. 100 bought. Both stores close 20% of the shoppers who showed up wanting to buy. The selling is identical. Store A just pulled in 750 people who were never buying anything. Every campaign I&apos;ve run has this math buried in it somewhere. Leads are the foot traffic. Qualified leads are the people who walked in to buy. The funnel is the rest of the store, everything between the front door and the register. Blend it all into one conversion rate and the number can&apos;t tell you which problem you have. Most teams default to rebuilding the funnel, because that&apos;s the part they control. I studied our ICPs very carefully before I even joined @heyreach_io. One of the insights unlocked our entire 2025 playbook: our buyers were already building personal brands as their own growth engine. So we made word of mouth and ambassadors the main channel. Every piece of content we ship gets one question before it goes out: does it fuel word of mouth?
+
+🔗 [View original post](https://x.com/VukConfidential/status/2091615862377881775)
 
 ---
 
