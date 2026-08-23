@@ -2,7 +2,42 @@
 
 ## 📅 August 23, 2026
 
-> 25 post(s) archived.
+> 29 post(s) archived.
+
+---
+
+### 🕐 11:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/08/23/2091488192222343481-1.jpg)
+
+🔗 [View original post](https://x.com/Daily__wisdom_/status/2091488192222343481)
+
+---
+
+### 🕐 11:15 UTC · @Wise1Philosophy
+
+> Top 10 Free AI Courses to Upgrade Your Skills. Learn from Harvard, Microsoft, Google, and more. No payment required to build skills &amp; advance career. Master AI, prompting, and automation all in one place. Here’s the full list with direct links below: [ bookmark this thread for later ]
+
+![Top 10 Free AI Courses to Upgrade Your Skills. Learn from Harvard, Microsoft, Google, and more. No payment required to build skills &amp; advance career. Master AI, prompting, and automation all in on](../../../../assets/images/2026/08/23/2091484355864784914-1.jpg)
+
+🔗 [View original post](https://x.com/AndrewBolis/status/2091484355864784914)
+
+---
+
+### 🕐 11:14 UTC · @Wise1Philosophy
+
+
+🔗 [View original post](https://x.com/charliejhills/status/2091484130290888729)
+
+---
+
+### 🕐 11:00 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/08/23/2091480799438680511-1.jpg)
+
+🔗 [View original post](https://x.com/apex_mentality_/status/2091480799438680511)
 
 ---
 
