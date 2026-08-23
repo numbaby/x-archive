@@ -2,7 +2,33 @@
 
 ## 📅 August 23, 2026
 
-> 3 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 06:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/08/23/2091412647895826510-1.jpg)
+
+🔗 [View original post](https://x.com/yeti_mind/status/2091412647895826510)
+
+---
+
+### 🕐 06:00 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/08/23/2091405217434579201-1.jpg)
+
+🔗 [View original post](https://x.com/Life__Mastery/status/2091405217434579201)
+
+---
+
+### 🕐 05:35 UTC · @Wise1Philosophy
+
+> The humanoid Olympics are back: 2,056 robots, five days of racing, fighting, football—and actual work. 🤖🏅 The 2nd World Humanoid Robot Games just opened in Beijing: 666 teams from 16 countries, competing across 51 events. Last year had just 26. The speed jump is already ridiculous. Robots are now running the 100 m in the low-9-second range, while Tien Kung Ultra reached 2.88 m in the standing high jump. But the viral sports clips aren’t what I’m watching most. This year, autonomy matters a lot more. The 400 m, 1,500 m and relays are fully autonomous, while the 21 scenario events test robots on factory work, rescue, household tasks and dexterous manipulation. Teleoperated runs only get 0.5× scoring weight. That’s the part that makes this year much more interesting than 2025. Fast running gets attention. Staying autonomous through long, messy, real-world tasks tells us much more about which robots are actually getting closer to real deployment. Media WRC 2026 isn’t even over yet, and the 2026 World Humanoid Robot Games are already here. This is the opening ceremony rehearsal, with a formation of Tien Kung robots marching straight toward me as delegation after delegation files in behind them. Honestly, watching rows of humanoi…
+
+🔗 [View original post](https://x.com/XRoboHub/status/2091399015971864972)
 
 ---
 
