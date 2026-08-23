@@ -135,35 +135,47 @@ Make sure:
 
 ---
 
-## STEP 7 — Git
+## STEP 7 — Git Git concurrency protection
 
-Before committing:
+All Git operations MUST use the repository Git lock:
 
-git pull --rebase origin main
+/home/azureuser/x-archive/.locks/git.lock
 
-Then check:
+Before Git operations, execute:
 
-git status
+mkdir -p /home/azureuser/x-archive/.locks
 
-If there are no changes:
+Use flock for all Git commands.
 
-DO NOT create a commit.
+Examples:
 
-If there are changes:
+flock -x /home/azureuser/x-archive/.locks/git.lock \
+    git pull --rebase origin main
 
-git add data archive assets
+flock -x /home/azureuser/x-archive/.locks/git.lock \
+    git add data archive assets
 
-Commit using:
+flock -x /home/azureuser/x-archive/.locks/git.lock \
+    git commit -m "archive: add @USERNAME YYYY-MM-DD posts"
 
-archive: add @USERNAME YYYY-MM-DD posts
+flock -x /home/azureuser/x-archive/.locks/git.lock \
+    git push origin main
 
-Example:
+Never use:
 
-archive: add @elonmusk 2026-08-21 posts
+git push --force
 
-Then:
+Never use:
 
-git push origin main
+git reset --hard
+
+Never delete historical archive files to resolve conflicts.
+
+If git pull --rebase encounters a conflict:
+
+STOP and report the conflict.
+Do not automatically resolve historical archive conflicts. 
+
 
 ---
 
