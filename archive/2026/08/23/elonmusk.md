@@ -2,7 +2,31 @@
 
 ## 📅 August 23, 2026
 
-> 10 post(s) archived.
+> 16 post(s) archived.
+
+---
+
+### 🕐 18:23 UTC · @elonmusk
+
+> They faced the same issues in Ancient Rome Rome handed out free grain to 40,000 citizens in 73 BC. By 46 BC, Julius Caesar found 320,000 people lining up for their monthly ration. That eight-fold expansion happened in under three decades, and it shows you how welfare states actually grow. No Roman senator stood up and ann…
+
+🔗 [View original post](https://x.com/elonmusk/status/2091592267496907239)
+
+---
+
+### 🕐 18:21 UTC · @elonmusk
+
+> Grok Bot can do amazing things! Three months later, Grok’s progress is amazing, and @bot makes it even more powerful and easier to use. This is the fidelity using the same prompt: “Explain Navier-Stokes equation and how it relates to airfoil design with actual fluid dynamics simulation.”
+
+🔗 [View original post](https://x.com/elonmusk/status/2091591712833753456)
+
+---
+
+### 🕐 16:35 UTC · @elonmusk
+
+> AIDS is...not what we were told in high school in the 1990s. If you had condomless sex with 100 random white women, the odds of getting HIV would be 1 in 105,000. That’s before adjusting for college and lack of injection drug use, and other factors.
+
+🔗 [View original post](https://x.com/wil_da_beast630/status/2091565066546029026)
 
 ---
 
@@ -13,6 +37,16 @@
 ![Starlink Stories: From the eye of a 190-mph tornado to the middle of the Indian Ocean, these innovators are using @Starlink to make the impossible a reality. &quot;Starlink is probably our most crucia](../../../../assets/images/2026/08/23/2091527932271292925-1.jpg)
 
 🔗 [View original post](https://x.com/SawyerMerritt/status/2091527932271292925)
+
+---
+
+### 🕐 11:15 UTC · @elonmusk
+
+> Starlink has around 11,040 working satellites in orbit. The next nine largest LEO constellations combined have only about 2,100. Starlink alone is more than 5x bigger than all nine combined.
+
+![Starlink has around 11,040 working satellites in orbit. The next nine largest LEO constellations combined have only about 2,100. Starlink alone is more than 5x bigger than all nine combined.](../../../../assets/images/2026/08/23/2091484490141143284-1.jpg)
+
+🔗 [View original post](https://x.com/cb_doge/status/2091484490141143284)
 
 ---
 
@@ -74,11 +108,27 @@
 
 ---
 
+### 🕐 05:28 UTC · @elonmusk
+
+> Curious about the journey from photons to the image or video on your phone? I made a video with Grok @bot, @imagine, and Voice explaining the physics and theory behind it—100% on my phone just chatting. Part I: photons to digital signal Part II: digital signal to pretty picture Pro tip for Grok @bot: Ask it to QA every single frame before handing it back. It saves QA time so you can focus on high-level direction. All technical visualization, including relinearization of the video footage from Grok @imagine to be physically accurate, is done by Grok @bot. Update: added more technical details with higher quality encoding for completion. Media
+
+🔗 [View original post](https://x.com/yunta_tsai/status/2091397023484576069)
+
+---
+
 ### 🕐 05:19 UTC · @elonmusk
 
 > we’re having debates about datacenters and China is publicly developing superhuman robot armies what the actual hell are we doing here guys china’s AI robot just hit 14.5 m/s
 
 🔗 [View original post](https://x.com/ArthurMacwaters/status/2091394815543898327)
+
+---
+
+### 🕐 01:14 UTC · @elonmusk
+
+> The Bolsheviks killed more ppl &amp; committed more acts of systematic mass murder &amp; pure horror than any other group in the 20th century. Yet it is nothing more than a footnote in our schools. We are taught that “we won the cold war,” but the truth is we were defeated from within. Media
+
+🔗 [View original post](https://x.com/ClassicLearner/status/2091333264971563501)
 
 ---
 

@@ -2,7 +2,25 @@
 
 ## 📅 August 23, 2026
 
-> 71 post(s) archived.
+> 73 post(s) archived.
+
+---
+
+### 🕐 17:46 UTC · @Wise1Philosophy
+
+> Boring B2B marketing deserves to be ignored. We built Europe’s #1 B2B agency by making content people actually wanted to watch, and video became one of our strongest tools. Here are 12 lessons for doing the same: Media
+
+🔗 [View original post](https://x.com/Tycho_luijten/status/2091582954619445471)
+
+---
+
+### 🕐 17:38 UTC · @Wise1Philosophy
+
+> Signs you have insulin resistance (&amp; don’t realize it): 1. Foam when you piss.
+
+![Signs you have insulin resistance (&amp; don’t realize it): 1. Foam when you piss.](../../../../assets/images/2026/08/23/2091580923326202167-1.jpg)
+
+🔗 [View original post](https://x.com/TheFastedState/status/2091580923326202167)
 
 ---
 
