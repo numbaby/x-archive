@@ -2,7 +2,23 @@
 
 ## 📅 August 23, 2026
 
-> 21 post(s) archived.
+> 24 post(s) archived.
+
+---
+
+### 🕐 21:44 UTC · @elonmusk
+
+> Interesting Suspect we will start to hear about a “Pareto optimal” balance of computationally efficient humans, cheaper open-source tokens and frontier tokens. Our internal AI spend @Atreidesmgmt will be roughly 100x higher in August 2026 vs. March 2026. Still roughly doubling every month. N…
+
+🔗 [View original post](https://x.com/elonmusk/status/2091642655264649324)
+
+---
+
+### 🕐 21:40 UTC · @elonmusk
+
+> I’ve been warning about this for years people don’t realize this, but 2026 appears to be the first year in human history where humanity as a whole is below replacement fertility. this has never happened before. not during wars. not during pandemics. for the first time in human history, we are not producing enough chil…
+
+🔗 [View original post](https://x.com/elonmusk/status/2091641789400993848)
 
 ---
 
@@ -53,6 +69,16 @@
 ![LinkedIn users have been editing their work histories to add &quot;AI&quot; and remove &quot;DEI&quot;.](../../../../assets/images/2026/08/23/2091591334570397979-1.jpg)
 
 🔗 [View original post](https://x.com/paulg/status/2091591334570397979)
+
+---
+
+### 🕐 17:09 UTC · @elonmusk
+
+> Hi friends! Going to walk through Grok Bot for GTM this week, come join and we can chat about our @bot teams: https://luma.com/wb8mrs0g
+
+![Hi friends! Going to walk through Grok Bot for GTM this week, come join and we can chat about our @bot teams: https://luma.com/wb8mrs0g](../../../../assets/images/2026/08/23/2091573453409472513-1.jpg)
+
+🔗 [View original post](https://x.com/kristaletz/status/2091573453409472513)
 
 ---
 
