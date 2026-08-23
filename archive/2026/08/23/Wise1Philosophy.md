@@ -2,7 +2,67 @@
 
 ## 📅 August 23, 2026
 
-> 45 post(s) archived.
+> 53 post(s) archived.
+
+---
+
+### 🕐 15:06 UTC · @Wise1Philosophy
+
+> 9 LESSONS FROM HISTORY&apos;S WISEST MEN: 1. Marcus Aurelius &quot;You cannot control what happens to you, only how you choose to respond.&quot;
+
+🔗 [View original post](https://x.com/BeBetterMan_/status/2091542722071216501)
+
+---
+
+### 🕐 14:58 UTC · @Wise1Philosophy
+
+> Me opening the invoice after saying “one more render” 12 times: 😶Seedance 2.5 is having its moment. But most of my production work runs on Seedance 2.0. Both 2.0 &amp; 2.0 Fast: lowest price anywhere, only on Dreamina. From $0.026/sec — up to 76% less than other platforms. Okay… maybe two more. Try it here： https://dreamina.capcut.com/ai-tool/home/?need_login=true&amp;utm_medium=social&amp;utm_source=x&amp;utm_campaign=seedance2price #Dreamina #DreaminaPartner
+
+![Me opening the invoice after saying “one more render” 12 times: 😶Seedance 2.5 is having its moment. But most of my production work runs on Seedance 2.0. Both 2.0 &amp; 2.0 Fast: lowest price anywhere,](../../../../assets/images/2026/08/23/2091540467762794992-1.jpg)
+
+🔗 [View original post](https://x.com/Rixhabh__/status/2091540467762794992)
+
+---
+
+### 🕐 14:37 UTC · @Wise1Philosophy
+
+> AI anime production is getting powerful. GPT Image 2 created the entire storyboard from one prompt. Then Seedance 2.0 turned it into a cinematic anime scene. Step by step tutorial with prompts: 👇 Media
+
+🔗 [View original post](https://x.com/HeyAbhishek/status/2091535222752108960)
+
+---
+
+### 🕐 14:33 UTC · @Wise1Philosophy
+
+> Work smarter, save time, boost productivity, nine features across Pro and Free tiers. Custom Instructions: Pro sets preferences once for better, more relevant answers, Free works in every chat without extra setup. Artifacts (interactive outputs): Pro creates documents, code, charts, and designs you can edit directly inside Claude, Free lets you view and use artifacts in chat. Long Context Understanding: Pro analyzes huge files, PDFs, and long documents with ease, Free handles long conversations smoothly. Advanced Data Analysis: Pro analyzes, visualizes, and extracts insights from complex datasets, Free gets summaries and key takeaways quickly. Web Search Integration (real-time, up to date): Pro gets the latest information from the web, Free gives smart answers with sources. Voice Input (mobile): Pro lets you chat by voice on mobile, Free is available on the Claude mobile app. Projects (organize better): Pro organizes chats, files, and instructions in one place, Free lets you access and continue anytime. Smart Summary Mode: Pro summarizes articles, reports, and lengthy docs in seconds, Free is perfect for quick overviews. Code Explainer &amp; Generator (built-in coding assistant): Pro writes, debugs, and explains code in multiple languages, Free gets you help with code anytime. Pro tips: be specific for better results, combine features for pro-level output, use Artifacts for content that stands out, and keep your projects organized. Follow Mr. Claude for more Claude tips &amp; tricks.
+
+![Work smarter, save time, boost productivity, nine features across Pro and Free tiers. Custom Instructions: Pro sets preferences once for better, more relevant answers, Free works in every chat without](../../../../assets/images/2026/08/23/2091534313674489899-1.jpg)
+
+🔗 [View original post](https://x.com/claudeskills101/status/2091534313674489899)
+
+---
+
+### 🕐 14:28 UTC · @Wise1Philosophy
+
+> Claude Code just shipped three updates. None of them need installing (they&apos;re already on your machine). 1. Sessions can talk to each other ↳ @ a session by name, same as tagging a person 2. /design ↳ editable artboards on a canvas, inside Claude Code 3. Concise output style ↳ /config, output style, concise I ran one real job through all three, four terminals arguing with each other, and filmed the whole thing. My free Claude Code guide, 10 minutes and you&apos;ll know 80% of it → http://charliehills.substack.com/p/give-me-10-minutes-ill-teach-you Repost ♻️ to help someone in your network. Media
+
+🔗 [View original post](https://x.com/charliejhills/status/2091533151076311432)
+
+---
+
+### 🕐 14:25 UTC · @Wise1Philosophy
+
+> Fasting 96 hours literally causes your body to eat up diseased tissues, tumors, inflammation and toxins that hurt your longevity. I just started my fast for 4 days. Here’s exactly what I did from Day 0 to Day 4:
+
+🔗 [View original post](https://x.com/CoachDanCole_/status/2091532260461904207)
+
+---
+
+### 🕐 14:19 UTC · @Wise1Philosophy
+
+> PwC&apos;s mid-2026 outlook calls what&apos;s happening to software deals a &quot;SaaS-pocalypse.&quot; A SaaS company charging $50/seat/month for workflow automation was worth 8-12x revenue when buyers believed switching costs would protect that revenue for five to seven years. Then an AI agent showed up that does 80% of the same work for $200/month flat, no annual contract, no six-month implementation. Once buyers saw the alternative, they stopped paying the premium. I sat across from a PE operating partner last quarter evaluating a compliance software acquisition. ARR looked strong, net retention above 110%. Traditional diligence said buy. We opened the product. The core workflow ran on hardcoded decision trees with no learning loop and no defensible technical layer. Two engineers with Claude and eight weeks could rebuild it. He killed the deal. The moat was gone. The diligence question used to be &quot;does this company use AI?&quot; Now it&apos;s &quot;can AI replace this company&apos;s product?&quot; I keep seeing two patterns across the portfolio companies we assess. Companies that bolted AI onto existing products. They added a chatbot to the support page and put &quot;AI-powered&quot; on the website, but the core product architecture didn&apos;t change. These companies face the most risk because the AI is cosmetic and the underlying product is replaceable. Companies that rebuilt around AI. They trained models on proprietary data and built feedback loops that compound domain knowledge with each customer interaction. Their moat gets deeper every month they operate. PwC&apos;s data confirms the split. Fundraising dollars rose 9% in H1 2026 even though fewer funds closed. Top managers, the ones who can tell which portfolio companies fall in group two, raised capital fast. The rest sat through skeptical investor committees and extended timelines. We&apos;ve done enough pre-acquisition technical assessments to know the tells: thin-wrapper architecture and model pipelines that live in one engineer&apos;s head. Those tells separate a defensible AI company from one that happens to call an API. Healthcare has been the most resilient PE sector this year, with financial services and compliance close behind. All three share one characteristic: compliance requirements make it harder for generic AI to compete without domain-specific engineering. That&apos;s where we spend most of our time. PE firms bring us in to assess whether a target&apos;s AI is structural or decorative, then we build the engineering capability that turns decorative into defensible. A third of the software market is already living the SaaS-pocalypse. The other two-thirds will face it when an AI-native competitor launches in their category. If you&apos;re a PE operating partner looking at your portfolio, you need to know which group your companies belong to and whether you&apos;ll find out before or after the next valuation round.
+
+🔗 [View original post](https://x.com/mardehaym/status/2091530652407517607)
 
 ---
 
@@ -13,6 +73,16 @@
 ![I share a lot more content on instagram ❣️ Follow for more: https://instagram.com/alex_prompter](../../../../assets/images/2026/08/23/2091529644612649289-1.jpg)
 
 🔗 [View original post](https://x.com/alex_prompter/status/2091529644612649289)
+
+---
+
+### 🕐 14:13 UTC · @Wise1Philosophy
+
+> VERSIONES PAGADAS vs VERSIONES GRATIS. NO PAGUES por Netflix, usa Flixio NO PAGUES por Apple TV, usa Streamly NO PAGUES por Spotify, usa Lyra NO PAGUES por Hulu, usa ShowZone NO PAGUES por Apple Music, usa ESound NO PAGUES por Disney+, usa Netmirror NO PAGUES por Peacock, usa GlitchTV NO PAGUES por HBO Max, usa Moviebox NO PAGUES por Paramount+, usa EpicFlix NO PAGUES por YouTube Premium, usa Brave browser (🔖GUARDA ESTO PARA MÁS TARDE)
+
+![VERSIONES PAGADAS vs VERSIONES GRATIS. NO PAGUES por Netflix, usa Flixio NO PAGUES por Apple TV, usa Streamly NO PAGUES por Spotify, usa Lyra NO PAGUES por Hulu, usa ShowZone NO PAGUES por Apple Music](../../../../assets/images/2026/08/23/2091529366341906436-1.jpg)
+
+🔗 [View original post](https://x.com/Alex_Inspira/status/2091529366341906436)
 
 ---
 
