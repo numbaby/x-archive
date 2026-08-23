@@ -2,7 +2,16 @@
 
 ## 📅 August 23, 2026
 
-> 29 post(s) archived.
+> 31 post(s) archived.
+
+---
+
+### 🕐 12:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/08/23/2091503321764839817-1.jpg)
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2091503321764839817)
 
 ---
 
@@ -206,6 +215,14 @@
 ![](../../../../assets/images/2026/08/23/2091412647895826510-1.jpg)
 
 🔗 [View original post](https://x.com/yeti_mind/status/2091412647895826510)
+
+---
+
+### 🕐 06:25 UTC · @Wise1Philosophy
+
+> Email marketing is having a real shift. Instead of jumping between dashboards, I can now work with my Omnisend account directly inside Claude or ChatGPT. Ask AI to analyze live performance, find revenue opportunities, review automations, build campaigns, and generate editable emails—all from a natural conversation. One feature I really appreciate is granular permissions. You decide exactly what the AI can access, including read-only mode when you only want insights without making changes. Another recent change caught my attention: Klaviyo has increased its SMS pricing, while Omnisend recently lowered its SMS prices. It&apos;s an interesting contrast in how the two platforms are approaching their customers. If you&apos;re thinking about switching, Omnisend also offers free migration in as little as 5 days, helping move your setup with minimal hassle so you can get started faster. This doesn&apos;t feel like another AI chatbot added to a SaaS. It feels like the SaaS itself has moved into AI. If you&apos;re already using Claude or ChatGPT, Omnisend MCP is definitely worth exploring: 🔗 Connect Omnisend with Claude or ChatGPT: https://your.omnisend.com/PzWPaM @Omnisend #Omnisend Media
+
+🔗 [View original post](https://x.com/iam_chonchol/status/2091411595117432909)
 
 ---
 

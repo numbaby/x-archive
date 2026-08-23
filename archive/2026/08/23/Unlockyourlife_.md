@@ -2,7 +2,93 @@
 
 ## 📅 August 23, 2026
 
-> 14 post(s) archived.
+> 23 post(s) archived.
+
+---
+
+### 🕐 12:56 UTC · @Unlockyourlife_
+
+> Back exercise, with the hand/forearm gripping and stabilizing the weight. Media
+
+🔗 [View original post](https://x.com/_alphafit/status/2091510002888441952)
+
+---
+
+### 🕐 12:46 UTC · @Unlockyourlife_
+
+> Leg day hit different today. 🦵🔥 Pure burner for the quads, hamstrings, and glutes. Media
+
+🔗 [View original post](https://x.com/BioLifex/status/2091507411873849763)
+
+---
+
+### 🕐 12:13 UTC · @Unlockyourlife_
+
+> 7. Swimming
+
+![7. Swimming](../../../../assets/images/2026/08/23/2091499034531778983-1.jpg)
+
+🔗 [View original post](https://x.com/_fitnesshub/status/2091499034531778983)
+
+---
+
+### 🕐 12:13 UTC · @Unlockyourlife_
+
+> 6. Cycling fast
+
+![6. Cycling fast](../../../../assets/images/2026/08/23/2091499017498656846-1.jpg)
+
+🔗 [View original post](https://x.com/_fitnesshub/status/2091499017498656846)
+
+---
+
+### 🕐 12:13 UTC · @Unlockyourlife_
+
+> 5. Boxing
+
+![5. Boxing](../../../../assets/images/2026/08/23/2091499002659316089-1.jpg)
+
+🔗 [View original post](https://x.com/_fitnesshub/status/2091499002659316089)
+
+---
+
+### 🕐 12:13 UTC · @Unlockyourlife_
+
+> 4. Weight training
+
+![4. Weight training](../../../../assets/images/2026/08/23/2091498985236070476-1.jpg)
+
+🔗 [View original post](https://x.com/_fitnesshub/status/2091498985236070476)
+
+---
+
+### 🕐 12:13 UTC · @Unlockyourlife_
+
+> 3. Tennis
+
+![3. Tennis](../../../../assets/images/2026/08/23/2091498970048496089-1.jpg)
+
+🔗 [View original post](https://x.com/_fitnesshub/status/2091498970048496089)
+
+---
+
+### 🕐 12:13 UTC · @Unlockyourlife_
+
+> 2. Walking Brisk
+
+![2. Walking Brisk](../../../../assets/images/2026/08/23/2091498956794519873-1.jpg)
+
+🔗 [View original post](https://x.com/_fitnesshub/status/2091498956794519873)
+
+---
+
+### 🕐 12:13 UTC · @Unlockyourlife_
+
+> Not every workout burns calories the same way, and the gap is bigger than most people think. Which Workout Burns The Most Calories? 1. Running
+
+![Not every workout burns calories the same way, and the gap is bigger than most people think. Which Workout Burns The Most Calories? 1. Running](../../../../assets/images/2026/08/23/2091498942416523579-1.jpg)
+
+🔗 [View original post](https://x.com/_fitnesshub/status/2091498942416523579)
 
 ---
 
