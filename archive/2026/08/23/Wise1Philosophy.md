@@ -2,7 +2,95 @@
 
 ## 📅 August 23, 2026
 
-> 53 post(s) archived.
+> 65 post(s) archived.
+
+---
+
+### 🕐 16:09 UTC · @Wise1Philosophy
+
+> Babies who get skin contact with father in the 1st hour after birth experience a 176% rise in oxytocin, cry 43% less &amp; sleep 2x longer. Which improves brain development and helps program the newborn&apos;s nervous system to manage stress more effectively in the future. Here&apos;s why..
+
+![Babies who get skin contact with father in the 1st hour after birth experience a 176% rise in oxytocin, cry 43% less &amp; sleep 2x longer. Which improves brain development and helps program the newbo](../../../../assets/images/2026/08/23/2091558443098489323-1.jpg)
+
+🔗 [View original post](https://x.com/scotti_brooks/status/2091558443098489323)
+
+---
+
+### 🕐 16:05 UTC · @Wise1Philosophy
+
+> It is no secret that super bowl ads are the most expensive ads a company can purchase. You get 100s of millions of people to see them, but is it worth it though? @contentrewards just ran a campaign that outperformed Super Bowl&apos;s ads for a fraction of the cost They generated: &gt; 177.6 million views &gt; 700K followers CPM-wise, their campaign was at 0.4% of the cost of the Super Bowl If you are a company looking to invest in creator marketing, what more proof do you need? Streamer University introduced the Class of ’26. Content Rewards made sure the internet knew their names. 700K followers gained. 177.6M views.
+
+🔗 [View original post](https://x.com/DataChaz/status/2091557470011290069)
+
+---
+
+### 🕐 16:03 UTC · @Wise1Philosophy
+
+> 25 THINGS THAT WILL CHANGE YOUR BODY IF YOU START THEM IN SEPTEMBER. 1. Water only
+
+![25 THINGS THAT WILL CHANGE YOUR BODY IF YOU START THEM IN SEPTEMBER. 1. Water only](../../../../assets/images/2026/08/23/2091556929718141184-1.jpg)
+
+🔗 [View original post](https://x.com/Manifest_Lord/status/2091556929718141184)
+
+---
+
+### 🕐 15:51 UTC · @Wise1Philosophy
+
+> Google is now literally telling businesses specifically how to get traffic from AI Search. Yes, directly within Google Search Console. It&apos;s probably one of the most important marketing updates of 2026. Let’s go through it. By the way, you can see whether your business is appearing across Google AI, ChatGPT, Claude, Perplexity and Grok here (it&apos;s free): https://seo-stuff.com/free-audit Recently Google launched a new Generative AI performance report inside Search Console. At first, it looked like a very limited rollout, but now more and more site owners are seeing it. John Mueller also confirmed that Google is rolling it out incrementally and reviewing feedback along the way. So if you do not see it yet, give it a few days, but the direction is pretty clear. AI Search visibility is becoming something businesses can actually measure, and this report shows how often URLs from your site appear in Google’s generative AI features. Yes, that includes AI Overviews and AI Mode. It can also show which pages appeared, which countries the impressions came from, which devices people were using and how performance changed over time. That matters a lot, because until now, a lot of AI Search tracking has been messy. It has featured a lot of screenshots, manual prompt testing, third party tools, guessing from referral traffic, watching ChatGPT, Perplexity, Claude, Grok and Google manually to see whether your brand appears, etc. Now Google is giving site owners a direct view into whether their pages are appearing inside Google’s own AI features. There is one big limitation, though: this is impression data as opposed to clicks data. Google is showing whether your site appeared inside generative AI features, but it is not yet showing how many people clicked from those AI features to your site. This is where SEO Stuff (http://seo-stuff.com) can help. A business can be visible in AI Search and still see fewer clicks than it used to get from traditional search. At the same time, a business can also be completely missing from AI Search and not realize competitors are being shown instead. If your AI impressions are high but clicks are weak, the issue may be the way Google is satisfying the search before the user visits your site. If your AI impressions are low, the issue may be that Google does not understand, trust or retrieve your pages for the questions customers are asking. If only your informational pages appear, but your product, service, pricing, comparison and case study pages do not, that tells you something. If one country shows AI visibility and another does not, that tells you something. If a few pages get most of the AI impressions, that tells you something. This is why the report is such a big deal, and it gives businesses a starting point so you can finally ask better questions. Which pages are showing up in AI Overviews? Which pages are showing up in AI Mode? Which countries are seeing the brand? Which devices are seeing the brand? Which parts of the buying journey are missing? Which content is actually being used by Google’s AI systems? That last question is the one most businesses should care about, and it is the one SEO Stuff solves for brands on a daily basis: https://seo-stuff.com/gold-plan-package A customer can ask a long, complicated question and Google can break that question into several related searches behind the scenes. That means the same business may need useful content around problems, use cases, comparisons, pricing, alternatives, industries, objections, case studies, product details and implementation. One generic service page probably will not cover all of that. A brand with useful content across the full buying journey has more chances to be discovered. Google’s new report will make that easier to see. And this also lines up with what Google just said in its “Good SEO is good GEO” piece. (See my post from yesterday if you missed it.) Google said its generative AI features are rooted in the same core ranking and quality systems as traditional Search. AI Mode and AI Overviews retrieve up-to-date content from Google’s existing search index. So the businesses that want AI visibility still need the same boring foundation: crawlable content, useful pages, clear product information, real expertise, entity clarity, authority, third party validation, etc. That is where SEO Stuff (http://seo-stuff.com) comes in. The done-for-you package combines 10 AI-search-optimized articles with three DR50+ authority placements: https://seo-stuff.com/gold-plan-package The content helps your business cover the questions customers ask before buying, including problems, use cases, comparisons, pricing, alternatives, industries, objections, case studies, product details and implementation. The authority placements help your business show up across trusted sources that search and AI systems use to understand categories. Google is starting to show businesses whether they are appearing in AI Search. Once something becomes a report, it becomes something clients, founders, CMOs and competitors start paying attention to. If you want to see whether your business is already being cited, understood and recommended across Google AI, ChatGPT, Claude, Perplexity and Grok, check here: https://seo-stuff.com/free-audit An analysis of 129,000 websites, 216,524 pages and 100,000 prompts determined the #1 secret to getting traffic from ChatGPT. It busts a lot of myths and lines up closely with what we’ve learned about how AI search systems retrieve, evaluate and reuse information. It also aligns w…
+
+![Google is now literally telling businesses specifically how to get traffic from AI Search. Yes, directly within Google Search Console. It&apos;s probably one of the most important marketing updates of](../../../../assets/images/2026/08/23/2091554033949626719-1.jpg)
+
+🔗 [View original post](https://x.com/alexgroberman/status/2091554033949626719)
+
+---
+
+### 🕐 15:47 UTC · @Wise1Philosophy
+
+> A guy paid $100/year for Microsoft 365 Personal. He used Word to write documents. Excel to track his budget. PowerPoint to make presentations for his side business. Three apps. $100/year. He&apos;d been paying since 2016. $800 total across 8 years. His coworker told him something that made him set his coffee down. &quot;Word, Excel, and PowerPoint are free. They&apos;ve been free online since 2010. You go to microsoft365 com, sign in with a free Microsoft account, and open Word, Excel, and PowerPoint in your browser. Full editing. Real-time collaboration. Auto-save to OneDrive. No subscription. No download. No install. Free.&quot; He stared at her. &quot;Since 2010?&quot; &quot;Since 2010. And Google has offered Docs, Sheets, and Slides for free since 2006. You&apos;ve had 2 completely free office suites available to you for over a decade. You&apos;ve been paying $100/year for 8 years for software you could have used at $0 from both companies since before you graduated college.&quot; She showed him 11 free tools from Google and Microsoft that most people are either paying for separately or have never opened starting with the Office apps he&apos;s been subscribing to since the year he got his first apartment. Here&apos;s the full playbook 🧵
+
+🔗 [View original post](https://x.com/jackcoder0/status/2091553021742494024)
+
+---
+
+### 🕐 15:39 UTC · @Wise1Philosophy
+
+> An incredible 1-vs-3 race in China: Tienkung beats three opponents to win the 400m final in 38.15s. Media
+
+🔗 [View original post](https://x.com/thetripathi58/status/2091551016236027973)
+
+---
+
+### 🕐 15:39 UTC · @Wise1Philosophy
+
+> A robot scoring a free kick is cool, but hitting the &quot;SIUUU&quot; right after is just legendary. Media
+
+🔗 [View original post](https://x.com/aibytekat/status/2091550977908527276)
+
+---
+
+### 🕐 15:39 UTC · @Wise1Philosophy
+
+> An incredible sight in Beijing as 80 Booster T2 humanoid robots marched and ran in perfect sync to open the 2026 World Humanoid Robot Games. Media
+
+🔗 [View original post](https://x.com/AIPandaX/status/2091550933285282035)
+
+---
+
+### 🕐 15:35 UTC · @Wise1Philosophy
+
+> Prompt → render → publish → repeat. The workflow is simple. The cost should be too. Seedance 2.5 is having its moment. But most of my production work runs on Seedance 2.0. Both 2.0 &amp; 2.0 Fast: lowest price anywhere, only on Dreamina. From $0.026/sec — up to 76% less than other platforms. Back to making： https://dreamina.capcut.com/ai-tool/home/?need_login=true&amp;utm_medium=social&amp;utm_source=x&amp;utm_campaign=seedance2price #Dreamina #DreaminaPartner
+
+![Prompt → render → publish → repeat. The workflow is simple. The cost should be too. Seedance 2.5 is having its moment. But most of my production work runs on Seedance 2.0. Both 2.0 &amp; 2.0 Fast: low](../../../../assets/images/2026/08/23/2091550011465355352-1.jpg)
+
+🔗 [View original post](https://x.com/Damn_coder/status/2091550011465355352)
+
+---
+
+### 🕐 15:27 UTC · @Wise1Philosophy
+
+> Everyone should have a digital business that makes at least $10k/month. Sadly, most overthink, never act, and waste years. These kids just drop the exact playbook and platform for anyone to go from $0 to $40k/month while working full-time. Their creators got more 40X reach than the Super Bowl for 0.4% of the cost. Wild time for creators. Take 60 min today and check out @contentrewards.👇 Streamer University introduced the Class of ’26. Content Rewards made sure the internet knew their names. 700K followers gained. 177.6M views.
+
+🔗 [View original post](https://x.com/GeniusGTX/status/2091547855484047830)
 
 ---
 
@@ -55,6 +143,16 @@
 > Fasting 96 hours literally causes your body to eat up diseased tissues, tumors, inflammation and toxins that hurt your longevity. I just started my fast for 4 days. Here’s exactly what I did from Day 0 to Day 4:
 
 🔗 [View original post](https://x.com/CoachDanCole_/status/2091532260461904207)
+
+---
+
+### 🕐 14:20 UTC · @Wise1Philosophy
+
+> 🚨 SELLING: blog doing $1,772/month + Method blog got 50k pageviews in last 30 days and highest bidder would take it. people are paying $15,000 for a spot on a bidding leaderboard. thought some would be more interested in a business that makes $5,000 to $10,000 month on autopilot. Highest bidder gets: → The blog → The method → My support to scale it to other blogs Reply with your BEST bid. (this is only for those who got the money and interest in blogs)
+
+![🚨 SELLING: blog doing $1,772/month + Method blog got 50k pageviews in last 30 days and highest bidder would take it. people are paying $15,000 for a spot on a bidding leaderboard. thought some would b](../../../../assets/images/2026/08/23/2091531132915626349-1.jpg)
+
+🔗 [View original post](https://x.com/ThebilalSEO/status/2091531132915626349)
 
 ---
 
@@ -155,6 +253,14 @@
 ![After going through the worst heartbreak of my life... Here are 12 things I&apos;d tell someone who just got their heart broken:](../../../../assets/images/2026/08/23/2091513341298749857-1.jpg)
 
 🔗 [View original post](https://x.com/MindPatternHQ/status/2091513341298749857)
+
+---
+
+### 🕐 13:04 UTC · @Wise1Philosophy
+
+> 🚨BREAKING: Claude can now build a instagram page from scratch — and hit monetization in just 90 days. Media
+
+🔗 [View original post](https://x.com/mikakilpelaine1/status/2091512009359810808)
 
 ---
 
