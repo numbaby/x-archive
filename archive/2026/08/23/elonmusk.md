@@ -2,7 +2,37 @@
 
 ## 📅 August 23, 2026
 
-> 24 post(s) archived.
+> 29 post(s) archived.
+
+---
+
+### 🕐 23:33 UTC · @elonmusk
+
+> California has officially signed the “Stop Nick Shirley Act” (AB 2624) into law. This bill was created only after I exposed widespread fraud in immigrant communities across America, specifically in California’s Medicaid, nonprofits and other welfare programs funded by our tax dollars. These politicians need the fraud to continue and they sadly use immigrants to do so often. They fund nonprofits and NGOs with hundreds of millions of taxpayer dollars every year for immigration services, including free healthcare and have now made “immigration support service providers” essentially a protected class in California. For example, if I film a hospice or a “learing center” with no patients receiving millions through Medicaid and the owner gives me a paper saying I cannot publish the video, I cannot publish it. If I publish it to expose them and they claim it caused them “fear” or a third party threatens them, I face a minimum $4,000 civil fine plus the legal fees of the individual or group suing me. This bill was created by the Attorney General’s wife and co-sponsored by CHIRLA, a nonprofit that has received over $80,000,000 in taxpayer dollars for “immigrant support services.” Do you understand how this works yet? When the fraud is exposed, they create new laws to protect the fraudsters and penalize those who expose it. By signing this bill, the Governor and California politicians expose themselves as the corrupt politicians they are. This is not the end, the fight has just begun. More to come soon, this is far from over.
+
+![California has officially signed the “Stop Nick Shirley Act” (AB 2624) into law. This bill was created only after I exposed widespread fraud in immigrant communities across America, specifically in Ca](../../../../assets/images/2026/08/23/2091670169789886554-1.jpg)
+
+🔗 [View original post](https://x.com/nickshirleyy/status/2091670169789886554)
+
+---
+
+### 🕐 22:14 UTC · @elonmusk
+
+> This chart really scares the hell out of me you can see how dramatically U.S. birth rates have fallen in just a few decades… and they’re still falling If this continues, we’re heading toward a place with far fewer children and young people, and an increasingly old population....that would be very depressing future Even if we achieve the abundance through AI, what does abundance mean if there are fewer and fewer people around to inherit the future? this is a really big problem, and it&apos;s something most people don&apos;t realize it yet and we don&apos;t really have much time until it&apos;s too late
+
+![This chart really scares the hell out of me you can see how dramatically U.S. birth rates have fallen in just a few decades… and they’re still falling If this continues, we’re heading toward a place w](../../../../assets/images/2026/08/23/2091650376365666545-1.jpg)
+
+🔗 [View original post](https://x.com/XFreeze/status/2091650376365666545)
+
+---
+
+### 🕐 21:44 UTC · @elonmusk
+
+> Reminder: Grok Build has xhigh effort, and it’s insanely powerful If you want to brute-force your way through a difficult project, just type: /effort Then switch to Extra High Effort It gives Grok 4.6 its highest reasoning and implementation effort for the really hard stuff
+
+![Reminder: Grok Build has xhigh effort, and it’s insanely powerful If you want to brute-force your way through a difficult project, just type: /effort Then switch to Extra High Effort It gives Grok 4.6](../../../../assets/images/2026/08/23/2091642814606032998-1.jpg)
+
+🔗 [View original post](https://x.com/XFreeze/status/2091642814606032998)
 
 ---
 
@@ -87,6 +117,14 @@
 > AIDS is...not what we were told in high school in the 1990s. If you had condomless sex with 100 random white women, the odds of getting HIV would be 1 in 105,000. That’s before adjusting for college and lack of injection drug use, and other factors.
 
 🔗 [View original post](https://x.com/wil_da_beast630/status/2091565066546029026)
+
+---
+
+### 🕐 15:55 UTC · @elonmusk
+
+> HOLY SH*T, I BUILT A F**KING COMPANY INSIDE GROK BOT i split the operation into separate roles for research, writing, outreach, ops, finance and support. each agent owns one narrow job 6 agents → 1 shared operation → automatic handoffs → human approval each bot keeps its own workflow and memory, then passes finished work forward instead of routing everything back through me the control layer catches anything that sends, spends, publishes or deletes and pushes it into approval before anything happens after a few runs this stops feeling like ai chat. it feels like a 24/7 operations team running behind one dashboard Media
+
+🔗 [View original post](https://x.com/gippp69/status/2091554828858069191)
 
 ---
 
@@ -181,6 +219,14 @@
 > we’re having debates about datacenters and China is publicly developing superhuman robot armies what the actual hell are we doing here guys china’s AI robot just hit 14.5 m/s
 
 🔗 [View original post](https://x.com/ArthurMacwaters/status/2091394815543898327)
+
+---
+
+### 🕐 02:32 UTC · @elonmusk
+
+> Elon Musk described the mechanism that lets millions of intelligent people arrive at the same conclusion without a single independent input between them. Musk: “If your entire exposure is to legacy mainstream media, so that all your information sources are that Trump is basically Hitler, and your friend group has that same information, you have no countervailing opinion.” One source, repeated back by a friend group drawing on that same source, is a single input arriving twelve times. Agreement gets counted as evidence. A belief that has never met resistance feels, from the inside, identical to one that survived it. That is why almost nobody catches it in themselves. Musk: “Then they actually just think Trump is Hitler, even though it’s a little strange he didn’t do Hitler things the last four years.” The comparison had four years of executive power to prove itself and produced nothing. The belief held anyway. Any description of a person that survives the total absence of supporting events was never built on events. Then the same apparatus turned on the man saying it. He spent a decade celebrated as the builder of the electric car company and the rocket company that put American astronauts back in orbit from American soil. The engineering never changed. His politics did, and the coverage inverted inside a single news cycle. Output was never the variable being measured. No conspiracy is required. Outrage outperforms accuracy on every number a newsroom is graded on. Thousands of people chasing one incentive produce coordination nobody had to organize. The arrangement collapsed when the layer between the source and the reader disappeared. The person who was in the room posts it, and the correction comes from someone else who was in the room. It is louder, uglier, and far more honest. Contradiction now arrives whether you invite it or not. Even the owner of the platform gets corrected on his own posts by his own product. For most of the last century a few dozen editors decided what an entire country believed had happened that day. People accepted it as the natural order because no alternative had ever existed to measure it against. Every civilization inherits its picture of reality from whoever controls the distance between an event and the people who hear about it. That distance is now close to zero for the first time in human history. The filter is gone and it cannot be rebuilt. What you believe is finally yours. Media
+
+🔗 [View original post](https://x.com/r0ck3t23/status/2091352963600060888)
 
 ---
 
