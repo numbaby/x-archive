@@ -135,46 +135,42 @@ Make sure:
 
 ---
 
-## STEP 7 — Git Git concurrency protection
+## STEP 7 — Git Main-Branch-Only Commit and Push
 
-All Git operations MUST use the repository Git lock:
+The `x-archive` repository is a MAIN-BRANCH-ONLY repository.
 
-/home/azureuser/x-archive/.locks/git.lock
+Repository:
 
-Before Git operations, execute:
+/home/azureuser/x-archive
 
-mkdir -p /home/azureuser/x-archive/.locks
+GitHub remote:
 
-Use flock for all Git commands.
+origin
 
-Examples:
+Required local branch:
 
-flock -x /home/azureuser/x-archive/.locks/git.lock \
-    git pull --rebase origin main
+main
 
-flock -x /home/azureuser/x-archive/.locks/git.lock \
-    git add data archive assets
+Required remote branch:
 
-flock -x /home/azureuser/x-archive/.locks/git.lock \
-    git commit -m "archive: add @USERNAME YYYY-MM-DD posts"
+origin/main
 
-flock -x /home/azureuser/x-archive/.locks/git.lock \
-    git push origin main
+The Agent MUST commit archive changes directly to `main` and push
+directly to `origin/main`.
 
-Never use:
+This repository MUST NOT use a feature-branch, agent-branch,
+Pull Request, or merge workflow.
 
-git push --force
+---
 
-Never use:
+### 7.1 MAIN BRANCH IS MANDATORY
 
-git reset --hard
+Before performing ANY Git operation, verify the current branch:
 
-Never delete historical archive files to resolve conflicts.
+```bash
+cd /home/azureuser/x-archive
 
-If git pull --rebase encounters a conflict:
-
-STOP and report the conflict.
-Do not automatically resolve historical archive conflicts. 
+git branch --show-current
 
 
 ---
