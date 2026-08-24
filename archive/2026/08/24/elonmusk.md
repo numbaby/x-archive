@@ -2,7 +2,43 @@
 
 ## 📅 August 24, 2026
 
-> 14 post(s) archived.
+> 19 post(s) archived.
+
+---
+
+### 🕐 19:16 UTC · @elonmusk
+
+> Grok Bot makes clipping YouTube podcasts ridiculously easy. I just send it a link and say: “Cut from 16:43 to 18:17.” A few minutes later, the exact HD clip is ready in the chat. My Clipper bot has already sent it to my Researcher and Writer bots, which pull the best quotes and prepare the caption. I didn’t code any of this. I literally just logged into my Google account on Grok Bot and asked it to clip a YouTube video. I’ve wanted this for years: tell an AI which part of a podcast you want, and it automatically cuts the HD clip, transcribes it, and starts preparing the post. Grok Bot makes workflows like this incredibly simple for a non-coder.
+
+![Grok Bot makes clipping YouTube podcasts ridiculously easy. I just send it a link and say: “Cut from 16:43 to 18:17.” A few minutes later, the exact HD clip is ready in the chat. My Clipper bot has al](../../../../assets/images/2026/08/24/2091968024370897102-1.jpg)
+
+🔗 [View original post](https://x.com/KanekoaTheGreat/status/2091968024370897102)
+
+---
+
+### 🕐 18:59 UTC · @elonmusk
+
+> NASA’s Roman Space Telescope was encapsulated into Falcon Heavy’s fairing this past week ahead of launch on Sunday, August 30 from pad 39A in Florida → https://spacex.com/launches/roman
+
+![NASA’s Roman Space Telescope was encapsulated into Falcon Heavy’s fairing this past week ahead of launch on Sunday, August 30 from pad 39A in Florida → https://spacex.com/launches/roman](../../../../assets/images/2026/08/24/2091963575296262434-1.jpg)
+
+🔗 [View original post](https://x.com/SpaceX/status/2091963575296262434)
+
+---
+
+### 🕐 18:49 UTC · @elonmusk
+
+> Everyone’s against eugenics until they roll up to the sperm bank.
+
+🔗 [View original post](https://x.com/ArtemisConsort/status/2091961211235738043)
+
+---
+
+### 🕐 18:35 UTC · @elonmusk
+
+> Humans are disappearing Singapore just went all in on birth rates Fertility fell to a record-low 0.87 in 2025. Birth rates have fallen seriously low That’s not just a dip. That’s a whole country nowhere near replacing itself. It&apos;s a massive problem for the country So Singapore is going directly after th…
+
+🔗 [View original post](https://x.com/elonmusk/status/2091957536874451173)
 
 ---
 
@@ -35,6 +71,16 @@
 > SpaceX, in partnership with Nvidia, has designed a space-optimized Vera Rubin NVL72 system for launch to orbit in Q4 next year, with significant scale in 2028 The first CPU built for agents is going to work at scale. @SpaceX is deploying NVIDIA Vera to accelerate the orchestration, code execution, and data processing that powers its next generation of agentic AI — keeping GPUs fed and agents acting fast. From gigawatt AI factories to o…
 
 🔗 [View original post](https://x.com/elonmusk/status/2091939113008238838)
+
+---
+
+### 🕐 16:47 UTC · @elonmusk
+
+> Grok Imagine just got some very useful new image editing tools from @SpaceXAI! You can now change an image’s color palette using presets or colors extracted directly from the image, plus crop images without leaving Imagine. It’s quickly turning into a much more complete image editor!
+
+![Grok Imagine just got some very useful new image editing tools from @SpaceXAI! You can now change an image’s color palette using presets or colors extracted directly from the image, plus crop images w](../../../../assets/images/2026/08/24/2091930315593777225-1.jpg)
+
+🔗 [View original post](https://x.com/mark_k/status/2091930315593777225)
 
 ---
 

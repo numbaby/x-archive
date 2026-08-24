@@ -2,7 +2,39 @@
 
 ## 📅 August 24, 2026
 
-> 118 post(s) archived.
+> 123 post(s) archived.
+
+---
+
+### 🕐 19:17 UTC · @Wise1Philosophy
+
+> Anthropic&apos;s CEO: &quot;CODING IS GOING AWAY FIRST, THEN ALL OF SOFTWARE ENGINEERING&quot; Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2091968281490116841)
+
+---
+
+### 🕐 19:03 UTC · @Wise1Philosophy
+
+> a must-read on production-grade AI agents: Most companies are stuck in what the industry is now calling &quot;Death Valley&quot; between POC and production. 99% of companies say they&apos;re deploying AI agents. 9% have. OpenAI&apos;s own enterprise data shows agentic products now account for 64% of corporate output tokens. The demand is mas…
+
+🔗 [View original post](https://x.com/alex_prompter/status/2091964678595338408)
+
+---
+
+### 🕐 19:00 UTC · @Wise1Philosophy
+
+> Most companies are stuck in what the industry is now calling &quot;Death Valley&quot; between POC and production. 99% of companies say they&apos;re deploying AI agents. 9% have. OpenAI&apos;s own enterprise data shows agentic products now account for 64% of corporate output tokens. The demand is massive, but the engineering to support it barely exists. We&apos;ve shipped 14 production agent systems in the last 12 months across healthcare and financial services. The same four engineering gaps kill the other 90%. [1] Nobody builds a code graph, so the agent can&apos;t see how the codebase connects. It hallucinates function calls and invents APIs that don&apos;t exist. [2] Nobody builds a knowledge base, so the agent has no access to internal docs or domain context. It answers from training data instead of yours. [3] Nobody closes the feedback loop, so production errors go unlogged. The agent makes the same mistake on Tuesday that it made on Monday. [4] Nobody builds approval gates, so the agent takes irreversible actions before anyone reviews them. One bad output goes to a customer before anyone catches it. Every failed agent deployment I&apos;ve seen died at the engineering layer. We built what we call the Velocity Framework at @LimestoneHQ: code graph and knowledge base so the agent knows your system, feedback loops and approval gates so the agent learns and stays safe. A forward-deployed engineer builds it, trains the team to run it, and leaves. From day 31, the agent compounds domain knowledge with each customer interaction. The bridge across Death Valley is four pieces of engineering. 91% of companies haven&apos;t crossed it yet.
+
+🔗 [View original post](https://x.com/mardehaym/status/2091963865718231069)
+
+---
+
+### 🕐 18:20 UTC · @Wise1Philosophy
+
+> We&apos;ve had model benchmarks for years. But Agent benchmarks are a different story. Everyone runs a custom agent setup, so every comparison ends with: &quot;well... it depends&quot; @agentsky_dev kills that excuse: → same task → same browser → same tools All side-by-side 🔥↓ I ran the same task on Claude Code and DeepSeek&apos;s new agent harness. One cost $150. The other cost $2. Today we&apos;re launching http://AgentSky.dev (@agentsky_dev), the &quot;OpenRouter for Agents&quot; — one API → Claude Code, Codex, DeepSeek, Kimi, OpenCode, and every major agent in the clo…
+
+🔗 [View original post](https://x.com/DataChaz/status/2091953686431862791)
 
 ---
 
@@ -317,6 +349,14 @@
 > Looks like there’s still a discount these few days, so I’m thinking of trying it out myself. The cost isn’t high anyway, so there’s really no pressure—just want to give it a try and see how it goes. Wan 3.0, Newtake에 런칭 ｜ 기간 한정 초당 최저 14.6 원부터 영화급 화질, 실제 영화 제작에 필요한 예산 없이도 얼굴 표현의 제약 없이, 누구나 자신만의 주인공으로 영화급 액션과 사운드, 단순한 움직임을 넘어 실제처럼! 캐릭터부터 배경까지 픽셀 단위로 구현하여 높은 수준의 일관성 유지 이미지·텍스트·영상·음성 등 다양한 레퍼런스 지원 ⏰ 기간 한정 혜택: 8월 24일–27일 👉 지금 바로 Newtake에서 만나보세요
 
 🔗 [View original post](https://x.com/marlowepeony/status/2091893765007167934)
+
+---
+
+### 🕐 14:14 UTC · @Wise1Philosophy
+
+> Opening feels everyday, ending is quiet, middle packs in fantasy and action. The whole piece doesn’t keep pushing features at you, so it actually feels more relaxed to watch. Wan 3.0, Newtake에 런칭 ｜ 기간 한정 초당 최저 14.6 원부터 영화급 화질, 실제 영화 제작에 필요한 예산 없이도 얼굴 표현의 제약 없이, 누구나 자신만의 주인공으로 영화급 액션과 사운드, 단순한 움직임을 넘어 실제처럼! 캐릭터부터 배경까지 픽셀 단위로 구현하여 높은 수준의 일관성 유지 이미지·텍스트·영상·음성 등 다양한 레퍼런스 지원 ⏰ 기간 한정 혜택: 8월 24일–27일 👉 지금 바로 Newtake에서 만나보세요
+
+🔗 [View original post](https://x.com/Hey_Aivetra/status/2091891872541311156)
 
 ---
 
