@@ -167,7 +167,6 @@ Pull Request, or merge workflow.
 
 Before performing ANY Git operation, verify the current branch:
 
-```bash
 cd /home/azureuser/x-archive
 
 git branch --show-current
