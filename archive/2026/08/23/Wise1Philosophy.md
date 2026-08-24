@@ -2,7 +2,7 @@
 
 ## 📅 August 23, 2026
 
-> 81 post(s) archived.
+> 84 post(s) archived.
 
 ---
 
@@ -12,6 +12,22 @@
 ![](../../../../assets/images/2026/08/23/2091669339929755875-1.jpg)
 
 🔗 [View original post](https://x.com/Wise1Philosophy/status/2091669339929755875)
+
+---
+
+### 🕐 21:52 UTC · @Wise1Philosophy
+
+> A giant, rideable robot dog actually exists now, and seeing it in real life is mind-blowing! Media
+
+🔗 [View original post](https://x.com/thetripathi58/status/2091644787288117455)
+
+---
+
+### 🕐 21:52 UTC · @Wise1Philosophy
+
+> robots in China are now outrunning our best human athletes... Media
+
+🔗 [View original post](https://x.com/thetripathi58/status/2091644779729912301)
 
 ---
 
@@ -112,6 +128,16 @@
 > This Radiologist said : &quot;If I have cancer, I won’t go to the hospital. I’ve seen too many people die from chemo, not from cancer.&quot; 1. I’ll fast for 30 days and I’ll stop working. Media
 
 🔗 [View original post](https://x.com/_Gut_Laboratory/status/2091568665896317330)
+
+---
+
+### 🕐 16:37 UTC · @Wise1Philosophy
+
+> Anthropic sorted AI agents into 6 patterns. Only 1 writes its own path. The rest follow yours. 1. Prompt chaining splits a task into fixed steps, and each step works from the output of the last. Pick this when the split is clean, and accuracy matters more than speed. 2. Routing classifies the input first, then hands it to the model or tool built for the job. Use it when your inputs fall into a few distinct types. 3. Parallelization runs several calls at once and merges the results, either by dividing the work or by letting the calls vote on the same question. 4. Orchestrator-workers put a lead model in charge. It invents the subtasks at runtime and delegates them, which helps when you can&apos;t list the steps in advance. 5. Evaluator-optimizer pairs a writer with a grader and loops until the output passes. 6. The autonomous agent follows no fixed path. It plans, acts, reads feedback from its environment, and decides on its own when it&apos;s done. Now comes the part nobody selling you an &quot;agent&quot; wants you to notice. The first five are workflows. You wrote the path yourself, step by step, and the model just walks it. Only the sixth writes its own path, and it&apos;s the only one that earns the name. Look under the hood of most products sold as agents, and my bet is you&apos;ll find pattern 1, 2, or 5 running with good error handling. That&apos;s not an insult. A workflow you can predict usually beats an agent you can&apos;t. Bookmark this, and you&apos;ll never misread an agent pitch again.
+
+![Anthropic sorted AI agents into 6 patterns. Only 1 writes its own path. The rest follow yours. 1. Prompt chaining splits a task into fixed steps, and each step works from the output of the last. Pick ](../../../../assets/images/2026/08/23/2091565591756980355-1.jpg)
+
+🔗 [View original post](https://x.com/alex_prompter/status/2091565591756980355)
 
 ---
 
