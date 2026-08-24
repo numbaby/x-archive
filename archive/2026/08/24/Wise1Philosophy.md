@@ -2,7 +2,66 @@
 
 ## 📅 August 24, 2026
 
-> 34 post(s) archived.
+> 41 post(s) archived.
+
+---
+
+### 🕐 10:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/08/24/2091835511857922102-1.jpg)
+
+🔗 [View original post](https://x.com/yeti_mind/status/2091835511857922102)
+
+---
+
+### 🕐 10:00 UTC · @Wise1Philosophy
+
+> The four subsystems that turn a raw LLM into a working agent, all wired around a central harness. Harness: the core, holding sub-agent orchestration, sandbox, evaluator, approval loop, compression, and observability. Skills: operational procedure, normative constraints, and decision heuristics, the rules and know-how that shape how the agent acts. Memory: episodic experience, working context, semantic knowledge, and personalized memory, what the agent remembers and draws on. Protocols: agent-agent, agent-user, and agent-tools, the interfaces that let the harness talk to everything around it. Follow Mr Claude for more Claude tips &amp; tricks.
+
+![The four subsystems that turn a raw LLM into a working agent, all wired around a central harness. Harness: the core, holding sub-agent orchestration, sandbox, evaluator, approval loop, compression, an](../../../../assets/images/2026/08/24/2091827973112696919-1.jpg)
+
+🔗 [View original post](https://x.com/claudeskills101/status/2091827973112696919)
+
+---
+
+### 🕐 09:59 UTC · @Wise1Philosophy
+
+> Insulin resistance is the actual reason your cortisol stays high. If I wanted to bring high cortisol down without medication, here are the 8 things I would do daily: 1. Stop running late at night.
+
+🔗 [View original post](https://x.com/CoachLucHerrera/status/2091827609021861928)
+
+---
+
+### 🕐 09:57 UTC · @Wise1Philosophy
+
+> A guy had the Amex Gold Card for 3 years. He ate at restaurants 3 times a week. He ordered Grubhub delivery twice a week. He went to Dunkin&apos; every weekday morning. He spent $600/month on dining and food. He earned 4x Membership Rewards points on every dollar. He considered himself an optimized Amex user. He was leaving $424/year in free money sitting in his app because he never enrolled in 3 benefits that require a single tap to activate. His coworker who treats her Amex benefits dashboard like a monthly audit checklist showed him what he was missing. $120/year in dining credits he never enrolled in. $100/year in Resy restaurant credits he never activated. $84/year in Dunkin&apos; credits he never claimed. $120/year in Uber Cash he never linked. Four benefits. Four taps. Each taking under 30 seconds. All at restaurants and services he already uses through a card he already carries. $424/year. Unclaimed for 3 years. $1,272 total. Because the Amex app doesn&apos;t auto-enroll and the welcome email buries the enrollment instructions below 3 paragraphs about points. She showed him 11 Amex benefits most cardholders are paying for and never activating. Here&apos;s the full playbook 🧵
+
+🔗 [View original post](https://x.com/jackcoder0/status/2091827142820815195)
+
+---
+
+### 🕐 09:37 UTC · @Wise1Philosophy
+
+> I just found the best account with Claude tutorials: Turn conversations into compounding assets. Projects in Claude are your persistent memory layer. Why use projects: memory keeps context, files, and decisions across sessions. Workspace organizes knowledge, assets, and deliverables in one dedicated space. Execution via Cowork lets…
+
+🔗 [View original post](https://x.com/alex_prompter/status/2091822275381141582)
+
+---
+
+### 🕐 09:34 UTC · @Wise1Philosophy
+
+
+🔗 [View original post](https://x.com/socialwithaayan/status/2091821361631310208)
+
+---
+
+### 🕐 09:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/08/24/2091820393472422107-1.jpg)
+
+🔗 [View original post](https://x.com/Ant_Philosophy/status/2091820393472422107)
 
 ---
 
