@@ -2,7 +2,188 @@
 
 ## 📅 August 24, 2026
 
-> 48 post(s) archived.
+> 72 post(s) archived.
+
+---
+
+### 🕐 14:00 UTC · @Wise1Philosophy
+
+
+🔗 [View original post](https://x.com/alex_prompter/status/2091888489491304830)
+
+---
+
+### 🕐 13:48 UTC · @Wise1Philosophy
+
+
+🔗 [View original post](https://x.com/davekashen/status/2091885270442328296)
+
+---
+
+### 🕐 13:40 UTC · @Wise1Philosophy
+
+> ACABO DE CONVERTIR UNA SIMPLE SUGERENCIA DE CHATGPT EN UNA PRESENTACIÓN COMPLETA PARA UN HOTEL.🤯 Gamma creó toda la presentación dentro de ChatGPT. Esta podría ser la forma más rápida de convertir ideas en diapositivas 👇
+
+![ACABO DE CONVERTIR UNA SIMPLE SUGERENCIA DE CHATGPT EN UNA PRESENTACIÓN COMPLETA PARA UN HOTEL.🤯 Gamma creó toda la presentación dentro de ChatGPT. Esta podría ser la forma más rápida de convertir ide](../../../../assets/images/2026/08/24/2091883437359817136-1.png)
+
+🔗 [View original post](https://x.com/Alex_Inspira/status/2091883437359817136)
+
+---
+
+### 🕐 13:40 UTC · @Wise1Philosophy
+
+> 10 sites that pay in usd for remote work 1: curated remote job boards ↳ http://remotive.com ↳ http://weworkremotely.com ↳ http://remoterocketship.com ↳ http://flexjobs.com 2: niche and industry specific boards ↳ http://remotewoman.com ↳ http://ai-jobs.net ↳ http://workingnomads.com 3: freelance and startup work ↳ http://toptal.com ↳ http://wellfound.com 4: tracking your search ↳ http://eztrackr.app the memory is what got me. it stops making you re-explain yourself every time, and the output actually starts sounding like you been waiting for something to nail this part @imagineart_x @abdullahvyro @Ahmed_abubakarr #imagineart #ImagineComputer
+
+![10 sites that pay in usd for remote work 1: curated remote job boards ↳ http://remotive.com ↳ http://weworkremotely.com ↳ http://remoterocketship.com ↳ http://flexjobs.com 2: niche and industry specif](../../../../assets/images/2026/08/24/2091883229959889203-1.jpg)
+
+🔗 [View original post](https://x.com/nrqa__/status/2091883229959889203)
+
+---
+
+### 🕐 13:34 UTC · @Wise1Philosophy
+
+> Cortisol = thinning hair. If cortisol stays high, the shedding won&apos;t stop — no matter what you put on your scalp. These are the best ways to bring it down: 1. No food 3 hours before bed. Media
+
+🔗 [View original post](https://x.com/CoachDanCole_/status/2091881937434747208)
+
+---
+
+### 🕐 13:30 UTC · @Wise1Philosophy
+
+> A health brand came to us doing 50 to 70 million a year, spending close to six figures a day on Meta. Then they got flagged under the health and wellness policy. Half their business started to evaporate overnight. Facebook was half their revenue and national TV was the other half. The Facebook half was drying up fast. And this is a pretty big brand. One you&apos;d recognize from TV. At that scale, losing Meta is an existential problem. We got them compliant and back to advertising the same day. From cut off to running again inside 24 hours. Every brand at that spend is one policy flag away from the same call.
+
+🔗 [View original post](https://x.com/michael_upstack/status/2091880711427154226)
+
+---
+
+### 🕐 13:24 UTC · @Wise1Philosophy
+
+> MASCULINE VS FEMININE MEN 8 brutal differences most men ignore: 1. Masculine men controls emotions
+
+🔗 [View original post](https://x.com/josh_uglyasf/status/2091879265419829684)
+
+---
+
+### 🕐 13:24 UTC · @Wise1Philosophy
+
+> Everyone assumes trading means staring at screens all day. I trade for about 60 minutes a day and can make more than I ever would working a 9-5. Here&apos;s exactly how it works:
+
+🔗 [View original post](https://x.com/RileyColemanT/status/2091879218418241855)
+
+---
+
+### 🕐 13:17 UTC · @Wise1Philosophy
+
+> 35 years of independence. I built @LimestoneHQ from the kitchen table at my apartment in Kyiv. Six people, half an office, everybody on each other&apos;s lap. Ten years ago this month. We&apos;ve been through a lot since that kitchen table, and the Ukrainian engineers doing the work never stopped. Proud of where I&apos;m from. Happy 35th, Ukraine. 🇺🇦 Today, Ukraine celebrates 35 years of independence, the fifth during a full-scale war. Limestone Digital started in Kyiv ten years ago this month. Six people built the foundation of what is now a 200-person engineering company. Since February 2022, our Ukrainian team members have…
+
+🔗 [View original post](https://x.com/mardehaym/status/2091877440108818858)
+
+---
+
+### 🕐 13:03 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/08/24/2091873924086714555-1.jpg)
+
+🔗 [View original post](https://x.com/Life__Mastery/status/2091873924086714555)
+
+---
+
+### 🕐 13:01 UTC · @Wise1Philosophy
+
+> Call me crazy… but I will keep repeating this Claude + instagram is going to make more millionaires in 2026 than crypto ever did in 2015 Media
+
+🔗 [View original post](https://x.com/mikakilpelaine1/status/2091873444375973912)
+
+---
+
+### 🕐 13:00 UTC · @Wise1Philosophy
+
+> May you attract someone that naturally brings out your inner child playfulness, makes you laugh, and loves you a little extra on your worst days. Someone who soothes your soul and genuinely feels lucky to be with you... someone you never have to heal from.
+
+🔗 [View original post](https://x.com/_Pammy_DS_/status/2091873166750630064)
+
+---
+
+### 🕐 12:50 UTC · @Wise1Philosophy
+
+> Most agencies pitch a team of five on the first call. We pitch one engineer. The pattern always repeats: a client brings in a five-person squad before anyone understands the codebase. Two weeks later, three of those engineers wait on context from the one person who figured out the legacy architecture. Payroll runs while velocity stalls. We start every AI Velocity Pod at one full-time engineer, a fractional architect, and a fractional BA/DM. That one engineer spends the first two weeks doing what the five-person team would have done anyway: mapping the system, instrumenting the codebase, establishing gates. AI runs 98% of the code generation while a senior architect reviews every decision. By week three, they&apos;re shipping. By month two, the client&apos;s CTO has PR velocity, cycle time, and cost per commit on a dashboard. Then we scale. The second engineer lands into a system that works, with no ramp-up tax and no duplicated discovery. One client estimated their rebuild at 7 to 8 months. Our single engineer had the core done in 3.5. Their CTO called the pod &quot;top performing team.&quot; Both engineers got bonused twice. We start at one because over 10 years taught us the same lesson: starting bigger means paying the coordination cost before you earn it. Four more engineers won&apos;t fix a system that can&apos;t prove velocity with one. You&apos;ll spend more and learn less.
+
+🔗 [View original post](https://x.com/Paul_Bracht/status/2091870710230565055)
+
+---
+
+### 🕐 12:42 UTC · @Wise1Philosophy
+
+> RT @LimestoneHQ: Today, Ukraine celebrates 35 years of independence, the fifth during a full-scale war. Limestone Digital started in Kyiv…
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2091868872211132515)
+
+---
+
+### 🕐 12:42 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/08/24/2091868655868871137-1.jpg)
+
+🔗 [View original post](https://x.com/gedamtekle/status/2091868655868871137)
+
+---
+
+### 🕐 12:34 UTC · @Wise1Philosophy
+
+> AI video models are getting way more powerful. Seedance 2.5 inside Magnific creates smoother motion, stronger camera control, and more consistent scenes. One prompt → directed scene → polished AI video. Here is the breakdown: Media
+
+🔗 [View original post](https://x.com/heyDhavall/status/2091866673876029795)
+
+---
+
+### 🕐 12:31 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/08/24/2091865881315774895-1.jpg)
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2091865881315774895)
+
+---
+
+### 🕐 12:27 UTC · @Wise1Philosophy
+
+> Met a founder making $4.2M a year With a super simple product He takes a model API, wraps it in a frontend, writes a system prompt, and puts &quot;proprietary AI platform&quot; on the pitch deck PE firms don&apos;t check the code because the ARR is growing 40% and the references are strong They pay 12x revenue for 600 lines of glue code and an API key He&apos;s already building the next one Takes about a weekend Inspiring If you&apos;re reading this, I trust the algorithm targeted you because you evaluate software companies for a living. Experienced deal teams love saying they run thorough diligence. I intend to show you why, for AI deals, they don&apos;t. https://x.com/i/article/2090466439694106624
+
+🔗 [View original post](https://x.com/mardehaym/status/2091864880068403474)
+
+---
+
+### 🕐 12:24 UTC · @Wise1Philosophy
+
+> That used to be a room full of people. Now it&apos;s a text box and a guy who knew what he wanted. if you still think anime PVs need a studio and a VFX team, i have nothing to say.. this whole pirate power up sequence, kanji typography, camera moves, sound design, came out of ONE prompt in MiniMax Design the agent did the shot breakdown itself. i just wrote what i wanted this …
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2091864193456656692)
+
+---
+
+### 🕐 12:22 UTC · @Wise1Philosophy
+
+> I found the dumbest way to make $100/day. (It&apos;s made me $1M+ at 45) How? Self-publishing Ebooks. Here&apos;s exactly how to copy me:
+
+🔗 [View original post](https://x.com/NickDiFabio1/status/2091863618090389891)
+
+---
+
+### 🕐 12:10 UTC · @Wise1Philosophy
+
+> After 6 months of focused work... You can: • Work from anywhere • Set your own hours • Make $10k/month All you have to do? Follow these 6 steps:
+
+🔗 [View original post](https://x.com/erichustls/status/2091860599856611384)
+
+---
+
+### 🕐 12:08 UTC · @Wise1Philosophy
+
+> US companies just posted their best profits since 2021. The stock market should be soaring, but... They just had their first down week in a month. This makes no sense on the surface. But there are two reasons hiding under the headline: First, look at how good the numbers were. S&amp;P 500 earnings grew about 50% last quarter. That is the fastest growth since 2021. Most companies beat what analysts expected. 86% of them beat, well above the usual rate. It looked like a blowout quarter on paper. But that number hides something. Two companies did most of the heavy lifting. Strip out Alphabet and Amazon, and growth drops to 32%. Those two alone added 18 points to the total. The gains were not spread across the market. That is a lot of weight on two names. A big part came from gains on other companies they own. One booked a $98 billion gain on paper. The other booked $53 billion the same way. Those were paper gains, not real sales. It is like your house going up in value. You feel richer, but you earned nothing new. It was a one-time accounting boost. It was not money from selling more products. Real growth was there, just not fifty percent of it. So maybe the market saw through the hype? Not quite. Even the real number was strong. Revenue grew 15%, the fastest in years. Profit margins hit a record high. Even without those two giants, margins set a record. The core business was genuinely healthy. Demand was real and customers kept spending. So that is not why stocks fell. So what actually pulled them down? Two things were working against the good news. Borrowing costs have been climbing fast. Higher rates make every stock worth a little less. Stocks already trade above their long-term average. And the good news was already priced in. Investors expected a great quarter and got one. Analysts had even raised their targets going in. Even companies that beat barely moved higher. Good news everyone expects is already in the price. The best quarter in years still was not enough. Every other 50% jump this century came after a collapse. This time, earnings are already at record highs. This is the trap with headline numbers. A big number can hide a weaker story. A record quarter does not guarantee a rising stock. Even a strong story can already be priced in. The 50% looked amazing on the surface. Underneath, a third of it was two companies. Part of that was paper gains, not cash. And the rest was already expected. The headline and the real story rarely match. Great news can be a terrible time to buy. Retail saw record profits and got confused. The pros read what was actually inside them. That&apos;s the whole game. Surmount builds strategies on what the numbers really say. Start for free and trade the facts, not the headline. Media
+
+🔗 [View original post](https://x.com/LogWeaver/status/2091860172021137779)
 
 ---
 
@@ -21,6 +202,15 @@
 ![Wait… some platforms charge $3,000/year for these models when Dreamina costs $335? Seedance 2.5 is having its moment. But most of my production work runs on Seedance 2.0. Both 2.0 &amp; 2.0 Fast: lowe](../../../../assets/images/2026/08/24/2091851232633856465-1.png)
 
 🔗 [View original post](https://x.com/Rixhabh__/status/2091851232633856465)
+
+---
+
+### 🕐 11:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/08/24/2091850631971504626-1.jpg)
+
+🔗 [View original post](https://x.com/Daily__wisdom_/status/2091850631971504626)
 
 ---
 
@@ -59,6 +249,15 @@
 ![Excel is difficult to learn, but not anymore! Introducing &quot;The Ultimate Excel ebook &quot;PDF. You will get: • 74+ pages cheatsheet • Save 100+ hours on research And for 48 hrs, it&apos;s 100% FR](../../../../assets/images/2026/08/24/2091846432684671040-1.jpg)
 
 🔗 [View original post](https://x.com/JayBisen473370/status/2091846432684671040)
+
+---
+
+### 🕐 11:01 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/08/24/2091843431299424272-1.jpg)
+
+🔗 [View original post](https://x.com/apex_mentality_/status/2091843431299424272)
 
 ---
 
