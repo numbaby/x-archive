@@ -2,7 +2,48 @@
 
 ## 📅 August 24, 2026
 
-> 19 post(s) archived.
+> 26 post(s) archived.
+
+---
+
+### 🕐 21:11 UTC · @elonmusk
+
+> Grok Voice is used by Starlink at scale for support &amp; sales At Starlink, we’re using Grok Voice to resolve over 15,000 inbound customer support and sales calls a day. Grok diagnoses hardware issues, ships replacements, and fulfills over 3,000 orders a week across voice calls and chat.
+
+🔗 [View original post](https://x.com/elonmusk/status/2091996794419060905)
+
+---
+
+### 🕐 21:04 UTC · @elonmusk
+
+> True this is the real problem most people just don&apos;t realize the scale of the fertility collapse. population pyramid inversion in almost all countries and old people massively outnumbering kids is THE cataclysm you won&apos;t see the tsunami coming or the meteor in the sky or people dying …
+
+🔗 [View original post](https://x.com/elonmusk/status/2091995019674787960)
+
+---
+
+### 🕐 20:57 UTC · @elonmusk
+
+> Grok Voice 2 is great Grok Voice Think Fast 2.0 is now #1 on the Artificial Analysis Speech-to-Speech Index. This index measures whether voice agents can reason over the speech it hears, resolve real customer issues, and correctly complete tasks using agent tools.
+
+🔗 [View original post](https://x.com/elonmusk/status/2091993370055115129)
+
+---
+
+### 🕐 20:22 UTC · @elonmusk
+
+
+![](../../../../assets/images/2026/08/24/2091984577849909735-1.jpg)
+
+🔗 [View original post](https://x.com/TheAliceSmith/status/2091984577849909735)
+
+---
+
+### 🕐 19:37 UTC · @elonmusk
+
+> BREAKING: SpaceXAI just added a powerful new &apos;Browser Use&apos; plugin to Grok Build. It gives Grok access to a real browser, either the user’s own Chrome with existing logins or an isolated Browser Use cloud browser. Grok Build can now browse websites, scrape and extract data, fill out forms, test web apps, take screenshots and automate complete web workflows. It can also run locally through uvx, with no API key required when using local Chrome. Install command: grok plugin install browser-use --trust Media
+
+🔗 [View original post](https://x.com/cb_doge/status/2091973239048388785)
 
 ---
 
@@ -31,6 +72,16 @@
 > Everyone’s against eugenics until they roll up to the sperm bank.
 
 🔗 [View original post](https://x.com/ArtemisConsort/status/2091961211235738043)
+
+---
+
+### 🕐 18:41 UTC · @elonmusk
+
+> We discovered that US GDP statistics miss most of the value Nvidia adds to the US economy. As a result, GDP growth has been understated by ~0.3 percentage points over the last year.
+
+![We discovered that US GDP statistics miss most of the value Nvidia adds to the US economy. As a result, GDP growth has been understated by ~0.3 percentage points over the last year.](../../../../assets/images/2026/08/24/2091959069980688660-1.png)
+
+🔗 [View original post](https://x.com/EpochAIResearch/status/2091959069980688660)
 
 ---
 
@@ -115,6 +166,16 @@
 > Communist authorities engineered cannibalism on purpose. In May 1933 they dumped 6,000 ordinary people on a bare island in Siberia’s Ob River with no food, no tools, and almost no shelter. Local police had grabbed them off city streets to meet arrest quotas during Stalin’s collectivization drive, many still carrying valid papers, and shipped them east without trial. Guards left a single sack of flour on the shore and departed. Within days the starving started dying by the hundreds and the living began eating the dead. A Communist Party inspector documented the mass graves and the cannibalism in a secret report. 4,000 were dead by the time the survivors were pulled off the island 2 months later. That report stayed locked in a Soviet archive for 60 years until the regime that buried it finally collapsed. Media The Bolsheviks declared war on the Russian Orthodox Church as soon as they seized power. They stripped it of legal status and property, then executed thousands of priests, monks, and believers in the Red Terror. Metropolitan Vladimir of Kiev was dragged from the Monastery of the …
 
 🔗 [View original post](https://x.com/Rothmus/status/2091894481645703464)
+
+---
+
+### 🕐 14:16 UTC · @elonmusk
+
+> Postal workers busted stealing checks from mail routes &amp; selling them in $23M fraud case. If they can steal your checks, what do you think they can do with your ballots? They only got caught because banks audit $$. There&apos;s ZERO mechanism to audit CA ballots. https://www.click2houston.com/news/local/2026/08/24/what-we-know-about-the-5-people-charged-in-a-multi-million-dollar-check-scheme/
+
+![Postal workers busted stealing checks from mail routes &amp; selling them in $23M fraud case. If they can steal your checks, what do you think they can do with your ballots? They only got caught becau](../../../../assets/images/2026/08/24/2091892370115530773-1.jpg)
+
+🔗 [View original post](https://x.com/spencerpratt/status/2091892370115530773)
 
 ---
 
