@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Temporary input
+incoming/
+
+# Environment / secrets
+.env
+.env.*
+*.secret
+*.token
+
+# OS
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+.locks/
