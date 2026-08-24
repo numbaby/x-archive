@@ -10,8 +10,8 @@ import xml.etree.ElementTree as ET
 
 ROOT = Path(__file__).resolve().parent
 
-# Since it's 2026-08-23 01:36 UTC, we need posts since 2026-08-23 00:00:00 UTC
-CUTOFF = datetime(2026, 8, 23, 0, 0, 0, tzinfo=timezone.utc)
+# Since it's 2026-08-24 11:55 UTC, we need posts since 2026-08-24 00:00:00 UTC
+CUTOFF = datetime(2026, 8, 24, 0, 0, 0, tzinfo=timezone.utc)
 
 # Profiles from the JSON
 profiles = [

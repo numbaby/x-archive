@@ -2,7 +2,71 @@
 
 ## 📅 August 24, 2026
 
-> 41 post(s) archived.
+> 48 post(s) archived.
+
+---
+
+### 🕐 11:52 UTC · @Wise1Philosophy
+
+> &quot;I don&apos;t have a team&quot; stopped being a reason today. if you still think anime PVs need a studio and a VFX team, i have nothing to say.. this whole pirate power up sequence, kanji typography, camera moves, sound design, came out of ONE prompt in MiniMax Design the agent did the shot breakdown itself. i just wrote what i wanted this …
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2091856141663801852)
+
+---
+
+### 🕐 11:32 UTC · @Wise1Philosophy
+
+> Wait… some platforms charge $3,000/year for these models when Dreamina costs $335? Seedance 2.5 is having its moment. But most of my production work runs on Seedance 2.0. Both 2.0 &amp; 2.0 Fast: lowest price anywhere, only on Dreamina. From $0.026/sec — up to 76% less than other platforms. #Dreamina #DreaminaPartner
+
+![Wait… some platforms charge $3,000/year for these models when Dreamina costs $335? Seedance 2.5 is having its moment. But most of my production work runs on Seedance 2.0. Both 2.0 &amp; 2.0 Fast: lowe](../../../../assets/images/2026/08/24/2091851232633856465-1.png)
+
+🔗 [View original post](https://x.com/Rixhabh__/status/2091851232633856465)
+
+---
+
+### 🕐 11:21 UTC · @Wise1Philosophy
+
+> Breaking: Most of your personal information is already online. And anyone can find it. Here’s how to take it down:
+
+🔗 [View original post](https://x.com/AriaWestcott/status/2091848293777129578)
+
+---
+
+### 🕐 11:15 UTC · @Wise1Philosophy
+
+> Harvard tested 758 consultants using AI. One method produced 40% better work than everything else. I broke the method down into 5 steps (steal this): 1. Define &quot;done&quot; before you open a chat Name the task, who it&apos;s for, and what the finished output looks like. 2. Split the task and assign every step Give the model the production work: drafts, structure, research and keep anything that needs your judgment. 3. Paste 1 example of your past work The model matches the standard and voice it can see, and defaults to press-release filler when it can&apos;t. 4. Run one step at a time Make the model stop after each output and ask you one question that forces a decision before it continues. 5. Make it attack its own output Before you accept anything, ask for the 3 weakest points and where it&apos;s likely wrong. Use these steps in your prompts to increase the quality of your work.
+
+![Harvard tested 758 consultants using AI. One method produced 40% better work than everything else. I broke the method down into 5 steps (steal this): 1. Define &quot;done&quot; before you open a chat ](../../../../assets/images/2026/08/24/2091846804937507168-1.jpg)
+
+🔗 [View original post](https://x.com/alex_prompter/status/2091846804937507168)
+
+---
+
+### 🕐 11:15 UTC · @Wise1Philosophy
+
+> Most people upload a file and hope AI “figures it out.” It won’t … unless you build a system around it. NotebookLM uses Gemini’s large context window. It turns scattered files into a connected, cited research brain. Here’s the workflow power users follow: [ 🔖 bookmark this post for later ] ✨ Gemini Flash • Core engine powering NotebookLM. • Fast, accurate synthesis across large sets of sources. Sample prompt: “Highlight the main key insights across these docs.” ✨ Gemini Pro (Plus Tier) • Used for deeper reasoning and context handling. • Best for complex briefs and enterprise workflows. Sample prompt: “Draft a polished briefing using these internal docs, with cited evidence.” 1️⃣ Add Sources • Import PDFs, Docs, transcripts, and webpages. • Structure, tables, and images stay intact. 2️⃣ Source-Based Chat • Respond only using your uploaded content. • Ideal for reviews, validation, and checks. 3️⃣ Structured Study Guides • Generates summaries, timelines, and briefs. • Helpful for organizing large material sets. 4️⃣ Visual Topic Mapping • Creates visuals to show relationships between topics. • Useful for comparing topics or themes. 5️⃣ Audio Overview • Converts notebooks into spoken recaps. • Great for reviewing long content on the go. 6️⃣ Video Summaries • Creates short narrated videos with slides. • Perfect for updates or training. 7️⃣ Deep Research • Find credible references for your topic. • Expands research with relevant material. 8️⃣ Structured Data Tables • Extracts key data points into organized, sortable rows. • Turns messy, unstructured info into clean, exportable data. 9️⃣ Collaborative Notebooks • Share notebooks with teams or clients. • Structure and citations stay intact. Copy-Paste These Power Prompts: ► Summarize Content “Create a 500-word thematic summary with citations.” ► Compare Sources “Show key points across these documents and note conflicts.” ► Identify Decisions “List main decisions and attach each one to its source.” ► Generate a Brief “Assemble a brief that organizes the material into: Background → Core Points → Recommendations.” ► Create Script for Audio/Video “Write a two-host script and test weak claims.” Workflows You Can Build: Research Review: ➟ Add papers into a notebook ➟ Produce a briefing from all sources ➟ Use chat for targeted questions ➟ Create audio for on-the-go review Shared Knowledge Base: ➟ Add all project documents ➟ Build an onboarding study guide ➟ Share the notebook with your team ➟ Auto-update when new files are added Content Analysis &amp; Creation: ➟ Add competitor material ➟ Generate a comparison summary ➟ Build a mind map of themes ➟ Export slides for presentations Build the system once and turn raw files into insights fast. Save this guide and test it on your next deep-work task. 📌 Learn 30 free AI tools in 30 days: https://bit.ly/48woPL4 👉 Follow me @AndrewBolis for more and 🔄 Repost this to help others use AI
+
+![Most people upload a file and hope AI “figures it out.” It won’t … unless you build a system around it. NotebookLM uses Gemini’s large context window. It turns scattered files into a connected, cited ](../../../../assets/images/2026/08/24/2091846742522359994-1.jpg)
+
+🔗 [View original post](https://x.com/AndrewBolis/status/2091846742522359994)
+
+---
+
+### 🕐 11:13 UTC · @Wise1Philosophy
+
+> Excel is difficult to learn, but not anymore! Introducing &quot;The Ultimate Excel ebook &quot;PDF. You will get: • 74+ pages cheatsheet • Save 100+ hours on research And for 48 hrs, it&apos;s 100% FREE! To get it, just: 1. Like &amp; Retweet 2. Reply &quot;SEND&quot; 3. Follow @JayBisen473370 [MUST] Bookmarks also and [ you will recieve directly in your DM within 72 Hours ]
+
+![Excel is difficult to learn, but not anymore! Introducing &quot;The Ultimate Excel ebook &quot;PDF. You will get: • 74+ pages cheatsheet • Save 100+ hours on research And for 48 hrs, it&apos;s 100% FR](../../../../assets/images/2026/08/24/2091846432684671040-1.jpg)
+
+🔗 [View original post](https://x.com/JayBisen473370/status/2091846432684671040)
+
+---
+
+### 🕐 10:52 UTC · @Wise1Philosophy
+
+> The engineer behind Claude Code just shared 28 minutes of prompting advice people usually charge hundreds for. He covers: • Writing prompts that actually deliver • Using CLAUDE. md files • Memory shortcuts • Running parallel sessions • Prompting patterns most people miss Completely free. Straight from the source. Save this before you need it. https://x.com/DehumanoaDeus/status/2091558229683626051/video/1 Media
+
+🔗 [View original post](https://x.com/AIHighlight/status/2091841134230114346)
 
 ---
 
