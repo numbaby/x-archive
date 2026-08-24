@@ -2,7 +2,243 @@
 
 ## 📅 August 24, 2026
 
-> 86 post(s) archived.
+> 118 post(s) archived.
+
+---
+
+### 🕐 17:56 UTC · @Wise1Philosophy
+
+> ChatGPT could make you over $5,000 a month. No job. No face. Just 2 prompts. Here’s how:
+
+🔗 [View original post](https://x.com/AriaWestcott/status/2091947847436398609)
+
+---
+
+### 🕐 17:45 UTC · @Wise1Philosophy
+
+> This is the kind of prompt library I’d actually bookmark. Not just a pile of recycled prompts. Inspia curates image and video prompts for designers and visual creators, built for real creative work with GPT Image, Nano Banana, Midjourney, Seedance, Kling, Seedream, and more. Prompts you can copy, customize, and use straight away. The library follows what’s trending on Instagram, X, and TikTok, so you’re ready before the next project starts. No sign-up. No subscription. Completely free. https://inspia.ai is a free prompt library for designers and visual creators &gt; High-quality prompts for #GPTImage, #NanoBanana, #Seedance, #Midjourney, #Kling, and #Seedream &gt; Continuously curating trending #prompts everyday &gt;For ads, products, 3D, posters and portraits
+
+🔗 [View original post](https://x.com/Damn_coder/status/2091945034300231924)
+
+---
+
+### 🕐 17:39 UTC · @Wise1Philosophy
+
+> 6 signs your body desperately needs magnesium (&amp; you don&apos;t realize it): 1. Random muscle cramps Media
+
+🔗 [View original post](https://x.com/DPro_Coach/status/2091943419904229842)
+
+---
+
+### 🕐 17:28 UTC · @Wise1Philosophy
+
+> WHEN YOU GET RICH, UPGRADE THESE 15 THINGS ASAP:
+
+🔗 [View original post](https://x.com/josh_uglyasf/status/2091940657955033315)
+
+---
+
+### 🕐 17:25 UTC · @Wise1Philosophy
+
+> Al video just got a lot cheaper to experiment with. Wan 3.0 is now live on @TopviewAIhq , and Ultra Annual users get 365 days of unlimited generations. And the pricing makes the difference even clearer: Wan 3.0 → $1.20 / 30s Seedance 2.5 → $3.60 / 30s Same 30-second generation. 1/3 of the cost. That means you can test more ideas, generate more variations, and iterate without constantly thinking about how fast your credits are disappearing. More generations. Less hesitation. More room to create. Media Wan 3.0 is now on Topview. More value. Longer unlimited access. Lower cost. With Ultra Annual, generate 30s videos with Wan 3.0 for just $1.20. Plus, get 365 days of unlimited generations. That’s 1/3 the cost and 6x longer unlimited access compared to Seedance 2.5. Create more AI…
+
+🔗 [View original post](https://x.com/MasculineM7/status/2091939891299209461)
+
+---
+
+### 🕐 17:21 UTC · @Wise1Philosophy
+
+> Stop building AI agents from scratch. These 13 open source GitHub repos are free to use: 1. Browser Use Let AI agents browse websites and complete tasks online. https://github.com/browser-use/browser-use 2. OpenHands Build coding agents that edit files, run commands and work across repositories. https://github.com/OpenHands/OpenHands 3. Agno Create agents with memory, knowledge, tools and team workflows. https://github.com/agno-agi/agno 4. smolagents Hugging Face’s lightweight framework for agents that write and execute code. https://github.com/huggingface/smolagents 5. Pydantic AI Build reliable AI agents with structured outputs and type safety. https://github.com/pydantic/pydantic-ai 6. CrewAI Create specialized AI agents that collaborate on complex tasks. https://github.com/crewAIInc/crewAI 7. LangGraph Build agent workflows with memory, state and more precise control. https://github.com/langchain-ai/langgraph 8. AutoGen Microsoft’s original multi agent framework. Now in maintenance mode. https://github.com/microsoft/autogen 9. LlamaIndex Connect AI agents to documents, databases and private knowledge. https://github.com/run-llama/llama_index 10. Mastra A TypeScript framework for agents, workflows, tools and memory. https://github.com/mastra-ai/mastra 11. Letta Build agents that remember information across conversations. https://github.com/letta-ai/letta 12. Cline An AI coding agent that works inside your IDE or terminal. https://github.com/cline/cline 13. Aider An AI pair programmer that works directly with your Git repositories. https://github.com/Aider-AI/aider Save this for your next build.
+
+![Stop building AI agents from scratch. These 13 open source GitHub repos are free to use: 1. Browser Use Let AI agents browse websites and complete tasks online. https://github.com/browser-use/browser-](../../../../assets/images/2026/08/24/2091938998788702437-1.png)
+
+🔗 [View original post](https://x.com/AIHighlight/status/2091938998788702437)
+
+---
+
+### 🕐 17:18 UTC · @Wise1Philosophy
+
+> Your body will forgive you for: -Skipping a workout -Eating pizza -Sleeping poorly one night -Losing motivation Your body WILL NOT forgive you for:
+
+🔗 [View original post](https://x.com/BeBetterMan_/status/2091938271396012172)
+
+---
+
+### 🕐 17:17 UTC · @Wise1Philosophy
+
+> Cardio is a scam for fat loss. It&apos;s boring, leads to overeating, and barely burns any calories. Summer 2026 is almost over. Here are 9 cheat codes that actually burns fat: 1. Don&apos;t eat breakfast Media
+
+🔗 [View original post](https://x.com/CoachWillStone/status/2091938041447563573)
+
+---
+
+### 🕐 17:14 UTC · @Wise1Philosophy
+
+> Most DTC founders think Shopify handles their sales tax. It doesn&apos;t. What Shopify actually does: - Collects tax at checkout (sometimes) - Shows you a report What Shopify doesn&apos;t do: - Register you when you hit nexus in a new state - File your returns - Tell you you&apos;re 8 months late in Illinois - Split marketplace vs direct channel liability - Defend you in an audit The gap between &quot;Shopify collects tax&quot; and &quot;you&apos;re actually compliant&quot; is where six-figure liabilities live. Most founders don&apos;t find out until they raise, sell, or get a love letter from a state DOR. Check before the state checks for you… @kintsugi_ai was built to close that gap for DTC brands. Free nexus check + 3 months on me at https://trykintsugi.com
+
+![Most DTC founders think Shopify handles their sales tax. It doesn&apos;t. What Shopify actually does: - Collects tax at checkout (sometimes) - Shows you a report What Shopify doesn&apos;t do: - Regist](../../../../assets/images/2026/08/24/2091937320887075308-1.jpg)
+
+🔗 [View original post](https://x.com/ecomchasedimond/status/2091937320887075308)
+
+---
+
+### 🕐 16:42 UTC · @Wise1Philosophy
+
+
+🔗 [View original post](https://x.com/free_ai_guides/status/2091929163083264284)
+
+---
+
+### 🕐 16:17 UTC · @Wise1Philosophy
+
+> Japanese scientists just discovered shocking news about grey hair. It’s literally your body choosing survival over cancer. Here’s everything you need to know (&amp; how to keep your hair dark):
+
+![Japanese scientists just discovered shocking news about grey hair. It’s literally your body choosing survival over cancer. Here’s everything you need to know (&amp; how to keep your hair dark):](../../../../assets/images/2026/08/24/2091922866728063483-1.jpg)
+
+🔗 [View original post](https://x.com/TheFastedState/status/2091922866728063483)
+
+---
+
+### 🕐 16:14 UTC · @Wise1Philosophy
+
+> If your child is between 6 and 10 neuroscience says you&apos;re in the last major brain-wiring window before adolescence. What gets built now shapes the next 30 years. Here are the 5 things getting wired in right now... 👇🧵
+
+![If your child is between 6 and 10 neuroscience says you&apos;re in the last major brain-wiring window before adolescence. What gets built now shapes the next 30 years. Here are the 5 things getting wi](../../../../assets/images/2026/08/24/2091921979670770062-1.jpg)
+
+🔗 [View original post](https://x.com/scotti_brooks/status/2091921979670770062)
+
+---
+
+### 🕐 16:13 UTC · @Wise1Philosophy
+
+> Period blood is the one thing women are taught is &quot;Dirty&quot; and &quot;Impure&quot;. In 2004 scientists found STEM cells in it that are x 10 more effective than bone marrow STEM cells and that&apos;s not the only discovery they made. Here&apos;s the truth about period blood no one wants to talk about
+
+![Period blood is the one thing women are taught is &quot;Dirty&quot; and &quot;Impure&quot;. In 2004 scientists found STEM cells in it that are x 10 more effective than bone marrow STEM cells and that&](../../../../assets/images/2026/08/24/2091921743946592614-1.jpg)
+
+🔗 [View original post](https://x.com/Manifest_Lord/status/2091921743946592614)
+
+---
+
+### 🕐 16:11 UTC · @Wise1Philosophy
+
+> A humanoid robot built by Honor just ran 100m in 9.32 seconds at the World Humanoid Robot Games in Beijing. That breaks Usain Bolt&apos;s 100m world record of 9.58 seconds. This same robot won the Beijing half marathon back in April, beating elite human record pace over 21km. Media
+
+🔗 [View original post](https://x.com/TheAIColonyRD/status/2091921375787176358)
+
+---
+
+### 🕐 16:09 UTC · @Wise1Philosophy
+
+> 🚨 BREAKING: Elon Musk says Starlink will soon run on a single account that covers your home internet and your phone. High-speed internet beamed directly from satellite to your phone. No cell towers, no carriers, no middlemen. If it works as promised, dead zones stop existing. You could stream HD video from the middle of the ocean, a desert, or anywhere on the planet. SpaceX isn’t just competing with internet providers anymore. It’s coming for the entire telecom industry. https://x.com/Yerocode0/status/2090651221472207047/video/1 Media
+
+🔗 [View original post](https://x.com/FutureStacked/status/2091920931513905264)
+
+---
+
+### 🕐 16:05 UTC · @Wise1Philosophy
+
+> This robot in China just scored a free kick and hit Cristiano Ronaldo’s SIUUU celebration perfectly. Media
+
+🔗 [View original post](https://x.com/TheAIColony/status/2091919825467473991)
+
+---
+
+### 🕐 15:57 UTC · @Wise1Philosophy
+
+> A marketing manager used ChatGPT and Claude roughly 15 times per day. Every conversation started the same way: &quot;I&apos;m a marketing manager at a B2B SaaS company. We sell project management software to mid-size businesses. Our target audience is operations directors. Our brand voice is professional but approachable. Our main competitor is Monday com.&quot; He&apos;d typed some version of this paragraph 500 times across 2 years. Pasted it into new chats. Recited it from memory. Explained himself to an AI that had already heard it hundreds of times but couldn&apos;t remember because he&apos;d never configured the one setting that makes it permanent. His intern a 22-year-old who&apos;d grown up customizing every app on every device looked at his screen one afternoon and said: &quot;You&apos;re using a $20/month personalized AI assistant as an anonymous search engine. Both ChatGPT and Claude remember you now. Both build on previous conversations. Both can be customized to your exact role, your style, and your projects. You just never told them to.&quot; She spent 20 minutes showing him 11 features across both platforms. When she finished, every future conversation on both ChatGPT and Claude started with the AI already knowing his name, his company, his audience, his competitors, and his writing voice. He never typed the paragraph again. Here&apos;s the full playbook 🧵
+
+🔗 [View original post](https://x.com/jackcoder0/status/2091917778651644313)
+
+---
+
+### 🕐 15:51 UTC · @Wise1Philosophy
+
+
+🔗 [View original post](https://x.com/alex_verem/status/2091916356673495313)
+
+---
+
+### 🕐 15:38 UTC · @Wise1Philosophy
+
+> this is the best engineering team I&apos;ve come across: PTI Security needed one platform rebuilt. 40,000 facilities running on legacy infrastructure since 1979. We shipped four products with eight engineers, every line of code written by hand. This was 2021, pre-AI, before agents or co-pilots touched production code. I want to walk th…
+
+🔗 [View original post](https://x.com/alex_prompter/status/2091912988487823742)
+
+---
+
+### 🕐 15:33 UTC · @Wise1Philosophy
+
+> PTI Security needed one platform rebuilt. 40,000 facilities running on legacy infrastructure since 1979. We shipped four products with eight engineers, every line of code written by hand. This was 2021, pre-AI, before agents or co-pilots touched production code. I want to walk through this one because nearly five years later, we&apos;re still there. StorLogix Cloud ran access, zones, alarms, and device monitoring for self-storage facilities across the country. Real security systems, real operations, running 24/7. Brownfield, not a demo. We started September 2021 and didn&apos;t write code for weeks. Product assessment came first: user research, personas, wireframes, a design system from scratch. We mapped the gaps before touching the codebase. Then we rebuilt StorLogix Cloud 2.0 from the ground up. Their CTO, Nathan Davenport, said we &quot;monumentally improved the platform&apos;s loading speed.&quot; During the rebuild, we found three products PTI didn&apos;t know they needed: a tenant app replacing the legacy mobile experience, an installer tool for commissioning smart locks in the field, and an admin portal for managing the business side. We didn&apos;t pitch those. Didn&apos;t upsell them. The first job earned us the next one, and the next one after that. Every pull request was a human building it and a human challenging it. Nathan Davenport left a 5.0 on Clutch. Called us &quot;experienced, highly skilled, and adaptive.&quot; Then ASSA ABLOY acquired PTI. New ownership reviewed every contract, vendor, and line item. Our @LimestoneHQ team was part of what they kept. Nearly five years, same team still shipping. The tools changed. The standard didn&apos;t.
+
+🔗 [View original post](https://x.com/mardehaym/status/2091911838174789924)
+
+---
+
+### 🕐 15:33 UTC · @Wise1Philosophy
+
+> My best friend started taking zinc in the morning, magnesium at night, and vitamin D+K2 with breakfast after his doctor told him to. He stuck with it for 30 days. Then... no kidding his personality did a complete 180
+
+🔗 [View original post](https://x.com/_Gut_Laboratory/status/2091911775264350481)
+
+---
+
+### 🕐 15:26 UTC · @Wise1Philosophy
+
+> Now that they&apos;ve added Fable 5 to Claude&apos;s regular subscriptions, it&apos;s worth remembering: Buried inside thousands of lines of system instructions is one of the clearest explanations we&apos;ve seen of how Claude decides which websites to search, open, cite and recommend. It also helps explain why some businesses repeatedly appear in Claude while others don&apos;t. Let’s go through it. And to see whether Claude, ChatGPT, Google AI, Perplexity and Grok are recommending your business right now, start here (it&apos;s free): https://seo-stuff.com/free-audit So, to be clear, Anthropic did not publish this as an official Claude ranking guide. Rather, the prompt was extracted and published by a public system-prompt archive. That said, the search process is specific enough to show how Claude discovers and evaluates sources. The first major revelation is fairly straightforward: when Claude searches the web, its search tool returns 10 highly ranked results for that individual search. The prompt does not say these are specifically Google’s top 10 results, and Claude can run multiple searches using different queries, but it does confirm that ranked search visibility plays a major role in determining which websites Claude encounters. Claude starts with a relatively small group of pages that a search engine has already ranked highly, so if your page never enters those groups, Claude may never open, evaluate or cite it for that question. This is why traditional search visibility still matters so much for AI search. https://seo-stuff.com Claude then applies another layer. The prompt tells it to begin with short, broad searches, generally between one and six words, before narrowing the query when necessary. That could mean searches like “best payroll software,” “dental marketing agency,” “business insurance companies” or “CRM for contractors.” Claude may take one detailed customer question and investigate it through several shorter searches. Your website therefore needs to make it extremely obvious what your company does, which category it belongs to, who it serves, what problems it solves and which products or services it should be compared against. You need pages that map to the different ways buyers describe your category, use case, problem and desired outcome. The prompt also instructs Claude to search the live web when a question involves current information, newer products, unfamiliar companies, specific versions or recommendations that may have changed. That means businesses cannot depend entirely on what Claude learned during training. Current pricing, product information, comparisons, reviews, case studies and third-party mentions all matter. A company missing from Claude’s existing knowledge can still become one of the sources it discovers today. This is where SEO Stuff’s done-for-you package becomes relevant: https://seo-stuff.com/gold-plan-package It combines 10 AI search optimized pieces of content with three DR50+ contextual PR backlinks. The content gives Claude more category, use-case and comparison pages to discover, while the backlinks help those pages compete inside the ranked search layer Claude uses to build its source pool. But ranking is only the first step, because Claude’s prompt says search snippets are often insufficient. After identifying a potentially useful result, Claude is instructed to open the page and retrieve its full content. The page still needs to contain usable evidence. Basically, that means question-based headings, direct answers, clear definitions, comparison tables, dates, named products, authorship, original research and transparent sourcing. Pages filled with vague marketing language give Claude very little to work with, whereas pages organized around specific questions and factual answers give it passages that can actually support a response. The system prompt also tells Claude to favor original sources, including company websites, official documentation, government sources, peer-reviewed research and primary reports. That means your own website can absolutely become the source Claude cites, but it needs to contain original information worth citing. That could include actual pricing, product specifications, original research, industry data, customer results, methodologies, policies, case studies, expert explanations and documentation. This becomes even more important for recommendations and comparisons. A simple factual question may require one search, while an open-ended buying question can trigger several searches across different products, categories and sources. A connected group of relevant pages gives Claude several ways to encounter your business during the same research process. Claude also does not automatically trust every commercial page it finds, so a page claiming your company is the best option is not enough. Your website can explain what you offer and why it is different, while trusted third-party sources help verify those claims. Relevant press coverage, industry mentions, expert quotes, reviews, podcasts and backlinks can all create additional evidence around the brand. The practical goal is to become visible inside the ranked systems Claude searches while building enough outside validation to make your claims credible. The prompt also says Claude must cite specific claims drawn from web searches, and that has major implications for how content should be written. Claude needs clear passages answering questions like how much the product costs, who it is designed for, what makes it different, what results customers have achieved and what evidence supports the company’s claims. The easier those answers are to locate, the easier it becomes for Claude to cite the page. Think of these as claim-sized content blocks. One clear question, one direct answer, one supporting fact and one source or piece of evidence. That is far more useful to Claude than 1,500 words of general brand copy. There is one more important layer: Claude can personalize recommendations using information it knows about the user. The company it recommends may change depending on industry, company size, location, budget, use case, technical requirements and previous preferences. This is why targeting a broad phrase like “best software” or “best agency” is rarely enough. You need pages that clearly explain who the offering is best for. That could mean “best accounting software for agencies,” “best insurance provider for multi-location businesses” or “best CRM for home service companies.” The more clearly your pages connect the offering to a specific buyer, the easier it becomes for Claude to justify recommending it to that person. All of this is the system SEO Stuff was built around: https://seo-stuff.com And to see whether your business is already being recommended across Claude, ChatGPT, Google AI, Perplexity and Grok, check here: https://seo-stuff.com/free-audit Google is now literally telling businesses specifically how to get traffic from AI Search. Yes, directly within Google Search Console. It&apos;s probably one of the most important marketing updates of 2026. Let’s go through it. By the way, you can see whether your business is appearin…
+
+![Now that they&apos;ve added Fable 5 to Claude&apos;s regular subscriptions, it&apos;s worth remembering: Buried inside thousands of lines of system instructions is one of the clearest explanations we&](../../../../assets/images/2026/08/24/2091910002315518357-1.jpg)
+
+🔗 [View original post](https://x.com/alexgroberman/status/2091910002315518357)
+
+---
+
+### 🕐 15:20 UTC · @Wise1Philosophy
+
+> Generation cost is a creativity tax. At $3.60 per 30-second clip you think twice before rerolling a shot. At $1.20 you stop counting. That&apos;s the shift in Topview putting Wan 3.0 on Ultra Annual: $1.20 per 30s generation, with 365 days of unlimited on top. Their Seedance 2.5 tier runs $3.60 per 30s with a 60-day unlimited window. Same output length, a third of the price, 6x the unlimited access. Production AI video is an iteration game. The keeper is rerolls deep, and pricing that lets you fail cheap does more for your output than another benchmark win. The rates are @TopviewAIhq&apos;s published numbers. The iteration math is on you. Media Wan 3.0 is now on Topview. More value. Longer unlimited access. Lower cost. With Ultra Annual, generate 30s videos with Wan 3.0 for just $1.20. Plus, get 365 days of unlimited generations. That’s 1/3 the cost and 6x longer unlimited access compared to Seedance 2.5. Create more AI…
+
+🔗 [View original post](https://x.com/alex_verem/status/2091908560045117660)
+
+---
+
+### 🕐 15:20 UTC · @Wise1Philosophy
+
+> BREAKING: These 10 careers will quietly dominate the next 10 years. Most people won’t notice until it’s too late. The people learning these skills today will be impossible to ignore by 2030:
+
+🔗 [View original post](https://x.com/AIFrontliner/status/2091908466566676641)
+
+---
+
+### 🕐 15:17 UTC · @Wise1Philosophy
+
+> The pricing math on this launch is worth a look. Wan 3.0 on Topview&apos;s Ultra Annual plan: $1.20 per 30-second generation, plus 365 days of unlimited generations. Seedance 2.5 on the same platform: $3.60 per 30 seconds, with a 60-day unlimited window. Same clip length. A third of the cost. 6x the unlimited access. The number that matters here is cost per attempt. AI video is a reroll game: the first generation is a draft, and the model you can afford to rerun 10 times beats the one you baby through 3 tries. Those are @TopviewAIhq&apos;s published rates. At $0.04 per second, testing an idea stops being a budget decision. Media Wan 3.0 is now on Topview. More value. Longer unlimited access. Lower cost. With Ultra Annual, generate 30s videos with Wan 3.0 for just $1.20. Plus, get 365 days of unlimited generations. That’s 1/3 the cost and 6x longer unlimited access compared to Seedance 2.5. Create more AI…
+
+🔗 [View original post](https://x.com/alex_prompter/status/2091907737462411637)
+
+---
+
+### 🕐 15:15 UTC · @Wise1Philosophy
+
+> Wan 3.0 acaba de llegar a @TopviewAIhq y hay un dato que me parece una locura. Misma generación de vídeos de 30 segundos que Seedance 2.5, pero a 1/3 del coste. - Seedance 2.5 → $3,60 / 30s + 60 días ilimitados - Wan 3.0 → $1,20 / 30s + 365 días ilimitados Es decir, Wan 3.0 sale 3 veces más rentable y, además, los usuarios Ultra Annual tienen un año completo de generaciones ilimitadas. Para quien genera vídeos con IA a escala, la diferencia puede ser enorme. Media Wan 3.0 is now on Topview. More value. Longer unlimited access. Lower cost. With Ultra Annual, generate 30s videos with Wan 3.0 for just $1.20. Plus, get 365 days of unlimited generations. That’s 1/3 the cost and 6x longer unlimited access compared to Seedance 2.5. Create more AI…
+
+🔗 [View original post](https://x.com/MiguelMaestroIA/status/2091907144912142680)
+
+---
+
+### 🕐 15:13 UTC · @Wise1Philosophy
+
+> Peptides are the most underrated tool for skin aging. This 7-compound stack targets skin where no topical can reach. Here&apos;s the breakdown:🧵
+
+![Peptides are the most underrated tool for skin aging. This 7-compound stack targets skin where no topical can reach. Here&apos;s the breakdown:🧵](../../../../assets/images/2026/08/24/2091906668208541855-1.jpg)
+
+🔗 [View original post](https://x.com/MindsetFreek/status/2091906668208541855)
+
+---
+
+### 🕐 15:08 UTC · @Wise1Philosophy
+
+> ¿Odyssey + Game of Thrones… pero generado con IA? ⚔️ Creé la misma batalla épica con Seedance 2.0 y Seedance 2.5 para ver cuánto ha evolucionado el video con IA. Mismo concepto. Dos generaciones. Una diferencia enorme. Mira el resultado 👇 #flovaai #flovaskill #seedance25 Media
+
+🔗 [View original post](https://x.com/Alex_Inspira/status/2091905460031082877)
 
 ---
 
@@ -58,11 +294,29 @@
 
 ---
 
+### 🕐 14:39 UTC · @Wise1Philosophy
+
+> On March 3rd, I had no idea what I was doing. 173 days later, Claude Code (almost) runs my business. I&apos;m not a developer. I&apos;m a marketer who discovered the power of Claude Code for content. I might sound strange to say that, because coding is for developers, right? Wrong. Coding is for everyone. I documented every step → https://charliehills.substack.com/p/give-me-10-minutes-ill-teach-you It covers everything I have learned in 173 days. Repost ♻️ to help someone stuck on step one. P.S. Have you tried Claude Code yet?
+
+![On March 3rd, I had no idea what I was doing. 173 days later, Claude Code (almost) runs my business. I&apos;m not a developer. I&apos;m a marketer who discovered the power of Claude Code for content. ](../../../../assets/images/2026/08/24/2091898271115739574-1.jpg)
+
+🔗 [View original post](https://x.com/charliejhills/status/2091898271115739574)
+
+---
+
 ### 🕐 14:33 UTC · @Wise1Philosophy
 
 > Losing fat in your hips and belly is extremely easy once you realize this:
 
 🔗 [View original post](https://x.com/BeBetterMan_/status/2091896722935230518)
+
+---
+
+### 🕐 14:21 UTC · @Wise1Philosophy
+
+> Looks like there’s still a discount these few days, so I’m thinking of trying it out myself. The cost isn’t high anyway, so there’s really no pressure—just want to give it a try and see how it goes. Wan 3.0, Newtake에 런칭 ｜ 기간 한정 초당 최저 14.6 원부터 영화급 화질, 실제 영화 제작에 필요한 예산 없이도 얼굴 표현의 제약 없이, 누구나 자신만의 주인공으로 영화급 액션과 사운드, 단순한 움직임을 넘어 실제처럼! 캐릭터부터 배경까지 픽셀 단위로 구현하여 높은 수준의 일관성 유지 이미지·텍스트·영상·음성 등 다양한 레퍼런스 지원 ⏰ 기간 한정 혜택: 8월 24일–27일 👉 지금 바로 Newtake에서 만나보세요
+
+🔗 [View original post](https://x.com/marlowepeony/status/2091893765007167934)
 
 ---
 
@@ -726,6 +980,24 @@
 > A Stanford neuroscientist said: &quot;Chronic cortisol is wrecking your sleep, rewiring your fear center, and locking you into survival mode.&quot; 1. I&apos;d hum at a low pitch for 2 minutes for 30 days Media
 
 🔗 [View original post](https://x.com/JasperKasparov/status/2091707088762466481)
+
+---
+
+### 🕐 01:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/08/24/2091699543440036000-1.jpg)
+
+🔗 [View original post](https://x.com/Ant_Philosophy/status/2091699543440036000)
+
+---
+
+### 🕐 01:00 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/08/24/2091692107698200868-1.jpg)
+
+🔗 [View original post](https://x.com/Mindsthatbuild/status/2091692107698200868)
 
 ---
 

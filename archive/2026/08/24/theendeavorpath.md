@@ -2,7 +2,27 @@
 
 ## 📅 August 24, 2026
 
-> 3 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 17:42 UTC · @theendeavorpath
+
+> 8 FEMALE PSYCHOLOGIES EVERY MAN SHOULD REMEMBER
+
+![8 FEMALE PSYCHOLOGIES EVERY MAN SHOULD REMEMBER](../../../../assets/images/2026/08/24/2091944305514643743-1.jpg)
+
+🔗 [View original post](https://x.com/EnergyUp_/status/2091944305514643743)
+
+---
+
+### 🕐 16:26 UTC · @theendeavorpath
+
+> Porn is a trap in real life sex.
+
+![Porn is a trap in real life sex.](../../../../assets/images/2026/08/24/2091925006829707583-1.jpg)
+
+🔗 [View original post](https://x.com/stoicmen_/status/2091925006829707583)
 
 ---
 
