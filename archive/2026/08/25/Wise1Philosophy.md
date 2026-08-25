@@ -2,7 +2,42 @@
 
 ## 📅 August 25, 2026
 
-> 10 post(s) archived.
+> 14 post(s) archived.
+
+---
+
+### 🕐 07:43 UTC · @Wise1Philosophy
+
+> AI videos are finally getting longer without losing the scene. Wan 3.0 on Magnific can generate 30-second videos with native sound in one all-in-one call. Voice, music, effects, camera movement, and character action all come together. Up to 40% OFF until Sept 30: https://be.magnific.com/4wPeipA Media
+
+🔗 [View original post](https://x.com/heyDhavall/status/2092155953420595648)
+
+---
+
+### 🕐 07:01 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/08/25/2092145257978675360-1.jpg)
+
+🔗 [View original post](https://x.com/apex_mentality_/status/2092145257978675360)
+
+---
+
+### 🕐 06:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/08/25/2092137428802834710-1.jpg)
+
+🔗 [View original post](https://x.com/yeti_mind/status/2092137428802834710)
+
+---
+
+### 🕐 06:00 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/08/25/2092130067010789767-1.jpg)
+
+🔗 [View original post](https://x.com/Life__Mastery/status/2092130067010789767)
 
 ---
 

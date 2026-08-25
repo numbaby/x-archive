@@ -2,7 +2,15 @@
 
 ## 📅 August 25, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 05:51 UTC · @elonmusk
+
+> MrBeast says once enough airlines offer Starlink, he’ll only book those flights: “Extra layover? Don’t care—there’s Starlink. I’ll sit anywhere for it. Starlink is amazing.” He adds: “Most people haven’t used it, but in Antarctica it was our only signal. On a four-hour drive through rural Africa, we mounted Starlink on the car and had perfect connectivity the whole time.” On SpaceX: “What Elon Musk is doing will fundamentally advance humanity in unimaginable ways. Someone will go to Mars in our lifetime—I truly believe it.” https://x.com/teslaownersSV/status/2042490675716091942/video/1 Media
+
+🔗 [View original post](https://x.com/teslaownersSV/status/2092127828515094756)
 
 ---
 
