@@ -2,7 +2,69 @@
 
 ## 📅 August 25, 2026
 
-> 26 post(s) archived.
+> 33 post(s) archived.
+
+---
+
+### 🕐 10:00 UTC · @Wise1Philosophy
+
+> rednote&apos;s AI lab, dots studio @dotsstudioai, just released a new open-weight model: dots3-note Preview → 280B parameters / 16B active → 512K context → Text + vision + speech Built for something most agents still struggle with: tasks that run for hours, days, or even weeks Here’s how: Media
+
+🔗 [View original post](https://x.com/nrqa__/status/2092190306536235464)
+
+---
+
+### 🕐 09:42 UTC · @Wise1Philosophy
+
+> This might be the best AI video game movie Hollywood never made. Media
+
+🔗 [View original post](https://x.com/AIFrontliner/status/2092185857927098464)
+
+---
+
+### 🕐 09:40 UTC · @Wise1Philosophy
+
+> Wizstar just hit #1 Product of the Day on Product Hunt 👀 What caught my attention is how its AI Avatar Turbo can turn a single photo into a natural-looking talking avatar without model training. The interesting part is what’s happening under the hood. Wizstar uses a two-stage, audio-driven pipeline that separates speech, mouth movement, and head pose before reconstructing facial details and expressions. That seems to make a real difference when things get tricky — like mouth occlusion, extreme angles, or faster head movements — where AI avatars often start to look stiff or lose lip-sync accuracy. There are also two options depending on what you need: → AI Avatar Turbo for faster, more cost-efficient generation → AI Avatar for stable quality and unlimited-length videos For me, the bigger takeaway is that AI avatars are moving beyond simple talking-head generation. The ability to create a reusable digital avatar from a single photo, without going through traditional model training, could make video production much more scalable. Definitely an interesting one to test. https://wizstar.com/ #Wizstar #AIAvatar #ArtificialIntelligence Media
+
+![Wizstar just hit #1 Product of the Day on Product Hunt 👀 What caught my attention is how its AI Avatar Turbo can turn a single photo into a natural-looking talking avatar without model training. The i](../../../../assets/images/2026/08/25/2092185293311062344-1.png)
+
+🔗 [View original post](https://x.com/shedntcare_/status/2092185293311062344)
+
+---
+
+### 🕐 09:35 UTC · @Wise1Philosophy
+
+> I am finally giving up claude code for this You can replace any harness with these ten repeatable pieces stacked in the right order, and almost nobody outside the top labs has ever laid out the full stack. A free course just open sourced the entire blueprint. Building a coding agent that actually ships in production used to mean reverse engineering internal docs from the top labs, one leaked system prompt at a time. There was no public curriculum for any of it. Until now. Vercel put together a course that teaches the whole build from zero, in the exact order production teams use internally. It starts with loops, the core cycle that lets an agent think, act, and check its own work. From there it moves through tools, system prompts, sandboxes, context management, subagents, human-in-the-loop checks, verification, CLI wiring, and finally skills. Ten stages. That&apos;s the skeleton underneath every serious coding agent on the market right now. No paywall. No NDA. Consulting shops charging five figures to teach &apos;agent architecture&apos; built their entire pitch on this staying scattered and undocumented. Once the build order is public, the moat was never the agent. It was the ten steps nobody wrote down.
+
+![I am finally giving up claude code for this You can replace any harness with these ten repeatable pieces stacked in the right order, and almost nobody outside the top labs has ever laid out the full s](../../../../assets/images/2026/08/25/2092184155782324260-1.jpg)
+
+🔗 [View original post](https://x.com/rryssf/status/2092184155782324260)
+
+---
+
+### 🕐 09:35 UTC · @Wise1Philosophy
+
+> I gave a Grok Bot my logins and let it work. Here is what actually happened (and what I would change): - It runs from its own cloud machine, not my laptop - It signs into tools as itself, with its own accounts - I brief it once, then message it like a colleague - It works the job end to end while I do other things - It stops and asks before anything irreversible - Nothing on my drive ever entered the picture The mental shift took me longer than the setup. I kept writing prompts. It does not want prompts, it wants a standing brief and a role. Once that landed, the thing I liked most was boring. It came back and asked. Twice on a job I expected it to plough straight through. What I would change: the tier ladder. Access depends on which Grok or Cursor plan you hold, and until recently that meant the very top ones. That has widened to SuperGrok Plus, Cursor Pro+ and all Cursor Teams plans, plus a 7 day capped trial with a card required. It is still a beta. Treat it like one, hand it reversible work first, and see how it goes. Follow Muhammad Ayan ♻️ Repost to help others
+
+![I gave a Grok Bot my logins and let it work. Here is what actually happened (and what I would change): - It runs from its own cloud machine, not my laptop - It signs into tools as itself, with its own](../../../../assets/images/2026/08/25/2092184151269249135-1.jpg)
+
+🔗 [View original post](https://x.com/socialwithaayan/status/2092184151269249135)
+
+---
+
+### 🕐 09:25 UTC · @Wise1Philosophy
+
+> A former Starbucks barista who worked behind the counter for 6 years watched her roommate order on the app every single morning for 11 months. Same drink. Same store. Same routine. Grande iced latte, extra vanilla, oat milk. $7.25 every time. No modifications. No rewards check. No strategy. She opened her roommate’s Starbucks app one night and went silent for 10 seconds. “You’ve spent $2,100 at Starbucks this year. You have zero Stars. You’ve never activated a single offer. You’re not even scanning your rewards code. You’re paying full price for a drink every single day at a company that built an entire system to give you free ones. You just never turned it on.” She changed 9 things in the app, the ordering habits, and the way her roommate thinks about Starbucks. Her roommate now gets a free drink every 8–10 days, pays $0 for modifications, and got upgraded to Gold status in under 4 months without spending a dollar more than she was already spending. “Starbucks doesn’t make more money when you use the rewards system. They make more money when you don’t. That’s why it’s buried in the app, turned off by default, and never explained by the person handing you your cup.” Here are the 9 things she changed 🧵
+
+🔗 [View original post](https://x.com/jackcoder0/status/2092181592462725545)
+
+---
+
+### 🕐 09:05 UTC · @Wise1Philosophy
+
+> AI video has never really solved lip sync. Wan 3.0 might have. It holds multilingual dialogue, accents and all, and keeps the mouth synced even when the scene cuts or the language switches. On Magnific right now. Up to 40% OFF until Sept 30: https://be.magnific.com/4wPeipA Media
+
+🔗 [View original post](https://x.com/JaynitMakwana/status/2092176446303412234)
 
 ---
 
