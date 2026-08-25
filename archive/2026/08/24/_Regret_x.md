@@ -2,7 +2,7 @@
 
 ## 📅 August 24, 2026
 
-> 49 post(s) archived.
+> 50 post(s) archived.
 
 ---
 
@@ -103,6 +103,16 @@
 ![](../../../../assets/images/2026/08/24/2091910242892415332-1.jpg)
 
 🔗 [View original post](https://x.com/_Regret_x/status/2091910242892415332)
+
+---
+
+### 🕐 15:10 UTC · @_Regret_x
+
+> Let that sink in: you can miss someone and still know they’re not good for your life. 💯
+
+![Let that sink in: you can miss someone and still know they’re not good for your life. 💯](../../../../assets/images/2026/08/24/2091906054103691658-1.jpg)
+
+🔗 [View original post](https://x.com/oyedega/status/2091906054103691658)
 
 ---
 

@@ -2,7 +2,62 @@
 
 ## 📅 August 25, 2026
 
-> 22 post(s) archived.
+> 28 post(s) archived.
+
+---
+
+### 🕐 12:39 UTC · @_Regret_x
+
+
+![](../../../../assets/images/2026/08/25/2092230380569190741-1.jpg)
+
+🔗 [View original post](https://x.com/_Regret_x/status/2092230380569190741)
+
+---
+
+### 🕐 12:17 UTC · @_Regret_x
+
+
+![](../../../../assets/images/2026/08/25/2092224764530278403-1.jpg)
+
+🔗 [View original post](https://x.com/_Regret_x/status/2092224764530278403)
+
+---
+
+### 🕐 11:56 UTC · @_Regret_x
+
+> Nobody prepares you for: outgrowing people you once thought would be in your life forever. ✍️
+
+![Nobody prepares you for: outgrowing people you once thought would be in your life forever. ✍️](../../../../assets/images/2026/08/25/2092219613450809675-1.jpg)
+
+🔗 [View original post](https://x.com/oyedega/status/2092219613450809675)
+
+---
+
+### 🕐 11:45 UTC · @_Regret_x
+
+
+![](../../../../assets/images/2026/08/25/2092216907378413777-1.jpg)
+
+🔗 [View original post](https://x.com/_Regret_x/status/2092216907378413777)
+
+---
+
+### 🕐 11:18 UTC · @_Regret_x
+
+
+![](../../../../assets/images/2026/08/25/2092209907084976200-1.jpg)
+
+🔗 [View original post](https://x.com/_Regret_x/status/2092209907084976200)
+
+---
+
+### 🕐 10:24 UTC · @_Regret_x
+
+
+![](../../../../assets/images/2026/08/25/2092196477473116660-1.jpg)
+
+🔗 [View original post](https://x.com/_Regret_x/status/2092196477473116660)
 
 ---
 

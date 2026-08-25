@@ -2,7 +2,7 @@
 
 ## 📅 August 24, 2026
 
-> 127 post(s) archived.
+> 128 post(s) archived.
 
 ---
 
@@ -144,6 +144,16 @@
 ![Most DTC founders think Shopify handles their sales tax. It doesn&apos;t. What Shopify actually does: - Collects tax at checkout (sometimes) - Shows you a report What Shopify doesn&apos;t do: - Regist](../../../../assets/images/2026/08/24/2091937320887075308-1.jpg)
 
 🔗 [View original post](https://x.com/ecomchasedimond/status/2091937320887075308)
+
+---
+
+### 🕐 16:52 UTC · @Wise1Philosophy
+
+> Your desktop, your laptop, and the old rig in your closet can run one AI model together. The problem is simple to state. The models worth running keep outgrowing the hardware normal people own, and the standard answer is to rent a cloud GPU and hand the whole workload to someone else&apos;s datacenter. An open-source project called Mesh LLM takes the other road. It pools GPUs and memory across every machine you point it at and exposes them as one OpenAI-compatible endpoint. A model that fits on one box runs on that box. A model too big for any single machine gets split into stages across several, with the mesh planning which layers live where. The reach goes past a home lab. You can keep a mesh private with invite tokens, or publish it and share compute with strangers on the public mesh, where discovery runs over Nostr instead of a company server. One command installs it, one command joins, and the endpoint drops into anything that speaks the OpenAI API, including Claude Code and other agent tools. It runs on CUDA, AMD, Vulkan, and Apple Silicon, supports the big open model families from Qwen and Llama to DeepSeek and GLM, and has picked up over 3,000 stars. The point was never beating the datacenter on speed. Serious AI doesn&apos;t have to live only in buildings owned by five companies, and every project like this keeps that door open.
+
+![Your desktop, your laptop, and the old rig in your closet can run one AI model together. The problem is simple to state. The models worth running keep outgrowing the hardware normal people own, and th](../../../../assets/images/2026/08/24/2091931594328293663-1.png)
+
+🔗 [View original post](https://x.com/alex_verem/status/2091931594328293663)
 
 ---
 
