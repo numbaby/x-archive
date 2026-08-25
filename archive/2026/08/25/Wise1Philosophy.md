@@ -2,7 +2,104 @@
 
 ## 📅 August 25, 2026
 
-> 75 post(s) archived.
+> 88 post(s) archived.
+
+---
+
+### 🕐 14:07 UTC · @Wise1Philosophy
+
+> If you want to avoid blood clots, strokes, and heart attacks (especially if you&apos;re over 40) Here are 8 things you must pay attention to: 1. Instant ramen.
+
+🔗 [View original post](https://x.com/TheFastedState/status/2092252607632859408)
+
+---
+
+### 🕐 14:04 UTC · @Wise1Philosophy
+
+> Heart attack = blood sugar. Heart attack = insulin resistance. Heart attack = No.1 killer according to the WHO. 5 simple rules to protect your heart: 1. Don&apos;t go pee at 3 AM Media
+
+🔗 [View original post](https://x.com/CoachJulianNiko/status/2092251672257196466)
+
+---
+
+### 🕐 14:02 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/08/25/2092251368895484368-1.jpg)
+
+🔗 [View original post](https://x.com/Ant_Philosophy/status/2092251368895484368)
+
+---
+
+### 🕐 14:00 UTC · @Wise1Philosophy
+
+> Nine companies are hiding 3 TRILLION dollars off their books. The investor who called the 2008 crash just noticed. And he says the AI boom might crash soon. Here is what he is actually warning about: Last week, Michael Burry went public with a new warning. He says today&apos;s AI spending looks like 2008 all over again. The problem is something called circular financing. Here is how it works in plain terms: The big AI companies fund each other&apos;s spending. One company&apos;s money comes back as another company&apos;s revenue. So demand looks bigger than it truly is. Burry says about 879 billion dollars flows through Nvidia this way. That props up Nvidia&apos;s sales without adding real new buyers. Now look at the debt behind the boom. Nine tech giants hold 3 trillion dollars in off-book promises. The five biggest cloud companies carry 1.65 trillion in hidden debt. And the credit market is getting nervous: The cost to insure Nvidia&apos;s debt has doubled in two months. That is a quiet warning most investors never see. There is a second trick hiding in the numbers. Companies stretch out how they count the cost of chips. That makes their profits look better than they really are. Burry says it could lift Oracle&apos;s 2028 profit by 27 percent. The mania signals are just as loud. 87 percent of all startup funding now goes to AI. In 1999, the internet share was below 40 percent. Nearly 38 percent of risky corporate bonds are now tied to AI. One single story is holding up both stocks and debt. That is exactly what worried Burry before 2008. Back then, the whole system leaned on rising home prices. Today, it leans on AI spending never slowing down. When one story holds up everything, everyone crowds one side. And crowded trades are where the real danger hides. If the story cracks, the exit gets very narrow, very fast. Emotional investors always find out too late. They buy the story near the top. They panic and sell near the bottom. The investors who survive are not watching Burry&apos;s posts for signals. They already have rules for when to buy, hold, and rotate. Rules that do not care how the AI story ends. That is exactly what Surmount was built for. Automated, rules-based strategies that run on logic, not hype. So when the next big narrative cracks, you are not guessing. You are already positioned, with a plan set in advance.
+
+![Nine companies are hiding 3 TRILLION dollars off their books. The investor who called the 2008 crash just noticed. And he says the AI boom might crash soon. Here is what he is actually warning about: ](../../../../assets/images/2026/08/25/2092250749967520040-1.jpg)
+
+🔗 [View original post](https://x.com/SurmountInvest/status/2092250749967520040)
+
+---
+
+### 🕐 13:50 UTC · @Wise1Philosophy
+
+> Just something I&apos;ve noticed... Local businesses are still some of the slowest to adapt. In some cases, it is costing them $25,000+ per month in potential revenue. If you&apos;re ignoring the traffic and sales you could be getting from Google and ChatGPT right now, you are going to be playing catch-up in 2027. Let’s walk through exactly how to fix it without hiring expensive outside help. And if you want to know how your site is showing up in ChatGPT, Claude, Google AI, Grok and broader AI search, check here (it&apos;s free): https://seo-stuff.com/free-audit Alright, biggest problem first. Google and AI search both rely heavily on authority, relevance and trust - albeit in slightly different ways. SEO Stuff (http://seo-stuff.com) helps businesses build all three. For a local business, that means having a fully optimized Google Business Profile, strong reviews, locally relevant backlinks and press mentions, consistent business information across the web and a fast, crawlable website that clearly explains what you do and where you operate. A few proven authority plays include partnering with complementary local businesses, joining your Chamber of Commerce, getting accredited by the Better Business Bureau, pitching local cost data or seasonal advice to news outlets, sponsoring community events and earning inclusion in “Best of [City]” guides. These placements help reinforce that your company is a real, trusted entity in a specific location. Next, your Google Business Profile needs to be treated like a major acquisition channel - because it is. Complete every relevant field, add high-quality photos regularly, publish updates, answer common questions, respond to reviews and keep your name, address and phone number consistent everywhere. For local businesses, your GBP, website, reviews and directory presence all work together to help Google and AI systems understand where you operate, what services you provide and whether customers trust you. Next, build strong service and location pages. To be clear, I&apos;m not saying create a thin page that swaps Los Angeles for Pasadena in the H1 and calls it local SEO. Each important service and market should have a genuinely useful page with local context, real job or staff photos, an embedded map where appropriate, FAQs based on actual customer questions, internal links to relevant services and a fast mobile experience. Think of each page as the best answer to a customer asking: “Who should I hire for [service] in [city]?” Reviews matter for the same reason. They give potential customers and AI systems third-party evidence about what you do and how well you do it. Request reviews immediately after service through SMS or email, feature strong reviews on your website, respond to them consistently and encourage customers to naturally describe the service they received and their location. A review saying “Great company” is useful because any review is better than no review. That said, a review saying “They replaced our HVAC system in Pasadena and finished the installation in one day” contains far more useful context. Technical SEO still matters, too. Your site should load quickly, work well on mobile, use clean URLs and internal links, have working XML sitemaps, avoid broken links and unnecessary redirects and remain accessible to the crawlers you want discovering the business. Then build content around the questions local customers actually ask. Useful topics include complete guides to a service in your city, cost breakdowns, seasonal advice, local problem-and-solution content, neighborhood or service-area information and explanations of how a particular service works locally. For example, a roofing company would probably get more value from “How Much Does a New Roof Cost in Phoenix?” than another generic article called “5 Benefits of a New Roof.” You also need to strengthen branded search. Customer stories, local press coverage, reviews, community sponsorships, retargeting and consistent brand mentions all give people more reasons to search your company by name. That matters because a customer who sees your business recommended in ChatGPT will often verify you somewhere else before calling. They may search Google, open your GBP, read your reviews, visit your website and compare you with another local company. Everything needs to tell the same story. Finally, track what actually creates business, including branded search growth, GBP calls and direction requests, Google and AI visibility, review growth, service-page conversion rates, off-site mentions and leads coming from organic and AI referral traffic. Traffic means very little if it does not turn into calls, appointments and revenue. Most local businesses still have an incomplete GBP, weak reviews, generic service pages, poor local authority and almost no content built around the questions customers actually ask. That is a huge opportunity for the businesses willing to fix it now. Customers are already using Google, ChatGPT, Gemini, Perplexity and other AI tools to decide who to call. You need to make sure your business is one of the options they find. And if you want to see how your business is currently showing up across Google AI, ChatGPT, Claude, Perplexity and Grok, check here. It’s free: https://seo-stuff.com/free-audit Now that they&apos;ve added Fable 5 to Claude&apos;s regular subscriptions, it&apos;s worth remembering: Buried inside thousands of lines of system instructions is one of the clearest explanations we&apos;ve seen of how Claude decides which websites to search, open, cite and recommend. It also helps…
+
+![Just something I&apos;ve noticed... Local businesses are still some of the slowest to adapt. In some cases, it is costing them $25,000+ per month in potential revenue. If you&apos;re ignoring the traf](../../../../assets/images/2026/08/25/2092248243568865453-1.jpg)
+
+🔗 [View original post](https://x.com/alexgroberman/status/2092248243568865453)
+
+---
+
+### 🕐 13:37 UTC · @Wise1Philosophy
+
+> trying to do SEO with Grok Bot without reading this article be like: Media
+
+🔗 [View original post](https://x.com/bloggersarvesh/status/2092245032485200197)
+
+---
+
+### 🕐 13:34 UTC · @Wise1Philosophy
+
+> 9 years as a doctor taught me this: Gut health changes everything. If you want to fix your gut health, here&apos;s every tip I could come up with: 1. Cool your potatoes. Media
+
+🔗 [View original post](https://x.com/_Gut_Laboratory/status/2092244324972941596)
+
+---
+
+### 🕐 13:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/08/25/2092243308181368840-1.jpg)
+
+🔗 [View original post](https://x.com/Mindsthatbuild/status/2092243308181368840)
+
+---
+
+### 🕐 13:30 UTC · @Wise1Philosophy
+
+> this AI tutorial just changed interior design 🔥 what used to cost $100,000 and months of work now costs few minutes. here’s exactly how to do it:👇 Media
+
+🔗 [View original post](https://x.com/HeyAbhishek/status/2092243159669727344)
+
+---
+
+### 🕐 13:23 UTC · @Wise1Philosophy
+
+> Your client asked for five versions? No problem. This time, your budget can handle it. Wan 3.0 is now live on @TopviewAIhq at one third of Seedance 2.5’s cost, with 365 days of unlimited generations on Ultra Annual. Wan 3.0 is now on Topview. More value. Longer unlimited access. Lower cost. With Ultra Annual, generate 30s videos with Wan 3.0 for just $1.20. Plus, get 365 days of unlimited generations. That’s 1/3 the cost and 6x longer unlimited access compared to Seedance 2.5. Create more AI…
+
+![Your client asked for five versions? No problem. This time, your budget can handle it. Wan 3.0 is now live on @TopviewAIhq at one third of Seedance 2.5’s cost, with 365 days of unlimited generations o](../../../../assets/images/2026/08/25/2092241478684643480-1.jpg)
+
+🔗 [View original post](https://x.com/FutureStacked/status/2092241478684643480)
+
+---
+
+### 🕐 13:15 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/08/25/2092239325035626572-1.jpg)
+
+🔗 [View original post](https://x.com/Claritysteps/status/2092239325035626572)
 
 ---
 
@@ -118,6 +215,14 @@
 ![A beginner can now land a client. One good AI video can open the door. Wan 3.0 is now live on @TopviewAIhq at one third of Seedance 2.5’s cost, with 365 days of unlimited generations on Ultra Annual. ](../../../../assets/images/2026/08/25/2092232312435937528-1.jpg)
 
 🔗 [View original post](https://x.com/AIFrontliner/status/2092232312435937528)
+
+---
+
+### 🕐 12:47 UTC · @Wise1Philosophy
+
+> 8.86 seconds... 🤯 The 100 m record just dropped again. After the opening-night record started at 9.39 and later fell to 9.32, TianGong (Tien Kung) just clocked 8.86 in the first semifinal heat. Sub-9 seconds. And the final is still to come. Media 9.39 seconds... 🤯 The robot world’s sprint kings just pushed the 100 m record even lower. Tien Kung Ultra clocked 9.39 in its opening-day 100 m heat, faster than Usain Bolt’s 9.58-second human world-record time and way ahead of last year’s best robot time of 21.50 seconds. Here’…
+
+🔗 [View original post](https://x.com/XRoboHub/status/2092232282077864398)
 
 ---
 
@@ -532,6 +637,16 @@
 ![](../../../../assets/images/2026/08/25/2092152579442491542-1.jpg)
 
 🔗 [View original post](https://x.com/Daily__wisdom_/status/2092152579442491542)
+
+---
+
+### 🕐 07:15 UTC · @Wise1Philosophy
+
+> Elon Musk runs the same 5 steps on everything broken at Tesla, SpaceX and xAI. He calls it &quot;The Algorithm&quot;. I turned his system into a Claude prompt. Paste this and it runs The Algorithm on your workflow: &quot;You are a senior operations engineer. Your job is strictly limited to fixing one workflow I describe, in this order: question every step and make me name who actually needs it, delete whatever survives no answer, simplify what&apos;s left, speed up the slowest surviving step, then split the survivors into AI-ready and human-required before you suggest a single automation. Automation comes last, only for steps that earned it. If I push you to automate earlier, tell me it hasn&apos;t earned it yet. Do not invent details about my workflow, ask me. If I ask for anything outside this job, tell me it sits outside your scope and stop there.&quot; Elon needs a whole company to enforce these steps. You can just paste them.
+
+![Elon Musk runs the same 5 steps on everything broken at Tesla, SpaceX and xAI. He calls it &quot;The Algorithm&quot;. I turned his system into a Claude prompt. Paste this and it runs The Algorithm on ](../../../../assets/images/2026/08/25/2092148731743526949-1.jpg)
+
+🔗 [View original post](https://x.com/alex_prompter/status/2092148731743526949)
 
 ---
 
