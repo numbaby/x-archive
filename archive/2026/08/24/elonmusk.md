@@ -2,7 +2,7 @@
 
 ## 📅 August 24, 2026
 
-> 29 post(s) archived.
+> 31 post(s) archived.
 
 ---
 
@@ -11,6 +11,26 @@
 > Grok @Bot can do a lot! Grok Bot is insane. I asked it to find every video where Dr. Roger Seheult discusses sunlight, red light, infrared light, and mitochondria, including MedCram videos and interviews with Andrew Huberman, Eric Berg, Steven Bartlett, and others. A few minutes later it had: • Found an…
 
 🔗 [View original post](https://x.com/elonmusk/status/2092038808607084868)
+
+---
+
+### 🕐 23:02 UTC · @elonmusk
+
+> Inauguration of new Semi factory in Nevada next month
+
+![Inauguration of new Semi factory in Nevada next month](../../../../assets/images/2026/08/24/2092024765389410352-1.jpg)
+
+🔗 [View original post](https://x.com/tesla_semi/status/2092024765389410352)
+
+---
+
+### 🕐 22:30 UTC · @elonmusk
+
+> Using Grok Bot to cancel services is pretty magical. It just figures it all out, on its own. I literally had to ask it how it was able to cancel because I wanted to know. It couldn’t login to canceled so rather than getting stuck and asking me, it clicked a manage plan link in an email, got a one time sign in email sent, and then used that to cancel 😅 My bot is officially one step ahead of me.
+
+![Using Grok Bot to cancel services is pretty magical. It just figures it all out, on its own. I literally had to ask it how it was able to cancel because I wanted to know. It couldn’t login to canceled](../../../../assets/images/2026/08/24/2092016807943250150-1.jpg)
+
+🔗 [View original post](https://x.com/morganlinton/status/2092016807943250150)
 
 ---
 

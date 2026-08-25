@@ -2,7 +2,7 @@
 
 ## 📅 August 24, 2026
 
-> 125 post(s) archived.
+> 126 post(s) archived.
 
 ---
 
@@ -12,6 +12,14 @@
 ![](../../../../assets/images/2026/08/24/2092031777049018762-1.jpg)
 
 🔗 [View original post](https://x.com/Wise1Philosophy/status/2092031777049018762)
+
+---
+
+### 🕐 22:02 UTC · @Wise1Philosophy
+
+> A lead ignores your LinkedIn message. Three days later, they reply to your email. Then LinkedIn sends them another follow-up as if nothing happened. This is the stupidest version of multichannel outreach: more channels, zero memory. So here&apos;s how you build a smart multi-channel outreach system with memory: a way to add the lead, a shared identifier, a reply event and a lead-level pause action. Here&apos;s the flow: 1. The workflow starts on LinkedIn. It views the profile, sends the connection request, then waits. Once they connect, it sends the first message. If they reply, the flow ends there. 2. Switch channels when LinkedIn goes quiet. If the request stays pending, or the message gets no reply after the set window, that branch moves the lead into the right email campaign. In HeyReach, that handoff can run natively through Smartlead, Instantly or EmailBison. Other email tools can follow the same logic through Make, n8n or an API, provided they support the same add, reply and pause actions. 3. Carry the memory with the lead. The CRM record stores the LinkedIn URL, email address, LinkedIn status and last action. That record routes the lead to email copy that continues from what already happened instead of starting the conversation again. 4. Stop the other machine when a human answers. Replies in either channel trigger the control layer. Make uses the email address or LinkedIn URL to find the CRM record. It marks the reply there first, then pauses the same lead in the other active sequence. Without that step, your “multichannel” system congratulates itself for sending more messages while the prospect wonders why two versions of you are talking at once. 5. Let the CRM keep score. Each lead has one owner, one current status and one next action. Every channel reads from that record. P.S: The smartest multichannel workflow knows when to switch channels and when to shut up.
+
+🔗 [View original post](https://x.com/VukConfidential/status/2092009671800528909)
 
 ---
 
