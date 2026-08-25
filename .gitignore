@@ -23,3 +23,11 @@ incoming/
 *.log
 
 .locks/
+
+prompts/
+
+schema/
+
+scripts/
+
+*.py
