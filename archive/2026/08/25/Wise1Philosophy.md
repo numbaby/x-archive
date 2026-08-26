@@ -2,7 +2,467 @@
 
 ## 📅 August 25, 2026
 
-> 98 post(s) archived.
+> 154 post(s) archived.
+
+---
+
+### 🕐 21:44 UTC · @Wise1Philosophy
+
+> Brand Marketing keeps getting fired during probation. CEOs hire it to build future demand, hand it a Demand Capture deadline, and dismiss it when no leads show up immediately. Agree on the timeline before the work starts. Stop firing long-term marketing for taking time. Media
+
+🔗 [View original post](https://x.com/Tycho_luijten/status/2092367517562102186)
+
+---
+
+### 🕐 21:10 UTC · @Wise1Philosophy
+
+> brands don&apos;t actually struggle to make ads anymore.. they struggle with the chaos around the ads. that&apos;s the real final boss here&apos;s what actually eats a brand&apos;s time day to day: - finding creators who don&apos;t ghost you - shipping products out to them - writing the scripts - reviewing every piece of content - tracking what&apos;s even performing - launching the campaigns that&apos;s like six different jobs pretending to be one Icon just put that entire mess into one platform. with Admaker 2.0 you source creators, run production, track what&apos;s hitting, study the winning ads, recycle your top assets, and launch, all from one workspace no more duct-taping five tools and three agencies together just to ship human UGC. it&apos;s one system, built to actually scale if that sounds like your whole workflow right now → https://icon.com Media 3 months ago, I sold my 1st company, Skio, for $105M cash. Now my 2nd company, Icon, just raised $30M to launch something the world has never seen. For $1000, we make 6 human creator ads (no AI, 100% real). We find creators, ship products, write scripts, &amp; edit videos. It&apos;s risk-…
+
+🔗 [View original post](https://x.com/nrqa__/status/2092358943670727057)
+
+---
+
+### 🕐 20:25 UTC · @Wise1Philosophy
+
+> Every AI UGC ad I&apos;ve seen this week made me less likely to buy the product. Which is funny because UGC is supposed to do the opposite. There are now 30+ AI UGC platforms doing the exact same thing. Arcads, Creatify, HeyGen, Synthesia, MakeUGC. A new one launches every single week. They all work the same way: paste a URL, pick an avatar, get a video. $2 per clip. 50 variations in an afternoon. And every single one of them feels off. You scroll past it. You don&apos;t trust it. You definitely don&apos;t buy from it. That&apos;s not a gut feeling. The numbers back it up. Human UGC carries an 81% trust rating. AI UGC sits at 63%. Real creator content on Meta gets 28% higher click-through rates and 19% lower cost per acquisition than AI-generated visuals. Now here&apos;s where it gets embarrassing. AI UGC: ~$10 per video. 1 in 1000 actually converts. That&apos;s $1000 per winning asset. Human UGC: ~$1000 for 6 videos. 1 in 2 converts. That&apos;s $300 per winning asset. You&apos;re paying MORE for content people can instantly spot and skip. The wildest part? The company that launched as &quot;The First AI Admaker&quot;- backed by Founders Fund and OpenAI&apos;s Chief Research Officer quietly killed the entire positioning. Today they call themselves &quot;The Human Admaker.&quot; That company is Icon. You send your product. They handle creators, scripts, filming, editing and deliver 6 fully produced Human UGC ads for $1000. Plus an 8-in-1 platform that replaces the $10K+/month creative stack most DTC brands are running. 288+ brands already made the switch. AI UGC was the shortcut everyone wanted to work. It didn&apos;t. Media
+
+🔗 [View original post](https://x.com/iam_elias1/status/2092347581468946850)
+
+---
+
+### 🕐 20:09 UTC · @Wise1Philosophy
+
+> Tell it &quot;any call with a client goes in this folder&quot; and every future meeting files itself. Then anyone on the team can ask the folder questions. You ask a folder, you never search it. That is @getlindy. Today we’re announcing Lindy’s team meeting library. Just ask Lindy: &quot;any call with a client goes in this folder,&quot; and all future meetings self-organize. Your team can query shared folders all day long. https://Lindy.ai
+
+🔗 [View original post](https://x.com/TheAIColony/status/2092343658334794078)
+
+---
+
+### 🕐 20:08 UTC · @Wise1Philosophy
+
+> The bottleneck for AI agents is no longer intelligence. It is how much of your company they can actually see. An agent that read your docs is useful. An agent that heard every word ever said in your meetings is a different animal. @getlindy just shipped the second one. Today we’re announcing Lindy’s team meeting library. Just ask Lindy: &quot;any call with a client goes in this folder,&quot; and all future meetings self-organize. Your team can query shared folders all day long. https://Lindy.ai
+
+🔗 [View original post](https://x.com/AIHighlight/status/2092343447021654125)
+
+---
+
+### 🕐 20:07 UTC · @Wise1Philosophy
+
+> The biggest tax at work is answering &quot;what did they say on that call&quot; 20 times a week. Shared meeting folders are cutting Slack DMs by more than half. The knowledge stopped living in one person&apos;s head, thanks to @getlindy. Today we’re announcing Lindy’s team meeting library. Just ask Lindy: &quot;any call with a client goes in this folder,&quot; and all future meetings self-organize. Your team can query shared folders all day long. https://Lindy.ai
+
+🔗 [View original post](https://x.com/AriaWestcott/status/2092343197699571836)
+
+---
+
+### 🕐 20:05 UTC · @Wise1Philosophy
+
+> People are skipping meetings and just asking what happened after. Nobody notices. Nobody suffers. Maybe half your calendar never needed you in the room. @getlindy just proved it. Today we’re announcing Lindy’s team meeting library. Just ask Lindy: &quot;any call with a client goes in this folder,&quot; and all future meetings self-organize. Your team can query shared folders all day long. https://Lindy.ai
+
+🔗 [View original post](https://x.com/AIFrontliner/status/2092342694785716448)
+
+---
+
+### 🕐 19:29 UTC · @Wise1Philosophy
+
+> Support tickets contain some of the best growth advice your SaaS will ever get. Most teams throw that advice away the moment they mark the ticket solved. I run both Success and Support at @heyreach_io. And when a ticket comes in, the question I care about most sits one level below the issue: What was the customer trying to do? That answer changes how I read the ticket. An integration question can carry product demand. Someone asking how to add teammates can be ready to expand. And the same setup question showing up again points straight at onboarding. The problem is that most support reporting records the issue. Billing. Integration. Setup. Those labels help the team answer faster, but they do not capture the outcome the customer wanted. So Support can answer the question perfectly and still lose the useful part when somebody hits “solve.” The first change I would make tomorrow is adding one sentence to every ticket: “The customer is trying to ___.” Then every week I would group tickets by that field instead of the issue tag. Five completely different questions may be hiding the same customer goal. For every repeated outcome, I would name one owner and one next action. A confusing path goes back to onboarding. A missing capability becomes a Product decision, while customers trying to do more get a Success follow-up. Then I would check the following week for the same outcome. If it keeps appearing, the fix did not work. If I needed the next growth move for a SaaS, this is where I would start.
+
+🔗 [View original post](https://x.com/Vick_Mucunski/status/2092333643167608971)
+
+---
+
+### 🕐 19:29 UTC · @Wise1Philosophy
+
+> I&apos;ve taken two outbound tools past $10M ARR. And I still couldn&apos;t tell you what a normal LinkedIn outreach campaign looked like. So we analyzed 96,051 of them and built the benchmark nobody publishes. These are the 100 rules you can use to diagnose a campaign before you touch the copy or add volume. 1. The median is the more useful starting benchmark because a few exceptional campaigns can pull the average above what most teams experience. 2. The typical campaign had 21% of its connection requests accepted. 3. Acceptance below 13% fell into the weak range. 4. Acceptance above 32% entered the stronger range. 5. The typical message-reply rate was 22%. 6. A reply rate below 13% was weak. 7. A reply rate above 33% entered the stronger range. 8. Reply-to-acceptance conversion, or RTA, measures replies divided by accepted connections. 9. Typical RTA was 18%. 10. RTA below 10% was weak post-acceptance performance. 11. RTA above 29% was strong post-acceptance performance. 12. I read those three stages in order because the first one below range is the leak I fix first. The first lesson killed a bad habit of mine. I used to see a weak overall reply rate and start rewriting. That number can hide two completely different problems. Read the funnel in order. 13. A typical batch of 100 requests produced about 21 accepted connections. 14. Fewer than four of those 21 accepted connections produced a reply. 15. The sharpest loss in the typical funnel happened after acceptance. 16. In 10.7% of campaigns with accepted connections, nobody replied. 17. Another 15% converted fewer than one in ten accepted connections into a reply. 18. Combined, roughly one in four campaigns got through the connection stage and still created almost no conversations. 19. Acceptance can make a campaign look healthy while the conversation layer is completely broken. 20. Overall reply rate is an outcome metric. It cannot identify the broken stage by itself. 21. RTA equals replies divided by accepted connections, multiplied by 100. 22. RTA belongs at campaign level because one account-wide average hides differences between audiences and messages. This was the part I had been missing. Acceptance tells me we got through the door. It says very little about what happened once we entered. Diagnose the post-acceptance leak. 23. Directional RTA patterns begin to stabilize around 100 accepted connections in one campaign. 24. An A/B message test needs about 50 accepted connections per variation before the result becomes directionally useful. 25. Low RTA that stays flat across campaigns points first toward the opening message. 26. The RTA guide uses roughly 15% as the warning line for that low-and-flat pattern. 27. The first message has one job: make replying feel worthwhile. 28. A low-commitment question is easier to answer than a calendar request from someone the prospect just accepted. 29. When early cohorts reply and later cohorts stop, sequence depth becomes the next thing to inspect. 30. Fewer than three useful steps after acceptance can leave good prospects with no second reason to engage. 31. A follow-up that only says “just checking in” adds another notification without adding another reason to answer. 32. Time-series RTA requires an export because the native dashboard does not currently show that view. 33. When RTA varies sharply between campaigns, compare the audience before blaming one universal opener. 34. The same message can fit a Head of Sales and miss a RevOps leader because the problems they own are different. 35. Comparing the roles, company sizes and seniority levels in the top and bottom campaigns reveals where the message stopped fitting. 36. A winning opener&apos;s structure can survive across segments, but the problem it names has to change with the buyer. 37. The clean diagnostic order is acceptance, opening message, ICP-message fit, then sequence depth. I expected bigger campaigns to fall apart. They did lose some acceptance, but reported replies stayed surprisingly stable. Understand what scale actually changed. 38. Campaigns with fewer than 100 contacts recorded 21.43% acceptance. 39. Campaigns with more than 1,000 contacts recorded 19.35% acceptance. 40. That is a decline of only 2.08 percentage points between the smallest and largest reported volume groups. 41. Reported reply performance stayed between 21.67% and 23.08% across volume tiers. 42. Higher volume was associated with slightly lower acceptance, while reported replies stayed broadly stable. 43. A large campaign with weak results deserves a list-quality inspection before an automatic copy rewrite. 44. Broader lists can introduce weaker segmentation and lower-fit prospects as volume rises. 45. Campaigns using six to 20 senders recorded the strongest median reported reply rate at 25%. 46. Single-sender campaigns recorded 22.22%. 47. Campaigns using 50 or more senders recorded 20.33%. 48. The dataset does not isolate why six to 20 senders performed best, so sender count remains a benchmark to test rather than an explanation by itself. 49. Campaigns under 30 days consistently underperformed the older groups in the report. 50. Acceptance in the first seven days was 13.33%. 51. Reported reply performance in that early period was 14.29%. 52. Campaigns running for 180 days or more reached 26.99% acceptance. 53. The duration gap does not prove that campaigns improve with age. Survivorship is one plausible explanation for the association. 54. A two-week campaign below the benchmarks is a diagnostic flag. Waiting for day 180 is not a fix. This is where the report ends and the operating work starts. A benchmark can point at the leak. Someone still has to crawl into the pipe. Build a list that gives the campaign a chance. 55. The audience and campaign goal are defined before anyone writes the first message. 56. Warm sources such as post engagers, event attendees and website visitors stay separate from cold prospecting lists. 57. Warm and cold prospects get different sequences because only one group already has context. 58. Every imported list is filtered by role, company fit and geography before it reaches a sender. 59. Customers, active opportunities, disqualified leads and do-not-contact records are removed before launch. 60. Previous outreach across LinkedIn and email is checked before a lead enters another sequence. 61. First-degree connections are separated from new prospects because they can be messaged without another request. 62. Every lead keeps its source, segment and trigger so performance can be traced back to the audience that produced it. 63. A trigger_reason field records why the outreach is timely. 64. A proof_link records where that trigger came from, so a personalized line can be checked before it ships. 65. High-value, low-volume lists get manual research across the profile, company, careers page and recent activity. 66. Larger lists use structured enrichment so every lead carries the same minimum set of usable fields. 67. One or two adjacent stakeholders are mapped inside important accounts before launch. I&apos;ve watched decent messages lose because the sender profile gave the prospect no reason to trust the person behind them. Treat the sender like part of the message. 68. The sender profile functions as the landing page behind the connection request. 69. The headline explains who the sender helps and which problem they understand. 70. The About section carries the proof that would make the outreach credible. 71. Recent profile activity stays relevant to the audience the sender is contacting. 72. New or idle accounts start with lighter activity and increase only while account health holds. 73. For new accounts, HeyReach&apos;s current guidance starts with 100 manual connections, then ramps from 5 requests a day in week one to 10 in week two and 15 to 20 from week three. 74. Once an account is warmed up, HeyReach recommends 25 requests a day by default. Going to 30 is reserved for accounts with more than 1,000 connections and healthy acceptance. 75. Activity is spread across the day instead of arriving in one obvious burst. 76. Profile views, requests and messages are mixed so the account does not repeat one robotic action pattern. 77. Old pending invitations are cleared before a new campaign starts. 78. Sender-level acceptance is compared inside the same campaign so one weak profile cannot hide inside the pooled average. The blank-request result was the awkward one. I had spent years hearing that personalization wins, then our benchmark put blank requests five points ahead. Use the connection request to earn access. 79. Empty connection requests averaged 27% acceptance in one HeyReach benchmark. 80. Requests containing text averaged 22%. 81. That five-point gap is an association worth testing. It does not prove that every audience prefers a blank request. 82. Blank and written requests are tested against comparable audiences before either becomes the default. 83. A written note gives one current reason to connect and stops before becoming a pitch. 84. Links and attachments stay out of the request because they add friction before trust exists. 85. Dynamic variables always have a fallback so a missing field cannot send a broken message. 86. Every variation is previewed against real leads before the campaign launches. 87. The deeper personalization belongs after acceptance, where relevance can create a reply. The request gets us through the door. The first message decides whether anyone talks to us once we&apos;re inside. Build a sequence people can answer. 88. The operating sequence is simple: connect, send value, follow up, then stop on reply. 89. The first post-acceptance message names one true signal and one relevant problem. 90. Personalization is capped at two meaningful inputs per contact because more inputs add work faster than they add relevance. 91. Each follow-up has a different job: reconnect to the context, offer something concrete, or close the loop. 92. One agency in the report messaged new connections within three hours and recorded a 26% positive reply rate. 93. That result makes timing worth testing, but one agency case does not establish a universal three-hour rule. 94. “Stop on reply” is enabled before launch so automation cannot continue after a human conversation begins. I don&apos;t care about winning an acceptance-rate screenshot. The campaign has to produce a conversation that Nadja and the sales team can actually move forward. Make the system produce pipeline. 95. Total replies and positive replies are tracked separately because objections and buying intent have different pipeline value. 96. Campaign-and-sender performance lives in one dashboard, while segment performance lives in another. 97. A clean test changes one meaningful variable, keeps the rest stable and waits for enough accepted connections. 98. One suppression system and one set of stop rules govern every sender in the workspace. 99. The CRM receives the sender, campaign, first touch, acceptance, reply and current stage so sales inherits the full context. 100. The final scoreboard reaches beyond replies: positive conversation, opportunity, revenue. The order stays the same: earn acceptance, earn the reply, then add volume without losing control. Marija had the best line in the whole report: hitting the median isn&apos;t a win. It only means you stopped losing. My version after 96,051 campaigns: find the first leak, fix it, then earn the right to scale. The full benchmark report is in the article below (bookmark for later):
+
+🔗 [View original post](https://x.com/VukConfidential/status/2092333545570422902)
+
+---
+
+### 🕐 19:25 UTC · @Wise1Philosophy
+
+> 2025: Icon wanted AI to replace human creators 2026: Icon wants human creators to replace AI The plot twist writes itself. Media 3 months ago, I sold my 1st company, Skio, for $105M cash. Now my 2nd company, Icon, just raised $30M to launch something the world has never seen. For $1000, we make 6 human creator ads (no AI, 100% real). We find creators, ship products, write scripts, &amp; edit videos. It&apos;s risk-…
+
+🔗 [View original post](https://x.com/DataChaz/status/2092332583824588938)
+
+---
+
+### 🕐 19:05 UTC · @Wise1Philosophy
+
+> I share a lot more cool workflows, tips &amp; tricks on my instagram as well ❣️ Follow for more: https://instagram.com/alex_prompter
+
+![I share a lot more cool workflows, tips &amp; tricks on my instagram as well ❣️ Follow for more: https://instagram.com/alex_prompter](../../../../assets/images/2026/08/25/2092327417280884794-1.jpg)
+
+🔗 [View original post](https://x.com/alex_prompter/status/2092327417280884794)
+
+---
+
+### 🕐 18:55 UTC · @Wise1Philosophy
+
+> Nobody caught it says a lot about the quality. the negotiations failed 15 seconds, nobody caught it. made with Seedance 2.5 3D reference, human motion retargeted onto real cats #DreaminaAI #DreaminaSeedance25 #DreaminaAI3DContest
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2092324938212417760)
+
+---
+
+### 🕐 18:41 UTC · @Wise1Philosophy
+
+> we all thought advanced robots would need huge server farms and endless training. @SkildAI proved us wrong! The S1 model learns a 10-minute physical task from one video. No fine-tuning required. It figures it out in real time 👀↓ Introducing S1, our new foundation model that learns from one example. It can be taught 10-minute long tasks that it has never seen before, from one video prompt without any fine-tuning. Watch S1 operate in real-time via in-context learning:
+
+🔗 [View original post](https://x.com/DataChaz/status/2092321581984878826)
+
+---
+
+### 🕐 18:41 UTC · @Wise1Philosophy
+
+> No human touches your Amazon package for more than 8 seconds before it reaches your door. You click Buy. Somewhere inside a warehouse the size of 28 football fields, a robot that doesn&apos;t know what your product is pulls it from a shelf based on a barcode, drops it onto a conveyor belt, and sends it to a packing station where a worker has roughly 8 seconds to box it, seal it, and slap a label on it before the next item arrives behind it. The robot doesn&apos;t check if the product is correct. The packer doesn&apos;t have time to check if it&apos;s damaged. The scanner confirms the barcode on the shelf slot, not the contents of the product. Your $800 laptop and your $3 phone case get the same 8 seconds. The same conveyor. The same single scan. The same one-touch human interaction between a factory in China and your front porch. A former Amazon fulfillment center engineer who spent 5 years designing the robotic systems and workflow layouts inside some of the largest warehouses in the network sat down with his sister one evening after she received the wrong product for the second time in a month. &quot;You want to know how a $2 trillion company sends you the wrong item? Because the system was built for speed, not accuracy. And the tradeoff between those two things is something nobody at Amazon will ever explain to a customer, because the speed is the product. The accuracy is your problem.&quot; Here are the 9 things he told her about how a package actually gets from a click to a doorstep 🧵
+
+🔗 [View original post](https://x.com/Kevincreates77/status/2092321448228782537)
+
+---
+
+### 🕐 18:37 UTC · @Wise1Philosophy
+
+> 🚨 BREAKING: An AI company just quit AI. Icon launched in Feb 2025 as &quot;The First AI Admaker.&quot; Founders Fund backed it. OpenAI&apos;s Chief Research Officer backed it. The pitch was making ads without humans. Then mid-2025 the site went dark. It came back as &quot;The Human Admaker.&quot; Here&apos;s what actually happened: 1. AI UGC doesn&apos;t convert. Human UGC carries an 81% trust rating. AI sits at 63%. 2. Real customer content on Meta gets 28% higher CTR and 19% lower cost per acquisition. 3. So they killed the AI product and went 100% human. Real creators, real footage, real editing. 4. Then they bundled the boring stuff (ad spy, analytics, competitor research, ad management) into one platform that replaces a $10K+/mo stack. The offer: • 6 human UGC ads, filmed and edited (2 creators, 3 ads each) • 100% real, no AI • Admaker 2.0 included (replaces 8 tools, $10K+/mo) • You don&apos;t pay until you approve the scripts • Full refund if you don&apos;t like the finals • $999/month A company backed by some of the biggest names in AI looked at AI ads and decided humans were the better product. http://icon.com Media
+
+🔗 [View original post](https://x.com/JaynitMakwana/status/2092320518796169352)
+
+---
+
+### 🕐 18:30 UTC · @Wise1Philosophy
+
+> one-shot learning for physical tasks, we are not ready for this. Introducing S1, our new foundation model that learns from one example. It can be taught 10-minute long tasks that it has never seen before, from one video prompt without any fine-tuning. Watch S1 operate in real-time via in-context learning:
+
+🔗 [View original post](https://x.com/alex_verem/status/2092318802268520496)
+
+---
+
+### 🕐 18:30 UTC · @Wise1Philosophy
+
+> this is the GPT moment for robotics: Introducing S1, our new foundation model that learns from one example. It can be taught 10-minute long tasks that it has never seen before, from one video prompt without any fine-tuning. Watch S1 operate in real-time via in-context learning:
+
+🔗 [View original post](https://x.com/alex_prompter/status/2092318614229590524)
+
+---
+
+### 🕐 18:17 UTC · @Wise1Philosophy
+
+> Every brand I audit now has the same AI video tools sitting in the stack. Same avatars, same rooms. The feed learns to skip that pattern faster than anyone can refresh the creative. The one input a competitor cannot copy is a real person who actually used the product. 3 months ago, I sold my 1st company, Skio, for $105M cash. Now my 2nd company, Icon, just raised $30M to launch something the world has never seen. For $1000, we make 6 human creator ads (no AI, 100% real). We find creators, ship products, write scripts, &amp; edit videos. It&apos;s risk-…
+
+🔗 [View original post](https://x.com/ecomchasedimond/status/2092315460167737452)
+
+---
+
+### 🕐 18:17 UTC · @Wise1Philosophy
+
+> The marketing team explaining why they need 6+ subscriptions, 3-5 freelancers, and a weekly sync before one ad goes live: An ad research tool A second tool to “validate” the first tool A creator platform nobody checks An attribution dashboard everyone argues about An agency to coordinate the whole mess By the time the stack is set up, the competitor already shipped 30 creatives. Icon does the whole thing for $999 3 months ago, I sold my 1st company, Skio, for $105M cash. Now my 2nd company, Icon, just raised $30M to launch something the world has never seen. For $1000, we make 6 human creator ads (no AI, 100% real). We find creators, ship products, write scripts, &amp; edit videos. It&apos;s risk-…
+
+🔗 [View original post](https://x.com/sufyanmaan/status/2092315387559903408)
+
+---
+
+### 🕐 18:13 UTC · @Wise1Philosophy
+
+> this is how your e-learning starts and how it is going https://x.com/i/article/2092303074790678528
+
+![this is how your e-learning starts and how it is going https://x.com/i/article/2092303074790678528](../../../../assets/images/2026/08/25/2092314466830434360-1.jpg)
+
+🔗 [View original post](https://x.com/godofprompt/status/2092314466830434360)
+
+---
+
+### 🕐 17:51 UTC · @Wise1Philosophy
+
+> most posts on X are just recycled free AI courses we curated the list of ALL the best educational materials from top labs and creators Follow this page and reply &quot;Courses&quot; and we will DM you: 100+ genuinely free AI courses, filterable by topic, level and year. universities, YouTube, and the labs themselves. 2024 to 2026, nothing stale. BONUS inside: A prompt that condenses the entire course into an actionable insight. Tailored just for you
+
+![most posts on X are just recycled free AI courses we curated the list of ALL the best educational materials from top labs and creators Follow this page and reply &quot;Courses&quot; and we will DM you](../../../../assets/images/2026/08/25/2092308865765494919-1.jpg)
+
+🔗 [View original post](https://x.com/godofprompt/status/2092308865765494919)
+
+---
+
+### 🕐 17:44 UTC · @Wise1Philosophy
+
+> This is pretty insane. It’s been a crazy few months for physical ai, and this is one of the most cracked videos I’ve seen yet 🤯🤯 Introducing S1, our new foundation model that learns from one example. It can be taught 10-minute long tasks that it has never seen before, from one video prompt without any fine-tuning. Watch S1 operate in real-time via in-context learning:
+
+🔗 [View original post](https://x.com/wallstreetbets/status/2092307181081120826)
+
+---
+
+### 🕐 17:32 UTC · @Wise1Philosophy
+
+> this is the kind of enterprise AI content worth paying for: A PE operating partner asked us to build production AI agents inside a portfolio company&apos;s billing system, processing real healthcare claims under HIPAA. Two people hand-wrote every rule in their claims engine across 300+ denial codes and payer logic that changes quarterly. Four …
+
+🔗 [View original post](https://x.com/alex_prompter/status/2092304012968161739)
+
+---
+
+### 🕐 17:19 UTC · @Wise1Philosophy
+
+> Introducing S1, our new foundation model that learns from one example. It can be taught 10-minute long tasks that it has never seen before, from one video prompt without any fine-tuning. Watch S1 operate in real-time via in-context learning: Media
+
+🔗 [View original post](https://x.com/SkildAI/status/2092300842900865389)
+
+---
+
+### 🕐 17:14 UTC · @Wise1Philosophy
+
+> A guy who spent years competing with Google at search just came out of stealth to build the search engine AI agents actually need. Andrey Styskin ran search at Yandex, then worked on web infrastructure at Amazon AGI. Keenable is his third search build. They spent under a year building their own crawler and index instead of wrapping Bing or Google. 100B+ documents by their count, and already in production at AI labs. Styskin’s framing stuck with me: LLMs don’t usually give you wrong answers. They give you average ones. The model knows a bit of everything, but often can’t pull the exact context that would make the answer sharp. Better retrieval can fix that faster than just throwing a bigger model at it. And the timing is pretty brutal. Microsoft killed the Bing Search API. Google keeps its index closed. Meanwhile agents read whole pages and fire off way more queries than humans ever would, through infrastructure built for someone scanning 10 blue links. Keenable is betting it can keep cost, quality, and latency under control at that scale. Accel just led a $26M seed. Watching this one. Today we are announcing @KeenableAI, an AI-native index of the best human knowledge we have, starting with the open web. AI seems to know just about everything until you ask it about something you know deeply. The answer isn’t wrong, but it&apos;s just very average. We started Keenabl…
+
+🔗 [View original post](https://x.com/alex_prompter/status/2092299531752767663)
+
+---
+
+### 🕐 17:06 UTC · @Wise1Philosophy
+
+> One person with one good idea can now compete for $100,000. No studio, no budget, no crew needed. AI just changed who gets to be a filmmaker, and this competition proves it. Make it Short. Make it Global. — the Global Short Drama Creator Awards are live. Follow + RT + Reply = 150 OnSolo Credits (72h only) How to join: 1. Follow @OnSoloAI 2. RT this post 3. Reply with anything — one word counts Credits land in your DMs within 3 business days. Can&apos;t ma…
+
+🔗 [View original post](https://x.com/AIHighlight/status/2092297659503538678)
+
+---
+
+### 🕐 17:05 UTC · @Wise1Philosophy
+
+> 116 award opportunities. $200K prize pool. Some selected projects even get $10K to $50K in production funding. If you&apos;ve ever wanted to try AI filmmaking, this is your sign. Make it Short. Make it Global. — the Global Short Drama Creator Awards are live. Follow + RT + Reply = 150 OnSolo Credits (72h only) How to join: 1. Follow @OnSoloAI 2. RT this post 3. Reply with anything — one word counts Credits land in your DMs within 3 business days. Can&apos;t ma…
+
+🔗 [View original post](https://x.com/FutureStacked/status/2092297243382399122)
+
+---
+
+### 🕐 17:03 UTC · @Wise1Philosophy
+
+> Imagine writing a story on your phone and it ends up in front of millions of ReelShort viewers. That&apos;s what this competition is offering, plus up to $100K in prizes. Submissions close Sep 24, don&apos;t sleep on this. Make it Short. Make it Global. — the Global Short Drama Creator Awards are live. Follow + RT + Reply = 150 OnSolo Credits (72h only) How to join: 1. Follow @OnSoloAI 2. RT this post 3. Reply with anything — one word counts Credits land in your DMs within 3 business days. Can&apos;t ma…
+
+🔗 [View original post](https://x.com/TheAIColony/status/2092296764002853118)
+
+---
+
+### 🕐 17:01 UTC · @Wise1Philosophy
+
+> $200,000 in cash prizes for AI short dramas. Make 5 short episodes, add English subtitles, and ReelShort could push your story to millions of viewers. This is the easiest entry into filmmaking I&apos;ve seen all year. Make it Short. Make it Global. — the Global Short Drama Creator Awards are live. Follow + RT + Reply = 150 OnSolo Credits (72h only) How to join: 1. Follow @OnSoloAI 2. RT this post 3. Reply with anything — one word counts Credits land in your DMs within 3 business days. Can&apos;t ma…
+
+🔗 [View original post](https://x.com/AIFrontliner/status/2092296344039796860)
+
+---
+
+### 🕐 16:59 UTC · @Wise1Philosophy
+
+> You can win up to $100,000 for a story sitting in your notes app right now. No film crew, no camera, just your idea and OnSolo AI. Romance, mafia, fantasy, werewolf, anything goes. Make it Short. Make it Global. — the Global Short Drama Creator Awards are live. Follow + RT + Reply = 150 OnSolo Credits (72h only) How to join: 1. Follow @OnSoloAI 2. RT this post 3. Reply with anything — one word counts Credits land in your DMs within 3 business days. Can&apos;t ma…
+
+🔗 [View original post](https://x.com/AriaWestcott/status/2092295868942533007)
+
+---
+
+### 🕐 16:54 UTC · @Wise1Philosophy
+
+> $200K in prizes just opened up for AI filmmakers. OnSolo and ReelShort are running a short drama competition for vertical AI series. Minimum 5 episodes, English subtitles, submissions open Aug 25–Sep 24. Top prize is $100K, with 116 awards total. You can make something original or build a spin-off, prequel, or alternate universe around an existing ReelShort title. Some selected projects can also get $10K–$50K in production funding. A few years ago, chasing prize money like this meant putting together a crew. Now one person can realistically take a shot at it. Make it Short. Make it Global. — the Global Short Drama Creator Awards are live. Follow + RT + Reply = 150 OnSolo Credits (72h only) How to join: 1. Follow @OnSoloAI 2. RT this post 3. Reply with anything — one word counts Credits land in your DMs within 3 business days. Can&apos;t ma…
+
+🔗 [View original post](https://x.com/alex_prompter/status/2092294641852784759)
+
+---
+
+### 🕐 16:36 UTC · @Wise1Philosophy
+
+> Woww.. The Global Short Drama Creator Awards from OnSolo and ReelShort are live and the numbers are not small: &gt; $200,000 cash pool, $100,000 of it for a single winner &gt; 116 award places across four categories &gt; 12M OnSolo credits stacked on top &gt; 5 episodes minimum, entries close Sep 24 the format didn&apos;t get cheaper. the door got wider. @OnSoloAI Make it Short. Make it Global. — the Global Short Drama Creator Awards are live. Follow + RT + Reply = 150 OnSolo Credits (72h only) How to join: 1. Follow @OnSoloAI 2. RT this post 3. Reply with anything — one word counts Credits land in your DMs within 3 business days. Can&apos;t ma…
+
+🔗 [View original post](https://x.com/socialwithaayan/status/2092289962435850613)
+
+---
+
+### 🕐 16:34 UTC · @Wise1Philosophy
+
+> IN JAPAN, BEING LAZY IS CONSIDERED AN ILLNESS AND IT IS TREATED WITH THESE 7 METHODS: 1. KAIZEN “THE ONE-MINUTE RULE”
+
+🔗 [View original post](https://x.com/josh_uglyasf/status/2092289544460873897)
+
+---
+
+### 🕐 16:32 UTC · @Wise1Philosophy
+
+> $200,000 cash + $300K in credits for AI short dramas. OnSolo × ReelShort just launched the Global Short Drama Creator Awards. Follow + RT + Reply their post (one word works) = 150 free credits to start creating. 72 hours only. This is a massive opportunity for AI video creators to go global. Make it Short. Make it Global. — the Global Short Drama Creator Awards are live. Follow + RT + Reply = 150 OnSolo Credits (72h only) How to join: 1. Follow @OnSoloAI 2. RT this post 3. Reply with anything — one word counts Credits land in your DMs within 3 business days. Can&apos;t ma…
+
+🔗 [View original post](https://x.com/Rixhabh__/status/2092288985632780798)
+
+---
+
+### 🕐 16:30 UTC · @Wise1Philosophy
+
+> Solo creators just got a huge opportunity. $200,000 cash prizes + 12M OnSolo credits + ReelShort distribution. If you’ve been waiting for a reason to create AI short dramas, this is it. Make it Short. Make it Global. — the Global Short Drama Creator Awards are live. Follow + RT + Reply = 150 OnSolo Credits (72h only) How to join: 1. Follow @OnSoloAI 2. RT this post 3. Reply with anything — one word counts Credits land in your DMs within 3 business days. Can&apos;t ma…
+
+🔗 [View original post](https://x.com/Damn_coder/status/2092288395141878102)
+
+---
+
+### 🕐 16:27 UTC · @Wise1Philosophy
+
+> AI agents can read your docs, tickets, Slack, GitHub history. But a ridiculous amount of what actually matters inside a company was never written down. It was said on a call. That’s the gap Lindy is going after here. Their new team meeting library automatically sorts calls into shared folders based on rules you describe in plain English. Then anyone with access can ask questions across the meetings in that folder even meetings they weren’t on. That last part is where it gets interesting. We’ve spent years giving AI access to everything companies write. Now we’re starting to give it access to everything companies say. Today we’re announcing Lindy’s team meeting library. Just ask Lindy: &quot;any call with a client goes in this folder,&quot; and all future meetings self-organize. Your team can query shared folders all day long. https://Lindy.ai
+
+🔗 [View original post](https://x.com/alex_verem/status/2092287749755654279)
+
+---
+
+### 🕐 16:22 UTC · @Wise1Philosophy
+
+> Granola, Fireflies and Otter nailed transcription. What that left behind is the pile: a folder of recorded calls where the answer you need is smeared across eleven different transcripts. Lindy just shipped a fix for the pile. Team meeting library: 1. Describe a folder in plain English: &quot;any call with a client goes here&quot; 2. From then on, meetings file themselves into it 3. Share the folder with specific people or the whole team 4. Ask it questions: &quot;what did customers push back on in sales calls this month?&quot; Lindy reads the calls in the folder and answers. You skip the transcripts, and the call you&apos;re asking about doesn&apos;t need to be one you attended. Search finds documents. This answers questions. Different job entirely. Today we’re announcing Lindy’s team meeting library. Just ask Lindy: &quot;any call with a client goes in this folder,&quot; and all future meetings self-organize. Your team can query shared folders all day long. https://Lindy.ai
+
+🔗 [View original post](https://x.com/alex_prompter/status/2092286393854652523)
+
+---
+
+### 🕐 16:18 UTC · @Wise1Philosophy
+
+> I&apos;m 31. In the past 12 months, I cured a lifetime of acne, severe allergies &amp; chronic fatigue holistically. 10 things that helped me do it:
+
+![I&apos;m 31. In the past 12 months, I cured a lifetime of acne, severe allergies &amp; chronic fatigue holistically. 10 things that helped me do it:](../../../../assets/images/2026/08/25/2092285568948253065-1.jpg)
+
+🔗 [View original post](https://x.com/Thereallauster/status/2092285568948253065)
+
+---
+
+### 🕐 16:10 UTC · @Wise1Philosophy
+
+> Your mom calls every MORNING not because she&apos;s bored. A neuroscientist says her nervous system is still WIRED to yours. Read till end, you won&apos;t regret.. ❤️🧵
+
+![Your mom calls every MORNING not because she&apos;s bored. A neuroscientist says her nervous system is still WIRED to yours. Read till end, you won&apos;t regret.. ❤️🧵](../../../../assets/images/2026/08/25/2092283578310889516-1.jpg)
+
+🔗 [View original post](https://x.com/Manifest_Lord/status/2092283578310889516)
+
+---
+
+### 🕐 16:10 UTC · @Wise1Philosophy
+
+> ADAPPROPRIATE TASK THAT RAISE CAPABLE CHILDREN.. Here&apos;s how to plan.. 👇
+
+![ADAPPROPRIATE TASK THAT RAISE CAPABLE CHILDREN.. Here&apos;s how to plan.. 👇](../../../../assets/images/2026/08/25/2092283443640181120-1.jpg)
+
+🔗 [View original post](https://x.com/scotti_brooks/status/2092283443640181120)
+
+---
+
+### 🕐 16:10 UTC · @Wise1Philosophy
+
+> this might be the most underrated account on X A PE-backed healthcare company asked us to modernize their prior authorization automation on a ten-year platform with regulated patient data. The product roadmap called for a full platform rebuild with a new architecture, new data model, and new automation engine. They were skept…
+
+🔗 [View original post](https://x.com/marcusyul/status/2092283371544056087)
+
+---
+
+### 🕐 16:07 UTC · @Wise1Philosophy
+
+> China built a flying lifebuoy that finds drowning people and gets to them on its own. Does 30 mph on water with about a 1.2 mile range. So instead of waiting for a lifeguard to swim out or a boat to launch, this thing is already there in seconds. Most drownings happen because help arrives late, not because nobody noticed. Media
+
+🔗 [View original post](https://x.com/TheAIColonyRD/status/2092282788552593567)
+
+---
+
+### 🕐 15:54 UTC · @Wise1Philosophy
+
+> BREAKING: These 10 careers will quietly dominate the next 10 years. Most people won’t notice until it’s too late. The people learning these skills today will be impossible to ignore by 2030:
+
+🔗 [View original post](https://x.com/TheAIColony/status/2092279525425983668)
+
+---
+
+### 🕐 15:48 UTC · @Wise1Philosophy
+
+> Google accidentally revealed how its AI search systems choose which sites to recommend and send traffic to. Now that none of it is much of a secret anymore, let’s talk about it. With the new Google Search rolling out as we speak, it has never been more important to understand how to maximize value from this marketing channel. If you want to see where your site stands across Google, ChatGPT, Claude, Perplexity and broader AI search, you can do so for free here: https://seo-stuff.com/free-audit Let’s start from the beginning. Metehan Yesilyurt, who previously went viral for his analysis of Perplexity’s ranking factors, recently broke down Google AI ranking factors in a fascinating blog post. A lot of what he found also lines up with what SEO Stuff (http://seo-stuff.com) has been doing all year to get customers more traffic and sales. Specifically with the done-for-you package: https://seo-stuff.com/gold-plan-package Basically, Google sells much of the underlying retrieval infrastructure through Google Cloud Discovery Engine, also called Vertex AI Search. By analyzing what Discovery Engine exposes, Yesilyurt was able to show how Google’s AI retrieval and ranking stack works. The seven major signals he identified were Base Ranking, Gecko embedding similarity, Jetstream cross-attention relevance, BM25 keyword matching, predicted click-through rate, freshness and Boost/Bury rules. In simpler terms, Google is combining traditional ranking signals with semantic similarity, deeper contextual relevance, keyword matching, engagement predictions, recency and manual business logic. Discovery Engine exposes a maximum chunk size of 500 tokens, roughly 375 words, while ancestor headings can travel with each chunk and tables, images and page layouts can all be parsed with Gemini-enhanced understanding. That means important ideas need to make sense inside relatively small, clearly labeled sections. If your content is one massive wall of text, Google has a much harder job extracting the exact information it needs. This is also why I keep talking about question-based headings, direct answers, clear comparisons and structured pages. Additionally, Discovery Engine shows Google processing structured data using separate Searchable, Indexable and Retrievable settings. Those can affect whether information can be found, used for filtering or ordering and surfaced by the model. Mind you, they are independent. So a field can potentially influence retrieval or ranking without necessarily being displayed in exactly the same way. That gives us a pretty significant clue about why structured data continues to matter as Google becomes more AI-driven. Discovery Engine also reveals a four-stage pipeline: Prepare, Retrieve, Signal and Serve. Google first interprets the query, handles things like synonyms and intent, then retrieves and chunks relevant content, applies ranking signals and finally uses Gemini to generate the response with grounding and safety rules. Traditional Search, AI Overviews and AI Mode can be thought of as different configurations built on much of the same underlying retrieval infrastructure. So what does all of this mean for businesses? You need to optimize for several layers at once. Your content needs strong semantic alignment so Google clearly understands what the page is about, enough contextual detail to handle nuanced searches such as comparisons and “best for” queries, and clean chunk-level structure so useful answers can be extracted without digging through hundreds of words of filler. That means clear definitions, direct answers, comparison language, question-based headings, concise sections, factual claims, TLDR summaries, clean HTML and useful tables where appropriate. This is exactly why SEO Stuff content is structured the way it is. The done-for-you package combines 10 long-form, search-focused articles with three DR50+ contextual backlinks: https://seo-stuff.com/gold-plan-package The content is designed around semantic relevance, keyword alignment, structured sections, comparisons, freshness and extractability, while the backlinks help strengthen the underlying authority of the pages and domain. The Premium Content Bundle takes the same idea much further: https://seo-stuff.com/premium-content-bundle-service It includes 60 long-form articles designed to build broader category coverage, stronger semantic associations and more opportunities for Google to retrieve useful sections across the different questions customers ask. Then there is the Premium Backlink Bundle: https://seo-stuff.com/premium-backlink-bundle-service It adds three contextual DR50+ backlinks designed to strengthen search authority and reinforce the company’s identity and category across the web. And if you want to see where your site stands across Google, ChatGPT, Claude, Perplexity and broader AI search, you can do so for free here: https://seo-stuff.com/free-audit Just something I&apos;ve noticed... Local businesses are still some of the slowest to adapt. In some cases, it is costing them $25,000+ per month in potential revenue. If you&apos;re ignoring the traffic and sales you could be getting from Google and ChatGPT right now, you are going to be …
+
+![Google accidentally revealed how its AI search systems choose which sites to recommend and send traffic to. Now that none of it is much of a secret anymore, let’s talk about it. With the new Google Se](../../../../assets/images/2026/08/25/2092278024045744453-1.jpg)
+
+🔗 [View original post](https://x.com/alexgroberman/status/2092278024045744453)
+
+---
+
+### 🕐 15:42 UTC · @Wise1Philosophy
+
+> OVER 100,000 DELIVERIES AND NOBODY IN THE DRIVER&apos;S SEAT 🤯 Gatik just hit a $1B valuation after raising $200M for driverless trucks. They are quietly running the most impressive physical automation business in the world right now by dominating short-haul freight. The scale is simply ridiculous: → 2021: First fully driverless commercial route → 2026: Embedded deep inside PepsiCo&apos;s supply chain → $600M+ in contracted revenue With 100,000+ driverless orders and 99% on-time delivery, they have a very good problem. The $1B valuation isn&apos;t the actual story here. The story is that customer demand is scaling faster than Gatik can deploy trucks 👀↓ Media $200M raised. Driverless freight operating commercially today. Customers like @pepsico already relying on us. Demand accelerating. This round is a strong vote of confidence in the business @Gatik_AI has built and gives us the capital to scale it much faster. Thank you Qatar Inves…
+
+🔗 [View original post](https://x.com/DataChaz/status/2092276449818411146)
+
+---
+
+### 🕐 15:41 UTC · @Wise1Philosophy
+
+> the most honest AI engineering account on X A PE-backed healthcare company asked us to modernize their prior authorization automation on a ten-year platform with regulated patient data. The product roadmap called for a full platform rebuild with a new architecture, new data model, and new automation engine. They were skept…
+
+🔗 [View original post](https://x.com/CodeByAurelia/status/2092276252698914971)
+
+---
+
+### 🕐 15:40 UTC · @Wise1Philosophy
+
+> A former Hyatt front desk agent said: &quot;I had a secret list.&quot; &quot;Not official. Not in the system. Not written down anywhere my manager could find. Just a mental list a handful of guests who did something almost nobody else did.&quot; &quot;They remembered my name.&quot; &quot;In 5 years and roughly 75,000 check-ins, maybe 30 guests ever walked up to my desk and said &apos;Hi Sarah, good to see you again.&apos; Thirty. Out of 75,000.&quot; &quot;Every single one of them got the best room I had. Not because it was policy. Not because they had the highest status. Not because they tipped me. Because they made me feel like a person instead of a check-in machine.&quot; &quot;Most guests walk up and say their last name. Some say &apos;checking in.&apos; A few say &apos;hi.&apos; But almost nobody looks at the name tag on my chest and says &apos;Hi Sarah.&apos; Almost nobody remembers me from their last stay. Almost nobody asks how my day is going.&quot; &quot;The 30 who did? I would move mountains for them. I&apos;d search every floor for the best available room. I&apos;d pre-block their suite before they arrived. I&apos;d leave a personal note in the room. I&apos;d remember their preferences without checking the system extra pillows, high floor, away from the elevator, the sparkling water they like.&quot; &quot;They didn&apos;t have a secret. They had basic human decency. And in a job where you&apos;re treated like a kiosk 75,000 times, basic human decency becomes extraordinary.&quot; I asked her to tell me everything the secret list, the patterns she saw, and every detail from 5 years of remembering the guests who remembered her. Here&apos;s all of it 🧵
+
+🔗 [View original post](https://x.com/primemans/status/2092276030509887560)
+
+---
+
+### 🕐 15:40 UTC · @Wise1Philosophy
+
+> the account every CTO should be following right now. A PE-backed healthcare company asked us to modernize their prior authorization automation on a ten-year platform with regulated patient data. The product roadmap called for a full platform rebuild with a new architecture, new data model, and new automation engine. They were skept…
+
+🔗 [View original post](https://x.com/OtakuMachine/status/2092276015548584233)
+
+---
+
+### 🕐 15:37 UTC · @Wise1Philosophy
+
+> this guy just posts what actually works in production AI: A PE-backed healthcare company asked us to modernize their prior authorization automation on a ten-year platform with regulated patient data. The product roadmap called for a full platform rebuild with a new architecture, new data model, and new automation engine. They were skept…
+
+🔗 [View original post](https://x.com/TheoBuildsAI/status/2092275303041167434)
+
+---
+
+### 🕐 15:36 UTC · @Wise1Philosophy
+
+> FLIRT WITHOUT LOOKING DESPERATE AND START CREATING TENSION... Here&apos;s how.. 🧵
+
+![FLIRT WITHOUT LOOKING DESPERATE AND START CREATING TENSION... Here&apos;s how.. 🧵](../../../../assets/images/2026/08/25/2092274848127230237-1.jpg)
+
+🔗 [View original post](https://x.com/MindPatternHQ/status/2092274848127230237)
+
+---
+
+### 🕐 15:35 UTC · @Wise1Philosophy
+
+> Traits that Make you disgustingly Manly. 💪 👇
+
+![Traits that Make you disgustingly Manly. 💪 👇](../../../../assets/images/2026/08/25/2092274603070755120-1.jpg)
+
+🔗 [View original post](https://x.com/superior_hombre/status/2092274603070755120)
+
+---
+
+### 🕐 15:33 UTC · @Wise1Philosophy
+
+> this is the kind of production AI content worth paying for A PE-backed healthcare company asked us to modernize their prior authorization automation on a ten-year platform with regulated patient data. The product roadmap called for a full platform rebuild with a new architecture, new data model, and new automation engine. They were skept…
+
+🔗 [View original post](https://x.com/alexaiworks/status/2092274213793005854)
+
+---
+
+### 🕐 15:30 UTC · @Wise1Philosophy
+
+> if you run engineering teams, follow this guy ! A PE-backed healthcare company asked us to modernize their prior authorization automation on a ten-year platform with regulated patient data. The product roadmap called for a full platform rebuild with a new architecture, new data model, and new automation engine. They were skept…
+
+🔗 [View original post](https://x.com/JacobyoungAI/status/2092273350282293695)
+
+---
+
+### 🕐 15:30 UTC · @Wise1Philosophy
+
+> This post by Laura gave Dreamdata its best-ever day for website traffic, form submissions, and demo bookings. The company turned that result into a team experiment. They targeted 300,000 impressions the following quarter and finished around 520,000. Employee-led ads earned 3-4x the engagement rate of ads from the company page. And 83% of Dreamdata’s closed-won deals in the past year were influenced by LinkedIn. I build content systems for a living. Dreamdata passed four checks I use before building a company-wide engine around one person’s post. 1. Did the post leave a trace beyond the feed? Dreamdata was around 10 people when account executive Laura Erdem wrote about a sales win. The post took off, and the company recorded its highest website traffic, form submissions, and demo bookings that day. The activity on LinkedIn had left a trace somewhere closer to the business. A same-day spike cannot prove which actions the post caused. It gives the content team a reason to investigate before the moment disappears. My first check is simple: did anything change outside the post’s own metrics? 2. Would the story lose authority if someone else told it? Laura had lived the sale she wrote about. The detail belonged to her before it belonged to the content calendar. In the usual employee advocacy workflow, marketing supplies the idea, language, and opinion. The employee is left supplying a face and an audience. Dreamdata kept the knowledge attached to the person who had earned it. Remove Laura’s lived experience and the post loses its authority. 3. Did the audience help select what deserved scale? Dreamdata watched which employee videos people chose to spend time with. The strongest posts later received additional distribution as ads. The company gathered evidence on the person, subject, and format before paying to expand the audience. Organic content became the selection layer. 4. Could the company add structure without taking authorship? The first team sprint had a 300,000-impression target and dinner attached to it. That got people posting together. The freedom to use their own voices helped the habit survive the experiment. So before I scale an employee post, I want four clear answers: - Did it leave a trace beyond the feed? - Would it lose authority in someone else’s voice? - Did organic response validate it? - Can the company support it without rewriting it? Four yeses mean there may be a content system hiding inside the post. Dreamdata’s four answers were yes. Laura’s sales story became the beginning of its company-wide system. Tell me whose LinkedIn you want pulled apart next.
+
+![This post by Laura gave Dreamdata its best-ever day for website traffic, form submissions, and demo bookings. The company turned that result into a team experiment. They targeted 300,000 impressions t](../../../../assets/images/2026/08/25/2092273330225356878-1.png)
+
+🔗 [View original post](https://x.com/mailankhong/status/2092273330225356878)
+
+---
+
+### 🕐 15:28 UTC · @Wise1Philosophy
+
+> best enterprise AI account I&apos;ve found this year: A PE-backed healthcare company asked us to modernize their prior authorization automation on a ten-year platform with regulated patient data. The product roadmap called for a full platform rebuild with a new architecture, new data model, and new automation engine. They were skept…
+
+🔗 [View original post](https://x.com/Handllex/status/2092272897045746007)
 
 ---
 
@@ -190,6 +650,14 @@
 ![](../../../../assets/images/2026/08/25/2092239325035626572-1.jpg)
 
 🔗 [View original post](https://x.com/Claritysteps/status/2092239325035626572)
+
+---
+
+### 🕐 13:14 UTC · @Wise1Philosophy
+
+> accidentally found the best AI account on this app: A PE-backed healthcare company asked us to modernize their prior authorization automation on a ten-year platform with regulated patient data. The product roadmap called for a full platform rebuild with a new architecture, new data model, and new automation engine. They were skept…
+
+🔗 [View original post](https://x.com/saidstetic/status/2092239117757059135)
 
 ---
 

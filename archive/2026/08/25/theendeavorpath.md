@@ -2,7 +2,27 @@
 
 ## 📅 August 25, 2026
 
-> 3 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 17:14 UTC · @theendeavorpath
+
+> Cheat sheet for the baking shelf in the fall: 1. Baking powder dies in 6 months.
+
+![Cheat sheet for the baking shelf in the fall: 1. Baking powder dies in 6 months.](../../../../assets/images/2026/08/25/2092299705355288743-1.jpg)
+
+🔗 [View original post](https://x.com/EnergyUp_/status/2092299705355288743)
+
+---
+
+### 🕐 17:03 UTC · @theendeavorpath
+
+> 7 Habits for Life:
+
+![7 Habits for Life:](../../../../assets/images/2026/08/25/2092296701268861247-1.jpg)
+
+🔗 [View original post](https://x.com/stoicmen_/status/2092296701268861247)
 
 ---
 
