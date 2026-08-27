@@ -2,7 +2,96 @@
 
 ## 📅 August 27, 2026
 
-> 25 post(s) archived.
+> 35 post(s) archived.
+
+---
+
+### 🕐 09:19 UTC · @Wise1Philosophy
+
+> Amazon&apos;s Subscribe &amp; Save told a family they were &quot;saving 15%&quot; on their monthly household order while charging them 30% more than Costco on every single item in the box. Same diapers. Same wipes. Same paper towels. Same laundry detergent. Same trash bags. Same protein powder. Same coffee pods. Every item identical brand, identical size, identical count. Delivered to their door every month with a cheerful email confirmation that said &quot;You saved 15%&quot; in bold green text at the top. The &quot;savings&quot; percentage was calculated against Amazon&apos;s own listed retail price, which was already 20 to 35% above what the same products cost at Costco, Walmart, and in some cases the manufacturer&apos;s own website. The discount was real. The baseline it was calculated from wasn&apos;t. A former Amazon pricing analyst who spent 5 years on the team that sets the prices customers see on the marketplace told her brother something most Subscribe &amp; Save customers have never once checked. &quot;You&apos;re not saving 15%. You&apos;re saving 15% off a number that was already inflated above market. The final price you pay after the discount is still higher than what a warehouse charges at full sticker with no discount at all. The word &apos;save&apos; on every order confirmation is doing more work than the actual savings.&quot; Here are the 7 things most Subscribe &amp; Save customers never check 🧵
+
+🔗 [View original post](https://x.com/Kevincreates77/status/2092904796244283584)
+
+---
+
+### 🕐 09:19 UTC · @Wise1Philosophy
+
+> STOP USING YOUR MACBOOK LIKE A BASIC LAPTOP. You’re probably missing some of the most useful macOS features. Here are 16 settings and tricks to upgrade your daily workflow.
+
+![STOP USING YOUR MACBOOK LIKE A BASIC LAPTOP. You’re probably missing some of the most useful macOS features. Here are 16 settings and tricks to upgrade your daily workflow.](../../../../assets/images/2026/08/27/2092904740099359071-1.jpg)
+
+🔗 [View original post](https://x.com/RodmanAi/status/2092904740099359071)
+
+---
+
+### 🕐 09:02 UTC · @Wise1Philosophy
+
+> this whole list feels like a cleanup crew 😂 15 free skills that kill AI slop I made a rank with the anti-slop skills people need to install 1. ui-ux-pro-max-skill - 120,460 stars http://skills.sh/nextlevelbuilder/ui-ux-pro-max-skill 2. awesome-design-md - 110,052 stars http://skills.sh/VoltAgent/awesome-design-md 3. Unders…
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2092900424391016926)
+
+---
+
+### 🕐 09:01 UTC · @Wise1Philosophy
+
+> grok can now analyze any crypto or stock like a wall street analyst for free. instead of doom scrolling on x, here are 6 prompts that replace ~$800/yr in research tools. save this 🔖
+
+🔗 [View original post](https://x.com/daveydefi/status/2092900285676925216)
+
+---
+
+### 🕐 08:49 UTC · @Wise1Philosophy
+
+> 10 Claude Commands 1). for making your output sound human ↳ /ghost - makes your writing sound natural, not robotic ↳ /roast - brutally honest feedback that exposes weak spots before your audience does 2). for comparing and reverse engineering ↳ /matrix - turns a messy decision into a clean side by side comparison ↳ /steal - reverse engineers the principles behind content or products that actually work 3). for cutting the fluff and staying on track ↳ /brief - short, direct answers with zero rambling ↳ /focus - keeps the model locked in and stops it from wandering off topic 4). for pressure testing your ideas ↳ /challenge - forces every objection and risk into the open ↳ /expand - goes deeper with examples and implementation detail when the first answer&apos;s too thin 5). for building systems that scale ↳ /systemize - turns one off outputs into repeatable workflows ↳ /ghost + /brief + /challenge - the power combo, humanize it, shorten it, then stress test it How to get better AI images by pulling from multiple references at once: 1. head to https://unify.light-ai.top/?utm_source=chatgpt.com 2. load in a few reference images 3. blend their visual elements into one generation 4. keep the key details and structure consistent This is Sen…
+
+![10 Claude Commands 1). for making your output sound human ↳ /ghost - makes your writing sound natural, not robotic ↳ /roast - brutally honest feedback that exposes weak spots before your audience does](../../../../assets/images/2026/08/27/2092897377288139198-1.jpg)
+
+🔗 [View original post](https://x.com/nrqa__/status/2092897377288139198)
+
+---
+
+### 🕐 08:36 UTC · @Wise1Philosophy
+
+> X went crazy on Grok Bot last week. here are the most useful @bot articles you can&apos;t miss:
+
+🔗 [View original post](https://x.com/rryssf/status/2092893999048868114)
+
+---
+
+### 🕐 08:32 UTC · @Wise1Philosophy
+
+> Psychologists asked 20 MEN to live one month as a new mom. By week two – most begged to STOP: One said a sentence that made every mother CRY... 👇
+
+![Psychologists asked 20 MEN to live one month as a new mom. By week two – most begged to STOP: One said a sentence that made every mother CRY... 👇](../../../../assets/images/2026/08/27/2092892924786966989-1.jpg)
+
+🔗 [View original post](https://x.com/Manifest_Lord/status/2092892924786966989)
+
+---
+
+### 🕐 08:31 UTC · @Wise1Philosophy
+
+> Your launch is tomorrow. The motion designer is unavailable. @TopviewAIhq Motion Studio can turn the idea into polished motion in minutes with Seedance 2.5. About $3 for a result that looks like a $3,000 After Effects production. Media $3 to create motion graphics that look like a $3,000 After Effects project? That’s Topview Motion Studio. Powered by Seedance 2.5. No timelines. No keyframes. No motion designer required. Just upload your references, describe your idea, pick a style, and generate a polished motio…
+
+🔗 [View original post](https://x.com/AriaWestcott/status/2092892754535764041)
+
+---
+
+### 🕐 08:31 UTC · @Wise1Philosophy
+
+> Dr. Stacy sims has 77 peer reviewed research papers on women&apos;s health. She says most women are exercising like men and it is making them fatter and more tired. Here are 9 things she wants every woman to know:
+
+![Dr. Stacy sims has 77 peer reviewed research papers on women&apos;s health. She says most women are exercising like men and it is making them fatter and more tired. Here are 9 things she wants every w](../../../../assets/images/2026/08/27/2092892727172387083-1.jpg)
+
+🔗 [View original post](https://x.com/scotti_brooks/status/2092892727172387083)
+
+---
+
+### 🕐 08:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/08/27/2092892462339469648-1.jpg)
+
+🔗 [View original post](https://x.com/Mindsthatbuild/status/2092892462339469648)
 
 ---
 

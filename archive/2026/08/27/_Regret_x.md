@@ -2,7 +2,35 @@
 
 ## 📅 August 27, 2026
 
-> 13 post(s) archived.
+> 17 post(s) archived.
+
+---
+
+### 🕐 08:55 UTC · @_Regret_x
+
+> Delete one animal from Earth ...!!
+
+![Delete one animal from Earth ...!!](../../../../assets/images/2026/08/27/2092898773345452382-1.jpg)
+
+🔗 [View original post](https://x.com/Immy_220/status/2092898773345452382)
+
+---
+
+### 🕐 08:30 UTC · @_Regret_x
+
+
+![](../../../../assets/images/2026/08/27/2092892485219668195-1.jpg)
+
+🔗 [View original post](https://x.com/_Regret_x/status/2092892485219668195)
+
+---
+
+### 🕐 07:57 UTC · @_Regret_x
+
+
+![](../../../../assets/images/2026/08/27/2092884163720564836-1.jpg)
+
+🔗 [View original post](https://x.com/_Regret_x/status/2092884163720564836)
 
 ---
 
@@ -121,5 +149,14 @@
 ![](../../../../assets/images/2026/08/27/2092795844974215224-1.jpg)
 
 🔗 [View original post](https://x.com/_Regret_x/status/2092795844974215224)
+
+---
+
+### 🕐 02:03 UTC · @_Regret_x
+
+
+![](../../../../assets/images/2026/08/27/2092794980486222055-1.jpg)
+
+🔗 [View original post](https://x.com/EzuieQuotes/status/2092794980486222055)
 
 ---
