@@ -2,7 +2,23 @@
 
 ## 📅 August 26, 2026
 
-> 3 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 19:12 UTC · @elonmusk
+
+> Free usage limit reset for Grok @Bot users All SuperGrok and Cursor Pro subscribers now have access to Grok Bot. We&apos;re also resetting weekly usage limits for all users. Enjoy!
+
+🔗 [View original post](https://x.com/elonmusk/status/2092691713399931124)
+
+---
+
+### 🕐 19:07 UTC · @elonmusk
+
+> Grok Build made this fun lil Mars simulator game for my nephew. I gave it simple prompts. It did the rest: wrote systems, built and tested it, studied gameplay, found and fixed bugs, then kept iterating. Grok Build is very powerful. It feels like having a game studio on demand. Media
+
+🔗 [View original post](https://x.com/cb_doge/status/2092690415866822950)
 
 ---
 

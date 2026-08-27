@@ -2,7 +2,81 @@
 
 ## 📅 August 26, 2026
 
-> 24 post(s) archived.
+> 32 post(s) archived.
+
+---
+
+### 🕐 18:13 UTC · @Alphafiles1
+
+> My life unlocked when I realized discipline is not about what I should do. It’s about what I should not do. • Not wasting hours scrolling. • Not entertaining people who drain me. • Not spending money just because I have it. • Not sleeping late for no reason. • Not reacting to everything. • Not feeding every craving. • Not breaking promises I made to myself. • Not choosing temporary comfort over the life I said I wanted. Sometimes discipline isn’t adding more habits. It’s removing the habits that keep destroying your progress. Your life gets lighter when you stop doing the things that make it harder.
+
+🔗 [View original post](https://x.com/LifeInQuiet/status/2092676729395728384)
+
+---
+
+### 🕐 16:20 UTC · @Alphafiles1
+
+
+![](../../../../assets/images/2026/08/26/2092648342857625853-1.jpg)
+
+🔗 [View original post](https://x.com/realmantalk3/status/2092648342857625853)
+
+---
+
+### 🕐 16:19 UTC · @Alphafiles1
+
+
+![](../../../../assets/images/2026/08/26/2092648186254942633-1.jpg)
+
+🔗 [View original post](https://x.com/TheRich_Gospel/status/2092648186254942633)
+
+---
+
+### 🕐 16:18 UTC · @Alphafiles1
+
+> Man to Man.
+
+![Man to Man.](../../../../assets/images/2026/08/26/2092647915495784567-1.jpg)
+
+🔗 [View original post](https://x.com/Alphafiles1/status/2092647915495784567)
+
+---
+
+### 🕐 14:52 UTC · @Alphafiles1
+
+
+![](../../../../assets/images/2026/08/26/2092626298384322672-1.jpg)
+
+🔗 [View original post](https://x.com/realmantalk3/status/2092626298384322672)
+
+---
+
+### 🕐 14:51 UTC · @Alphafiles1
+
+> With God I am a winner.
+
+![With God I am a winner.](../../../../assets/images/2026/08/26/2092626050429636902-1.jpg)
+
+🔗 [View original post](https://x.com/TheRich_Gospel/status/2092626050429636902)
+
+---
+
+### 🕐 14:51 UTC · @Alphafiles1
+
+> Porn is stealing your future.Kill it before it kills the man in you.
+
+![Porn is stealing your future.Kill it before it kills the man in you.](../../../../assets/images/2026/08/26/2092625909530395112-1.jpg)
+
+🔗 [View original post](https://x.com/Alphafiles1/status/2092625909530395112)
+
+---
+
+### 🕐 14:14 UTC · @Alphafiles1
+
+
+![](../../../../assets/images/2026/08/26/2092616674511831302-1.jpg)
+
+🔗 [View original post](https://x.com/Alphafiles1/status/2092616674511831302)
 
 ---
 
