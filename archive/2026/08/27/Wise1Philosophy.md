@@ -2,7 +2,109 @@
 
 ## 📅 August 27, 2026
 
-> 38 post(s) archived.
+> 51 post(s) archived.
+
+---
+
+### 🕐 11:26 UTC · @Wise1Philosophy
+
+> Me trying to balance my work, social life, and mental health all at once. https://x.com/takumi_k_jpn/status/2091871027123073465/video/1 Try now: https://supercomputer.abacus.ai/ykh Media This supercomputer runs nonstop and builds real software with AI → Works with any model: open-source, closed-source, whatever you need. → Includes the entire backend for free. → Database, payment processing, authentication: done. No more infrastructure headaches. Let me show you …
+
+🔗 [View original post](https://x.com/aibytekat/status/2092936874163920926)
+
+---
+
+### 🕐 11:26 UTC · @Wise1Philosophy
+
+> I honestly can&apos;t tell if this is a real robot or just an AI video. https://x.com/takumi_k_jpn/status/2092071776125866367/video/1 Try now: https://supercomputer.abacus.ai/apa Media Most developers pay $200/month for backend services. This AI supercomputer gives you: &gt; Always-on compute &gt; Complete software builds &gt; Any AI model you need &gt; Free database, payments, and auth &gt; Zero infrastructure costs. Let me explain:
+
+🔗 [View original post](https://x.com/AIPandaX/status/2092936815963767078)
+
+---
+
+### 🕐 11:26 UTC · @Wise1Philosophy
+
+> Tech Twitter: &quot;Autonomous humanoid robots will replace all manual labor by next year!&quot; The robots: https://x.com/Gman_EAI/status/2091875317258551309/video/1 Try now: https://supercomputer.abacus.ai/hbc Media This AI supercomputer builds your entire company while running 24/7 &gt; It writes complex software with any AI model you want. &gt; Open-source or closed-source, doesn&apos;t matter. &gt; Comes with free backend: database, payments, authentication, all included. Your full dev stack, always wo…
+
+🔗 [View original post](https://x.com/thetripathi58/status/2092936757222559871)
+
+---
+
+### 🕐 11:25 UTC · @Wise1Philosophy
+
+> I just found the best production AI account on this app: A PR review agent we deployed for a PE-backed financial services client still reviews every pull request before a human sees it. The three systems we rebuilt shipped and the engineers rolled off. The agent stayed. The client scoped five engineers and two quarters to rebuild three…
+
+🔗 [View original post](https://x.com/alex_prompter/status/2092936563856396558)
+
+---
+
+### 🕐 11:15 UTC · @Wise1Philosophy
+
+> Many people use ChatGPT for writing or research. Top performers use ChatGPT as a thinking partner. Here are 8 prompts for planning, decision making and strategic thinking: [ 🔖 bookmark this post for later ] 1. Stress-Test My Thinking This is the plan I’m working on: [insert your idea, plan, or strategy]. Act as a reasoning analyst. Evaluate my logic, assumptions, or potential flaws, but don’t make edits. I want to pressure-test my thinking, not to explore new ideas. 2. Shift the Perspective Here’s the main idea I’m working with: [insert your idea]. Act as a perspective strategist. Explore new ways to present it, such as targeting a fresh audience, using a different emotional driver, or shifting the brand message. 3. Translate My Gut Feeling Something about this doesn’t feel right, but I can’t explain it: [describe the situation, message, or tactic]. Act as a clarity finder. Help me figure out what feels off, what could be confusing, out of place, or sending mixed signals. 4. Organize My Messy Thoughts Here’s a rough mix of my thoughts and notes: [insert notes, fragments, half-formed ideas]. Act as a structure builder. Take what I’ve shared and turn it into a clear outline, but keep my tone and don’t add anything new. 5. Help Me Face the Decision Here’s the situation I’m dealing with: [insert project or context]. Act as a decision coach. Show me where I might be stalling, overthinking, or avoiding a clear choice, and reflect on what’s keeping me stuck. 6. Surface the Deeper Question Here’s the situation I’m working through: [insert idea or challenge]. Act as a strategic advisor. Help me uncover the core question behind this. What bigger issue or choice should I really be focusing on? 7. Spot Execution Risks Here’s the plan I’m about to put into action: [insert strategy or outline]. Act as an operations analyst. Review my plan and call out where it could fall apart, like missed timelines, lack of resources, coordination issues, or anything else that might delay execution. 8. Make Sense of My Instinct Here’s the idea I’m leaning toward, and it feels right: [insert your idea or insight]. Act as a reasoning guide. Help me explore what’s behind my instinct, what signals, patterns, or logic might be driving this choice. Make better decisions. Use ChatGPT as your thinking partner. 📌 Get Advanced ChatGPT Guide (free): https://bit.ly/3StIB3z 👉 Follow me @AndrewBolis for more and 🔄 Repost this to help others use AI
+
+![Many people use ChatGPT for writing or research. Top performers use ChatGPT as a thinking partner. Here are 8 prompts for planning, decision making and strategic thinking: [ 🔖 bookmark this post for l](../../../../assets/images/2026/08/27/2092933911416582409-1.jpg)
+
+🔗 [View original post](https://x.com/AndrewBolis/status/2092933911416582409)
+
+---
+
+### 🕐 11:02 UTC · @Wise1Philosophy
+
+> A PR review agent we deployed for a PE-backed financial services client still reviews every pull request before a human sees it. The three systems we rebuilt shipped and the engineers rolled off. The agent stayed. The client scoped five engineers and two quarters to rebuild three core systems processing live transactions. We delivered all three with a two-person pod in one quarter. The team wrote the specification before generating any code. The spec was the single source of truth for people and agents. The team ran every change through a deterministic harness before merging it. We added the review agent to the pipeline last. It checks every pull request against the spec and catches routine issues before human reviewers spend time on them. Advisory-only. A senior engineer makes every call. AI in engineering has two levels. L1: agentic coding. An agent helps a developer write and ship code through human review. L2: the agent as infrastructure. It sits in the pipeline and governs every change that reaches the codebase. The review agent is L2. $200 per developer per month AI compute, 60% fewer engineers, half the original timeline. Once your coding agents ship faster than humans can review, what governs the pipeline?
+
+🔗 [View original post](https://x.com/mardehaym/status/2092930766644617569)
+
+---
+
+### 🕐 11:02 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/08/27/2092930664500740577-1.jpg)
+
+🔗 [View original post](https://x.com/apex_mentality_/status/2092930664500740577)
+
+---
+
+### 🕐 11:01 UTC · @Wise1Philosophy
+
+> A cardiologist said one thing that stuck with me: &quot;The heart can heal itself, if you do one thing every night before sleep&quot; This is the 5 minute fix that triggered healing: 1. Doctors in Zurich noticed something unusual.
+
+🔗 [View original post](https://x.com/RafaelNasriX/status/2092930615222161441)
+
+---
+
+### 🕐 11:00 UTC · @Wise1Philosophy
+
+> ok this Grok Bot setup is insane Bloomberg: $27,660/year this stack: ~$3,000/year nine times cheaper seventy percent of the utility bookmark this Grok Bot is the best AI agent right now It gives you an army of agents that can do work for you 24/7 If you set it up correctly, you gain super powers In this article, I cover how to turn Grok Bot into your own Bloomberg Terminal https://x.com/i/article/2092567469278015488
+
+🔗 [View original post](https://x.com/nrqa__/status/2092930121116311910)
+
+---
+
+### 🕐 10:41 UTC · @Wise1Philosophy
+
+> 10 Grok Bot prompts that will change your operations forever steal them
+
+🔗 [View original post](https://x.com/godofprompt/status/2092925435130871982)
+
+---
+
+### 🕐 10:35 UTC · @Wise1Philosophy
+
+> 🚨SHOCKING: Claude Cowork users are shaking right now Glean just dropped a benchmark claiming its new desktop agent &quot;Tau&quot; beats Cowork outright. 81% lower token costs, preferred 78% of the time, and zero rebuilding your company context on every task. Here&apos;s the breakdown 🧵:
+
+![🚨SHOCKING: Claude Cowork users are shaking right now Glean just dropped a benchmark claiming its new desktop agent &quot;Tau&quot; beats Cowork outright. 81% lower token costs, preferred 78% of the ti](../../../../assets/images/2026/08/27/2092923999361909158-1.png)
+
+🔗 [View original post](https://x.com/JaynitMakwana/status/2092923999361909158)
+
+---
+
+### 🕐 10:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/08/27/2092922659851890945-1.jpg)
+
+🔗 [View original post](https://x.com/yeti_mind/status/2092922659851890945)
 
 ---
 
@@ -119,6 +221,14 @@
 ![](../../../../assets/images/2026/08/27/2092892462339469648-1.jpg)
 
 🔗 [View original post](https://x.com/Mindsthatbuild/status/2092892462339469648)
+
+---
+
+### 🕐 08:24 UTC · @Wise1Philosophy
+
+> Sí, este vídeo está hecho con IA. Fue creado con MiniMax H3 en Pollo AI, que ahora mismo tiene generación ilimitada. Pruébalo aquí: https://tinyurl.com/5n8c3ama Media
+
+🔗 [View original post](https://x.com/IA_Quijote/status/2092891029552693314)
 
 ---
 
