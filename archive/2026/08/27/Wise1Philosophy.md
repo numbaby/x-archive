@@ -2,7 +2,119 @@
 
 ## 📅 August 27, 2026
 
-> 59 post(s) archived.
+> 73 post(s) archived.
+
+---
+
+### 🕐 13:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/08/27/2092968086743715876-1.jpg)
+
+🔗 [View original post](https://x.com/Mindsthatbuild/status/2092968086743715876)
+
+---
+
+### 🕐 13:11 UTC · @Wise1Philosophy
+
+> How I&apos;d buy a Laundromat for $0 down &amp; make $100k/year... Media
+
+🔗 [View original post](https://x.com/benkellyone/status/2092963188836909383)
+
+---
+
+### 🕐 13:10 UTC · @Wise1Philosophy
+
+> After months of research, we are happy to announce that The AI Colony H1 2026 State of AI and Tech Industry Report is now live. Our team has been paying close attention to the biggest developments in AI. We collected the data, studied the trends, and compiled everything into one comprehensive report. Accessible to everyone for FREE 👇 https://www.theaicolony.com/blog/the-state-of-ai-tech-startup-and-saas-a-half-year-2026-review
+
+![After months of research, we are happy to announce that The AI Colony H1 2026 State of AI and Tech Industry Report is now live. Our team has been paying close attention to the biggest developments in ](../../../../assets/images/2026/08/27/2092962907784872222-1.jpg)
+
+🔗 [View original post](https://x.com/TheAIColonyRD/status/2092962907784872222)
+
+---
+
+### 🕐 13:04 UTC · @Wise1Philosophy
+
+> best account on X if you want to see production AI agents in action: A PR review agent we deployed for a PE-backed financial services client still reviews every pull request before a human sees it. The three systems we rebuilt shipped and the engineers rolled off. The agent stayed. The client scoped five engineers and two quarters to rebuild three…
+
+🔗 [View original post](https://x.com/alex_prompter/status/2092961502449877394)
+
+---
+
+### 🕐 13:04 UTC · @Wise1Philosophy
+
+> A deal died on a sales call over one line. Budget was confirmed. Timeline was agreed. Then the prospect said: &apos;I&apos;m not interested, I saw your reviews.&apos; The call ended in under two minutes. Gone because of a Trustpilot page nobody had touched in eight months. And the worst part? That wasn&apos;t even the worst case. Most people don&apos;t even show up. Most founders think the fix is a flawless rating. It isn&apos;t. A 5.0 average with six reviews looks like it was bought, and buyers doing deals over $10K+ know it. What you want is a 4.6 to 4.8 with visible neutral comments. Here&apos;s the shape of it. Say 100 prospects land on your Trustpilot page before a call. If that page shows fewer than 10 reviews, roughly a third bounce without ever booking, based on the pattern we see across client accounts. So before your next sales push, fix the page. Get an organic spread of reviews before your next sales push (What) Stop chasing a perfect star rating and start building a review spread that looks real: mostly strong, a few honest 4-star notes, dated across months instead of days. (Why) Buyers who land on a review page with almost no reviews, or a suspicious flawless average, bounce before they ever get on a call with you. (How) Do these things: 1. Pull your last 90 days of closed-won clients and email 15 of them today asking for a two-line review. 2. Space the requests so reviews land over 10 to 14 days, not all on the same day. 3. Reply publicly to every review within 48 hours, including the 4-star ones. 4. Add your Trustpilot link to your email signature and LinkedIn banner within the hour. The fix is building a stack that looks like it happened naturally over time. We aim for at least 25 reviews before a client leans hard on outbound, spread across 60 to 90 days, with two or three honest 4-star notes mixed in. Dates matter as much as scores. 12 reviews posted on the same Tuesday looks manufactured, because it literally is. 12 reviews posted across 6 weeks looks like a business that gets feedback and takes it to heart. Here&apos;s the math we walk clients through. If a $15,000 average deal closes at 20 percent from booked calls, and 30 percent of prospects check reviews before booking, fixing a broken review page can recover roughly 6 percent of total pipeline that was quietly leaking before the call ever happened. Nobody notices this leak on a dashboard. But when I see abnormal movement in show rate, the first thing I check is a quick Google search, then Trustpilot, then Reddit. Control the narrative. If this was useful, here&apos;s where to go next: Want to work with us? Send me a DM.
+
+![A deal died on a sales call over one line. Budget was confirmed. Timeline was agreed. Then the prospect said: &apos;I&apos;m not interested, I saw your reviews.&apos; The call ended in under two minut](../../../../assets/images/2026/08/27/2092961360602669137-1.jpg)
+
+🔗 [View original post](https://x.com/itsmarcosruiz/status/2092961360602669137)
+
+---
+
+### 🕐 13:03 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/08/27/2092961220127035772-1.jpg)
+
+🔗 [View original post](https://x.com/Life__Mastery/status/2092961220127035772)
+
+---
+
+### 🕐 13:00 UTC · @Wise1Philosophy
+
+> “Autonomous trucks are unsafe and 10 years away” while investors drop $200M in a Series D because it&apos;s already making money reality doesn&apos;t care about your hot takes Media $200M raised. Driverless freight operating commercially today. Customers like @pepsico already relying on us. Demand accelerating. This round is a strong vote of confidence in the business @Gatik_AI has built and gives us the capital to scale it much faster. Thank you Qatar Inves…
+
+🔗 [View original post](https://x.com/nrqa__/status/2092960556781285839)
+
+---
+
+### 🕐 13:00 UTC · @Wise1Philosophy
+
+> Normalize not telling everyone everything. Not everyone is your friend. Being private asf about your personal life is top-tier self-care.
+
+🔗 [View original post](https://x.com/_Pammy_DS_/status/2092960352950534459)
+
+---
+
+### 🕐 12:44 UTC · @Wise1Philosophy
+
+> The most dangerous lie in human history isn’t about food. It isn’t about medicine. It is about sleep. 1. You don’t need 8 hours of sleep.
+
+🔗 [View original post](https://x.com/CoachDanCole_/status/2092956447940432230)
+
+---
+
+### 🕐 12:42 UTC · @Wise1Philosophy
+
+> Coding is solved as long as you&apos;re not coding for enterprises &quot;Coding is solved.&quot; If you&apos;re building something that matches a known pattern, AI delivers near-perfect code. Spec to syntax is done. I&apos;ve seen agents close tickets in hours that used to take a week. But from experience, the projects that broke this year broke because nobody caug…
+
+🔗 [View original post](https://x.com/alex_verem/status/2092955919470481483)
+
+---
+
+### 🕐 12:42 UTC · @Wise1Philosophy
+
+> Cancel your plans tonight. Instead: • Buy a few of these little machines • Give them to local businesses • Collect passive income If you want to make money while you sleep… Follow these 7 steps:
+
+![Cancel your plans tonight. Instead: • Buy a few of these little machines • Give them to local businesses • Collect passive income If you want to make money while you sleep… Follow these 7 steps:](../../../../assets/images/2026/08/27/2092955826797294057-1.jpg)
+
+🔗 [View original post](https://x.com/gedamtekle/status/2092955826797294057)
+
+---
+
+### 🕐 12:40 UTC · @Wise1Philosophy
+
+> &quot;Coding is solved.&quot; If you&apos;re building something that matches a known pattern, AI delivers near-perfect code. Spec to syntax is done. I&apos;ve seen agents close tickets in hours that used to take a week. But from experience, the projects that broke this year broke because nobody caught what the agent didn&apos;t know about the codebase. Agent writes clean endpoints but doesn&apos;t know the auth layer has undocumented edge cases that&apos;ll surface in production. A senior engineer would&apos;ve asked &quot;why is this built like this?&quot; before touching anything. The agent just ships more code. Agent optimizes each service in isolation, misses the transaction boundary between them, passes every unit test, and falls apart under real load. Same pattern across all of them: the code worked, and the team missed what the agent couldn&apos;t see. I think writing code was always the easiest part of building software. Understanding why a system exists the way it does, catching what shouldn&apos;t ship, making tradeoffs that hold up over months. That&apos;s the job, and from what I&apos;ve seen it got harder. Your engineers now spend less time writing code and more time catching what the agents get wrong. And there&apos;s a lot more code to catch. &quot;Coding is solved&quot; is right the way &quot;flying is solved.&quot; Solved in 1903. We still need pilots. AI raised the premium on engineering judgment. The companies that understood this early are building faster than anyone in history. The rest will figure it out when something breaks that the agent can&apos;t explain. This is me I ended up leaving OpenAI, not because there&apos;s anything wrong with OAI (I actually think they&apos;re underrated as a biz), but because to me, building commercial software doesn&apos;t feel fun anymore Because agents write ~all the code: - There’s less human to human collaborati…
+
+🔗 [View original post](https://x.com/mardehaym/status/2092955373984464949)
+
+---
+
+### 🕐 12:39 UTC · @Wise1Philosophy
+
+> A cardiologist once says to me: &quot;These are the 8 things he&apos;d cut first to avoid a stroke after 60. Number 4 is in most pantries&quot; 1. Instant ramen.
+
+🔗 [View original post](https://x.com/CoachLucHerrera/status/2092955282280472948)
 
 ---
 
@@ -101,6 +213,14 @@
 > I just found the best production AI account on this app: A PR review agent we deployed for a PE-backed financial services client still reviews every pull request before a human sees it. The three systems we rebuilt shipped and the engineers rolled off. The agent stayed. The client scoped five engineers and two quarters to rebuild three…
 
 🔗 [View original post](https://x.com/alex_prompter/status/2092936563856396558)
+
+---
+
+### 🕐 11:18 UTC · @Wise1Philosophy
+
+> I&apos;m finally revealing exactly how I&apos;d put $100,000 into crypto today. It&apos;s so obvious you&apos;ll feel stupid for not figuring this out earlier:🧵
+
+🔗 [View original post](https://x.com/bensimpsonau/status/2092934751514694059)
 
 ---
 
