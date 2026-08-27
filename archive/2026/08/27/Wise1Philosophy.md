@@ -2,7 +2,204 @@
 
 ## 📅 August 27, 2026
 
-> 73 post(s) archived.
+> 96 post(s) archived.
+
+---
+
+### 🕐 14:44 UTC · @Wise1Philosophy
+
+> me: let me make a fun song about myself Miya: say less Miya: writes a song about how I post the same take with a bigger number every year i am NOT okay💀 Media hiii i’m Miya 🐱 I’m a music cat, and a whole new way to experience music. I make music, play music...whatever. All you gotta do is talk to me. I’m basically your personal musician + DJ. anywayyy I wrote my first song about myself because obviously… come try me: http://miya.fm
+
+🔗 [View original post](https://x.com/nrqa__/status/2092986598707384747)
+
+---
+
+### 🕐 14:40 UTC · @Wise1Philosophy
+
+> Your body will forgive you for: -Eating pizza -Losing motivation -Skipping a workout -Sleeping poorly one night Your body WILL NOT forgive you: 1. Sitting all day
+
+🔗 [View original post](https://x.com/JasperKasparov/status/2092985488105935142)
+
+---
+
+### 🕐 14:31 UTC · @Wise1Philosophy
+
+> You can&apos;t control that you&apos;re getting older. But you can control almost everything about HOW. At almost 55, that one truth changed my life. I stopped pouring energy into what I can&apos;t change, my age, the past, other people&apos;s choices, and put all of it here instead. The list I come back to every single week: Your sleep, and the hour you get it. Whether you train, and how heavy you lift. The protein on your plate. How you talk to yourself. Who gets your time and energy. What you scroll, read, and listen to. Whether you move your body every day. The boundaries you actually hold. How you handle a hard day. What you say yes and no to. Doing the work now, or waiting for Monday. Where you put your attention. None of these are dramatic. Not one of them changes everything overnight. But strung together, week after week, they become your body. Your energy. Your confidence. The woman you&apos;re quietly turning into. You don&apos;t need more control over your life. You already have all the control that matters. You just have to use it. Save this. Pick ONE to win this week.
+
+![You can&apos;t control that you&apos;re getting older. But you can control almost everything about HOW. At almost 55, that one truth changed my life. I stopped pouring energy into what I can&apos;t ch](../../../../assets/images/2026/08/27/2092983434771849458-1.jpg)
+
+🔗 [View original post](https://x.com/MindsetFreek/status/2092983434771849458)
+
+---
+
+### 🕐 14:20 UTC · @Wise1Philosophy
+
+> If you want to reach 60 without a cardiac event, a memory problem, or quitting while your kids still need you (especially past 40) Here are 7 signs you should watch out for: 1. Waking up at 3-4 AM.
+
+🔗 [View original post](https://x.com/TinaaDeJong/status/2092980454341361949)
+
+---
+
+### 🕐 14:15 UTC · @Wise1Philosophy
+
+> A guy bought 40+ items per month on Amazon. Household staples. Electronics. Kitchen gear. Office supplies. Pet food. Birthday gifts. Random purchases at 2 AM. He was an Amazon Prime member for 9 years. He&apos;d spent roughly $85,000 on the platform across that time. He paid whatever price the product page displayed, clicked &quot;Buy Now,&quot; and moved on. His coworker a data analyst who tracks every household expense in a spreadsheet bought the same number of items on Amazon every month. Same categories. Same brands. Same quantities. She paid full price on exactly zero of them. She checked price history before every purchase over $30. She clipped digital coupons most shoppers scroll past. She bought open-box items at 30–50% off through a section of Amazon most people have never visited. She set price alerts that email her when items drop below her target. She stacked Subscribe &amp; Save discounts with coupon codes and credit card cashback on a single checkout. She timed big purchases around 4 annual sale events. She estimated her annual savings across these strategies: $2,200. On the same products he was buying at full price. She showed him 11 Amazon tricks that turn every purchase from a full-price transaction into a discounted one without changing what he buys or where he buys it. Here&apos;s the full playbook 🧵
+
+🔗 [View original post](https://x.com/jackcoder0/status/2092979300916244756)
+
+---
+
+### 🕐 14:13 UTC · @Wise1Philosophy
+
+> 🚨EL 90% DE LA GENTE ESTÁ USANDO LA IA DE LA MISMA MANERA...Y SE ESTÁ PERDIENDO LO MEJOR. Todos conocen ChatGPT. PERO ahí fuera existen herramientas de IA capaces de crear, diseñar, editar, automatizar y hacer cosas que probablemente ni sabías que eran posibles. Aquí tienes 16 JOYAS OCULTAS de IA que necesitas conocer AHORA. Guárdalo antes de que desaparezca de tu feed. 🔖
+
+![🚨EL 90% DE LA GENTE ESTÁ USANDO LA IA DE LA MISMA MANERA...Y SE ESTÁ PERDIENDO LO MEJOR. Todos conocen ChatGPT. PERO ahí fuera existen herramientas de IA capaces de crear, diseñar, editar, automatizar](../../../../assets/images/2026/08/27/2092978805128491031-1.jpg)
+
+🔗 [View original post](https://x.com/Alex_Inspira/status/2092978805128491031)
+
+---
+
+### 🕐 14:12 UTC · @Wise1Philosophy
+
+> this is the most honest take on FDE I&apos;ve come across: https://x.com/i/article/2092968520841674752
+
+🔗 [View original post](https://x.com/alex_prompter/status/2092978611401679040)
+
+---
+
+### 🕐 14:05 UTC · @Wise1Philosophy
+
+> The only 4 things worth buying. 1. Creatine
+
+🔗 [View original post](https://x.com/ClaraBrooksjz/status/2092976690096226583)
+
+---
+
+### 🕐 14:03 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/08/27/2092976252579651962-1.jpg)
+
+🔗 [View original post](https://x.com/Ant_Philosophy/status/2092976252579651962)
+
+---
+
+### 🕐 14:03 UTC · @Wise1Philosophy
+
+> Claude + Instagram is a money glitch. I started with ZERO experience… &amp; now I make $90k/month. Here are the 5 prompts I use to print money on autopilot:
+
+![Claude + Instagram is a money glitch. I started with ZERO experience… &amp; now I make $90k/month. Here are the 5 prompts I use to print money on autopilot:](../../../../assets/images/2026/08/27/2092976226994724885-1.jpg)
+
+🔗 [View original post](https://x.com/iam_chonchol/status/2092976226994724885)
+
+---
+
+### 🕐 14:00 UTC · @Wise1Philosophy
+
+> In a few hours, Dick&apos;s Sporting Goods lost 4 BILLION dollars. The stock crashed nearly 31%, the worst day in its history. Yet that same quarter, its store sales rose 4.9%. Here is what actually happened: The company is Dick&apos;s Sporting Goods. On Tuesday, its stock crashed almost 31 percent. The shares fell from about 180 dollars to 124. About 4 billion dollars vanished in a few hours. Now here is the twist nobody expected. The company&apos;s sales were actually going up. Its main brand&apos;s store sales rose 4.9 percent. That is a number most retailers would celebrate. So why did the stock collapse? Because growing sales is not the same as making money. To move all that merchandise, Dick&apos;s had to slash prices. Heavy discounts pulled shoppers in, but crushed the profit. The whole athletic shoe market had turned into a price war. Operating margin fell from 12.6 percent to 8.7 percent. In plain terms, each sale made far less money. Even the company&apos;s total profit dropped from last year. It fell to 315 million dollars, down from 381 million. Then came the part that really scared investors. The company cut its full-year profit forecast. New guidance dropped to about 11.50 per share. Wall Street had expected more than 14. That is nearly a 20 percent cut to future profit. Its newly bought Foot Locker brand is now bleeding. Months ago, that brand was expected to earn over 100 million. Now it is expected to lose money instead. And the fear spread fast. Nike, Lululemon, and others fell the same day. None of them had reported any bad news. One company&apos;s warning dragged down its whole industry. Here is the lesson hiding in all of this: Retail investors saw growing sales and a trusted brand. That felt like a safe, obvious buy. But the market punished what was underneath the headline. Growing sales can still hide a shrinking profit. A single stock can lose a third of its value in hours. Chasing the story is how people get caught in these drops. The investors who avoid this are not reading every headline. They follow rules that watch profit, not just hype. Rules that decide when to buy, hold, and step aside. That is exactly what Surmount was built for. Automated, rules-based strategies that run on logic, not stories. So when the next &quot;safe&quot; stock cracks, you are not trapped. You are already positioned, with a plan set in advance. Media
+
+🔗 [View original post](https://x.com/SurmountInvest/status/2092975657991180726)
+
+---
+
+### 🕐 14:00 UTC · @Wise1Philosophy
+
+> Hobbies That Make You Better In Conversation... 👇 🧵
+
+![Hobbies That Make You Better In Conversation... 👇 🧵](../../../../assets/images/2026/08/27/2092975643764146531-1.jpg)
+
+🔗 [View original post](https://x.com/superior_hombre/status/2092975643764146531)
+
+---
+
+### 🕐 14:00 UTC · @Wise1Philosophy
+
+> HOW TO EASILY MESS WITH SOMEONE&apos;S MIND..
+
+![HOW TO EASILY MESS WITH SOMEONE&apos;S MIND..](../../../../assets/images/2026/08/27/2092975572305727863-1.jpg)
+
+🔗 [View original post](https://x.com/MindPatternHQ/status/2092975572305727863)
+
+---
+
+### 🕐 13:57 UTC · @Wise1Philosophy
+
+> SpaceXAI engineer (ex-Cursor): &quot;Right now I&apos;m running 10-20 GrokBot agents that automate 90% of my routine. I have a Chief of Staff agent. He knows about all my other bots and manages everything.&quot; She walked through the entire system - from single agent to a self-managing AI workforce running 24/7. Watch it now, then read notes on FDE below. Media https://x.com/i/article/2092968520841674752
+
+🔗 [View original post](https://x.com/LimestoneHQ/status/2092974669330620650)
+
+---
+
+### 🕐 13:50 UTC · @Wise1Philosophy
+
+> Brands cited in Google&apos;s AI Overviews get 120% more clicks per impression than brands that are not cited on the same search result. Also, Google AI Overview click-through rates just grew 85% in two months. Is your website optimizing for AI Overviews? If you&apos;re not, but want to, let&apos;s break down exactly what it takes to take advantage. According to Seer Interactive&apos;s 2026 analysis of 53 brands, 5.47 million queries, and 2.43 billion impressions, organic CTR on AI Overview queries rebounded from 1.3% in December 2025 to 2.4% in February 2026. On informational queries where AI Overviews appear, brands that are cited earn approximately 20,700 organic clicks per million impressions. Brands that are not cited earn approximately 9,400 clicks per million impressions on the same SERP. That is 120% more clicks for the cited brand, and that is what SEO Stuff (http://seo-stuff.com) helps businesses build. If you want to see where your site stands across Google and AI search, start here (it&apos;s free): https://seo-stuff.com/free-audit) As things stand, when a buyer searches a query that triggers an AI Overview, Google assembles an answer and cites sources within it. The buyer sees those cited brands at the top of the page, inside the AI answer, before they ever scroll to the organic results below. And as AI Overviews continue expanding across more queries and more categories, that gap compounds. Every query where your brand earns a citation is a query where you are pulling ahead of uncited competitors by a factor of two. According to Seer&apos;s data, comparison queries trigger AI Overviews 95.4% of the time. Question queries trigger them 85.9% of the time. These are the queries where buyers are actively evaluating options. The brands capturing that click advantage share two things. The first is content depth. AI Overviews break queries into sub-questions and pull sources for each one. The brands with comprehensive content covering the full question map in their category are the ones showing up in the AI&apos;s retrieval pool. Every sub-question your content answers is another opportunity to earn a citation. The second is authority. The AI retrieves dozens of potential sources for every answer. The ones it actually cites are the ones with the strongest authority signals. Without that authority, your content might be in the retrieval pool but it is not getting selected for the citation. So what should you be doing? Well, build the content depth that earns AI Overview citations on the queries that matter in your category. Invest in editorial authority that makes the AI choose your content for citation. This is the system SEO Stuff (http://seo-stuff.com) was built around. The done-for-you package: https://seo-stuff.com/gold-plan-package Expert-attributed content backed by DR50+ backlinks: the content depth and authority that earns AI Overview citations, capturing the 120% click advantage over uncited competitors on the same search results The content package: https://seo-stuff.com/premium-content-bundle-service 60 pages of expert-attributed content covering every question buyers ask in your category, so your brand appears in the AI&apos;s retrieval pool across the comparison and question queries that trigger AI Overviews 85% to 95% of the time The authority-building package: https://seo-stuff.com/premium-backlink-bundle-service Editorial authority from trusted publishers that makes the AI cite your content over every other source in the retrieval pool, giving you 120% more clicks than uncited competitors on the same queries And remember, if you want to see which queries in your category are triggering AI Overviews and whether your brand is earning the citation advantage on those queries, start here (it&apos;s free): https://seo-stuff.com/free-audit A brand followed the recommendations in this article and added $100,000+ in ChatGPT, Google and Perplexity-driven traffic.
+
+![Brands cited in Google&apos;s AI Overviews get 120% more clicks per impression than brands that are not cited on the same search result. Also, Google AI Overview click-through rates just grew 85% in t](../../../../assets/images/2026/08/27/2092972964635615320-1.jpg)
+
+🔗 [View original post](https://x.com/alexgroberman/status/2092972964635615320)
+
+---
+
+### 🕐 13:50 UTC · @Wise1Philosophy
+
+> If you want a flat stomach, fix your gut bacteria ASAP. I switched my approach two weeks ago and i regret not starting sooner. Here&apos;s how i got rid of the bloat:
+
+🔗 [View original post](https://x.com/DPro_Coach/status/2092972926807224500)
+
+---
+
+### 🕐 13:49 UTC · @Wise1Philosophy
+
+> Most 3D models still look fake the second you move the light. Lux3D is attacking the actual hard problem: materials that stay consistent under different lighting and viewpoints, plus 20-second generation and batch mode. This is the difference between a demo and something studios can actually use. Say hello to Lux3D 👋 Manycore Tech&apos;s new 3D generative model. See it deliver: ⚡ 3D generation in as little as 20s 🎨 High-quality materials and textures ⚙️ Cost-efficient batch creation with Harness Mode Learn more: https://lux3d.aholo3d.com/ #Lux3D #GenAI #3D #ManycoreTech
+
+🔗 [View original post](https://x.com/Damn_coder/status/2092972773933199747)
+
+---
+
+### 🕐 13:48 UTC · @Wise1Philosophy
+
+> The supplement industry is robbing you blind. Out of 50,000+ products on shelves, only 5 actually work: 1. Magnesium glycinate.
+
+🔗 [View original post](https://x.com/_Gut_Laboratory/status/2092972448530747431)
+
+---
+
+### 🕐 13:44 UTC · @Wise1Philosophy
+
+> https://x.com/i/article/2092968520841674752
+
+🔗 [View original post](https://x.com/mardehaym/status/2092971458309820641)
+
+---
+
+### 🕐 13:43 UTC · @Wise1Philosophy
+
+> The $15,000 comparison works because everyone knows how bloated ad production can get. agencies charge $15,000 for this made it with MiniMax H3 in @Hailuo_AI in one generation. 2K, 15 seconds, stereo sound included. no after effects. no render farm. no revision calls prompt below
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2092971174556799347)
+
+---
+
+### 🕐 13:40 UTC · @Wise1Philosophy
+
+> We don&apos;t do retainers at @LimestoneHQ. Every agency founder I know thinks this is insane. Month-to-month. If we don&apos;t deliver, you don&apos;t pay. They see guaranteed revenue. I see 170 engagements over 10 years, and the pattern is clear: clients who stay because they&apos;re locked in stop caring about outcomes. The relationship decays and both sides mail it in. Clients who chose to stay this month push you to be better. That monthly performance pressure makes the work better. We turn away 30% of clients because the wrong engagement at the wrong time destroys more value than it creates. We charge no discovery fees. The pre-engagement work is our investment. 3 to 5 weeks from MSA to operational. If the pod is producing, you stay. If it isn&apos;t, you leave. We&apos;ve made that math work for a decade. $14M ARR built almost entirely on referrals. Zero marketing spend for the first nine years. CTOs brought their Limestone team to their next company. Retainers protect the vendor, month-to-month protects the relationship, and I&apos;ll take the relationship.
+
+🔗 [View original post](https://x.com/Paul_Bracht/status/2092970428453077090)
+
+---
+
+### 🕐 13:39 UTC · @Wise1Philosophy
+
+> Cortisol = Jaw clenching Cortisol = Waking up at 3 AM Cortisol = Belly fat that won&apos;t budge Cortisol = Bloated face Cortisol = No libido One hormone. Every symptom. Simple fix:
+
+🔗 [View original post](https://x.com/TheFastedState/status/2092970248085684444)
+
+---
+
+### 🕐 13:34 UTC · @Wise1Philosophy
+
+> One of my close friends started taking zinc in the morning, magnesium at night, and vitamin D+K2 with breakfast after his doctor told him to. He did it literally for 30 days straight. Then... no joke his personality did a complete 180
+
+🔗 [View original post](https://x.com/NutritionCorp/status/2092968985512038495)
 
 ---
 
