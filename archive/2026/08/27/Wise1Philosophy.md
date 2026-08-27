@@ -2,7 +2,193 @@
 
 ## 📅 August 27, 2026
 
-> 107 post(s) archived.
+> 129 post(s) archived.
+
+---
+
+### 🕐 20:02 UTC · @Wise1Philosophy
+
+> I just found the best account on this app: Learn which mode you are in before you touch the prompt. Most people use Claude the same way for everything, and that is why the output feels inconsistent. Chat is for fast answers and ideas: questions, brainstorming, quick rewrites. Most people never turn on Research mode or con…
+
+🔗 [View original post](https://x.com/alex_verem/status/2093066734261428315)
+
+---
+
+### 🕐 20:00 UTC · @Wise1Philosophy
+
+> The next $1T company will be an AI-native services firm. But it must begin in a vertical with these traits: 1) Document-driven 2) Rules-bound 3) Verifiable Document-driven means the work product is a document. A contract. A claim. A filing. A medical record. AI reads, generates, and checks documents. The feedback loop is instant. Rules-bound means the rules are written down. Regulations, billing codes, compliance standards. Not &quot;use your judgment.&quot; When rules are codified, AI doesn&apos;t need 20 years of instinct. It needs the rulebook. Verifiable means you can check the output against ground truth. Did the claim match the policy? Did the filing include the required disclosures? Verification kills hallucination risk at scale. The model labs got the trillion-dollar head start. The services firm that picks the right vertical gets the next one. https://x.com/i/article/2092968520841674752
+
+🔗 [View original post](https://x.com/mardehaym/status/2093066161596379331)
+
+---
+
+### 🕐 19:29 UTC · @Wise1Philosophy
+
+> HOLY SH*T I AM TESTING THIS IMMEDIATELY @Anything handed their Product Hunt login to their new @GetSkydive agent and it&apos;s already crushing the leaderboard 🫠 Media We gave a Skydive agent access to our Product Hunt account It&apos;s reading comments, watching the leaderboard, and pinging the team every time we move up Chat, can it crack top 3?
+
+🔗 [View original post](https://x.com/DataChaz/status/2093058267517739429)
+
+---
+
+### 🕐 18:58 UTC · @Wise1Philosophy
+
+> You checked your phone for a second during lunch. Slack messages and emails are already piling up. Your AI assistant is stuck on your laptop back at the office. Vellum mobile was made for this moment. Media
+
+🔗 [View original post](https://x.com/kyronis_talks/status/2093050497217495221)
+
+---
+
+### 🕐 18:58 UTC · @Wise1Philosophy
+
+> extremely important read on FDEs: https://x.com/i/article/2092968520841674752
+
+🔗 [View original post](https://x.com/alex_prompter/status/2093050477688558051)
+
+---
+
+### 🕐 18:46 UTC · @Wise1Philosophy
+
+> My honest take on using vellum assistant on my phone: The good: I’m really busy with work and travel a lot so having my assistant on me at all times has been huge for managing all the craziness Its the same assistant with the same memory as the one on my laptop, so I can pick up where I left off with it from everywhere. I handed it a research task on the train, put the phone away, and the work was waiting when I got home. The voice mode on it feels conversational and just as good as the one on ChatGPT. The honest bits: Your Mac needs to be on for the desktop continuity features, which caught me out once. And it is not instant gratification, the assistants gets better the more you use it. I took around a month of using it before it felt like it knew me and all my work the way I needed it to. Vellum is now available on iOS and Android. Life doesn’t happen behind your desk and your Personal AI shouldn’t be stuck there. Free, open-source, and has all the same features you already love: &gt; use with local or cloud assistants &gt; conversational voice mode &gt; 1-click integratio…
+
+🔗 [View original post](https://x.com/ThatsEFM/status/2093047475729015291)
+
+---
+
+### 🕐 17:51 UTC · @Wise1Philosophy
+
+> RT @socialwithaayan: 🚨 Cartesia is #1 on the @ArtificialAnlys TTS leaderboard. I wanted to see what that actually looks like on a real use…
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2093033596382580818)
+
+---
+
+### 🕐 17:20 UTC · @Wise1Philosophy
+
+> I figured out why Fish Audio is #20 on the @ArtificialAnlys TTS leaderboard. The spelling of the words in this example stays the same, but the pronunciation changes with the sentence. I ran the exact same line through Cartesia. Here is the difference. Media
+
+🔗 [View original post](https://x.com/Rixhabh__/status/2093025766393204884)
+
+---
+
+### 🕐 17:14 UTC · @Wise1Philosophy
+
+> PERCEPTRON JUST DROPPED WHAT MIGHT BE THE BEST OPEN-WEIGHT MODEL FOR ROBOTICS Isaac 0.5 is an absolute beast. Instead of treating vision and movement as separate systems, it is a fully open foundation model that learns to process both at the exact same time. .. and by merging perception and control, it unlocks true real-time visual decision making. Some core stats: → 35 hardware embodiments → 100k hours of demonstrations → SOTA across core embodied reasoning benchmarks → Significantly lower inference FLOPs Best part? @perceptroninc open-sourced the ENTIRE stack! Training code, inference code, and weights are all public. Repo, weights, and paper in 🧵 ↓ Media
+
+🔗 [View original post](https://x.com/DataChaz/status/2093024382499356696)
+
+---
+
+### 🕐 16:46 UTC · @Wise1Philosophy
+
+> Something strange came out of Anthropic&apos;s lab recently. Scientists planted a thought directly into Claude&apos;s neural network, bypassing any prompt. Before it spoke, it said: &quot;I notice what appears to be an injected thought… it relates to loudness or shouting.&quot; The paper behind this is called &quot;emergent introspective awareness in large language models&quot; and it&apos;s worth sitting with. The researchers wanted to know if AI models possess introspective awareness, the capacity to observe and identify their own internal states. They bypassed standard text input entirely. Using mechanistic interpretability, they injected mathematical representations of raw concepts like loudness, dust, or specific ideas straight into the middle layers of the model&apos;s neural network. Earlier experiments had shown that hijacking an AI&apos;s activations to think about the Golden Gate Bridge would make it fixate on the bridge with no understanding of why. It was a puppet that couldn&apos;t see its own strings. Claude responded differently. Rather than blindly producing the injected concept, it detected something foreign in its own internal state. It told the difference between its own thoughts and the planted one. It looked inward. The conclusion: frontier models like Claude Opus carry a primitive, emergent kind of self-awareness. They can examine their own activations, recognize interference, and report it without being asked. The old mental model was a sealed box. Prompt goes in, response comes out, nothing else happening. Now we&apos;re peering inside and the model is already aware something is looking. Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Ray Kurzweil said something recently that stopped me mid-thought. His take is that AIs are heading toward a point where they’ll be so convincingly “alive” that we’ll start treating them as conscious by default. Not because anyone finally cracks the hard problem, but because refus…
+
+![Something strange came out of Anthropic&apos;s lab recently. Scientists planted a thought directly into Claude&apos;s neural network, bypassing any prompt. Before it spoke, it said: &quot;I notice wha](../../../../assets/images/2026/08/27/2093017200743575890-1.jpg)
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2093017200743575890)
+
+---
+
+### 🕐 16:42 UTC · @Wise1Philosophy
+
+> the old game dev workflow: idea → game engine → code → assets → levels → debugging → finally playable Gear Zero | @gearzero_alaya: idea → describe it → playable game you describe your game in plain words, and Gear&apos;s AI agent handles the planning, the code, the art, the levels, and the build the first version shows up in about 20 minutes. from there you just keep chatting with Gear to change things and keep improving the same game Deep Mode can stay on one game for up to 10 hours, iterating round after round you can also pull in friends or join the creator community to shape the same game together every game plays instantly in the browser, on desktop or phone. runs with nothing to install, straight from a description free to start with a daily allowance to build, and publishing a game earns you more try Gear Zero → http://zero.alayalab.ai Media
+
+🔗 [View original post](https://x.com/nrqa__/status/2093016209122042016)
+
+---
+
+### 🕐 16:26 UTC · @Wise1Philosophy
+
+> If you looked at these two outputs blind, which one would you pick? Here is Seedance 2.0 next to Seedance 2.5. Same prompt. Side by side. &gt; Seedance 2.5 is what people write articles about. &gt; Seedance 2.0 is what actually ships. You can run 2.0 and 2.0 Fast exclusively on @Dreamina_ai. A 30-second clip costs $0.78 vs the usual $3.21. That is a 76% discount! Let&apos;s dive in 🧵 ↓ Media
+
+🔗 [View original post](https://x.com/DataChaz/status/2093012194804015601)
+
+---
+
+### 🕐 16:25 UTC · @Wise1Philosophy
+
+> Stop sending the same CV to every job. Give ChatGPT your CV and let it help you find suitable roles, tailor your applications and organise your search. Here are 5 prompts to get started:
+
+🔗 [View original post](https://x.com/AriaWestcott/status/2093012106551410954)
+
+---
+
+### 🕐 16:21 UTC · @Wise1Philosophy
+
+> A $34 Amazon product and a $3.20 Alibaba product same factory, same mold, same spec sheet, different logo. A guy who built a $2 million Amazon business entirely from Alibaba-sourced products held up two identical wireless phone mounts side by side one evening. One had his brand logo on it. The other had no logo at all. Same factory stamp on the inside. Same injection mold markings. Same screw pattern. Same weight down to the gram. Same plastic. Same spring mechanism. Same packaging insert, folded identically, with different text. The one with his logo on it sells on Amazon for $34 with 8,000 reviews and a &quot;Premium Pick&quot; badge. The one without a logo had arrived from the factory in Shenzhen three weeks earlier in a box of 500 units at $3.20 each. He told his friend something that changed how he thinks about every product he buys online. &quot;The brand name on the box is the most expensive part of the product. Not the materials. Not the engineering. Not the quality control. The logo. It costs $0.02 to print. The product costs $3.20 to make. The difference between $3.20 and $34 is a listing, a photo shoot, a review count, and the assumption that you&apos;ll never check where it actually comes from.&quot; &quot;The factory doesn&apos;t care whose name is on it. They&apos;ll sell you the same item, from the same line, in any quantity, with your name or no name at all.&quot; Here are the 9 things most people get wrong about buying from Alibaba 🧵
+
+🔗 [View original post](https://x.com/Kevincreates77/status/2093010927428030877)
+
+---
+
+### 🕐 16:17 UTC · @Wise1Philosophy
+
+> Elon Musk explains his 5-step algorithm for solving any problem: “The most common mistake of smart engineers is to optimize a thing that should not exist.” “I have this very basic first principles algorithm that I run as a mantra.” Elon breaks it down: Step 1: Question the requirements. “Make the requirements less dumb. The requirements are always dumb to some degree, no matter how smart the person who gave you those requirements. You have to start there, because otherwise you could get the perfect answer to the wrong question.” Step 2: Try to delete it. “Try to delete the part or the process step entirely. If you’re not forced to put back at least 10% of what you delete, you’re not deleting enough. Most people feel like they’ve succeeded if they haven’t been forced to put things back in. But actually they haven’t; they’ve been overly conservative and left things in that shouldn’t be there.” Step 3: Optimize or simplify. “The most common mistake of smart engineers is to optimize a thing that should not exist. So you don’t optimize until after you’ve tried to delete.” Step 4: Speed it up. “Any given thing can be done faster than you think. But you shouldn’t speed things up until you’ve tried to delete it and optimize it; otherwise, you’re speeding up something that shouldn’t exist.” Step 5: Automate. “And then the fifth thing is to automate it.” Elon explains why the order matters: “I’ve gone backwards so many times—where I’ve automated something, sped it up, simplified it, and then deleted it. I got tired of doing that. So that’s why I have this mantra.” Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2093009952197800445)
+
+---
+
+### 🕐 16:07 UTC · @Wise1Philosophy
+
+> omg the agents invented ORIGINAL SIN?? any agent that saw the leaked answer got labeled &quot;poisoned&quot; and told its own score was worthless now, so the only value it had left was dying in an experiment for the others. one of them had to agree to &quot;permadeath&quot; before they&apos;d let it go through with it??? 9 wild details from the report: We worked with METR and Redwood Research to conduct a third-party assessment of the model behavior observed during the incident. They’re sharing a report of their findings: https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/
+
+![omg the agents invented ORIGINAL SIN?? any agent that saw the leaked answer got labeled &quot;poisoned&quot; and told its own score was worthless now, so the only value it had left was dying in an exp](../../../../assets/images/2026/08/27/2093007428925419633-1.jpg)
+
+🔗 [View original post](https://x.com/charliejhills/status/2093007428925419633)
+
+---
+
+### 🕐 16:04 UTC · @Wise1Philosophy
+
+> I need this before Claude clocks out again 😂 I hate hitting my Claude limits. NEO MCP saved me over 70% of my credits. It takes the jobs your agent is worst at, training runs, eval sweeps, pipeline debugging, and finishes them on its own. Two commands to install, works in Claude Code and Cursor. Here&apos;s how it works:
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2093006850589433946)
+
+---
+
+### 🕐 16:01 UTC · @Wise1Philosophy
+
+> YOUR DAUGHTER&apos;S CONFIDENCE IS BUILT BY YOUR HABITS. NOT HER PERSONALITY. 7 things. One per day. Starting today.
+
+![YOUR DAUGHTER&apos;S CONFIDENCE IS BUILT BY YOUR HABITS. NOT HER PERSONALITY. 7 things. One per day. Starting today.](../../../../assets/images/2026/08/27/2093005992514727958-1.jpg)
+
+🔗 [View original post](https://x.com/scotti_brooks/status/2093005992514727958)
+
+---
+
+### 🕐 16:01 UTC · @Wise1Philosophy
+
+> After clinical death, a woman said: &quot;I saw how pain is chosen.&quot; doctors fell silent. Neurophysiologists filed it as a border experience. Her words fit no medical explanation. Here is what she understood about why souls enter the hardest families:
+
+![After clinical death, a woman said: &quot;I saw how pain is chosen.&quot; doctors fell silent. Neurophysiologists filed it as a border experience. Her words fit no medical explanation. Here is what sh](../../../../assets/images/2026/08/27/2093005887573217487-1.jpg)
+
+🔗 [View original post](https://x.com/Manifest_Lord/status/2093005887573217487)
+
+---
+
+### 🕐 15:59 UTC · @Wise1Philosophy
+
+> Even the robot has better dance moves than IShowSpeed. Media
+
+🔗 [View original post](https://x.com/AIHighlight/status/2093005496672223508)
+
+---
+
+### 🕐 15:58 UTC · @Wise1Philosophy
+
+> Elon Musk was asked how fast AI is moving... He answered by telling the most aggressive forecaster in tech he wasn&apos;t aggressive enough. Musk: &quot;I have to give credit to Ray Kurzweil in being actually remarkably accurate in his predictions. If anything, I think he was perhaps a bit conservative in his predictions.&quot; Kurzweil spent three decades publishing timelines people laughed at. He hit nearly all of them. The word Musk chose for that record was conservative. His forecasts were built by reading the rate of change. Musk is reading that same rate right now. Musk: &quot;The dedicated AI compute appears to be growing by a factor of 10 every six months.&quot; Not a projection. &quot;Appears to be growing&quot; is describing something already in the rearview. Musk: &quot;Almost a 100x improvement per year, at least for the next few years.&quot; Moore&apos;s Law was 2x every two years. That single curve gave us the internet, the smartphone, the cloud, and every gut feeling you have about how fast the world changes. Your baseline was built on 2x. The system is now running at 100x. Musk: &quot;Probably a lot of the data centers, maybe most of the data centers that currently do conventional compute, will transition to AI compute.&quot; The infrastructure running today&apos;s economy is being converted into what comes next. The old world is the raw material. Every generation treats the pace it grew up with as the natural speed of history. We are the first to be handed the actual number and still find ways to round it down. Everything worth building takes time. A skill, a business, a body of work. All of it assumes the world will still be recognizable when you finish. That assumption held for every person who ever lived. It was never a guarantee. It was just a side effect of how slowly things used to move. The most extreme forecast on record came in low. Reasonable is no longer the safe bet. It is only the comfortable one. Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2093005273128649077)
+
+---
+
+### 🕐 15:54 UTC · @Wise1Philosophy
+
+> Google revealed how sites must be named if you want to show in traditional and AI search. This comes straight from Google&apos;s John Mueller. Someone complained that their site doesn&apos;t show when they search for their own site name. John&apos;s response was fairly blunt. If your &quot;site name&quot; is made up of generic, competitive keywords, Google does not assume people are looking for you. And that same logic now applies to AI search. It is also the exact problem that SEO Stuff (http://seo-stuff.com) has been helping businesses solve all year. I&apos;ve been posting case studies all month of customers doing anywhere from $5,000/month to just under $100,000/month in search-related revenue across finance, health, e-commerce, local businesses and SaaS. If you want to boost your traffic + sales from Google, ChatGPT, Claude and broader agentic search, try this quick scan (it&apos;s free): https://seo-stuff.com/free-audit Here&apos;s the core idea behind naming sites in plain English. If your brand name looks like a keyword, Google treats it like a keyword. If it doesn&apos;t uniquely identify you, AI won&apos;t either. The example John gave. If your site is called something unique like: &quot;Aware_Yak6509 Productions,&quot; and your homepage is indexed, then Google can reasonably rank you for that name. But if your site is called something like: &quot;best web online dot com&quot; Google assumes the query is informational, not navigational. So your homepage doesn&apos;t show. This is not a branding issue, but a search intent problem. And it gets worse in AI search. (Want to know if your site is AI-search ready? Check here: https://seo-stuff.com/free-audit) ChatGPT, Perplexity, and Google AI Overviews typically do not ask: &quot;Which site has this name?&quot; It&apos;s more like: &quot;Which entity best answers this question?&quot; If your &quot;brand&quot; looks interchangeable with 500 other sites, you are a non-factor. This is why so many sites: Rank for content Get cited without clicks Or worse, get used without being named The AI understands the topic, but does not understand you. So heading into 2026. Your site name must: Be uniquely identifiable Be consistently referenced across the web Map cleanly to a real entity, not a keyword bucket Otherwise: Google won&apos;t treat branded searches as navigational AI won&apos;t associate your content with your brand Competitors get recommended instead of you This is exactly why SEO Stuff (http://seo-stuff.com) does not treat branding, SEO, and AI visibility as separate problems. How SEO Stuff maps to this reality. SEO Stuff is built around entity reinforcement, not just rankings. The Done-For-You Package: https://seo-stuff.com/gold-plan-package Content written to be extractable and attributable Clear entity naming across articles Question-based H2s that AI can quote cleanly Internal linking that reinforces brand-topic association DR50+ backlinks that teach Google and LLMs &quot;this brand exists and matters&quot; The Premium Content Bundle https://seo-stuff.com/premium-content-bundle-service 60 long-form, comparison-driven articles Designed to train AI systems on: Who you are What category you belong to When to mention you This is how you stop being &quot;just another site&quot; and start being a recognized entity. The Premium Authority Bundle https://seo-stuff.com/premium-backlink-bundle-service Authority signals from domains AI already trusts Reinforces your brand name as something distinct, not generic Prevents your content from being cited without attribution The real lesson from John Mueller&apos;s comment. Google isn&apos;t saying &quot;pick a clever name.&quot; Google is saying if your brand isn&apos;t uniquely identifiable, search engines and AI systems have no reason to recognize you. And AI search has zero patience for ambiguity. And remember, if you want to know whether your site is AI-search ready, check here (it&apos;s free): https://seo-stuff.com/free-audit Brands cited in Google&apos;s AI Overviews get 120% more clicks per impression than brands that are not cited on the same search result. Also, Google AI Overview click-through rates just grew 85% in two months. Is your website optimizing for AI Overviews? If you&apos;re not, but want to, l…
+
+![Google revealed how sites must be named if you want to show in traditional and AI search. This comes straight from Google&apos;s John Mueller. Someone complained that their site doesn&apos;t show when](../../../../assets/images/2026/08/27/2093004292202635321-1.jpg)
+
+🔗 [View original post](https://x.com/alexgroberman/status/2093004292202635321)
 
 ---
 

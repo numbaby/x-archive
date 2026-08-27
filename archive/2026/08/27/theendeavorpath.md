@@ -2,7 +2,27 @@
 
 ## 📅 August 27, 2026
 
-> 3 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 17:12 UTC · @theendeavorpath
+
+> 10 things I&apos;d do first if I wanted to feel better in 30 days. 1. Eat protein within an hour of waking.
+
+![10 things I&apos;d do first if I wanted to feel better in 30 days. 1. Eat protein within an hour of waking.](../../../../assets/images/2026/08/27/2093023822958186871-1.jpg)
+
+🔗 [View original post](https://x.com/EnergyUp_/status/2093023822958186871)
+
+---
+
+### 🕐 16:31 UTC · @theendeavorpath
+
+> 50 SCARIEST HORROR FILMS OF ALL TIME:
+
+![50 SCARIEST HORROR FILMS OF ALL TIME:](../../../../assets/images/2026/08/27/2093013476171981302-1.jpg)
+
+🔗 [View original post](https://x.com/stoicmen_/status/2093013476171981302)
 
 ---
 
