@@ -2,7 +2,17 @@
 
 ## 📅 August 27, 2026
 
-> 129 post(s) archived.
+> 130 post(s) archived.
+
+---
+
+### 🕐 20:25 UTC · @Wise1Philosophy
+
+> Getting an AI demo to work is the easy part for a software company. Selling it to a serious procurement team is the actual wall. The question changes from &quot;does the model work?&quot; to &quot;can we run this safely?&quot; Here is how @AWS solves this for Independent Software Vendors 🧵 ↓
+
+![Getting an AI demo to work is the easy part for a software company. Selling it to a serious procurement team is the actual wall. The question changes from &quot;does the model work?&quot; to &quot;can](../../../../assets/images/2026/08/27/2093072350845817297-1.jpg)
+
+🔗 [View original post](https://x.com/DataChaz/status/2093072350845817297)
 
 ---
 
