@@ -14,21 +14,37 @@ ROOT = Path(__file__).resolve().parent
 # UPDATE THIS BEFORE EACH RUN
 CUTOFF = datetime(2026, 8, 27, 0, 0, 0, tzinfo=timezone.utc)
 
-# Profiles from the JSON
-profiles = [
-    "elonmusk",
-    "Fiction_1m",
-    "_Regret_x",
-    "Turbo_clips",
-    "Alphafiles1",
-    "theendeavorpath",
-    "alone_boy_010",
-    "Wise1Philosophy",
-    "Letstalk246",
-    "LimitlessLif3",
-    "voidfeels_1",
-    "Unlockyourlife_",
-]
+PROFILES_URL = "https://raw.githubusercontent.com/numbaby/profile_list_on_x/main/profiles.json"
+
+def fetch_profiles():
+    """Fetch active profiles from remote JSON."""
+    try:
+        req = urllib.request.Request(
+            PROFILES_URL,
+            headers={"User-Agent": "Mozilla/5.0 X-Archive/1.0"}
+        )
+        with urllib.request.urlopen(req, timeout=30) as resp:
+            data = json.load(resp)
+        
+        # Extract usernames from active profiles (strip @ prefix)
+        profiles = []
+        for p in data.get("profiles", []):
+            if p.get("active", True):
+                name = p.get("name", "")
+                if name.startswith("@"):
+                    name = name[1:]
+                profiles.append(name)
+        
+        print(f"Fetched {len(profiles)} active profiles from remote", file=sys.stderr)
+        return profiles
+    except Exception as e:
+        print(f"ERROR fetching profiles: {e}", file=sys.stderr)
+        # Fallback to hardcoded list
+        return [
+            "elonmusk", "Fiction_1m", "_Regret_x", "Turbo_clips", "Alphafiles1",
+            "theendeavorpath", "alone_boy_010", "Wise1Philosophy", "Letstalk246",
+            "LimitlessLif3", "voidfeels_1", "Unlockyourlife_"
+        ]
 
 def fetch_feed(username):
     """Fetch Atom feed from fxtwitter."""
@@ -143,6 +159,9 @@ def parse_atom_feed(xml_data, username):
     return posts
 
 def main():
+    # Fetch profiles from remote
+    profiles = fetch_profiles()
+    
     all_posts = []
     
     for username in profiles:
