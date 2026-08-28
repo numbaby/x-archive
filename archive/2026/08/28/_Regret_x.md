@@ -2,7 +2,26 @@
 
 ## 📅 August 28, 2026
 
-> 14 post(s) archived.
+> 16 post(s) archived.
+
+---
+
+### 🕐 12:33 UTC · @_Regret_x
+
+> Facinator cap going for 1k each Biko 🤦🏽‍♀️
+
+![Facinator cap going for 1k each Biko 🤦🏽‍♀️](../../../../assets/images/2026/08/28/2093316118051967178-1.jpg)
+
+🔗 [View original post](https://x.com/feyiincapetown/status/2093316118051967178)
+
+---
+
+### 🕐 11:57 UTC · @_Regret_x
+
+
+![](../../../../assets/images/2026/08/28/2093307079578755304-1.jpg)
+
+🔗 [View original post](https://x.com/_Regret_x/status/2093307079578755304)
 
 ---
 

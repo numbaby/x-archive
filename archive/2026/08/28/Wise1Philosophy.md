@@ -2,7 +2,98 @@
 
 ## 📅 August 28, 2026
 
-> 34 post(s) archived.
+> 48 post(s) archived.
+
+---
+
+### 🕐 12:56 UTC · @Wise1Philosophy
+
+> This Fable 5 UI/UX hack is wild. The &quot;Taste&quot; skill completely kills generic AI slop and gives Fable 5 the tools and instructions to ship beautiful design. Might be the best AI skill I&apos;ve seen. Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media Marc Andreessen (the guy who called it when “software ate the world”) just pointed out what AI is doing to coding next. “Everyone assumes AI coding means fewer hours… or leaving the profession. But almost everyone I know is working more hours.” “There’s a new term in the Valley: …
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2093321728277803360)
+
+---
+
+### 🕐 12:48 UTC · @Wise1Philosophy
+
+> I teach Claude AI to solo mompreneurs and this is the step most people skip: the follow-up. Everyone stops after send. The chase is where the replies come from. Good breakdown. Cowork can find the jobs, write the application, and send it. Here&apos;s the whole chain, in the order you&apos;d run it: You need to export your LinkedIn as a PDF first. Profile, then More, then Save to PDF. Upload that into Claude and it now has everything about you, every role and ever…
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2093319816182394984)
+
+---
+
+### 🕐 12:46 UTC · @Wise1Philosophy
+
+> 11 PM and you&apos;re still editing. You&apos;re not alone, every creator you know is doing the same thing right now. @eachlabs MCP changed that for me. Connect your agent, tell it what the final cut looks like. It just does it. Stop editing at midnight 👇 Media
+
+🔗 [View original post](https://x.com/MasculineM7/status/2093319194020630882)
+
+---
+
+### 🕐 12:36 UTC · @Wise1Philosophy
+
+> 🚨 THIS IS BIG: Tencent’s new Hy4 preview is built for serious agentic work. 770B total parameters, 49B activated, with major upgrades across coding, planning, tool use, research, and long-horizon execution. I tested it inside WorkBuddy, and this is where things get interesting 👇
+
+🔗 [View original post](https://x.com/heyDhavall/status/2093316724045312180)
+
+---
+
+### 🕐 12:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/08/28/2093315320450621538-1.jpg)
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2093315320450621538)
+
+---
+
+### 🕐 12:23 UTC · @Wise1Philosophy
+
+> Meta was just accused of designing Instagram to addict your kids. Making that lawsuit disappear cost up to $16.7 BILLION. A hit that big should have crushed the stock. But what happened next surprised me… To understand it, let’s start with the case itself: The accusations are about as dark as they come. Twenty nine states said the apps were built to hook kids. They said Meta collected data on children under thirteen. The company denied doing anything wrong. It even disputes that social media addiction is a real disorder. The trial was already underway in a California court. Meta&apos;s own founder was expected to take the stand. Then the company settled instead. The deal is about more than money. Meta must add daily time limits for teen accounts. It must add overnight blocks and stronger age checks. It must expand the controls that parents can use. A hit like this usually scares investors away. It hints at years of lawsuits and bad press. Big penalties are supposed to punish the stock. That is the reaction the crowd expected. But look closer at the actual numbers: Meta will take a charge of about $10 billion. Meta pulls in tens of billions in profit each year. A ten billion dollar charge is just a bad quarter. For most companies that number would be crushing. For this one, the pain barely shows up. A fine only bites if it changes how a company acts. For one this rich, it almost never does. Part of the bill is not even certain. About $5 billion depends on what YouTube and TikTok do. The rest is spread across the next ten years. None of it lands as one painful hit. The blow is softened before it even arrives. There is a second reason the stock held up. The lawsuit had been hanging over Meta for months. A settlement puts a ceiling on the damage. Before it, the loss could have been anything. After it, the number is fixed and known. Investors hate uncertainty more than they hate fines. Markets will pay up for a risk that is finally capped. This was also not Meta&apos;s first payout this month. A separate case in New Mexico cost it hundreds of millions. The headlines screamed about nearly a seventeen billion dollar penalty. That number feels enormous to a normal person. To a company this size, it barely registers. The market did the math the media skipped. One number went viral across every feed. The number that actually mattered went unspoken. Wall Street has watched this movie many times. A giant pays a record fine and moves on. The business barely breaks stride. This is how giant firms absorb their worst days. The fine that shocks the public is trivial to them. Scale turns a scandal into a line item. The size of a headline is not the size of the damage. Retail read the outrage in the headline. Institutions read the size of the check. That&apos;s the whole game. Surmount builds automated strategies that follow the data, not the noise. Start for free and let the signals lead. Media
+
+🔗 [View original post](https://x.com/LogWeaver/status/2093313439515201735)
+
+---
+
+### 🕐 12:18 UTC · @Wise1Philosophy
+
+> 42 AI tools and models run my business. Here&apos;s the exact order I use them in: Step 1: Start with the idea dump Ideas come from two places: ↳ Socials (what&apos;s actually landing) ↳ My own head (what I keep circling back to) Both get dictated straight in. - Wispr Flow turns talking into text. - Claude is the daily thinking partner. - Opus 5 takes the idea apart. - Fable 5 plans the build, never builds it. I switch between these constantly. Step 2: Build the thing Claude Code runs almost all of my business. - Sonnet 5 does the cheap passes. - Haiku 4.5 handles anything bulk. - Codex reviews the bits I&apos;m unsure about. Step 3: Make it look like something - GPT Image 2 for stills that actually ship. - Higgsfield for B-roll I never had to shoot. - Kling for video when Higgsfield is busy. - HyperFrames renders HTML straight to video. Occasional only, when I&apos;m not in Code: ↳ Claude Design ↳ Canva ↳ Gamma Step 4: Video when it matters Every YouTube starts in Tella. - VEED handles the editing. - ElevenLabs does the voice. - HeyGen for talking heads at scale. Complex editing kills momentum. Simple tools ship content. Step 5: Check the facts before publishing - Perplexity for research with sources. - NotebookLM to interrogate a document. - Granola for notes from every call. - Apify for the real numbers on a post. Never trust one model on a claim you publish. So I keep a second opinion open: ↳ GPT-5.6 Sol ↳ ChatGPT ↳ Gemini 3.7 Flash ↳ GPT-5.6 Terra for enormous inputs Step 6: The cheap bench Local and open weights, near zero spend: ↳ Ollama ↳ DeepSeek (the model behind Hermes) ↳ GLM-5.3 ↳ Kimi K3 Step 7: Ship it and hand it over Everything lives in Notion. My team&apos;s single source of truth. - Zapier connects the pieces. - Hermes is my WhatsApp bridge to the team. - ManyChat runs the comment gate. On X, and nowhere else: ↳ Grok 4.6 ↳ Grokbot Here&apos;s what this system really does: Removes decision fatigue. Each tool has ONE job. - Wispr Flow captures the thinking - Claude Code builds the thing - Notion stores everything - Zapier automates the handoffs - Apify measures what landed - Hermes reaches the team What I dropped this year: ↳ Claude Cowork ↳ OpenClaw ↳ Qwen3.8 Max ↳ CoPilot ↳ LinkedIn AI The hype beat the output on all five. Nano Banana is off the board completely. I posted about it 25 times and haven&apos;t opened it in months. The tools don&apos;t create the content. They amplify how much I can ship. Two of mine if you want the detail: My full Claude Code guide → https://charliehills.substack.com/p/give-me-10-minutes-ill-teach-you 100+ more guides and skills → https://charliehills.substack.com/p/resource Which tool is in your S-tier?
+
+![42 AI tools and models run my business. Here&apos;s the exact order I use them in: Step 1: Start with the idea dump Ideas come from two places: ↳ Socials (what&apos;s actually landing) ↳ My own head (](../../../../assets/images/2026/08/28/2093312288082035152-1.jpg)
+
+🔗 [View original post](https://x.com/charliejhills/status/2093312288082035152)
+
+---
+
+### 🕐 12:17 UTC · @Wise1Philosophy
+
+> AI made it possible for one person to do the work of five. It also made it harder to be that one person than it ever was to manage the five. We run AI Velocity Pods at @LimestoneHQ for PE-backed companies. A senior engineer paired with AI agents, backed by a half-time delivery architect, doing the job traditional squads of five to eight used to handle. 50% faster cycles. Most engineering orgs can&apos;t replicate it. Faros AI studied 22,000 developers across 4,000 teams this year. Individuals completed 21% more tasks and merged 98% more pull requests, but bugs rose 9% and PR review time jumped 91%. Company-level throughput didn&apos;t budge. DORA&apos;s 2024 report found the same pattern across 39,000 professionals: a 25% rise in AI adoption correlated with a 7.2% drop in team stability. Every person ships more, and the org absorbs none of it. People writing about Forward Deployed Engineering sell a clean pitch: one engineer, unlimited output, point them at the codebase. I&apos;ve been embedding engineers inside client codebases since 2016, and the ones who perform at pod level look nothing like that pitch. They spend week one writing zero code, building an architecture map of every module, dependency, and data flow before an agent generates a single line. From there, 80% of the output runs through AI on boilerplate and tests while business logic sits under heavy senior review. Security, payments, and architecture stay human. That work is harder than managing a full squad, and it demands someone who&apos;s shipped production code for years. AI raised the ceiling on what one person can build, but the floor on what that person needs to know rose faster. Most teams I talk to are stuck between the two. https://x.com/i/article/2092968520841674752
+
+🔗 [View original post](https://x.com/mardehaym/status/2093311922040946720)
+
+---
+
+### 🕐 12:13 UTC · @Wise1Philosophy
+
+> Your body will forgive you for: -Skipping the gym -Eating pizza -Sleeping poorly one night -Losing motivation Your body WILL NOT forgive you for: 1. Being fat
+
+🔗 [View original post](https://x.com/josh_uglyasf/status/2093310995305529832)
+
+---
+
+### 🕐 12:02 UTC · @Wise1Philosophy
+
+> Heart Attack = Blood sugar Heart Attack = Insulin resistance Heart Attack = No.1 killer worldwide. Doctor rules to keep your heart young: 1. Don&apos;t go pee at 3 AM Media
+
+🔗 [View original post](https://x.com/TheFastedState/status/2093308113852207364)
+
+---
+
+### 🕐 11:54 UTC · @Wise1Philosophy
+
+> Walking = lose weight Walking = lower blood sugar Walking = improve your mood Walking = add healthy years to your life. 8 simple rules to get the most out of every step: 1. Don&apos;t chase 10,000 steps. Media
+
+🔗 [View original post](https://x.com/CoachWillStone/status/2093306248594948130)
 
 ---
 
@@ -128,6 +219,15 @@
 
 ---
 
+### 🕐 09:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/08/28/2093269936017666238-1.jpg)
+
+🔗 [View original post](https://x.com/Ant_Philosophy/status/2093269936017666238)
+
+---
+
 ### 🕐 08:55 UTC · @Wise1Philosophy
 
 > 100+ AI tools for productivity 1). generative AI ↳ chatgpt ↳ claude ↳ gemini ↳ mistral ↳ meta AI 2). creative suite ↳ suno ↳ udio ↳ viggle ↳ remix ↳ grok 3). voice &amp; text ↳ elevenlabs ↳ murf AI ↳ speechify ↳ superwhisper ↳ whisp flow 4). text to image ↳ midjourney ↳ ideogram ↳ dall-e ↳ imagen ↳ firefly 5). text to video ↳ openai sora ↳ google veo ↳ runway ↳ luma AI ↳ pika 6). AI tools ↳ perplexity ↳ notebooklm ↳ you ↳ copilot ↳ poe 7). sales ↳ jason AI ↳ clay ↳ clay ↳ folk ↳ replyio ↳ sendspark 8). support ↳ fin AI ↳ decagon ↳ decagon ↳ sierra ↳ pylon ↳ duckie 9). video ↳ heygen ↳ klap ↳ klap ↳ opusclip ↳ submagic ↳ veed 10). content ↳ cohesive ↳ beehiiv ↳ beehiiv ↳ easygen ↳ supermeme ↳ descript 11). marketing ↳ jasperAI ↳ writesonic ↳ coframe ↳ blaze ↳ adcreative 12). seo &amp; blog ↳ surfer ↳ rankai ↳ seobot ↳ byword ↳ macaw 13). design ↳ uizard ↳ playground ↳ lasqo ↳ canva ↳ galileo AI 14). website ↳ gamma ↳ framer ↳ webflow ↳ durable ↳ dora 15). website chat ↳ reply chat ↳ dante ↳ chatbase ↳ chatbit ↳ tidio 16). code ↳ cursor ↳ v0 ↳ replit ↳ lovable ↳ devin 17). meetings ↳ bluedot ↳ tl;dv ↳ noty ↳ grain ↳ fireflies 18). productivity ↳ notion AI ↳ airtable AI ↳ superhuman ↳ loom ↳ raycast 19). operations ↳ juicebox ↳ polyAI ↳ crewAI ↳ respell ↳ slite 20). workflows ↳ zapier ↳ lindy ↳ beam ↳ cassidy ↳ magical me: let me make a fun song about myself Miya: say less Miya: writes a song about how I post the same take with a bigger number every year i am NOT okay💀
@@ -135,6 +235,15 @@
 ![100+ AI tools for productivity 1). generative AI ↳ chatgpt ↳ claude ↳ gemini ↳ mistral ↳ meta AI 2). creative suite ↳ suno ↳ udio ↳ viggle ↳ remix ↳ grok 3). voice &amp; text ↳ elevenlabs ↳ murf AI ↳ ](../../../../assets/images/2026/08/28/2093261066763698398-1.jpg)
 
 🔗 [View original post](https://x.com/nrqa__/status/2093261066763698398)
+
+---
+
+### 🕐 08:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/08/28/2093254839236960611-1.jpg)
+
+🔗 [View original post](https://x.com/Mindsthatbuild/status/2093254839236960611)
 
 ---
 
@@ -176,6 +285,15 @@
 > If you want to avoid heart attacks, dementia, and burning out before your kids grow up (especially if you&apos;re over 40) Here are 7 signs your cortisol is silently wrecking your body: 1. Waking at 3-4 AM.
 
 🔗 [View original post](https://x.com/Marc0sRomano/status/2093243436577308940)
+
+---
+
+### 🕐 07:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/08/28/2093239714417369106-1.jpg)
+
+🔗 [View original post](https://x.com/Daily__wisdom_/status/2093239714417369106)
 
 ---
 
