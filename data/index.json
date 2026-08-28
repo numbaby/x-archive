@@ -19669,6 +19669,19 @@
       }
     ]
   },
+  "2092977826056335547": {
+    "account": "elonmusk",
+    "date": "2026-08-27",
+    "file": "data/posts/2026/08/2026-08-27.jsonl",
+    "fingerprint": "afb252aaa4b4b625373585678ffd98c011dbfd0501a67a30ed846403b4e0d714",
+    "media": [
+      {
+        "local_path": "assets/images/2026/08/27/2092977826056335547-1.jpg",
+        "sha256": "b6e30d7b2bb167e9568a3e2a00f30a8c580e25c6e3edf2d546c156aee3fc6fa4",
+        "source_url": "https://pbs.twimg.com/media/HQu_dM_asAAqSrg.jpg?name=orig"
+      }
+    ]
+  },
   "2092978059418951790": {
     "account": "_Regret_x",
     "date": "2026-08-27",
@@ -20620,11 +20633,44 @@
       }
     ]
   },
+  "2093073790590726592": {
+    "account": "elonmusk",
+    "date": "2026-08-27",
+    "file": "data/posts/2026/08/2026-08-27.jsonl",
+    "fingerprint": "e702daee26f9d4a4d76346979b1f49c7f1e2691bdd11ed65c46c0eb6d7bd1f65",
+    "media": [
+      {
+        "local_path": "assets/images/2026/08/27/2093073790590726592-1.jpg",
+        "sha256": "05d9506777f3e24684cda5c0df42c2793654a5ec8177a022d46f2ca276df81cf",
+        "source_url": "https://pbs.twimg.com/media/HQwXEbbXMAAIhXu.jpg?name=orig"
+      }
+    ]
+  },
+  "2093118998590128209": {
+    "account": "Wise1Philosophy",
+    "date": "2026-08-27",
+    "file": "data/posts/2026/08/2026-08-27.jsonl",
+    "fingerprint": "793a00aa3143c08a1c86bf40b6fae6432ef43dd4fa5ca307b04fc6437355e06f",
+    "media": [
+      {
+        "local_path": "assets/images/2026/08/27/2093118998590128209-1.jpg",
+        "sha256": "47b1ac71b765e86682deca1a3d3f40723d1de60fcef28d043482d4c57b8f16a4",
+        "source_url": "https://pbs.twimg.com/media/HQxAoxQWUAAoobH.jpg?name=orig"
+      }
+    ]
+  },
   "2093127984701989032": {
     "account": "elonmusk",
     "date": "2026-08-28",
     "file": "data/posts/2026/08/2026-08-28.jsonl",
     "fingerprint": "1ee1427b620ff008ce4bf6c05543e2e1a9d4c89f238028cebd7f6787c20c9a43",
+    "media": []
+  },
+  "2093141194654048542": {
+    "account": "elonmusk",
+    "date": "2026-08-28",
+    "file": "data/posts/2026/08/2026-08-28.jsonl",
+    "fingerprint": "036f501a74fa772aa8907ae167733571fb9f030361e42a74253c004da68cf990",
     "media": []
   }
 }

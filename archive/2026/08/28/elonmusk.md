@@ -2,7 +2,15 @@
 
 ## 📅 August 28, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 00:58 UTC · @elonmusk
+
+> The truth shall set you free &quot;The world makes no sense if you think everyone is born exactly the same.&quot; @KonstantinKisin asks @nathancofnas what motivates him to tackle controversial topics despite pushback from all sides. His answer: ignoring natural group differences forces society to blame &quot;mystical injus…
+
+🔗 [View original post](https://x.com/elonmusk/status/2093141194654048542)
 
 ---
 

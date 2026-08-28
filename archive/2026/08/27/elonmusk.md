@@ -2,7 +2,17 @@
 
 ## 📅 August 27, 2026
 
-> 16 post(s) archived.
+> 18 post(s) archived.
+
+---
+
+### 🕐 20:30 UTC · @elonmusk
+
+> Californians could soon see some relief from their sky-high electric bills. The reason? Data centers. Thanks to data centers, PG&amp;E has been able to offer rate cuts for the fourth time in two years. Let&apos;s keep building!
+
+![Californians could soon see some relief from their sky-high electric bills. The reason? Data centers. Thanks to data centers, PG&amp;E has been able to offer rate cuts for the fourth time in two years](../../../../assets/images/2026/08/27/2093073790590726592-1.jpg)
+
+🔗 [View original post](https://x.com/cremieuxrecueil/status/2093073790590726592)
 
 ---
 
@@ -109,6 +119,16 @@
 ![SpaceX engineers spent several days inspecting Ship 40 in the waters off Christmas Island. They collected heatshield samples and gained vital insight into how the vehicle handled reentry with improvem](../../../../assets/images/2026/08/27/2092988521376059899-1.jpg)
 
 🔗 [View original post](https://x.com/SpaceX/status/2092988521376059899)
+
+---
+
+### 🕐 14:09 UTC · @elonmusk
+
+> It&apos;s hard to believe Starhopper&apos;s 150 meter hop was seven years ago today. I shot it from the roof of a house in Boca Chica Village that no longer exists. These images clearly illustrate how far the Starship program has come, and how ragtag the beginning was.
+
+![It&apos;s hard to believe Starhopper&apos;s 150 meter hop was seven years ago today. I shot it from the roof of a house in Boca Chica Village that no longer exists. These images clearly illustrate how](../../../../assets/images/2026/08/27/2092977826056335547-1.jpg)
+
+🔗 [View original post](https://x.com/thejackbeyer/status/2092977826056335547)
 
 ---
 
