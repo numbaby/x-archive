@@ -2,7 +2,31 @@
 
 ## 📅 August 28, 2026
 
-> 7 post(s) archived.
+> 10 post(s) archived.
+
+---
+
+### 🕐 06:22 UTC · @Wise1Philosophy
+
+> I’d keep 2.0 Fast around purely for ugly experimentation. I’d rather burn cheap generations finding the idea, then spend more once the direction is proven :) Everyone’s talking about the latest model. I’m more interested in what actually gets the work done. Seedance 2.5 is having its moment. But most of my production work runs on Seedance 2.0. Both 2.0 &amp; 2.0 Fast: lowest price anywhere, only on Dreamina. From $0.026/sec — up to 76% le…
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2093222750445883867)
+
+---
+
+### 🕐 06:01 UTC · @Wise1Philosophy
+
+> Perceptron AI unveiled Isaac 0.5, a 36B dynamic-MoE, open-weight embodied foundation model. It combines video understanding, embodied reasoning and robot control in one sparse backbone, trained across 35+ robot systems, 100K hours of robot experience and 1M hours of video. Scaling general video from 1K to 1M hours cut the teleop needed to reach the same action-loss target from ~5,900h to just 28h. Isaac 0.5 also leads all five benchmark families it evaluates, at up to 8.5× lower inference cost than the strongest open comparator. If that scaling holds, cheap video could become one of robotics’ biggest data unlocks. Media Today we&apos;re releasing Isaac 0.5: 36B dynamic MoE, open weight 🤗 embodied foundation model. Isaac combines multimodal video understanding, embodied reasoning and robot control into a single, sparse backbone.
+
+🔗 [View original post](https://x.com/XRoboHub/status/2093217481473376407)
+
+---
+
+### 🕐 04:45 UTC · @Wise1Philosophy
+
+> I gave Claude my birth date and time. It broke down my entire life with eerie accuracy. No horoscopes. No tarot. Just pure AI. Here are 7 prompts you should try ↓
+
+🔗 [View original post](https://x.com/ajitcodes/status/2093198205328695735)
 
 ---
 

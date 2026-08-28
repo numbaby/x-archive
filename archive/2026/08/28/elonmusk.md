@@ -2,7 +2,23 @@
 
 ## 📅 August 28, 2026
 
-> 3 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 05:24 UTC · @elonmusk
+
+> 💯 Costco protects the integrity of its institution by asking people to show proof of membership before entering the facility. Elections should run on the same logic.
+
+🔗 [View original post](https://x.com/elonmusk/status/2093208060353274317)
+
+---
+
+### 🕐 05:06 UTC · @elonmusk
+
+> Elon Musk: “A friend is someone that supports you in difficult times… Fair-weather friends are useless. Everyone likes you when the chips are up, but who likes you when the chips are down?” Media
+
+🔗 [View original post](https://x.com/alx/status/2093203671093842081)
 
 ---
 
