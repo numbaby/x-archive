@@ -2,7 +2,53 @@
 
 ## 📅 August 28, 2026
 
-> 29 post(s) archived.
+> 34 post(s) archived.
+
+---
+
+### 🕐 11:44 UTC · @Wise1Philosophy
+
+> The 3 pre-bed supplements I always come back to are: 1. Magnesium glycinate (200 mg)
+
+🔗 [View original post](https://x.com/HeyDoc_MD/status/2093303722977976672)
+
+---
+
+### 🕐 11:18 UTC · @Wise1Philosophy
+
+> 10 AI prompts that’ll actually land you a remote job: 1). check if it&apos;s actually remote ↳ ask AI to scan the listing for hybrid traps and fake &quot;remote&quot; lingo before you waste a shot 2). find where remote roles really live ↳ the big job boards are picked over, get ai to point you to where these roles actually get posted 3). rewrite your cv for remote ↳ reframe your experience so it screams &quot;i deliver without anyone watching over my shoulder&quot; 4). prove you can actually work remotely ↳ build receipts that show you&apos;ve shipped async work before, not just claimed you can 5). handle the time zone question first ↳ get ahead of it before a recruiter even brings it up 6). prep for the async interview ↳ most remote hiring skips the live call now, learn how to sell yourself in writing 7). screen their remote culture ↳ figure out if &quot;remote&quot; means real flexibility or surveillance software with extra steps 8). understand what they&apos;re actually offering ↳ decode which perks are real and which ones are just nice-sounding filler 9). negotiate without a local market ↳ you can&apos;t anchor to a city salary anymore, here&apos;s how you still win the number 10). plan your first month so you don&apos;t go invisible ↳ remote gigs die fast when nobody on the team notices you exist How to get better AI images by pulling from multiple references at once: 1. head to https://unify.light-ai.top/?utm_source=chatgpt.com 2. load in a few reference images 3. blend their visual elements into one generation 4. keep the key details and structure consistent This is Sen…
+
+![10 AI prompts that’ll actually land you a remote job: 1). check if it&apos;s actually remote ↳ ask AI to scan the listing for hybrid traps and fake &quot;remote&quot; lingo before you waste a shot 2).](../../../../assets/images/2026/08/28/2093297179406606842-1.jpg)
+
+🔗 [View original post](https://x.com/nrqa__/status/2093297179406606842)
+
+---
+
+### 🕐 11:15 UTC · @Wise1Philosophy
+
+> There are 3 ways you can use AI in your workflows. Non-Agentic (prompts), AI Agents and Agentic AI. Each works differently and has specific use cases. Here are the pros, cons and guidelines for using each. [ bookmark 🔖 this post for later ] 💻 Non-Agentic AI ↳ Simple prompt-response AI with no memory or reasoning. 🛠️ How it works: ↳ User enters one prompt, system replies in isolation ↳ Output generated instantly without refinement ↳ Interaction ends with no context retained 🟢 Pros: ↳ Fast, cheap, and widely accessible ↳ No technical setup required ↳ Ideal for one-off, simple tasks 🛑 Cons: ↳ No reasoning or memory ↳ Quality depends on prompts ↳ Weak for multi-step work 📈 How to start using: ↳ Open ChatGPT, Claude, or Gemini ↳ Write clear, specific prompts ↳ Copy, edit, and reuse output 🤖 AI Agent ↳ Single-task AI worker built to automate one job. 🛠️ How it works: ↳ User defines one clear role (e.g., update CRM) ↳ Agent pulls inputs and uses integrated tools ↳ Executes and outputs without supervision 🟢 Pros: ↳ Automates repetitive tasks ↳ Specialized and very capable ↳ Easy to refine within roles 🛑 Cons: ↳ Limited scope, rigid use ↳ Breaks if inputs are unclear ↳ Needs coordination to work with other agents 📈 How to start using: ↳ Select one repetitive task ↳ Connect LLM via Zapier, LangChain, or API ↳ Link inputs/outputs and test 🚀 Agentic AI ↳ Self-managing AI that plans, executes, and improves. 🛠️ How it works: ↳ Goal broken into smaller sub-tasks ↳ Connects to tools, APIs, and data sources ↳ Refines results with memory and feedback 🟢 Pros: ↳ Handles complex, multi-step projects ↳ Integrates with tools and databases ↳ Produces consistent outcomes 🛑 Cons: ↳ Slower and more expensive ↳ More complex and resource-intensive ↳ Difficult to configure, needs regular maintenance 📈 How to start using: ↳ Use LangChain, CrewAI, or AutoGen ↳ Assign roles (Planner, Executor, Critic) ↳ Add memory and feedback loops In short: Non-Agentic AI = prompts AI Agents = Automate one task Agentic AI = Run complex workflows Start with prompts. Then try AI Agents or Agentic AI. Use all three to get the most out of AI. 📌 Get Advanced ChatGPT Guide (free): https://bit.ly/3StIB3z 👉 Follow me @AndrewBolis for more and 🔄 Repost this to help others use AI
+
+![There are 3 ways you can use AI in your workflows. Non-Agentic (prompts), AI Agents and Agentic AI. Each works differently and has specific use cases. Here are the pros, cons and guidelines for using ](../../../../assets/images/2026/08/28/2093296294915985612-1.jpg)
+
+🔗 [View original post](https://x.com/AndrewBolis/status/2093296294915985612)
+
+---
+
+### 🕐 11:09 UTC · @Wise1Philosophy
+
+> great lessons on enterprise AI agents: Their CPTO expected months before an AI agent could handle real claims data. Six weeks later, he was running acceptance testing against a working agent that reconciled flagship denials to the penny. I want to walk through what made six weeks possible, because it wasn&apos;t the model.…
+
+🔗 [View original post](https://x.com/alex_prompter/status/2093294802628461001)
+
+---
+
+### 🕐 10:56 UTC · @Wise1Philosophy
+
+> 🚨 New report The AI Colony R&amp;D just closed the books on H1 2026. Six months outpaced the last three years combined. Here’s what stood out 👇
+
+![🚨 New report The AI Colony R&amp;D just closed the books on H1 2026. Six months outpaced the last three years combined. Here’s what stood out 👇](../../../../assets/images/2026/08/28/2093291569147150698-1.jpg)
+
+🔗 [View original post](https://x.com/TheAIColonyRD/status/2093291569147150698)
 
 ---
 

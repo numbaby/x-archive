@@ -2,7 +2,44 @@
 
 ## 📅 August 28, 2026
 
-> 10 post(s) archived.
+> 14 post(s) archived.
+
+---
+
+### 🕐 11:54 UTC · @_Regret_x
+
+> When I ask him to unfollow a girl and he says “that’s my cousin” but whole time it’s my fake account:
+
+![When I ask him to unfollow a girl and he says “that’s my cousin” but whole time it’s my fake account:](../../../../assets/images/2026/08/28/2093306253875237231-1.jpg)
+
+🔗 [View original post](https://x.com/Wunmiiberry/status/2093306253875237231)
+
+---
+
+### 🕐 11:36 UTC · @_Regret_x
+
+
+![](../../../../assets/images/2026/08/28/2093301717479969269-1.jpg)
+
+🔗 [View original post](https://x.com/_Regret_x/status/2093301717479969269)
+
+---
+
+### 🕐 11:10 UTC · @_Regret_x
+
+
+![](../../../../assets/images/2026/08/28/2093295127855038608-1.jpg)
+
+🔗 [View original post](https://x.com/_Regret_x/status/2093295127855038608)
+
+---
+
+### 🕐 10:28 UTC · @_Regret_x
+
+
+![](../../../../assets/images/2026/08/28/2093284705638785372-1.jpg)
+
+🔗 [View original post](https://x.com/_Regret_x/status/2093284705638785372)
 
 ---
 

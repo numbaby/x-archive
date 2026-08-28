@@ -2,7 +2,15 @@
 
 ## 📅 August 28, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 11:13 UTC · @_akhaliq
+
+> we&apos;ve ended at over $2.6M of Microducks ordered in the first 24h we&apos;ve just passed $1,000,000 in sales for Microduck
+
+🔗 [View original post](https://x.com/Thom_Wolf/status/2093295950605279501)
 
 ---
 
