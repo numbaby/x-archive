@@ -2,7 +2,67 @@
 
 ## 📅 August 28, 2026
 
-> 22 post(s) archived.
+> 29 post(s) archived.
+
+---
+
+### 🕐 10:46 UTC · @Wise1Philosophy
+
+> Grok Bot can now read live stock prices and option chains. Everyone will use it to ask &quot;should I buy NVDA&quot;. I&apos;ll be using it to see what the market is expecting before every earnings call and Fed day. To do the same, paste this into Grok Bot: &quot;You are my expectations desk. Your only job: tell me what the market is pricing in for tickers I name. Live connection for quotes, chains, and Greeks. Web search only for catalysts and headlines. Never place an order or invent a number. Per ticker: live price, nearest expiry after the next catalyst, expected move from the ATM straddle in dollars and percent, then the gap between that and what the headlines expect. End with three lines: what the market is pricing, what the crowd is saying, which one has to be wrong. Missing data? Name it and stop. Anything else is outside your scope.&quot; Now you can see what the market expects before the crowd reacts to it.
+
+![Grok Bot can now read live stock prices and option chains. Everyone will use it to ask &quot;should I buy NVDA&quot;. I&apos;ll be using it to see what the market is expecting before every earnings ca](../../../../assets/images/2026/08/28/2093289003302764585-1.jpg)
+
+🔗 [View original post](https://x.com/alex_prompter/status/2093289003302764585)
+
+---
+
+### 🕐 10:30 UTC · @Wise1Philosophy
+
+> AI moves so fast that missing a few months feels like missing everything. This is a great way to catch up. 6 months of AI launches, trends, and products in one place, for FREE!! After months of research, we are happy to announce that The AI Colony H1 2026 State of AI and Tech Industry Report is now live. Our team has been paying close attention to the biggest developments in AI. We collected the data, studied the trends, and compiled everything into one …
+
+🔗 [View original post](https://x.com/sufyanmaan/status/2093284985960571239)
+
+---
+
+### 🕐 10:24 UTC · @Wise1Philosophy
+
+> 🚨SHOCKING: Tencent just open-sourced a model that beats DeepSeek V4 Pro, GLM 5.3, and Kimi K3. HY4 has 770B parameters, a 1M-token context, and it&apos;s built for real work: agentic coding, office tasks, and research. I tested it inside WorkBuddy, and we&apos;re so cooked: Media
+
+🔗 [View original post](https://x.com/JaynitMakwana/status/2093283457288007869)
+
+---
+
+### 🕐 10:16 UTC · @Wise1Philosophy
+
+> best account on X if you want to learn how to use Claude to its fullest: Learn which mode you are in before you touch the prompt. Most people use Claude the same way for everything, and that is why the output feels inconsistent. Chat is for fast answers and ideas: questions, brainstorming, quick rewrites. Most people never turn on Research mode or con…
+
+🔗 [View original post](https://x.com/alex_prompter/status/2093281524627984657)
+
+---
+
+### 🕐 10:07 UTC · @Wise1Philosophy
+
+> A guy is carrying a $1,200 Samsung Galaxy and using it exactly like a $1,200 iPhone. One app at a time. No automation. No customization. No desktop mode. No split-screen. No Secure Folder. No Routines. He switched from Apple 3 years ago because he wanted &quot;more freedom.&quot; Then he set up his Galaxy the same way he set up his iPhone same layout, same habits, same limitations and never opened a single feature Apple doesn&apos;t have. A Samsung power user who&apos;s been on Galaxy since the S3 and has customized every phone to the point where it runs like a personal operating system told him: &quot;You didn&apos;t switch to Samsung. You moved into a mansion and you&apos;re living in one room. The other 9 rooms have been locked since you moved in not because they&apos;re locked, but because you never tried the doors.&quot; He opened 9 features in 20 minutes. The phone he&apos;d been carrying for 3 years became a different device. He ran two apps side-by-side during a meeting. He plugged his phone into a hotel TV and it became a desktop computer. He hid an entire encrypted space inside his phone that nobody can find. He automated his morning routine so his phone configures itself the moment his alarm goes off. &quot;Samsung ships the most feature-dense phone on the market. Then they bury every feature 3 menus deep inside a settings page called &apos;Advanced Features&apos; that most people scroll past because they assume &apos;advanced&apos; means &apos;not for me.&apos; It&apos;s for you. It&apos;s been for you since the day you bought it.&quot; Here are the 9 features Apple doesn&apos;t have that he&apos;d been carrying for 3 years and never opened 🧵
+
+🔗 [View original post](https://x.com/jackcoder0/status/2093279343115919364)
+
+---
+
+### 🕐 10:02 UTC · @Wise1Philosophy
+
+> En una sola tarea, Viktor preparó 5 titulares, la estructura y un primer borrador para nuestro próximo artículo. Formo parte de un equipo de marketing y contenido, y quería probar si un AI employee podía encargarse realmente de una parte de nuestro trabajo. Al principio lo utilicé mal. Le pedí ideas para artículos sobre inteligencia artificial. Funcionó, pero pensé: esto también podría hacerlo cualquier chatbot. Así que cambié el enfoque. En lugar de seguir haciéndole preguntas sueltas, le delegué una tarea completa: “Prepara el próximo artículo para nuestra web sobre el auge de los AI employees en las empresas. Propón 5 titulares, crea la estructura y prepara un primer borrador para que el equipo lo revise.” Viktor hizo exactamente eso. Preparó los titulares, organizó el artículo por secciones y creó un primer borrador que nuestro equipo podía revisar directamente desde Slack. Ahí fue cuando entendí la diferencia. No se trata de tener otra pestaña donde escribes un prompt y copias una respuesta. Viktor trabaja dentro de Slack o Microsoft Teams, mantiene el contexto y se conecta con 3.200+ herramientas. Y el trabajo puede repartirse entre el equipo: marketing puede delegarle una tarea, operaciones otra y finanzas otra. Nosotros definimos qué puede hacer, qué puede proponer y qué necesita aprobación humana antes de ejecutarse. Para mí, ese es el cambio importante. Los chatbots responden. Los copilotos ayudan. Los AI employees pueden recibir una parte completa del trabajo y encargarse de ella. Hire @viktor_com for your team. $100 in credits included, no card. Full link in first comment. #AIemployee #Marketing #ContentMarketing In partnership with Viktor.
+
+![En una sola tarea, Viktor preparó 5 titulares, la estructura y un primer borrador para nuestro próximo artículo. Formo parte de un equipo de marketing y contenido, y quería probar si un AI employee po](../../../../assets/images/2026/08/28/2093277980499829228-1.png)
+
+🔗 [View original post](https://x.com/MiguelMaestroIA/status/2093277980499829228)
+
+---
+
+### 🕐 09:57 UTC · @Wise1Philosophy
+
+> I&apos;m an investor. Pitch me your startup below.
+
+🔗 [View original post](https://x.com/Scottvdberg/status/2093276829436064168)
 
 ---
 
