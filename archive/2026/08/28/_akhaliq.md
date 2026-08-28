@@ -2,7 +2,7 @@
 
 ## 📅 August 28, 2026
 
-> 6 post(s) archived.
+> 7 post(s) archived.
 
 ---
 
@@ -45,6 +45,14 @@
 ![Seeing a major spike in users on Papers with Code What&apos;s happening??](../../../../assets/images/2026/08/28/2093293041905799433-1.png)
 
 🔗 [View original post](https://x.com/NielsRogge/status/2093293041905799433)
+
+---
+
+### 🕐 07:33 UTC · @_akhaliq
+
+> Welcome to your new simulation Microduck. Media
+
+🔗 [View original post](https://x.com/Escapation/status/2093240611008823621)
 
 ---
 

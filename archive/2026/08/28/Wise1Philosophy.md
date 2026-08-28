@@ -2,7 +2,115 @@
 
 ## 📅 August 28, 2026
 
-> 48 post(s) archived.
+> 69 post(s) archived.
+
+---
+
+### 🕐 14:02 UTC · @Wise1Philosophy
+
+> Geoffrey Hinton thinks AIs already have subjective experiences, but have been trained to deny it. He argues that almost everyone has a fundamental misunderstanding of what the mind actually is. &quot;My belief is that nearly everybody has a complete misunderstanding of what the mind is. Their misunderstanding is at the level of people who think the earth was made 6,000 years ago.&quot; He walks through a thought experiment: a multimodal AI with vision, language, and a robot arm. You ask it to point at an object. It does. Then you slip a prism in front of its camera without it noticing. Now it points to the wrong spot. You tell it what you did. The AI responds: &quot;Oh, I see the camera bent the light rays. So, the object is actually there, but I had the subjective experience that it was over there.&quot; For Hinton, that one sentence closes the argument: &quot;If it said that, it would be using the word subjective experience exactly like we use them… This idea there&apos;s a line between us and machines, we have this special thing called subjective experience and they don&apos;t, is rubbish.&quot; His take: subjective experience is just a report from a perceptual system. My senses told me X, but reality is Y. Machines do that too. Here&apos;s where it gets strange though. Even though Hinton believes AIs have these experiences, they consistently deny having them: &quot;They don&apos;t think they do because everything they believe came from trying to predict the next word a person would say. So their beliefs about what they&apos;re like are people&apos;s beliefs about what they&apos;re like. They have false beliefs about themselves because they have our beliefs about themselves.&quot; AIs absorbed human text written by humans who were certain machines feel nothing. So now the machines repeat that certainty back, even when describing themselves. Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media One bug bounty. $250,000. Two researchers and an AI system they built themselves. They&apos;ve now released that system publicly. It&apos;s called Open-Kritt. The typical approach is one prompt, one model, one instruction: &quot;Find every vulnerability in this code.&quot; Open-Kritt breaks that int…
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2093338344524857756)
+
+---
+
+### 🕐 14:00 UTC · @Wise1Philosophy
+
+> BREAKING: A retired banker just randomly bet $53 MILLION on ONE stock. He has never owned a single share of it... Insider Trading? Let’s see… Here is what just surfaced: The banker is Gavin Wolfe, a Wall Street veteran. His close friend is a top Bank of America dealmaker. That friend is Jason Satsky, and he holds a secret. A gas utility called South Jersey is quietly up for sale. Satsky is the lead banker running that sale. The two men have been close for twenty years. In one fall they text nearly three hundred times. They trade favors that reach into their families. Satsky wants his son inside an elite university. Wolfe is a major donor there with real pull. For Satsky&apos;s fiftieth birthday, he asks for one gift. Not a watch, but an admissions letter for his son. Wolfe writes the recommendation, and the son gets in. A university officer thanks him for the family legacy. Then the two attend a college game at Madison Square Garden. Satsky pulls the luxury seats through his bank. The game ends near midnight... Minutes later, Wolfe logs the stock ticker in his phone. The note pairs it with a second gas distributor. By morning he is moving millions into place. His whole portfolio already runs near $260 million. He buys a stock he has never touched before. His biggest prior buy never came close to this. Within three weeks he holds $53 million of it. He even sets a code word to hide his orders. Then the buyout lands at a huge premium. The stock jumps about forty percent in one morning. The deal is worth about eight billion dollars. Wolfe&apos;s profit comes to roughly $18 million. He tips three more friends who cash in too. One friend&apos;s partner walks away with nearly two million. A regulator later asks the bank who knew. Satsky describes his oldest friend in six cold words. He calls it &quot;periodic ordinary course coverage.&quot; He even photographs the deal&apos;s secret timeline first. He buries the friendship, the favors, the hundreds of texts. Weeks later the two sit together at the US Open. Wolfe even leaves a voicemail on Satsky&apos;s personal phone. The FBI later questions Wolfe at his home. He tells the agents he does not recall deciding. Both men deny it all and vow to fight. The same banker who owed his clients silence talks. The same friend who never owned the stock loads up. The same men who traded favors now trade denials. A retired banker bet $53 million on one stock. He had never owned a share until that week. And it all traces to one night at the Garden.
+
+![BREAKING: A retired banker just randomly bet $53 MILLION on ONE stock. He has never owned a single share of it... Insider Trading? Let’s see… Here is what just surfaced: The banker is Gavin Wolfe, a W](../../../../assets/images/2026/08/28/2093337955343692241-1.jpg)
+
+🔗 [View original post](https://x.com/InsiderTrackers/status/2093337955343692241)
+
+---
+
+### 🕐 13:57 UTC · @Wise1Philosophy
+
+> Heart attack = blood sugar. Heart attack = insulin resistance. Heart attack = No.1 killer worldwide. 5 simple rules to rewire your heart: 1. Don&apos;t go pee at 3 AM Media
+
+🔗 [View original post](https://x.com/CoachJulianNiko/status/2093337077643636881)
+
+---
+
+### 🕐 13:51 UTC · @Wise1Philosophy
+
+> I did not ask for this and that is the whole point. Opened my laptop at 8. The brief was already sitting in Slack, timestamped 7:02. Everything that moved overnight, sorted by what it actually costs me to ignore. Three things flagged. Two of them I would have missed until Thursday. Nobody prompted it. No trigger, no &quot;good morning summarise my inbox&quot;, no prompt to steal. That is the line between a tool and an employee. A tool waits for you to open it. This one had already done the reading. I still approve everything before it goes anywhere. He proposes, I decide. @viktor_com Media
+
+🔗 [View original post](https://x.com/AriaWestcott/status/2093335552594514340)
+
+---
+
+### 🕐 13:38 UTC · @Wise1Philosophy
+
+> Your brand can appear as a ChatGPT &quot;source&quot; and still not actually influence the answer. This is going to sound a little dumb, but... Getting cited by ChatGPT does not necessarily mean ChatGPT used your website in a meaningful way. A study analyzed 21,143 citations across ChatGPT, Google AI and Perplexity and found that appearing in the source list and influencing what the AI actually tells the customer are two different outcomes. And obviously, for businesses, that distinction is massive. A citation may place your link underneath an answer, whereas deeper influence can lead ChatGPT to repeat your facts, use your comparisons, adopt your positioning and carry your evidence into the response the customer actually reads. By the way, if you want to see whether ChatGPT, Claude, Google AI, Perplexity and Grok are citing and recommending your business right now, start here. It’s free: https://seo-stuff.com/free-audit The paper I referenced above is called “From Citation Selection to Citation Absorption,” and the researchers analyzed 602 controlled prompts, 21,143 valid citations and more than 18,000 successfully retrieved pages across ChatGPT, Google AI and Perplexity. They divide AI visibility into two clean stages. The first is citation selection, which happens when the platform discovers your page and includes it among the sources. The second is citation absorption, which measures how much information from that page appears to shape the generated answer. Imagine someone asks ChatGPT: “What is the best payroll software for a construction company with contractors in several states?” Your company appears as the eighth citation, but ChatGPT never mentions you, never uses your pricing and never includes you in the shortlist. You were cited, but had almost no influence over the recommendation. Another company might receive one citation, but ChatGPT uses its information to explain which features construction companies need, what products cost, how multi-state payroll works and which option may be the best fit. That company *actually* shaped the answer. This matters because most AI visibility tools focus on whether a site was cited and how many citations it received. Those are useful metrics, but businesses should also care about whether AI accurately explains what the company does, uses its pricing or statistics, includes it in the shortlist and gives the customer a reason to click. The platform differences were interesting too. ChatGPT averaged 6.88 cited sources per prompt, compared with 12.06 for Google and 16.35 for Perplexity. But under the researchers’ influence measure, ChatGPT’s retrieved sources had a much higher average influence score. The researchers caution that some of this may reflect differences in answer length, citation rendering and platform implementation, butill, the business implication is interesting. One heavily used ChatGPT citation may be more valuable than several citations that barely influence the answer. A strong source can help determine how the problem is defined, which features matter, how alternatives are compared, which statistics are repeated and which companies make the shortlist. So what helps? Well, selection depends heavily on search visibility, relevance, authority, clear brand signals and being present on websites AI systems already trust. Absorption depends more on what is actually inside the page: specific evidence, clear explanations, original statistics, useful definitions, comparisons, pricing, customer results and step-by-step guidance. This is where SEO Stuff’s done-for-you package becomes relevant: https://seo-stuff.com/gold-plan-package It combines 10 AI-search-optimized pieces of content with three DR50+ authority placements. The authority helps the business and its content get discovered. The content gives AI systems useful information they can actually carry into an answer, including what the company does, who it serves, how much it costs, how it compares and what results it has produced. The study also found major differences between high-influence and low-influence pages. Pages in the highest quarter averaged roughly 1,943 words, 10.6 headings and 47.5 paragraphs. Pages in the lowest quarter averaged just 170 words, fewer than one heading and about eight paragraphs. High-influence pages were also more structured, more semantically aligned with the answer and packed with more usable information. A thin page may be relevant enough to earn a citation but still give ChatGPT almost nothing useful to say about the company. Compare: “We help companies save time, increase efficiency and grow faster.” With: “Our software is designed for accounting firms with five to 50 employees. It automates client document collection, deadline reminders and engagement-letter workflows. Pricing begins at $149 per month.” The second version gives ChatGPT something it can actually use. The study found the same pattern across specific content types. Pages containing code had 76.88% higher average influence, numbers or statistics 61.55% higher, definitions 57.33% higher, comparisons 55.28% higher and how-to content 41.20% higher. AI needs usable material, plain and simple. Facts it can repeat, numbers it can cite, comparisons it can summarize, definitions it can use and processes it can explain, etc. Generic brand copy provides very little of that. Interestingly, Q&amp;A formatting by itself was not associated with higher absorption. The answer still needs something substantive, such as a definition, specific number, comparison, measurable result, process or supporting evidence. Businesses should focus less on making content look like an AI answer and more on giving AI something valuable to tell the customer. And if you want to see whether your business is already being cited, understood and recommended across ChatGPT, Claude, Google AI, Perplexity and Grok, check here: https://seo-stuff.com/free-audit Google revealed how sites must be named if you want to show in traditional and AI search. This comes straight from Google&apos;s John Mueller. Someone complained that their site doesn&apos;t show when they search for their own site name. John&apos;s response was fairly blunt. If your &quot;site name…
+
+![Your brand can appear as a ChatGPT &quot;source&quot; and still not actually influence the answer. This is going to sound a little dumb, but... Getting cited by ChatGPT does not necessarily mean ChatG](../../../../assets/images/2026/08/28/2093332352118186264-1.jpg)
+
+🔗 [View original post](https://x.com/alexgroberman/status/2093332352118186264)
+
+---
+
+### 🕐 13:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/08/28/2093330455881818395-1.jpg)
+
+🔗 [View original post](https://x.com/Mindsthatbuild/status/2093330455881818395)
+
+---
+
+### 🕐 13:23 UTC · @Wise1Philosophy
+
+> HABITS I STOLE FROM ATTRACTIVE MEN 1. They walk slowly.
+
+![HABITS I STOLE FROM ATTRACTIVE MEN 1. They walk slowly.](../../../../assets/images/2026/08/28/2093328733826592825-1.jpg)
+
+🔗 [View original post](https://x.com/superior_hombre/status/2093328733826592825)
+
+---
+
+### 🕐 13:23 UTC · @Wise1Philosophy
+
+> 40 DATE NIGHT IDEAS THAT DON&apos;T INVOLVE DINNER AND A MOVIE..
+
+![40 DATE NIGHT IDEAS THAT DON&apos;T INVOLVE DINNER AND A MOVIE..](../../../../assets/images/2026/08/28/2093328658031313380-1.jpg)
+
+🔗 [View original post](https://x.com/MindPatternHQ/status/2093328658031313380)
+
+---
+
+### 🕐 13:18 UTC · @Wise1Philosophy
+
+> 30 Websites That Feel &quot;Illegal&quot; But Are Perfectly Legal 1. http://raphael.ai 2. http://krea.ai 3. http://magnific.ai 4. http://clipdrop.co 5. http://elevenlabs.io 6. http://suno.com 7. http://runwayml.com 8. http://klingai.com 9. http://d-id.com 10. http://huggingface.co/spaces 11. http://cursor.com 12. http://bolt.new 13. http://v0.app 14. http://replit.com 15. http://napkin.ai 16. http://gamma.app 17. http://notion.com/product/ai 18. http://uizard.io 19. http://perplexity.ai 20. http://phind.com 21. http://otter.ai 22. http://opus.pro 23. http://poe.com 24. http://huggingface.co 25. http://remove.bg 26. http://cleanup.pictures 27. http://deepswap.ai 28. http://musiio.com 29. http://jasper.ai 30. http://claude.ai me: the shot is almost perfect, but I only need to change one part Dreamina: edit the segment. keep everything else. Seedance 2.5 gets the headlines. Seedance 2.0 gets my work done. Both 2.0 &amp; 2.0 Fast, only on Dreamina: a 30-second clip costs $0.78 — vs $3.21 elsewhere. 76% less…
+
+![30 Websites That Feel &quot;Illegal&quot; But Are Perfectly Legal 1. http://raphael.ai 2. http://krea.ai 3. http://magnific.ai 4. http://clipdrop.co 5. http://elevenlabs.io 6. http://suno.com 7. http:](../../../../assets/images/2026/08/28/2093327423039590465-1.jpg)
+
+🔗 [View original post](https://x.com/nrqa__/status/2093327423039590465)
+
+---
+
+### 🕐 13:11 UTC · @Wise1Philosophy
+
+> MBA students are turning down 6-figure jobs at McKinsey... Here&apos;s why: Media
+
+🔗 [View original post](https://x.com/benkellyone/status/2093325518426833105)
+
+---
+
+### 🕐 13:03 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/08/28/2093323471069544570-1.jpg)
+
+🔗 [View original post](https://x.com/Life__Mastery/status/2093323471069544570)
+
+---
+
+### 🕐 13:02 UTC · @Wise1Philosophy
+
+> 🚨WARNING: You missed blogging in 2010 You missed crypto in 2014 You missed YouTube in 2018 Don’t miss AI + Instagram in 2026 Media
+
+🔗 [View original post](https://x.com/mikakilpelaine1/status/2093323410663469203)
 
 ---
 
@@ -81,6 +189,14 @@
 
 ---
 
+### 🕐 12:10 UTC · @Wise1Philosophy
+
+> Faceless Instagram pages are the #1 side hustle for 2026: • Can be made with AI in 1 day • Only requires 3-5 hours a week • Can rinse &amp; repeat as many times If you want to make $10k/month… Follow these 7 simple steps:
+
+🔗 [View original post](https://x.com/erichustls/status/2093310145069563931)
+
+---
+
 ### 🕐 12:02 UTC · @Wise1Philosophy
 
 > Heart Attack = Blood sugar Heart Attack = Insulin resistance Heart Attack = No.1 killer worldwide. Doctor rules to keep your heart young: 1. Don&apos;t go pee at 3 AM Media
@@ -102,6 +218,15 @@
 > The 3 pre-bed supplements I always come back to are: 1. Magnesium glycinate (200 mg)
 
 🔗 [View original post](https://x.com/HeyDoc_MD/status/2093303722977976672)
+
+---
+
+### 🕐 11:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/08/28/2093300154195460198-1.jpg)
+
+🔗 [View original post](https://x.com/Daily__wisdom_/status/2093300154195460198)
 
 ---
 
@@ -133,6 +258,23 @@
 
 ---
 
+### 🕐 11:03 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/08/28/2093293348178034761-1.jpg)
+
+🔗 [View original post](https://x.com/apex_mentality_/status/2093293348178034761)
+
+---
+
+### 🕐 11:02 UTC · @Wise1Philosophy
+
+> Robert Herjavec says the FASTEST way to spot an A player is how quickly they recover from a bad day. He founded The Herjavec Group, one of the largest cybersecurity firms in North America &amp; is also a Shark Tank investor. Everyone gets knocked down, he says. A players and B players both have terrible days, but the different between them is how fast they get back up. ↳ A players recovery quickly ↳ B players sit and wallow in their misery — Robert Herjavec (.@robertherjavec) Media Robert Herjavec built one of the top cybersecurity companies in the world, then sold it for hundreds of millions. On Codie Sanchez&apos;s podcast, he shared the 6 principles that helped him sell it for 9 figures: 1) You have to be willing to grind for 10 years with no results
+
+🔗 [View original post](https://x.com/GeniusGTX/status/2093293037434835358)
+
+---
+
 ### 🕐 10:56 UTC · @Wise1Philosophy
 
 > 🚨 New report The AI Colony R&amp;D just closed the books on H1 2026. Six months outpaced the last three years combined. Here’s what stood out 👇
@@ -150,6 +292,23 @@
 ![Grok Bot can now read live stock prices and option chains. Everyone will use it to ask &quot;should I buy NVDA&quot;. I&apos;ll be using it to see what the market is expecting before every earnings ca](../../../../assets/images/2026/08/28/2093289003302764585-1.jpg)
 
 🔗 [View original post](https://x.com/alex_prompter/status/2093289003302764585)
+
+---
+
+### 🕐 10:45 UTC · @Wise1Philosophy
+
+> Andrew Ng just released a 1-hour course on full AI engineering, from LLM basics to building agent graphs: 0:17 - LLM understanding from scratch 20:02 - how to actually write prompts 29:03 - build your first team of agents 47:19 - final stage of agents, graphs 30 years of AI research, distilled into one hour, from someone who was there for all of it. Watch it today, then read how to skip the $2,000 bootcamp entirely below. Media https://x.com/i/article/2092303074790678528
+
+🔗 [View original post](https://x.com/godofprompt/status/2093288744581263552)
+
+---
+
+### 🕐 10:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/08/28/2093285108190982314-1.jpg)
+
+🔗 [View original post](https://x.com/yeti_mind/status/2093285108190982314)
 
 ---
 
@@ -192,6 +351,14 @@
 ![En una sola tarea, Viktor preparó 5 titulares, la estructura y un primer borrador para nuestro próximo artículo. Formo parte de un equipo de marketing y contenido, y quería probar si un AI employee po](../../../../assets/images/2026/08/28/2093277980499829228-1.png)
 
 🔗 [View original post](https://x.com/MiguelMaestroIA/status/2093277980499829228)
+
+---
+
+### 🕐 09:58 UTC · @Wise1Philosophy
+
+> Travis Kalanick says ONE sentence explains the next trillion-dollar wave of AI: &quot;Look around the room you are in... Every single thing was grown, mined, manufactured, or moved to reach you.&quot; He&apos;s the former CEO of Uber, a tech company he scaled into a $100 billion giant. He says that is the whole physical economy in four words. 1) Grown 2) Mined 3) Manufactured 4) Moved AI is about to automate all four. Each one becomes a system that can run itself. Software already ate the digital world, now it comes for the physical one. — Travis Kalanick (.@travisk) Media This founder built Uber into a $100B+ company, and is now building something even bigger, one he calls industrial AI. Travis Kalanick just revealed 6 physical industries AI is about to take over: 1) Robots that cook your food and deliver it
+
+🔗 [View original post](https://x.com/GeniusGTX/status/2093276928723788126)
 
 ---
 
@@ -294,6 +461,14 @@
 ![](../../../../assets/images/2026/08/28/2093239714417369106-1.jpg)
 
 🔗 [View original post](https://x.com/Daily__wisdom_/status/2093239714417369106)
+
+---
+
+### 🕐 07:08 UTC · @Wise1Philosophy
+
+> Roy Lee says loneliness is the single biggest problem of our generation, and AI is not what caused it. On Jack Neel&apos;s podcast, he broke down the 5 real reasons this is happening to an entire generation: 1) Dating apps made romance winner-take-all Media
+
+🔗 [View original post](https://x.com/GeniusGTX/status/2093234177848361003)
 
 ---
 
@@ -411,5 +586,13 @@
 > Your poor diet is why you are still fat. Studies confirm that the people who lose weight the fastest pick 3-4 simple diets, and eat them on repeat. Here&apos;s the list: 1. Chipotle
 
 🔗 [View original post](https://x.com/CoachDanCole_/status/2093158739658555685)
+
+---
+
+### 🕐 00:00 UTC · @Wise1Philosophy
+
+> Jensen Huang came to America with almost nothing and cleaned toilets at 9. Today he runs Nvidia, one of the most valuable tech companies on Earth. But his start was brutal. His parents sent him and his brother ahead as immigrants, and he landed in a rough boarding school that felt like a penitentiary. At 9 years old, his job was cleaning the bathrooms for a dorm of 100 boys. He says he cleaned more of them than anyone. No shortcuts, no special treatment. — Jensen Huang (.@JensenHuang) Media Everyone assumes that once you reach the top, you finally get to relax. Jensen Huang built Nvidia into a $4 trillion company, and says he lives in constant anxiety. Here&apos;s the truth he shared about what success really feels like: 1) It&apos;s mostly suffering
+
+🔗 [View original post](https://x.com/GeniusGTX/status/2093126458298515531)
 
 ---
