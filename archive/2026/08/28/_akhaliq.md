@@ -2,7 +2,15 @@
 
 ## 📅 August 28, 2026
 
-> 9 post(s) archived.
+> 10 post(s) archived.
+
+---
+
+### 🕐 14:06 UTC · @_akhaliq
+
+> hockey-stick growth @Thom_Wolf Congrats on hitting $1bn annualised run rate
+
+🔗 [View original post](https://x.com/Thom_Wolf/status/2093339361110552754)
 
 ---
 

@@ -2,7 +2,27 @@
 
 ## 📅 August 28, 2026
 
-> 96 post(s) archived.
+> 101 post(s) archived.
+
+---
+
+### 🕐 19:35 UTC · @Wise1Philosophy
+
+> Was on a brand audit call. The founder asked what he should add to push past a 12% cart recovery rate. Every answer that came to mind had the same shape. Another email sequence, better segmentation, add more SMS to your flow… And of course, those still work. They&apos;re the foundation of every retention program I build. I&apos;m not telling anyone to send fewer emails. But every one of those channels lives on a screen. And the channel many customers actually pick up in real life… the phone, it kept getting skipped because historically it was expensive to scale. @OutcraftAI calls the shoppers who literally tried to give you money within minutes of dropping off, in their language, with full context. Email works best in combination with all your other channels. This one included. It’s worth hearing what an AI recovery conversation actually sounds like → https://outcraft.ai/?utm_source=eem&amp;utm_medium=chase&amp;utm_
+
+![Was on a brand audit call. The founder asked what he should add to push past a 12% cart recovery rate. Every answer that came to mind had the same shape. Another email sequence, better segmentation, a](../../../../assets/images/2026/08/28/2093422148736147767-1.jpg)
+
+🔗 [View original post](https://x.com/ecomchasedimond/status/2093422148736147767)
+
+---
+
+### 🕐 19:20 UTC · @Wise1Philosophy
+
+> Quick test for DTC operators: How many states are you registered in for sales tax? How many states should you be registered in? If those numbers don&apos;t match, you have a problem. If you don&apos;t know either number, you may have a bigger problem. @kintsugi_ai will tell you both those numbers in under 10 minutes. Learn more about why they are my #1 recommendation for your tax and compliance needs: https://trykintsugi.com/?utm_source=chase&amp;utm_medium=social&amp;utm_campaign=nexus-check P.S. If you mention this post to them, you’ll get 3 months for free.
+
+![Quick test for DTC operators: How many states are you registered in for sales tax? How many states should you be registered in? If those numbers don&apos;t match, you have a problem. If you don&apos;t](../../../../assets/images/2026/08/24/2091937320887075308-1.jpg)
+
+🔗 [View original post](https://x.com/ecomchasedimond/status/2093418341545464279)
 
 ---
 
@@ -117,6 +137,34 @@
 ![Somehow everyone missed the biggest finding of 2026 about getting traffic to your website from ChatGPT, Claude, Perplexity, etc. I originally didn&apos;t want to draw attention to it, but now that the](../../../../assets/images/2026/08/28/2093363897424290267-1.jpg)
 
 🔗 [View original post](https://x.com/alexgroberman/status/2093363897424290267)
+
+---
+
+### 🕐 15:30 UTC · @Wise1Philosophy
+
+> Lead gen is slowly killing your company. And your team don&apos;t even know it. They think that&apos;s the only way to drive pipeline. Hitting the same message to the whole market over and over. &quot;Let&apos;s hop on a 20-minute call&quot;. But you can&apos;t force prospects to be your buyers. (Trust me, I tried) At any moment, only ~3% of your market is in-market. Lead gen fights over that small pool. Drain it, and next month you&apos;re back fighting again. That&apos;s the trap. A lead-gen-only motion means always hunting the next deal, because you never built anything that brings buyers to you. That&apos;s why to build revenue growth, you need to work the 3 together: 1. Lead gen Captures the ~3% ready to buy right now. → Best for a quick pipeline boost and short cycles → Push motion: cold email, ads, DMs → Only works on top of a strong offer and real value upfront → Stack: Instantly ai, Perspective, FullEnrich 2. Demand gen Creates demand in the other 97% who aren&apos;t looking yet. → Best for scaling inbound and warming your whole market → Pull motion: educate on the problem and your solution, on repeat → Slow and hard to attribute, and how companies reach the multiple millions → Stack: ColdIQ, Default, Limadata, Valley 3. ABM Points both at the accounts you already know you want. → Best for high-value, enterprise, long-cycle deals → Precision motion: 1:1 ads, content, and touches across the buying committee → You surround the account until they know you before you reach out → Stack: Fibbler, Clay, Influ2, Fibbler Most teams only run the first, then wonder why growth stalls. Activate to view larger image,
+
+![Lead gen is slowly killing your company. And your team don&apos;t even know it. They think that&apos;s the only way to drive pipeline. Hitting the same message to the whole market over and over. &quot](../../../../assets/images/2026/08/28/2093360479486038324-1.jpg)
+
+🔗 [View original post](https://x.com/itsivanfalco/status/2093360479486038324)
+
+---
+
+### 🕐 15:30 UTC · @Wise1Philosophy
+
+> We have the most sophisticated tools for content creation. But why have our feeds gotten worse? AI can structure the argument, clean up the writing, generate variations, sharpen a headline, personalise a message, repurpose an idea, and turn a rough draft into something publishable in minutes. The mechanics of making content have never been cheaper. And yet we all can feel the fatigue of reading AI slop. I want to be precise about why, because “AI content is bad” is the lazy explanation. AI is not necessarily writing badly, but part of the blame lies in the prompts. Look at the prompts people use: “Make this more engaging.” “Make the hook stronger.” “Make it sound thought-provoking.” “Make it punchier.” “Add a CTA.” You have essentially asked it to produce the statistical middle of everything ever written. And nothing that differentiates you from others. AI has made it incredibly cheap to polish emptiness. The better sequence is: Experience → Idea → Thinking → AI → Editing → Judgment → Publish. AI belongs in the middle as a production step. It can never substitute for having something to say. And the time AI gives us back is supposed to go somewhere. If drafting takes ten minutes instead of two hours, that should give you more time to question the argument, find the weak sentence, check the claim, add the example, remove the cliché and ask whether the whole thing deserves to exist. Instead, we often spend the time saved on volume. Which brings me to the skill I think is becoming much more valuable: Taste. Someone has to recognise that the opening is technically strong but intellectually empty. Someone has to say, “This sounds good, but what are we actually saying?” When everyone has access to the same generative tools, differentiation moves away from production and towards selection. There is a market reason for this too. The cost of publishing has collapsed. The supply of human attention has not. Everyone can produce content now. The competition is whether what you produced deserves twenty seconds from someone who has hundreds of other things competing for the same twenty seconds. So I don&apos;t think AI has lowered the bar for good content. It has lowered the cost of reaching the bar. Which means we have fewer excuses for not trying.
+
+![We have the most sophisticated tools for content creation. But why have our feeds gotten worse? AI can structure the argument, clean up the writing, generate variations, sharpen a headline, personalis](../../../../assets/images/2026/08/28/2093360473014202680-1.png)
+
+🔗 [View original post](https://x.com/mailankhong/status/2093360473014202680)
+
+---
+
+### 🕐 15:30 UTC · @Wise1Philosophy
+
+> I just built an entire outbound campaign end to end in Claude Code. It handles sourcing companies, flagging buying signals, scoring accounts, finding contacts, and verifying emails. With Lusha&apos;s API powering nearly the whole workflow. Then I generated copy, launched the campaign, and synced everything back to the CRM. Here&apos;s the workflow: 1. SOURCE COMPANIES → Described my ICP in plain English → Lusha&apos;s API pulled every matching company: industry, size, region, revenue → No manual filtering, no exporting from three tabs → Output: a clean list of accounts that actually fit Your list stops being a guess and starts being a match. 2. BUYING SIGNALS → Lusha checked each account for live intent data → Flagged accounts showing real activity around what we sell → I knew who was warm before writing a single line → Timing built into the list, not bolted on after The right account at the wrong time still says no. This fixes the timing. 3. SCORE → Claude wrote the scoring logic once: fit plus intent → Every account scored and tiered automatically → Tier 1, tier 2, tier 3, the rest set aside → Clear rules, no AI guessing Write the rules once and every future list scores itself. 4. SOURCE CONTACTS → Prompt: &quot;find decision makers at every tier 1 and tier 2 account&quot; → Lusha returned the actual buyers, with direct dials → Seniority, title, and role attached → Straight to CSV, ready to enrich The same work you do across Sales Nav and a data tool, from one call. 5. ENRICH + VERIFY → Verified emails and direct dials in one pass → No waterfall across three providers → 95%+ accuracy, GDPR and CCPA compliant → Coverage I could trust before sending One verified pass beats a five-tool waterfall you have to babysit. 6. COPY → Claude pulled our copy framework with the winning templates → Matched the framework to the campaign type → Wrote the full sequence with personalization tokens → First name, company, signature, formatted for the sending tool Your best copy lives in the project and gets used every time, not lost in Google Docs. OUTCOME: → Campaign live in Lemlist (Instantly works the same way) → Every contact synced back to the CRM (HubSpot or Salesforce) → Sourcing, signals, scoring, enrichment, copy, campaign — one session The real unlocks for me: → Lusha&apos;s API is the data backbone the whole workflow runs on → One verified pass instead of stitching tools together → Signals mean I reach out at the right time, not just the right title → Everything lands in the CRM, nothing stranded in a spreadsheet It replaced: → Manual list building in Apollo → Stitching three enrichment tools into a waterfall → Guessing on timing with no signal data → Exporting and importing between four tabs to get one campaign live Lusha has a free plan, so you can wire up the first version without paying anything. P.S. What part of your outbound build eats the most time right now? Activate to view larger image
+
+🔗 [View original post](https://x.com/Kenny_GTM/status/2093360468467556634)
 
 ---
 

@@ -2,7 +2,55 @@
 
 ## 📅 August 28, 2026
 
-> 5 post(s) archived.
+> 10 post(s) archived.
+
+---
+
+### 🕐 18:42 UTC · @elonmusk
+
+> Share your Grok @Bot with others! You can now share templates of your Bots with others.
+
+🔗 [View original post](https://x.com/elonmusk/status/2093408975542796787)
+
+---
+
+### 🕐 17:56 UTC · @elonmusk
+
+> Grok Bot already got me one meeting with a lead that went dark. Scanned my Outlook. Found some open loops. Helped me draft the email. Sent it. Woke up today to a new meeting. Boom.
+
+![Grok Bot already got me one meeting with a lead that went dark. Scanned my Outlook. Found some open loops. Helped me draft the email. Sent it. Woke up today to a new meeting. Boom.](../../../../assets/images/2026/08/28/2093397446881911056-1.png)
+
+🔗 [View original post](https://x.com/HeidiBriones/status/2093397446881911056)
+
+---
+
+### 🕐 17:17 UTC · @elonmusk
+
+> I got early access to SpaceXAI’s new Grok @Bot template sharing feature, which lets you create custom Bot templates that other people can download and use. I created a Home Robots template that lets you control multiple home robots from a single chat. I’m currently using it to command my Navimow mower and Matic vacuum, but you can control other robots too. Here is the direct link to download the template: https://x.ai/bot/3mf-UN4mGnCp8DbPBnW5u
+
+![I got early access to SpaceXAI’s new Grok @Bot template sharing feature, which lets you create custom Bot templates that other people can download and use. I created a Home Robots template that lets y](../../../../assets/images/2026/08/28/2093387511095513222-1.jpg)
+
+🔗 [View original post](https://x.com/SawyerMerritt/status/2093387511095513222)
+
+---
+
+### 🕐 17:01 UTC · @elonmusk
+
+> Someone gave a bunch of LLMs the PoliticalCompass questions, and it turns out they&apos;re almost all libertarian-leftist in orientation.
+
+![Someone gave a bunch of LLMs the PoliticalCompass questions, and it turns out they&apos;re almost all libertarian-leftist in orientation.](../../../../assets/images/2026/08/28/2093383500757909866-1.jpg)
+
+🔗 [View original post](https://x.com/cremieuxrecueil/status/2093383500757909866)
+
+---
+
+### 🕐 15:19 UTC · @elonmusk
+
+> modern SAT tests if you can read in 1926, when it was first introduced, they asked students to learn an invented language, understand the construction rules and then translate sentences back to english It is genuinely insane to think that this is a real SAT exam question:
+
+![modern SAT tests if you can read in 1926, when it was first introduced, they asked students to learn an invented language, understand the construction rules and then translate sentences back to englis](../../../../assets/images/2026/08/28/2093357826907259011-1.png)
+
+🔗 [View original post](https://x.com/IterIntellectus/status/2093357826907259011)
 
 ---
 
