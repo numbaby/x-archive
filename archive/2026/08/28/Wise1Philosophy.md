@@ -2,7 +2,33 @@
 
 ## 📅 August 28, 2026
 
-> 10 post(s) archived.
+> 15 post(s) archived.
+
+---
+
+### 🕐 07:45 UTC · @Wise1Philosophy
+
+> If you want to avoid heart attacks, dementia, and burning out before your kids grow up (especially if you&apos;re over 40) Here are 7 signs your cortisol is silently wrecking your body: 1. Waking at 3-4 AM.
+
+🔗 [View original post](https://x.com/Marc0sRomano/status/2093243436577308940)
+
+---
+
+### 🕐 07:01 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/08/28/2093232445428547962-1.jpg)
+
+🔗 [View original post](https://x.com/apex_mentality_/status/2093232445428547962)
+
+---
+
+### 🕐 06:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/08/28/2093224641468756234-1.jpg)
+
+🔗 [View original post](https://x.com/yeti_mind/status/2093224641468756234)
 
 ---
 
@@ -19,6 +45,15 @@
 > Perceptron AI unveiled Isaac 0.5, a 36B dynamic-MoE, open-weight embodied foundation model. It combines video understanding, embodied reasoning and robot control in one sparse backbone, trained across 35+ robot systems, 100K hours of robot experience and 1M hours of video. Scaling general video from 1K to 1M hours cut the teleop needed to reach the same action-loss target from ~5,900h to just 28h. Isaac 0.5 also leads all five benchmark families it evaluates, at up to 8.5× lower inference cost than the strongest open comparator. If that scaling holds, cheap video could become one of robotics’ biggest data unlocks. Media Today we&apos;re releasing Isaac 0.5: 36B dynamic MoE, open weight 🤗 embodied foundation model. Isaac combines multimodal video understanding, embodied reasoning and robot control into a single, sparse backbone.
 
 🔗 [View original post](https://x.com/XRoboHub/status/2093217481473376407)
+
+---
+
+### 🕐 06:00 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/08/28/2093217185468436731-1.jpg)
+
+🔗 [View original post](https://x.com/Life__Mastery/status/2093217185468436731)
 
 ---
 
@@ -43,6 +78,16 @@
 > Your blood sugar is aging you faster than smoking and junk food. It ruins sleep, fat loss, reduces nitric oxide, and causes fatty liver and diabetes. Here’s the simple fix: 1. Don’t walk 10,000 steps Media
 
 🔗 [View original post](https://x.com/_Gut_Laboratory/status/2093178095364968647)
+
+---
+
+### 🕐 03:17 UTC · @Wise1Philosophy
+
+> Broke? Jobless? Feeling stuck? Google is paying $1,500 a day — and you don’t need a resume. All it takes is: 📱 A phone 🌐 Internet ⏱ 5 minutes a day ✅ Like this post 💬 Comment “Google” 🔁 Retweet &amp; Bookmark 🔖 👣 Make sure you’re following so I can DM you the details
+
+![Broke? Jobless? Feeling stuck? Google is paying $1,500 a day — and you don’t need a resume. All it takes is: 📱 A phone 🌐 Internet ⏱ 5 minutes a day ✅ Like this post 💬 Comment “Google” 🔁 Retweet &amp; ](../../../../assets/images/2026/08/28/2093176073769177489-1.jpg)
+
+🔗 [View original post](https://x.com/JayBisen473370/status/2093176073769177489)
 
 ---
 
