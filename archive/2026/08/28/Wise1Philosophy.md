@@ -2,7 +2,73 @@
 
 ## 📅 August 28, 2026
 
-> 69 post(s) archived.
+> 78 post(s) archived.
+
+---
+
+### 🕐 15:10 UTC · @Wise1Philosophy
+
+> 30 Remote Job Sites Worth Bookmarking in 2026 : ↳ jobspresso ↳ angellist ↳ stack overflow jobs ↳ dice ↳ upwork ↳ toptal ↳ guru ↳ freelancer ↳ remote freelance ↳ remote gurus ↳ remote ok ↳ weworkremotely ↳ flexjobs ↳ indeed ↳ glassdoor ↳ simply hired ↳ virtual vocations ↳ remoteco ↳ working nomads ↳ outsourcely ↳ skip the drive ↳ remotees ↳ nodesk ↳ pangian ↳ europe remotely ↳ remote ok europe ↳ remote ok asia ↳ the creative group ↳ tech careers ↳ linkedin the old game dev workflow: idea → game engine → code → assets → levels → debugging → finally playable Gear Zero | @gearzero_alaya: idea → describe it → playable game you describe your game in plain words, and Gear&apos;s AI agent handles the planning, the code, the art, the levels, an…
+
+![30 Remote Job Sites Worth Bookmarking in 2026 : ↳ jobspresso ↳ angellist ↳ stack overflow jobs ↳ dice ↳ upwork ↳ toptal ↳ guru ↳ freelancer ↳ remote freelance ↳ remote gurus ↳ remote ok ↳ weworkremote](../../../../assets/images/2026/08/28/2093355468253220888-1.jpg)
+
+🔗 [View original post](https://x.com/nrqa__/status/2093355468253220888)
+
+---
+
+### 🕐 15:05 UTC · @Wise1Philosophy
+
+> A grandfather wore hearing aids for 8 years. $6,000 pair. Custom-fitted by an audiologist. Monthly adjustments at $75/visit. Batteries replaced every week. The devices whistled in wind. They fed back near phone speakers. They sat in a charging case the size of a deck of cards. He hated wearing them. He wore them because the alternative was silence. His granddaughter a nursing student sat with him during Thanksgiving and asked to see his hearing aids. She looked at them. She looked at her AirPods Pro. She opened the Health app on his iPhone. &quot;Grandpa, can I try something?&quot; She put the AirPods in his ears. She ran the built-in Hearing Test 5 minutes. His audiogram appeared showing moderate hearing loss consistent with the profile his audiologist had established years ago. She tapped &quot;Set Up Hearing Aid.&quot; The AirPods calibrated to his specific hearing loss pattern. She played a video on her phone. She spoke to him from across the room. She turned on the TV at normal volume. He sat still for 10 seconds. Then he said: &quot;These sound better than my hearing aids.&quot; $249 earbuds. FDA-cleared. Continuously adaptive. Outperforming $6,000 devices he&apos;d been wearing for 8 years through features most AirPods Pro owners don&apos;t know exist. She showed him 11 features hiding inside the earbuds that just changed his Thanksgiving. Here&apos;s the full playbook 🧵
+
+🔗 [View original post](https://x.com/jackcoder0/status/2093354384298258633)
+
+---
+
+### 🕐 15:04 UTC · @Wise1Philosophy
+
+> If you think AI can&apos;t be funny, watch this. Media
+
+🔗 [View original post](https://x.com/AIHighlight/status/2093353999349014749)
+
+---
+
+### 🕐 14:53 UTC · @Wise1Philosophy
+
+> AI is getting out of hand 🤯 Media
+
+🔗 [View original post](https://x.com/AriaWestcott/status/2093351356509630763)
+
+---
+
+### 🕐 14:48 UTC · @Wise1Philosophy
+
+> R.I.P. GOOGLE FLIGHTS IN 2026. R.I.P. BOOKING COM IN 2026. R.I.P. SKYSCANNER IN 2026. $1,190 flight. I paid $159. Use these 10 prompts before booking your next trip: 👇🏼 (Save this 🔖 you’ll need it later)
+
+🔗 [View original post](https://x.com/jaysmith_ai/status/2093350085220524434)
+
+---
+
+### 🕐 14:34 UTC · @Wise1Philosophy
+
+> Most AI character clips fail when the model starts guessing the face again. nobody is teaching you the actual workflow behind these AI character videos.. so here it is, full breakdown, every prompt included
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2093346554727862672)
+
+---
+
+### 🕐 14:28 UTC · @Wise1Philosophy
+
+> Sat down with two agency owners doing $247K/mo who want to scale to $1M. Here are the 10 things I told them:
+
+🔗 [View original post](https://x.com/TheJeremyHaynes/status/2093344884144910573)
+
+---
+
+### 🕐 14:12 UTC · @Wise1Philosophy
+
+> 214 applications came in. Four made the shortlist. We read none of them. Not skimmed. Did not open the folder. An AI employee that sits in our Slack read all 214 overnight, scored them against what the role actually needs, and came back with four worth a Thursday, with the intro messages already drafted. Then he stopped and asked us to approve the four before anything sent. We swapped one out. That was it. The part worth sitting with: a human reads maybe 60 before the quality of attention collapses. He read 214 at the same standard on the 214th as on the first. That is not a faster human. That is a different shape of work. @viktor_com Media
+
+🔗 [View original post](https://x.com/FutureStacked/status/2093340954308616251)
 
 ---
 
@@ -76,6 +142,16 @@
 ![40 DATE NIGHT IDEAS THAT DON&apos;T INVOLVE DINNER AND A MOVIE..](../../../../assets/images/2026/08/28/2093328658031313380-1.jpg)
 
 🔗 [View original post](https://x.com/MindPatternHQ/status/2093328658031313380)
+
+---
+
+### 🕐 13:19 UTC · @Wise1Philosophy
+
+> Anthropic studied 400,000 Claude Code sessions to find out who succeeds with an AI coding agent. The data covers roughly 400,000 sessions from 235,000 people over 7 months, run through a privacy tool so nobody read individual transcripts. The first finding is the division of labor. People make about 70% of the planning decisions, the what to build. Claude makes about 80% of the execution decisions, the how to build it. The second finding is the one I&apos;d bookmark. Success tracks with how well you understand the problem you&apos;re solving, not with how well you code. A lawyer with no coding background who knows exactly what a contract script must catch counts as an expert. A senior engineer asking their first question about a new language counts as a beginner. Novice-rated sessions reached verified success (passing tests, committed code) 15% of the time. Intermediate and expert sessions reached it 28 to 33% of the time. When things broke, 19% of novices quit with zero lines of code written. Everyone else quit 5 to 7% of the time. Experts also get more out of every prompt. One instruction from a novice triggers about 5 actions and 600 words of output. The same instruction from an expert triggers 12 actions and 3,200 words. The part I keep coming back to is occupation. Software engineers hit verified success in 34% of their coding sessions. Every other major profession landed within 7 points of that. Managers scored highest. And the gap between an intermediate and an expert is small. You don&apos;t need mastery. A working grasp of your field captures most of the benefit. Over the same 7 months the share of sessions spent fixing broken code fell from 33% to 19%, while writing and data analysis doubled to 20%. The estimated value of a typical task rose 27%. The tool doesn&apos;t replace expertise. It pays expertise out at a higher rate to whoever understands what they&apos;re asking for. Learn your domain. The code is the cheap part now.
+
+![Anthropic studied 400,000 Claude Code sessions to find out who succeeds with an AI coding agent. The data covers roughly 400,000 sessions from 235,000 people over 7 months, run through a privacy tool ](../../../../assets/images/2026/08/28/2093327504522318078-1.png)
+
+🔗 [View original post](https://x.com/alex_verem/status/2093327504522318078)
 
 ---
 
