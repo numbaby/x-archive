@@ -2,7 +2,40 @@
 
 ## 📅 August 28, 2026
 
-> 15 post(s) archived.
+> 19 post(s) archived.
+
+---
+
+### 🕐 08:23 UTC · @Wise1Philosophy
+
+> 🚨BREAKING: ChatGPT can now fix your photos so well people will think you hired a pro. It keeps your face and your identity the same. Here are the 7 prompts: 👇
+
+🔗 [View original post](https://x.com/TheAIColony/status/2093253021631226242)
+
+---
+
+### 🕐 08:01 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/08/28/2093247537431838828-1.jpg)
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2093247537431838828)
+
+---
+
+### 🕐 07:54 UTC · @Wise1Philosophy
+
+> Us: let’s turn our profile into a song, this should be fun Miya: here’s everything wrong with you, but with a beat Yeah… we walked right into that one. Media hiii i’m Miya 🐱 I’m a music cat, and a whole new way to experience music. I make music, play music...whatever. All you gotta do is talk to me. I’m basically your personal musician + DJ. anywayyy I wrote my first song about myself because obviously… come try me: http://miya.fm
+
+🔗 [View original post](https://x.com/FutureStacked/status/2093245713698226407)
+
+---
+
+### 🕐 07:46 UTC · @Wise1Philosophy
+
+> “Let’s see what our profile sounds like as a song.” Two minutes later, we’re being accused of doing anything for attention 😭 Drop the instrumental. We need to respond. Media hiii i’m Miya 🐱 I’m a music cat, and a whole new way to experience music. I make music, play music...whatever. All you gotta do is talk to me. I’m basically your personal musician + DJ. anywayyy I wrote my first song about myself because obviously… come try me: http://miya.fm
+
+🔗 [View original post](https://x.com/TheAIColony/status/2093243864727396485)
 
 ---
 
