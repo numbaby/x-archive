@@ -2,7 +2,33 @@
 
 ## 📅 August 28, 2026
 
-> 19 post(s) archived.
+> 22 post(s) archived.
+
+---
+
+### 🕐 09:56 UTC · @Wise1Philosophy
+
+> STOP TELLING CLAUDE: “MAKE ME A PRESENTATION” Weak prompts = weak presentations. Use these 7 Claude prompts instead to create professional presentations in 2 minutes. Save this for your next presentation. 🔖
+
+🔗 [View original post](https://x.com/heyalexmoore/status/2093276610095145019)
+
+---
+
+### 🕐 09:52 UTC · @Wise1Philosophy
+
+> Their CPTO expected months before an AI agent could handle real claims data. Six weeks later, he was running acceptance testing against a working agent that reconciled flagship denials to the penny. I want to walk through what made six weeks possible, because it wasn&apos;t the model. This is a PE-backed healthcare RCM platform. Real claims under real payer rules, real money that either reconciles or doesn&apos;t. PHI that never leaves the client&apos;s tenant. Every AI company in healthcare RCM will tell an acquirer they have &quot;an AI agent.&quot; PE firms should be asking whether the harness exists. The agent is the model. The harness is everything around it: the eval suite that proves accuracy before anything touches production, the isolation layer that keeps protected health information inside the client&apos;s boundary, the output validation that catches hallucinated billing codes before they become compliance events. We started by building the harness. Week one: map the domain. Every payer rule, every denial code category, every reconciliation pathway documented where the system could reference it before generating anything. Weeks two through four: build the eval suite. 60 real denial scenarios drawn from the client&apos;s historical claims. The threshold: reconcile to the penny on the flagship question, or it doesn&apos;t ship. The agent hit 59 out of 60. The CPTO ran UAT himself. Infrastructure cost: $200 to $300 a month. McKinsey estimates cost-to-collect in healthcare RCM could drop 30 to 60 percent with AI agents. But the PE firms I talk to aren&apos;t asking about cost-to-collect projections. They&apos;re asking what they&apos;re actually buying. The model is a line item. Any vendor can swap it. The harness, the eval suite, the compliance architecture, the domain-specific validation: that&apos;s the IP. That&apos;s what survives a model deprecation, a pricing change, or a platform migration. When you&apos;re evaluating an AI-enabled RCM company, two questions tell you whether the harness exists: Can they show you the eval set and the pass rate? If the answer is &quot;we&apos;re working on benchmarks,&quot; there is no harness. Do the outputs reconcile to the penny against historical claims? If the answer is &quot;we&apos;re within an acceptable range,&quot; the agent is a prototype wearing a product label. 59 out of 60, to the penny, six weeks from engagement start to the CPTO running acceptance testing. That&apos;s what our Velocity Framework was built for.
+
+🔗 [View original post](https://x.com/mardehaym/status/2093275568858874144)
+
+---
+
+### 🕐 08:55 UTC · @Wise1Philosophy
+
+> 100+ AI tools for productivity 1). generative AI ↳ chatgpt ↳ claude ↳ gemini ↳ mistral ↳ meta AI 2). creative suite ↳ suno ↳ udio ↳ viggle ↳ remix ↳ grok 3). voice &amp; text ↳ elevenlabs ↳ murf AI ↳ speechify ↳ superwhisper ↳ whisp flow 4). text to image ↳ midjourney ↳ ideogram ↳ dall-e ↳ imagen ↳ firefly 5). text to video ↳ openai sora ↳ google veo ↳ runway ↳ luma AI ↳ pika 6). AI tools ↳ perplexity ↳ notebooklm ↳ you ↳ copilot ↳ poe 7). sales ↳ jason AI ↳ clay ↳ clay ↳ folk ↳ replyio ↳ sendspark 8). support ↳ fin AI ↳ decagon ↳ decagon ↳ sierra ↳ pylon ↳ duckie 9). video ↳ heygen ↳ klap ↳ klap ↳ opusclip ↳ submagic ↳ veed 10). content ↳ cohesive ↳ beehiiv ↳ beehiiv ↳ easygen ↳ supermeme ↳ descript 11). marketing ↳ jasperAI ↳ writesonic ↳ coframe ↳ blaze ↳ adcreative 12). seo &amp; blog ↳ surfer ↳ rankai ↳ seobot ↳ byword ↳ macaw 13). design ↳ uizard ↳ playground ↳ lasqo ↳ canva ↳ galileo AI 14). website ↳ gamma ↳ framer ↳ webflow ↳ durable ↳ dora 15). website chat ↳ reply chat ↳ dante ↳ chatbase ↳ chatbit ↳ tidio 16). code ↳ cursor ↳ v0 ↳ replit ↳ lovable ↳ devin 17). meetings ↳ bluedot ↳ tl;dv ↳ noty ↳ grain ↳ fireflies 18). productivity ↳ notion AI ↳ airtable AI ↳ superhuman ↳ loom ↳ raycast 19). operations ↳ juicebox ↳ polyAI ↳ crewAI ↳ respell ↳ slite 20). workflows ↳ zapier ↳ lindy ↳ beam ↳ cassidy ↳ magical me: let me make a fun song about myself Miya: say less Miya: writes a song about how I post the same take with a bigger number every year i am NOT okay💀
+
+![100+ AI tools for productivity 1). generative AI ↳ chatgpt ↳ claude ↳ gemini ↳ mistral ↳ meta AI 2). creative suite ↳ suno ↳ udio ↳ viggle ↳ remix ↳ grok 3). voice &amp; text ↳ elevenlabs ↳ murf AI ↳ ](../../../../assets/images/2026/08/28/2093261066763698398-1.jpg)
+
+🔗 [View original post](https://x.com/nrqa__/status/2093261066763698398)
 
 ---
 
