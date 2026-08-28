@@ -2,7 +2,15 @@
 
 ## 📅 August 28, 2026
 
-> 7 post(s) archived.
+> 9 post(s) archived.
+
+---
+
+### 🕐 13:28 UTC · @_akhaliq
+
+> You can try out GLM-5.3 Flash with High reasoning on https://paperswithcode.co/chat, example below Working on improving the latency, currently using @baseten as it&apos;s the fastest provider on @huggingface P.S. Find all providers here https://huggingface.co/inference/models?model=zai-org/GLM-5.3-Flash Media GLM 5.3 flash on high effort is perfect, not too verbose and still correct. I think the best model possible (if you can run it locally). Very comparable to opus 4.8
+
+🔗 [View original post](https://x.com/NielsRogge/status/2093329958064022011)
 
 ---
 
@@ -45,6 +53,16 @@
 ![Seeing a major spike in users on Papers with Code What&apos;s happening??](../../../../assets/images/2026/08/28/2093293041905799433-1.png)
 
 🔗 [View original post](https://x.com/NielsRogge/status/2093293041905799433)
+
+---
+
+### 🕐 10:58 UTC · @_akhaliq
+
+> One plausible future is not enough. A video model may generate a convincing die roll, yet produce the same few outcomes again and again. Our new paper asks a simple question: Does the model capture not only what can happen, but how often? Introducing PAWBench 🧵
+
+![One plausible future is not enough. A video model may generate a convincing die roll, yet produce the same few outcomes again and again. Our new paper asks a simple question: Does the model capture no](../../../../assets/images/2026/08/28/2093292164059206008-1.jpg)
+
+🔗 [View original post](https://x.com/RisingSayak/status/2093292164059206008)
 
 ---
 

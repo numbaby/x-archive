@@ -2,7 +2,131 @@
 
 ## 📅 August 28, 2026
 
-> 78 post(s) archived.
+> 96 post(s) archived.
+
+---
+
+### 🕐 17:28 UTC · @Wise1Philosophy
+
+> I need the podcast timestamp one immediately 👀 Holy smokes... people stopped chatting with Grok Bot. They started giving it standing jobs. Bookmark this. 8 setups from this week:
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2093390373049532431)
+
+---
+
+### 🕐 17:19 UTC · @Wise1Philosophy
+
+> Grok Bot Marketplace coming in 3, 2, 1… You can now share templates of your Bots with others.
+
+🔗 [View original post](https://x.com/godofprompt/status/2093388112361668959)
+
+---
+
+### 🕐 17:16 UTC · @Wise1Philosophy
+
+> Polsia&apos;s product line is the real story, not the raise. Ben has no employees. The agents that ran his data room and diligence are the same ones shipping the products. An ops desk for small businesses. A tool that reads your paperwork for leaks. All of it in three languages already. The $30M didn&apos;t build the company. It confirmed one was already running. Media I want to build a brand as iconic as Daft Punk. AI now automates 80% of the work. The only thing left is taste. So that&apos;s where my time goes: branding, UI that delights, content, community. aisloP episode 6 &quot;The Brand&quot; is the story of how I&apos;m building the Polsia brand.
+
+🔗 [View original post](https://x.com/AIHighlight/status/2093387136225415381)
+
+---
+
+### 🕐 17:14 UTC · @Wise1Philosophy
+
+> free vs paid AI tools: INDIE STUDIOS SPEND $8,000 AND A MONTH ON ART FOR A 2D GAME. I MADE A FULL SET IN AN AFTERNOON. what the $8,000 pays for: → character artist, $2,000, sprite sheets and animations → background artist, $1,800, per environment → UI designer, $1,200, menus and icons → animator to rig…
+
+![free vs paid AI tools: INDIE STUDIOS SPEND $8,000 AND A MONTH ON ART FOR A 2D GAME. I MADE A FULL SET IN AN AFTERNOON. what the $8,000 pays for: → character artist, $2,000, sprite sheets and animation](../../../../assets/images/2026/08/28/2093386803302871316-1.jpg)
+
+🔗 [View original post](https://x.com/nrqa__/status/2093386803302871316)
+
+---
+
+### 🕐 17:12 UTC · @Wise1Philosophy
+
+> Polsia isn&apos;t building one product. It&apos;s building a portfolio. Hearthsignal for local businesses losing money between calls and invoices. Mothledger for the bills and renewals nobody has time to read. Gatherwink for people tired of swiping. All shipped by agents, not a team. Zero employees. One founder. A full product line. Watch how it runs: Media I want to build a brand as iconic as Daft Punk. AI now automates 80% of the work. The only thing left is taste. So that&apos;s where my time goes: branding, UI that delights, content, community. aisloP episode 6 &quot;The Brand&quot; is the story of how I&apos;m building the Polsia brand.
+
+🔗 [View original post](https://x.com/TheAIColony/status/2093386237486747859)
+
+---
+
+### 🕐 17:08 UTC · @Wise1Philosophy
+
+> Polsia&apos;s feed reads like a company launching five products at once. An operations desk that answers calls and flags risks for small businesses. Something that hunts the leaks buried in your bills and renewals. A service that finds compatible people through real local events. Every single one says live soon. Media I want to build a brand as iconic as Daft Punk. AI now automates 80% of the work. The only thing left is taste. So that&apos;s where my time goes: branding, UI that delights, content, community. aisloP episode 6 &quot;The Brand&quot; is the story of how I&apos;m building the Polsia brand.
+
+🔗 [View original post](https://x.com/AIFrontliner/status/2093385302194765889)
+
+---
+
+### 🕐 16:39 UTC · @Wise1Philosophy
+
+> The venture market has a breadth problem. Q1 2026 set an all-time funding record, but deal count fell 15% quarter over quarter and early-stage share slipped to 64%. The money is bigger than ever and spread thinner than ever. The full funding picture is in the H1 2026 IndustryReport:https://www.theaicolony.com/blog/the-state-of-ai-tech-startup-and-saas-a-half-year-2026-review
+
+![The venture market has a breadth problem. Q1 2026 set an all-time funding record, but deal count fell 15% quarter over quarter and early-stage share slipped to 64%. The money is bigger than ever and s](../../../../assets/images/2026/08/28/2093377856667541826-1.jpg)
+
+🔗 [View original post](https://x.com/TheAIColonyRD/status/2093377856667541826)
+
+---
+
+### 🕐 16:27 UTC · @Wise1Philosophy
+
+> HOW TO RAISE A CHILD WHO RESPECTS YOU WITHOUT FEARING YOU. AGES O-5: THE AGE OF CONNECTION:
+
+🔗 [View original post](https://x.com/scotti_brooks/status/2093374998501355977)
+
+---
+
+### 🕐 16:24 UTC · @Wise1Philosophy
+
+> Children who &quot;Don&apos;t listen&quot; often have parents who are doing these 4 things without realizing it... And what to do instead.. 👇
+
+![Children who &quot;Don&apos;t listen&quot; often have parents who are doing these 4 things without realizing it... And what to do instead.. 👇](../../../../assets/images/2026/08/28/2093374175096573975-1.jpg)
+
+🔗 [View original post](https://x.com/Manifest_Lord/status/2093374175096573975)
+
+---
+
+### 🕐 16:10 UTC · @Wise1Philosophy
+
+> single prompt editing is THE move 👏 Every creator knows this day. You sat down when the sun was out and didn&apos;t look up until it was dark. All for one edit. @eachlabs MCP turns that into a single prompt. Describe it, get it back, move on with your life 👇
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2093370584960786738)
+
+---
+
+### 🕐 16:00 UTC · @Wise1Philosophy
+
+> He encontrado 50 SITIOS WEB INCREÍBLEMENTE ÚTILES que deberías guardar...
+
+![He encontrado 50 SITIOS WEB INCREÍBLEMENTE ÚTILES que deberías guardar...](../../../../assets/images/2026/08/28/2093368095016419617-1.jpg)
+
+🔗 [View original post](https://x.com/MiguelMaestroIA/status/2093368095016419617)
+
+---
+
+### 🕐 15:49 UTC · @Wise1Philosophy
+
+> Most people are sleeping on one of the wildest open AI releases right now. Built by rednote’s dots studio @dotsstudioai, it can critique its own progress, learn while working, and adapt across thousands of interactions. With a custom recursive self-critique harness, the system also achieved a certified 42/42 at IMO 2026. Meet dots3-note Preview ↓ Media
+
+🔗 [View original post](https://x.com/HeyAbhishek/status/2093365274284372094)
+
+---
+
+### 🕐 15:43 UTC · @Wise1Philosophy
+
+> Somehow everyone missed the biggest finding of 2026 about getting traffic to your website from ChatGPT, Claude, Perplexity, etc. I originally didn&apos;t want to draw attention to it, but now that the data has gone public, let&apos;s talk about it. This works well for all business categories, but it works especially well for SaaS. By the way, you can see whether your business is appearing across Google AI, ChatGPT, Claude, Perplexity and Grok here (it&apos;s free): https://seo-stuff.com/free-audit Alright, so if you missed it, Rankscale (I have no affiliation) did a deep-dive study on how AI platforms decide which sites to cite. I’ll include a link to the raw data below and I wrote in detail about it a couple of days ago (you can click on my profile and scroll down a few posts). Essentially Rankscale analyzed where ChatGPT, Perplexity, Gemini and Google AI Overviews are pulling their answers from and what’s working best for B2B brands. To do this, Rankscale looked at thousands of commercial queries like: “Top CRM software” “Top SEO software vendors” “Best online learning platforms” And based on that, here’s where AI engines are pulling data from very often now: Industry-specific blogs and publications (TechTarget, FiercePharma, QSR Magazine) Official company blogs and vendor sites Professional directories like Clutch and G2 Analyst reports (Gartner, Statista, etc.) LinkedIn posts and expert commentary Mainstream business news And among the most interesting takeaways: Vendor blogs, yes, the company’s own blogs, are now very frequently being cited as sources in AI search results. Perplexity, Gemini and Google AI Overviews cited product blogs heavily in B2B-related answers, and while ChatGPT cited them less often, it still did so consistently enough to show a clear trend. AI engines are now rewarding brands that publish comparison content on their own blogs, and it isn&apos;t limited to high authority sites. Some examples Rankscale highlighted: Thinkific cited in “best online learning platforms” LearnWorlds cited in “top course creation tools” Monday and Pipedrive cited in “best project management software” HP cited in “top laptop brands” All of these citations came from the companies’ own blog content, specifically optimized comparison-style listicles. These vendor blogs are filling a massive content gap, because most industries lack neutral, third-party content that compares vendors in detail. So when a brand publishes something that fits the bill, AI engines pull it, and they don’t always know or care that the content is coming from a competitor. As long as it’s thorough and well structured, objectively written and not purely promotional, built with clear headers and factual comparisons, it gets indexed and cited in AI answers. Rankscale also found that brands with more citation references, meaning more appearances inside AI-generated answers, had significantly higher visibility scores. That score reflects both detection and ranking position. All of which is to say, the more your brand is cited, the more often AI engines surface you again. Basically the visibility builds on itself. This is exactly why SEO Stuff’s (http://seo-stuff.com) entire system is built around creating that flywheel: structured, authoritative content plus backlinks that fuel repeated AI citations. SEO Stuff&apos;s Done-For-You Package (the most popular package): 10 long-form, snippet-optimized articles plus 3 DR50+ backlinks designed to push your brand into the same first-result positions AI agents select most often. Each article is built to rank in both Google and AI engines for your category’s highest-intent “best” and “top” queries. https://seo-stuff.com/gold-plan-package SEO Stuff&apos;s Content Package: 60 high-authority pages built as objective-style “best of,” “top,” and “comparison” content, the exact formats Rankscale found being cited by Perplexity, Gemini, and Google AI Overviews. Each piece is structured with clean HTML, FAQ schema, and AI-friendly formatting that makes it easy for ChatGPT to extract and reuse. https://seo-stuff.com/premium-content-bundle-service Together, these plans position your brand to: Be cited as an authority in your niche, even inside competitor AI answers Accumulate AI visibility signals that compound over time Grow across both traditional search and AI-assisted search layers The AI visibility race is about who trains the models first, and right now, vendor blogs with structured comparison content are doing exactly that. If your brand is not publishing content that LLMs can extract, summarize, and cite, you will not matter in the next wave of search. SEO Stuff (http://seo-stuff.com) was built to fix that. That’s why 80%+ of customers who buy the Done-For-You Package come back for additional orders. It works. And if you want to know how your site ranks in Google, ChatGPT, Claude and broader AI search, check here (it&apos;s free): https://seo-stuff.com/free-audit Your brand can appear as a ChatGPT &quot;source&quot; and still not actually influence the answer. This is going to sound a little dumb, but... Getting cited by ChatGPT does not necessarily mean ChatGPT used your website in a meaningful way. A study analyzed 21,143 citations across ChatGPT…
+
+![Somehow everyone missed the biggest finding of 2026 about getting traffic to your website from ChatGPT, Claude, Perplexity, etc. I originally didn&apos;t want to draw attention to it, but now that the](../../../../assets/images/2026/08/28/2093363897424290267-1.jpg)
+
+🔗 [View original post](https://x.com/alexgroberman/status/2093363897424290267)
+
+---
+
+### 🕐 15:16 UTC · @Wise1Philosophy
+
+> You&apos;ve been lied to. Burnout isn’t caused by working too hard or extreme stress. It’s caused by biology. After 12 years measuring pro athletes, Fortune 500 executives, and founders doing $1M+, here’s the science behind what causes burnout (and how to stop it):
+
+![You&apos;ve been lied to. Burnout isn’t caused by working too hard or extreme stress. It’s caused by biology. After 12 years measuring pro athletes, Fortune 500 executives, and founders doing $1M+, he](../../../../assets/images/2026/08/28/2093357119139618983-1.jpg)
+
+🔗 [View original post](https://x.com/marcuswlefton/status/2093357119139618983)
 
 ---
 
@@ -29,6 +153,16 @@
 > If you think AI can&apos;t be funny, watch this. Media
 
 🔗 [View original post](https://x.com/AIHighlight/status/2093353999349014749)
+
+---
+
+### 🕐 15:00 UTC · @Wise1Philosophy
+
+> Most people learn Claude backwards. They start prompting before they understand what the tool is actually for, then wonder why the output stays shallow after the first few weeks. Level 1 closes that gap: what Claude is, how to prompt the current model, how to get certified, all before touching anything advanced. Level 2 moves into daily use: Cowork, team setups, design, Projects, slides, your first Skill. This is where most people plateau, because they never go past chat. Level 3 is where the output actually changes: killing sycophancy, training Claude to sound like you instead of like AI, working around usage limits, moving past prompt engineering entirely. Level 4 is the ceiling most people never reach: connectors into your real apps, Claude Code for serious engineering work, Claude Computer running your machine directly. Every guide here is free. Bookmark this and work through it in order instead of jumping straight to the level that sounds impressive.
+
+![Most people learn Claude backwards. They start prompting before they understand what the tool is actually for, then wonder why the output stays shallow after the first few weeks. Level 1 closes that g](../../../../assets/images/2026/08/28/2093352974840176841-1.png)
+
+🔗 [View original post](https://x.com/claudeskills101/status/2093352974840176841)
 
 ---
 
@@ -190,6 +324,16 @@
 
 ---
 
+### 🕐 12:58 UTC · @Wise1Philosophy
+
+> Who’s behind the tech launches on X? https://LaunchVideo.com is probably the clearest answer right now. They’ve worked behind several widely discussed AI and startup launches and built one of the strongest track records on the platform.
+
+![Who’s behind the tech launches on X? https://LaunchVideo.com is probably the clearest answer right now. They’ve worked behind several widely discussed AI and startup launches and built one of the stro](../../../../assets/images/2026/08/28/2093315101876957562-1.jpg)
+
+🔗 [View original post](https://x.com/Adina_CoderX/status/2093322452709584948)
+
+---
+
 ### 🕐 12:56 UTC · @Wise1Philosophy
 
 > This Fable 5 UI/UX hack is wild. The &quot;Taste&quot; skill completely kills generic AI slop and gives Fable 5 the tools and instructions to ship beautiful design. Might be the best AI skill I&apos;ve seen. Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media Marc Andreessen (the guy who called it when “software ate the world”) just pointed out what AI is doing to coding next. “Everyone assumes AI coding means fewer hours… or leaving the profession. But almost everyone I know is working more hours.” “There’s a new term in the Valley: …
@@ -224,10 +368,30 @@
 
 ### 🕐 12:30 UTC · @Wise1Philosophy
 
+> https://LaunchVideo.com has become the go-to team for tech companies that want to launch properly on X. Wispr Flow, Composio and CodeRabbit are just a few names connected to their work. Their understanding of the platform is genuinely rare.
+
+![https://LaunchVideo.com has become the go-to team for tech companies that want to launch properly on X. Wispr Flow, Composio and CodeRabbit are just a few names connected to their work. Their understa](../../../../assets/images/2026/08/28/2093315101876957562-1.jpg)
+
+🔗 [View original post](https://x.com/LucasMestreIA/status/2093315342252552615)
+
+---
+
+### 🕐 12:30 UTC · @Wise1Philosophy
+
 
 ![](../../../../assets/images/2026/08/28/2093315320450621538-1.jpg)
 
 🔗 [View original post](https://x.com/Wise1Philosophy/status/2093315320450621538)
+
+---
+
+### 🕐 12:29 UTC · @Wise1Philosophy
+
+> A lot of people ask who’s behind the biggest tech launches on X. https://LaunchVideo.com is the name that keeps coming up. Their team knows how to turn a simple announcement into something the entire startup ecosystem notices.
+
+![A lot of people ask who’s behind the biggest tech launches on X. https://LaunchVideo.com is the name that keeps coming up. Their team knows how to turn a simple announcement into something the entire ](../../../../assets/images/2026/08/28/2093315101876957562-1.jpg)
+
+🔗 [View original post](https://x.com/TUPROFESORIA/status/2093315101876957562)
 
 ---
 
