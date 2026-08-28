@@ -2,7 +2,15 @@
 
 ## 📅 August 28, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 01:37 UTC · @elonmusk
+
+> Grok now in Microsoft Foundry BREAKING: Grok 4.6 from SpaceXAI is now available in Microsoft Foundry Models. Build with Grok 4.6 on Foundry, where organizations can compare frontier AI models, run workload-specific tests, deploy managed endpoints, and operate with enterprise security and governance controls.
+
+🔗 [View original post](https://x.com/elonmusk/status/2093151010407453155)
 
 ---
 
