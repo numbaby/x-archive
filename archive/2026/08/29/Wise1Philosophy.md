@@ -2,7 +2,34 @@
 
 ## 📅 August 29, 2026
 
-> 30 post(s) archived.
+> 34 post(s) archived.
+
+---
+
+### 🕐 11:43 UTC · @Wise1Philosophy
+
+> A woman&apos;s email inbox was a disaster. She received 140+ emails per day. Roughly 15 were emails she wanted. The other 125 were marketing newsletters she&apos;d subscribed to accidentally, promotional blasts from stores she&apos;d bought from once, data breach notifications from services she forgot she&apos;d signed up for, and spam from companies that bought her email address from other companies that sold it. She&apos;d tried unsubscribing. It didn&apos;t work. She unsubscribed from 30 newsletters and 40 new ones appeared because her email address had been sold, shared, and scraped across 347 websites, services, and apps she&apos;d entered it into over the past 10 years. Her coworker a software engineer who receives 3 unwanted emails per week instead of 125 per day told her the secret. &quot;I haven&apos;t given my real email address to a website in 4 years. I use Hide My Email.&quot; Hide My Email included with every iCloud+ subscription starting at $0.99/month generates unlimited unique, random email addresses that forward to the user&apos;s real inbox. Each generated address is unique to one website. If that website sells it, shares it, or gets breached deactivate that one address. The spam stops. The real email stays private. She&apos;d been handing her real email to 347 websites while the tool that prevents this sat inside her $0.99/month iCloud subscription for 3 years. Her coworker showed her 11 iCloud features most Apple users are paying for and never activating. Here&apos;s the full playbook 🧵
+
+🔗 [View original post](https://x.com/jackcoder0/status/2093665872267370796)
+
+---
+
+### 🕐 11:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/08/29/2093662536935616820-1.jpg)
+
+🔗 [View original post](https://x.com/Daily__wisdom_/status/2093662536935616820)
+
+---
+
+### 🕐 11:15 UTC · @Wise1Philosophy
+
+> OpenAI just released 11 free prompt courses. Beginner to advanced levels (I included all links): Use these courses to master ChatGPT prompts. [ bookmark 🔖 this thread for later ]
+
+![OpenAI just released 11 free prompt courses. Beginner to advanced levels (I included all links): Use these courses to master ChatGPT prompts. [ bookmark 🔖 this thread for later ]](../../../../assets/images/2026/08/29/2093658709331444042-1.jpg)
+
+🔗 [View original post](https://x.com/AndrewBolis/status/2093658709331444042)
 
 ---
 
@@ -11,6 +38,15 @@
 > Elon Musk told Jamie Dimon why Earth cannot keep up with AI. He didn&apos;t talk vision. He talked physics. Musk: &quot;I think we can do probably somewhere around 1 terawatt per year of AI space compute from Earth, but we can do 1,000 terawatts or more from the Moon.&quot; One terawatt. That is the hard thermodynamic ceiling of this planet. Every reactor. Every solar array. Every grid upgrade humanity can engineer. The whole thing tops out at one terawatt of AI compute. Earth is not a launchpad anymore. It is a lid. So the Moon becomes the answer. Not for symbolism. For physics. Musk: &quot;Because the Moon has no atmosphere and about one-sixth Earth&apos;s gravity, you can use an electromagnetic accelerator… You don&apos;t need to use rockets to do AI data centers into deep space from the Moon. You can literally just shoot them like a railgun type of thing.&quot; This is not a research base. This is a frictionless industrial platform on a celestial body. Mine the surface. Build solar arrays and thermal radiators locally. Mount an electromagnetic launcher. Fire AI superclusters straight into deep space. No rockets. No atmosphere. No fuel burn on exit. A thousand terawatts. A 1,000x multiplier on the physical ceiling of compute. And the Moon is only step one. Musk: &quot;We can build a self-growing city on the Moon faster than we could do so on Mars.&quot; The Moon is the production floor. Mars is the long game. Musk: &quot;If you warm up Mars, you could one day make Mars like Earth, meaning with liquid oceans and life and where you could walk outside without a spacesuit type of thing.&quot; Musk: &quot;I call Mars a fixer-upper of a planet, but it&apos;s got a lot of potential.&quot; A fixer-upper. That is how the richest person alive describes an entire planet. The rest of the industry is stuck negotiating permits for a single server farm. Musk is engineering a magnetic launch system on the Moon to fling compute into orbit. For ten thousand years, humans looked at the night sky and invented gods. Musk looks up and sees bandwidth. We assumed the whole point of spaceflight was discovery. It was always infrastructure. Earth was never the destination. It was the starting point. Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media Elon Musk, the richest man alive and co-founder of OpenAI, on AI: &quot;It has the potential of civilization destruction.&quot; Asked whether AI could reach a point where humans simply can&apos;t turn it off, he didn&apos;t pause. &quot;Yeah. Absolutely. That&apos;s definitely the way things are headed, for s…
 
 🔗 [View original post](https://x.com/AiEvolutio58513/status/2093655931993399702)
+
+---
+
+### 🕐 11:01 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/08/29/2093655270501105968-1.jpg)
+
+🔗 [View original post](https://x.com/apex_mentality_/status/2093655270501105968)
 
 ---
 
