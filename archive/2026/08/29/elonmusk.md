@@ -2,7 +2,17 @@
 
 ## 📅 August 29, 2026
 
-> 18 post(s) archived.
+> 19 post(s) archived.
+
+---
+
+### 🕐 21:17 UTC · @elonmusk
+
+> Consensus estimate is that ~15GW of AI compute produced in 2027 cannot be turned on in 2027. This is harder than just finding power, as you also need to build out all the transformers, wiring, liquid-cooling, (massive) chillers &amp; complex networking. https://grok.com/share/bGVnYWN5_4f06d401-90e9-4ed4-bad8-89e3b4fadde2
+
+![Consensus estimate is that ~15GW of AI compute produced in 2027 cannot be turned on in 2027. This is harder than just finding power, as you also need to build out all the transformers, wiring, liquid-](../../../../assets/images/2026/08/29/2093810234141634702-1.png)
+
+🔗 [View original post](https://x.com/elonmusk/status/2093810234141634702)
 
 ---
 

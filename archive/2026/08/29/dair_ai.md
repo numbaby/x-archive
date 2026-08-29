@@ -2,7 +2,17 @@
 
 ## 📅 August 29, 2026
 
-> 5 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 21:00 UTC · @dair_ai
+
+> Finally, a paper testing whether hiding your agent skill files actually protects them. The short answer is no. That&apos;s concerning. Worth reading if you sell access to a skill or share one across teams. This new paper discusses more: Daydreaming reconstructs a hosted multi-file skill using only the ordinary tasks the service exists to perform. The victim is never asked to reveal the skill or grade a reconstruction, so disclosure filters have nothing to catch. At the weakest access level, where the attacker sees only the final response and returned files, it recovers 86.8 percent of the original skill&apos;s capability across 7 skills and 4 victim models. That is roughly 4x SigLeak, at a median of 32 victim calls per skill, with disclosure defenses enabled. Paper: https://arxiv.org/abs/2608.26733 Chat with Paper: https://academy.dair.ai/papers/hidden-agent-skills-can-be-stolen-through-normal-use-2608.26733
+
+![Finally, a paper testing whether hiding your agent skill files actually protects them. The short answer is no. That&apos;s concerning. Worth reading if you sell access to a skill or share one across t](../../../../assets/images/2026/08/29/2093805947860967907-1.jpg)
+
+🔗 [View original post](https://x.com/dair_ai/status/2093805947860967907)
 
 ---
 
