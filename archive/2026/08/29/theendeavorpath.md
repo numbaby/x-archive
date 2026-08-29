@@ -2,7 +2,43 @@
 
 ## 📅 August 29, 2026
 
-> 1 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 14:43 UTC · @theendeavorpath
+
+> 7. Choose Progress Over Comfort Before avoiding something, ask: “Will this make my life better or only make this moment easier?” Comfort may feel good immediately, but repeatedly choosing it can keep you exactly where you are.
+
+🔗 [View original post](https://x.com/theendeavorpath/status/2093711246503870710)
+
+---
+
+### 🕐 14:43 UTC · @theendeavorpath
+
+> 8. Practice Staying You become stronger by proving you can handle difficult moments without immediately walking away. Start with manageable challenges, stay through the discomfort and gradually increase what you are willing to face.
+
+🔗 [View original post](https://x.com/theendeavorpath/status/2093711249079222690)
+
+---
+
+### 🕐 14:43 UTC · @theendeavorpath
+
+> How to Stop Running from Discomfort:
+
+![How to Stop Running from Discomfort:](../../../../assets/images/2026/08/29/2093711224701894929-1.jpg)
+
+🔗 [View original post](https://x.com/theendeavorpath/status/2093711224701894929)
+
+---
+
+### 🕐 14:26 UTC · @theendeavorpath
+
+> 14 Pictures With Deep Meaning.. 8th hits different 🪡 👇
+
+![14 Pictures With Deep Meaning.. 8th hits different 🪡 👇](../../../../assets/images/2026/08/29/2093706812394770665-1.jpg)
+
+🔗 [View original post](https://x.com/superior_hombre/status/2093706812394770665)
 
 ---
 
