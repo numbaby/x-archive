@@ -2,7 +2,7 @@
 
 ## 📅 August 29, 2026
 
-> 9 post(s) archived.
+> 10 post(s) archived.
 
 ---
 
@@ -27,6 +27,14 @@
 > Starlink now available in Equatorial Guinea Starlink&apos;s high-speed, low-latency internet is now available in Equatorial Guinea! 🛰️🇬🇶❤️ → https://starlink.com/equatorialguinea
 
 🔗 [View original post](https://x.com/elonmusk/status/2093597856846238177)
+
+---
+
+### 🕐 06:10 UTC · @elonmusk
+
+> One day, millions of people will look up at the Martian sky and call Mars home Starship is going to take us there And the roads, cities, factories and entire civilization built there all trace back to this machine Starship is how humanity becomes multiplanetary https://x.com/XFreeze/status/2061068019686945278/video/1 Media
+
+🔗 [View original post](https://x.com/XFreeze/status/2093581942776090896)
 
 ---
 
