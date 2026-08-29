@@ -2,7 +2,25 @@
 
 ## 📅 August 29, 2026
 
-> 5 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 16:58 UTC · @theendeavorpath
+
+> WE&apos;RE CURRENTLY BETWEEN 30-44, BUT STILL CONVINCED WE&apos;RE 25.
+
+![WE&apos;RE CURRENTLY BETWEEN 30-44, BUT STILL CONVINCED WE&apos;RE 25.](../../../../assets/images/2026/08/29/2093745033602367619-1.jpg)
+
+🔗 [View original post](https://x.com/EnergyUp_/status/2093745033602367619)
+
+---
+
+### 🕐 15:58 UTC · @theendeavorpath
+
+> What will you choose? 🫵 Media
+
+🔗 [View original post](https://x.com/stoicmen_/status/2093730091457269926)
 
 ---
 
