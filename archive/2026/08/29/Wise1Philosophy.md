@@ -2,7 +2,40 @@
 
 ## 📅 August 29, 2026
 
-> 34 post(s) archived.
+> 38 post(s) archived.
+
+---
+
+### 🕐 13:12 UTC · @Wise1Philosophy
+
+> YOU ARE NOT DEPRESSED. YOUR LIFE JUST HAS 0 SIDE QUESTS. Here are 33 side quests to complete before next month ends:
+
+🔗 [View original post](https://x.com/josh_uglyasf/status/2093688159343395320)
+
+---
+
+### 🕐 12:59 UTC · @Wise1Philosophy
+
+> Vibe coding struggles, captured perfectly in 60 seconds 😁 Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media Anthropic&apos;s CEO: &quot;CODING IS GOING AWAY FIRST, THEN ALL OF SOFTWARE ENGINEERING&quot;
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2093684874066702806)
+
+---
+
+### 🕐 12:44 UTC · @Wise1Philosophy
+
+> High cortisol is aging you faster than drinking and partying It also kills memory, makes you snap at people you love, and shrinks your hippocampus. Here are 7 ways to reduce high cortisol: 1. Sunlight on skin in the first 30 minutes.
+
+🔗 [View original post](https://x.com/CoachDanCole_/status/2093681108223447432)
+
+---
+
+### 🕐 12:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/08/29/2093677631841452346-1.jpg)
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2093677631841452346)
 
 ---
 
