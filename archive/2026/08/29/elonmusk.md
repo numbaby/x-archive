@@ -2,7 +2,39 @@
 
 ## 📅 August 29, 2026
 
-> 2 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 05:50 UTC · @elonmusk
+
+> The AI riptide is already underway a surprise I think is coming the quick payback periods and extraordinarily high IRR for AI infrastructure, even at monumental scale, will push up cost of capital sufficient to push many traditional businesses into the abyss, even those without obvious direct AI counter-exposure
+
+🔗 [View original post](https://x.com/elonmusk/status/2093577089957994826)
+
+---
+
+### 🕐 05:41 UTC · @elonmusk
+
+> Starship Flight 14 Full duration 33-engine static fire with the Super Heavy booster preparing for Flight 14
+
+🔗 [View original post](https://x.com/elonmusk/status/2093574820193554557)
+
+---
+
+### 🕐 05:38 UTC · @elonmusk
+
+> Nice Ask Grok: &quot;Create a Magic: The Gathering creature card of me based on my post history.&quot; I love the spider wasps! And the nuance in the abilities is also impressive. In Magic, Ward is an ability that taxes your opponent whenever they try to target the card. Seems like this related…
+
+🔗 [View original post](https://x.com/elonmusk/status/2093574002652397638)
+
+---
+
+### 🕐 05:38 UTC · @elonmusk
+
+> 🚀🚀 Cursor has been a trusted partner of Anthropic since Sonnet 3.5. We’ll continue to increase compute to support Claude models in Cursor and are excited for what comes next with them at SpaceX.
+
+🔗 [View original post](https://x.com/elonmusk/status/2093573877330739459)
 
 ---
 
