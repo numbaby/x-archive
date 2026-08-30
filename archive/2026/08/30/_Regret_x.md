@@ -2,7 +2,26 @@
 
 ## 📅 August 30, 2026
 
-> 4 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 05:39 UTC · @_Regret_x
+
+> My mutuals !!! We’re all hate watching Chelsea and Man U today, right ?
+
+![My mutuals !!! We’re all hate watching Chelsea and Man U today, right ?](../../../../assets/images/2026/08/30/2093936590317908476-1.jpg)
+
+🔗 [View original post](https://x.com/BigAlfah/status/2093936590317908476)
+
+---
+
+### 🕐 04:56 UTC · @_Regret_x
+
+
+![](../../../../assets/images/2026/08/29/2093667655865835939-1.jpg)
+
+🔗 [View original post](https://x.com/_Regret_x/status/2093925735157428288)
 
 ---
 

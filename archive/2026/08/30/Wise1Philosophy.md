@@ -2,7 +2,15 @@
 
 ## 📅 August 30, 2026
 
-> 9 post(s) archived.
+> 10 post(s) archived.
+
+---
+
+### 🕐 05:28 UTC · @Wise1Philosophy
+
+> Tencent just dropped Hy4 preview, and it&apos;s officially open source now. 770B total params, 49B active, 1M+ token context. three major releases in six months, and this one just landed in the top tier of open source models. → Built through Tencent&apos;s co-design loop: training data shaped with experts across software engineering, gaming, finance, and security, then built directly alongside products like WorkBuddy → In a blind test with 163 internal experts across 203 engineering tasks, it scored 2.99/4, ahead of GLM 5.3 at 2.92 and Kimi K3 at 2.94 → Benchmarks put it clearly past GLM 5.2 and neck and neck with GLM 5.3 → Pricing stayed low: $0.834/M input, $2.501/M output, $0.042/M cache hits I asked it to write a weekly status update email template for a team lead, then generate a filled-out example with placeholder projects, and export both as Word docs. one prompt, no follow-up, and it handed back both files clean and ready to send. free to try for the next two weeks through WorkBuddy: https://www.workbuddy.ai/ @TencentHunyuan @TencentAI_News @WorkBuddy_AI Media
+
+🔗 [View original post](https://x.com/Damn_coder/status/2093933838032658633)
 
 ---
 
