@@ -2,7 +2,116 @@
 
 ## 📅 August 30, 2026
 
-> 28 post(s) archived.
+> 41 post(s) archived.
+
+---
+
+### 🕐 12:50 UTC · @Wise1Philosophy
+
+> Walking = losing weight Walking = lowering blood sugar Walking = reducing your risk of early death. 8 simple rules you must follow: 1. Don&apos;t chase 10,000 steps Media
+
+🔗 [View original post](https://x.com/MagnusLindbrg/status/2094044996995617064)
+
+---
+
+### 🕐 12:49 UTC · @Wise1Philosophy
+
+> We’re using AI agents all wrong. Right now, we treat them like vending machines. Put a prompt in, cross your fingers, get a result. But if you need that exact same result next week? You&apos;re starting from scratch. You end up wasting tokens on the exact same task just to get a slightly different answer. It’s basically intelligent déjà vu. I&apos;m joining the @modiqoai Rote Playoffs this week because they actually fixed this. Instead of guessing, their &apos;Rote&apos; engine traces exactly how your agent uses the browser, shell, and APIs. Once your agent finally gets a task right, Rote packages that exact winning path into a reusable &quot;Play.&quot; You figure out the hard stuff once, keep the method, and move on. The hackathon runs Sept 1-6. The challenge: pick the absolute most annoying workflow in your life right now, and automate it. Don&apos;t overthink it. Just steer your agent normally, correct it when it fails, and let Rote record the trace. Top submissions win a MacBook Pro or an iPhone 17. But honestly, the real prize is just automating your worst task forever. Timeline: → Now: complete the warm-up → Sept 1, 4pm UK: kickoff → Sept 6, 8pm UK: deadline Get the warm-up done today so you aren&apos;t troubleshooting your setup while everyone else is already building. I&apos;m in. Let&apos;s get hacking. Register and start the warm-up: https://devtoolsacademy.link/chid Media
+
+🔗 [View original post](https://x.com/thetripathi58/status/2094044934726951020)
+
+---
+
+### 🕐 12:49 UTC · @Wise1Philosophy
+
+> Supplements worth your money to boost testosterone after 35: 1. Take zinc in the morning. Magnesium at night. Vitamin D with your first meal. Do it for 30 days and tell me your energy, your sleep and your mood didn&apos;t completely shift...
+
+🔗 [View original post](https://x.com/CoachWillStone/status/2094044749879705702)
+
+---
+
+### 🕐 12:38 UTC · @Wise1Philosophy
+
+> A heart doctor once admitted: “There are 3 types of people who never get heart attacks.” 1. You don&apos;t get up at 3 AM to pee Media
+
+🔗 [View original post](https://x.com/RafaelNasriX/status/2094041965528768690)
+
+---
+
+### 🕐 12:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/08/30/2094040021955178902-1.jpg)
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2094040021955178902)
+
+---
+
+### 🕐 12:30 UTC · @Wise1Philosophy
+
+> 9 SIGNS YOUR CORTISOL HAS SHOT THROUGH THE ROOF (&amp; YOU DON’T EVEN REALISE IT): 1. Your eyelid keeps twitching Media
+
+🔗 [View original post](https://x.com/CoachJulianNiko/status/2094039948299276681)
+
+---
+
+### 🕐 12:22 UTC · @Wise1Philosophy
+
+> I don&apos;t feel we talk enough about this. A few years ago, this Chinese live streamer made $18.7M over 7 days, by promoting products for 3 seconds only. Media
+
+🔗 [View original post](https://x.com/Scottvdberg/status/2094038052058390802)
+
+---
+
+### 🕐 12:20 UTC · @Wise1Philosophy
+
+> 4 supplements I am getting my aging parents to take: 1. Creatine. You should take it, your friends should take it, your parents should take it. 5g a day, forever. No loading phase. Media
+
+🔗 [View original post](https://x.com/TinaaDeJong/status/2094037447151927445)
+
+---
+
+### 🕐 12:11 UTC · @Wise1Philosophy
+
+> Signs of insulin resistance (&amp; you don&apos;t realize it): 1. Foam in the bowl when you pee
+
+![Signs of insulin resistance (&amp; you don&apos;t realize it): 1. Foam in the bowl when you pee](../../../../assets/images/2026/08/26/2092409196604190977-1.jpg)
+
+🔗 [View original post](https://x.com/JasperKasparov/status/2094035157510656398)
+
+---
+
+### 🕐 12:01 UTC · @Wise1Philosophy
+
+> Cortisol = facial fat gain. If cortisol stays high, fat-loss is impossible. These are the science cheat-codes that lower cortisol: 1. Stop fasting
+
+🔗 [View original post](https://x.com/CoachLucHerrera/status/2094032637375717467)
+
+---
+
+### 🕐 11:57 UTC · @Wise1Philosophy
+
+> Losing fat in your hips and belly is very easy once you know this:
+
+🔗 [View original post](https://x.com/josh_uglyasf/status/2094031714800812171)
+
+---
+
+### 🕐 11:55 UTC · @Wise1Philosophy
+
+> Harvard researchers now know how to grow hair back. By age 35, 2 out of 3 men are losing their hair (regardless of genetics). Here are 7 ways to grow yours back (&amp; keep it black): 1. Your follicles are dormant, not dead
+
+![Harvard researchers now know how to grow hair back. By age 35, 2 out of 3 men are losing their hair (regardless of genetics). Here are 7 ways to grow yours back (&amp; keep it black): 1. Your follicle](../../../../assets/images/2026/08/26/2092663914353823807-1.png)
+
+🔗 [View original post](https://x.com/Marc0sRomano/status/2094031132945969586)
+
+---
+
+### 🕐 11:49 UTC · @Wise1Philosophy
+
+> Your body will forgive you for: -Skipping a workout -Eating pizza -Sleeping poorly one night -Losing motivation Your body WILL NOT forgive you for:
+
+🔗 [View original post](https://x.com/BeBetterMan_/status/2094029858502594657)
 
 ---
 
