@@ -10,9 +10,9 @@ import xml.etree.ElementTree as ET
 
 ROOT = Path(__file__).resolve().parent
 
-# Since it's 2026-08-29 00:00 UTC, we need posts since 2026-08-29 00:00:00 UTC
+# Since it's 2026-08-31 00:00 UTC, we need posts since 2026-08-31 00:00:00 UTC
 # UPDATE THIS BEFORE EACH RUN
-CUTOFF = datetime(2026, 8, 29, 0, 0, 0, tzinfo=timezone.utc)
+CUTOFF = datetime(2026, 8, 31, 0, 0, 0, tzinfo=timezone.utc)
 
 PROFILES_URL = "https://raw.githubusercontent.com/numbaby/profile_list_on_x/main/profiles.json"
 
