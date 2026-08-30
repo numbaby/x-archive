@@ -2,7 +2,15 @@
 
 ## 📅 August 30, 2026
 
-> 6 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 07:32 UTC · @elonmusk
+
+> Which frontier AI model company is most likely to create an AI that causes serious harm?
+
+🔗 [View original post](https://x.com/WR4NYGov/status/2093965160566411505)
 
 ---
 
