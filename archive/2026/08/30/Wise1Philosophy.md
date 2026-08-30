@@ -2,7 +2,33 @@
 
 ## 📅 August 30, 2026
 
-> 65 post(s) archived.
+> 70 post(s) archived.
+
+---
+
+### 🕐 17:53 UTC · @Wise1Philosophy
+
+> 🚨 Un robot quirúrgico cuesta alrededor de 2 MILLONES de dólares. En Pekín han desarrollado uno por 200.000. ¡10 veces más barato! Mira que precisión milimétrica pelando la cáscara de un huevo de codorniz y dejando la membrana intacta... Media
+
+🔗 [View original post](https://x.com/MiguelMaestroIA/status/2094121276436558071)
+
+---
+
+### 🕐 17:22 UTC · @Wise1Philosophy
+
+> STOP ASKING YOUR SON &quot;HOW WAS SCHOOL.&quot; He will say &quot;fine&quot; every single time. A child psychologist told me to replace it with one of these 4 instead:
+
+🔗 [View original post](https://x.com/josh_uglyasf/status/2094113505234608422)
+
+---
+
+### 🕐 17:15 UTC · @Wise1Philosophy
+
+> ⚙️ A single faulty sensor in the Boeing 737 MAX led to 346 deaths. This thread explores why brilliant engineering fails, like how Concorde&apos;s perfect tech was grounded by bad economics. What&apos;s the biggest &apos;failure&apos; that was a necessary step for progress?
+
+![⚙️ A single faulty sensor in the Boeing 737 MAX led to 346 deaths. This thread explores why brilliant engineering fails, like how Concorde&apos;s perfect tech was grounded by bad economics. What&apos;](../../../../assets/images/2026/08/30/2094111662039286231-1.jpg)
+
+🔗 [View original post](https://x.com/Claritysteps/status/2094111662039286231)
 
 ---
 
@@ -144,12 +170,28 @@
 
 ---
 
+### 🕐 13:36 UTC · @Wise1Philosophy
+
+> High cortisol is aging you faster than cigarettes or drink. Grey hair, poor sleep, sore joints, dull drive. Here are 8 natural ways to lower it down: 1. Saunas
+
+🔗 [View original post](https://x.com/RasmusNorbergg/status/2094056544161915309)
+
+---
+
 ### 🕐 13:30 UTC · @Wise1Philosophy
 
 
 ![](../../../../assets/images/2026/08/30/2094055112696049994-1.jpg)
 
 🔗 [View original post](https://x.com/Mindsthatbuild/status/2094055112696049994)
+
+---
+
+### 🕐 13:20 UTC · @Wise1Philosophy
+
+> Cortisol = the belly fat. Cortisol = a puffy face. Cortisol = your hair loss. Cortisol = collagen gone too. Cortisol = the libido gone. Cortisol = your sleep destroyed. That hormone. Each symptom. Here&apos;s what actually fixed it:
+
+🔗 [View original post](https://x.com/HeyKimChong/status/2094052518125031802)
 
 ---
 

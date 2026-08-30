@@ -2,7 +2,65 @@
 
 ## 📅 August 30, 2026
 
-> 14 post(s) archived.
+> 22 post(s) archived.
+
+---
+
+### 🕐 20:10 UTC · @elonmusk
+
+> I was able to edit and enhance a very specific video clip https://grok.com/share/bGVnYWN5_0e357843-9f62-4e7d-b5dc-770b7ad8f302
+
+![I was able to edit and enhance a very specific video clip https://grok.com/share/bGVnYWN5_0e357843-9f62-4e7d-b5dc-770b7ad8f302](../../../../assets/images/2026/08/29/2093810234141634702-1.png)
+
+🔗 [View original post](https://x.com/elonmusk/status/2094155810234335302)
+
+---
+
+### 🕐 19:38 UTC · @elonmusk
+
+> Try Tesla self-driving. It will improve your quality of life and may save your life. As someone who hates driving and lives in LA, FSD has had a disproportionately positive impact on my quality of life. It’s basically Xanax for the 405.
+
+🔗 [View original post](https://x.com/elonmusk/status/2094147647678431561)
+
+---
+
+### 🕐 19:36 UTC · @elonmusk
+
+> Should say that I personally still find the @Grok app more useful for some tasks than @Bot. Worth trying it out on super tough tasks if you haven’t in a while. https://apps.apple.com/app/id6670324846
+
+🔗 [View original post](https://x.com/elonmusk/status/2094147282434211869)
+
+---
+
+### 🕐 19:20 UTC · @elonmusk
+
+> @cremieuxrecueil Media
+
+🔗 [View original post](https://x.com/elonmusk/status/2094143117507108869)
+
+---
+
+### 🕐 18:24 UTC · @elonmusk
+
+> How to share your Grok @Bot design with others Grok Bot templates are the first widely available way to share knowledge work. A template is a collection of skills, memories, and plugins - you could even call it a &apos;blueprint&apos; or a &apos;workflow&apos; You can teach a bot about your domain and send it to someone as a link. This will fund…
+
+🔗 [View original post](https://x.com/elonmusk/status/2094129094673735922)
+
+---
+
+### 🕐 17:42 UTC · @elonmusk
+
+> I hope you like this short (very realistic) film that my son made using Grok Imagine Grok Imagine and kids are a winning combo We adults have certain hangups when it comes to using AI that the next generation won&apos;t even consider. They&apos;ll just be creating Media
+
+🔗 [View original post](https://x.com/KettlebellDan/status/2094118586147029070)
+
+---
+
+### 🕐 17:00 UTC · @elonmusk
+
+> Been building out my army of personal assistant bots using (@bot). Thus far I have a: - House bot - keeps track of everything related to properties: taxes, HOA fees, maintenance, assessment values etc. It can email / call / schedule things as needed on my behalf. - Finance bot - this one needs work. I wish there was a Plaid integration for Grok bot. But the goal is to track spend. Right now it&apos;s not really doing much ... - LP bot - manages all paperwork personal LP investments - Family bot - I&apos;ve already gotten in trouble with this one. But it helps me make sure I&apos;m making enough space and time for my family. Checks my calendar, makes sure I have enough time for wife, kids etc. - News bot - aggregates news from X, traditional media etc. - Manager bot - helps manage all the other bots. Reports activity, and distributes tasks. This is all still experimental. But if it turns out to work well, will make the templates public.
+
+🔗 [View original post](https://x.com/martin_casado/status/2094107975057330298)
 
 ---
 
@@ -75,6 +133,14 @@
 > Which frontier AI model company is most likely to create an AI that causes serious harm?
 
 🔗 [View original post](https://x.com/WR4NYGov/status/2093965160566411505)
+
+---
+
+### 🕐 07:02 UTC · @elonmusk
+
+> &quot;Elon Musk is not a danger to democracy, George Soros is.” @GiorgiaMeloni Media
+
+🔗 [View original post](https://x.com/teslaownersSV/status/2093957413963796764)
 
 ---
 
