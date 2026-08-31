@@ -2,7 +2,17 @@
 
 ## 📅 August 31, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 07:15 UTC · @_akhaliq
+
+> People have reported issues on https://paperswithcode.co/chat to me Apologies! Working on a more scalable architecture Should I just open-source the code base so we can collectively improve it?
+
+![People have reported issues on https://paperswithcode.co/chat to me Apologies! Working on a more scalable architecture Should I just open-source the code base so we can collectively improve it?](../../../../assets/images/2026/08/31/2094323113810907170-1.jpg)
+
+🔗 [View original post](https://x.com/NielsRogge/status/2094323113810907170)
 
 ---
 
