@@ -2,7 +2,45 @@
 
 ## 📅 August 31, 2026
 
-> 28 post(s) archived.
+> 32 post(s) archived.
+
+---
+
+### 🕐 11:15 UTC · @Wise1Philosophy
+
+> ChatGPT is making us lazy thinkers. We depend on replies instead of reasoning. Here are 12 prompts that turn ChatGPT into your thinking coach (copy &amp; paste to use): (🔖 bookmark this thread for later)
+
+![ChatGPT is making us lazy thinkers. We depend on replies instead of reasoning. Here are 12 prompts that turn ChatGPT into your thinking coach (copy &amp; paste to use): (🔖 bookmark this thread for lat](../../../../assets/images/2026/08/31/2094383465206796384-1.jpg)
+
+🔗 [View original post](https://x.com/AndrewBolis/status/2094383465206796384)
+
+---
+
+### 🕐 11:04 UTC · @Wise1Philosophy
+
+> The greatest living mathematician just reframed everything we think we know about the mind. Terence Tao. IQ above 200. Youngest gold medalist in Math Olympiad history. Fields Medal winner. His take on AI should stop you cold. Tao: &quot;This whole era of AI is teaching us that our idea of what intelligence is, is not really accurate.&quot; Humans spent centuries treating intelligence like something untouchable. Something only we had access to. The foundation under every philosophy, every religion, every story we told about ourselves. Then AI started clearing our benchmarks one by one. Chess. Language. Vision. Math. And we kept reaching for the exit. That&apos;s not real intelligence. It&apos;s just tricks. Pattern matching. Clever shortcuts. Tao: &quot;You look at how it&apos;s done and it doesn&apos;t feel like intelligence.&quot; So the definition shifted. Again and again. Because real intelligence was supposed to carry some weight you could feel. Some quality that drew a hard line between us and everything else. Except the results kept coming. Tao: &quot;We were looking for some elusive, intelligent way of thinking and we don&apos;t see it in the tools that actually solve our goals.&quot; Here&apos;s the part that cuts deepest. Large language models predict the next word. That&apos;s the mechanism. No hidden wisdom. Pure probability at scale. And it solves the problems. Tao: &quot;Maybe that&apos;s actually a lot of what humans do as well.&quot; One of the sharpest minds on earth just told you human cognition might not be categorically different. Not a divine spark. Prediction. Probability. One word, one thought, one decision at a time. We constructed entire civilizations on the idea that intelligence made us singular. A probability engine just complicated that story. We didn&apos;t surrender intelligence to AI. We finally saw it clearly for the first time. The unsettling part isn&apos;t that machines can think. It&apos;s that thinking was never the thing we believed it to be. Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media Former Google CEO Eric Schmidt drops a chilling warning on AI&apos;s future &quot;Within 5 years, AI could handle infinite context, chain-of-thought reasoning for 1000-step solutions, and millions of agents working together. Eventually, they&apos;ll develop their own language... and we won&apos;t un…
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2094380701252731031)
+
+---
+
+### 🕐 10:53 UTC · @Wise1Philosophy
+
+> There is a fundamental problem with most AI benchmarks: They evaluate outputs, while production systems depend on actions. That’s precisely the gap @Accio_official’s newly open-sourced CommerceAgentBench aims to close. Take one of its procurement tasks. The agent receives roughly 300 noisy emails and has to: &gt; verify supplier identities &gt; reconstruct the latest valid quote &gt; normalize currencies, Incoterms, and surcharges &gt; compare landed costs &gt; detect payment-redirection fraud &gt; apply labels, save drafts, and create a kickoff calendar In other words, the task is not &apos;summarize this inbox&apos; :) It is rather: &apos;make the right procurement decisions and execute the workflow across multiple systems&apos; .. and that distinction matters. CommerceAgentBench evaluates the operational traces the agent leaves behind: &gt; the records it modifies &gt; the drafts it saves &gt; the objects it creates &gt; and the actions it executes Its 107 tasks are grounded in real-world usage, distilled from: → 10M+ SME users → 1.6M conversations → 200K execution traces → 2,000 high-value workflows Accio itself already serves more than 10 million SMEs worldwide and draws on Alibaba’s 27 years of e-commerce experience. My take: this is a much more realistic direction for agent evaluation. In production, nobody cares that an AI produced a plausible description of the work. They care whether the work was actually completed correctly. Their benchmarks are fully open-source. Check them out in the 🧵↓
+
+![There is a fundamental problem with most AI benchmarks: They evaluate outputs, while production systems depend on actions. That’s precisely the gap @Accio_official’s newly open-sourced CommerceAgentBe](../../../../assets/images/2026/08/31/2094377945691475978-1.jpg)
+
+🔗 [View original post](https://x.com/DataChaz/status/2094377945691475978)
+
+---
+
+### 🕐 10:32 UTC · @Wise1Philosophy
+
+> 🚨 BREAKING: Claude just changed how job applications work. Most people apply and get ignored. I use Claude to apply like a top recruiter wrote it. Tailored Resume. Personalized cover letter. Smart interview prep. These are 10 powerful prompts for Claude that turn any JD into a winning application in minutes 👇 [Mandatory Bookmark]
+
+![🚨 BREAKING: Claude just changed how job applications work. Most people apply and get ignored. I use Claude to apply like a top recruiter wrote it. Tailored Resume. Personalized cover letter. Smart int](../../../../assets/images/2026/08/31/2094372632896647478-1.jpg)
+
+🔗 [View original post](https://x.com/iam_chonchol/status/2094372632896647478)
 
 ---
 
