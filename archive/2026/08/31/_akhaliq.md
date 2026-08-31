@@ -2,7 +2,27 @@
 
 ## 📅 August 31, 2026
 
-> 4 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 13:47 UTC · @_akhaliq
+
+> 10,000+ microducks were pre-ordered in just five days! We weren&apos;t expecting that many (it&apos;s more than the total number of reachy mini in a year) and it will generate delays so from now on, it will be first-ordered, first shipped to make it fair for everyone!
+
+![10,000+ microducks were pre-ordered in just five days! We weren&apos;t expecting that many (it&apos;s more than the total number of reachy mini in a year) and it will generate delays so from now on, i](../../../../assets/images/2026/08/31/2094421922159210979-1.jpg)
+
+🔗 [View original post](https://x.com/ClementDelangue/status/2094421922159210979)
+
+---
+
+### 🕐 11:26 UTC · @_akhaliq
+
+> Weights open: https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp DeepSeek-V4-Flash-Vision-Exp is now live on the DeepSeek API Platform! 🚀 🔹 This experimental multimodal model matches DeepSeek-V4-Flash on text capabilities—including agents, reasoning, and world knowledge. 🔹 On multimodal agent benchmarks, V4-Flash-Vision-Exp makes a major le…
+
+![Weights open: https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp DeepSeek-V4-Flash-Vision-Exp is now live on the DeepSeek API Platform! 🚀 🔹 This experimental multimodal model matches Deep](../../../../assets/images/2026/08/31/2094386230675062836-1.jpg)
+
+🔗 [View original post](https://x.com/zizhpan/status/2094386230675062836)
 
 ---
 

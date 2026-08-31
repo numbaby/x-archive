@@ -2,7 +2,49 @@
 
 ## 📅 August 31, 2026
 
-> 61 post(s) archived.
+> 71 post(s) archived.
+
+---
+
+### 🕐 14:19 UTC · @Wise1Philosophy
+
+> Stop wasting money on subscriptions you barely use: • Netflix • Duolingo • Tinder Gold • ChatGPT Pro • LinkedIn Premium Cancel them and pay for these instead:
+
+🔗 [View original post](https://x.com/AriaWestcott/status/2094429997788258636)
+
+---
+
+### 🕐 14:18 UTC · @Wise1Philosophy
+
+> Making money with Canva is your lottery ticket to financial freedom. Like and comment &apos;Canva&apos; and I&apos;ll send you the FREE step-by-step guide. You must be following me to receive DM now. FREE for the next 24 hours only.
+
+![Making money with Canva is your lottery ticket to financial freedom. Like and comment &apos;Canva&apos; and I&apos;ll send you the FREE step-by-step guide. You must be following me to receive DM now. ](../../../../assets/images/2026/08/31/2094429519432298605-1.png)
+
+🔗 [View original post](https://x.com/heyadam_ai/status/2094429519432298605)
+
+---
+
+### 🕐 14:03 UTC · @Wise1Philosophy
+
+> Nobel Prize-winning physicist Roger Penrose thinks we&apos;ve been using the wrong word for decades, and the wrong word is quietly warping how we think. His argument is straightforward but hits hard: &quot;The name is wrong. It&apos;s not artificial intelligence. It&apos;s not intelligence. Intelligence would involve consciousness. Well, if it&apos;s a machine, it&apos;s not conscious.&quot; For Penrose, the field confused raw computational muscle with actual understanding. &quot;People have lost the plot. They&apos;ve lost it in the power of computing. The thing is that computers have got so powerful that they&apos;ve lost the thread of what they&apos;re doing. But I think consciousness is something different. It&apos;s not computational.&quot; The label itself, he thinks, has put people into a kind of trance: &quot;People are so hypnotized. The trouble is that AI is a bad term. It means artificial intelligence. Now intelligence in my view is conscious. That&apos;s what intelligence is about.&quot; His proposed fix: call it Artificial Cleverness. AC, not AI. He draws the line using math students as an example: &quot;You have mathematics students. Some of them understand what they&apos;re doing. Some are just clever. They can repeat what they&apos;ve learned. They know how to do it very cleverly. They can calculate very well, but they don&apos;t necessarily understand what they&apos;re doing.&quot; That gap between calculating and understanding is exactly the gap between today&apos;s systems and real intelligence. Cleverness can be engineered. Consciousness, Penrose argues, cannot. Worth sitting with: when you call a system intelligent, are you describing what it does, or silently assuming something about what it is? Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media Jimmy Carr channeling Peter Thiel with something worth sitting with: &quot;Minus the screens from any room, we&apos;re still living in the 1970s. Nothing&apos;s happened in physics since 1972. String theory has not got us anywhere.&quot; But here&apos;s where it gets interesting: &quot;Take the compute power …
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2094425762908758473)
+
+---
+
+### 🕐 14:00 UTC · @Wise1Philosophy
+
+> BREAKING: A famous stock expert secretly made $20 MILLION off his own fans. Millions trusted him on live television for years... But secretly, he himself was doing something very different. Today a judge decides how long he pays for it. Here is how the scam unfolded: The expert is Andrew Left, the man behind Citron Research. He was a regular guest on CNBC, Fox Business, and Bloomberg. When he spoke, millions of small investors listened. His words could move a stock within minutes. Citron had a massive following online. One post could swing a price in seconds. Here is what he did with that power. He would pick a stock and write dramatic commentary. Before posting it, he quietly placed his own bets. Then he told the public to buy, or to sell. The crowd rushed in and moved the price. Left cashed out fast, often within the same hour. He often used fast bets that paid off in days. His fans were left holding the bag. Take his call on Nvidia back in 2018. He first messaged a hedge fund friend a plan. &quot;Do you want to make some fast money?&quot; Then he bought in and hyped Nvidia to his followers. He told them the stock would climb to $165. Less than two hours later, he sold everything. He dumped it all near $150 for the quick win. That single trade made him about $960,000. Nvidia slipped the next day, after he was gone. He ran this same play on 23 different companies. He did it over and over for five years. In all, he pocketed more than twenty million dollars. Regular investors on the other side ate the losses. He also hid the hedge funds paying him behind the scenes. He even told investigators he never coordinated with them. That was a lie, and the jury saw through it. He pulled the same move on live television. He called one company a fraud on CNBC. He swore he had barely sold any shares. He had already dumped most of them that morning. A jury convicted him on thirteen counts of fraud. The trial ran fifteen days before that verdict. Left says he never lied and plans to appeal. Prosecutors say he used TV to hide his intent. The FBI spent years building the case. Today a judge decides how many years he serves. He faces up to twenty-five years in prison. He is the first short seller convicted this way. His conviction rattled the short selling world. The same voice millions trusted was betting against them. The same expert who named a target dumped far below it. The same man who cried fraud became the fraud. A famous expert made millions tricking his own fans. He told them to buy and sold the very same stocks. Today he learns the price of the trick. Media
+
+🔗 [View original post](https://x.com/InsiderTrackers/status/2094425164264177851)
+
+---
+
+### 🕐 13:58 UTC · @Wise1Philosophy
+
+> If you want to make money with AI: • Don&apos;t vibe code a SaaS • Don&apos;t start a personal brand • Don&apos;t sell AI automations to businesses Start an agency and let AI help you do the work. Here&apos;s exactly how it works:
+
+🔗 [View original post](https://x.com/iamcamengland/status/2094424499999355139)
 
 ---
 
@@ -21,6 +63,15 @@
 ![AI search-referred visitors now convert 42% better than non-AI search referred traffic. They also generate 37% more revenue per visit. A year ago, AI traffic converted 38% worse than traditional traff](../../../../assets/images/2026/08/31/2094418909579604152-1.png)
 
 🔗 [View original post](https://x.com/alexgroberman/status/2094418909579604152)
+
+---
+
+### 🕐 13:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/08/31/2094417624297799798-1.jpg)
+
+🔗 [View original post](https://x.com/Mindsthatbuild/status/2094417624297799798)
 
 ---
 
@@ -235,6 +286,15 @@
 
 ---
 
+### 🕐 11:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/08/31/2094387319235072031-1.jpg)
+
+🔗 [View original post](https://x.com/Daily__wisdom_/status/2094387319235072031)
+
+---
+
 ### 🕐 11:15 UTC · @Wise1Philosophy
 
 > ChatGPT is making us lazy thinkers. We depend on replies instead of reasoning. Here are 12 prompts that turn ChatGPT into your thinking coach (copy &amp; paste to use): (🔖 bookmark this thread for later)
@@ -250,6 +310,15 @@
 > The greatest living mathematician just reframed everything we think we know about the mind. Terence Tao. IQ above 200. Youngest gold medalist in Math Olympiad history. Fields Medal winner. His take on AI should stop you cold. Tao: &quot;This whole era of AI is teaching us that our idea of what intelligence is, is not really accurate.&quot; Humans spent centuries treating intelligence like something untouchable. Something only we had access to. The foundation under every philosophy, every religion, every story we told about ourselves. Then AI started clearing our benchmarks one by one. Chess. Language. Vision. Math. And we kept reaching for the exit. That&apos;s not real intelligence. It&apos;s just tricks. Pattern matching. Clever shortcuts. Tao: &quot;You look at how it&apos;s done and it doesn&apos;t feel like intelligence.&quot; So the definition shifted. Again and again. Because real intelligence was supposed to carry some weight you could feel. Some quality that drew a hard line between us and everything else. Except the results kept coming. Tao: &quot;We were looking for some elusive, intelligent way of thinking and we don&apos;t see it in the tools that actually solve our goals.&quot; Here&apos;s the part that cuts deepest. Large language models predict the next word. That&apos;s the mechanism. No hidden wisdom. Pure probability at scale. And it solves the problems. Tao: &quot;Maybe that&apos;s actually a lot of what humans do as well.&quot; One of the sharpest minds on earth just told you human cognition might not be categorically different. Not a divine spark. Prediction. Probability. One word, one thought, one decision at a time. We constructed entire civilizations on the idea that intelligence made us singular. A probability engine just complicated that story. We didn&apos;t surrender intelligence to AI. We finally saw it clearly for the first time. The unsettling part isn&apos;t that machines can think. It&apos;s that thinking was never the thing we believed it to be. Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media Former Google CEO Eric Schmidt drops a chilling warning on AI&apos;s future &quot;Within 5 years, AI could handle infinite context, chain-of-thought reasoning for 1000-step solutions, and millions of agents working together. Eventually, they&apos;ll develop their own language... and we won&apos;t un…
 
 🔗 [View original post](https://x.com/AiEvolutio58513/status/2094380701252731031)
+
+---
+
+### 🕐 11:01 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/08/31/2094380155296710852-1.jpg)
+
+🔗 [View original post](https://x.com/apex_mentality_/status/2094380155296710852)
 
 ---
 
@@ -280,6 +349,15 @@
 ![🚨 BREAKING: Claude just changed how job applications work. Most people apply and get ignored. I use Claude to apply like a top recruiter wrote it. Tailored Resume. Personalized cover letter. Smart int](../../../../assets/images/2026/08/31/2094372632896647478-1.jpg)
 
 🔗 [View original post](https://x.com/iam_chonchol/status/2094372632896647478)
+
+---
+
+### 🕐 10:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/08/31/2094372211817611312-1.jpg)
+
+🔗 [View original post](https://x.com/yeti_mind/status/2094372211817611312)
 
 ---
 
@@ -532,5 +610,13 @@
 ![You can earn $500 per day if you have: 1. A laptop 2. Wi-Fi 3. Time Here are 10 Claude prompts that pay you daily:](../../../../assets/images/2026/08/29/2093702667742871855-1.png)
 
 🔗 [View original post](https://x.com/heyalexmoore/status/2094291631721861466)
+
+---
+
+### 🕐 04:31 UTC · @Wise1Philosophy
+
+> 90+ minutes down to 10-12 minutes A checklist remembers the work. It doesn’t do the work. Every new partner used to trigger 10–12 onboarding steps for us: Folder documents Tracker entry Reporting schedule Welcome email Questions We had everything documented. Still took us 90+ minutes every close. And once, we missed the tracker entry completely. The partner never got their first report. Now when a deal closes, we send Viktor one message: “Run the new-partner onboarding checklist.” He creates the folder, kickoff doc, tracker entry, reporting schedule, and drafts the welcome email + intake questions. Then he holds the email for my final approval. 10–12 minutes later, ready to go We review one email and send. 90+ minutes → one message. Writing down a process is easy. Running it correctly every single time is the hard part. Your checklist can’t do that. An AI employee can. Hire @viktor_com for your team. $100 in credits included, no card. Full link in first comment. Paid Partnership Media
+
+🔗 [View original post](https://x.com/sufyanmaan/status/2094281988366897601)
 
 ---

@@ -2,7 +2,15 @@
 
 ## 📅 August 31, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 14:44 UTC · @simonw
+
+> Question for people who run autoreply bots here: are you not worried about the negative impact they have on your professional reputation? Anyone checking your profile here - a potential future employer for example - will instantly be able to tell you automated replies with a bot
+
+🔗 [View original post](https://x.com/simonw/status/2094436273146749076)
 
 ---
 
