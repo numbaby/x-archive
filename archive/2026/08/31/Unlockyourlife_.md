@@ -2,7 +2,15 @@
 
 ## 📅 August 31, 2026
 
-> 20 post(s) archived.
+> 21 post(s) archived.
+
+---
+
+### 🕐 12:08 UTC · @Unlockyourlife_
+
+> How to fix a scratch Media
+
+🔗 [View original post](https://x.com/_learnskills/status/2094396930310783486)
 
 ---
 
