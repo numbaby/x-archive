@@ -2,7 +2,75 @@
 
 ## 📅 August 31, 2026
 
-> 21 post(s) archived.
+> 28 post(s) archived.
+
+---
+
+### 🕐 12:50 UTC · @Unlockyourlife_
+
+> Exercise isn’t supposed to punish your body. You’re giving it a reason to become stronger, fitter and more capable. Train with purpose. Recover properly. Stay consistent. Because the best workout isn’t the one that destroys you. It’s the one you can keep doing. 🏋️‍♂️🔥
+
+🔗 [View original post](https://x.com/_fitnesshub/status/2094407572073681056)
+
+---
+
+### 🕐 12:50 UTC · @Unlockyourlife_
+
+> 5. You think soreness means a better workout Being extremely sore isn’t proof that you had an amazing session. You can make progress without struggling to walk the next morning. 😭 Focus on consistent training, proper technique and gradual progression instead of chasing pain.
+
+![5. You think soreness means a better workout Being extremely sore isn’t proof that you had an amazing session. You can make progress without struggling to walk the next morning. 😭 Focus on consistent ](../../../../assets/images/2026/08/31/2094407568147857498-1.jpg)
+
+🔗 [View original post](https://x.com/_fitnesshub/status/2094407568147857498)
+
+---
+
+### 🕐 12:50 UTC · @Unlockyourlife_
+
+> 4. You never give your body a chance to adapt Doing the exact same workout with the exact same difficulty forever eventually gives your body less reason to improve. Progress can come from adding reps, increasing resistance, improving technique, or gradually increasing training volume. Small progress still counts.
+
+![4. You never give your body a chance to adapt Doing the exact same workout with the exact same difficulty forever eventually gives your body less reason to improve. Progress can come from adding reps,](../../../../assets/images/2026/08/31/2094407562992955579-1.jpg)
+
+🔗 [View original post](https://x.com/_fitnesshub/status/2094407562992955579)
+
+---
+
+### 🕐 12:50 UTC · @Unlockyourlife_
+
+> 3. Your form gets worse as the weight gets heavier Lifting more weight isn’t automatically better. If you have to swing, twist or completely change your movement to finish a rep, the weight may be too heavy for good technique. Control the movement before chasing bigger numbers.
+
+![3. Your form gets worse as the weight gets heavier Lifting more weight isn’t automatically better. If you have to swing, twist or completely change your movement to finish a rep, the weight may be too](../../../../assets/images/2026/08/31/2094407557494305256-1.jpg)
+
+🔗 [View original post](https://x.com/_fitnesshub/status/2094407557494305256)
+
+---
+
+### 🕐 12:50 UTC · @Unlockyourlife_
+
+> 2. You only train the muscles you can see Chest, arms and abs get all the attention, but your body needs balance. Ignoring your back, legs, shoulders and core can create weaknesses that affect how you move. Train your whole body, not just your mirror muscles.
+
+![2. You only train the muscles you can see Chest, arms and abs get all the attention, but your body needs balance. Ignoring your back, legs, shoulders and core can create weaknesses that affect how you](../../../../assets/images/2026/08/31/2094407553849479588-1.jpg)
+
+🔗 [View original post](https://x.com/_fitnesshub/status/2094407553849479588)
+
+---
+
+### 🕐 12:50 UTC · @Unlockyourlife_
+
+> 1. You skip the warm-up Going straight from sitting around to intense exercise can make your body feel stiff and unprepared. A few minutes of light movement and dynamic exercises can help gradually raise your heart rate and prepare your muscles for the session.
+
+![1. You skip the warm-up Going straight from sitting around to intense exercise can make your body feel stiff and unprepared. A few minutes of light movement and dynamic exercises can help gradually ra](../../../../assets/images/2026/08/31/2094407549239832641-1.jpg)
+
+🔗 [View original post](https://x.com/_fitnesshub/status/2094407549239832641)
+
+---
+
+### 🕐 12:50 UTC · @Unlockyourlife_
+
+> You don’t need to exercise harder. You need to exercise smarter. A good workout isn’t about destroying yourself every time you train. It’s about giving your body the right amount of challenge and letting it adapt. 5 exercise mistakes that can quietly hold you back:
+
+![You don’t need to exercise harder. You need to exercise smarter. A good workout isn’t about destroying yourself every time you train. It’s about giving your body the right amount of challenge and lett](../../../../assets/images/2026/08/31/2094407544307347644-1.jpg)
+
+🔗 [View original post](https://x.com/_fitnesshub/status/2094407544307347644)
 
 ---
 
