@@ -2,7 +2,17 @@
 
 ## 📅 August 31, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 03:17 UTC · @simonw
+
+> Bonus: I ran this prompt and had ChatGPT Work build me a ChatGPT Site listing all of its available tools along with their descriptions https://codex-tool-reference.simonw.chatgpt.site/ It&apos;s &quot;ChatGPT Work: The Missing Manual&quot;
+
+![Bonus: I ran this prompt and had ChatGPT Work build me a ChatGPT Site listing all of its available tools along with their descriptions https://codex-tool-reference.simonw.chatgpt.site/ It&apos;s &quot](../../../../assets/images/2026/08/31/2094263278906269832-1.jpg)
+
+🔗 [View original post](https://x.com/simonw/status/2094263278906269832)
 
 ---
 

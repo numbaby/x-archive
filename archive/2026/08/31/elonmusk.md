@@ -2,7 +2,15 @@
 
 ## 📅 August 31, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 03:03 UTC · @elonmusk
+
+> Grok @elonmusk Told Grok to add subtitles. Done in seconds. Might not need Photoshop or CapCut anymore👀✨️
+
+🔗 [View original post](https://x.com/elonmusk/status/2094259860976103823)
 
 ---
 
