@@ -2,7 +2,52 @@
 
 ## 📅 August 31, 2026
 
-> 20 post(s) archived.
+> 25 post(s) archived.
+
+---
+
+### 🕐 09:03 UTC · @Wise1Philosophy
+
+> Anthropic has 22 free Claude courses. I read all and put them in the order that builds: START 01 Claude 101 http://academy.claude.com/courses/claude-101 02 Introduction to Claude Cowork http://academy.claude.com/courses/introduction-to-claude-cowork CODE 03 Claude Code 101 http://academy.claude.com/courses/claude-code-101 04 Claude Code in Action http://academy.claude.com/courses/claude-code-in-action 05 Introduction to agent skills http://academy.claude.com/courses/introduction-to-agent-skills 06 Introduction to subagents http://academy.claude.com/courses/introduction-to-subagents PLATFORM 07 Claude Platform 101 http://academy.claude.com/courses/claude-platform-101 08 Building with the Claude API http://academy.claude.com/courses/building-with-the-claude-api 09 Introduction to MCP http://academy.claude.com/courses/introduction-to-model-context-protocol 10 MCP Advanced Topics http://academy.claude.com/courses/model-context-protocol-advanced-topics 11 Claude with Amazon Bedrock http://academy.claude.com/courses/claude-with-amazon-bedrock 12 Claude with Vertex AI http://academy.claude.com/courses/claude-with-google-cloud-s-vertex-ai FOUNDATION 13 AI Fluency Framework and Foundations http://academy.claude.com/courses/ai-fluency-framework-foundations 14 AI Capabilities and Limitations http://academy.claude.com/courses/ai-capabilities-and-limitations 15 AI Fluency for Builders http://academy.claude.com/courses/ai-fluency-for-builders 16 AI Fluency for Small Businesses http://academy.claude.com/courses/ai-fluency-for-small-businesses 17 AI Fluency for students http://academy.claude.com/courses/ai-fluency-for-students 18 AI Fluency for nonprofits http://academy.claude.com/courses/ai-fluency-for-nonprofits 19 AI Fluency for educators http://academy.claude.com/courses/ai-fluency-for-educators 20 AI Fluency for pK-12 Educators http://academy.claude.com/courses/ai-fluency-for-k-12-educators 21 pK-12 Train the Trainer http://academy.claude.com/courses/ai-fluency-for-pk-12-train-the-trainer 22 Teaching AI Fluency http://academy.claude.com/courses/teaching-ai-fluency P.S. What is the last free course you actually finished? Mine before this was two years ago. Media https://x.com/i/article/2092918192821899265
+
+🔗 [View original post](https://x.com/socialwithaayan/status/2094350331484516816)
+
+---
+
+### 🕐 08:56 UTC · @Wise1Philosophy
+
+> This is insane... AI just put all the iconic memes in one video🤯 Media
+
+🔗 [View original post](https://x.com/AIHighlight/status/2094348543041454440)
+
+---
+
+### 🕐 08:38 UTC · @Wise1Philosophy
+
+> She woke at 3 AM to her dog GROWLING at the bedroom door - at nothing. A vet: &quot;Dogs don&apos;t growl at NOTHING&quot;: &apos;They growl at frequencies you can&apos;t HEAR&apos;.. Here&apos;s what happened.. 👇
+
+![She woke at 3 AM to her dog GROWLING at the bedroom door - at nothing. A vet: &quot;Dogs don&apos;t growl at NOTHING&quot;: &apos;They growl at frequencies you can&apos;t HEAR&apos;.. Here&apos;s what](../../../../assets/images/2026/08/31/2094343996458074161-1.jpg)
+
+🔗 [View original post](https://x.com/Manifest_Lord/status/2094343996458074161)
+
+---
+
+### 🕐 08:37 UTC · @Wise1Philosophy
+
+> 10 Ways Parents May Unknowingly Raise Angry Kids.. Here&apos;s how it happens.. 👇 🧵
+
+![10 Ways Parents May Unknowingly Raise Angry Kids.. Here&apos;s how it happens.. 👇 🧵](../../../../assets/images/2026/08/31/2094343821211717712-1.jpg)
+
+🔗 [View original post](https://x.com/scotti_brooks/status/2094343821211717712)
+
+---
+
+### 🕐 08:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/08/31/2094342009221726497-1.jpg)
+
+🔗 [View original post](https://x.com/Mindsthatbuild/status/2094342009221726497)
 
 ---
 

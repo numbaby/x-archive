@@ -2,7 +2,27 @@
 
 ## 📅 August 31, 2026
 
-> 5 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 08:57 UTC · @Alphafiles1
+
+> 10 NEW YOUTUBE VIDEOS TO HELP YOU MASTER AI: 1. Claude Code Advanced Course: http://youtu.be/UPtmKh1vMN8 2. Everything about the AI opportunity: http://youtu.be/4vIIeCqHYXA 3. AI workflows that businesses actually want: http://youtu.be/Y3PcRp5RFzk 4. How to build and sell AI agents in 2026: http://youtu.be/Y3PcRp5RFzk 5. How to build a one-person business with AI: http://youtu.be/VXgusdDbsQE 6. Claude Code + Codex: http://youtu.be/L7NPhaUBpZE 7. How to create your AI influencer business: http://youtu.be/gXaF4t4B4ss 8. How to do AI marketing: http://youtu.be/YeoGehNsrLc 9. Claude Code + Paperclip: http://youtu.be/HJ-dwefABss 10. How to build a profitable personal brand in 30 days with AI: http://youtu.be/HrkhzzTh46Q
+
+![10 NEW YOUTUBE VIDEOS TO HELP YOU MASTER AI: 1. Claude Code Advanced Course: http://youtu.be/UPtmKh1vMN8 2. Everything about the AI opportunity: http://youtu.be/4vIIeCqHYXA 3. AI workflows that busine](../../../../assets/images/2026/08/31/2094348729906344322-1.jpg)
+
+🔗 [View original post](https://x.com/KanikaBK/status/2094348729906344322)
+
+---
+
+### 🕐 08:34 UTC · @Alphafiles1
+
+> Accept it!!
+
+![Accept it!!](../../../../assets/images/2026/08/31/2094343075959013418-1.jpg)
+
+🔗 [View original post](https://x.com/Alphafiles1/status/2094343075959013418)
 
 ---
 
