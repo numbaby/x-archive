@@ -2,7 +2,15 @@
 
 ## 📅 August 31, 2026
 
-> 6 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 15:00 UTC · @_akhaliq
+
+> One image. A world to train in, shoot in &amp; explore. 🌍 👀Meet HYPER3D #WorldGen: independent foreground meshes + #3DGS background, built for interaction. For robotics🦾, film🎬, games🎮, DCC💎 &amp; XR. 🔥Powered by our Best Paper Award Project 「CAST」. Let&apos;s Connect the Dots⬇️ Media
+
+🔗 [View original post](https://x.com/DeemosTech/status/2094440163246256523)
 
 ---
 
