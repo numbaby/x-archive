@@ -2,7 +2,15 @@
 
 ## 📅 August 31, 2026
 
-> 7 post(s) archived.
+> 9 post(s) archived.
+
+---
+
+### 🕐 18:25 UTC · @elonmusk
+
+> Grok @Bot will not only do your purchasing, but also find &amp; negotiate the best deal I just used instinct and stripe link to buy my niece a hot pink piano… entirely from the messaging interface 🤯🤯 Instinct was even kind enough to find me a 15% off discount!!!!
+
+🔗 [View original post](https://x.com/elonmusk/status/2094491665335558361)
 
 ---
 
@@ -53,6 +61,14 @@
 > Stunningly beautiful More from today&apos;s Falcon Heavy launch
 
 🔗 [View original post](https://x.com/elonmusk/status/2094242742301798564)
+
+---
+
+### 🕐 01:47 UTC · @elonmusk
+
+> Two months ago I was testing Grok @imagine to make the Battle of Red Cliffs (赤壁之戰). Now in Grok @bot you can spin up a director, screenwriter, music producer, and cinematographer to create a cinematic movie trailer in one shot. Attached the only prompt I gave to Grok @bot and the rest was autonomous. Media Grok Imagine one-shots the Battle of Red Cliffs (赤壁之戰), the famous epic Chinese battle in 208 AD.
+
+🔗 [View original post](https://x.com/yunta_tsai/status/2094240693594255834)
 
 ---
 

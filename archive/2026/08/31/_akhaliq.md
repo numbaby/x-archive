@@ -2,7 +2,23 @@
 
 ## 📅 August 31, 2026
 
-> 7 post(s) archived.
+> 11 post(s) archived.
+
+---
+
+### 🕐 19:43 UTC · @_akhaliq
+
+> LoopArena Benchmarking Models as Runtime Controllers for Loop Engineering paper: https://huggingface.co/papers/2608.28281 Media
+
+🔗 [View original post](https://x.com/_akhaliq/status/2094511483639963904)
+
+---
+
+### 🕐 16:50 UTC · @_akhaliq
+
+> Over 4 petabytes of models and datasets have been uploaded to HF just last week by AI builders and their agents! That&apos;s the equivalent of ~800,000 HD movies. More than ever the storage and collaboration platform for AI!
+
+🔗 [View original post](https://x.com/ClementDelangue/status/2094467968268657001)
 
 ---
 
@@ -24,6 +40,16 @@
 
 ---
 
+### 🕐 11:33 UTC · @_akhaliq
+
+> Made a Microduck sticker pack because apparently owning the robot wasn’t enough. Thoughts? Apparently the peak of ROBOTICS in 2026 is a $399 duck on roller skates. Microduck pre-orders topped $2.6M in 24 hours. Now there’s a 4–6 month backlog. Not a humanoid. Not a warehouse robot. A duck. That’s where the joke gets inconvenient. Microduck is from Pollen Robotics, now …
+
+![Made a Microduck sticker pack because apparently owning the robot wasn’t enough. Thoughts? Apparently the peak of ROBOTICS in 2026 is a $399 duck on roller skates. Microduck pre-orders topped $2.6M in](../../../../assets/images/2026/08/31/2094388078043390323-1.jpg)
+
+🔗 [View original post](https://x.com/aistasiia/status/2094388078043390323)
+
+---
+
 ### 🕐 11:26 UTC · @_akhaliq
 
 > Weights open: https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp DeepSeek-V4-Flash-Vision-Exp is now live on the DeepSeek API Platform! 🚀 🔹 This experimental multimodal model matches DeepSeek-V4-Flash on text capabilities—including agents, reasoning, and world knowledge. 🔹 On multimodal agent benchmarks, V4-Flash-Vision-Exp makes a major le…
@@ -31,6 +57,16 @@
 ![Weights open: https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp DeepSeek-V4-Flash-Vision-Exp is now live on the DeepSeek API Platform! 🚀 🔹 This experimental multimodal model matches Deep](../../../../assets/images/2026/08/31/2094386230675062836-1.jpg)
 
 🔗 [View original post](https://x.com/zizhpan/status/2094386230675062836)
+
+---
+
+### 🕐 09:55 UTC · @_akhaliq
+
+> MAKE IT SMALLER! MICROER! DUCKIER!
+
+![MAKE IT SMALLER! MICROER! DUCKIER!](../../../../assets/images/2026/08/31/2094363440152203331-1.jpg)
+
+🔗 [View original post](https://x.com/andimarafioti/status/2094363440152203331)
 
 ---
 
