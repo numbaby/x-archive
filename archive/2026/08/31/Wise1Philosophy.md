@@ -2,7 +2,31 @@
 
 ## 📅 August 31, 2026
 
-> 25 post(s) archived.
+> 28 post(s) archived.
+
+---
+
+### 🕐 10:21 UTC · @Wise1Philosophy
+
+> We&apos;re hiring creatives to join The AI Colony. Video editors. Motion graphics designers. AI video producers. Launch video producers. Apply below 👇🏽 Media
+
+🔗 [View original post](https://x.com/Shawnife/status/2094370027843559453)
+
+---
+
+### 🕐 09:53 UTC · @Wise1Philosophy
+
+> A guy&apos;s Netflix homepage was haunted by his ex-girlfriend for 14 months. They dated for 2 years. She watched on his profile because creating her own felt unnecessary when they shared everything else. Rom-coms every Friday. K-dramas every weekend. Reality dating shows she binged while he pretended not to watch. True crime documentaries she fell asleep to every night. They broke up in March. By the following May 14 months later his Netflix homepage still looked like hers. Every recommendation was shaped by 2 years of her viewing habits baked into his profile. &quot;Because You Watched Love Is Blind.&quot; &quot;Top Pick: A Korean Drama You&apos;ll Love.&quot; &quot;Trending: The New Season of The Bachelor.&quot; Every romantic comedy thumbnail was a digital ghost. The algorithm was holding onto the relationship longer than either of them had. He thought the only fix was a new account. New email. Lose his own history. Start over. His roommate a data engineer who understands recommendation algorithms told him that was completely unnecessary. Netflix lets you delete your entire viewing history and rebuild the algorithm from zero. The ex-girlfriend&apos;s fingerprints on his recommendations could be erased in 10 minutes through a settings page he&apos;d never visited. His roommate showed him 11 Netflix features that give complete control over what the platform thinks you like features most subscribers have never opened. Here&apos;s the full playbook 🧵
+
+🔗 [View original post](https://x.com/jackcoder0/status/2094363020248117678)
+
+---
+
+### 🕐 09:31 UTC · @Wise1Philosophy
+
+> Time for a reintroduction. I am Pascio. - 250,000+ followers. - $1M+ in personal profit. - All from a faceless X profile. Here&apos;s how I did it:
+
+🔗 [View original post](https://x.com/IAmPascio/status/2094357521712435693)
 
 ---
 
