@@ -2,7 +2,23 @@
 
 ## 📅 September 01, 2026
 
-> 2 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 02:52 UTC · @elonmusk
+
+> 𝕏 Money is awesome 𝕏 Money is now available to all Premium and Premium+ subscribers with U.S. accounts Open the Money tab in your sidebar to get started
+
+🔗 [View original post](https://x.com/elonmusk/status/2094619266943242465)
+
+---
+
+### 🕐 00:37 UTC · @elonmusk
+
+> The entire span of human civilization is a just a flash in the pan so far Earth is just one of about 100 billion planets in our galaxy, which is just one of about two trillion galaxies in the universe. And our lifetimes are only about 1/3,000 of humanity&apos;s existence, which itself is only 1/20,000 of the Earth&apos;s existence. In other words, we are unbelie…
+
+🔗 [View original post](https://x.com/elonmusk/status/2094585397938475239)
 
 ---
 
