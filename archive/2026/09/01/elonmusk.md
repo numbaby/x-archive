@@ -2,7 +2,25 @@
 
 ## 📅 September 01, 2026
 
-> 4 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 14:25 UTC · @elonmusk
+
+> ELON MUSK: A billion humanoid robots will be more productive than all humans combined within 10 years. “There will be at least a billion robots in 10 years, and each will produce at least five times the output of a human.” Media
+
+🔗 [View original post](https://x.com/cb_doge/status/2094793785523962255)
+
+---
+
+### 🕐 13:41 UTC · @elonmusk
+
+> 𝕏 will stop paying interest on New York customers’ 𝕏 Money balances starting October 1, 2026 and the APY for those customers will drop to 0.00%. The New York Department of Financial Services informed 𝕏 that it is currently not permitted to pay interest on stored-value accounts in the state. 𝕏 is working to resolve this.
+
+![𝕏 will stop paying interest on New York customers’ 𝕏 Money balances starting October 1, 2026 and the APY for those customers will drop to 0.00%. The New York Department of Financial Services informed ](../../../../assets/images/2026/09/01/2094782774406258910-1.jpg)
+
+🔗 [View original post](https://x.com/SawyerMerritt/status/2094782774406258910)
 
 ---
 
@@ -11,6 +29,16 @@
 > 𝕏 Money is awesome 𝕏 Money is now available to all Premium and Premium+ subscribers with U.S. accounts Open the Money tab in your sidebar to get started
 
 🔗 [View original post](https://x.com/elonmusk/status/2094619266943242465)
+
+---
+
+### 🕐 01:23 UTC · @elonmusk
+
+> gooooood grok bot
+
+![gooooood grok bot](../../../../assets/images/2026/09/01/2094596913630994683-1.jpg)
+
+🔗 [View original post](https://x.com/Jaytel/status/2094596913630994683)
 
 ---
 

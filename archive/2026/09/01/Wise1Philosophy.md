@@ -2,7 +2,82 @@
 
 ## 📅 September 01, 2026
 
-> 63 post(s) archived.
+> 77 post(s) archived.
+
+---
+
+### 🕐 14:45 UTC · @Wise1Philosophy
+
+> Me: builds successful ecom business Stripe: freezes account for suspicious growth Me: ok I&apos;ll use PayPal PayPal: also suspicious, frozen Me: fine, Shopify Payments Shopify: believe it or not, also frozen Me: discoveres and switches to Tagada Pay Tagada Pay: switch between processors without losing your customer data because you own the tokens. Me: so I can actually leave if I want Tagada Pay: correct This is how payment processing should work. Media “Help me. Shopify just suspended my account.” Someone posts this on X every single day. Every day, another brand dies. Money frozen. Subscriptions dead. Customer cards locked inside a processor they can’t access anymore. They didn’t do anything wrong. They just scaled too fast. Q…
+
+🔗 [View original post](https://x.com/thetripathi58/status/2094798780738765210)
+
+---
+
+### 🕐 14:43 UTC · @Wise1Philosophy
+
+> A college student spent $9.47 on a Big Mac meal every Friday after class. Same McDonald&apos;s. Same order. Same booth by the window. He walked to the counter, read the menu board, ordered, paid, and sat down. $9.47. Every Friday. For 2 years. His roommate sat across from him every Friday with the same amount of food a McDouble, 4-piece nuggets, small fries, and a small drink for $5. &quot;How is your meal $5 and mine is $9.47?&quot; &quot;The app.&quot; His roommate opened the McDonald&apos;s app before every order. The Deals tab displayed offers the menu board doesn&apos;t show $5 Meal Deals, BOGO sandwiches, $1 any-size fries, $2 McCafé drinks, and app-exclusive bundles that change weekly. The menu board shows full prices. The app shows discounted prices. Two customers in the same line, ordering the same quantity of food, paying different amounts because one checked a tab the other didn&apos;t know existed. His roommate told him the app deals were only the beginning. He showed him 11 McDonald&apos;s strategies that cut the bill by 30–40% on every visit without ordering less food. Here&apos;s the full playbook 🧵
+
+🔗 [View original post](https://x.com/jackcoder0/status/2094798307659039185)
+
+---
+
+### 🕐 14:40 UTC · @Wise1Philosophy
+
+> POV: you hit 100k MRR and your payment processor sends you congratulations and an account freeze in the same day. The worst part is you don&apos;t own your customer tokens so if they freeze you, every subscription just dies. Found out Tagada Pay lets you actually own them and switch processors without losing everything. Wish I knew this existed earlier. Media “Help me. Shopify just suspended my account.” Someone posts this on X every single day. Every day, another brand dies. Money frozen. Subscriptions dead. Customer cards locked inside a processor they can’t access anymore. They didn’t do anything wrong. They just scaled too fast. Q…
+
+🔗 [View original post](https://x.com/AIPandaX/status/2094797560011731122)
+
+---
+
+### 🕐 14:35 UTC · @Wise1Philosophy
+
+> okay I&apos;m reading about Tagada Pay and this is actually insane right now if Stripe bans you, all your customer cards are gone, you literally can&apos;t export them or move them anywhere Tagada Pay lets you own those tokens so you can switch processors wild that this is the first time someone solved this Media “Help me. Shopify just suspended my account.” Someone posts this on X every single day. Every day, another brand dies. Money frozen. Subscriptions dead. Customer cards locked inside a processor they can’t access anymore. They didn’t do anything wrong. They just scaled too fast. Q…
+
+🔗 [View original post](https://x.com/aibytekat/status/2094796355113996666)
+
+---
+
+### 🕐 14:34 UTC · @Wise1Philosophy
+
+> this AI product ad workflow is crazy 🤯 just upload product photo, generate storyboard, then turn it into a cinematic commercial in minutes. step by step tutorial with prompts: 👇 Media
+
+🔗 [View original post](https://x.com/HeyAbhishek/status/2094796148683001886)
+
+---
+
+### 🕐 14:28 UTC · @Wise1Philosophy
+
+> Things Only Narcissists Do After A Breakup.
+
+![Things Only Narcissists Do After A Breakup.](../../../../assets/images/2026/09/01/2094794499277140123-1.jpg)
+
+🔗 [View original post](https://x.com/MindPatternHQ/status/2094794499277140123)
+
+---
+
+### 🕐 14:20 UTC · @Wise1Philosophy
+
+> 🚨 LA EDICIÓN DE VIDEO COMO LA CONOCES ACABA DE MORIR. Alguien creó una herramienta que convierte a Claude en un editor profesional… y está GRATIS. Solo arrastras tus archivos a una carpeta. Y observas cómo se edita solo: • Corta los clips automáticamente • Elimina muletillas y silencios • Genera subtítulos perfectos • Aplica corrección de color profesional • Añade animaciones fluidas • Renderiza todo sin intervención humana Cero líneas de tiempo. Cero clics manuales. Cero fricción. Esto deja herramientas como Remotion en el pasado. No asiste tu trabajo. Lo reemplaza. El proyecto se llama Video Use y es completamente open source. link abajo ⬇️ Media
+
+🔗 [View original post](https://x.com/Alex_Inspira/status/2094792616932261904)
+
+---
+
+### 🕐 14:09 UTC · @Wise1Philosophy
+
+> Lowering cortisol is extremely easy once you realize this: 1. Ashwagandha in the morning.
+
+🔗 [View original post](https://x.com/CoachDanCole_/status/2094789731028811779)
+
+---
+
+### 🕐 14:03 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/01/2094788230587494756-1.jpg)
+
+🔗 [View original post](https://x.com/Ant_Philosophy/status/2094788230587494756)
 
 ---
 
@@ -29,6 +104,15 @@
 ![97% of enterprise leaders say AI search optimization produced positive results for them. 94% are increasing their budgets for it going forward. You&apos;ll invest in AI search optimization at some poi](../../../../assets/images/2026/09/01/2094781138321744330-1.jpg)
 
 🔗 [View original post](https://x.com/alexgroberman/status/2094781138321744330)
+
+---
+
+### 🕐 13:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/01/2094779965996773717-1.jpg)
+
+🔗 [View original post](https://x.com/Mindsthatbuild/status/2094779965996773717)
 
 ---
 
@@ -79,6 +163,15 @@
 > SIGNS YOU HAVE A POWERFUL MALE AURA: 1. Kids like you.
 
 🔗 [View original post](https://x.com/BeBetterMan_/status/2094773314158043470)
+
+---
+
+### 🕐 13:03 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/01/2094773110478135338-1.jpg)
+
+🔗 [View original post](https://x.com/Life__Mastery/status/2094773110478135338)
 
 ---
 
@@ -168,6 +261,15 @@
 
 ---
 
+### 🕐 11:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/01/2094749741229678673-1.jpg)
+
+🔗 [View original post](https://x.com/Daily__wisdom_/status/2094749741229678673)
+
+---
+
 ### 🕐 11:15 UTC · @Wise1Philosophy
 
 > Anyone can build AI agents from scratch. Use this 10-step roadmap to go from idea to evaluation: [ bookmark 🔖 this post for later ] Step 1: Set the Agent’s Purpose and Result • What will the agent do? • Who will it support? • What kind of output should it create? → Example: A content research agent that reviews articles and summarizes key points. Step 2: Build Structured Input and Output • Use Pydantic AI or JSON Schemas for inputs and outputs. • Keep the format clean and API-like. → Tools: LangChain Output Parsers, Pydantic AI Step 3: Shape and Tune the Agent’s Behavior • Start with a clear role-based system prompt. • Use Prefix Tuning or Prompt Tuning for consistent behavior. → Tools: Claude, GPT, Prompt Tuning Step 4: Add Reasoning and Tool Access • Use ReAct or Chain-of-Thought for reasoning steps. • Enable tools like search, code, or document lookup. → Tools: OpenAI Tools, LangChain, ReAct Framework Step 5: Organize Multi-Agent Roles (If Needed) • Use orchestration frameworks to define each agent’s job. • Create Planner, Researcher, and Writer agents with their own schemas. → Tools: LangGraph, CrewAI, OpenAI Swarm Step 6: Add Memory and Extended Context (RAG) • Decide if the agent needs context from earlier work. • Use summary, conversational, or vector memory. → Tools: Chroma, Zep, LangChain Memory Step 7: Add Speech or Vision Features (Optional) • Use tools like Coqui or ElevenLabs for speech. • Use vision models (GPT/LLaMA) for interpreting images. → This allows the agent to see and speak. Step 8: Format and Deliver the Output • Export results as Markdown, PDF, or JSON. • Keep the output clean and predictable. → Tools: Pydantic AI, LangChain Output Parsers Step 9: Embed in a UI or API Layer (Optional) • Create a small UI or let the agent run through an API. • Use Streamlit, Gradio, or FastAPI to make it accessible. → This turns the agent into a real product. Step 10: Test, Review, and Improve • Run test prompts to measure reliability. • Use logs and benchmarks to improve performance. → Tools: Custom dashboards, MCP Logs, OpenAI Evaluation API Building AI agents starts with structure, not code. Get the sequence right to build AI agents quickly. 📌 Get Advanced ChatGPT Guide (free): https://bit.ly/3StIB3z 👉 Follow me @AndrewBolis for more and 🔄 Repost this to help others use AI
@@ -191,6 +293,15 @@
 > Andrew Yang just came back from an AI conference and what he heard alarmed him. Four years ago the standard career advice was learn to code. Now he says the opposite is true. He described what people at the conference told him: &quot;They said to me that what we&apos;re going to see in the next 6 months outstrips what we&apos;ve seen in the last 10 years cuz the rate of change is on a hockey stick and heading up. And I got to say I&apos;m pretty up to date on this stuff and it blew my mind on some of the stuff I was seeing.&quot; One number stood out to him. &quot;There was one company that is selling autonomous coding for enterprises to big businesses and their revenue is up 100-fold in the last 12 months.&quot; The downstream effect is already showing: &quot;If that continues, it&apos;s going to eat a lot of the tech budgets from major corporates that used to go to humans. And so you&apos;re seeing the employment of recent computer science graduates fall off a cliff from a lot of programs.&quot; He points to Anthropic&apos;s CEO for the bigger picture: &quot;Dario Amodei, the CEO of Anthropic, laid it out very clearly and he&apos;s been doing so repeatedly, saying we&apos;re going to automate away up to 50% of entry-level white collar jobs in the next several years. And I believe him.&quot; Why entry-level first? Yang&apos;s answer is blunt: &quot;The easiest people to fire are the people you haven&apos;t hired yet, which again is why you see the hiring of recent college graduates heading down.&quot; The data is already confirming it. The underemployment rate sits above 50%, and unemployment among college graduates is now equal to or higher than non-college graduates for the first time on record. Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media BILLIONAIRE RAY DALIO ON AI: “THE DAYS OF PEOPLE MAKING DECISIONS IN THEIR OWN HEADS ARE ENDING.”
 
 🔗 [View original post](https://x.com/AiEvolutio58513/status/2094743098521944223)
+
+---
+
+### 🕐 11:02 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/01/2094742590318862844-1.jpg)
+
+🔗 [View original post](https://x.com/apex_mentality_/status/2094742590318862844)
 
 ---
 
@@ -229,6 +340,15 @@
 > Claude can build your entire workout and meal plan for free. No random workouts. No gym bro science. Here are 7 prompts to get started:
 
 🔗 [View original post](https://x.com/AriaWestcott/status/2094734736111354186)
+
+---
+
+### 🕐 10:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/01/2094734599410655457-1.jpg)
+
+🔗 [View original post](https://x.com/yeti_mind/status/2094734599410655457)
 
 ---
 
