@@ -2,7 +2,17 @@
 
 ## 📅 September 01, 2026
 
-> 5 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 22:00 UTC · @dair_ai
+
+> Super interesting paper from Meta. Long-horizon research agents are coming. But one common problem with research agents today is the lack of originality and how to decide what experiments are worth exploring. An AI research agent can propose far more experiments than it can afford to run, so the problem is not idea generation, it&apos;s deciding which candidates get GPU time. AI Research Preference Models is trained to predict which candidate solution is most promising before any of them execute. Two variants, both built on frozen pretrained LLMs. An inference-only model reasons over candidate plans, code, and previously executed solutions. An agentic model additionally runs small-scale pilot experiments before committing budget. Dropped into the AIRA-dojo agent and measured on AIRS-Bench, average normalized score moves from 0.684 to 0.711 and 0.729. Both variants reach the unguided agent&apos;s 24-hour performance in roughly 15 hours, using less than two-thirds of its execution budget, and together set new state of the art on two AIRS-Bench tasks. Paper: https://arxiv.org/abs/2608.13940 Chat with Paper: https://academy.dair.ai/papers/ai-research-preference-models-2608.13940
+
+![Super interesting paper from Meta. Long-horizon research agents are coming. But one common problem with research agents today is the lack of originality and how to decide what experiments are worth ex](../../../../assets/images/2026/09/01/2094908191075357100-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2094908191075357100)
 
 ---
 
