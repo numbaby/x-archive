@@ -2,7 +2,55 @@
 
 ## 📅 September 01, 2026
 
-> 30 post(s) archived.
+> 35 post(s) archived.
+
+---
+
+### 🕐 10:43 UTC · @Wise1Philosophy
+
+> Tim Cook spent 15 years being told he was not Steve Jobs. Today, he hands over the keys. Apple&apos;s market cap grew by an average of $32 million per hour. Every hour. For 15 years. Here is the full story, and why the man who invented nothing became the most valuable CEO in history. First, who Tim Cook was and why almost nobody believed in him: Cook joined Apple in 1998 from Compaq He was an operations man. Supply chains, inventory, factories Jobs hired him to fix the boring parts of a company that was months from bankruptcy He cut Apple&apos;s inventory from months down to days That was his reputation. Logistics. Not magic Then August 24, 2011 happened Steve Jobs resigned. Cook took the chair. The verdict was immediate and near universal: the visionary was gone, the accountant was in, Apple&apos;s best days were behind it The numbers on the day he took over: Apple was worth just under $350 billion Revenue for all of 2011 was $108 billion iPhone revenue was $47 billion Services was $9.4 billion a year. iTunes, the App Store, AppleCare The stock was $13.35, split adjusted The numbers today: Market cap over $4 trillion. Apple briefly crossed $5 trillion this year First company ever to $1 trillion in 2018. First to $2 trillion in 2020. First to $3 trillion in 2022 One quarter this year brought in $109.4 billion. Apple now earns its entire 2011 revenue in 90 days Services alone is $109 billion a year across 1.5 billion paid subscriptions 2.5 billion active devices The stock is up roughly 23x Which raises the obvious question: what did he actually build? The answer is the whole story Cook never invented a category the way Jobs did. The Apple Car was cancelled. Vision Pro stayed niche. Siri has been a running joke for a decade. What he built instead was the machine underneath. Apple Watch in 2015. AirPods in 2016. Apple Pay. Apple Music. Apple TV+. Apple silicon, which ended the Intel era entirely. Roughly 200 new stores, 50 of them in mainland China. None of those were revolutions on their own. Together they became a system almost nobody leaves. Jobs sold you a product. Cook sold you an ecosystem, then charged you monthly to stay inside it. So why walk away now? Cook is 65. He says he looked at three things: the performance of the company, the product roadmap, and whether his successor was ready. Apple just posted 17% revenue growth. iPhone up 22%. A foldable is coming. He is leaving from a peak, not a fall. Analysts said the timing came about two years earlier than anyone expected. Yesterday he posted his goodbye to the Apple community. His line: his title changes, but the love does not. What this means for Apple: John Ternus, 51, becomes CEO today. 25 years inside the company, almost all of it in hardware. AirPods, Mac, iPad, iPhone all ran through him. Cook stays on as executive chairman. Ternus told staff Apple is about to change the world once again. He inherits the most profitable company in history and the one problem Cook never solved. Apple is behind on AI. For 15 years the criticism of Tim Cook was that he was only an operator. He turned $350 billion into $4 trillion. Turns out the operator was the product. Thank you Tim Cook.
+
+![Tim Cook spent 15 years being told he was not Steve Jobs. Today, he hands over the keys. Apple&apos;s market cap grew by an average of $32 million per hour. Every hour. For 15 years. Here is the full ](../../../../assets/images/2026/09/01/2094737955021586486-1.jpg)
+
+🔗 [View original post](https://x.com/TheAIColonyRD/status/2094737955021586486)
+
+---
+
+### 🕐 10:31 UTC · @Wise1Philosophy
+
+> Your AI API bill is probably higher than it needs to be. Not because you&apos;re using too much AI. Because you&apos;re buying GPT, Claude, Gemini, Grok, and others at whatever price each provider gives you. http://DIT.ai changes that. 50+ models. 160+ providers. One API. And often 30–70% cheaper. 🧵
+
+![Your AI API bill is probably higher than it needs to be. Not because you&apos;re using too much AI. Because you&apos;re buying GPT, Claude, Gemini, Grok, and others at whatever price each provider giv](../../../../assets/images/2026/09/01/2094734876075569560-1.jpg)
+
+🔗 [View original post](https://x.com/Damn_coder/status/2094734876075569560)
+
+---
+
+### 🕐 10:30 UTC · @Wise1Philosophy
+
+> Claude can build your entire workout and meal plan for free. No random workouts. No gym bro science. Here are 7 prompts to get started:
+
+🔗 [View original post](https://x.com/AriaWestcott/status/2094734736111354186)
+
+---
+
+### 🕐 10:19 UTC · @Wise1Philosophy
+
+> this grok bot prompt is a one-person gtm team
+
+![this grok bot prompt is a one-person gtm team](../../../../assets/images/2026/09/01/2094731791722778749-1.jpg)
+
+🔗 [View original post](https://x.com/socialwithaayan/status/2094731791722778749)
+
+---
+
+### 🕐 09:54 UTC · @Wise1Philosophy
+
+> Forget AI agents booking meetings. PSA is building one to run an investment desk. It’s designed to watch markets, read the news, make allocation decisions, execute… That’s a much more interesting test of agents.
+
+![Forget AI agents booking meetings. PSA is building one to run an investment desk. It’s designed to watch markets, read the news, make allocation decisions, execute… That’s a much more interesting test](../../../../assets/images/2026/09/01/2094725586430386337-1.jpg)
+
+🔗 [View original post](https://x.com/alex_prompter/status/2094725586430386337)
 
 ---
 
