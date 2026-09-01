@@ -2,7 +2,43 @@
 
 ## 📅 September 01, 2026
 
-> 35 post(s) archived.
+> 40 post(s) archived.
+
+---
+
+### 🕐 11:15 UTC · @Wise1Philosophy
+
+> Anyone can build AI agents from scratch. Use this 10-step roadmap to go from idea to evaluation: [ bookmark 🔖 this post for later ] Step 1: Set the Agent’s Purpose and Result • What will the agent do? • Who will it support? • What kind of output should it create? → Example: A content research agent that reviews articles and summarizes key points. Step 2: Build Structured Input and Output • Use Pydantic AI or JSON Schemas for inputs and outputs. • Keep the format clean and API-like. → Tools: LangChain Output Parsers, Pydantic AI Step 3: Shape and Tune the Agent’s Behavior • Start with a clear role-based system prompt. • Use Prefix Tuning or Prompt Tuning for consistent behavior. → Tools: Claude, GPT, Prompt Tuning Step 4: Add Reasoning and Tool Access • Use ReAct or Chain-of-Thought for reasoning steps. • Enable tools like search, code, or document lookup. → Tools: OpenAI Tools, LangChain, ReAct Framework Step 5: Organize Multi-Agent Roles (If Needed) • Use orchestration frameworks to define each agent’s job. • Create Planner, Researcher, and Writer agents with their own schemas. → Tools: LangGraph, CrewAI, OpenAI Swarm Step 6: Add Memory and Extended Context (RAG) • Decide if the agent needs context from earlier work. • Use summary, conversational, or vector memory. → Tools: Chroma, Zep, LangChain Memory Step 7: Add Speech or Vision Features (Optional) • Use tools like Coqui or ElevenLabs for speech. • Use vision models (GPT/LLaMA) for interpreting images. → This allows the agent to see and speak. Step 8: Format and Deliver the Output • Export results as Markdown, PDF, or JSON. • Keep the output clean and predictable. → Tools: Pydantic AI, LangChain Output Parsers Step 9: Embed in a UI or API Layer (Optional) • Create a small UI or let the agent run through an API. • Use Streamlit, Gradio, or FastAPI to make it accessible. → This turns the agent into a real product. Step 10: Test, Review, and Improve • Run test prompts to measure reliability. • Use logs and benchmarks to improve performance. → Tools: Custom dashboards, MCP Logs, OpenAI Evaluation API Building AI agents starts with structure, not code. Get the sequence right to build AI agents quickly. 📌 Get Advanced ChatGPT Guide (free): https://bit.ly/3StIB3z 👉 Follow me @AndrewBolis for more and 🔄 Repost this to help others use AI
+
+![Anyone can build AI agents from scratch. Use this 10-step roadmap to go from idea to evaluation: [ bookmark 🔖 this post for later ] Step 1: Set the Agent’s Purpose and Result • What will the agent do?](../../../../assets/images/2026/09/01/2094745846567026843-1.jpg)
+
+🔗 [View original post](https://x.com/AndrewBolis/status/2094745846567026843)
+
+---
+
+### 🕐 11:08 UTC · @Wise1Philosophy
+
+> I tested @nutrientdocs on a CMS-1500 health claim, which is exactly the kind of document that can trip up extraction systems. The red grid alone can get mangled by scanners, and the form is packed with dense fields where one wrong value can matter. What stood out to me was the grounding. Hover over any extracted field and Nutrient shows the exact place on the original claim where that value came from. So instead of asking “did the AI probably get this right?”, you can check the evidence yourself. For healthcare documents, that feels like a much better standard: not just extraction, but extraction you can actually verify. Media Everyone keep talking about how LLMs are good enough now. The LLMs have always sounded confident. I don&apos;t buy it. After years running and building document workflows @nutrientdocs (formerly @PSPDFKit), the breakage is in the numbers. A model confidently hallucinates answers from …
+
+🔗 [View original post](https://x.com/Rixhabh__/status/2094744308960182632)
+
+---
+
+### 🕐 11:04 UTC · @Wise1Philosophy
+
+> Andrew Yang just came back from an AI conference and what he heard alarmed him. Four years ago the standard career advice was learn to code. Now he says the opposite is true. He described what people at the conference told him: &quot;They said to me that what we&apos;re going to see in the next 6 months outstrips what we&apos;ve seen in the last 10 years cuz the rate of change is on a hockey stick and heading up. And I got to say I&apos;m pretty up to date on this stuff and it blew my mind on some of the stuff I was seeing.&quot; One number stood out to him. &quot;There was one company that is selling autonomous coding for enterprises to big businesses and their revenue is up 100-fold in the last 12 months.&quot; The downstream effect is already showing: &quot;If that continues, it&apos;s going to eat a lot of the tech budgets from major corporates that used to go to humans. And so you&apos;re seeing the employment of recent computer science graduates fall off a cliff from a lot of programs.&quot; He points to Anthropic&apos;s CEO for the bigger picture: &quot;Dario Amodei, the CEO of Anthropic, laid it out very clearly and he&apos;s been doing so repeatedly, saying we&apos;re going to automate away up to 50% of entry-level white collar jobs in the next several years. And I believe him.&quot; Why entry-level first? Yang&apos;s answer is blunt: &quot;The easiest people to fire are the people you haven&apos;t hired yet, which again is why you see the hiring of recent college graduates heading down.&quot; The data is already confirming it. The underemployment rate sits above 50%, and unemployment among college graduates is now equal to or higher than non-college graduates for the first time on record. Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media BILLIONAIRE RAY DALIO ON AI: “THE DAYS OF PEOPLE MAKING DECISIONS IN THEIR OWN HEADS ARE ENDING.”
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2094743098521944223)
+
+---
+
+### 🕐 11:01 UTC · @Wise1Philosophy
+
+> 𝗥𝗲𝘃𝗶𝘀𝗮𝗺𝗼𝘀 𝗺á𝘀 𝗱𝗲 𝟯𝟬𝟬 𝗳𝘂𝗲𝗻𝘁𝗲𝘀 𝗮𝗹 𝗱í𝗮 𝘆 𝗰𝗼𝗻𝘃𝗲𝗿𝘁𝗶𝗺𝗼𝘀 𝘂𝗻𝗮 𝗻𝗼𝘁𝗶𝗰𝗶𝗮 𝗲𝗻 𝟱 𝗽𝗶𝗲𝘇𝗮𝘀 𝗱𝗲 𝗰𝗼𝗻𝘁𝗲𝗻𝗶𝗱𝗼. En GptZone, nuestro equipo transforma noticias de tecnología en contenido para web, newsletter, LinkedIn y redes sociales. Durante mucho tiempo utilizamos la IA de la forma más complicada posible. Encontrábamos una noticia interesante y empezábamos de cero cada vez: un prompt para la web, otro para la newsletter, otro para LinkedIn, otro para X... Cinco tareas separadas. Cinco veces pasando contexto. Cinco resultados que revisar. Al principio pensé que simplemente necesitábamos mejores prompts. Me equivoqué. El cambio fue dejar de pedirle a la IA respuestas individuales y 𝗱𝗲𝗹𝗲𝗴𝗮𝗿𝗹𝗲 𝗲𝗹 𝘁𝗿𝗮𝗯𝗮𝗷𝗼 𝗰𝗼𝗺𝗽𝗹𝗲𝘁𝗼. Ahora nuestro equipo puede darle a Viktor una sola tarea: “Esta noticia merece publicarse. Prepara el contenido para la web, adáptalo a nuestra newsletter, crea la versión para LinkedIn y prepara las publicaciones para nuestras redes. Mantén nuestro estilo y déjalo listo para revisión.” Viktor trabaja desde Slack o Microsoft Teams y puede conectarse con 𝟯.𝟮𝟬𝟬+ 𝗵𝗲𝗿𝗿𝗮𝗺𝗶𝗲𝗻𝘁𝗮𝘀. Nuestro equipo sigue decidiendo qué merece publicarse y aprobando el resultado final. Viktor se encarga del trabajo que viene después. Y ahí entendí el cambio. 𝗨𝗻 𝗰𝗵𝗮𝘁𝗯𝗼𝘁 𝗿𝗲𝘀𝗽𝗼𝗻𝗱𝗲. 𝗨𝗻 𝗰𝗼𝗽𝗶𝗹𝗼𝘁𝗼 𝗮𝘆𝘂𝗱𝗮. 𝗔 𝘂𝗻 𝗔𝗜 𝗲𝗺𝗽𝗹𝗼𝘆𝗲𝗲 𝗹𝗲 𝗱𝗲𝗹𝗲𝗴𝗮𝘀 𝗲𝗹 𝘁𝗿𝗮𝗯𝗮𝗷𝗼. Hire @viktor_com for your team. $100 in credits included, no card. Full link in first comment. In partnership with Viktor.
+
+![𝗥𝗲𝘃𝗶𝘀𝗮𝗺𝗼𝘀 𝗺á𝘀 𝗱𝗲 𝟯𝟬𝟬 𝗳𝘂𝗲𝗻𝘁𝗲𝘀 𝗮𝗹 𝗱í𝗮 𝘆 𝗰𝗼𝗻𝘃𝗲𝗿𝘁𝗶𝗺𝗼𝘀 𝘂𝗻𝗮 𝗻𝗼𝘁𝗶𝗰𝗶𝗮 𝗲𝗻 𝟱 𝗽𝗶𝗲𝘇𝗮𝘀 𝗱𝗲 𝗰𝗼𝗻𝘁𝗲𝗻𝗶𝗱𝗼. En GptZone, nuestro equipo transforma noticias de tecnología en contenido para web, newsletter, LinkedIn y redes](../../../../assets/images/2026/09/01/2094742481241805021-1.jpg)
+
+🔗 [View original post](https://x.com/MiguelMaestroIA/status/2094742481241805021)
 
 ---
 
@@ -305,5 +341,15 @@
 > Cortisol = Jaw clenching Cortisol = Waking up at 3 AM Cortisol = Belly fat that won&apos;t budge Cortisol = Bloated face Cortisol = No libido One hormone. Every symptom. Simple fix: 1. Ashwagandha in the morning.
 
 🔗 [View original post](https://x.com/TheFastedState/status/2094661199552290855)
+
+---
+
+### 🕐 03:18 UTC · @Wise1Philosophy
+
+> 🚨Breaking: If you are a student learning to code, save this right now. An open-source repository loaded with ready-to-use AI prompts for: • Full-stack coding • Bug fixing &amp; debugging • GitHub automation • Unit &amp; integration testing • Scalable system architecture • Codebase security audits • DevOps &amp; deployment • Tech career growth &amp; study strategies 100% Free. Completely open-source.
+
+![🚨Breaking: If you are a student learning to code, save this right now. An open-source repository loaded with ready-to-use AI prompts for: • Full-stack coding • Bug fixing &amp; debugging • GitHub auto](../../../../assets/images/2026/09/01/2094625959806894339-1.jpg)
+
+🔗 [View original post](https://x.com/HeyRudra9/status/2094625959806894339)
 
 ---
