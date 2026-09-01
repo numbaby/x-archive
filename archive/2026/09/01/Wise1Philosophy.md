@@ -2,7 +2,321 @@
 
 ## 📅 September 01, 2026
 
-> 77 post(s) archived.
+> 114 post(s) archived.
+
+---
+
+### 🕐 18:59 UTC · @Wise1Philosophy
+
+> Claude Fable 5.1 and Mythos 5.1 already causing budget decisions pov: new model drops and you have 14% of your weekly limit left
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2094862642376474872)
+
+---
+
+### 🕐 18:38 UTC · @Wise1Philosophy
+
+> AI for learning gets a lot more useful when it can adapt to what you need, instead of making you figure out the perfect prompt first. Gauth is building that into the learning experience with personalized courses, quizzes, visuals, and an AI Tutor along the way. They’re live on Product Hunt today. Worth a look. https://www.producthunt.com/products/gauth-ai-course
+
+![AI for learning gets a lot more useful when it can adapt to what you need, instead of making you figure out the perfect prompt first. Gauth is building that into the learning experience with personali](../../../../assets/images/2026/09/01/2094857328600523115-1.jpg)
+
+🔗 [View original post](https://x.com/Damn_coder/status/2094857328600523115)
+
+---
+
+### 🕐 18:35 UTC · @Wise1Philosophy
+
+> POV: my wallet muted Claude notifications 😭 Media We’re introducing Claude Fable 5.1 and Claude Mythos 5.1. They&apos;re the world’s most advanced models for coding and knowledge work.
+
+🔗 [View original post](https://x.com/socialwithaayan/status/2094856639723741597)
+
+---
+
+### 🕐 18:04 UTC · @Wise1Philosophy
+
+> RT @DataChaz: WOW. Federal agencies are deploying Bland&apos;s voice AI to automate public sector calls. folks finding out they’ll never have t…
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2094848894769201234)
+
+---
+
+### 🕐 18:04 UTC · @Wise1Philosophy
+
+> 47 major AI coding releases in 8 months. Asked Keenable SELECT to map the entire 2026 coding landscape. One prompt. 15 companies. 47 sourced releases. Querying the web like a database is a pretty wild unlock ↓ We just launched Keenable SELECT. It is an agent that queries the web as a database. Try it and share your best reports with us! Free through September.
+
+![47 major AI coding releases in 8 months. Asked Keenable SELECT to map the entire 2026 coding landscape. One prompt. 15 companies. 47 sourced releases. Querying the web like a database is a pretty wild](../../../../assets/images/2026/09/01/2094848889102754071-1.jpg)
+
+🔗 [View original post](https://x.com/alex_prompter/status/2094848889102754071)
+
+---
+
+### 🕐 17:58 UTC · @Wise1Philosophy
+
+> 5 doctor&apos;s tricks that sound strange but relieve symptoms in less than a minute.. 🧵
+
+![5 doctor&apos;s tricks that sound strange but relieve symptoms in less than a minute.. 🧵](../../../../assets/images/2026/09/01/2094847420811362516-1.jpg)
+
+🔗 [View original post](https://x.com/Manifest_Lord/status/2094847420811362516)
+
+---
+
+### 🕐 17:58 UTC · @Wise1Philosophy
+
+> 5 punishments that damage kids long-term. They feel effective at 6. They install a pattern that shows up at 26. Here they are.
+
+![5 punishments that damage kids long-term. They feel effective at 6. They install a pattern that shows up at 26. Here they are.](../../../../assets/images/2026/09/01/2094847345422901252-1.jpg)
+
+🔗 [View original post](https://x.com/scotti_brooks/status/2094847345422901252)
+
+---
+
+### 🕐 17:34 UTC · @Wise1Philosophy
+
+> 2K + stereo sound in one pass is a nasty combo Agencies charge $16,756.30 for a commercial like this. I made it with MiniMax H3 on @Hailuo_AI in ONE generation. 2K, 15 seconds, stereo sound baked in. No after effects. No render farm. No revision calls. Prompt below: 👇
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2094841436675957244)
+
+---
+
+### 🕐 17:30 UTC · @Wise1Philosophy
+
+> Your body will forgive you for: -Skipping a workout -Eating pizza -Sleeping poorly one night -Losing motivation Your body WILL NOT forgive you for:
+
+🔗 [View original post](https://x.com/LevelUpPrime/status/2094840276615581793)
+
+---
+
+### 🕐 17:17 UTC · @Wise1Philosophy
+
+> A billionaire once shared this advice: “When you start making money, focus on these priorities before chasing a more expensive life style.” The list shocked me to my core: 1. Buy fewer clothes, but choose higher quality.
+
+🔗 [View original post](https://x.com/josh_uglyasf/status/2094837159731880118)
+
+---
+
+### 🕐 17:09 UTC · @Wise1Philosophy
+
+> very important read for PE partners: PE firms are creating a new role: AI Operating Partner. Korn Ferry and Heidrick &amp; Struggles both published reports on it this year. The title tells you everything. It&apos;s a confession. They spent 18 months buying Copilot seats, funding agent platforms, and running internal hackatho…
+
+🔗 [View original post](https://x.com/alex_prompter/status/2094835050642616599)
+
+---
+
+### 🕐 17:06 UTC · @Wise1Philosophy
+
+> https://x.com/i/article/2089332234679640064
+
+🔗 [View original post](https://x.com/alex_prompter/status/2094834359106764866)
+
+---
+
+### 🕐 17:04 UTC · @Wise1Philosophy
+
+> 3-5x sounds like a vendor deck number. I used to think that too. Then we rebuilt a client&apos;s core platform. Their team estimated 7 to 8 months. Two engineers delivered the core in 3.5 months, production by month 6. 122 merged PRs in 90 days. 104 with fewer than 5 reviewer comments. $200 per developer per month in AI compute. Their CTO called the pod &quot;top performing team.&quot; Both engineers got bonused twice. That multiplier came from removing three bottlenecks most teams don&apos;t measure. [1] Visibility: your team doesn&apos;t know what the AI can reach in the codebase, so they guess, burn cycles on code the agent can&apos;t touch, and report progress they haven&apos;t made. [2] Trust: your engineers ship AI-generated code without deterministic review gates, and defect risk scales with output volume. [3] Drift: you&apos;re not tracking cost per commit, cycle time by task type, or where the agent adds value, so by week four you&apos;re paying for velocity you&apos;re not getting. 98% of our code is not handwritten, and a senior engineer reviews every line before it ships. That number reflects the system around the AI. The Velocity Framework exists because 3-5x falls out when you solve those three problems every sprint.
+
+![3-5x sounds like a vendor deck number. I used to think that too. Then we rebuilt a client&apos;s core platform. Their team estimated 7 to 8 months. Two engineers delivered the core in 3.5 months, prod](../../../../assets/images/2026/09/01/2094833873708327098-1.jpg)
+
+🔗 [View original post](https://x.com/LimestoneHQ/status/2094833873708327098)
+
+---
+
+### 🕐 17:04 UTC · @Wise1Philosophy
+
+> The Bland phone car went to Washington. Bland is now the first FedRAMP 20x Class A certified voice AI company in the US, bringing secure, reliable AI phone infrastructure to federal agencies. Complex, high-stakes calls, now available to the public sector. Learn more here: https://www.bland.ai/government
+
+![The Bland phone car went to Washington. Bland is now the first FedRAMP 20x Class A certified voice AI company in the US, bringing secure, reliable AI phone infrastructure to federal agencies. Complex,](../../../../assets/images/2026/09/01/2094833694607605957-1.jpg)
+
+🔗 [View original post](https://x.com/usebland/status/2094833694607605957)
+
+---
+
+### 🕐 16:52 UTC · @Wise1Philosophy
+
+> Robotics training inside this sounds sooo useful :) Visko just dropped Orbis and it changes what a simulator is. It is a Live Model, so it runs instead of returning a file. &gt; real time, the world moves on the clock, not on your render queue &gt; memory carries forward, nothing is rebuilt from scratch &gt; you can intervene mid run and i…
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2094830760331006159)
+
+---
+
+### 🕐 16:35 UTC · @Wise1Philosophy
+
+> Amazon shows you the total price. Costco shows you the per-unit price. That one difference is costing Amazon shoppers roughly $850 a year. Amazon&apos;s product page shows a package price and a delivery date. $29.99. Arrives tomorrow. One click. Done. Costco&apos;s shelf tag shows the per-unit price right on the label. $0.04 per tablet. $0.13 per bag. $0.22 per ounce. The math is already done. The comparison is already visible. Most Amazon shoppers never calculate the per-unit cost on anything they buy. They see a package price that looks reasonable, they see Prime delivery that feels fast, and they click. The total feels right. The per-unit math, the number that actually tells you whether you&apos;re overpaying, never enters the decision because nothing on Amazon&apos;s screen ever shows it. A supply chain analyst who spent 8 years comparing wholesale, retail, and marketplace pricing across hundreds of consumer products sat down with her coworker one evening and compared 15 common household products per-unit across both stores. Amazon was more expensive on 11 of them. On the 4 where Amazon was cheaper, the difference was cents. On the 11 where Costco was cheaper, the difference was dollars. &quot;You&apos;re not comparing prices when you shop on Amazon. You&apos;re comparing feelings. The package looks affordable. The delivery feels fast. The one-click checkout feels easy. But you&apos;ve never once divided the package price by the unit count and compared that number to what the same product costs per-unit at the warehouse you drive past every week. That one calculation, done once, on each product, changes everything.&quot; Here are the 9 items where the per-unit math hurts the most 🧵
+
+🔗 [View original post](https://x.com/Kevincreates77/status/2094826493990125864)
+
+---
+
+### 🕐 16:32 UTC · @Wise1Philosophy
+
+> 80 cents of every venture dollar on Earth now goes to AI. Not tech. Not software. AI alone. Investors have never bet this hard on one thing in the history of venture capital, and it happened in a single quarter. The full story is in the H1 2026 Industry Report:https://bit.ly/StateofAI2026
+
+![80 cents of every venture dollar on Earth now goes to AI. Not tech. Not software. AI alone. Investors have never bet this hard on one thing in the history of venture capital, and it happened in a sing](../../../../assets/images/2026/09/01/2094825698120577361-1.jpg)
+
+🔗 [View original post](https://x.com/TheAIColonyRD/status/2094825698120577361)
+
+---
+
+### 🕐 16:29 UTC · @Wise1Philosophy
+
+> Conventional AI video has one setting: offline. Humans have one setting: now. Orbis closed that gap by streaming continuously and accepting input while it generates. Everything before this asked people to wait. This one does not. Today, we are introducing Orbis 1.0, our first Live Model! Create living worlds and stream them in real time, with persistent memory, interactivity, and physics-grounded generation of unbounded length. Try it now at https://www.visko.ai/models#orbis API available via @reactorworl…
+
+🔗 [View original post](https://x.com/AriaWestcott/status/2094824861604487433)
+
+---
+
+### 🕐 16:24 UTC · @Wise1Philosophy
+
+> AT LAST A GENAI VIDEO MODEL THAT ACTUALLY KILLS THE RENDER WAIT TIME @viskoai just launched Orbis alongside a $10M pre-seed. The big difference? You don&apos;t wait for a video to finish rendering. The world streams continuously, and you can change it while it&apos;s being generated. Shot going in the wrong direction? Just update the prompt. The scene adapts live. interesting release 👀 Media Today, we are introducing Orbis 1.0, our first Live Model! Create living worlds and stream them in real time, with persistent memory, interactivity, and physics-grounded generation of unbounded length. Try it now at https://www.visko.ai/models#orbis API available via @reactorworl…
+
+🔗 [View original post](https://x.com/DataChaz/status/2094823715586429011)
+
+---
+
+### 🕐 16:24 UTC · @Wise1Philosophy
+
+> Visko did not build a better generator. They built something closer to a running simulation. A rendered clip is finished the moment it exists. A live model keeps deciding what happens next, which is why you can interrupt it and it obeys. Different machine, different ceiling. Today, we are introducing Orbis 1.0, our first Live Model! Create living worlds and stream them in real time, with persistent memory, interactivity, and physics-grounded generation of unbounded length. Try it now at https://www.visko.ai/models#orbis API available via @reactorworl…
+
+🔗 [View original post](https://x.com/AIHighlight/status/2094823654353670636)
+
+---
+
+### 🕐 16:23 UTC · @Wise1Philosophy
+
+> AI has no limits! Media
+
+🔗 [View original post](https://x.com/AIHighlight/status/2094823466939683207)
+
+---
+
+### 🕐 16:22 UTC · @Wise1Philosophy
+
+> This science class came out of one prompt. It&apos;s Orbis, the live model @viskoai announced today. It doesn&apos;t render clips, it streams a world while you watch. I typed one line, picked Stable mode, and it played this out live: the teacher, the four kids, the solar system drifting on the wall screen. The part that got me: the prompt stays open while it runs. Type a change mid-stream and the scene follows without restarting or losing the room. Full prompt in the reply. Media Today, we are introducing Orbis 1.0, our first Live Model! Create living worlds and stream them in real time, with persistent memory, interactivity, and physics-grounded generation of unbounded length. Try it now at https://www.visko.ai/models#orbis API available via @reactorworl…
+
+🔗 [View original post](https://x.com/alex_prompter/status/2094823237666427172)
+
+---
+
+### 🕐 16:22 UTC · @Wise1Philosophy
+
+> This is a bigger deal than the timeline thinks. The reason AI video breaks after a minute is that nothing is holding the world together between frames. Orbis holds it with persistent memory and physics, so long runs stop drifting. Length was never the problem. Consistency was. Today, we are introducing Orbis 1.0, our first Live Model! Create living worlds and stream them in real time, with persistent memory, interactivity, and physics-grounded generation of unbounded length. Try it now at https://www.visko.ai/models#orbis API available via @reactorworl…
+
+🔗 [View original post](https://x.com/TheAIColony/status/2094823227746906322)
+
+---
+
+### 🕐 16:20 UTC · @Wise1Philosophy
+
+> Think about robotics training in a world that never breaks its own rules. Or a game level that generates itself while you walk through it. Orbis makes both a real-time problem instead of a rendering problem. Today, we are introducing Orbis 1.0, our first Live Model! Create living worlds and stream them in real time, with persistent memory, interactivity, and physics-grounded generation of unbounded length. Try it now at https://www.visko.ai/models#orbis API available via @reactorworl…
+
+🔗 [View original post](https://x.com/FutureStacked/status/2094822766562222085)
+
+---
+
+### 🕐 16:19 UTC · @Wise1Philosophy
+
+> I would lose track after bot number three 😂 a grok bot bought a tesla this week another one runs a trading floor 24/7 another one does the books 7 jobs that shouldn&apos;t exist yet
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2094822465222410368)
+
+---
+
+### 🕐 16:19 UTC · @Wise1Philosophy
+
+> The last few years of AI video were about generating a clip and waiting. The next few are about a world running live next to you, with memory, no fixed ending. Orbis 1.0 is the first one that actually does it. Today, we are introducing Orbis 1.0, our first Live Model! Create living worlds and stream them in real time, with persistent memory, interactivity, and physics-grounded generation of unbounded length. Try it now at https://www.visko.ai/models#orbis API available via @reactorworl…
+
+🔗 [View original post](https://x.com/AIFrontliner/status/2094822377272062447)
+
+---
+
+### 🕐 16:18 UTC · @Wise1Philosophy
+
+> the relighting note is HUGE!! everyone is posting these AI character videos and nobody explains how they get this realistic.. so here&apos;s my exact process, start to finish 🧵
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2094822287631393109)
+
+---
+
+### 🕐 16:15 UTC · @Wise1Philosophy
+
+> Tested out @viskoai yesterday and the live workflow is pretty wild. They just announced Orbis with a $10M pre-seed. You can change prompts mid-stream and the scene adapts live while keeping context from where you just were. Recorded this quick clip over at http://visko.ai. Media Today, we are introducing Orbis 1.0, our first Live Model! Create living worlds and stream them in real time, with persistent memory, interactivity, and physics-grounded generation of unbounded length. Try it now at https://www.visko.ai/models#orbis API available via @reactorworl…
+
+🔗 [View original post](https://x.com/ecomchasedimond/status/2094821418131497250)
+
+---
+
+### 🕐 16:15 UTC · @Wise1Philosophy
+
+> CHATGPT CAN FIX YOUR ENTIRE FINANCIAL SITUATION IN JUST ONE WEEKEND. Here are 10 prompts to help you build wealth from scratch:
+
+🔗 [View original post](https://x.com/AriaWestcott/status/2094821419490136406)
+
+---
+
+### 🕐 16:11 UTC · @Wise1Philosophy
+
+> We added $153K MRR at Frontal in under 90 days with 24 people postingand zero paid ads. Going in, I thought the writing tool would be the thing that mattered most. It ended up being the least important thing in the stack. The 9 tools we actually needed:
+
+🔗 [View original post](https://x.com/mailankhong/status/2094820437436051924)
+
+---
+
+### 🕐 16:10 UTC · @Wise1Philosophy
+
+> WE ARE COOKED. I&apos;ve seen a ton of text-to-video generators drop lately, but this is entirely different. Visko isn&apos;t just generating video clips. It&apos;s streaming a live world that you can actively mess with while it&apos;s running. Like, you start a scene, change the prompt mid-generation, watch it adapt in real time AND the world just keeps going. Makes sense why they raised a $10M pre-seed for this. Media Today, we are introducing Orbis 1.0, our first Live Model! Create living worlds and stream them in real time, with persistent memory, interactivity, and physics-grounded generation of unbounded length. Try it now at https://www.visko.ai/models#orbis API available via @reactorworl…
+
+🔗 [View original post](https://x.com/thetripathi58/status/2094820202311770516)
+
+---
+
+### 🕐 16:09 UTC · @Wise1Philosophy
+
+> Your poor diet is why you are still fat. Studies confirm that the people who lose weight the fastest pick 3-4 simple diets, and eat them on repeat. Here&apos;s the list: 1. Chipotle
+
+🔗 [View original post](https://x.com/DPro_Coach/status/2094819883167207852)
+
+---
+
+### 🕐 16:05 UTC · @Wise1Philosophy
+
+> the best 20 accounts to follow in AI: @karpathy = learn LLMs @steipete = learn openclaw @gregisenberg = learn startup ideas @rileybrown = learn vibecoding @corbin_braun = learn cursor @jackfriks = learn solo apps @levelsio = learn solo startups @marclou = learn solo startups @EXM7777 = learn AI ops + systems @eptwts = learn AI money @alex_prompter = learn prompting @mardehaym = learn enterprise AI @vasuman = learn AI agents @AmirMushich = learn AI ads @0xROAS = learn AI UGC @AndrewYNg = learn AI engineering @kloss_xyz = learn systems architecture @emollick = learn AI science @Hesamation = learn AI/ML @claudeskills101 = learn Claude follow them all and learn.
+
+🔗 [View original post](https://x.com/alex_prompter/status/2094818827137581543)
+
+---
+
+### 🕐 16:02 UTC · @Wise1Philosophy
+
+> Peter Thiel co-founded PayPal and Palantir, and was the first outside investor in Facebook. In his 2014 Stanford lecture, he laid out the 7 counterintuitive truths about business that most founders get wrong: 1) Being the first mover is a trap Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2094818086918791651)
+
+---
+
+### 🕐 15:57 UTC · @Wise1Philosophy
+
+> You spend 8 hours in bed every night, but still wake up exhausted. Coffee, cold baths, even meditation don&apos;t help…Here&apos;s what&apos;s really going on: 1. Waking at 3-4 AM.
+
+🔗 [View original post](https://x.com/TheFastedState/status/2094816956398682168)
+
+---
+
+### 🕐 15:53 UTC · @Wise1Philosophy
+
+> Reddit sued Perplexity and a group of major scraping providers, including SerpApi. In the process, they revealed how Perplexity, ChatGPT, Claude and Google actually work. Including how businesses can get traffic from AI search to their websites. Now that the secret is out, let’s talk about it. By the way, if you want to see whether your business is appearing across Google AI, ChatGPT, Claude, Perplexity and Grok, check here (it&apos;s free): https://seo-stuff.com/free-audit Reddit’s lawsuit claims that Perplexity and its partners have been scraping Google’s search results to capture Reddit content indirectly, bypassing robots.txt restrictions. One part of the complaint really stuck out. Reddit reportedly created a test post that only Google could crawl. Within hours, Perplexity showed the content of that post. According to Reddit, the only way Perplexity could have retrieved that content was by scraping Google’s SERPs or by getting the data from a partner that scraped it. This essentially confirms that Perplexity and similar AI search engines are not crawling the full internet on their own. Instead, they are relying heavily on obviously training data, but also Google&apos;s top results, often times Bing&apos;s top results, authority domains, recency signals and optimized data. This has been a guiding principle by which SEO Stuff (http://seo-stuff.com) has been operating. This also lines up cleanly with what Perplexity’s head of comms recently explained publicly. Many AI search systems still rely on page-level discovery signals before passing those results into an LLM, which then synthesizes answers using sub-document or snippet-level context. (If you want to see where your site stands across Google and AI search, start here: https://seo-stuff.com/free-audit) AI engines don’t start from “the web&quot; so much as they start from a filtered, ranked, authority-weighted version of the web. When you break it down, here is what appears to be happening under the hood: Perplexity monitors and ingests Google’s top results as a discovery feed. And this is why visibility in Google translates directly into visibility in AI search. This also explains why brands that “rank fine” but lack authority or structure often never show up in AI answers. They’re visible to humans, but not that useful to machines. Perplexity has actually offered an interesting window into AI search dating back to last August when their “ranking factors” leaked courtesy of Metehan Yesilyurt. Retrieved content is broken into chunks and converted into vector embeddings. Then at search time, the system compares your content’s vectors against the user’s query to find semantically relevant matches. Clean structure, clear subheadings, short answer blocks and semantic clarity win out. This is exactly what snippet-first systems optimize for: reusable fragments. Authority domains also receive a ranking boost, and legitimate, strong backlinks still matter. Recent studies on AI Overviews and Common Crawl back this up, showing authority builds on itself inside AI systems because high-authority domains are crawled more often, retrieved more often and cited more often. Also, a strict recency filter is applied. Perplexity uses a time decay system. New content and recently updated content are weighted more heavily. Everything we have learned lines up perfectly with the system SEO Stuff (http://seo-stuff.com) has been building around long before this lawsuit surfaced. Not because anyone was exploiting a one-off loophole, but because SEO Stuff was building for how AI systems actually retrieve, chunk and cite information. The done-for-you package: https://seo-stuff.com/gold-plan-package You get 10 AI search optimized articles plus three DR50+ backlinks per cycle. The content is formatted with: High semantic density Clear HTML markup TLDR summaries Question-based H2s Short answer blocks for extraction Backlinks come from domains already appearing in AI results and already receiving real search traffic. This builds both discovery authority (Google) and citation defensibility (AI). The content package: https://seo-stuff.com/premium-content-bundle-service You get 60 targeted, high-similarity articles created and refreshed on rolling cycles to stay inside the visibility window that Perplexity, Gemini and AI Overviews rely on. This content is designed to show up in both Google’s index and Perplexity’s derivative index. Scale matters because AI confidence is built through repetition, not one perfect page. The authority package: https://seo-stuff.com/premium-backlink-bundle-service You get three DR50+ contextual backlinks from domains that are already being cited by AI answer engines. This reinforces authority and entity alignment so your site is more likely to be selected by ChatGPT and Perplexity. And if you want to see whether your business is appearing across Google AI, ChatGPT, Claude, Perplexity and Grok, check here (it&apos;s free): https://seo-stuff.com/free-audit 97% of enterprise leaders say AI search optimization produced positive results for them. 94% are increasing their budgets for it going forward. You&apos;ll invest in AI search optimization at some point. It will either be now when it&apos;s reasonably less competitive, or later when litera…
+
+![Reddit sued Perplexity and a group of major scraping providers, including SerpApi. In the process, they revealed how Perplexity, ChatGPT, Claude and Google actually work. Including how businesses can ](../../../../assets/images/2026/09/01/2094815928060104778-1.jpg)
+
+🔗 [View original post](https://x.com/alexgroberman/status/2094815928060104778)
+
+---
+
+### 🕐 15:31 UTC · @Wise1Philosophy
+
+> I&apos;ve spent 1,000s of hours mastering Claude. My 11 best Claude guides (links below): New Guides Use HTML, not Markdown → https://charliehills.substack.com/p/html-md Delete your Claude MD → https://charliehills.substack.com/p/delete-your-claudemd Claude Code in 10 Mins →https://charliehills.substack.com/p/give-me-10-minutes-ill-teach-you 100% Humanised Text → https://charliehills.substack.com/p/i-hacked-substacks-ai-detector How to &quot;Record a Skill&quot; → https://charliehills.substack.com/p/record-a-skill-in-claude Start Here The Complete Claude Guide → https://charliehills.substack.com/p/claude-code-cowork-the-complete-guide Claude for Normal People → https://charliehills.substack.com/p/claude-code-for-normal-people Build (No Code) Build Your First AI Agent → https://charliehills.substack.com/p/build-your-1st-ai-agent-in-claude Agent Harness Explained → https://charliehills.substack.com/p/wait-your-claude-doesnt-have-a-harness 3-Level Automation System →https://charliehills.substack.com/p/the-3-level-system-i-use-to-build Create With Claude Design in Claude Code → https://charliehills.substack.com/p/design-in-claude-code-not-canva-or How to use Claude Design →https://charliehills.substack.com/p/anthropic-just-dropped-claude-design Claude Code for Video →https://charliehills.substack.com/p/claude-code-killed-video-editors Get More From Claude Every Claude Feature → https://charliehills.substack.com/p/how-i-use-every-claude-feature-and Features Wasting Your Time →https://charliehills.substack.com/p/claudes-features-are-wasting-your How I Built a 2nd Brain → https://charliehills.substack.com/p/how-i-built-a-2nd-brain-with-ai Read them and you go from chatting to building. Repost ♻️ and I&apos;ll send you 100+ free Claude guides. P.S. Which guide are you starting with? https://x.com/i/article/2094003933782163456
+
+![I&apos;ve spent 1,000s of hours mastering Claude. My 11 best Claude guides (links below): New Guides Use HTML, not Markdown → https://charliehills.substack.com/p/html-md Delete your Claude MD → https:](../../../../assets/images/2026/09/01/2094810407148097628-1.jpg)
+
+🔗 [View original post](https://x.com/charliejhills/status/2094810407148097628)
 
 ---
 
