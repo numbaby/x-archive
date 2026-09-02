@@ -2,7 +2,23 @@
 
 ## 📅 September 02, 2026
 
-> 2 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 05:13 UTC · @elonmusk
+
+> New feature Dude WTF? When the F did @SpaceXAI release this feature? In voice conversation mode, you can share your screen with the voice model, and it can see everything you&apos;re doing in the browser/talk you through anything you want? How did I miss this? This is amazing. It works so well.
+
+🔗 [View original post](https://x.com/elonmusk/status/2095017366254194884)
+
+---
+
+### 🕐 03:42 UTC · @elonmusk
+
+> Remember when it was consensus that X will die? 103M new users in August... The mad lads did it. There can only be one global town square: The one every single person is using.
+
+🔗 [View original post](https://x.com/shaunmmaguire/status/2094994399470252163)
 
 ---
 
