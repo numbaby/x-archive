@@ -2,7 +2,67 @@
 
 ## 📅 September 02, 2026
 
-> 30 post(s) archived.
+> 38 post(s) archived.
+
+---
+
+### 🕐 11:15 UTC · @Wise1Philosophy
+
+> Most people pick the wrong AI for the job. It’s why they get mixed and inconsistent results. Use this AI task-matching cheat sheet: [🔖 bookmark this post for later] 1. Search (Web Browsing) • Delivers up-to-date answers with citations. • Best AI: Perplexity • Prompt: “Find the latest inflation data.” 2. Deep Research • Builds multi-step research with sourced insights. • Best AI: Gemini • Prompt: “Analyze top trends in B2B SaaS this year.” 3. Vision – Image Input &amp; Generation • Uploads or creates images with clear explanations. • Best AI: ChatGPT • Prompt: “Analyze this chart for key trends.” 4. Vision – Video Input &amp; Generation • Reviews or creates video content. • Best AI: Gemini • Prompt: “Summarize key moments in this video.” 5. Camera Mode • Offers real-time help through your camera. • Best AI: Google AI Studio • Prompt: “Fix this Excel formula using my camera.” 6. Voice Mode • Lets you speak naturally and get spoken replies. • Best AI: ChatGPT • Prompt: “Summarize today’s news while I drive.” 7. File Uploads • Reads uploaded files &amp; turns them into clear summaries. • Best AI: Claude • Prompt: “Summarize this strategy deck.” 8. Data Analysis (Code Interpreter) • Processes data files and generates charts. • Best AI: Claude • Prompt: “Plot sales from this CSV.” 9. Canvas (Collaborative Workspace) • Works with you to draft, edit, or build ideas. • Best AI: Claude • Prompt: “Create a landing page mockup.” 10. Memory (opt-in) • Store your saved preferences. • Best AI: ChatGPT • Prompt: “Remember my writing style.” 11. Custom Instructions • Applies your tone, format, and rules automatically. • Best AI: ChatGPT • Prompt: “Use concise bullet points in all replies.” 12. Projects • Organizes related chats and files in one place. • Best AI: Claude • Prompt: “Organize all my Bootcamp materials.” 13. Scheduled Tasks (Automations) • Sets reminders and automates simple actions. • Best AI: Perplexity • Prompt: “Remind me every Monday morning.” 14. Custom GPTs • Builds task-specific AI assistants. • Best AI: ChatGPT • Prompt: “Create a GPT for writing sales emails.” 15. Agent Mode • Handles multi-step tasks from planning to research. • Best AI: Perplexity • Prompt: “Plan my Tokyo trip itinerary.” 16. Connectors • Links your AI to external apps. • Best AI: Claude • Prompt: “Sync with my CRM and summarize updates.” 17. Study and Learn Mode • Guides structured lessons with practice. • Best AI: Gemini • Prompt: “Teach me intermediate Python with feedback.” AI isn’t a one-size-fits-all tool. Use the right AI tool based on your task. 📌 Get Advanced ChatGPT Guide (free): https://bit.ly/3StIB3z 👉 Follow me @AndrewBolis for more and 🔄 Repost this to help others use AI
+
+![Most people pick the wrong AI for the job. It’s why they get mixed and inconsistent results. Use this AI task-matching cheat sheet: [🔖 bookmark this post for later] 1. Search (Web Browsing) • Delivers](../../../../assets/images/2026/09/02/2095108231450570915-1.jpg)
+
+🔗 [View original post](https://x.com/AndrewBolis/status/2095108231450570915)
+
+---
+
+### 🕐 11:04 UTC · @Wise1Philosophy
+
+> Codex with a Hermes agent running goals on the fly is something else. Updated the agent skill so you can fire a Codex goal straight from Telegram and watch every single one get tracked on a Kanban board. Seeing Codex chase goals in real time and actually following the progress has been wild. Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media Architects used to draw every parking space by hand. TestFit AI maps out the entire layout in seconds. Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signal…
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2095105486966403475)
+
+---
+
+### 🕐 11:01 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/02/2095104926040924254-1.jpg)
+
+🔗 [View original post](https://x.com/apex_mentality_/status/2095104926040924254)
+
+---
+
+### 🕐 11:01 UTC · @Wise1Philosophy
+
+> Dyson just put AI inside a $499 toothbrush, and it’s ridiculous. It uses a camera + AI trained on 470,000 dental images to find gaps between your teeth and floss them while you brush. We officially have AI-powered toothbrushes now. Media
+
+🔗 [View original post](https://x.com/AIFrontliner/status/2095104749070586193)
+
+---
+
+### 🕐 10:48 UTC · @Wise1Philosophy
+
+> AI 3D has just moved beyond object generation. With Hyper3D WorldGen, one scene image can become a complete 3D world made of individual editable objects, layout, depth, and spatial relationships. Not just a scene you can view. A scene you can actually work with. Watch this 👇 Media
+
+🔗 [View original post](https://x.com/JaynitMakwana/status/2095101616282325019)
+
+---
+
+### 🕐 10:32 UTC · @Wise1Philosophy
+
+> The present and the future. Media
+
+🔗 [View original post](https://x.com/FutureStacked/status/2095097449878585607)
+
+---
+
+### 🕐 10:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/02/2095096993060139372-1.jpg)
+
+🔗 [View original post](https://x.com/yeti_mind/status/2095096993060139372)
 
 ---
 
@@ -11,6 +71,14 @@
 > the best breakdown of what an enterprise AI factory is: We run an AI Factory at @LimestoneHQ. Here&apos;s what actually happens between a ticket and a merged pull request. Most teams already tried the loop. Point an agent at a repo, handed it a ticket, and got back code that compiled, misunderstood the architecture, and arrived with forty …
 
 🔗 [View original post](https://x.com/alex_prompter/status/2095096200693186859)
+
+---
+
+### 🕐 10:25 UTC · @Wise1Philosophy
+
+> We run an AI Factory at @LimestoneHQ. Here&apos;s what actually happens between a ticket and a merged pull request. Most teams already tried the loop. Point an agent at a repo, handed it a ticket, and got back code that compiled, misunderstood the architecture, and arrived with forty review comments nobody read, followed by an invoice. The loop was cheap to build. The factory around it, the part that decides what the agent may touch, what survives its run, and what a human still signs, is where the real work went. A ticket moves to &quot;AI : ready&quot; on the board, and that is the last thing a human does to start it. The orchestrator resolves the repo and the task context, leases a clean sandbox with the project already loaded, and dispatches the agent into it, one task per box with nothing shared between boxes. Nobody writes code yet. The agent drafts a spec with requirements, user stories, and acceptance criteria, routes any open question to a human, and waits for an engineer to approve it. From the approved spec it writes a plan covering architecture, data, and contracts, then breaks the plan into ordered, testable tasks that each trace back to a line in the spec, and waits again for an engineer to approve the plan. Two approvals happen before the first line of code, which is the point at which &quot;the AI misunderstood our architecture&quot; stops being a risk. Then the agent runs its loop: plan, edit, test, fix, feeding CI failures back into the next fix until the build goes green or it hits its iteration cap or its cost cap. It can write to its own branch and nowhere else, and when it finishes, the sandbox is destroyed and the only things left are the pull request and its traces. Review is a five-step pipeline where one step calls the model and the other four are plain code an engineer can unit-test. The model reads the repo read-only, cannot run anything, cannot edit anything, and every finding it produces has to quote a verbatim snippet of five lines or fewer from the changed file, or the gate discards it. The gate also caps the review at five comments per PR, so your engineers read five grounded comments instead of forty speculative ones, and a human approves the merge every time. Every model call on the way rides one governed path where the keys, the budget, and the policy live together, and we treat a direct vendor call as a defect. Each call is stamped to the commit, the pull request, the work item, and the epic, so cycle time gets read off that chain instead of estimated in a retro. The output side: 98% of the code at Limestone Digital isn&apos;t handwritten. On a logistics client&apos;s brownfield rebuild, cycle time dropped 50%, 122 pull requests merged in the first 90 days, and 104 of them needed fewer than five reviewer comments. You could build the loop, and plenty of teams have. We build the governed factory on your perimeter, and you own what runs.
+
+🔗 [View original post](https://x.com/mardehaym/status/2095095728565588436)
 
 ---
 
