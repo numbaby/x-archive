@@ -2,7 +2,17 @@
 
 ## 📅 September 02, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 02:16 UTC · @dair_ai
+
+> Finally, a good paper testing if graph memory actually beats flat retrieval for long-term agents. (bookmark this one) Researchers extract each conversational turn into typed nodes and attributed edges, answer from a two-hop subgraph, and hold the candidate-generation budget fixed at five retrieval roots. On LongMemEval the graph gets token F1 0.42 against 0.47 for a flat vector baseline, and a paired bootstrap over 500 questions puts the gap at -0.050 (95% CI -0.085 to -0.016). The damage concentrates on questions that require recalling a specific prior assistant turn, where judged correctness falls from 0.911 to 0.607. Splitting a turn into entities discards the surface form those questions depend on. The forgetting module fares much better. One pruning pass over a persistent 27,021-node graph, scored on recency, access frequency, degree centrality and age, removes 9.8% of nodes and 9.5% of stored bytes with token F1 unchanged. Paper: https://arxiv.org/abs/2608.28978 Chat with Paper: https://academy.dair.ai/papers/selective-forgetting-a-graph-based-memory-framework-for-long-term-llm-agents-2608.28978
+
+![Finally, a good paper testing if graph memory actually beats flat retrieval for long-term agents. (bookmark this one) Researchers extract each conversational turn into typed nodes and attributed edges](../../../../assets/images/2026/09/02/2094972586358927466-1.png)
+
+🔗 [View original post](https://x.com/omarsar0/status/2094972586358927466)
 
 ---
 
