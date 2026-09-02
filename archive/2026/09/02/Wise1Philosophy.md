@@ -2,7 +2,76 @@
 
 ## 📅 September 02, 2026
 
-> 19 post(s) archived.
+> 28 post(s) archived.
+
+---
+
+### 🕐 09:10 UTC · @Wise1Philosophy
+
+> My old workflow would&apos;ve restarted and ruined my afternoon 😭 This is not Deep Research. Most tools hand you a report and disappear. This one showed every step, then let me change the task halfway through and kept working. Full run below. 👇
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2095077005423251824)
+
+---
+
+### 🕐 09:06 UTC · @Wise1Philosophy
+
+> The AI tools you&apos;re using today won&apos;t look the same by December. Companies stopped paying for chatbots that answer questions. They now pay for agents that finish the work, plan, act, and keep going without you. The question is no longer which AI is smartest. It&apos;s which one you can trust to run alone. This shift is mapped in the H1 2026 Industry Report: https://bit.ly/StateofAI2026
+
+![The AI tools you&apos;re using today won&apos;t look the same by December. Companies stopped paying for chatbots that answer questions. They now pay for agents that finish the work, plan, act, and kee](../../../../assets/images/2026/09/02/2095075794108272775-1.jpg)
+
+🔗 [View original post](https://x.com/TheAIColonyRD/status/2095075794108272775)
+
+---
+
+### 🕐 08:44 UTC · @Wise1Philosophy
+
+> A guy bought an Apple TV 4K for $179. He uses it to open Netflix, press play, and fall asleep on the couch. Same routine every night. Same 3 apps. Same uncalibrated picture. Same remote he hates. Same &quot;I can&apos;t hear the dialogue&quot; complaint every movie. His friend, a home theater installer who&apos;s calibrated over 2,000 living rooms and has spent 11 years turning average TVs into cinematic experiences, came over for a movie night, looked at the screen for 10 seconds, and picked up the remote. &quot;You bought a $179 home theater computer and you&apos;re using it as a $30 Roku. You&apos;ve never calibrated the picture using the iPhone tool Apple built specifically for your TV. You&apos;ve never turned on Spatial Audio, which turns your AirPods into a surround-sound system. You&apos;ve never connected it to your smart home which it&apos;s already controlling as a hub, silently, 24/7, without you knowing. You&apos;ve never used your iPhone as a keyboard instead of pecking letters one at a time with the remote. And you&apos;ve been watching every movie with dialogue you can&apos;t hear and explosions that shake the walls because you&apos;ve never toggled one audio setting that fixes it in 3 seconds.&quot; He changed 9 things in 15 minutes. The picture looked like a different television. The dialogue became clear without touching the volume. The AirPods became a private surround-sound cinema. The remote stopped being the enemy. And the Apple TV started doing things he didn&apos;t know a streaming box could do. &quot;Apple TV isn&apos;t a streaming stick. It&apos;s a home theater processor, a smart home hub, a gaming console, a FaceTime screen, and a private cinema system. Apple packed all of it into a $179 box and marketed it as &apos;the best way to watch Apple TV+.&apos; Most people heard &apos;streaming box&apos; and never opened Settings.&quot; Here are the 9 things he changed 🧵
+
+🔗 [View original post](https://x.com/jackcoder0/status/2095070397746344082)
+
+---
+
+### 🕐 08:40 UTC · @Wise1Philosophy
+
+> R.I.P. GOOGLE FLIGHTS IN 2026. R.I.P. BOOKING COM IN 2026. R.I.P. SKYSCANNER IN 2026. $1,190 flight. I paid $159. Use these 10 prompts before booking your next trip: 👇🏼 (Save this 🔖 you’ll need it later)
+
+🔗 [View original post](https://x.com/heyalexmoore/status/2095069272498422052)
+
+---
+
+### 🕐 08:38 UTC · @Wise1Philosophy
+
+> I&apos;ve (finally) stopped describing my brand to Claude. All it took was 4 files and 3 prompts: REFERENCE.md. Find five designs you already like. CLAUDE.md. Add four lines so AI finds the reference first. DESIGN.md. This is how to build, not just what&apos;s allowed. examples/. The designs I liked, saved to the system. All 3 prompts are free ↓ https://charliehills.substack.com/p/ai-design-system Repost ♻️ to help someone in your network. https://x.com/i/article/2094003933782163456
+
+![I&apos;ve (finally) stopped describing my brand to Claude. All it took was 4 files and 3 prompts: REFERENCE.md. Find five designs you already like. CLAUDE.md. Add four lines so AI finds the reference ](../../../../assets/images/2026/09/02/2095068891794043190-1.jpg)
+
+🔗 [View original post](https://x.com/charliejhills/status/2095068891794043190)
+
+---
+
+### 🕐 08:34 UTC · @Wise1Philosophy
+
+> 🚨 THIS IS WILD! AI 3D generation is moving from single objects to full scenes now. Hyper3D WorldGen takes one photo and turns it into a structured 3D world complete with spatial relationships, physical properties, and independent editable assets instead of one locked environment. Watch this 👇 Media
+
+🔗 [View original post](https://x.com/heyDhavall/status/2095067758719574468)
+
+---
+
+### 🕐 08:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/02/2095066777797493231-1.jpg)
+
+🔗 [View original post](https://x.com/Mindsthatbuild/status/2095066777797493231)
+
+---
+
+### 🕐 08:19 UTC · @Wise1Philosophy
+
+> For those looking for Masters (or Undergraduate/ PhD) scholarships, many are now open for you! Here is a thread of fully funded opportunities. Don&apos;t just like, share and bookmark, check which applies to you and make efforts to apply!
+
+🔗 [View original post](https://x.com/Shawnife/status/2095064051860594861)
 
 ---
 
@@ -164,5 +233,15 @@
 ![You can earn $9,000 per month if you have ChatGPT, a laptop, and 60 mins a day. Usually, I&apos;d charge $97 for this proven guide, but today it&apos;s yours 100% FREE. Like + reply &apos;Money&apos; ](../../../../assets/images/2026/09/02/2094995059578114536-1.jpg)
 
 🔗 [View original post](https://x.com/JayBisen473370/status/2094995059578114536)
+
+---
+
+### 🕐 00:44 UTC · @Wise1Philosophy
+
+> I share a lot more cool workflows on my instagram Don’t forget to give a follow: https://instagram.com/alex_prompter
+
+![I share a lot more cool workflows on my instagram Don’t forget to give a follow: https://instagram.com/alex_prompter](../../../../assets/images/2026/09/02/2094949466134413618-1.jpg)
+
+🔗 [View original post](https://x.com/alex_prompter/status/2094949466134413618)
 
 ---
