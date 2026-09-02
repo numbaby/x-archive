@@ -2,7 +2,25 @@
 
 ## 📅 September 02, 2026
 
-> 4 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 16:54 UTC · @dair_ai
+
+> Confirmed that recent Gemini flash models might be early results of a recursive self-improvement (RSI) flywheel. RSI is in full swing. Compounding effects will drastically change model progress. Flash models are shipping faster, with improvements in efficiency &amp; performance. A new major Flash iteration every ~3 weeks with such great improvements. This is what the RSI flywheel looks like when it starts compounding. More milestones are on the way—moving faster and landing stronger.
+
+🔗 [View original post](https://x.com/omarsar0/status/2095193581141033362)
+
+---
+
+### 🕐 15:50 UTC · @dair_ai
+
+> Don&apos;t count out Gemini just yet. Feels like a new era of model releases. Models are so powerful that they now come with cyber variants. Love the pricing on Gemini 3.8 Flash. Performance not bad. Gemini 3.8 Flash Cyber is also on the Pareto frontier in patching capabilities. Two new Gemini models are here to help scale your AI agents and secure code: 🔘 3.8 Flash: our most intelligent model yet with significant gains from 3.7 Flash across software engineering, agentic tasks, and multi-step reasoning. 🔘 3.8 Flash Cyber: our most capable cybersecurity…
+
+![Don&apos;t count out Gemini just yet. Feels like a new era of model releases. Models are so powerful that they now come with cyber variants. Love the pricing on Gemini 3.8 Flash. Performance not bad. ](../../../../assets/images/2026/09/02/2095177610930098670-1.png)
+
+🔗 [View original post](https://x.com/omarsar0/status/2095177610930098670)
 
 ---
 
