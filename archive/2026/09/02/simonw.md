@@ -2,7 +2,15 @@
 
 ## 📅 September 02, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 01:20 UTC · @simonw
+
+> (The wheels running backwards appears to be an artifact of the conversion to video - the SVG has them going in the correct direction: https://tools.simonwillison.net/markdown-svg-renderer?url=https%3A%2F%2Fgist.github.com%2Fsimonw%2F87282467acb3652e0f99c85155554a32#response)
+
+🔗 [View original post](https://x.com/simonw/status/2094958667548565893)
 
 ---
 
