@@ -2,7 +2,50 @@
 
 ## 📅 September 02, 2026
 
-> 38 post(s) archived.
+> 46 post(s) archived.
+
+---
+
+### 🕐 12:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/02/2095127234780581968-1.jpg)
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2095127234780581968)
+
+---
+
+### 🕐 12:11 UTC · @Wise1Philosophy
+
+> Everyone fears a heart attack. But your heart can fail slowly without causing any chest pain. Here are 8 signs: 1. Waking up at 4 am with a pounding heart.
+
+🔗 [View original post](https://x.com/CoachDanCole_/status/2095122519644885183)
+
+---
+
+### 🕐 12:10 UTC · @Wise1Philosophy
+
+> Renting is better than buying. You get: • No repairs • No HOA fees • No property tax • Location freedom • More cash to invest Here’s the math your realtor doesn’t want you to do:
+
+🔗 [View original post](https://x.com/erichustls/status/2095122091355848780)
+
+---
+
+### 🕐 11:47 UTC · @Wise1Philosophy
+
+> You can earn $500 per day if you have: 1. A laptop 2. Wi-Fi 3. Time Here are 10 Claude prompts that pay you daily:
+
+![You can earn $500 per day if you have: 1. A laptop 2. Wi-Fi 3. Time Here are 10 Claude prompts that pay you daily:](../../../../assets/images/2026/08/29/2093702667742871855-1.png)
+
+🔗 [View original post](https://x.com/jaysmith_ai/status/2095116451237827057)
+
+---
+
+### 🕐 11:44 UTC · @Wise1Philosophy
+
+> ChatGPT becomes a much better tutor when you stop asking it to explain everything. These 8 prompts make it teach you through practice:
+
+🔗 [View original post](https://x.com/AriaWestcott/status/2095115751136858414)
 
 ---
 
@@ -66,6 +109,14 @@
 
 ---
 
+### 🕐 10:30 UTC · @Wise1Philosophy
+
+> No on-robot training data. Yet the robot autonomously completed a 24-step chemistry experiment. X Square just unveiled TwinDEX: a matched pair of 3-finger, 9-DoF manipulation interfaces. One is wearable, used by humans to collect demonstrations. The other is deployed directly on the robot. The key idea is to close the gap between how data is collected and how it is executed. TwinDEX shares kinematics, contact geometry, and sensing layouts across both sides, so human demonstrations can transfer to the robot without complex retargeting. The policy was trained entirely on robot-free episodes. And in testing, X Square reports up to 5.3x effective throughput compared with on-robot teleoperation. That matters because dexterous robotics has always had a data problem. To teach robots fine-grained manipulation, you need contact-rich demonstrations: twisting, pinching, stabilizing, pouring, tool switching, correcting after small slips. But collecting that data directly on robots is slow, expensive, and hard to scale. TwinDEX points to another path: collect dexterous data without tying up robot fleets, preserve the physical details that make contact work, then deploy the learned behavior on matched robotic hardware. The bigger story is not just a robotic hand. It is a data engine for embodied AI. Media What if a dexterous robot could learn a 20+ step chemistry experiment without a single on-robot training demo? Meet TwinDEX: a pair of co-designed, three-finger, nine-DoF dexterous manipulation interface: one wearable for data collection, one for robot deployment. The twinned des…
+
+🔗 [View original post](https://x.com/XRoboHub/status/2095096942900773017)
+
+---
+
 ### 🕐 10:27 UTC · @Wise1Philosophy
 
 > the best breakdown of what an enterprise AI factory is: We run an AI Factory at @LimestoneHQ. Here&apos;s what actually happens between a ticket and a merged pull request. Most teams already tried the loop. Point an agent at a repo, handed it a ticket, and got back code that compiled, misunderstood the architecture, and arrived with forty …
@@ -79,6 +130,14 @@
 > We run an AI Factory at @LimestoneHQ. Here&apos;s what actually happens between a ticket and a merged pull request. Most teams already tried the loop. Point an agent at a repo, handed it a ticket, and got back code that compiled, misunderstood the architecture, and arrived with forty review comments nobody read, followed by an invoice. The loop was cheap to build. The factory around it, the part that decides what the agent may touch, what survives its run, and what a human still signs, is where the real work went. A ticket moves to &quot;AI : ready&quot; on the board, and that is the last thing a human does to start it. The orchestrator resolves the repo and the task context, leases a clean sandbox with the project already loaded, and dispatches the agent into it, one task per box with nothing shared between boxes. Nobody writes code yet. The agent drafts a spec with requirements, user stories, and acceptance criteria, routes any open question to a human, and waits for an engineer to approve it. From the approved spec it writes a plan covering architecture, data, and contracts, then breaks the plan into ordered, testable tasks that each trace back to a line in the spec, and waits again for an engineer to approve the plan. Two approvals happen before the first line of code, which is the point at which &quot;the AI misunderstood our architecture&quot; stops being a risk. Then the agent runs its loop: plan, edit, test, fix, feeding CI failures back into the next fix until the build goes green or it hits its iteration cap or its cost cap. It can write to its own branch and nowhere else, and when it finishes, the sandbox is destroyed and the only things left are the pull request and its traces. Review is a five-step pipeline where one step calls the model and the other four are plain code an engineer can unit-test. The model reads the repo read-only, cannot run anything, cannot edit anything, and every finding it produces has to quote a verbatim snippet of five lines or fewer from the changed file, or the gate discards it. The gate also caps the review at five comments per PR, so your engineers read five grounded comments instead of forty speculative ones, and a human approves the merge every time. Every model call on the way rides one governed path where the keys, the budget, and the policy live together, and we treat a direct vendor call as a defect. Each call is stamped to the commit, the pull request, the work item, and the epic, so cycle time gets read off that chain instead of estimated in a retro. The output side: 98% of the code at Limestone Digital isn&apos;t handwritten. On a logistics client&apos;s brownfield rebuild, cycle time dropped 50%, 122 pull requests merged in the first 90 days, and 104 of them needed fewer than five reviewer comments. You could build the loop, and plenty of teams have. We build the governed factory on your perimeter, and you own what runs.
 
 🔗 [View original post](https://x.com/mardehaym/status/2095095728565588436)
+
+---
+
+### 🕐 10:01 UTC · @Wise1Philosophy
+
+> 24 hours. That is all it took for Fable 5.1 to take over the headlines. One-shot games. Cinematic video from a single photo. Frontend animation no other model has pulled off consistently before. The output quality is just crazy good. This motion video came out of ONE generation in 19 minutes. 10 wild examples. Media
+
+🔗 [View original post](https://x.com/godofprompt/status/2095089638872629327)
 
 ---
 
@@ -149,6 +208,14 @@
 ![](../../../../assets/images/2026/09/02/2095066777797493231-1.jpg)
 
 🔗 [View original post](https://x.com/Mindsthatbuild/status/2095066777797493231)
+
+---
+
+### 🕐 08:26 UTC · @Wise1Philosophy
+
+> a dev in china posted a 2 minute claude code tutorial. he expected a few hundred views. then someone paused it at 47 seconds. his second monitor was still open on polymarket: $868,862 in profit 28,620 bitcoin trades in 15 minutes no losses entries between 2 and 10 cents payouts in the thousands the tutorial was gone 3 hours later. the screenshot wasn&apos;t. 400k views on the clip. 707k people tracking the wallet. he deleted the video. he couldn&apos;t delete the wallet. https://x.com/HarrisDecodes/status/2094425420024439186/video/1 Media
+
+🔗 [View original post](https://x.com/daveydefi/status/2095065941490937949)
 
 ---
 
