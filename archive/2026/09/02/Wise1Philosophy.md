@@ -2,7 +2,24 @@
 
 ## 📅 September 02, 2026
 
-> 28 post(s) archived.
+> 30 post(s) archived.
+
+---
+
+### 🕐 10:27 UTC · @Wise1Philosophy
+
+> the best breakdown of what an enterprise AI factory is: We run an AI Factory at @LimestoneHQ. Here&apos;s what actually happens between a ticket and a merged pull request. Most teams already tried the loop. Point an agent at a repo, handed it a ticket, and got back code that compiled, misunderstood the architecture, and arrived with forty …
+
+🔗 [View original post](https://x.com/alex_prompter/status/2095096200693186859)
+
+---
+
+### 🕐 09:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/02/2095081893616038215-1.jpg)
+
+🔗 [View original post](https://x.com/Ant_Philosophy/status/2095081893616038215)
 
 ---
 
