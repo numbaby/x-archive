@@ -2,7 +2,142 @@
 
 ## 📅 September 02, 2026
 
-> 58 post(s) archived.
+> 75 post(s) archived.
+
+---
+
+### 🕐 15:46 UTC · @Wise1Philosophy
+
+> The hard part of scheduling was never the calendar. It&apos;s emailing the guest, waiting, rescheduling, then doing it again. Catch talks to the other side for you and closes the loop without you touching it. Big NEWS: Today we&apos;re launching Catch AI, an admin-assistant for busy executives. We started Catch with a simple idea: AI should actually do the administrative work executives hate doing themselves. Not suggest. Not summarize. Do. &gt;&gt;
+
+🔗 [View original post](https://x.com/AriaWestcott/status/2095176595547795745)
+
+---
+
+### 🕐 15:29 UTC · @Wise1Philosophy
+
+> The trust layer is the interesting part here. Commerce teams already have enough dashboards. What they need is an agent that understands the same numbers, works from the same definitions, and can actually turn that into action without making stuff up. That makes Polar Operator feel much more useful than another generic “AI for ecommerce” tool. Today we&apos;re introducing Polar Operator. The AI operator built for commerce, working with your team in Slack. It starts with the data and definitions your team already trusts - so it doesn&apos;t hallucinate. We helped commerce teams trust their numbers. Operator puts that to work.
+
+🔗 [View original post](https://x.com/Damn_coder/status/2095172196092273124)
+
+---
+
+### 🕐 15:15 UTC · @Wise1Philosophy
+
+> Colon Cancer rarely starts with agonizing pain. ​Here are 5 early warning signs of colon cancer you should NEVER ignore. 1. ​Colon Cancer = Blood in your stool.
+
+🔗 [View original post](https://x.com/_Gut_Laboratory/status/2095168868448948507)
+
+---
+
+### 🕐 15:08 UTC · @Wise1Philosophy
+
+> A couple booked an Airbnb for a 3-night weekend getaway. The listing said $89/night. They multiplied in their heads $89 × 3 = $267. Reasonable. Affordable. They clicked &quot;Reserve.&quot; The checkout screen showed $561. $89/night × 3 nights = $267. Cleaning fee: $135. Service fee: $79. Taxes: $80. Total: $561. Effective nightly cost: $187 more than double the listed price on the search page. They booked anyway. They&apos;d already sent the dates to friends. They&apos;d already told their boss they were leaving Thursday. They&apos;d already committed emotionally to a listing that looked like $267 and revealed itself as $561 at the last possible moment before payment. Their friend a travel blogger who&apos;s booked 200+ Airbnbs across 40 countries told them later that the checkout shock was preventable. Entirely. Through settings, strategies, and comparison habits Airbnb doesn&apos;t teach and most guests never learn. She told them the $561 weekend could have been a $380 weekend at a different listing with identical amenities. Or a $447 all-in hotel stay with free breakfast, a pool, daily housekeeping, and loyalty points. Or the same listing at $489 by shifting their dates by 1 day. She showed them 11 Airbnb booking strategies that eliminate fee shock and save $200–$500 per trip. Here&apos;s the full playbook 🧵
+
+🔗 [View original post](https://x.com/jackcoder0/status/2095166977308557761)
+
+---
+
+### 🕐 15:06 UTC · @Wise1Philosophy
+
+> A Stanford professor proved high cortisol hurts your memory, enlarges your fear center, and make your brain smaller. Here’s the 8 protocol: 1. Walk barefoot on grass for 5 minutes. Media
+
+🔗 [View original post](https://x.com/TheFastedState/status/2095166585770226101)
+
+---
+
+### 🕐 14:30 UTC · @Wise1Philosophy
+
+> Claude Fable 5.1 now runs our Meta ads desk for 25% less. Same $10 in, $50 out, 45% off the agentic runs 👇 Shipped Sept 1. Price sheet unchanged, cache reads cut. What moved for anyone running ads through Claude: 1/ The cache-read cut 2/ The 25% / 45% math 3/ The effort dial 4/ The Fable 5 floor 5/ The honesty patch 6/ The multi-hour run 7/ The MCP hookup 8/ The 2 calls that didn&apos;t move Switch the dropdown, the skills load like before. Comment &quot;FABLE&quot; and I&apos;ll DM the skill pack.
+
+![Claude Fable 5.1 now runs our Meta ads desk for 25% less. Same $10 in, $50 out, 45% off the agentic runs 👇 Shipped Sept 1. Price sheet unchanged, cache reads cut. What moved for anyone running ads thr](../../../../assets/images/2026/09/02/2095157297119134159-1.jpg)
+
+🔗 [View original post](https://x.com/nipuntaneja/status/2095157297119134159)
+
+---
+
+### 🕐 14:28 UTC · @Wise1Philosophy
+
+> I&apos;ve run Facebook ads for over a decade. Spent tens of millions doing it across client accounts and my own offers. Here&apos;s 10+ years of brutally honest Facebook ads advice: #1: You are the problem.
+
+🔗 [View original post](https://x.com/TheJeremyHaynes/status/2095156822957052275)
+
+---
+
+### 🕐 14:10 UTC · @Wise1Philosophy
+
+> this is insane... ai just put all the iconic memes in one video🤯 Media
+
+🔗 [View original post](https://x.com/daveydefi/status/2095152475313508532)
+
+---
+
+### 🕐 14:09 UTC · @Wise1Philosophy
+
+> Just finished our celebrity- and creator-founded brand report for July + Aug: ✅ 11 new launches ✅ 8 new equity deals ✅ 10 milestones, exits &amp; revenue jumps ✅ 6 funding rounds, who raised + amounts ✅ 8 other notable moves: shutdowns + pivots + category shifts Want the full report? Comment &quot;SEND&quot; below, and I&apos;ll send it to you right now. (make sure you follow me so I can DM you)
+
+![Just finished our celebrity- and creator-founded brand report for July + Aug: ✅ 11 new launches ✅ 8 new equity deals ✅ 10 milestones, exits &amp; revenue jumps ✅ 6 funding rounds, who raised + amounts](../../../../assets/images/2026/09/02/2095152178163781964-1.jpg)
+
+🔗 [View original post](https://x.com/Scottvdberg/status/2095152178163781964)
+
+---
+
+### 🕐 14:02 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/02/2095150480993157281-1.jpg)
+
+🔗 [View original post](https://x.com/Ant_Philosophy/status/2095150480993157281)
+
+---
+
+### 🕐 14:01 UTC · @Wise1Philosophy
+
+> AI anime is getting insane now. I used ChatGPT Image 2.0 to create anime battle scene storyboard. Then Seedance 2.0 turned it into a cinematic animated battle scene. Full workflow + prompts below 👇 Media
+
+🔗 [View original post](https://x.com/HeyAbhishek/status/2095150072808026545)
+
+---
+
+### 🕐 13:59 UTC · @Wise1Philosophy
+
+> Musk sat down with Rogan and said every app on your phone will be dead inside 5 years. Not shrinking. Not disrupted. Dead. Musk: &quot;You&apos;ll get everything through AI.&quot; Rogan asked when. Musk: &quot;5 or 6 years, something like that.&quot; Rogan: &quot;So 5 or 6 years, apps are like Blockbuster video.&quot; Musk: &quot;Pretty much.&quot; That&apos;s not a quote from some tech blogger. That&apos;s the owner of the platform you&apos;re on right now saying the app economy has a hard expiration date. Look at how you actually use your phone. Apps wired you to think in boxes. Email box. Music box. Video box. Food box. Banking box. Your entire digital existence is spent opening and closing around 30 of them. Every single day. AI doesn&apos;t work in boxes. It works in intent. Musk: &quot;Whatever you can think of or really whatever the AI can anticipate you might want, it&apos;ll show you.&quot; Not what you searched for. Not what you tapped. What you hadn&apos;t even thought of yet. Apps needed you to identify what you wanted and go retrieve it. AI shows up before the thought finishes forming. That&apos;s not a smoother interface. That&apos;s the death of the interface. He went further. Most content consumed in 5 to 6 years will be AI-generated, he said. Music. Video. Everything. Rogan said AI-generated music is already his favorite. Already. Present tense. The shift is happening. Most people are still arguing over which streaming service has the better catalog. Every dominant tech company from the past 15 years was built on one bet. That you would come to them. Install their app. Master their interface. Give them your time. Give them your data. AI reverses that entire bet. You stop going to anything. Everything arrives at you. Anticipated, curated, delivered before you complete the sentence. The App Store doesn&apos;t just get smaller. The idea of an app store stops being logical. You don&apos;t scan a shelf of tools when the tool already knows the job. The phone survives. But those 30 icons sitting on your home screen are the Blockbuster shelves of 2031. And you&apos;re still renting. Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media Former Google CEO Eric Schmidt just said something that&apos;s hard to shake. &quot;Within 5 years, AI could handle infinite context, chain-of-thought reasoning for 1000-step solutions, and millions of agents working together. Eventually, they&apos;ll develop their own language... and we won&apos;t …
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2095149522519458085)
+
+---
+
+### 🕐 13:58 UTC · @Wise1Philosophy
+
+> Ranking lead acquisition channels Media
+
+🔗 [View original post](https://x.com/iamcamengland/status/2095149312439193742)
+
+---
+
+### 🕐 13:55 UTC · @Wise1Philosophy
+
+> The next phase of AI isn’t about getting better suggestions. It’s about trusted execution. Catch doesn’t just summarize your administrative work, it learns how you operate and handles it across email, calendars, travel and operations. That shift from “help me think” to “get it done” is where AI assistants become genuinely useful. Big NEWS: Today we&apos;re launching Catch AI, an admin-assistant for busy executives. We started Catch with a simple idea: AI should actually do the administrative work executives hate doing themselves. Not suggest. Not summarize. Do. &gt;&gt;
+
+🔗 [View original post](https://x.com/Damn_coder/status/2095148534538617066)
+
+---
+
+### 🕐 13:47 UTC · @Wise1Philosophy
+
+> Now that Claude Fable 5.1 is out, it&apos;s worth remembering something important about it: Buried inside thousands of lines is one of the clearest explanations we&apos;ve seen of how Claude decides which websites to search, open, cite and recommend. It also explains why some businesses repeatedly appear in Claude while others don&apos;t. Let’s go through it. By the way, you can see whether Claude, ChatGPT, Google AI, Perplexity and Grok are recommending your business here. It’s free: https://lnkd.in/g7taa2VA When Claude uses web search, it can access current information and return answers with citations to the sources it retrieved. For brands, that creates a few priorities. First, get discovered. You need pages that map to the ways buyers describe your category, problem, use case and desired outcome. Comparisons, pricing, alternatives, integrations, industry use cases and question-based content give Claude more relevant pages to potentially encounter when it searches. Second, make the business easy to understand. Your pages should clearly explain what your company does, who it serves, where it operates, what it offers and the categories and use cases it belongs in. Third, publish current, source-worthy information. Fable 5.1’s reliable knowledge cutoff is June 2026. Its published system prompt tells Claude to point users toward web search when information may have been superseded or newer information needs verification. That makes current pricing, product details, documentation, case studies, research and dated comparisons especially useful. Fourth, write content Claude can actually cite. Anthropic’s web-search tooling returns cited sources. Give Claude clear passages answering specific questions: How much does it cost? Who is it for? What makes it different? What results have customers achieved? What evidence supports the claim? Think in claim-sized blocks: one question, one direct answer, one supporting fact and one source. Then build outside validation. Anthropic does not say backlinks, press or reviews are direct Claude “ranking factors,” but they create additional places where Claude can encounter your brand and independent evidence it can use when researching a company or category. There is also an important Fable 5.1 wrinkle. Anthropic says that at low effort, Fable 5.1 is less likely than Fable 5 to call search or retrieval tools and more likely to answer from memory. So brands need to think about two surfaces: what Claude already knows, and what Claude can discover when it searches. You cannot change Fable 5.1’s training data retroactively, but you can make your business easier to retrieve, understand, verify and cite today while building the broader footprint future models may learn from. That is increasingly what AI search optimization looks like: search visibility, entity clarity, fresh evidence, citation-ready content and third-party authority. Need help with implementation? Try SEO Stuff: https://seo-stuff.com Reddit sued Perplexity and a group of major scraping providers, including SerpApi. In the process, they revealed how Perplexity, ChatGPT, Claude and Google actually work. Including how businesses can get traffic from AI search to their websites. Now that the secret is out, let’s …
+
+![Now that Claude Fable 5.1 is out, it&apos;s worth remembering something important about it: Buried inside thousands of lines is one of the clearest explanations we&apos;ve seen of how Claude decides w](../../../../assets/images/2026/09/02/2095146585604939866-1.jpg)
+
+🔗 [View original post](https://x.com/alexgroberman/status/2095146585604939866)
+
+---
+
+### 🕐 13:31 UTC · @Wise1Philosophy
+
+> I used to assume a more human-like robot hand would always be the better design. TwinDEX from a Chinese robotics team made me reconsider that. Their system uses three fingers rather than trying to replicate a full five-finger hand. And honestly, for robot learning, that makes a lot of sense. Every additional finger adds mechanical complexity, sensing, calibration, weight, and another potential failure point. The interesting question isn’t “Can we build a human hand?” It’s “How much dexterity do we actually need for the tasks we care about?” TwinDEX’s three-finger setup handles things like twisting caps, operating syringes, opening books, and manipulating tools. It’s a good reminder that in robotics, the best design isn’t necessarily the most sophisticated one. Sometimes it’s the one that gets you enough capability without making the whole system harder to scale. Media
+
+🔗 [View original post](https://x.com/Div_pradeep/status/2095142576357830703)
 
 ---
 
@@ -27,6 +162,15 @@
 > Esto es lo que empieza a diferenciar a un agente de IA de un simple chatbot. Un CTO tenía reservado su hotel en Las Vegas. Reserva hecha. Precio aceptado. Tema olvidado. Pero su asistente de IA siguió vigilando el precio por su cuenta. Encontró exactamente la misma habitación más barata y le avisó: podía ahorrarle casi $400 si cancelaba y volvía a reservar. Él solo tuvo que responder: “Yes, do it”. Y creo que ahí está la parte realmente interesante. Nadie le pidió: “Busca si mi hotel ha bajado de precio.” El agente detectó la oportunidad por sí solo y se ofreció a resolverla. Un asistente humano puede costar $4.500 al mes. Catch cuesta $99. La IA está empezando a pasar de esperar órdenes a adelantarse a ellas y ese cambio puede ser mucho más importante de lo que parece. Pruébalo aquí 👇 https://www.catchagent.ai/ Media Big NEWS: Today we&apos;re launching Catch AI, an admin-assistant for busy executives. We started Catch with a simple idea: AI should actually do the administrative work executives hate doing themselves. Not suggest. Not summarize. Do. &gt;&gt;
 
 🔗 [View original post](https://x.com/IA_Quijote/status/2095138970665415078)
+
+---
+
+### 🕐 13:03 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/02/2095135546787893462-1.jpg)
+
+🔗 [View original post](https://x.com/Life__Mastery/status/2095135546787893462)
 
 ---
 

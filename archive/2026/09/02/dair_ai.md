@@ -2,7 +2,25 @@
 
 ## 📅 September 02, 2026
 
-> 2 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 15:24 UTC · @dair_ai
+
+> Banger paper from ByteDance Seed. If you are curious about self-evolving agent harnesses, this one is worth your time. (bookmark it) The proposes method, HarnessDev, stops scoring a model on the tasks it completes and scores it on the harness it builds. The agent starts from a weak but runnable seed plus a handful of cases, then builds a full execution system. A second stage hands that harness back and asks it to improve on downstream feedback. Both stages are scored on capability and on execution-token cost, so there is awareness of efficiency and spend. The experiments include six creator LLMs, four domains, 2,207 held-out downstream instances. The result splits by domain. Generated harnesses stay well behind mature human-engineered references on code and on search and research, while matching or beating them on writing and machine-learning experimentation. Evolution produces gains, but they are unstable and transfer only partially to held-out tasks, and they depend heavily on which model runs the harness. Paper: https://arxiv.org/abs/2609.01437 Chat with Paper: https://academy.dair.ai/papers/harnessdev-can-llms-create-and-evolve-their-own-agent-harness-2609.01437
+
+![Banger paper from ByteDance Seed. If you are curious about self-evolving agent harnesses, this one is worth your time. (bookmark it) The proposes method, HarnessDev, stops scoring a model on the tasks](../../../../assets/images/2026/09/02/2095170896407548190-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2095170896407548190)
+
+---
+
+### 🕐 14:15 UTC · @dair_ai
+
+> Not all harnesses are created equal. And there is no one-size-fits-all. A good harness should solve your context engineering problems. Understanding and optimizing lower-level details like system prompts, caching, and effective tool calling is how the harness stands out. This is why harness engineering is an important skill for AI engineers today. Start by building your own tiny/minimal harness (in your favorite language) with a basic agent loop, system prompt, and tool calling capabilities. Test it on a use case, verify results, and iterate on it. In no time, you realize that anyone can build a quite powerful harness. But it&apos;s important to understand those lower-level details first. Understand the role they play and how to tune them. These skills can transfer easily to existing, more production-ready harnesses when you get there. At that point, you are better equipped to modify and tune that harness for your tasks. This is not about just learning fundamentals. It&apos;s having a good grasp of the knobs you can tune to get the most out of your agent harnesses.
+
+🔗 [View original post](https://x.com/omarsar0/status/2095153671604773161)
 
 ---
 
