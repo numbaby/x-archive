@@ -2,7 +2,65 @@
 
 ## 📅 September 02, 2026
 
-> 12 post(s) archived.
+> 19 post(s) archived.
+
+---
+
+### 🕐 08:14 UTC · @Wise1Philosophy
+
+> AI is getting out of hand! Media
+
+🔗 [View original post](https://x.com/AIHighlight/status/2095062808769503251)
+
+---
+
+### 🕐 08:00 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/02/2095059385609273553-1.jpg)
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2095059385609273553)
+
+---
+
+### 🕐 08:00 UTC · @Wise1Philosophy
+
+> Your blood sugar is wearing you down faster than smoking or fast food. It wrecks sleep, stalls fat loss, tanks nitric oxide, and causes fatty liver and diabetes. Here&apos;s the simple fix: 1. Skip the 10,000 step obsession. Media
+
+🔗 [View original post](https://x.com/RasmusNorbergg/status/2095059187655127345)
+
+---
+
+### 🕐 07:48 UTC · @Wise1Philosophy
+
+> A Stanford neuroscientist confessed: &quot;Your belly holds cortisol waste. Kill it with this One habit before bed tonight.. And your whole life will change.&quot; Here&apos;s the 9 minute fix:
+
+🔗 [View original post](https://x.com/HeyKimChong/status/2095056130569576477)
+
+---
+
+### 🕐 07:38 UTC · @Wise1Philosophy
+
+> I wasted 20 years learning this the hard way. 13 brutal truths I wish I knew earlier: 1. If you died today, your job would replace you within a week and no one would know you&apos;re gone.
+
+🔗 [View original post](https://x.com/ClaraBrooksjz/status/2095053613609750677)
+
+---
+
+### 🕐 07:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/02/2095051674561778160-1.jpg)
+
+🔗 [View original post](https://x.com/Daily__wisdom_/status/2095051674561778160)
+
+---
+
+### 🕐 07:24 UTC · @Wise1Philosophy
+
+> Insulin resistance is the real reason your cortisol stays high. If I wanted to lower high cortisol without medication, these are the 8 things I would do daily: 1. Stop running (at night!)
+
+🔗 [View original post](https://x.com/TinaaDeJong/status/2095050090557968538)
 
 ---
 
