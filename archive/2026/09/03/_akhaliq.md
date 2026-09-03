@@ -2,7 +2,15 @@
 
 ## 📅 September 03, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 13:47 UTC · @_akhaliq
+
+> 🤗💚 https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/ Media
+
+🔗 [View original post](https://x.com/huggingface/status/2095508870915338284)
 
 ---
 

@@ -2,7 +2,15 @@
 
 ## 📅 September 03, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 14:26 UTC · @dair_ai
+
+> Great paper from Meta. This is a really good example of an agent harness for a production-grade application. https://x.com/omarsar0/status/2095518433865777600?s=20 Massive paper from Meta. I like this one because it shows the use of agent harnesses for production-grade recommender systems. Details below: This is one of the more convincing agent deployments I&apos;ve seen. It runs against a live production recommender serving billions of people a…
+
+🔗 [View original post](https://x.com/dair_ai/status/2095518822685884647)
 
 ---
 

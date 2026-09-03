@@ -2,7 +2,49 @@
 
 ## 📅 September 03, 2026
 
-> 81 post(s) archived.
+> 88 post(s) archived.
+
+---
+
+### 🕐 15:14 UTC · @Wise1Philosophy
+
+> A tech reviewer picked up the Huawei MateBook Pro S at a press event and thought they handed him a display model. A hollow shell. A prop. A non-functional mockup used for photography. He held it in one hand like a clipboard. He flipped it open expecting a blank screen. The 3.1K OLED display powered on. The desktop loaded. The keyboard clicked. The trackpad responded. The fans were silent. Everything worked. The laptop was real. 798 grams. A 14.2-inch laptop that weighs less than an iPad Pro with a Magic Keyboard. Lighter than most hardcover novels. Thirty-five percent lighter than a MacBook Air. He set it on a scale next to Apple&apos;s thinnest laptop. The MateBook Pro S: 798 grams. The MacBook Air: 1,240 grams. He held one in each hand. The Huawei felt like holding a magazine. The MacBook felt like holding a textbook. He told his audience something most of the tech world hasn&apos;t fully processed. Huawei built a laptop that makes the MacBook Air feel heavy. Gave it an OLED display that makes Retina look dated. Added a physical privacy switch no other laptop has. Powered it with an AI chip most people have never heard of. Included a rear camera that sounds absurd until you understand why it&apos;s genius. And priced it at roughly $1,180 undercutting the MacBook Air. The catch: it runs HarmonyOS, not Windows. And it&apos;s currently only available in China. Here&apos;s every feature inside the laptop Apple should be studying 🧵
+
+🔗 [View original post](https://x.com/jackcoder0/status/2095530836447916498)
+
+---
+
+### 🕐 15:00 UTC · @Wise1Philosophy
+
+> 2024: one prompt box, one output, start over every time 2026: a canvas where the whole process stays connected that&apos;s @pippitofficial&apos;s Creative Agent Canvas. instead of jumping between tools, you build your own workflow in one place → chat and canvas working together, ideas to execution → @ references pulling assets into context → scenes, prompts, and drafts laid out visually → keep building from where you stopped the difference is control. you shape the process instead of hoping one prompt lands try it → https://www.pippit.ai/?utm_medium=Media&amp;utm_source=influencers_agency&amp;utm_campaign=Instagram&amp;utm_content=2608_richup_nrqa__ #CreativeAgent #PippitAI #Seedance #PippitPartner Media
+
+🔗 [View original post](https://x.com/nrqa__/status/2095527410032882085)
+
+---
+
+### 🕐 14:48 UTC · @Wise1Philosophy
+
+> Every marketing team I know already pays for Claude or ChatGPT. They use it for copy, briefs, and reporting. Then the lead tracker or client portal request goes into someone else&apos;s queue and sits there for a month. Now the same chat builds the tool. Same subscription, no queue. Today we’re turning your Claude subscription into a full AI app builder. Connect Claude, ChatGPT or Cursor to Zite MCP and ask for an app. It goes live with its own database, logins for your whole team, roles for who sees what. Zero Zite credits.
+
+🔗 [View original post](https://x.com/ecomchasedimond/status/2095524216082964682)
+
+---
+
+### 🕐 14:24 UTC · @Wise1Philosophy
+
+> Claude is highly capable at writing code, but until now it had nowhere to put it. You get a script, not a product. Zite just solved the deployment gap. They released an integration for Claude, ChatGPT, and Cursor that turns generated code directly into usable business apps. What Zite handles everything automatically: → live databases → logins and roles → user notifications → hosting Best part? Their pricing model! It uses zero Zite credits. You just run it on the LLM subscription you already pay for 👀 Media Today we’re turning your Claude subscription into a full AI app builder. Connect Claude, ChatGPT or Cursor to Zite MCP and ask for an app. It goes live with its own database, logins for your whole team, roles for who sees what. Zero Zite credits.
+
+🔗 [View original post](https://x.com/DataChaz/status/2095518378588823909)
+
+---
+
+### 🕐 14:18 UTC · @Wise1Philosophy
+
+> STOP TELLING CLAUDE: “MAKE ME A PRESENTATION” Weak prompts = weak presentations. Use these 7 Claude prompts instead to create professional presentations in 2 minutes. Save this for your next presentation. 🔖
+
+![STOP TELLING CLAUDE: “MAKE ME A PRESENTATION” Weak prompts = weak presentations. Use these 7 Claude prompts instead to create professional presentations in 2 minutes. Save this for your next presentat](../../../../assets/images/2026/09/03/2095516787802775589-1.jpg)
+
+🔗 [View original post](https://x.com/iam_chonchol/status/2095516787802775589)
 
 ---
 
@@ -124,6 +166,16 @@
 ![](../../../../assets/images/2026/09/03/2095497905658372187-1.jpg)
 
 🔗 [View original post](https://x.com/Life__Mastery/status/2095497905658372187)
+
+---
+
+### 🕐 13:00 UTC · @Wise1Philosophy
+
+> Le di una conversación de ChatGPT a Gamma y me devolvió un pitch deck completo. Yo no diseñé ni una sola diapositiva. Te enseño cómo funciona en 3 vídeos:
+
+![Le di una conversación de ChatGPT a Gamma y me devolvió un pitch deck completo. Yo no diseñé ni una sola diapositiva. Te enseño cómo funciona en 3 vídeos:](../../../../assets/images/2026/09/03/2095497162083758096-1.jpg)
+
+🔗 [View original post](https://x.com/MiguelMaestroIA/status/2095497162083758096)
 
 ---
 
@@ -258,6 +310,14 @@
 > Less than 48 hours ago, Anthropic dropped Claude Fable 5.1. And people are already one-shotting games, building 3D worlds + creating insane simulations with it. 10 wild examples:
 
 🔗 [View original post](https://x.com/AIHighlight/status/2095470045803491368)
+
+---
+
+### 🕐 11:06 UTC · @Wise1Philosophy
+
+> SpaceXAI engineer just released a free 1-hour workshop on how to build a team of Grok Bots from scratch: 5:56 - build your first Grok Bot 13:13 - ship it to 15 bots and build a CEO bot 37:07 - build teams of agents 44:46 - put it all together to make a system that runs itself The real difference isn&apos;t better prompts. It&apos;s turning one Bot into a team that delegates work without you. Watch it today, learn the structure. Then read the core bot setup, below. Media https://x.com/i/article/2093423323946647552
+
+🔗 [View original post](https://x.com/godofprompt/status/2095468428802847201)
 
 ---
 

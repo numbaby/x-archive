@@ -2,7 +2,25 @@
 
 ## 📅 September 03, 2026
 
-> 17 post(s) archived.
+> 20 post(s) archived.
+
+---
+
+### 🕐 15:04 UTC · @elonmusk
+
+> This is what Tesla’s Robotaxi app looks like when your Cybercab arrives. The screen glows to match whatever the color the RGB front light bar is on the Cybercab, while an arrow points to where the vehicle is located. You can also flash the lights and honk the horn to identity it.
+
+![This is what Tesla’s Robotaxi app looks like when your Cybercab arrives. The screen glows to match whatever the color the RGB front light bar is on the Cybercab, while an arrow points to where the veh](../../../../assets/images/2026/09/03/2095528435011485748-1.jpg)
+
+🔗 [View original post](https://x.com/SawyerMerritt/status/2095528435011485748)
+
+---
+
+### 🕐 15:04 UTC · @elonmusk
+
+> It is indeed a disgrace. Those publications have an obligation to adhere to the truth and yet have become woke propaganda outlets. The degeneration of Nature, Science, NEJM, and Scientific American into woke propaganda dispensers (and their refusal to publish normie, centrist, common-sense responses) is a scientific scandal.
+
+🔗 [View original post](https://x.com/elonmusk/status/2095528299090854111)
 
 ---
 
@@ -11,6 +29,16 @@
 > Talk to @Grok in your Tesla Today I drove past a house for sale that looked nice ... So I asked Grok in the Tesla how much it was. It pulled the listing, price, beds/baths, square footage, days on market, and market analysis — all while FSD kept driving. No phone. No searching. Just talking.
 
 🔗 [View original post](https://x.com/Tesla/status/2095513199135088756)
+
+---
+
+### 🕐 12:56 UTC · @elonmusk
+
+> The second law of thermodynamics says that the total entropy of a closed system cannot decrease. Entropy is a measure of how many microscopic states are possible in a system. At first, black holes might seem to have very little entropy because they are described by only a few properties, such as their mass, charge, and angular momentum. However, in 1972, physicist Jacob Bekenstein proposed that black holes should have entropy. His argument was based on the second law of thermodynamics. If an object with entropy falls into a black hole, its entropy would no longer be directly accessible outside the black hole. If the black hole had no entropy of its own, this could lead to a decrease in the total entropy of the universe, which would conflict with the second law. So, how much entropy does a black hole have? In 1974, Stephen Hawking showed that black holes have a temperature and emit thermal radiation, now called Hawking radiation. This means that black holes have thermodynamic properties. Using the relationship between energy, temperature, and entropy, physicists found that the entropy of a black hole is proportional to the area of its event horizon. This result is known as the Bekenstein–Hawking formula: S = A/4ℓₚ² where S is the black hole&apos;s entropy, A is the area of its event horizon, and ℓₚ is the Planck length. The important point is that black holes do not violate the second law of thermodynamics. Instead, they can contain an extremely large amount of entropy. For a given region of space, a black hole represents the maximum possible entropy allowed by known physics. So, although a black hole looks simple from the outside, its entropy can be extremely large.
+
+![The second law of thermodynamics says that the total entropy of a closed system cannot decrease. Entropy is a measure of how many microscopic states are possible in a system. At first, black holes mig](../../../../assets/images/2026/09/03/2095496222157197613-1.jpg)
+
+🔗 [View original post](https://x.com/Math_files/status/2095496222157197613)
 
 ---
 
