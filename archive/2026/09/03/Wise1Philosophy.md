@@ -2,7 +2,25 @@
 
 ## 📅 September 03, 2026
 
-> 33 post(s) archived.
+> 37 post(s) archived.
+
+---
+
+### 🕐 09:09 UTC · @Wise1Philosophy
+
+> just in: traders are now earning credit card points buying memecoins on robinhood users of robinhood wallet and social trading app fomo are buying memecoins with visa and mastercard credit cards, apple pay or google pay, directly through crossmint, without even a separate kyc check the block&apos;s tests found the purchases were classified as &quot;digital goods/media&quot; instead of crypto transactions, letting users earn credit card points or cash back chase says the transactions were incorrectly classified and has asked visa to investigate, while the new york attorney general&apos;s office is also reviewing the matter
+
+![just in: traders are now earning credit card points buying memecoins on robinhood users of robinhood wallet and social trading app fomo are buying memecoins with visa and mastercard credit cards, appl](../../../../assets/images/2026/09/03/2095439010432684128-1.jpg)
+
+🔗 [View original post](https://x.com/daveydefi/status/2095439010432684128)
+
+---
+
+### 🕐 09:09 UTC · @Wise1Philosophy
+
+> Mix 1 tablespoon of apple cider vinegar with a little water and drink it every single day. It&apos;s a simple habit that can benefit your digestive system, blood sugar, and microbiome.
+
+🔗 [View original post](https://x.com/HeyKimChong/status/2095438902509322612)
 
 ---
 
@@ -93,6 +111,14 @@
 
 ---
 
+### 🕐 07:30 UTC · @Wise1Philosophy
+
+> Your body will forgive you for skipping a workout, eating the pizza, one bad night, losing motivation for a week. It will not forgive you for these four: 1. Sitting still for nine hours and calling the 6pm session even
+
+🔗 [View original post](https://x.com/MarkoSilva291/status/2095413992055562517)
+
+---
+
 ### 🕐 07:24 UTC · @Wise1Philosophy
 
 > Walking = lose weight Walking = lowers blood sugar Walking = reduce your risk of an early death. 8 simple rules worth following: 1. Forget 10,000 steps
@@ -174,6 +200,14 @@
 > Your resting heart rate shows the whole story. 95+ bpm - Heart is straining just to keep you upright. 90 bpm - Sedentary, unwell &amp; stressed. 80 bpm -
 
 🔗 [View original post](https://x.com/MagnusLindbrg/status/2095397630541259231)
+
+---
+
+### 🕐 06:15 UTC · @Wise1Philosophy
+
+> I thought fatty liver was a drinking problem. It is a sugar problem, it affects about one in three adults, and almost none of them know they have it. Eight rules I follow now: 1. Drink your coffee
+
+🔗 [View original post](https://x.com/dzejlacathleen/status/2095395114600591737)
 
 ---
 
