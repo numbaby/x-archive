@@ -2,7 +2,15 @@
 
 ## 📅 September 03, 2026
 
-> 25 post(s) archived.
+> 27 post(s) archived.
+
+---
+
+### 🕐 18:04 UTC · @elonmusk
+
+> True The existential risk that really scares me, due to its likelihood and consequences, is an unrecoverable dystopia. One, permanent world government that will never be overthrown. Space colonisation is a really good hedge against that one.
+
+🔗 [View original post](https://x.com/elonmusk/status/2095573588891869411)
 
 ---
 
@@ -61,6 +69,14 @@
 > Talk to @Grok in your Tesla Today I drove past a house for sale that looked nice ... So I asked Grok in the Tesla how much it was. It pulled the listing, price, beds/baths, square footage, days on market, and market analysis — all while FSD kept driving. No phone. No searching. Just talking.
 
 🔗 [View original post](https://x.com/Tesla/status/2095513199135088756)
+
+---
+
+### 🕐 13:01 UTC · @elonmusk
+
+> Warning: This Carl Sagan explaination has caused existential crises. He explains how 5th dimensional beings perceive 3D creatures, and the implications are so disturbing, I paused it three times. He said: A being from the 5th dimension could reach into your locked house, take an object off your kitchen table, and place it in orbit around Jupiter without ever crossing a wall, a door, or the vacuum of space. People ridiculed when Carl Sagan said this. But, he was walking through the cleanest piece of geometric logic in modern physics, and most people who watched it never realized what he actually gave them. The demonstration starts small. Imagine a flat creature living on a sheet of paper. Its entire universe is length and width. It has no concept of &quot;up&quot; because up doesn&apos;t exist in its world. The direction is literally unthinkable to its nervous system. Now take a three-dimensional apple and push it slowly through the paper. What does the flat creature see? A dot appears from nowhere. The dot expands into a circle. The circle grows, shrinks, then collapses back into nothing. The apple was always whole. The flatlander only ever perceived cross-sections of something its dimensions could not contain. That&apos;s the entire trick. Sagan&apos;s move was to rotate the analogy upward and let you feel the vertigo yourself. You are the flatlander. Your body, your brain, your sensory apparatus evolved to process three spatial dimensions and one directional slice of time. Anything existing in a higher dimension would pass through your world the same way that apple passed through the paper. As fragments, apparitions, sudden appearances, inexplicable disappearances. A 4D being could see every organ in your body simultaneously from the outside, the way you can see every room of a dollhouse at once from above. A 5D being could observe your entire lifetime from every version of you from infant to corpse like a single unmoving sculpture stretched across time. What&apos;s interesting is it&apos;s a direct consequence of how dimensions mathematically nest inside one another. Every dimension has full access to the interior of the one below it. A 3D hand can touch any point inside a 2D square without crossing its edges. A 4D hand could touch any point inside your sealed body without breaking your skin. Sagan has really handed us a quiet reframe of every &quot;impossible&quot; phenomenon humans have reported for thousands of years like visions, presences, objects moving through walls, beings that seem to know your past and future. Though his Geometry doesn&apos;t confirm any of it. But it removes the argument that such things would violate physics. Media
+
+🔗 [View original post](https://x.com/thedarshakrana/status/2095497427080057230)
 
 ---
 

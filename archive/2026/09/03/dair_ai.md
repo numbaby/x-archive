@@ -2,7 +2,15 @@
 
 ## 📅 September 03, 2026
 
-> 5 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 18:15 UTC · @dair_ai
+
+> Impressive tool to explore frontier AI capabilities. Martian&apos;s AI Frontier lets you compare 44 LLMs by measured cost, quality, and reliability, then see how routing and repeated sampling change the frontier. I like this because builders can choose model combinations using real tradeoffs across coding, reasoning, factuality, and agentic tasks. We got 46% fewer errors than the single best LLM across the 16 most used benchmarks (TerminalBench, LiveCodeBench, etc). Here&apos;s how that&apos;s possible and what each model can achieve when used optimally (every benchmarks misses the majority of model capabilities) 👇 Interactive Site…
+
+🔗 [View original post](https://x.com/omarsar0/status/2095576401709531416)
 
 ---
 

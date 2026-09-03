@@ -2,7 +2,15 @@
 
 ## 📅 September 03, 2026
 
-> 13 post(s) archived.
+> 14 post(s) archived.
+
+---
+
+### 🕐 16:41 UTC · @theendeavorpath
+
+> 8 things about the crisper drawer that nobody explains: 1. The slider is a vent, not a dial
+
+🔗 [View original post](https://x.com/EnergyUp_/status/2095552824994300399)
 
 ---
 

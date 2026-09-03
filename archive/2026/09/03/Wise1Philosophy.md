@@ -2,7 +2,15 @@
 
 ## 📅 September 03, 2026
 
-> 115 post(s) archived.
+> 116 post(s) archived.
+
+---
+
+### 🕐 18:13 UTC · @Wise1Philosophy
+
+> The rate card and what a model costs you per task are two different numbers. Martian&apos;s new AI Frontier dashboard measures both across 44 LLMs. Kimi costs more per task than its quoted pricing suggests. GPT-5.4 costs less. Rate cards price tokens, and a task costs however many tokens the model burns. The paper behind it (an oral at an ICLR 2026 workshop) found no single model tops the frontier across tasks. Picking the right model per prompt cut the error rate 54% at matched cost. Choose models by task type, and check the reliability tab before trusting a cheap model on one run. Dashboard link in the reply. We got 46% fewer errors than the single best LLM across the 16 most used benchmarks (TerminalBench, LiveCodeBench, etc). Here&apos;s how that&apos;s possible and what each model can achieve when used optimally (every benchmarks misses the majority of model capabilities) 👇 Interactive Site…
+
+🔗 [View original post](https://x.com/alex_prompter/status/2095575903665299465)
 
 ---
 
