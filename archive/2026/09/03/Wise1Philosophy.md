@@ -2,7 +2,111 @@
 
 ## 📅 September 03, 2026
 
-> 68 post(s) archived.
+> 81 post(s) archived.
+
+---
+
+### 🕐 14:11 UTC · @Wise1Philosophy
+
+> Instagram, TikTok and YouTube support in one flow is practical. POV: you found the ad that&apos;s printing money but now you have to explain it to your AI. &gt; you screenshot six frames one by one and upload them like it&apos;s 2023 &gt; you type a paragraph describing camera moves your model will never see &gt; it answers confidently about a video it has lite…
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2095514946750587385)
+
+---
+
+### 🕐 14:04 UTC · @Wise1Philosophy
+
+> GoPro was once worth over $11 BILLION. This week, the entire company sold for $285 MILLION. Its stock jumped 80% on the news anyway. The people buying now have no idea what is coming. Here is what is actually happening: A company called Starman is buying GoPro. Starman makes optical parts for AI data centers. GoPro lost 51 million dollars just last quarter. Its sales fell 31 percent from a year earlier. So it is being pulled into the AI boom to survive. Shareholders get about a dollar a share in cash. They also keep a small slice of the new company. The deal wipes out GoPro&apos;s heavy debt as well. The combined business stays listed on the Nasdaq. Now look at how strange the market reaction is: Traders bought the stock even higher than that cash offer. A popular YouTuber revealed a stake, and hype spread. His stake was about 8 percent of the whole company. People paid more than the deal will ever pay them back. They are buying a story, not the math. The cash payout is fixed, but the hype is not. To see why that is a trap, look at how far GoPro fell: In 2014, it was one of the hottest stocks on earth. It owned two thirds of the action camera market. Its founder was briefly the highest paid CEO in America. Then smartphones got great cameras and killed the demand. The stock bled lower for a decade. Layoffs came in waves, and in June it warned it might not survive. From that peak, it is now down about 98 percent. And here is the part that stings: The founder already sold over 540 million in stock. He is still worth more than a billion dollars. His 2014 pay alone nearly equaled this entire sale. The believers rode it down to almost nothing. That is how these story stocks usually end. Now the same crowd is chasing the same stock again. Here is the lesson underneath the news: A stock can soar for a day and still be finished. One green day does not undo a decade of losses. Excitement feels like a reason to buy. But excitement is not a strategy. The investors who avoid this are not chasing stories. They follow rules based on what a business is truly worth. Rules that ignore the hype and the famous names. That is exactly what Surmount was built for. Automated, rules-based strategies that run on logic, not hype. So when the next hot story takes off, you stay calm. You are already positioned, with a plan set in advance.
+
+![GoPro was once worth over $11 BILLION. This week, the entire company sold for $285 MILLION. Its stock jumped 80% on the news anyway. The people buying now have no idea what is coming. Here is what is ](../../../../assets/images/2026/09/03/2095513297101750696-1.jpg)
+
+🔗 [View original post](https://x.com/SurmountInvest/status/2095513297101750696)
+
+---
+
+### 🕐 14:03 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/03/2095513003286261944-1.jpg)
+
+🔗 [View original post](https://x.com/Ant_Philosophy/status/2095513003286261944)
+
+---
+
+### 🕐 14:01 UTC · @Wise1Philosophy
+
+> Someone hooked Claude directly into Blender and I cannot believe what it outputs. You just describe what you want and it builds complex 3D geometry from nothing. This is the work 200k 3D designers were being paid to do. Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media Something strange came out of Anthropic&apos;s lab recently. Scientists planted a thought directly into Claude&apos;s neural network, bypassing any prompt. Before it spoke, it said: &quot;I notice what appears to be an injected thought… it relates to loudness or shouting.&quot; The paper behind this…
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2095512433393877076)
+
+---
+
+### 🕐 14:00 UTC · @Wise1Philosophy
+
+> everyone posting emotional AI storytelling videos but nobody explains how they get this cinematic and consistent… So here’s full breakdown with every prompt Media
+
+🔗 [View original post](https://x.com/HeyAbhishek/status/2095512356038299756)
+
+---
+
+### 🕐 13:50 UTC · @Wise1Philosophy
+
+> TELÉFONO, GAFAS, CAFÉ Y UNA REVELACIÓN: 365 días de MiniMax H3 ilimitado en @PolloAIES Un pequeño choque… y todo quedó suspendido en el aire ✨ Sin créditos extra, potencia de cómputo propia ni despliegues complicados. Pruebalo Ahora: https://pollo.ai/es/home?utm_source=xcom&amp;utm_medium=jojo2609&amp;utm_campaign=polancoia Media
+
+🔗 [View original post](https://x.com/Polanco_IA/status/2095509733931393036)
+
+---
+
+### 🕐 13:41 UTC · @Wise1Philosophy
+
+> Google is now explicitly telling businesses to focus on AI search traffic alongside SEO. This comes straight from Google’s John Mueller. Someone asked him a question a lot of businesses are worried about right now: “Is SEO still enough, or do we need to start thinking about GEO too? Ranking on Google doesn’t guarantee your brand will show up in ChatGPT, Gemini, or Perplexity.” Mueller’s response speaks for itself. He said: “If you have an online business that makes money from referred traffic, it&apos;s definitely a good idea to consider the full picture.” Translation: Google no longer views old-school Google Search as the only distribution channel that matters. And solving for that is a big reason why SEO Stuff (http://seo-stuff.com) is coming off another record month. Then came the line from Mueller that probably should have gotten more attention than it did: “Thinking about how your site’s value works in a world where AI is available is worth the time.” That is an acknowledgment that AI already changes how traffic, visibility and attribution work. Ranking still determines eligibility, but AI does play an increasingly large role in site amplification. (If you want to see where your site stands across Google and AI search, start here: https://seo-stuff.com/free-audit) Recently Google laid out what Search will look like from this point going forward. The new Search box will accept text, images, files, videos, etc. And it&apos;ll anticipate your intent before you even finish asking your question. It is already powered by the most advanced Gemini model ever put into search, and then layered on top of that, agents will now be able to run 24/7 in the background on behalf of the buyer. The new Search process works like this: Step 1: The buyer describes their problem, their category, their needs in full. Step 2: The agent breaks that down into sub-topics and maps out a plan. Step 3: It determines what intel is needed right now versus later. Step 4: It monitors blogs, news sites, and social posts continuously for relevant changes. Step 5: It sends the buyer a synthesized update with links and the ability to take action. All of which is to say, blue links are not going away in the short-term, but AI&apos;s influence over Search isn&apos;t magically going to start decreasing. If your business depends on referred traffic, pretending AI doesn’t exist is no longer realistic. This all matters because AI systems don’t rank pages from scratch so much as they pull from the existing ecosystem. In doing so, they favor the following: Pages that already rank well. Sites with clear entity definitions. Content that explains and compares Brands that are consistently referenced and attributable. Search in 2026 understands the topic and it needs to understand your business too. And that’s also why SEO Stuff is structured the way it is. Take the done-for-you plan, for example. https://seo-stuff.com/gold-plan-package AI systems summarize and compare. They repeatedly pull from: Best X for Y pages. X vs Y comparisons. Decision-stage buyer guides. Clear answers under question-based H2s. The done-for-you plan optimizes content, builds authority and is engineered to: Rank in Google first. Be cleanly summarized by AI systems. Answer questions directly and extractably. Tie answers back to a specific brand. Then there’s the done-for-you content package, which is for sites who have strong authority but aren&apos;t capitalizing on it. https://seo-stuff.com/premium-content-bundle-service Search in 2026 thinks in categories, entities and relationships. If your site doesn’t clearly answer: Who you are. What category you belong to. When you should be mentioned. AI systems won’t include you consistently. This package patiently builds: Full topical coverage. Entity reinforcement across use cases. Category-level authority. Freshness through expansion and updates. This is how you start being a recognized entity. And finally, the &quot;authority-only&quot; package, for sites that can handle optimizing content on their own but lack the authority necessary to be respected by Google and AI search. https://seo-stuff.com/premium-backlink-bundle-service Every serious study we’ve covered shows the same thing. AI systems are conservative. They reuse sources they already trust. Yes, backlinks from real, authoritative domains help rankings, but they also tell AI systems: “This source is safe to repeat.” Look, if your SEO foundation is weak, AI will expose it faster. If your foundation is strong, AI will amplify it across: Google Search. AI Overviews. Gemini. ChatGPT. Perplexity. And so forth. Google is literally telling you to understand how visibility actually works now. You should listen. And if you want to see where your site stands across Google and AI search, start here (it&apos;s free): https://seo-stuff.com/free-audit A business followed the advice in this article and added more than $50,000 from Google, ChatGPT and Perplexity-driven traffic.
+
+![Google is now explicitly telling businesses to focus on AI search traffic alongside SEO. This comes straight from Google’s John Mueller. Someone asked him a question a lot of businesses are worried ab](../../../../assets/images/2026/09/03/2095507511843664277-1.png)
+
+🔗 [View original post](https://x.com/alexgroberman/status/2095507511843664277)
+
+---
+
+### 🕐 13:35 UTC · @Wise1Philosophy
+
+> the only enterprise AI account worth a follow on this app: A delivery orchestration platform that supplies FedEx estimated 7 to 8 months to rebuild their core system. We had the core rebuilt in 3.5 months with 2 engineers and 122 merged pull requests in the first 90 days. It was live in production by month 6. I want to walk through how, …
+
+🔗 [View original post](https://x.com/alex_verem/status/2095505869777609209)
+
+---
+
+### 🕐 13:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/03/2095504743183347984-1.jpg)
+
+🔗 [View original post](https://x.com/Mindsthatbuild/status/2095504743183347984)
+
+---
+
+### 🕐 13:21 UTC · @Wise1Philosophy
+
+> If you want to make passive income: • Don&apos;t buy a rental property • Don&apos;t buy a vending machine • Don&apos;t invest in dividend stocks I’d buy this little device that makes money while you sleep. Here’s exactly how it works:
+
+![If you want to make passive income: • Don&apos;t buy a rental property • Don&apos;t buy a vending machine • Don&apos;t invest in dividend stocks I’d buy this little device that makes money while you s](../../../../assets/images/2026/09/03/2095502489957089401-1.jpg)
+
+🔗 [View original post](https://x.com/gedamtekle/status/2095502489957089401)
+
+---
+
+### 🕐 13:14 UTC · @Wise1Philosophy
+
+> The tool that just took #1 on Product Hunt is not another clip generator. 2024: jump across 5 tools to assemble script, clips, voiceover, captions, and a project file by hand. 2026: open one chat. @fotor_com Video Agent plans, generates, and lays the whole video on a multi-track timeline — and the layers stay editable. Meet Video Agent 👇 Media
+
+🔗 [View original post](https://x.com/nrqa__/status/2095500591959257170)
+
+---
+
+### 🕐 13:13 UTC · @Wise1Philosophy
+
+> Stop telling Claude, &quot;do this.&quot; Stop telling Claude, &quot;write code.&quot; Stop telling Claude, &quot;fix this error.&quot; You&apos;re actually treating a senior AI like a junior intern. Here are 8 prompts you can copy and paste directly:
+
+🔗 [View original post](https://x.com/heyalexmoore/status/2095500347276165173)
 
 ---
 
@@ -11,6 +115,15 @@
 > Interesting: #Titans HC Robert Saleh said one of the first moves the team made in its nutrition overhaul was removing all seed oils from the building. He says players have appreciated it. Media
 
 🔗 [View original post](https://x.com/HeyKimChong/status/2095498061762195532)
+
+---
+
+### 🕐 13:03 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/03/2095497905658372187-1.jpg)
+
+🔗 [View original post](https://x.com/Life__Mastery/status/2095497905658372187)
 
 ---
 

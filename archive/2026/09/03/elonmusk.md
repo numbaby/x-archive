@@ -2,7 +2,33 @@
 
 ## 📅 September 03, 2026
 
-> 14 post(s) archived.
+> 17 post(s) archived.
+
+---
+
+### 🕐 14:04 UTC · @elonmusk
+
+> Talk to @Grok in your Tesla Today I drove past a house for sale that looked nice ... So I asked Grok in the Tesla how much it was. It pulled the listing, price, beds/baths, square footage, days on market, and market analysis — all while FSD kept driving. No phone. No searching. Just talking.
+
+🔗 [View original post](https://x.com/Tesla/status/2095513199135088756)
+
+---
+
+### 🕐 12:02 UTC · @elonmusk
+
+> Exciting day for NVIDIA and @huggingface. Open models strengthen safety and cybersecurity, accelerate innovation and diffusion, and enable sovereignty. They allow every developer, startup, university, industry and country to build with, customize and benefit from AI. Thank you @ClementDelangue for coming to me. NVIDIA is going to be a great home for Hugging Face, its community and the future of open models. 🤗 https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/
+
+![Exciting day for NVIDIA and @huggingface. Open models strengthen safety and cybersecurity, accelerate innovation and diffusion, and enable sovereignty. They allow every developer, startup, university,](../../../../assets/images/2026/09/03/2095482647355244762-1.jpg)
+
+🔗 [View original post](https://x.com/JensenHuang/status/2095482647355244762)
+
+---
+
+### 🕐 08:27 UTC · @elonmusk
+
+> Grok Bot is like a self-guided missile when it comes to cancelling DTC subscriptions I impulse bought but never have time to cancel
+
+🔗 [View original post](https://x.com/beffjezos/status/2095428434474512784)
 
 ---
 
