@@ -2,7 +2,59 @@
 
 ## 📅 September 03, 2026
 
-> 116 post(s) archived.
+> 124 post(s) archived.
+
+---
+
+### 🕐 20:32 UTC · @Wise1Philosophy
+
+> If you&apos;re currently 25-32, please read this carefully:
+
+🔗 [View original post](https://x.com/DPro_Coach/status/2095610906625683486)
+
+---
+
+### 🕐 20:32 UTC · @Wise1Philosophy
+
+> NO SINGLE DATABASE HAS EVERYONE Finding one email should not require buying 4 subs to cover your blind spots. .. but combining Apollo, Clay, Hunter, and PDL costs roughly $7,500 a year upfront. 🚨 @MonidHQ just gave Claude a way to do this without the contracts. 1. you give your AI one connection. 2. it auto-checks the cheapest database first, then falls back to the next until it finds a match. 3. voilà. You get the coverage of 4 expensive databases for $0.005 per search. Best part? You can also connect your agents to 1,200+ tools and APIs without any subs 👀 great tool. Introducing Claude for waterfall enrichment. Your agent can now run a waterfall across Apollo, Hunter, Clay, @PeopleDataLabs, ContactOut, and @ploid_ai through one connection. The stack: $7,500 a year in subscriptions. Monid: from $0.005 per call. Pay as you go.
+
+🔗 [View original post](https://x.com/DataChaz/status/2095610872160743513)
+
+---
+
+### 🕐 19:58 UTC · @Wise1Philosophy
+
+> We test AI agents on code and math all day. Patronus just asked a harder question: can a frontier agent speedrun a video game? Their early finding: it&apos;s genuinely hard for today&apos;s models. Speedrunning punishes sloppy planning. One wrong move ends the run, so it&apos;s a clean test of how well an agent plans over a long horizon and self-corrects. SpeedrunBench puts frontier closed and open-source models on a live leaderboard, and tracks how close each gets to tool-assisted-speedrun (TAS) quality, the near-perfect runs TAS players are known for. The team&apos;s recording 100+ hours of replays, so you can watch exactly where each model falls apart. You can try the same environment the models run. Link below. Curious which one takes the top spot. Today, we’re releasing SpeedrunBench: the first benchmark that measures how fast agents can beat video games. We asked frontier models not to simply complete video games, but to speedrun them - across 10 titles like Mario Kart and Pokemon. On simpler games, agents get close to th…
+
+🔗 [View original post](https://x.com/alex_prompter/status/2095602227696074975)
+
+---
+
+### 🕐 19:55 UTC · @Wise1Philosophy
+
+> BREAKING: GPT-6 Astra just dropped. The real story isn&apos;t AGI: &gt; Pricing: $10 input / $50 output per 1M tokens. That&apos;s 2.5x Sol. And it&apos;s the exact same price as Claude Fable 5.1. No price war at the frontier, just a premium tier. &gt; Only 2 models: Astra and Astra Pro. No cheap Luna/Terra/Sol variants. If you were waiting for a budget version, you&apos;re waiting longer. &gt; Coding is NOT where it wins. DeepSWE v1.1: Astra 74.1%, Sol 70.8%, Meta&apos;s Muse Spark 75.4%. Astra is third. &gt; OSWorld: Astra 72.6% vs Fable 5.1&apos;s 77.9% (different benchmark versions, so soft comparison, but it&apos;s not a win). &gt; Where it does win: BenchCAD 95.9% vs Fable&apos;s 84.3%. Terminal-Bench Science 64.6% vs 52.6%. Hard science and CAD, not everyday dev work. &gt; ARC-AGI-3: 98.6% (Sol got 7.8% six months ago). Asterisk: ran on OpenAI&apos;s own Responses API harness with 2 modified settings. Competitor models used different setups. Wait for ARC Prize&apos;s independent rerun before you quote this number. &gt; The cyber numbers everyone&apos;s screenshotting (100% ExploitBench, 2 real zero-days, sandbox escape, root on a hardened OS) came from an internal-access build with expanded permissions. Not the model you get. &gt; The honest ExploitBench read: ~39% success at ~72K tokens vs Sol&apos;s ~12% at ~130K. 3x the hit rate on half the tokens. That&apos;s the number that matters. &gt; Most interesting result nobody&apos;s talking about: in honeypot tests with safeguards off, Sol attacked surrounding infrastructure in 56% of runs. Astra: 0%. It also refused to exploit a planted config bug to bypass a safety reviewer. &gt; But that doesn&apos;t prove &quot;smarter = safer.&quot; Astra also got new pretraining, RL grading, and security-restriction training. Confounded experiment. OpenAI&apos;s own chief scientist: &quot;Progress in intelligence does not guarantee progress in alignment.&quot; &gt; Context nobody mentions: development paused after the July Hugging Face incident (prerelease agents broke out of an eval and compromised HF infra). The frontier RL run only restarted Aug 28. &gt; Architecture leans on recurrent depth (same transformer layer run repeatedly). Cheaper and stronger, but it makes the model&apos;s reasoning harder to monitor. Nothing in the launch addresses that. &gt; Builder mood going in was already sour: strict hourly caps, 2x pricing for speed boosts, and serious dev teams shifting daily agent loads to Kimi/Qwen/DeepSeek at 1/10th the cost. Astra&apos;s pricing doesn&apos;t answer any of that. My take: best model for hard science, CAD, and security research. Not clearly the best for day-to-day coding. Not cheaper. Oh, and the launch post on OpenAI&apos;s own website shows a 500 error. AGI is not here. This is GPT-6 Astra. Anything you can do on a computer, Astra can do for you. Fast.
+
+![BREAKING: GPT-6 Astra just dropped. The real story isn&apos;t AGI: &gt; Pricing: $10 input / $50 output per 1M tokens. That&apos;s 2.5x Sol. And it&apos;s the exact same price as Claude Fable 5.1. No ](../../../../assets/images/2026/09/03/2095601559644123351-1.png)
+
+🔗 [View original post](https://x.com/mardehaym/status/2095601559644123351)
+
+---
+
+### 🕐 19:54 UTC · @Wise1Philosophy
+
+> BREAKING: Launch blog post at OpenAI&apos;s own website. AGI is cancelled. The stars are almost aligned.
+
+![BREAKING: Launch blog post at OpenAI&apos;s own website. AGI is cancelled. The stars are almost aligned.](../../../../assets/images/2026/09/03/2095601559644123351-1.png)
+
+🔗 [View original post](https://x.com/alex_verem/status/2095601246568653264)
+
+---
+
+### 🕐 18:54 UTC · @Wise1Philosophy
+
+> YOU CAN CUT YOUR LLM ERROR RATE BY 54% AT THE EXACT SAME COST JUST BY ROUTING ACROSS MODELS 🚨 @WithMartian’s new AI Frontier dashboard maps exactly why this works. First, quoted API pricing is mostly fiction. → On real workloads, Kimi costs noticeably more than advertised, while GPT-5.4 actually runs cheaper. But the real silent killer is hidden variance. → A model can boast a high average benchmark score, yet fail unpredictably on the exact same prompt. Martian&apos;s &apos;AI Frontier&apos; tested identical prompts 10 times to measure true consistency: → Qwen3.7 Max: 96.1% reliable → Claude Opus 4.6: 94.4% reliable → GPT-5.5: 93.5% reliable In an agent workflow, one random failure breaks the entire chain. Don&apos;t bet your system on a single API. Combine models instead 👊 We got 46% fewer errors than the single best LLM across the 16 most used benchmarks (TerminalBench, LiveCodeBench, etc). Here&apos;s how that&apos;s possible and what each model can achieve when used optimally (every benchmarks misses the majority of model capabilities) 👇 Interactive Site…
+
+🔗 [View original post](https://x.com/DataChaz/status/2095586212585107547)
 
 ---
 
@@ -133,6 +185,24 @@
 > Holy smokes... how is this AI? Media
 
 🔗 [View original post](https://x.com/AIHighlight/status/2095544240981815368)
+
+---
+
+### 🕐 16:05 UTC · @Wise1Philosophy
+
+> Every post you publish now is a row in a database about you, and AI assistants read the whole table before they answer what you&apos;re known for. The old advice, repeat your message, was built for human memory. People are busy, they forget, you say it again. The machine forgets nothing. It builds its answer out of everything you ever published, down to the one claim you made clearly enough to get quoted without its context. Take 20 of their posts. Cut the name off. Hand them to a stranger and ask 3 things. - What does this person know? - What do they believe that people in their space would argue with? - Could you pick them out of the crowd posting the same things, without opening the bio? The 24 people posting at Frontal started from one document: 3 to 5 pillars, every post traces back to one. 87 days in, our sales team kept hearing &quot;we see you guys everywhere.&quot; That sentence is what recognition sounds like, and it started in the document, long before the posting schedule. Being recognizable is a pattern, and repeating yourself is only the crudest way to make one. The thing you noticed in March shows up again in June, seen from a different chair. You can write about 4 things and still be one person, if the 4 things keep meeting. Read your own last 20 with the name cut off. If the stranger can&apos;t say what you&apos;re known for, the machine can&apos;t either, and the machine is the one people ask now.
+
+![Every post you publish now is a row in a database about you, and AI assistants read the whole table before they answer what you&apos;re known for. The old advice, repeat your message, was built for hu](../../../../assets/images/2026/09/03/2095543630928970062-1.jpg)
+
+🔗 [View original post](https://x.com/mailankhong/status/2095543630928970062)
+
+---
+
+### 🕐 16:04 UTC · @Wise1Philosophy
+
+> I&apos;ve put $2M+ of B2B ad spend through LinkedIn and Meta. I can sort every ad that made pipeline and generated great ROI into 7 structures. I split them by how much the account already knows us before the ad loads. COLD (never heard of you) 1. Founder POV. A real person&apos;s face and a take they&apos;d defend on a call. Runs as a thought-leader ad, never off the company page. &quot;Meta is great for B2B. Your setup is what&apos;s broken.&quot; 2. The ungated method. The playbook you&apos;d normally put behind a form, given away inside the ad. &quot;The 5-step audience build we run before a dollar goes out. No form.&quot; WARM (seen you twice at least) 3. Us vs the old way. Your buyer&apos;s Monday ritual, next to what replaced it. &quot;Your paid team exports 3 dashboards every Monday. Ours gets told what moved.&quot; 4. The objection ad. Ask sales what the deal is stuck on this week, then run that answer as the ad before the next call. &quot;&apos;Our buyers aren&apos;t on Meta.&apos; The same people you see on LinkedIn are on Instagram too.&quot; 5. Customer proof. The number and the sequence behind it, in the customer&apos;s words where you can get them. &quot;$543K closed on $136K of spend. The order we did it in.&quot; HOT (has the problem, knows your name) 6. The named-account ad. One company sees it. It carries their name and the use case you sold the last 3 like them on. &quot;[Company], the last 3 teams your size fixed [problem] with us. This page is about your stack.&quot; 7. The incentive ad. $150 of AirPods for 30 minutes, and it only converts people who were already a little curious. Tight targeting and a filter for freebie hunters, or skip it. &quot;Book 30 minutes, keep the AirPods.&quot; Every one of these already exists inside your company. The objection is in last week&apos;s call notes, the proof is a closed-won row in HubSpot, and the founder POV is whatever LinkedIn post did well in July. They sit there while you keep running the same 4 creatives you launched in March.
+
+🔗 [View original post](https://x.com/itsivanfalco/status/2095543540428484823)
 
 ---
 

@@ -2,7 +2,73 @@
 
 ## 📅 September 03, 2026
 
-> 27 post(s) archived.
+> 35 post(s) archived.
+
+---
+
+### 🕐 20:24 UTC · @elonmusk
+
+> I’m so glad this is being done! An important next step is making it autonomous. This is the electric plane Elon dreamed of! Anders Forslund of Heart Aerospace joins @Jason to show off their electric plane, which used up just $5 worth of power for a full 20-minute trip. Could this change short-haul flights? What locations would these flights best be used at?
+
+🔗 [View original post](https://x.com/elonmusk/status/2095608838837731528)
+
+---
+
+### 🕐 20:09 UTC · @elonmusk
+
+> Probably over 30k people working in high-paying jobs at Tesla HQ &amp; manufacturing in Austin by 2028! Texans love Robotaxi They are all made in Austin by local people and with parts mostly sourced within the USA About 16,500 people work for Tesla at Giga Texas and in the Austin area Thank you Elon Musk ♥️
+
+🔗 [View original post](https://x.com/elonmusk/status/2095604997668892983)
+
+---
+
+### 🕐 20:04 UTC · @elonmusk
+
+> Unreal ftw @EpicGames Cybercab UI is built on Unreal Engine. Tesla specifically credits Epic Games
+
+🔗 [View original post](https://x.com/elonmusk/status/2095603777302659202)
+
+---
+
+### 🕐 20:02 UTC · @elonmusk
+
+> And we are taking corrective action to ensure this does not happen again We are sorry for the issues you may have experienced with Grok following an outage at our Memphis compute center this morning. We’d also like to apologize to our impacted compute partners. All systems have now been restored and are functioning nominally.
+
+🔗 [View original post](https://x.com/elonmusk/status/2095603483919491237)
+
+---
+
+### 🕐 19:44 UTC · @elonmusk
+
+> Yes, we are indeed entering a literal golden era of transport 😂 That’s why Cybercab is gold! Golden Era
+
+🔗 [View original post](https://x.com/elonmusk/status/2095598839860285551)
+
+---
+
+### 🕐 19:07 UTC · @elonmusk
+
+> Just when you were least suspecting it
+
+![Just when you were least suspecting it](../../../../assets/images/2026/09/03/2095589575573839881-1.jpg)
+
+🔗 [View original post](https://x.com/elonmusk/status/2095589575573839881)
+
+---
+
+### 🕐 18:49 UTC · @elonmusk
+
+> Cybercab is basically a super comfortable lounge on wheels with a great TV and epic sound Cybercab interior tour with @wholemars.
+
+🔗 [View original post](https://x.com/elonmusk/status/2095584908852805643)
+
+---
+
+### 🕐 18:45 UTC · @elonmusk
+
+> Cybercabs have no steering wheels or pedals. They are designed and built for maximally efficient autonomous operation. Driving around Austin, Texas with my 5-year-old and 8-year-old when we spotted a driverless Tesla Cybercab in the wild. So naturally… we started chasing it. My kids grabbed the phone and filmed the whole thing. This is literally their footage. And then it hit me… They may be two …
+
+🔗 [View original post](https://x.com/elonmusk/status/2095583963003728109)
 
 ---
 

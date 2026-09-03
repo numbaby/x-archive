@@ -2,7 +2,33 @@
 
 ## 📅 September 03, 2026
 
-> 6 post(s) archived.
+> 10 post(s) archived.
+
+---
+
+### 🕐 21:00 UTC · @dair_ai
+
+> Brilliant paper on long-horizon agents. They cut 78.9% of an agent&apos;s LLM calls while raising its success rate. Here is how: It turns out that ReAct issues one primitive action per model round. That allows frequent replanning, and on long-horizon tasks it spends most of the episode re-deciding routine sequences that were never in doubt. Training an agent to emit variable-length action chunks with standard RL fails because the policy never learns where a chunk should end, so it either falls back to single actions or commits to sequences that run far too long. SPACE derives the supervision from data it already has. It induces two-level programmatic skills from successful trajectories and uses the subskill boundaries as direct chunk-boundary labels, then distills the temporal structure into a primitive-chunk policy with hybrid on-policy and off-policy optimization and chunk-aware credit assignment. On ALFWorld and ScienceWorld it improves success rates by 7.0 to 31.3% over the strongest baseline in each setting while reducing average LLM decision rounds by up to 78.9%. Paper: https://arxiv.org/abs/2609.02042 Chat with Paper: https://academy.dair.ai/papers/act-more-decide-less-skill-guided-adaptive-action-chunking-for-long-horizon-llm-2609.02042
+
+![Brilliant paper on long-horizon agents. They cut 78.9% of an agent&apos;s LLM calls while raising its success rate. Here is how: It turns out that ReAct issues one primitive action per model round. Th](../../../../assets/images/2026/09/03/2095617916284936502-1.jpg)
+
+🔗 [View original post](https://x.com/dair_ai/status/2095617916284936502)
+
+---
+
+### 🕐 20:47 UTC · @dair_ai
+
+> Great weekend read. https://x.com/omarsar0/status/2095612805496164801?s=20 Banger paper from Google DeepMind and colleagues. (bookmark it) A model reads its entire KV cache on every generated token, even though it ends up attending to a tiny slice of it. In other words, if you ask about one detail from a 1M-token conversation the global attention layers…
+
+🔗 [View original post](https://x.com/dair_ai/status/2095614750604267678)
+
+---
+
+### 🕐 19:55 UTC · @dair_ai
+
+> I had to look twice at this table. I know they are just numbers, but how the heck do you beat a competitor model released just a couple of days ago on some of the toughest benchmarks out there? Something is different about GPT-6 Astra. GPT-6 Astra is state-of-the-art on FrontierMath Tier 4, ARC-AGI 3, and TerminalBench-4.0. GPT‑6 Astra is also a major advance for scientific discovery, with state-of-the-art performance on Terminal-Bench Science 0.1 and HealthBench Pro.
+
+🔗 [View original post](https://x.com/omarsar0/status/2095601652157821306)
 
 ---
 
@@ -19,6 +45,16 @@
 > The @bot team gave me 50 codes to hand out to my followers, each worth $200. That&apos;s a month free of the $200/month plan, or $200 in credits. Just comment with your best/most fun use cases or things you’d like to try in Grok Bot. Grok Bot changed how I work with agents. I stopped overthinking. I hand a task to a bot, and it manages most of the work from there. My favorite bot so far: My orchestrator bot runs my higher-level agent team. It assigns work across specialized bots and keeps everything organized, so I run many tasks in parallel instead of babysitting one at a time.
 
 🔗 [View original post](https://x.com/omarsar0/status/2095559818337538556)
+
+---
+
+### 🕐 15:50 UTC · @dair_ai
+
+> Banger paper from BAAI. If you are building research agents, this one is worth your time. (bookmark it) They find that adding skills scores 134.3% higher on MLE-bench, 34.4% higher on PaperBench, 9.2% higher on FrontierCS and 14.0% higher on PassNet. More details on the approach: The agent has a strong backbone and a harness for planning, execution, memory and verification, and it still does not know how to make a given method actually work. That know-how lives in repositories and papers, written for human readers and far too large to load during a task. DisCo distills it. Task-agnostic distillation condenses 1,000 widely used ML repositories into the AREX-Skill Library, over 5,000 verified skills organized into 20 areas and 178 capability families. Task-oriented distillation writes the skills a concrete task calls for. Paper: https://arxiv.org/abs/2609.02749 Chat with Paper: https://academy.dair.ai/papers/repo-to-skill-distilling-github-repositories-into-ai4ai-skills-2609.02749
+
+![Banger paper from BAAI. If you are building research agents, this one is worth your time. (bookmark it) They find that adding skills scores 134.3% higher on MLE-bench, 34.4% higher on PaperBench, 9.2%](../../../../assets/images/2026/09/03/2095539831141220620-1.jpg)
+
+🔗 [View original post](https://x.com/dair_ai/status/2095539831141220620)
 
 ---
 
