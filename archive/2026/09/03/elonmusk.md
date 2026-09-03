@@ -2,7 +2,31 @@
 
 ## 📅 September 03, 2026
 
-> 20 post(s) archived.
+> 25 post(s) archived.
+
+---
+
+### 🕐 15:54 UTC · @elonmusk
+
+> Humans writing code as seen by future AI Me trying to do my job rn
+
+🔗 [View original post](https://x.com/elonmusk/status/2095541022365266094)
+
+---
+
+### 🕐 15:32 UTC · @elonmusk
+
+> True Great research, but unless you are an academic, this is pretty generally appreciated. Anyone who has been raising kids intimately knows how much they take after them, in personality as well as looks.
+
+🔗 [View original post](https://x.com/elonmusk/status/2095535385430356046)
+
+---
+
+### 🕐 15:13 UTC · @elonmusk
+
+> Indeed, The degeneration of Nature, Science, NEJM, and Scientific American into woke propaganda dispensers (and their refusal to publish normie, centrist, common-sense responses) is a scientific scandal.
+
+🔗 [View original post](https://x.com/DavidDeutschOxf/status/2095530540464009284)
 
 ---
 
@@ -24,6 +48,14 @@
 
 ---
 
+### 🕐 14:36 UTC · @elonmusk
+
+> Our society has gaslit its young women about their reality in terrible and destructive ways. Young women&apos;s perceptions about how they are treated (particularly by men) have changed radically over the last 15 years. In 2011, ~75% of young women believed women are treated w/ respect in America. By 2024, however, that number had fallen to only 40%.
+
+🔗 [View original post](https://x.com/JTLonsdale/status/2095521365424054572)
+
+---
+
 ### 🕐 14:04 UTC · @elonmusk
 
 > Talk to @Grok in your Tesla Today I drove past a house for sale that looked nice ... So I asked Grok in the Tesla how much it was. It pulled the listing, price, beds/baths, square footage, days on market, and market analysis — all while FSD kept driving. No phone. No searching. Just talking.
@@ -39,6 +71,16 @@
 ![The second law of thermodynamics says that the total entropy of a closed system cannot decrease. Entropy is a measure of how many microscopic states are possible in a system. At first, black holes mig](../../../../assets/images/2026/09/03/2095496222157197613-1.jpg)
 
 🔗 [View original post](https://x.com/Math_files/status/2095496222157197613)
+
+---
+
+### 🕐 12:03 UTC · @elonmusk
+
+> Going to be saying “Hey Grok” in a Robotaxi a lot. This is the norm in any Tesla so really great to see in Cybercabs too
+
+![Going to be saying “Hey Grok” in a Robotaxi a lot. This is the norm in any Tesla so really great to see in Cybercabs too](../../../../assets/images/2026/09/03/2095482937399525435-1.jpg)
+
+🔗 [View original post](https://x.com/gailalfaratx/status/2095482937399525435)
 
 ---
 

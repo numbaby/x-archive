@@ -2,7 +2,229 @@
 
 ## 📅 September 03, 2026
 
-> 88 post(s) archived.
+> 115 post(s) archived.
+
+---
+
+### 🕐 17:15 UTC · @Wise1Philosophy
+
+> Astra really deployed like: “Don’t worry. I’ll handle it.” everything was fine. then Claude went down. then Grok. then Cursor. then… Astra itself 💀 bro really said “if I’m going down everyone’s coming with me.” They tried to deploy Astra but it took down Claude, Grok, Cursor, and finally... itself. LMAO
+
+![Astra really deployed like: “Don’t worry. I’ll handle it.” everything was fine. then Claude went down. then Grok. then Cursor. then… Astra itself 💀 bro really said “if I’m going down everyone’s coming](../../../../assets/images/2026/09/03/2095561435665572277-1.jpg)
+
+🔗 [View original post](https://x.com/charliejhills/status/2095561435665572277)
+
+---
+
+### 🕐 17:15 UTC · @Wise1Philosophy
+
+> Be OM2. here&apos;s the lifecycle of an enterprise AI query: &gt; load the Jira backlog &gt; parse 400 Slack messages &gt; read the Salesforce account history &gt; forget it all immediately after answering OM2 caches your tools into a persistent graph so you only pay to read them once 👀 Media Today we&apos;re launching OM2. Your AI re-reads your entire company from scratch every time you ask it something. It’s why more than 50% of your token bill isn&apos;t in the answer, but in the search for it. OM2 gives your AI a permanent memory of your company. 🧠
+
+🔗 [View original post](https://x.com/DataChaz/status/2095561236142272900)
+
+---
+
+### 🕐 16:45 UTC · @Wise1Philosophy
+
+> THAT’S WHY AIRLINES HATE CHATGPT An $879 flight. I paid $299. No points. No affiliations. No VPN. These are the 8 prompts I used to travel like a pro:
+
+🔗 [View original post](https://x.com/AriaWestcott/status/2095553695354159262)
+
+---
+
+### 🕐 16:35 UTC · @Wise1Philosophy
+
+> no gatekeeping, just steps 💪🏽 no one teaches you how these AI argument videos are made.. so here it is, generated with Seedance 2.5 on @itsPolloAI in one take full breakdown, every prompt included
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2095551203950108726)
+
+---
+
+### 🕐 16:31 UTC · @Wise1Philosophy
+
+> Qué gran acierto integrar la función directamente respondiendo en el mail. Llevo tiempo probando distintas alternativas para automatizar la agenda, pero la mayoría obligan a la otra persona a abrir un enlace externo y buscar huecos, lo cual a veces resulta un poco frío o molesto. Que @getlindy se encargue del tira y afloja en el mismo hilo de forma natural me parece una genialidad. Mucho éxito con esto. Announcing Lindy&apos;s CC scheduling — my single favorite Lindy use case. CC lindy@lindy.ai on any thread. It finds a time, handles the back &amp; forth, and sends the invite. Live now: https://Lindy.ai
+
+🔗 [View original post](https://x.com/Marco_Exito/status/2095550205181493754)
+
+---
+
+### 🕐 16:28 UTC · @Wise1Philosophy
+
+> useful AI transformation playbook for PE partners: https://x.com/i/article/2095537207897477125
+
+🔗 [View original post](https://x.com/alex_verem/status/2095549513414926684)
+
+---
+
+### 🕐 16:28 UTC · @Wise1Philosophy
+
+> when your day sucks, remember this: in 2019, masayoshi son sold softbank&apos;s nvidia stake for about $3.6 billion. those same shares would be worth $150 billion+ today. some say closer to $210-250 billion. that&apos;s the kind of decision that randomly wakes you up at 3am. https://x.com/kunoo/status/2095142197855174726/video/1 Media
+
+🔗 [View original post](https://x.com/daveydefi/status/2095549508000104660)
+
+---
+
+### 🕐 16:23 UTC · @Wise1Philosophy
+
+> Creators rarely need to record another video. What they need is a way to let people interact with the work they already have, without babysitting the process. That’s what I like about @MeetResona. It converts static material into a live AI session where people can interrupt and get answers based strictly on your context. Finally a decent model for scaling yourself 👀 What if your best lesson, sharpest pitch, or most trusted framework could serve 1,000 people at once—and still feel one-on-one? That&apos;s what our team @MeetResona makes possible. Resona is a professional live AI agent built for creators and educators, turning your existing material…
+
+🔗 [View original post](https://x.com/DataChaz/status/2095548272551063732)
+
+---
+
+### 🕐 16:19 UTC · @Wise1Philosophy
+
+> We gave our AI employee a job we assumed one of us would have to do. I asked him to build the monitoring stack for the newsroom. I had not touched the setup. 1. Set it up and put the feed in this channel. Every lab, release page and changelog, deduplicated, posting here so nothing arrives twice and nothing is missed. 2. Connected it to the story archive. Read access only for now. It can check what you have already covered, it cannot edit anything. 3. Ran it against last week as a test. He found the stories you actually ran, and a few you had missed. Those are in the thread. He came back with it done and asked me to approve one thing before it went live. He wants write access and he left that switched off. I approved it. That was my entire involvement. Covering AI means watching more sources than a person can read in a day. I was shocked. What do you use to keep up? We are always looking. Try free at @viktor_com. $100 in credits, no card. Full link in my first reply. Paid Partnership
+
+![We gave our AI employee a job we assumed one of us would have to do. I asked him to build the monitoring stack for the newsroom. I had not touched the setup. 1. Set it up and put the feed in this chan](../../../../assets/images/2026/09/03/2095547163933802575-1.jpg)
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2095547163933802575)
+
+---
+
+### 🕐 16:18 UTC · @Wise1Philosophy
+
+> This Grok Bot prompt is literally a Chief Investment Officer 🤯
+
+![This Grok Bot prompt is literally a Chief Investment Officer 🤯](../../../../assets/images/2026/09/03/2095546965157347489-1.png)
+
+🔗 [View original post](https://x.com/socialwithaayan/status/2095546965157347489)
+
+---
+
+### 🕐 16:18 UTC · @Wise1Philosophy
+
+> Did the British inadvertently save Hinduism from being erased? Aurangzeb&apos;s order to demolish temples was part of a state-run project to convert the population. Could Hindu resistance have succeeded alone, or was British intervention decisive?
+
+![Did the British inadvertently save Hinduism from being erased? Aurangzeb&apos;s order to demolish temples was part of a state-run project to convert the population. Could Hindu resistance have succeed](../../../../assets/images/2026/09/03/2095546868398948608-1.jpg)
+
+🔗 [View original post](https://x.com/Manifest_Lord/status/2095546868398948608)
+
+---
+
+### 🕐 16:10 UTC · @Wise1Philosophy
+
+> Connecting your AI tools is very different than actually understanding them. Everyone has the integrations piece now. That part is easy. It goes something like Slack, CRM, Jira, Docs, all wired together. But AI models still answer every question with no idea how the company works, and each time it all starts over again from zero. OM2 is the understanding layer that has been missing. @coworkerapp Get started at http://coworker.ai Today we&apos;re launching OM2. Your AI re-reads your entire company from scratch every time you ask it something. It’s why more than 50% of your token bill isn&apos;t in the answer, but in the search for it. OM2 gives your AI a permanent memory of your company. 🧠
+
+![Connecting your AI tools is very different than actually understanding them. Everyone has the integrations piece now. That part is easy. It goes something like Slack, CRM, Jira, Docs, all wired togeth](../../../../assets/images/2026/09/03/2095544861474881647-1.jpg)
+
+🔗 [View original post](https://x.com/ecomchasedimond/status/2095544861474881647)
+
+---
+
+### 🕐 16:08 UTC · @Wise1Philosophy
+
+> https://x.com/i/article/2095537207897477125
+
+🔗 [View original post](https://x.com/mardehaym/status/2095544541663113694)
+
+---
+
+### 🕐 16:07 UTC · @Wise1Philosophy
+
+> Holy smokes... how is this AI? Media
+
+🔗 [View original post](https://x.com/AIHighlight/status/2095544240981815368)
+
+---
+
+### 🕐 16:04 UTC · @Wise1Philosophy
+
+> An AI project is now the largest private infrastructure investment in American history. Project Stargate committed $500B to US data centres, $100B of it immediately. Bigger than any railroad or highway program before it. This is one of the 7 facts that will change how you look at the AI industry this year. More facts are in the H1 2026 Industry Report: https://bit.ly/StateofAI2026
+
+![An AI project is now the largest private infrastructure investment in American history. Project Stargate committed $500B to US data centres, $100B of it immediately. Bigger than any railroad or highwa](../../../../assets/images/2026/09/03/2095543457016074337-1.jpg)
+
+🔗 [View original post](https://x.com/TheAIColonyRD/status/2095543457016074337)
+
+---
+
+### 🕐 16:03 UTC · @Wise1Philosophy
+
+> Marc Andreessen is the co-founder of Andreessen Horowitz, one of the most influential VC firms in the world. On David Senra&apos;s podcast, he shared the 6 principles he lives by to build his companies: 1) Do not introspect, just move forward Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2095543107861520683)
+
+---
+
+### 🕐 15:53 UTC · @Wise1Philosophy
+
+> Brands in the finance and health spaces seemed the least impacted by the most recent Google update. (For once.) The same couldn&apos;t be said for fashion/beauty, legal, some local, some SaaS and a few other notable categories. And now that we finally have actual post-update data instead of people guessing based on 24 hours of Search Console movement, broadly speaking, this one turned out to be pretty interesting. By the way, you can see whether your business is appearing across Google AI, ChatGPT, Claude, Perplexity and Grok here. It&apos;s free: https://seo-stuff.com/free-audit One large analysis found that URLs ranking in Google&apos;s top 10 were roughly 1.8x more likely to fall beyond the top 100 during the update than during a comparable period with no confirmed Google update. There were some very big winners too, but first, let&apos;s do the confirmed timeline. Google started the August 2026 spam update at 9:27 a.m. Pacific on August 18 and finished it at 1:49 a.m. Pacific on August 21. The entire rollout took just 2 days and 16 hours. It applied globally and across all languages, and Google described it as a normal spam update rather than announcing a new policy or saying it specifically targeted AI-generated content. SE Ranking analyzed 100,000 U.S. keywords across 20 industries and compared rankings before and after the update with a similar period in July when there was no confirmed Google update. During the July control period, 9.2% of URLs that started in Google&apos;s top 10 fell beyond position 100. During the August update, that jumped to 16.71% - an 82% increase. In other words, a URL sitting in Google&apos;s top 10 was roughly 1.8x more likely than normal to get knocked completely outside the first 100 results. The movement went both ways, though. SE Ranking also found a 12% increase in URLs jumping into Google&apos;s top three after previously sitting outside the top 20. So some pages essentially disappeared while others jumped from page three or worse directly into the positions where most clicks happen. Fashion and beauty had the highest top-10 volatility at 85.55%, while real estate was lowest at 74.64%. Interestingly, healthcare and real estate were among the more stable categories despite being YMYL-heavy. The majority of our client base is spread across health and finance, and those findings match what our internal data show. The more interesting clues come from some of the biggest publicly analyzed losers. Glenn Gabe published several detailed case studies, and a few patterns kept showing up. One YMYL site reportedly lost rankings for more than 200,000 queries after scaling programmatic pages across countries with large amounts of content Gabe assessed as AI-generated. Another enormous Amazon affiliate site built largely from Amazon data lost visibility for more than 14,000 queries. A third had more than 1.5 million indexed URLs, with roughly 85% reportedly coming from a programmatic section containing information available elsewhere. And another aggressive example with more than 250,000 URLs reportedly declined or disappeared for close to 25,000 queries. Keep in mind, Google&apos;s policy does not say AI content is automatically spam, its specifically scaled content abuse policy focuses on producing large numbers of pages primarily to manipulate rankings while providing little additional value, regardless of whether those pages were written by AI or humans. You can use AI while creating an excellent page in the same way you can also hire 100 human writers to produce 100,000 useless pages and still have a scaled-content problem. The real question is what the page gives somebody that they cannot easily get from the hundreds of competing pages targeting the same search. If you genuinely operate in 40 locations and each page has unique staff, services, pricing, reviews, photos, directions and customer examples, that is very different from changing &quot;Los Angeles&quot; to &quot;San Diego&quot; inside the same template. The forum reports broadly fit that pattern, although they weren&apos;t uniform. Some people with heavily scaled local or programmatic sites reported enormous losses, while others reported gains. And some sites using AI-assisted or even spun content appeared unaffected. If you want to do your own research here, just take 20 or 30 important commercial searches and compare the winners with the losers. Look for things like original product data, real pricing, first-party photos, expert commentary, customer reviews, actual testing, useful calculators, clear comparison methodology, unique inventory and original research. For SaaS, I would pay close attention to product pages, integrations, pricing, alternatives, implementation content, documentation, screenshots, use cases and customer outcomes. For e-commerce, focus on original product information, images, current inventory, shipping details, reviews, testing and real buying guidance. For finance, legal and health, credible sourcing, credentials, current information, transparent methodology and clear risk context become especially important. For local businesses, I would audit mass-generated location pages very carefully. And most importantly, look at the numbers that actually matter. A site can lose 40% of its blog traffic and barely lose a dollar if the disappearing visits were low-intent informational traffic. Another business can lose 10% of organic traffic and half its leads because the pages that dropped were pricing, comparison, service or product pages. This is where SEO Stuff (http://seo-stuff.com) can help. The done-for-you package combines 10 SEO and AI-search-optimized articles with three DR50+ authority placements: https://seo-stuff.com/gold-plan-package The content is built around the commercial questions customers actually research before buying, including comparisons, pricing, alternatives, use cases, objections, implementation and product or service details. The authority placements help establish your business across third-party websites that search engines and AI systems can discover. And if you&apos;re curious whether your business is already appearing across Google AI, ChatGPT, Claude, Perplexity and Grok, you can check here. It&apos;s free: https://seo-stuff.com/free-audit Google is now explicitly telling businesses to focus on AI search traffic alongside SEO. This comes straight from Google’s John Mueller. Someone asked him a question a lot of businesses are worried about right now: “Is SEO still enough, or do we need to start thinking about GEO t…
+
+![Brands in the finance and health spaces seemed the least impacted by the most recent Google update. (For once.) The same couldn&apos;t be said for fashion/beauty, legal, some local, some SaaS and a fe](../../../../assets/images/2026/09/03/2095540790974153018-1.jpg)
+
+🔗 [View original post](https://x.com/alexgroberman/status/2095540790974153018)
+
+---
+
+### 🕐 15:48 UTC · @Wise1Philosophy
+
+> A Harvard neurologist told me: “Sticking out your tongue for 40 seconds removes cortisol faster than any pills and breathing exercises.” 1. Your neck is what&apos;s keeping you anxious.
+
+🔗 [View original post](https://x.com/BeBetter_Athlet/status/2095539503008207001)
+
+---
+
+### 🕐 15:45 UTC · @Wise1Philosophy
+
+> The real cause of cancer was identified in 1931. The man behind the discovery won a Nobel Prize, then was buried by the pharmaceutical industry. Here&apos;s what Dr. Otto Warburg found: 1. “Cancer cells thrive in high-sugar environments.”
+
+🔗 [View original post](https://x.com/_sleepreport/status/2095538561663865002)
+
+---
+
+### 🕐 15:41 UTC · @Wise1Philosophy
+
+> This is how a washing machine works on the inside every time you do laundry. Media
+
+🔗 [View original post](https://x.com/FutureStacked/status/2095537795318022644)
+
+---
+
+### 🕐 15:39 UTC · @Wise1Philosophy
+
+> A Heart doctor admitted: “There are 3 types of people who don&apos;t get heart attacks.” 1. Don&apos;t go pee at 3 AM
+
+🔗 [View original post](https://x.com/_Gut_Laboratory/status/2095537200113037515)
+
+---
+
+### 🕐 15:36 UTC · @Wise1Philosophy
+
+> 3 years of AI progress Media
+
+🔗 [View original post](https://x.com/AIFrontliner/status/2095536421251469501)
+
+---
+
+### 🕐 15:33 UTC · @Wise1Philosophy
+
+> If I had to start from zero at 220 lbs and get lean AND jacked in 6 months, this is everything I&apos;d do: 1. Creatine. You should take it, your friends should take it, your parents should take it. 5g a day, forever. No loading phase needed.
+
+🔗 [View original post](https://x.com/LevelUpPrime/status/2095535569552163199)
+
+---
+
+### 🕐 15:32 UTC · @Wise1Philosophy
+
+> If you&apos;re currently 25-32, please read this carefully: 1. Your body will never be this good again.
+
+🔗 [View original post](https://x.com/DPro_Coach/status/2095535303121572033)
+
+---
+
+### 🕐 15:28 UTC · @Wise1Philosophy
+
+> If you want a flat stomach, fix your gut bacteria ASAP. I switched my approach two weeks ago and i regret not starting sooner. Here&apos;s how i got rid of the bloat:
+
+🔗 [View original post](https://x.com/NutritionCorp/status/2095534530975482017)
+
+---
+
+### 🕐 15:28 UTC · @Wise1Philosophy
+
+> AI agents shouldn’t have to start from ZERO every single time OM2 can actually remember context across interactions while cutting 50% token usage by 9x, running 64% faster, and improving accuracy by 84.5%… That’s a pretty upgrade Especially when I can keep using the AI or agent I already prefer. Permanent memory is the solution. Today we&apos;re launching OM2. Your AI re-reads your entire company from scratch every time you ask it something. It’s why more than 50% of your token bill isn&apos;t in the answer, but in the search for it. OM2 gives your AI a permanent memory of your company. 🧠
+
+🔗 [View original post](https://x.com/sufyanmaan/status/2095534529813336142)
 
 ---
 
@@ -27,6 +249,14 @@
 > Every marketing team I know already pays for Claude or ChatGPT. They use it for copy, briefs, and reporting. Then the lead tracker or client portal request goes into someone else&apos;s queue and sits there for a month. Now the same chat builds the tool. Same subscription, no queue. Today we’re turning your Claude subscription into a full AI app builder. Connect Claude, ChatGPT or Cursor to Zite MCP and ask for an app. It goes live with its own database, logins for your whole team, roles for who sees what. Zero Zite credits.
 
 🔗 [View original post](https://x.com/ecomchasedimond/status/2095524216082964682)
+
+---
+
+### 🕐 14:45 UTC · @Wise1Philosophy
+
+> Fable 5.1 just landed. Follow these 5 steps and start saving tokens today: 1. Set /effort to low 2. Run ‘/claude-api cost-optimize’ 3. Run ‘/claude-api prompt-audit’ 4. Change effort mid-conversation to break the cache hit 5. Run ‘/claude-api migrate’ to update your API config for 5.1 Try them today. That&apos;s tokens saved before you&apos;ve even started the real work. Media
+
+🔗 [View original post](https://x.com/godofprompt/status/2095523488165675201)
 
 ---
 
