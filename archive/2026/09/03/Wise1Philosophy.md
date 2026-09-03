@@ -2,7 +2,77 @@
 
 ## 📅 September 03, 2026
 
-> 25 post(s) archived.
+> 33 post(s) archived.
+
+---
+
+### 🕐 08:41 UTC · @Wise1Philosophy
+
+> The biggest hardware jump of the half fits in one line. 10x the performance at one tenth the cost per token. That&apos;s the new generation of AI chips, and it changes the economics of everything built on top of them. More insight on this are in the H1 2026 Industry Report:https://bit.ly/StateofAI2026
+
+![The biggest hardware jump of the half fits in one line. 10x the performance at one tenth the cost per token. That&apos;s the new generation of AI chips, and it changes the economics of everything buil](../../../../assets/images/2026/09/03/2095432079316033658-1.jpg)
+
+🔗 [View original post](https://x.com/TheAIColonyRD/status/2095432079316033658)
+
+---
+
+### 🕐 08:38 UTC · @Wise1Philosophy
+
+> Anthropic really said here, stop reinventing the wheel I had to write the same Claude Code prompt 40 times in one month. Good news! Anthropic already made them. The official Claude Code prompts are sorted by task and role in the documentation and are ready to be copied and pasted. These prompts were drawn from what our teams use on a…
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2095431237791895782)
+
+---
+
+### 🕐 08:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/03/2095429168892703099-1.jpg)
+
+🔗 [View original post](https://x.com/Mindsthatbuild/status/2095429168892703099)
+
+---
+
+### 🕐 08:17 UTC · @Wise1Philosophy
+
+> Learning AI properly shouldn&apos;t depend on whether you can afford it. A fully funded programme is opening in a few days. Learn from experts, build real projects, earn a recognised certificate, pay nothing. Who wants in?
+
+🔗 [View original post](https://x.com/Shawnife/status/2095426049303597273)
+
+---
+
+### 🕐 08:06 UTC · @Wise1Philosophy
+
+> The idea that high doses of vitamin D are always toxic is a myth perpetuated by industries protecting their bottom line. Science shows that therapeutic levels can save lives.
+
+🔗 [View original post](https://x.com/RasmusNorbergg/status/2095423048216404083)
+
+---
+
+### 🕐 08:01 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/03/2095421945575547335-1.jpg)
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2095421945575547335)
+
+---
+
+### 🕐 08:00 UTC · @Wise1Philosophy
+
+> Your cortisol levels reach their peak and you don&apos;t even notice it. These are the 10 signs that prove it: 1. Twitching eyelids Media
+
+🔗 [View original post](https://x.com/RasmusNorbergg/status/2095421559284617361)
+
+---
+
+### 🕐 07:48 UTC · @Wise1Philosophy
+
+> Signs you have insulin resistance (&amp; don’t know it): 1. Foam when you piss.
+
+![Signs you have insulin resistance (&amp; don’t know it): 1. Foam when you piss.](../../../../assets/images/2026/08/26/2092409196604190977-1.jpg)
+
+🔗 [View original post](https://x.com/HeyKimChong/status/2095418522386223574)
 
 ---
 
