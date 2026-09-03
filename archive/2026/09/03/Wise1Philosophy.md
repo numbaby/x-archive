@@ -2,7 +2,158 @@
 
 ## 📅 September 03, 2026
 
-> 48 post(s) archived.
+> 68 post(s) archived.
+
+---
+
+### 🕐 13:04 UTC · @Wise1Philosophy
+
+> Interesting: #Titans HC Robert Saleh said one of the first moves the team made in its nutrition overhaul was removing all seed oils from the building. He says players have appreciated it. Media
+
+🔗 [View original post](https://x.com/HeyKimChong/status/2095498061762195532)
+
+---
+
+### 🕐 13:00 UTC · @Wise1Philosophy
+
+> If somebody dislikes you for no reason, maybe it&apos;s because your light irritates their darkness. Keep shining anyway.
+
+🔗 [View original post](https://x.com/_Pammy_DS_/status/2095497060585759223)
+
+---
+
+### 🕐 12:57 UTC · @Wise1Philosophy
+
+> This smart stand uses AI to find your ideal screen position and fix your posture for you. Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media Elon Musk explains his 5-step algorithm for solving any problem: “The most common mistake of smart engineers is to optimize a thing that should not exist.” “I have this very basic first principles algorithm that I run as a mantra.” Elon breaks it down: Step 1: Question the requir…
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2095496305577783682)
+
+---
+
+### 🕐 12:45 UTC · @Wise1Philosophy
+
+> this is the most underrated enterprise AI account on X: A delivery orchestration platform that supplies FedEx estimated 7 to 8 months to rebuild their core system. We had the core rebuilt in 3.5 months with 2 engineers and 122 merged pull requests in the first 90 days. It was live in production by month 6. I want to walk through how, …
+
+🔗 [View original post](https://x.com/alex_prompter/status/2095493310227816947)
+
+---
+
+### 🕐 12:42 UTC · @Wise1Philosophy
+
+> If you want to make passive income: • Don&apos;t buy a rental property • Don&apos;t buy a vending machine • Don&apos;t invest in dividend stocks I’d buy this little device that makes money while you sleep. Here’s exactly how it works:
+
+🔗 [View original post](https://x.com/gedamtekle/status/2095492532096373110)
+
+---
+
+### 🕐 12:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/03/2095489701079593057-1.jpg)
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2095489701079593057)
+
+---
+
+### 🕐 12:15 UTC · @Wise1Philosophy
+
+> A man on social media described why he never watches any of his friends stories. He gave one of the best reasons I&apos;ve ever heard.
+
+🔗 [View original post](https://x.com/josh_uglyasf/status/2095485830408307087)
+
+---
+
+### 🕐 12:10 UTC · @Wise1Philosophy
+
+> Stop telling ChatGPT “do this.” Stop telling ChatGPT “write code.” Stop telling ChatGPT “fix this error.” You’re treating a senior AI like a junior intern. Here are 8 prompts you can copy and paste:
+
+🔗 [View original post](https://x.com/AriaWestcott/status/2095484521072280034)
+
+---
+
+### 🕐 12:10 UTC · @Wise1Philosophy
+
+> Making $10k/month is not hard. All you need is: • One faceless Instagram page • A niche that hits a nerve • One hour each day • Free AI tools Here&apos;s the exact system I used to go from $0 to $10k/month in 6 months:
+
+🔗 [View original post](https://x.com/erichustls/status/2095484485403869202)
+
+---
+
+### 🕐 12:05 UTC · @Wise1Philosophy
+
+> Sleep is the most powerful medicine on Earth. It boosts memory, recovery, fat loss, &amp; even helps with anxiety. Here’s how to improve it with 7 simple steps: 1. Don’t sleep 8 hours Media
+
+🔗 [View original post](https://x.com/HeyDoc_MD/status/2095483396382454028)
+
+---
+
+### 🕐 12:00 UTC · @Wise1Philosophy
+
+> I like that the summary stays inside Google Calendar. That&apos;s the bit I&apos;d actually use every morning :) I STOPPED PLANNING MY DAY MANUALLY 9 meetings, 3 most important, no idea where to start. Sider AI caught all of it in 3 seconds and told me exactly what my day actually looked like: 👇
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2095482020436529388)
+
+---
+
+### 🕐 11:58 UTC · @Wise1Philosophy
+
+> ENTERPRISE IT TEAMS ARE BLOCKING AI PRESENTATION TOOLS FOR TWO VERY GOOD REASONS: → Data leakage → Brand compliance You can’t dump unreleased product metrics, confidential client data, or Q3 financials into a public AI app just to save 30 minutes on a slide deck. And even if you could, the result usually looks like... AI :) Generic templates. Wrong fonts. Wrong layouts. Nothing like your actual brand. Presenton takes a completely different approach. It’s an Apache 2.0 open-source project with 9.2k GitHub stars. Give it your existing PowerPoint deck, and it turns the design into an AI-ready template. It analyzes: → Typography and colors → Slide layouts → Charts and metric cards → Headers and footers → Timelines and comparison blocks → Other reusable components Those pieces become a design system the AI can use to generate new slides in the same visual language. And you’re not stuck regenerating everything when something looks wrong. Presenton includes a visual canvas where you can edit text, move elements, resize components, and reuse blocks directly. The result? A normal, editable PPTX or PDF. You also control where everything runs: → Self-host with Docker → Run models locally with Ollama or LM Studio → Bring OpenAI, Gemini, Anthropic, Azure OpenAI, or Bedrock → Use the API or built-in MCP server So this isn’t another locked AI presentation SaaS. It’s open-source infrastructure for generating editable, brand-consistent presentations on your own terms. And yes.. it&apos;s 100% FREE and open-source. Repo in 🧵↓ Media
+
+🔗 [View original post](https://x.com/DataChaz/status/2095481555150045479)
+
+---
+
+### 🕐 11:43 UTC · @Wise1Philosophy
+
+> Breaking: Claude Fable 5.1 is insane. And People are already building mind-blowing things with it. 10 wild examples so far: 1. GTA-style multiplayer clone in NYC Media
+
+🔗 [View original post](https://x.com/TheAIColony/status/2095477825176220046)
+
+---
+
+### 🕐 11:41 UTC · @Wise1Philosophy
+
+> A Harvard study looking at 2000+ people on a carnivore diet
+
+![A Harvard study looking at 2000+ people on a carnivore diet](../../../../assets/images/2026/09/03/2095477158915584503-1.jpg)
+
+🔗 [View original post](https://x.com/RasmusNorbergg/status/2095477158915584503)
+
+---
+
+### 🕐 11:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/03/2095474515656466563-1.jpg)
+
+🔗 [View original post](https://x.com/Daily__wisdom_/status/2095474515656466563)
+
+---
+
+### 🕐 11:15 UTC · @Wise1Philosophy
+
+> People underestimate the power of great prompts. Here are 5 frameworks you can copy &amp; paste: [ bookmark 🔖 this post for later ] 1 - R-A-I-N ➟ Act as a (ROLE) ➟ State the (AIM) ➟ Use the provided (INPUT) ➟ Hit the (NUMERIC TARGET) ➟ In this (FORMAT) R-A-I-N Example: ➟ ROLE: UX design lead ➟ AIM: Redesign e-commerce checkout to lower cart abandonment by 25% ➟ INPUT: Analytics data ➟ NUMERIC TARGET: 25% decrease ➟ FORMAT: Mobile wireframes + conversion metrics table 2 - C-L-A-R ➟ Given the (CONTEXT) ➟ List any (LIMITS) ➟ Describe the (ACTION) ➟ Define the expected (RESULT) C-L-A-R Example: ➟ CONTEXT: Warehouse delay logs ➟ LIMITS: Focus on the top two causes ➟ ACTION: Quantify impact + propose three fixes ➟ RESULT: One-page memo 3 - F-L-O-W ➟ Specify the (FUNCTION) ➟ Set the audience (LEVEL) ➟ Define the (OUTPUT) ➟ Clarify the (WIN METRIC) F-L-O-W Example: ➟ FUNCTION: Career copywriter ➟ LEVEL: Recent graduates ➟ OUTPUT: 900-word article with 4 job search tips ➟ WIN METRIC: 1.5% keyword density + CTA checklist 4 - P-I-V-O ➟ State the (PROBLEM) ➟ Provide key (INSIGHTS) ➟ Choose the (VOICE) ➟ Outline the desired (OUTCOME) P-I-V-O Example: ➟ PROBLEM: Mobile app adoption is slowing ➟ INSIGHTS: Identify friction points + share 3 user insights ➟ VOICE: Persuasive ➟ OUTCOME: Two strategies to regain growth in 60 days 5 - S-E-E-D ➟ Describe the (SITUATION) ➟ Define the (END GOAL) ➟ Supply illustrative (EXAMPLES) ➟ List the (DELIVERABLES) S-E-E-D Example: ➟ SITUATION: Create a 6-week communication program ➟ END GOAL: Skills in listening, feedback, conflict resolution, presence, alignment ➟ EXAMPLES: Weekly remote-team exercises scored on clarity &amp; impact ➟ DELIVERABLES: Assessment framework + marketing hook 📌 Get Advanced ChatGPT Guide (free): https://bit.ly/3StIB3z 👉 Follow me @AndrewBolis for more and 🔄 Repost this to help others use AI
+
+![People underestimate the power of great prompts. Here are 5 frameworks you can copy &amp; paste: [ bookmark 🔖 this post for later ] 1 - R-A-I-N ➟ Act as a (ROLE) ➟ State the (AIM) ➟ Use the provided (](../../../../assets/images/2026/09/03/2095470622734446834-1.png)
+
+🔗 [View original post](https://x.com/AndrewBolis/status/2095470622734446834)
+
+---
+
+### 🕐 11:12 UTC · @Wise1Philosophy
+
+> Less than 48 hours ago, Anthropic dropped Claude Fable 5.1. And people are already one-shotting games, building 3D worlds + creating insane simulations with it. 10 wild examples:
+
+🔗 [View original post](https://x.com/AIHighlight/status/2095470045803491368)
+
+---
+
+### 🕐 11:02 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/03/2095467385650041048-1.jpg)
+
+🔗 [View original post](https://x.com/apex_mentality_/status/2095467385650041048)
 
 ---
 
@@ -40,6 +191,15 @@
 
 ---
 
+### 🕐 10:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/03/2095459398319530241-1.jpg)
+
+🔗 [View original post](https://x.com/yeti_mind/status/2095459398319530241)
+
+---
+
 ### 🕐 10:29 UTC · @Wise1Philosophy
 
 > your body will never be this recoverable again. you can still build it, break it, and rebuild it faster than you ever will at 40. every year you wait to get in shape is a year you&apos;re borrowing against a loan that gets harder to repay. start now. not when you feel ready. now.
@@ -71,6 +231,15 @@
 > ✅ Claude Code ✅ Claude Cowork ✅ Claude Design ✅ Claude Finance ✅ Claude Science ✅ Claude Teachers ✅ Claude Academy ✅ Claude Commerce ⬜ Claude Marketing ⬜ Claude Legal ⬜ Claude HR ⬜ Claude Accounting ⬜ Claude Farming ⬜ Claude Forestry ⬜ Claude Climate Media We&apos;re open-sourcing Claude Commerce Agents. This is a blueprint for building shopping and merchant agents, with reference implementations across retail, travel, telecom, and entertainment.
 
 🔗 [View original post](https://x.com/alex_verem/status/2095451868155752627)
+
+---
+
+### 🕐 09:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/03/2095444264935149694-1.jpg)
+
+🔗 [View original post](https://x.com/Ant_Philosophy/status/2095444264935149694)
 
 ---
 
