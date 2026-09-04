@@ -2,7 +2,7 @@
 
 ## 📅 September 04, 2026
 
-> 11 post(s) archived.
+> 12 post(s) archived.
 
 ---
 
@@ -77,6 +77,14 @@
 > The Tesla Cybercab doesn&apos;t have ANY brake fluid. It is the first production vehicle to have a brake-by-wire system. Electronic actuators are responsible for the clamping pressure, rather than hydraulic fluid that you see in traditional vehicles. This system improves efficiency since the brake pads can fully disengage. They can go entirely off or on. It also enables Tesla to fine-tune the braking to be as smooth as possible. PLUS, when the car is built with the unboxed process, Tesla doesn&apos;t need to run any brake lines, everything is seamless. Media
 
 🔗 [View original post](https://x.com/niccruzpatane/status/2095703149503762886)
+
+---
+
+### 🕐 01:57 UTC · @elonmusk
+
+> Tesla Cybercab stops for some kids to cross the road Media
+
+🔗 [View original post](https://x.com/DirtyTesLa/status/2095692816521253075)
 
 ---
 
