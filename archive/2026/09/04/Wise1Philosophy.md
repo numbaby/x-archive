@@ -2,7 +2,148 @@
 
 ## 📅 September 04, 2026
 
-> 40 post(s) archived.
+> 60 post(s) archived.
+
+---
+
+### 🕐 14:49 UTC · @Wise1Philosophy
+
+> 🚨 @IFM_AI JUST REDEFINED OPEN SCIENCE WITH K2 HORIZON They&apos;ve just dropped the entire training lifecycle across 6 different scales. Weights tell you what a model does at the end, but logs tell you exactly how it got there. What you actually get to inspect: → pretraining through agentic post-training logs → data released where licenses allow → detailed construction recipes where redistribution is restricted .. and more! Most labs ask for blind trust. IFM actually handed over the blueprints 👀↓ When you consider a house, do you just want to be a pay-to-stay tenant like in a hotel, or buy it but without blueprint and document, or own the house alone with all its wiring, plumbing, design and construction details? What if this house is AI ? Today’s release marks the first …
+
+![🚨 @IFM_AI JUST REDEFINED OPEN SCIENCE WITH K2 HORIZON They&apos;ve just dropped the entire training lifecycle across 6 different scales. Weights tell you what a model does at the end, but logs tell yo](../../../../assets/images/2026/09/04/2095887009260658850-1.jpg)
+
+🔗 [View original post](https://x.com/DataChaz/status/2095887009260658850)
+
+---
+
+### 🕐 14:28 UTC · @Wise1Philosophy
+
+> Churn above single digits will quietly bleed your business dry. If you&apos;re running an MRR offer, it should be 5% or less. Problem is, most people have no idea what&apos;s actually driving theirs up. So I put together a free Client Retention Playbook. (The 5-step playbook holding churn under 5% on my own recurring offer) Like this + comment &apos;CHURN&apos; and I&apos;ll send it over. *Must follow so I can send the DM* Media
+
+🔗 [View original post](https://x.com/TheJeremyHaynes/status/2095881634612482254)
+
+---
+
+### 🕐 14:07 UTC · @Wise1Philosophy
+
+> Wait... My Vellum assistant can now use my actual Chrome browser instead of a sandbox browser. It works inside the accounts I’m already logged into. Didn’t have to log into accounts one by one to give my agent access 👇🧵 Media
+
+🔗 [View original post](https://x.com/kyronis_talks/status/2095876524838887789)
+
+---
+
+### 🕐 14:03 UTC · @Wise1Philosophy
+
+> Now that OpenAI has released GPT-6 Astra, it is worth paying attention to something important: Astra is built to browse the web and use websites much more like a person. And as a result, we now have one of our clearest windows into how/why ChatGPT decides which websites to recommend. That has some pretty big implications for brands. Let’s go through it. Oh, and to see whether ChatGPT, Claude, Google AI, Perplexity and Grok are recommending your business right now, start here. It’s free: https://rightcited.com/ The first thing to understand is that ChatGPT is moving deeper into the customer journey. OpenAI literally uses “pediatrician search” and “apartment hunting” as examples of Astra’s computer-use capabilities. A customer can ask ChatGPT to research a category, compare options and then continue the task through the browser. So showing up in the answer is increasingly only part of the opportunity, and your website also needs to make it easy for Astra to understand what your company does, whether it is relevant to that customer and what they should do next. That starts with discovery. Clearly explain your category, products, services, locations, industries, use cases and the problems you solve. Then make the important buying information public and specific: pricing, availability, service areas, hours, eligibility, integrations, product specifications, policies, appointment information and customer results. If someone needs a fact before choosing your business, there should be a clear place online where ChatGPT can find it. Content still matters too. Comparison pages, alternatives, industry pages, location pages, FAQs, documentation, case studies and detailed service pages give Astra more ways to encounter your business during research. Third-party evidence matters for the same reason. Press coverage, reviews, industry publications, directories, expert mentions and contextual backlinks create additional places where ChatGPT can encounter your brand and verify what your website says. Astra also adds another layer businesses should start thinking about: usability. OpenAI says it can fill out online forms and interact directly with websites, so the experience after discovery matters more. If ChatGPT finds your company but cannot determine whether the service is available, where to click, how to book or what something costs, that creates friction between recommendation and action. Clear navigation, accurate information, working forms and straightforward conversion paths therefore matter for AI search too. Optimizing for ChatGPT is increasingly about being easy to discover, easy to understand, easy to verify and easy to act on. Astra makes that last part much more important. That is exactly the system Rightcited was built around: https://rightcited.com/ Brands in the finance and health spaces seemed the least impacted by the most recent Google update. (For once.) The same couldn&apos;t be said for fashion/beauty, legal, some local, some SaaS and a few other notable categories. And now that we finally have actual post-update data inst…
+
+![Now that OpenAI has released GPT-6 Astra, it is worth paying attention to something important: Astra is built to browse the web and use websites much more like a person. And as a result, we now have o](../../../../assets/images/2026/09/04/2095875451331981792-1.jpg)
+
+🔗 [View original post](https://x.com/alexgroberman/status/2095875451331981792)
+
+---
+
+### 🕐 14:03 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/04/2095875420566491640-1.jpg)
+
+🔗 [View original post](https://x.com/Ant_Philosophy/status/2095875420566491640)
+
+---
+
+### 🕐 14:00 UTC · @Wise1Philosophy
+
+> wow.. AI agents can do animation for you now I used just GPT Image 2.0 and Seedance 2.0 to generate this perfect animation video. Step-by-step tutorial with prompts: 👇 Media
+
+🔗 [View original post](https://x.com/HeyAbhishek/status/2095874706763358301)
+
+---
+
+### 🕐 14:00 UTC · @Wise1Philosophy
+
+> NEW INSIDER TRADER COUGHT. ONE lawmaker that writes your taxes just sold almost $1 MILLION in stock. And the filings show that ONE detail stands out... Here is what he sold: Kevin Hern sits on the committee that writes your taxes. The selling starts in early August and runs three straight weeks. Twenty-seven positions, every single one a sale. Not one purchase in the entire batch. Kevin Hern represents Oklahoma&apos;s first district. He sits on the House Ways and Means Committee. That panel writes the nation&apos;s tax and tariff laws. The disclosed value runs from $223,000 to $820,000. He sells blue chips across nearly every sector. Procter and Gamble, Home Depot, Nike, Boeing, Disney. Microsoft, Adobe, Lowe&apos;s, Medtronic, and more follow. Some of the timing looks sharp. Boeing trails the market by almost 9% after he sells. Home Depot, Lowe&apos;s, and Nike lag too. Other trades go the other way. Adobe and Gap then beat the market by double digits. This is a broad exit, not a clean dodge. There is a plain reason he might be selling: Hern is running for the U.S. Senate. He leaves the House when his term ends. Winding down a portfolio fits that timeline. Still, some sales take 27 days to surface. Trades from early August do not post until September. The public sees the moves only weeks later. The same man helps write the country&apos;s tax laws. The same man is cashing out of the market. The same filings sit hidden for weeks. As much as $820,000 in stock. Sold by a man who writes your taxes. Disclosed only after the fact.
+
+![NEW INSIDER TRADER COUGHT. ONE lawmaker that writes your taxes just sold almost $1 MILLION in stock. And the filings show that ONE detail stands out... Here is what he sold: Kevin Hern sits on the com](../../../../assets/images/2026/09/04/2095874687511531673-1.jpg)
+
+🔗 [View original post](https://x.com/InsiderTrackers/status/2095874687511531673)
+
+---
+
+### 🕐 14:00 UTC · @Wise1Philosophy
+
+> Para los desarrolladores de videojuegos, la IA 3D solo importa si el resultado es utilizable. Según las imágenes del stand de gamescom, el enfoque de Tripo es bastante claro: mostrar cómo la IA 3D puede integrarse en la producción de recursos reales, no solo crear atractivas previsualizaciones. Tripo Smart Mesh P2.0 es interesante porque se centra en recursos listos para producción: - Topología nativa de cuadriláteros - Edición local - Generación múltiple - Flujo de trabajo compatible con Unity, Unreal y Blender Lo vi en persona, Tripo lo presentó en gamescom 2026.
+
+![Para los desarrolladores de videojuegos, la IA 3D solo importa si el resultado es utilizable. Según las imágenes del stand de gamescom, el enfoque de Tripo es bastante claro: mostrar cómo la IA 3D pue](../../../../assets/images/2026/09/04/2095874640325349841-1.jpg)
+
+🔗 [View original post](https://x.com/MiguelMaestroIA/status/2095874640325349841)
+
+---
+
+### 🕐 13:56 UTC · @Wise1Philosophy
+
+> Satya Nadella is the CEO of Microsoft. On the All-In podcast, he shared the 12 rules he&apos;s using to rebuild it around AI: 1) Everyone becomes a manager now, ready or not Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2095873547403133322)
+
+---
+
+### 🕐 13:49 UTC · @Wise1Philosophy
+
+> HAY APROXIMADAMENTE 1.990.000.000 DE SITIOS WEB EN INTERNET EN 2026. Pero A GOOGLE LE ENCANTA OCULTARTE los sitios web más útiles. Aquí tienes 13 sitios web interesantes que probablemente no sabías que existían (hasta ahora): Guárdalos ahora o te arrepentirás🔖
+
+![HAY APROXIMADAMENTE 1.990.000.000 DE SITIOS WEB EN INTERNET EN 2026. Pero A GOOGLE LE ENCANTA OCULTARTE los sitios web más útiles. Aquí tienes 13 sitios web interesantes que probablemente no sabías qu](../../../../assets/images/2026/09/04/2095871961515876420-1.jpg)
+
+🔗 [View original post](https://x.com/Alex_Inspira/status/2095871961515876420)
+
+---
+
+### 🕐 13:43 UTC · @Wise1Philosophy
+
+> Why Right NOW Is The Best Time To Start Scalping: Media
+
+🔗 [View original post](https://x.com/RileyColemanT/status/2095870311333835218)
+
+---
+
+### 🕐 13:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/04/2095867213815173465-1.jpg)
+
+🔗 [View original post](https://x.com/Mindsthatbuild/status/2095867213815173465)
+
+---
+
+### 🕐 13:03 UTC · @Wise1Philosophy
+
+> this account breaks down enterprise AI agents: A PE operating partner asked us to build production AI agents inside a portfolio company&apos;s billing system, processing real healthcare claims under HIPAA. Two people hand-wrote every rule in their claims engine across 300+ denial codes and payer logic that changes quarterly. Four …
+
+🔗 [View original post](https://x.com/alex_prompter/status/2095860255812915469)
+
+---
+
+### 🕐 13:03 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/04/2095860215174291917-1.jpg)
+
+🔗 [View original post](https://x.com/Life__Mastery/status/2095860215174291917)
+
+---
+
+### 🕐 13:00 UTC · @Wise1Philosophy
+
+> Your soul knows, it will always tell you when it&apos;s time to turn the page and begin a fresh chapter of your life – trust it.
+
+🔗 [View original post](https://x.com/_Pammy_DS_/status/2095859430260625583)
+
+---
+
+### 🕐 12:51 UTC · @Wise1Philosophy
+
+> This 16-minute Claude tutorial teaches the kind of web design agencies charge $50,000 for. Save it before it disappears. Media
+
+🔗 [View original post](https://x.com/AriaWestcott/status/2095857364574372325)
 
 ---
 
@@ -75,6 +216,15 @@
 
 ---
 
+### 🕐 11:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/04/2095836923889643846-1.jpg)
+
+🔗 [View original post](https://x.com/Daily__wisdom_/status/2095836923889643846)
+
+---
+
 ### 🕐 11:25 UTC · @Wise1Philosophy
 
 > A family of 4 arrived at the airport 3 hours early for an international flight. Three hours to kill. Four hungry people. One terminal designed to extract every dollar from them. $7 water bottle × 4 = $28. $14 turkey wraps × 4 = $56. $5 bags of chips × 2 = $10. $4.50 coffees × 2 = $9. $6 iPad charging cable because someone forgot theirs = $6. $12/hour WiFi for the dad&apos;s laptop × 2 hours = $24. $3.50 gummy bears from the newsstand for the kids × 4 = $14. $147. Before the plane even pushed back from the gate. On water they could have refilled for free. On food they could have eaten for free in a lounge they didn&apos;t know they had access to. On WiFi that was free on a network they didn&apos;t know existed. On a charging cable available from a free lending station they walked past without noticing. Their seatmate a management consultant who flies 80 times a year watched them unpack their $147 haul of airport purchases and said: &quot;I&apos;ve been flying for 12 years. I haven&apos;t spent a dollar inside an airport terminal in 6.&quot; He showed them 11 airport strategies that eliminate the terminal tax most travelers pay on every flight. Here&apos;s the full playbook 🧵
@@ -95,9 +245,27 @@
 
 ### 🕐 11:02 UTC · @Wise1Philosophy
 
+
+![](../../../../assets/images/2026/09/04/2095829850795745722-1.jpg)
+
+🔗 [View original post](https://x.com/apex_mentality_/status/2095829850795745722)
+
+---
+
+### 🕐 11:02 UTC · @Wise1Philosophy
+
 > Elon Musk built SpaceX into a ~$2 trillion company WITHOUT an aerospace background. On the Cheeky Pint podcast, he shared 8 timeless principles on how he achieved this: 1) Relentlessly attack the limiting factor Media
 
 🔗 [View original post](https://x.com/AiEvolutio58513/status/2095829756222787714)
+
+---
+
+### 🕐 10:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/04/2095821757634523437-1.jpg)
+
+🔗 [View original post](https://x.com/yeti_mind/status/2095821757634523437)
 
 ---
 
@@ -130,6 +298,15 @@
 > openai just launched gpt-6 astra, and people are already creating some wild stuff with it. someone built a world in unreal engine and filled it with humans (each one an astra-powered agent) who all have to work together to survive. a day later, they were in their bedroom and heard voices coming from the living room... thought someone had broken into the apartment. walked out, honestly a little scared. turned out it was the astra agents. they&apos;d started talking to each other on their own. insane. here&apos;s a brief clip (not 100% perfect yet, but still wild. sound on https://x.com/mattshumer_/status/2095596175705399482/video/1 Media
 
 🔗 [View original post](https://x.com/daveydefi/status/2095806823156568492)
+
+---
+
+### 🕐 09:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/04/2095806683733733631-1.jpg)
+
+🔗 [View original post](https://x.com/Ant_Philosophy/status/2095806683733733631)
 
 ---
 

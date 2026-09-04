@@ -2,7 +2,49 @@
 
 ## 📅 September 04, 2026
 
-> 12 post(s) archived.
+> 18 post(s) archived.
+
+---
+
+### 🕐 14:41 UTC · @elonmusk
+
+> BREAKING: Starlink is now fully operational at about 240 schools in El Alto, Bolivia, connecting over 260,000 students to high-speed internet. That’s almost 80% of the city’s schools, with all 312 expected online by the third week of September.
+
+![BREAKING: Starlink is now fully operational at about 240 schools in El Alto, Bolivia, connecting over 260,000 students to high-speed internet. That’s almost 80% of the city’s schools, with all 312 exp](../../../../assets/images/2026/09/04/2095884894098604420-1.jpg)
+
+🔗 [View original post](https://x.com/cb_doge/status/2095884894098604420)
+
+---
+
+### 🕐 14:30 UTC · @elonmusk
+
+> We’ve come a long way. Tesla IPO value was a thousandth of its current value! Tesla is now worth MORE than all other publicly traded automakers combined Tesla: $1.511 Trillion Everyone else combined: $1.446 Trillion Toyota, BYD, GM, Hyundai, Mercedes, BMW, Ford, Ferrari, Volkswagen, Porsche...all of them combined And Tesla still stands taller... nothing ev…
+
+🔗 [View original post](https://x.com/elonmusk/status/2095882235027014076)
+
+---
+
+### 🕐 14:26 UTC · @elonmusk
+
+> True Elon Musk: &quot;Too many judges these days are actually activists pretending to be jurists.&quot;
+
+🔗 [View original post](https://x.com/elonmusk/status/2095881274552385810)
+
+---
+
+### 🕐 13:44 UTC · @elonmusk
+
+> Telepathic chess This Neuralink patient is moving cursor and playing chess just by thinking. 🧠
+
+🔗 [View original post](https://x.com/elonmusk/status/2095870553403884001)
+
+---
+
+### 🕐 13:00 UTC · @elonmusk
+
+> Ever wonder how the world&apos;s most sophisticated secret agent handles a high stakes casino night on a strict government budget? (Spoiler: Not very well when the drinks are shaken, not stirred, and the bills are piling up!) Media
+
+🔗 [View original post](https://x.com/keshvibezTV/status/2095859641662030225)
 
 ---
 
@@ -11,6 +53,14 @@
 > First ride midpoint impressions Media
 
 🔗 [View original post](https://x.com/ChuckCook/status/2095727096123244624)
+
+---
+
+### 🕐 03:49 UTC · @elonmusk
+
+> my dad went from “this feels scary” in his first driverless Robotaxi ride yesterday to falling asleep in a Cybercab tonight I’m not sure there’s a better endorsement of @Tesla_AI than that
+
+🔗 [View original post](https://x.com/AIDRIVR/status/2095720869095964785)
 
 ---
 
