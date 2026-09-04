@@ -2,7 +2,25 @@
 
 ## 📅 September 04, 2026
 
-> 4 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 15:35 UTC · @dair_ai
+
+> People keep asking why build a harness when Claude Code &amp; Codex already exist. Building even a small one changes how you use the big ones. You learn what breaks, what the model needs after a failure, and which knobs matter. That knowledge transfers to every harness you touch.
+
+🔗 [View original post](https://x.com/omarsar0/status/2095898579629916160)
+
+---
+
+### 🕐 15:00 UTC · @dair_ai
+
+> I read AI papers for a living, but it has become impossible to track insights. Every week I triage agent papers for our Top AI Papers of the Week digest. A few weeks ago, I tried @viktor_com, an AI employee that works inside Slack, in the channel where that triage happens. I asked it to go through the week&apos;s agent papers and pull three worth reading. It sent the list back that same morning. On day 19, it posted in the channel without being asked. &quot;Six more landed overnight. One of them contradicts the routing section in module 4.&quot; Two days later, again without me, it drafted the correction and left it unpublished. 2,100 people are on that module. Everything it did came back as a proposal for me to approve. That is why I kept it running. Finding new papers is easy. Knowing when one of them breaks something is much harder - in my case, the course lessons I teach. If you run agents for weeks at a time, look closely at how the approval trail works. Happy to go deeper on this one.
+
+![I read AI papers for a living, but it has become impossible to track insights. Every week I triage agent papers for our Top AI Papers of the Week digest. A few weeks ago, I tried @viktor_com, an AI em](../../../../assets/images/2026/09/04/2095889841728675933-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2095889841728675933)
 
 ---
 

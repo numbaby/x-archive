@@ -2,7 +2,223 @@
 
 ## 📅 September 04, 2026
 
-> 60 post(s) archived.
+> 85 post(s) archived.
+
+---
+
+### 🕐 16:44 UTC · @Wise1Philosophy
+
+> Your K-drama idea already has it all: forbidden love, suspicious eye contact, and enough drama for 16 episodes. The only thing missing? A production budget. 😭 Flova’s K-Drama Vibe Short Series turns one chaotic idea into characters, storyboards, emotional close-ups, and a full cinematic scene. So… what’s the next episode? Fake dating, enemies to lovers, or rich CEO amnesia? 👀🎬 Media
+
+🔗 [View original post](https://x.com/iam_chonchol/status/2095915848255066567)
+
+---
+
+### 🕐 16:43 UTC · @Wise1Philosophy
+
+> THIS IS SUCH A FUN WAY TO TEST AGENTS 🚨 @PatronusAI just dropped 100+ hours of frontier models racing the clock across 10 games. We are past the point where static leaderboards tell us anything useful. SpeedrunBench is an interactive environment built to stress-test agentic memory and execution speed. Why this matters: → Evaluates rapid state changes → Proves if an autoresearch loop can actually optimize a run → Shows exactly where current models hit a wall Watch the runs below 👀↓ Media Today, we’re releasing SpeedrunBench: the first benchmark that measures how fast agents can beat video games. We asked frontier models not to simply complete video games, but to speedrun them - across 10 titles like Mario Kart and Pokemon. On simpler games, agents get close to th…
+
+🔗 [View original post](https://x.com/DataChaz/status/2095915770853073386)
+
+---
+
+### 🕐 16:42 UTC · @Wise1Philosophy
+
+> Breaking: It&apos;s been less than 24 hours since GPT-6 Astra launched. And people are already coming up with wild use cases. 10 wild examples:
+
+🔗 [View original post](https://x.com/TheAIColony/status/2095915409727729927)
+
+---
+
+### 🕐 16:37 UTC · @Wise1Philosophy
+
+> Walking = fatty liver Walking = insulin control Walking = lower risk of early death. 8 simple rules you have to follow: 1. Don&apos;t chase 10,000 steps. Media
+
+🔗 [View original post](https://x.com/LevelUpPrime/status/2095914068624457940)
+
+---
+
+### 🕐 16:29 UTC · @Wise1Philosophy
+
+> Three scenarios define where AI goes between 2027 and 2029. In one, AI-enabled revenue approaches half a trillion dollars by 2028. In another, a two-year backlash drags the entire industry down. Only one can happen. The full outlook, including the most likely scenario, closes out the H1 2026 IndustryReport:https://bit.ly/StateofAI2026
+
+![Three scenarios define where AI goes between 2027 and 2029. In one, AI-enabled revenue approaches half a trillion dollars by 2028. In another, a two-year backlash drags the entire industry down. Only ](../../../../assets/images/2026/09/04/2095912256529633774-1.jpg)
+
+🔗 [View original post](https://x.com/TheAIColonyRD/status/2095912256529633774)
+
+---
+
+### 🕐 16:25 UTC · @Wise1Philosophy
+
+> AI 3D is moving from demos to production. Just wrapped up gamescom 2026 in Cologne, and Tripo Studio was there proving it. From the booth footage, the positioning is clear: this is not just another AI 3D demo, but a production workflow for game assets. The big update: Smart Mesh P2.0 can generate production-ready game assets with native quad topology in seconds. For game builders, this is a very different category from “cool 3D preview.”
+
+![AI 3D is moving from demos to production. Just wrapped up gamescom 2026 in Cologne, and Tripo Studio was there proving it. From the booth footage, the positioning is clear: this is not just another AI](../../../../assets/images/2026/09/04/2095911226245071144-1.jpg)
+
+🔗 [View original post](https://x.com/FutureStacked/status/2095911226245071144)
+
+---
+
+### 🕐 16:20 UTC · @Wise1Philosophy
+
+> this insane, ai is getting out of hand who said ai videos can be really funny Media
+
+🔗 [View original post](https://x.com/daveydefi/status/2095909997930557719)
+
+---
+
+### 🕐 16:19 UTC · @Wise1Philosophy
+
+> IN JAPAN, LAZINESS IS CONSIDERED A DISEASE AND PEOPLE TREAT IT WITH THESE 7 METHODS: 1. KAIZEN “THE ONE-MINUTE RULE”
+
+🔗 [View original post](https://x.com/josh_uglyasf/status/2095909612893688179)
+
+---
+
+### 🕐 16:10 UTC · @Wise1Philosophy
+
+> Your poor diet is why you are still fat. Studies confirm that the people who lose weight the fastest pick 3-4 simple diets, and eat them on repeat. Here&apos;s the list: 1. Chipotle
+
+🔗 [View original post](https://x.com/Fitby_Chandler/status/2095907398557052960)
+
+---
+
+### 🕐 16:07 UTC · @Wise1Philosophy
+
+> this is way beyond just prompting a pretty video everyone is asking which tool made this ad.. wrong question the tool didn&apos;t write the shaky arm, the focus hunt or the tired voice. i did. so here&apos;s my exact process, start to finish
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2095906719985508680)
+
+---
+
+### 🕐 16:07 UTC · @Wise1Philosophy
+
+> The real cause of cancer was identified in 1931. The man behind the discovery won a Nobel Prize, then was buried by the pharmaceutical industry. Here&apos;s what Dr. Otto Warburg found: 1. “Cancer cells thrive in high-sugar environments.”
+
+🔗 [View original post](https://x.com/BeBetter_Athlet/status/2095906620446568931)
+
+---
+
+### 🕐 15:59 UTC · @Wise1Philosophy
+
+> Your dog is running from the bath for a reason you&apos;ve probably never thought about. It looks like pure drama. But inside their brain, something much more real is happening... 🪡👇
+
+![Your dog is running from the bath for a reason you&apos;ve probably never thought about. It looks like pure drama. But inside their brain, something much more real is happening... 🪡👇](../../../../assets/images/2026/09/04/2095904680274760037-1.jpg)
+
+🔗 [View original post](https://x.com/scotti_brooks/status/2095904680274760037)
+
+---
+
+### 🕐 15:59 UTC · @Wise1Philosophy
+
+> 10 things I say when my 9-year-old is disrespectful instead of yelling. Each is 3 words or less. It changes the tone fast... 👇🧵
+
+![10 things I say when my 9-year-old is disrespectful instead of yelling. Each is 3 words or less. It changes the tone fast... 👇🧵](../../../../assets/images/2026/09/04/2095904573114482878-1.jpg)
+
+🔗 [View original post](https://x.com/Manifest_Lord/status/2095904573114482878)
+
+---
+
+### 🕐 15:58 UTC · @Wise1Philosophy
+
+> Please stop using Claude or Cowork. I did, 6 months ago. Now everything runs in Code: 1. A Project → Just a folder. Open it, type claude. 2. Your instructions → ~/CLAUDE.md. Run /init once. 3. This project&apos;s rules → A CLAUDE.md in that folder. 4. Files you uploaded → Already there. Type @filename. 5. Your connectors → The same ones. They carry over. 6. The prompt you re-paste → A skill. One word. 7. Research → Subagents. Say &quot;use subagents&quot;. 8. Memory → It writes its own. /memory reads them. 9. A new chat → A HANDOVER.md, then /clear. 10. A rule it forgets → A hook. It gets no vote. 11. Every Monday → /schedule. Laptop shut. 12. Finding out after → Plan mode. Shift+Tab. Honestly, it changed how I approach content. You don&apos;t need to be a developer to use it. It&apos;s the same twelve things you use in chat every day, in a different room under a different name. New to Claude Code? Start here → https://charliehills.substack.com/p/claude-code-beginner-advanced Want 80% of Claude Code in 10 minutes? My latest guide → https://charliehills.substack.com/p/give-me-10-minutes-ill-teach-you Want every Claude guide I&apos;ve written, free? The vault → http://charliehills.substack.com Repost ♻️ to help someone in your network. P.S. Which of the 12 are you still doing the chat way?
+
+![Please stop using Claude or Cowork. I did, 6 months ago. Now everything runs in Code: 1. A Project → Just a folder. Open it, type claude. 2. Your instructions → ~/CLAUDE.md. Run /init once. 3. This pr](../../../../assets/images/2026/09/04/2095904398065193208-1.jpg)
+
+🔗 [View original post](https://x.com/charliejhills/status/2095904398065193208)
+
+---
+
+### 🕐 15:57 UTC · @Wise1Philosophy
+
+> This Radiologist said : &quot;If I have cancer, I won’t go to the hospital. I’ve seen too many people die from chemo, not from cancer.&quot; 1. I’ll fast for 30 days and I’ll stop working. Media
+
+🔗 [View original post](https://x.com/_Gut_Laboratory/status/2095904066929144186)
+
+---
+
+### 🕐 15:56 UTC · @Wise1Philosophy
+
+> A Harvard neuroscientist admitted: &quot;Your belly stores cortisol waste. Kill it with this One habit before you sleep.. And your life will change.&quot; Here is the 9 minute fix:
+
+🔗 [View original post](https://x.com/DPro_Coach/status/2095903866051334251)
+
+---
+
+### 🕐 15:55 UTC · @Wise1Philosophy
+
+> Microsoft is now literally telling businesses exactly how to get traffic from AI Search. Yes, directly inside webmaster tools. This is probably one of the more important marketing updates of 2026. Let’s go through it. By the way, you can see whether your business is appearing across Google AI, ChatGPT, Claude, Perplexity and Grok here (it&apos;s free): https://rightcited.com/ Earlier this year, Microsoft launched its AI Performance report so businesses could see how often their content was cited across Microsoft Copilot and partner AI experiences. Now they are expanding it with four new AI Insights: Intents, Topics, Citation Share and Compare. Let’s go through what changed. Microsoft’s AI Performance report already showed: Total AI citations, Which pages were cited, Citation trends over time, the Average number of cited, Grounding queries associated with those citations, and now they&apos; adding even more context. The first update is Intents, thanks to which grounding queries are now classified into categories like: Informational, Commercial, Research, Learn &amp; Solve and Local. This goes without saying, but every AI citation is not equally valuable - a core principle that every SEO Stuff (http://seo-stuff.com) package starts with. A citation from an informational query may mean your content is being used to answer broad education-stage questions. A citation from a commercial query may mean your business is being considered closer to the buying decision. Imagine a payroll company sees Microsoft associating its site with: Payroll software for contractors Multi-state payroll compliance Construction payroll pricing ADP alternatives for small businesses Now the business can see whether those queries are informational, commercial, research-driven or local. That changes the content strategy. If the site is getting cited mostly for informational queries, the company may need stronger pricing pages, comparison pages, industry pages and bottom-of-funnel content. If it is getting cited for commercial queries but not winning much citation share, the issue may be authority, specificity or third-party validation. The second update is Topics. Microsoft is now grouping related queries into broader thematic clusters, and this is important because modern AI search organizes information around subjects, entities, intent, relationships and coverage depth. That means a business should ask: “Does Microsoft understand us as a strong source for this topic?” A payroll company may discover that Microsoft connects it strongly to: Contractor payroll, Small-business payroll, Payroll compliance, and Payroll pricing, as opposed to: Enterprise payroll, Global payroll, Healthcare payroll and Construction workforce management. That tells the company where its topical authority is strong and where it is thin. The third update is Citation Share. Microsoft says businesses can now see how much of the citation space their site holds for a given grounding query. Basically, you can start to see whether your site is one of many sources being cited, or whether you are earning a meaningful share of the AI answer ecosystem around a subject. That is a very different metric from raw citations, because a site may get 100 citations for a topic, but if competitors are getting 5,000, the business may still be underrepresented. Another site may only get 40 citations for a niche commercial query, but own a large share of the citation space. This starts to move AI search reporting closer to share-of-voice analysis. So less “Did we appear?” and more “How much of the available visibility did we capture?” The fourth update is Compare. Businesses can now overlay one time period against another. For example: Last 30 days vs. previous 30 days Before a content update vs. after a content update Before a backlink campaign vs. after a backlink campaign Current season vs. prior season This makes AI search optimization much easier to evaluate, because if a business publishes a new comparison page, strengthens an existing pricing guide and earns a few relevant authority placements, it can now look for citation movement afterward. You don&apos;t have full attribution here yet, but even directionally this is still a big improvement. This is where SEO Stuff’s done-for-you package becomes relevant: https://seo-stuff.com/gold-plan-package The package combines 10 AI-search-optimized articles with three DR50+ authority placements. The content helps build deeper coverage around topics AI systems already associate with your business. The authority placements help reinforce your company’s identity, category and expertise across the wider web. That combination matters because AI visibility usually comes from two things working together: Useful, specific content on your own site. Trusted external signals confirming who you are and what you should be recommended for. Microsoft says these new features are still in early preview, so occasional inaccuracies are possible, but the direction is obvious. AI search is beginning to provide its own version of keyword, topic, intent and share-of-voice data. This is the system SEO Stuff was built around: https://seo-stuff.com And if you want to see whether your business is already being cited, understood and recommended across Google AI, ChatGPT, Claude, Perplexity and Grok, check here: https://rightcited.com/ Now that OpenAI has released GPT-6 Astra, it is worth paying attention to something important: Astra is built to browse the web and use websites much more like a person. And as a result, we now have one of our clearest windows into how/why ChatGPT decides which websites to recomm…
+
+![Microsoft is now literally telling businesses exactly how to get traffic from AI Search. Yes, directly inside webmaster tools. This is probably one of the more important marketing updates of 2026. Let](../../../../assets/images/2026/09/04/2095903641349791804-1.jpg)
+
+🔗 [View original post](https://x.com/alexgroberman/status/2095903641349791804)
+
+---
+
+### 🕐 15:54 UTC · @Wise1Philosophy
+
+> High cortisol is aging you faster than cigarettes or alcohol. Gray hair, poor sleep, aching joints, dull drive. Here are 8 natural ways to lower it : 1. Saunas
+
+🔗 [View original post](https://x.com/TheFastedState/status/2095903331499852042)
+
+---
+
+### 🕐 15:41 UTC · @Wise1Philosophy
+
+> Perfect faces look synthetic, but small flaws give the viewer something familiar to trust. you keep asking &quot;what tool&quot;.. that&apos;s not why this looks real the realism is written into the prompt, not the model let me show you the exact lines 👇
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2095899953595826562)
+
+---
+
+### 🕐 15:40 UTC · @Wise1Philosophy
+
+> Burning fat off your belly and face is the simplest thing on Earth once you follow this system: 1. Eat protein first
+
+![Burning fat off your belly and face is the simplest thing on Earth once you follow this system: 1. Eat protein first](../../../../assets/images/2026/09/04/2095899845974479121-1.png)
+
+🔗 [View original post](https://x.com/CoachWillStone/status/2095899845974479121)
+
+---
+
+### 🕐 15:29 UTC · @Wise1Philosophy
+
+> IF YOU&apos;RE REBUILDING YOUR LIFE AFTER 40, START WITH THESE 14 THINGS. 1. Fix your teeth, skin, and posture
+
+🔗 [View original post](https://x.com/BeBetterMan_/status/2095897157568254413)
+
+---
+
+### 🕐 15:26 UTC · @Wise1Philosophy
+
+> A family of 4 was pulled aside for additional screening on 3 consecutive flights. The father&apos;s carry-on was hand-searched every time an agent pulling out every item while the line watched. The mother set off the body scanner every time standing with arms raised for a follow-up pat-down. The 14-year-old had her water bottle confiscated and her bag re-scanned. The 10-year-old was patted down because a foil granola bar wrapper in his pocket produced an anomaly the scanner flagged for manual resolution. Three flights. Four family members. Additional screening on every single one. They assumed they were unlucky. Or flagged. Or on a list. Their neighbor a former TSA checkpoint supervisor who spent 9 years managing screening lanes at a major US airport told them they weren&apos;t unlucky. They weren&apos;t flagged. They weren&apos;t on any list. &quot;You&apos;re making 7 mistakes that trigger additional screening every time and you don&apos;t know you&apos;re making any of them. The same 7 mistakes are made by roughly 40% of passengers at every checkpoint in America every day. They&apos;re not security violations. They&apos;re packing habits, clothing choices, and bin-loading patterns that produce images the X-ray operator can&apos;t clear which forces a hand search, a pat-down, or a re-scan that takes 3–8 minutes per incident.&quot; He showed them 11 airport security strategies that separate the passenger who clears the checkpoint in 3 minutes from the passenger who gets pulled aside for 12. Here&apos;s the full playbook 🧵
+
+🔗 [View original post](https://x.com/jackcoder0/status/2095896255557976360)
+
+---
+
+### 🕐 15:14 UTC · @Wise1Philosophy
+
+> High cortisol adds 5 years to your face. It destroys insulin, gives you a puffy face and belly, and even shrinks your brain. Here are the 6 tips to fix it (according to science): 1. Don&apos;t eat 3 hours before sleep. Media
+
+🔗 [View original post](https://x.com/CoachDanCole_/status/2095893145179533439)
+
+---
+
+### 🕐 14:54 UTC · @Wise1Philosophy
+
+> OpenAI priced GPT-6 Astra to the dollar against Fable 5.1. $10 in, $50 out, cache reads at $1. What that does to a Meta ads run 👇 Shipped Sept 3. API opens in the coming days. What moved for anyone running ads through an agent: 1/ Cache reads at $1 per M. Prime once at $12.50, then 90% off every read after. Agentic ad runs live on the reads 2/ The 1.05M window. A full account&apos;s creative history fits in one call 3/ The effort dial goes 5 deep: low, medium, high, xhigh, max 4/ The 272K cliff. Cross it and the whole request bills 2x in, 1.5x out 5/ Batch and Flex at half price. Overnight reporting runs just got cheap 6/ Fast mode at 2x. Leave it off, nothing in an ads desk needs it 7/ MCP, skills, computer use, tool search, all on the supported list 8/ Rollout order: Trusted Access first, everyone else after No skill pack on this one, the API isn&apos;t open yet. Which of the 8 do I break down first?
+
+🔗 [View original post](https://x.com/nipuntaneja/status/2095888203475804378)
+
+---
+
+### 🕐 14:49 UTC · @Wise1Philosophy
+
+> La cruda verdad que nadie te dice: Un salario NUNCA te hará rico. Mientras trabajas 8 horas al día construyendo el sueño de otro... Hay gente ganando lo mismo (o más) desde su casa. Sin jefe. Sin oficina. Sin límites. Aquí tienes 12 sitios web para TRABAJAR DESDE CASA en 2026 👇 Guárdalos AHORA o te arrepentirás:
+
+![La cruda verdad que nadie te dice: Un salario NUNCA te hará rico. Mientras trabajas 8 horas al día construyendo el sueño de otro... Hay gente ganando lo mismo (o más) desde su casa. Sin jefe. Sin ofic](../../../../assets/images/2026/09/04/2095887065737277706-1.png)
+
+🔗 [View original post](https://x.com/Polanco_IA/status/2095887065737277706)
 
 ---
 
