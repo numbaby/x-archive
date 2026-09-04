@@ -2,7 +2,33 @@
 
 ## 📅 September 04, 2026
 
-> 29 post(s) archived.
+> 32 post(s) archived.
+
+---
+
+### 🕐 11:25 UTC · @Wise1Philosophy
+
+> A family of 4 arrived at the airport 3 hours early for an international flight. Three hours to kill. Four hungry people. One terminal designed to extract every dollar from them. $7 water bottle × 4 = $28. $14 turkey wraps × 4 = $56. $5 bags of chips × 2 = $10. $4.50 coffees × 2 = $9. $6 iPad charging cable because someone forgot theirs = $6. $12/hour WiFi for the dad&apos;s laptop × 2 hours = $24. $3.50 gummy bears from the newsstand for the kids × 4 = $14. $147. Before the plane even pushed back from the gate. On water they could have refilled for free. On food they could have eaten for free in a lounge they didn&apos;t know they had access to. On WiFi that was free on a network they didn&apos;t know existed. On a charging cable available from a free lending station they walked past without noticing. Their seatmate a management consultant who flies 80 times a year watched them unpack their $147 haul of airport purchases and said: &quot;I&apos;ve been flying for 12 years. I haven&apos;t spent a dollar inside an airport terminal in 6.&quot; He showed them 11 airport strategies that eliminate the terminal tax most travelers pay on every flight. Here&apos;s the full playbook 🧵
+
+🔗 [View original post](https://x.com/jackcoder0/status/2095835650251698285)
+
+---
+
+### 🕐 11:15 UTC · @Wise1Philosophy
+
+> Struggling to choose the right AI for each task? Use this guide to pick the right AI tool in seconds. [ remember to 🔖 bookmark this post for later ] 1. ChatGPT: ↳ If your focus is content, whether it’s writing, editing, or summarizing, this model handles it all with ease, including casual back-and-forth replies. 2. Perplexity: ↳ Useful when you need sourced answers, quick comparisons, detailed research, or market-level overviews, all in one place. 3. Grok: ↳ Best for tracking online trends, catching sarcasm and meme context, and reading live social chatter to see what’s trending now. 4. Gemini ↳ Inside your Google workflow, summarize docs, repair Sheet formulas, sort and label emails, and turn key points into clear, actionable tasks. AI works when you pick the right tool at the right time. Save this guide. Share it. Start with one use case. 📌 Get Advanced ChatGPT Guide (free): https://bit.ly/3StIB3z 👉 Follow me @AndrewBolis for more and 🔄 Repost this to help others use AI
+
+![Struggling to choose the right AI for each task? Use this guide to pick the right AI tool in seconds. [ remember to 🔖 bookmark this post for later ] 1. ChatGPT: ↳ If your focus is content, whether it’](../../../../assets/images/2026/09/04/2095833018921582922-1.jpg)
+
+🔗 [View original post](https://x.com/AndrewBolis/status/2095833018921582922)
+
+---
+
+### 🕐 11:02 UTC · @Wise1Philosophy
+
+> Elon Musk built SpaceX into a ~$2 trillion company WITHOUT an aerospace background. On the Cheeky Pint podcast, he shared 8 timeless principles on how he achieved this: 1) Relentlessly attack the limiting factor Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2095829756222787714)
 
 ---
 
