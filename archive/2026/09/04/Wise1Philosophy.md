@@ -2,7 +2,76 @@
 
 ## 📅 September 04, 2026
 
-> 32 post(s) archived.
+> 40 post(s) archived.
+
+---
+
+### 🕐 12:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/04/2095852019449774388-1.jpg)
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2095852019449774388)
+
+---
+
+### 🕐 12:27 UTC · @Wise1Philosophy
+
+> Less than 24 hours ago, OpenAI dropped GPT-6 Astra. And people are already one-shotting complete games, rebuilding real places in 3D + creating interactive worlds filled with AI agents. 10 wild examples:
+
+🔗 [View original post](https://x.com/AIHighlight/status/2095851234989146180)
+
+---
+
+### 🕐 12:22 UTC · @Wise1Philosophy
+
+> THE NEXT CREATOR BUSINESS MODEL ISN’T SELLING MORE FILES. It’s packaging judgment. Resona lets creators define how they teach once, then deliver sessions that respond to each customer’s situation. Expertise becomes a personalized service without being limited by the expert’s calendar. http://resona.click Media What if your best lesson, sharpest pitch, or most trusted framework could serve 1,000 people at once—and still feel one-on-one? That&apos;s what our team @MeetResona makes possible. Resona is a professional live AI agent built for creators and educators, turning your existing material…
+
+🔗 [View original post](https://x.com/TheAIColony/status/2095850054565200232)
+
+---
+
+### 🕐 12:18 UTC · @Wise1Philosophy
+
+> The old trade-off: Near-zero marginal cost for a generic course. Thousands in expert time for personal guidance. Resona sits between them—creator knowledge delivered as responsive Live Sessions. The economics of one-to-one learning just got interesting. https://resona.click Media What if your best lesson, sharpest pitch, or most trusted framework could serve 1,000 people at once—and still feel one-on-one? That&apos;s what our team @MeetResona makes possible. Resona is a professional live AI agent built for creators and educators, turning your existing material…
+
+🔗 [View original post](https://x.com/FutureStacked/status/2095848904625406208)
+
+---
+
+### 🕐 12:10 UTC · @Wise1Philosophy
+
+> if computer use is actually reliable, that&apos;s the scary part less than 24 hours ago, openai dropped gpt-6 astra. people already one-shotted games, ios apps, and blender worlds. 8 wild examples:
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2095846972473098742)
+
+---
+
+### 🕐 12:10 UTC · @Wise1Philosophy
+
+> There&apos;s only 4 months left until 2027. If I wanted to lock in &amp; hit my first 10k month by the end of December, exactly what I&apos;d do: 1. Go to Instagram and start a fresh account. Use a spare email. No one has to know.
+
+🔗 [View original post](https://x.com/erichustls/status/2095846868294959367)
+
+---
+
+### 🕐 12:05 UTC · @Wise1Philosophy
+
+> MongoDB was trading at $434 a share on Tuesday. Next day, it crashed 14 percent! The company had just beaten every earnings estimate on Wall Street. But the reason for crashed is much simple: MongoDB sells database software that big companies run their apps on. Its cloud product is the engine everyone watches. Sales there still grew 30 percent, to 772 million dollars. Fast by any normal standard. Management even raised its guidance for the rest of the year. But for months that engine had been speeding up. This quarter it grew at the same pace as before. Still fast, but no longer getting faster. That one change is what emptied the room. The forecast for next quarter came in softer than people hoped. And part of the profit was not really cash. The company counted stock paid to staff as earnings. That is a real cost, even when no money leaves. Strip it out, and the quarter looked thinner than the headline. None of this showed up in the number everyone quoted. It sat one layer down, in the parts nobody reads. The stock was priced for perfection before any of it landed. Almost 60 times next year&apos;s earnings. At that price, a good quarter is a letdown. You must beat the numbers and prove you are still speeding up. MongoDB proved it was big. It did not prove it was accelerating. So the people holding it for the story left. Someone was on the other side of that trade. The funds that sold into the beat locked in the high. They read the same report as everyone else. They just turned to the page retail skipped. That page cost nothing to open. It just took the patience to read past the headline. This was not a one-time fluke. The same company did this once before. In early 2025 it beat again and still fell over 20 percent. The reason then was the same as now. Soft guidance, hiding under a strong headline. The market has been repeating this for over a year. Most people keep reading only the top line. This matters far beyond one stock. In a market this expensive, good is no longer good enough. The smallest sign of slowing gets punished the same day. MongoDB was not even alone that week. Other companies beat their numbers and still got sold. A beat is only the first half of the story. The guidance and the cash are the second half. The headline shows you the first half. The filing shows you the second. You saw a beat and thought about buying the dip. The real reason it fell was one line you never opened. By the time the drop makes sense, the move is done. The traders who saw it coming were not reading the headline. They were reading the guidance line and the cash. The signal was in the filing, not the news. Retail read the beat and bought the story. Institutions read the guidance and sold it. That&apos;s the whole game. Surmount builds rules-based strategies that trade the filings instead of the headlines.
+
+![MongoDB was trading at $434 a share on Tuesday. Next day, it crashed 14 percent! The company had just beaten every earnings estimate on Wall Street. But the reason for crashed is much simple: MongoDB ](../../../../assets/images/2026/09/04/2095845629302022219-1.jpg)
+
+🔗 [View original post](https://x.com/LogWeaver/status/2095845629302022219)
+
+---
+
+### 🕐 11:47 UTC · @Wise1Philosophy
+
+> Best YouTube Playlists to learn Programming: 1). C https://www.youtube.com/results?search_query=Learn+C+Programming+with+Dr+Chuck+freeCodeCamp 2). C++ https://www.youtube.com/watch?v=8jLOx1hD3_o 3). Python https://www.youtube.com/results?search_query=Learn+Python+Full+Course+for+Beginners+freeCodeCamp 4). Java https://www.youtube.com/results?search_query=Java+Programming+for+Beginners+Full+Course+freeCodeCamp 5). C# https://www.youtube.com/results?search_query=C%23+Full+Course+for+Beginners+freeCodeCamp 6). SQL https://www.youtube.com/results?search_query=SQL+Full+Course+for+Beginners+freeCodeCamp 7). Go https://www.youtube.com/results?search_query=Learn+Go+Programming+freeCodeCamp 8). PHP https://www.youtube.com/results?search_query=PHP+Full+Course+for+Beginners+freeCodeCamp 9). Swift https://www.youtube.com/results?search_query=Swift+Full+Course+for+Beginners 10). Kotlin https://www.youtube.com/results?search_query=Kotlin+Full+Course+for+Beginners+freeCodeCamp 11). Dart https://www.youtube.com/results?search_query=Dart+Full+Course+for+Beginners 12). Ruby https://www.youtube.com/results?search_query=Ruby+Full+Course+for+Beginners 13). Rust https://www.youtube.com/results?search_query=Rust+Full+Course+for+Beginners+freeCodeCamp 14). TypeScript https://www.youtube.com/results?search_query=TypeScript+Full+Course+for+Beginners+freeCodeCamp 15.) R https://www.youtube.com/results?search_query=R+Programming+Full+Course+for+Beginners 16). React https://www.youtube.com/results?search_query=React+Full+Course+for+Beginners+freeCodeCamp 17). Next.js https://www.youtube.com/results?search_query=Next.js+Full+Course+for+Beginners 18). Node.js https://www.youtube.com/results?search_query=Node.js+Full+Course+for+Beginners+freeCodeCamp 19). HTML/CSS https://www.youtube.com/results?search_query=HTML+CSS+Full+Course+for+Beginners+freeCodeCamp 20). Machine Learning https://www.youtube.com/results?search_query=Machine+Learning+Full+Course+for+Beginners+freeCodeCamp 21). Deep Learning https://www.youtube.com/results?search_query=Deep+Learning+Full+Course+for+Beginners 22). DSA https://www.youtube.com/results?search_query=Data+Structures+and+Algorithms+Full+Course+freeCodeCamp The tool that just took #1 on Product Hunt is not another clip generator. 2024: jump across 5 tools to assemble script, clips, voiceover, captions, and a project file by hand. 2026: open one chat. @fotor_com Video Agent plans, generates, and lays the whole video on a multi-track …
+
+![Best YouTube Playlists to learn Programming: 1). C https://www.youtube.com/results?search_query=Learn+C+Programming+with+Dr+Chuck+freeCodeCamp 2). C++ https://www.youtube.com/watch?v=8jLOx1hD3_o 3). P](../../../../assets/images/2026/09/04/2095841053001789450-1.jpg)
+
+🔗 [View original post](https://x.com/nrqa__/status/2095841053001789450)
 
 ---
 
