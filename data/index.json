@@ -51881,5 +51881,19 @@
         "source_url": "https://pbs.twimg.com/media/HRYybbyWkAAM0Gr.jpg?name=orig"
       }
     ]
+  },
+  "2096029244602327188": {
+    "account": "tunguz",
+    "date": "2026-09-05",
+    "file": "data/posts/2026/09/2026-09-05.jsonl",
+    "fingerprint": "c86bb8b40b1289e3aa462e1e428aba3fde46026cb78c4b9e4f1462e97ca113e1",
+    "media": []
+  },
+  "2096029526124085380": {
+    "account": "tunguz",
+    "date": "2026-09-05",
+    "file": "data/posts/2026/09/2026-09-05.jsonl",
+    "fingerprint": "7b6be9141697acaa12b1f5cef25a27f1d72ad5618d37cfc32c8374e682b6e619",
+    "media": []
   }
 }
