@@ -2,7 +2,15 @@
 
 ## 📅 September 05, 2026
 
-> 10 post(s) archived.
+> 11 post(s) archived.
+
+---
+
+### 🕐 18:52 UTC · @tunguz
+
+> The problem of turning all math into code is almost done. But the real impact will come when we turn all code into math.
+
+🔗 [View original post](https://x.com/tunguz/status/2096310413378150698)
 
 ---
 

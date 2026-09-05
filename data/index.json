@@ -53326,6 +53326,13 @@
       }
     ]
   },
+  "2096150343096889835": {
+    "account": "Wise1Philosophy",
+    "date": "2026-09-05",
+    "file": "data/posts/2026/09/2026-09-05.jsonl",
+    "fingerprint": "00630244001c3bbdcf37ce97a4fb7937160bd1f67169a0eadd6c22e72a722f22",
+    "media": []
+  },
   "2096150505982447736": {
     "account": "Alphafiles1",
     "date": "2026-09-05",
@@ -55543,6 +55550,60 @@
     "date": "2026-09-05",
     "file": "data/posts/2026/09/2026-09-05.jsonl",
     "fingerprint": "e645c50840828cdc27b241969349d0e46d6eb8e2d2f85a580dd1e097dc7c34b3",
+    "media": []
+  },
+  "2096303020653101200": {
+    "account": "Wise1Philosophy",
+    "date": "2026-09-05",
+    "file": "data/posts/2026/09/2026-09-05.jsonl",
+    "fingerprint": "eb3c3c6687e166863707a56bdf53d7fda3250382fd72b501915e32075773c90a",
+    "media": [
+      {
+        "local_path": "assets/images/2026/09/05/2096303020653101200-1.jpg",
+        "sha256": "fb7cb245c28c1752aced42b2208c53e0ecd82d3cad35e4f6b1e2e64d166a8dd2",
+        "source_url": "https://pbs.twimg.com/media/HReQfG2bAAAPLhV.jpg?name=orig"
+      }
+    ]
+  },
+  "2096303207417020438": {
+    "account": "Wise1Philosophy",
+    "date": "2026-09-05",
+    "file": "data/posts/2026/09/2026-09-05.jsonl",
+    "fingerprint": "729cfbe034fc7f5022c48f2772765b8b36b16236796e73fc1de1da29ed86cd04",
+    "media": []
+  },
+  "2096303354435760305": {
+    "account": "dair_ai",
+    "date": "2026-09-05",
+    "file": "data/posts/2026/09/2026-09-05.jsonl",
+    "fingerprint": "a447c8607c7ce7d9a57b87d7bb8d38d26b8d70f272d6c7189a33c0e4009c1408",
+    "media": [
+      {
+        "local_path": "assets/images/2026/09/05/2096303354435760305-1.jpg",
+        "sha256": "d657fe3b15574f1f5a345861c711fdaafa424010bb80130ef2d922ccc6e6ba61",
+        "source_url": "https://pbs.twimg.com/media/HReQyorbUAATKrC.jpg?name=orig"
+      }
+    ]
+  },
+  "2096310413378150698": {
+    "account": "tunguz",
+    "date": "2026-09-05",
+    "file": "data/posts/2026/09/2026-09-05.jsonl",
+    "fingerprint": "887b3f3aecab5ac88ad0ee23cd2db54992c52b1589bec8c3877cdfea1cfe4b18",
+    "media": []
+  },
+  "2096314519790473486": {
+    "account": "Wise1Philosophy",
+    "date": "2026-09-05",
+    "file": "data/posts/2026/09/2026-09-05.jsonl",
+    "fingerprint": "fa3568483a402e04818c7fc9408dba78445e079bcf5ccb19ed66be99e283dba4",
+    "media": []
+  },
+  "2096314593182171545": {
+    "account": "dair_ai",
+    "date": "2026-09-05",
+    "file": "data/posts/2026/09/2026-09-05.jsonl",
+    "fingerprint": "6a3a94d86ccda26703eb30355223da0e3600f7f8485b5cb6ba8d29216fb3695c",
     "media": []
   }
 }

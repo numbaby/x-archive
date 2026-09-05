@@ -2,7 +2,25 @@
 
 ## 📅 September 05, 2026
 
-> 3 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 19:08 UTC · @dair_ai
+
+> I am in disbelief right now. GPT-6 Astra is a truly incredible model. It took about 2 hrs to generate this 3D model of Xunantunich, a Maya archaeological site in western Belize. Media
+
+🔗 [View original post](https://x.com/omarsar0/status/2096314593182171545)
+
+---
+
+### 🕐 18:24 UTC · @dair_ai
+
+> This is a weird behavior in coding models and something worth looking into. It turns that some models over-edit code that another models wrote. There is a high chance that your repo now has commits from more than one model, and that changes how each of them edits. Researchers measured what happens when one model edits code another model wrote. Different training data produces different stylistic preferences, and models make more edits, often excessive ones, on foreign code than on their own. CROCODIL is a post-training framework that reduces that behavior. A similarity reward penalizes large changes and an execution reward scores build and test success, and the two are multiplied rather than added. That product stops the policy from shrinking edits by simply failing the task. Paper: https://academy.dair.ai/papers/crocodil-cross-model-code-editing-with-llms-2609.03894
+
+![This is a weird behavior in coding models and something worth looking into. It turns that some models over-edit code that another models wrote. There is a high chance that your repo now has commits fr](../../../../assets/images/2026/09/05/2096303354435760305-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2096303354435760305)
 
 ---
 

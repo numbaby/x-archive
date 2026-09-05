@@ -2,7 +2,33 @@
 
 ## 📅 September 05, 2026
 
-> 69 post(s) archived.
+> 73 post(s) archived.
+
+---
+
+### 🕐 19:08 UTC · @Wise1Philosophy
+
+> THAT&apos;S WHY AIRLINES HATE CLAUDE 4.6 Flight for $879. I paid $299. No points. No affiliations. No VPN. Here are 8 prompts I used to travel like a pro↓
+
+🔗 [View original post](https://x.com/heyalexmoore/status/2096314519790473486)
+
+---
+
+### 🕐 18:23 UTC · @Wise1Philosophy
+
+> A former Amazon warehouse manager said: &quot;Amazon changes the price of 2.5 million products every single day. The price you&apos;re seeing right now is almost never the lowest it&apos;s been or the lowest it will be this month.&quot; &quot;Most people open Amazon, search for a product, see the price, and buy it. They assume the price they see is the price. It&apos;s not. It&apos;s the price right now — at this hour, on this day, for this user. Tomorrow it might be $15 cheaper. Last week it might have been $30 cheaper. Next Tuesday it might drop 40% for 6 hours and come back up.&quot; &quot;Amazon&apos;s pricing algorithm runs 24/7. It monitors competitors, demand, inventory levels, time of day, purchase history, and dozens of other signals. The same product can fluctuate 20-60% in a single month.&quot; &quot;The &apos;Limited Time Deal&apos; badge? Sometimes real. Sometimes the product was cheaper last week without a badge. The &apos;List Price&apos; with a red slash through it? That list price might be inflated. The &apos;Lowest price in 30 days&apos; tag? Technically true — but it might have been cheaper 31 days ago.&quot; He spent 6 years inside Amazon&apos;s fulfillment operation. He watched prices change in real time on products he was packing into boxes. &quot;I&apos;d ship the same item at $79 on Monday and $52 on Thursday. Same product. Same box. Same warehouse shelf. Different price. The customer who bought on Monday never knew Thursday&apos;s price existed.&quot; I asked him to tell me everything every pricing trick, every tool, and every insider detail that would stop a normal person from ever paying full price on Amazon again. Here&apos;s all of it 🧵
+
+🔗 [View original post](https://x.com/Alvin1492840/status/2096303207417020438)
+
+---
+
+### 🕐 18:22 UTC · @Wise1Philosophy
+
+> I RARELY GET EXCITED ABOUT ANALYTICS, BUT THIS IS HUGE FOR AGENT WORKFLOWS @Jolliai just gave us a full, privacy-first dashboard that plugs directly into your IDE. Keeping track of AI spend usually means breaking focus, opening a provider console, and trying to match usage back to individual sessions. Jolli kills that entire workflow. It reads your local session history and turns your actual agent usage into a native dashboard, right where you’re already working. You can pull it up instantly without leaving your IDE: → run it from the command palette inside VS Code → call it directly from Claude Code or Cursor → let it sweep your local session history automatically Everything is backed by a local SQLite database. Your session data stays on your machine unless you explicitly enable syncing. Agent analytics finally live where the agents do 👏👏👏 🚀 We just released our biggest update this summer. Jolli Memory now stores your memories in a local database. jolli cutover makes SQLite the source of truth for a repository, shipping today, along with a local dashboard 📊 and Kimi Code support 🤖
+
+![I RARELY GET EXCITED ABOUT ANALYTICS, BUT THIS IS HUGE FOR AGENT WORKFLOWS @Jolliai just gave us a full, privacy-first dashboard that plugs directly into your IDE. Keeping track of AI spend usually me](../../../../assets/images/2026/09/05/2096303020653101200-1.jpg)
+
+🔗 [View original post](https://x.com/DataChaz/status/2096303020653101200)
 
 ---
 
@@ -348,6 +374,14 @@
 ![](../../../../assets/images/2026/09/05/2096153906715713683-1.jpg)
 
 🔗 [View original post](https://x.com/Mindsthatbuild/status/2096153906715713683)
+
+---
+
+### 🕐 08:16 UTC · @Wise1Philosophy
+
+> GPT-6 ASTRA HIT GENERAL AVAILABILITY YESTERDAY PEOPLE ARE ALREADY SHIPPING ABSOLUTE MASTERPIECES here are the top 30 most impressive videos so far: 1/ @skirano one-shotted OpenAI&apos;s Codex Micro in Blender from a reference photo Media
+
+🔗 [View original post](https://x.com/DataChaz/status/2096150343096889835)
 
 ---
 
