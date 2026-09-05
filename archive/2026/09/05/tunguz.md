@@ -2,7 +2,49 @@
 
 ## 📅 September 05, 2026
 
-> 11 post(s) archived.
+> 16 post(s) archived.
+
+---
+
+### 🕐 22:20 UTC · @tunguz
+
+> ngmi JUST IN: People aged 65 &amp; older now outnumber children 5 &amp; under worldwide for the first time in recorded history.
+
+🔗 [View original post](https://x.com/tunguz/status/2096362832023683105)
+
+---
+
+### 🕐 22:16 UTC · @tunguz
+
+> I can’t wait to see the face of the normies when they find out about all of this in March.
+
+🔗 [View original post](https://x.com/tunguz/status/2096361892038205937)
+
+---
+
+### 🕐 22:13 UTC · @tunguz
+
+> Hot take: instead of a ballroom, they should have turned the East Wing of the White House into a massive datacenter.
+
+![Hot take: instead of a ballroom, they should have turned the East Wing of the White House into a massive datacenter.](../../../../assets/images/2026/09/05/2096361076959191116-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2096361076959191116)
+
+---
+
+### 🕐 22:07 UTC · @tunguz
+
+> What did Elon see? @viktaur27 @Teslarati The rate of improvement from original GPT to GPT-3 is impressive. If this rate of improvement continues, GPT-5 or 6 could be indistinguishable from the smartest humans. Just my opinion, not an endorsement. I left OpenAI 2 to 3 years ago. Am a neutral outside…
+
+🔗 [View original post](https://x.com/tunguz/status/2096359687931457890)
+
+---
+
+### 🕐 22:03 UTC · @tunguz
+
+> Astra knows you better than you know yourself.
+
+🔗 [View original post](https://x.com/tunguz/status/2096358677230063753)
 
 ---
 

@@ -2,7 +2,17 @@
 
 ## 📅 September 05, 2026
 
-> 73 post(s) archived.
+> 74 post(s) archived.
+
+---
+
+### 🕐 21:20 UTC · @Wise1Philosophy
+
+> Fatty liver now affects 1 in 3 adults. It destroys your metabolism, tracks with diabetes, and increases your risk of heart disease. Here is how to walk it back: 1. Eat all the sweet potatoes you want.
+
+![Fatty liver now affects 1 in 3 adults. It destroys your metabolism, tracks with diabetes, and increases your risk of heart disease. Here is how to walk it back: 1. Eat all the sweet potatoes you want.](../../../../assets/images/2026/08/29/2093628980859682903-1.jpg)
+
+🔗 [View original post](https://x.com/dzejlacathleen/status/2096347644985766024)
 
 ---
 

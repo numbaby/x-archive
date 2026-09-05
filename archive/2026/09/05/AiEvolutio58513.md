@@ -2,7 +2,31 @@
 
 ## 📅 September 05, 2026
 
-> 8 post(s) archived.
+> 11 post(s) archived.
+
+---
+
+### 🕐 20:25 UTC · @AiEvolutio58513
+
+> Share what you&apos;ve made so far with Astra. We wanna see 👀 I used Astra + Blender to build a launch film for a luxury brand that doesn’t exist. One watch. An entire world built around it. Imagine showing up to your next client pitch with something like this.
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2096333811596632085)
+
+---
+
+### 🕐 19:41 UTC · @AiEvolutio58513
+
+> I upgraded my ChatGPT plan to the $200 a month tier to make more videos like this: Media I used Astra + Blender to build a launch film for a luxury brand that doesn’t exist. One watch. An entire world built around it. Imagine showing up to your next client pitch with something like this.
+
+🔗 [View original post](https://x.com/ecomchasedimond/status/2096322787208245414)
+
+---
+
+### 🕐 18:44 UTC · @AiEvolutio58513
+
+> Made up a drink brand. Then built a world to launch it. The storefront unfolds into billboards. The pavement flips into a runway. A delivery van opens into a pop-up shop. Built and animated in Blender with AI. Imagine pitching a client the campaign like this. Media I used Astra + Blender to build a launch film for a luxury brand that doesn’t exist. One watch. An entire world built around it. Imagine showing up to your next client pitch with something like this.
+
+🔗 [View original post](https://x.com/ecomchasedimond/status/2096308383142060427)
 
 ---
 

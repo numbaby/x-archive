@@ -2,7 +2,23 @@
 
 ## 📅 September 05, 2026
 
-> 5 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 20:45 UTC · @dair_ai
+
+> What the heck!? GPT-6 Astra just finished creating this 3D camera with 122 component groups and 1,877 modeled pieces. I didn&apos;t even realize you could build these in Three.js. Media
+
+🔗 [View original post](https://x.com/omarsar0/status/2096339043919237288)
+
+---
+
+### 🕐 19:34 UTC · @dair_ai
+
+> OMG!!! GPT-6 Astra built this using just one image reference. I am at a loss for words. Media
+
+🔗 [View original post](https://x.com/omarsar0/status/2096321091148947887)
 
 ---
 

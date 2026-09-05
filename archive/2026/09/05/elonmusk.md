@@ -2,7 +2,23 @@
 
 ## 📅 September 05, 2026
 
-> 19 post(s) archived.
+> 22 post(s) archived.
+
+---
+
+### 🕐 20:19 UTC · @elonmusk
+
+> Grok @Bot usage limits reset We&apos;ve reset usage limits for all Grok Bot users. Enjoy!
+
+🔗 [View original post](https://x.com/elonmusk/status/2096332306847875580)
+
+---
+
+### 🕐 18:10 UTC · @elonmusk
+
+> MR BEAST: Starlink is literally magic. “When I filmed in Antarctica, the only way to get any signal was Starlink. When I film in the middle of Malawi or Zimbabwe, or when we go to these countries to build wells or do projects, you can have internet just like you have here. Starlink is literally magic. You can put a Starlink on top of your car. We had a four-hour drive in the middle of Africa, where there was no service and the roads didn’t exist. We put Starlink on top of the car. Perfect signal. The entire car.” Media
+
+🔗 [View original post](https://x.com/cb_doge/status/2096299829756645843)
 
 ---
 
@@ -53,6 +69,14 @@
 > Texas Should Shut Down the Education Cartel! Even in a deep red state, shadowy left-wing NGO&apos;s scheme to conquer institutions, amass HUGE sums of public money, and use it against us to subvert democracy, overcoming their election losses. We are waking up and fighting back. 🧵
 
 🔗 [View original post](https://x.com/JTLonsdale/status/2096238830651048224)
+
+---
+
+### 🕐 13:55 UTC · @elonmusk
+
+> WATCH: Affirm&apos;s Max Levchin says Elon Musk is &quot;just a normal dude.&quot; Max Levchin, CEO of Affirm and a PayPal co-founder, talked about knowing Elon Musk and the rest of the &quot;PayPal Mafia&quot; in the early days. &quot;We knew the true version of that person,&quot; Levchin said. &quot;The ultra philosophical Peter Thiel, the go all in every time Elon Musk, the these days gubernatorial David Sacks.&quot; He said he saw the real Elon Musk, not the public image. &quot;I&apos;ve seen him sweaty and tired and grumpy at the company kitchen a thousand times.&quot; His takeaway is simple. These founders are not superhuman. &quot;They&apos;re not gods, they&apos;re humans,&quot; Levchin said. &quot;If that guy who&apos;s just a normal dude... he&apos;s going for this big of an idea, I should strive too.&quot; Source: Affirm CEO Max Levchin (@mlevchin), via a16z (@a16z) Media
+
+🔗 [View original post](https://x.com/muskonomy/status/2096235897603887362)
 
 ---
 
