@@ -2,7 +2,25 @@
 
 ## 📅 September 05, 2026
 
-> 13 post(s) archived.
+> 15 post(s) archived.
+
+---
+
+### 🕐 09:07 UTC · @Unlockyourlife_
+
+> Science so Cool it Looks Like a Magic Trick! Media
+
+🔗 [View original post](https://x.com/sciencepathx/status/2096163402108248345)
+
+---
+
+### 🕐 09:05 UTC · @Unlockyourlife_
+
+> How a car Airbag works.
+
+![How a car Airbag works.](../../../../assets/images/2026/09/05/2096162768080523765-1.jpg)
+
+🔗 [View original post](https://x.com/_learnskills/status/2096162768080523765)
 
 ---
 
