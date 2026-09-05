@@ -2,7 +2,15 @@
 
 ## 📅 September 05, 2026
 
-> 6 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 02:32 UTC · @tunguz
+
+> It looks like the optimal workflow might be to use GPT 6 for content and structure, and Fable for style and tone. Big news from our internal writing benchmark (early results): GPT-6 ... is surprisingly disappointing I definitely did not expect that... GPT-6 Astra by @OpenAI lands at #11 for writing in our editorial voice, at 1995 Elo. That is below its predecessor. GPT-5.6 Sol sits #6 at 215…
+
+🔗 [View original post](https://x.com/tunguz/status/2096063855327916353)
 
 ---
 
