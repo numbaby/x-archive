@@ -2,7 +2,79 @@
 
 ## 📅 September 05, 2026
 
-> 41 post(s) archived.
+> 49 post(s) archived.
+
+---
+
+### 🕐 13:47 UTC · @Wise1Philosophy
+
+> If you want to avoid a heart attack, memory loss, and burning out before your kids leave home (especially if you&apos;re over 40) Here are 7 signs high cortisol is silently wrecking your body: 1. Waking at 3-4 AM.
+
+🔗 [View original post](https://x.com/matthew_labosco/status/2096233826783781060)
+
+---
+
+### 🕐 13:38 UTC · @Wise1Philosophy
+
+> Websites with one specific characteristic get cited by AI platforms 1.8x more often. Now the data is finally specific enough to act on. A study analyzed 11,882 prompts and 304,805 cited URLs across ChatGPT, Google AI Mode and Perplexity, then compared them against 921,614 URLs ranking in Google&apos;s top 20 that were not cited by AI. The biggest differences? Clarity and summarization quality (+32.83%), signals like author credentials and expert sources (+30.64%), Q&amp;A formatting (+25.45%), clear section structure with headings, lists and tables (+22.91%) and structured data (+21.60%). In other words, the pages AI systems tend to cite are generally clearer, better structured and backed by stronger expertise. By the way, if you want to see where your site stands across Google, ChatGPT, Claude and broader AI search, start here. It’s free: https://rightcited.com/ According to Semrush, sources with clear author information were cited 1.8x more often than anonymous content. That means naming the author, showing relevant credentials and citing credible expert sources materially improved the signals AI systems have available when deciding what to cite. Semrush&apos;s data shows that cited pages were much more likely to communicate the answer clearly, use structured sections, anticipate questions and demonstrate actual expertise. Mind you, a page can be relevant enough to rank and still be a poor citation candidate. And the strongest-performing content tends to combine two things. First, useful content built around expertise: named authors, original data, expert perspectives, direct answers and comprehensive coverage of the buyer&apos;s question. In fact, Semrush found Q&amp;A formatting correlated with roughly 25% higher citation rates, while strong section structure correlated with roughly 23% higher rates. Second, authority that reinforces the expertise. Credible third-party coverage, editorial backlinks and references from trusted websites give search and AI systems more evidence that the content and the company behind it are worth trusting. That is the system SEO Stuff (http://seo-stuff.com) was built around. The done-for-you package combines AI-search-optimized content with three DR50+ authority placements: https://seo-stuff.com/gold-plan-package The content is built around clear answers, expert attribution, structured depth and the commercial questions customers actually ask. The Premium Content Bundle goes deeper: https://seo-stuff.com/premium-content-bundle-service It includes 60 long-form pieces designed around structured coverage, expert attribution and question-based search intent. And the Premium Backlink Bundle strengthens the authority side: https://seo-stuff.com/premium-backlink-bundle-service It adds three contextual DR50+ placements designed to reinforce the brand and its expertise across trusted third-party websites. And if you want to see where your site stands across Google, ChatGPT, Claude and broader AI search, start here. It’s free: https://rightcited.com/ Microsoft is now literally telling businesses exactly how to get traffic from AI Search. Yes, directly inside webmaster tools. This is probably one of the more important marketing updates of 2026. Let’s go through it. By the way, you can see whether your business is appearing acr…
+
+![Websites with one specific characteristic get cited by AI platforms 1.8x more often. Now the data is finally specific enough to act on. A study analyzed 11,882 prompts and 304,805 cited URLs across Ch](../../../../assets/images/2026/09/05/2096231553420648623-1.png)
+
+🔗 [View original post](https://x.com/alexgroberman/status/2096231553420648623)
+
+---
+
+### 🕐 13:27 UTC · @Wise1Philosophy
+
+> one tab away from Sagittarius A* is crazy work SOMEBODY MODELED EVERY PLANET AND STAR AND SHIPPED IT AS A LINK. TAKE OFF WHENEVER YOU WANT, IT IS SITTING RIGHT THERE. no store page. no install bar. no email required. hit the link and the ground disappears under you. the name is Galaxium. http://galaxium.app. back away from Ea…
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2096228651998052651)
+
+---
+
+### 🕐 13:02 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/05/2096222337771147477-1.jpg)
+
+🔗 [View original post](https://x.com/Life__Mastery/status/2096222337771147477)
+
+---
+
+### 🕐 12:51 UTC · @Wise1Philosophy
+
+> This opens a lot of room for new storefront experiences Claude can now shop and sell Anthropic just dropped the full commerce-agent blueprint on GitHub. https://github.com/anthropics/commerce-agents
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2096219610999570549)
+
+---
+
+### 🕐 12:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/05/2096214352231530629-1.jpg)
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2096214352231530629)
+
+---
+
+### 🕐 12:22 UTC · @Wise1Philosophy
+
+> 🚨SHOCKING: Alibaba just released its most powerful AI model ever. Qwen3.8-Max-0902 has 2.4T parameters, 1M-token context window, and stronger coding + agent capabilities. I had it build a finance dashboard and two full games, then fix its own code. Here&apos;s the breakdown🧵:
+
+![🚨SHOCKING: Alibaba just released its most powerful AI model ever. Qwen3.8-Max-0902 has 2.4T parameters, 1M-token context window, and stronger coding + agent capabilities. I had it build a finance dash](../../../../assets/images/2026/09/05/2096212361589993589-1.png)
+
+🔗 [View original post](https://x.com/JaynitMakwana/status/2096212361589993589)
+
+---
+
+### 🕐 11:41 UTC · @Wise1Philosophy
+
+> DORA Metrics Explained: The 4 Key DevOps Metrics Read here: https://limestonedigital.com/blog/dora-metrics-explained-the-4-key-devops-metrics
+
+![DORA Metrics Explained: The 4 Key DevOps Metrics Read here: https://limestonedigital.com/blog/dora-metrics-explained-the-4-key-devops-metrics](../../../../assets/images/2026/09/05/2096202026317209915-1.png)
+
+🔗 [View original post](https://x.com/LimestoneHQ/status/2096202026317209915)
 
 ---
 
