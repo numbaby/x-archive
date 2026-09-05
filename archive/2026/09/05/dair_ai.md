@@ -2,7 +2,15 @@
 
 ## 📅 September 05, 2026
 
-> 7 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 22:42 UTC · @dair_ai
+
+> This works really well with GPT-6 Astra: Give it a tweet of an impressive Astra demo. Ask Astra (medium) to replicate it to the best of its ability and giving it whatever extra instructions and adaptations you want. Set a /goal like provide proof of the results so it has something to compare to. After the first run, switch to Astra (max) and give it instructions to polish. And you can keep doing this iteratively to keep improving results. So there is one component to build and one to optimize/tune. I think it works well because it breaks the problem down and allows the models to focus efforts as opposed to trying to use lots of tokens for many things at once (usually lower quality results). This can essentially be done in one go using subagents and /goal.
+
+🔗 [View original post](https://x.com/omarsar0/status/2096368290603946360)
 
 ---
 

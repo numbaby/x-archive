@@ -2,7 +2,15 @@
 
 ## 📅 September 05, 2026
 
-> 16 post(s) archived.
+> 17 post(s) archived.
+
+---
+
+### 🕐 23:34 UTC · @tunguz
+
+> Redditors were a low AI phenomenon.
+
+🔗 [View original post](https://x.com/tunguz/status/2096381431199277565)
 
 ---
 
