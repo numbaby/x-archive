@@ -2,7 +2,109 @@
 
 ## 📅 September 05, 2026
 
-> 55 post(s) archived.
+> 69 post(s) archived.
+
+---
+
+### 🕐 16:28 UTC · @Wise1Philosophy
+
+> Most people chase visual quality first, but structure usually comes before quality. everyone thinks @higgsfield_ai Genjutsu just restyles a video...WRONG it reads the MOTION and rebuilds the entire scene around your assets any edit. any world. any style. 3d video credits: kaye_creatives on IG here&apos;s the entire workflow with prompts: 🧵
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2096274217796870472)
+
+---
+
+### 🕐 16:20 UTC · @Wise1Philosophy
+
+> and having the exact Anthropic wording is the best part Anthropic buried 52 Claude Code prompts in the docs. 21 need no code. Here are all 52, by stage: DISCOVER, 7 prompts Onboard, 1 → get oriented in a new codebase Understand, 6 → explain it, trace it, scope a change Ask before you touch anything. DESIGN, 6 prompts Plan, 4 → list th…
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2096272144535605612)
+
+---
+
+### 🕐 16:15 UTC · @Wise1Philosophy
+
+> Cillian Murphy said something about women that stopped every relationshippsychologist who heard it. In three sentences he described something most men spend their entire lives unable to articulate. And what he said will change how you understand every relationship where one person sees more clearly than the other...
+
+![Cillian Murphy said something about women that stopped every relationshippsychologist who heard it. In three sentences he described something most men spend their entire lives unable to articulate. An](../../../../assets/images/2026/09/05/2096270948261581240-1.jpg)
+
+🔗 [View original post](https://x.com/scotti_brooks/status/2096270948261581240)
+
+---
+
+### 🕐 16:14 UTC · @Wise1Philosophy
+
+> Phrases I use when my son lies. Not &quot;why did you lie?&quot; Not &quot;we don&apos;t lie in this house.&quot; Here are the 5 that stop the lying without shaming him. Every one 8 words or less... 👇🧵
+
+![Phrases I use when my son lies. Not &quot;why did you lie?&quot; Not &quot;we don&apos;t lie in this house.&quot; Here are the 5 that stop the lying without shaming him. Every one 8 words or less... 👇](../../../../assets/images/2026/09/05/2096270814534570265-1.jpg)
+
+🔗 [View original post](https://x.com/Manifest_Lord/status/2096270814534570265)
+
+---
+
+### 🕐 16:11 UTC · @Wise1Philosophy
+
+> 3D and games will never be the same. GPT-6 Astra one-shots Blender, Minecraft, and full browsers. 11 wild use cases:
+
+🔗 [View original post](https://x.com/socialwithaayan/status/2096270041499267452)
+
+---
+
+### 🕐 15:50 UTC · @Wise1Philosophy
+
+> A brand followed the advice in this article and generated more than $50,000 from ChatGPT, Google and Perplexity-driven traffic.
+
+![A brand followed the advice in this article and generated more than $50,000 from ChatGPT, Google and Perplexity-driven traffic.](../../../../assets/images/2026/09/05/2096264702104137795-1.png)
+
+🔗 [View original post](https://x.com/alexgroberman/status/2096264702104137795)
+
+---
+
+### 🕐 15:42 UTC · @Wise1Philosophy
+
+> Andrew Huberman was just asked by Steven Bartlett: “If you could only take 5 supplements for the rest of your life, what would they be?”. Here’s what he picked: 1. Magnesium Media
+
+🔗 [View original post](https://x.com/_Gut_Laboratory/status/2096262646324711463)
+
+---
+
+### 🕐 15:31 UTC · @Wise1Philosophy
+
+> Poor gut health ages you faster than smoking and sitting all day. It bloats your stomach, wrecks your blood sugar, ruins sleep, and makes you inflamed and fart all day. Here are 6 of the best doctor-backed tips to fix your gut: 1. Cool your potatoes. Seriously. Media
+
+🔗 [View original post](https://x.com/CoachWillStone/status/2096259984359395479)
+
+---
+
+### 🕐 15:15 UTC · @Wise1Philosophy
+
+> You can now create anything with Claude. I just created Porsche ad film using Claude and Vidfield MCP GPT Image 2 → full cinematic storyboard Seedance 2.0 → finished 15-second film Here’s the full workflow + prompts: Media
+
+🔗 [View original post](https://x.com/HeyAbhishek/status/2096255938810528123)
+
+---
+
+### 🕐 15:08 UTC · @Wise1Philosophy
+
+> A solo founder had an idea for a simple web tool a calorie tracker that uses AI to estimate calories from a photo of food. He priced the launch the way most founders do. Developer for the web app: $2,000–$5,000. Designer for marketing images: $500–$1,000. Video editor for a promo clip: $300–$800. Copywriter for launch posts: $200–$400. Timeline: 3–4 weeks. Budget: $3,000–$7,200. He shelved the idea for 6 months because the upfront cost felt too high for a product he wasn&apos;t sure anyone would use. His friend a serial bootstrapper who launches micro-products monthly heard the idea at a coffee shop and said: &quot;Give me 30 minutes.&quot; He opened Grok. One conversation. One tool. He described the app. Grok Build xAI&apos;s agentic coding tool built the web application. Working. Functional. Deployable. In the same conversation, he asked Grok Imagine to generate 4 product mockup images at 2K resolution. Generated in 20 seconds. He asked for a 10-second promo video a hand pointing a phone at a meal, calorie count appearing on screen with upbeat background music. Generated with synchronized audio. He asked Grok to write 5 X launch posts based on what&apos;s performing in the health and productivity niches on X right now. Grok searched live trends and generated 5 posts calibrated to today&apos;s platform dynamics. The app. The images. The video with sound. The launch copy. One conversation. Under 30 minutes. The $4,000 launch budget replaced by a $30/month SuperGrok subscription and a single chat window. Here&apos;s every Grok capability most users don&apos;t know exists in one platform 🧵
+
+🔗 [View original post](https://x.com/jackcoder0/status/2096254047259177395)
+
+---
+
+### 🕐 15:05 UTC · @Wise1Philosophy
+
+> AN ONCOLOGIST ADMITTED: “There are 3 types of people who don&apos;t get cancer.” (SAVE THIS):
+
+🔗 [View original post](https://x.com/BeBetterMan_/status/2096253391857201225)
+
+---
+
+### 🕐 14:52 UTC · @Wise1Philosophy
+
+> I used Astra + Blender to build a launch film for a luxury brand that doesn’t exist. One watch. An entire world built around it. Imagine showing up to your next client pitch with something like this. Media Got GPT-6 Astra access. Let the fun begin.
+
+🔗 [View original post](https://x.com/ecomchasedimond/status/2096250035377930633)
 
 ---
 
@@ -46,6 +148,15 @@
 
 ---
 
+### 🕐 14:01 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/05/2096237325869043745-1.jpg)
+
+🔗 [View original post](https://x.com/Ant_Philosophy/status/2096237325869043745)
+
+---
+
 ### 🕐 14:00 UTC · @Wise1Philosophy
 
 > ONE stock just lost 2.8 BILLION dollars off its value. And the reason it crashed should scare every retail investor... Here is what actually happened (and what you should do now): On September 3, Lululemon reported results after the close. Sales fell 4 percent from a year ago. That alone does not sound like a disaster. Then the company cut its outlook for the year. For the third time in 2026. In March, it expected to earn over 12 dollars a share. Now it expects closer to 9.50. Revenue guidance was slashed by almost a billion dollars. The stock is now down more than 40 percent this year. Below 100 dollars for the first time since 2018. But one number scared analysts more than the rest. &gt; Leggings sales fell about 20 percent. That is the product that built the entire company. Comparable sales, meaning stores open at least a year, fell too. In North America, they dropped about 12 percent. Its most loyal customer is quietly walking away. And the company expects sales to keep falling this quarter. Now here is where retail investors get hurt: Lululemon is a brand people know and love. They wear it, they trust it, and they call the crash a discount. So they buy a company they recognize on the way down. It feels safe because the name is everywhere. That comfort is exactly what makes it dangerous. But a familiar brand is not an investment thesis. The logo on your gym bag says nothing about the numbers. You cannot see the damage from the checkout line. And right now the numbers are ugly. Sales are falling and the core product is shrinking. A new leader inherits all of it next week. That is not a discount. That is a falling knife. Cheap can always get cheaper when the business is breaking. This is how emotional investing quietly drains accounts. The damage rarely comes from one bad call. It builds from many comfortable ones. You buy what you know and hold what you love. Then you ignore the data because the brand still feels safe. The investors who avoid this trap are not smarter. They just follow rules instead of feelings. Rules do not care what you wear to the gym. They read the data and act without emotion. That is exactly what Surmount was built for. Automated, rules-based strategies that run on logic, not loyalty. So when the next familiar name crashes, you are not guessing. You are already positioned: Media
@@ -69,6 +180,15 @@
 ![Websites with one specific characteristic get cited by AI platforms 1.8x more often. Now the data is finally specific enough to act on. A study analyzed 11,882 prompts and 304,805 cited URLs across Ch](../../../../assets/images/2026/09/05/2096231553420648623-1.png)
 
 🔗 [View original post](https://x.com/alexgroberman/status/2096231553420648623)
+
+---
+
+### 🕐 13:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/05/2096229467769208990-1.jpg)
+
+🔗 [View original post](https://x.com/Mindsthatbuild/status/2096229467769208990)
 
 ---
 

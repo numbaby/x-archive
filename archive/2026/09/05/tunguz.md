@@ -2,7 +2,31 @@
 
 ## 📅 September 05, 2026
 
-> 7 post(s) archived.
+> 10 post(s) archived.
+
+---
+
+### 🕐 17:28 UTC · @tunguz
+
+> This will be an amazing achievement. And then the real progress begins. At this rate we are poised to have five orders of magnitude more mathematical research done by the end of this decade than all of such work that has ever been done in all of human history. We are now poised to: Formalize all known Human Mathematics. This is the modern equivalent of the Human Genome Project. or AlphaFold more recently, whereby all data of its kind is fully classified. With sufficient funding and compute/tokens, a coordinated effort among academia, f…
+
+🔗 [View original post](https://x.com/tunguz/status/2096289284374528508)
+
+---
+
+### 🕐 17:20 UTC · @tunguz
+
+> OMG this is so unbelievably insanely retarded!!! &quot;The mathematics of string theory is probably one of the most beautiful artifacts humanity has created. In order to even produce something in theoretical physics, there&apos;s hundreds of years of literature that you need to catch up on, and also every day there&apos;s, 100 new papers that…
+
+🔗 [View original post](https://x.com/tunguz/status/2096287388897337362)
+
+---
+
+### 🕐 17:18 UTC · @tunguz
+
+> But I was told that if he’s right about AI and that everyone should be dead by now. https://x.com/i/article/2095955352454103040
+
+🔗 [View original post](https://x.com/tunguz/status/2096286839896518778)
 
 ---
 
