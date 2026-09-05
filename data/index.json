@@ -51895,5 +51895,64 @@
     "file": "data/posts/2026/09/2026-09-05.jsonl",
     "fingerprint": "7b6be9141697acaa12b1f5cef25a27f1d72ad5618d37cfc32c8374e682b6e619",
     "media": []
+  },
+  "2096038401174884751": {
+    "account": "tunguz",
+    "date": "2026-09-05",
+    "file": "data/posts/2026/09/2026-09-05.jsonl",
+    "fingerprint": "c08aeb8cf04be9d4bffa17ca78094caae70f91c9c92d69c2644919828de69f85",
+    "media": [
+      {
+        "local_path": "assets/images/2026/09/05/2096038401174884751-1.jpg",
+        "sha256": "dd351104febdf44fc74462c04ee75065ae5855583b2dba1c57ad2d215aacf8c9",
+        "source_url": "https://pbs.twimg.com/media/HRaf0WPagAA-S7O.jpg?name=orig"
+      }
+    ]
+  },
+  "2096041513893687547": {
+    "account": "Fiction_1m",
+    "date": "2026-09-05",
+    "file": "data/posts/2026/09/2026-09-05.jsonl",
+    "fingerprint": "bfea907887578128b6c922886942967934a718f25364dc187018ebaaa228be81",
+    "media": [
+      {
+        "local_path": "assets/images/2026/09/05/2096041513893687547-1.jpg",
+        "sha256": "36e5403128c568b1e3613752b902d887e7f61ec7cfe32429ff0b60900c746206",
+        "source_url": "https://pbs.twimg.com/media/HRaio99aEAAZ9su.jpg?name=orig"
+      }
+    ]
+  },
+  "2096041836104286586": {
+    "account": "tunguz",
+    "date": "2026-09-05",
+    "file": "data/posts/2026/09/2026-09-05.jsonl",
+    "fingerprint": "d3b4490f757a1dadaee923f2896b8a10b09457a32fbd1b1711a209194441dfa9",
+    "media": []
+  },
+  "2096042220059312475": {
+    "account": "tunguz",
+    "date": "2026-09-05",
+    "file": "data/posts/2026/09/2026-09-05.jsonl",
+    "fingerprint": "79d543330f2b8d1b9b9e674d4aece6b8bdc21329462308315babb34178cc4b14",
+    "media": [
+      {
+        "local_path": "assets/images/2026/09/05/2096042220059312475-1.jpg",
+        "sha256": "52b40aef68108ddc3df4c4308f499914434ede464fe318303eefcb02c732e0ec",
+        "source_url": "https://pbs.twimg.com/tweet_video_thumb/HRajSaJboAAKBZx.jpg"
+      }
+    ]
+  },
+  "2096046777145204927": {
+    "account": "_Regret_x",
+    "date": "2026-09-05",
+    "file": "data/posts/2026/09/2026-09-05.jsonl",
+    "fingerprint": "0aea04449863f7f109e7ce08958eb989af324a5a56fe07fb6b242eeb5148d97f",
+    "media": [
+      {
+        "local_path": "assets/images/2026/09/03/2095360561613607394-1.jpg",
+        "sha256": "a290cd1c31cf969afc650207f8cee7377d1059b16e2d371e7628dcdb1bfbab13",
+        "source_url": "https://pbs.twimg.com/media/HRanbYXaUAAXLfD.jpg?name=orig"
+      }
+    ]
   }
 }
