@@ -2,7 +2,55 @@
 
 ## 📅 September 05, 2026
 
-> 49 post(s) archived.
+> 55 post(s) archived.
+
+---
+
+### 🕐 14:51 UTC · @Wise1Philosophy
+
+> Some remote jobs only operate between 1:30 AM and 5:30 AM, which is why hardly anyone applies. I’ve identified overnight remote jobs paying up to $110 per hour in USD. Here’s each job and why they pay so much👇
+
+🔗 [View original post](https://x.com/MasculineM7/status/2096249961075867903)
+
+---
+
+### 🕐 14:46 UTC · @Wise1Philosophy
+
+> 9 Signs of High I.Q: 1. Harder to get a girlfriend.
+
+🔗 [View original post](https://x.com/josh_uglyasf/status/2096248696564490738)
+
+---
+
+### 🕐 14:43 UTC · @Wise1Philosophy
+
+> 🏆 Fotor Video Agent just hit #1 Product of the Day on Product Hunt and honestly, the timing makes sense AI can already generate a bunch of good-looking clips. the real headache is turning all those clips + VO + music + captions + motion graphics into an actual finished video Fotor Video Agent handles the whole thing in one workflow: plan → generate assets → arrange everything on a multi-track timeline even the Motion Graphics stay editable, down to the text, layout, timing, and graphics 50× faster and 1/200th the cost of traditional AE production is kinda wild Generating raw AI video clips is officially solved. Connecting them into a complete, editable video is where everyone gets stuck. Fotor Video Agent moves AI video from generation to full production. Long-horizon narrative planning (Script &gt; Scene &gt; Multi-track assembly) Parametri…
+
+🔗 [View original post](https://x.com/nrqa__/status/2096247966436884709)
+
+---
+
+### 🕐 14:26 UTC · @Wise1Philosophy
+
+> A heart surgeon told me something that shocked me: “There are 3 types of people who don&apos;t get heart attacks.” 1. Don&apos;t go to the toilet at 3 AM
+
+🔗 [View original post](https://x.com/DPro_Coach/status/2096243680323776971)
+
+---
+
+### 🕐 14:03 UTC · @Wise1Philosophy
+
+> This mathematician built the AI company that started the image-generation boom, Stability AI. On André Duqum&apos;s podcast, he shared 8 bold predictions on how AI changes humanity: 1) Desk jobs will be replaced by it in 1,000 days Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2096237680849985945)
+
+---
+
+### 🕐 14:00 UTC · @Wise1Philosophy
+
+> ONE stock just lost 2.8 BILLION dollars off its value. And the reason it crashed should scare every retail investor... Here is what actually happened (and what you should do now): On September 3, Lululemon reported results after the close. Sales fell 4 percent from a year ago. That alone does not sound like a disaster. Then the company cut its outlook for the year. For the third time in 2026. In March, it expected to earn over 12 dollars a share. Now it expects closer to 9.50. Revenue guidance was slashed by almost a billion dollars. The stock is now down more than 40 percent this year. Below 100 dollars for the first time since 2018. But one number scared analysts more than the rest. &gt; Leggings sales fell about 20 percent. That is the product that built the entire company. Comparable sales, meaning stores open at least a year, fell too. In North America, they dropped about 12 percent. Its most loyal customer is quietly walking away. And the company expects sales to keep falling this quarter. Now here is where retail investors get hurt: Lululemon is a brand people know and love. They wear it, they trust it, and they call the crash a discount. So they buy a company they recognize on the way down. It feels safe because the name is everywhere. That comfort is exactly what makes it dangerous. But a familiar brand is not an investment thesis. The logo on your gym bag says nothing about the numbers. You cannot see the damage from the checkout line. And right now the numbers are ugly. Sales are falling and the core product is shrinking. A new leader inherits all of it next week. That is not a discount. That is a falling knife. Cheap can always get cheaper when the business is breaking. This is how emotional investing quietly drains accounts. The damage rarely comes from one bad call. It builds from many comfortable ones. You buy what you know and hold what you love. Then you ignore the data because the brand still feels safe. The investors who avoid this trap are not smarter. They just follow rules instead of feelings. Rules do not care what you wear to the gym. They read the data and act without emotion. That is exactly what Surmount was built for. Automated, rules-based strategies that run on logic, not loyalty. So when the next familiar name crashes, you are not guessing. You are already positioned: Media
+
+🔗 [View original post](https://x.com/SurmountInvest/status/2096237045513621618)
 
 ---
 

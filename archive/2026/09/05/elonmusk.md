@@ -2,7 +2,15 @@
 
 ## 📅 September 05, 2026
 
-> 13 post(s) archived.
+> 14 post(s) archived.
+
+---
+
+### 🕐 14:07 UTC · @elonmusk
+
+> Texas Should Shut Down the Education Cartel! Even in a deep red state, shadowy left-wing NGO&apos;s scheme to conquer institutions, amass HUGE sums of public money, and use it against us to subvert democracy, overcoming their election losses. We are waking up and fighting back. 🧵
+
+🔗 [View original post](https://x.com/JTLonsdale/status/2096238830651048224)
 
 ---
 
