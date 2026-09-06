@@ -2,7 +2,35 @@
 
 ## 📅 September 06, 2026
 
-> 29 post(s) archived.
+> 34 post(s) archived.
+
+---
+
+### 🕐 11:54 UTC · @Wise1Philosophy
+
+> A Costco employee worked the warehouse floor for 4 years. He watched the same mistakes every day. Members buying Tide at $28 while Kirkland detergent made in the same factory, same cleaning formula sat 3 feet away at $16. Members walking past .97 clearance tags on items they&apos;d pay full price for next month. Members paying $65/year for Gold Star memberships when their spending qualified them for Executive the tier that pays for its own upgrade through 2% cashback. Members checking out without flipping through the monthly coupon book that would have saved $15–$30 on items already in their cart. He couldn&apos;t say anything. Costco employees aren&apos;t trained to upsell, cross-sell, or correct shopping habits. The culture is &quot;let the member shop.&quot; The employee who says &quot;the Kirkland version is the same product for $12 less&quot; is overstepping. The member who doesn&apos;t know loses $12. Multiply across 50 products per year. Add the missed cashback. Add the ignored clearance. Add the pharmacy they walk past. Add the travel desk they&apos;ve never approached. $600/year in value left on the warehouse floor by the average member, on the average shopping pattern, using the average autopilot habits he watched repeat across thousands of carts for 4 years. After he left Costco, he told his friends and family everything he wished he could have said on the floor. Here&apos;s the full Costco playbook from someone who watched members leave money on the table every single day 🧵
+
+🔗 [View original post](https://x.com/jackcoder0/status/2096567732624150609)
+
+---
+
+### 🕐 11:30 UTC · @Wise1Philosophy
+
+> Web Sites Google Doesn&apos;t Want You to Know About ↳ https://alternativeto.net ↳ https://justwatch.com ↳ https://archive.org ↳ https://gutenberg.org ↳ https://openculture.com ↳ https://wolframalpha.com ↳ https://photopea.com ↳ https://squoosh.app ↳ https://remove.bg ↳ https://cleanup.pictures ↳ https://unscreen.com ↳ https://carbon.now.sh ↳ https://ray.so ↳ https://shots.so ↳ https://smartmockups.com ↳ https://haveibeenpwned.com ↳ https://virustotal.com ↳ https://privnote.com ↳ https://temp-mail.org ↳ https://file.io ↳ https://10minutemail.com ↳ https://similarsites.com ↳ https://radio.garden ↳ https://everynoise.com ↳ https://tunefind.com ↳ https://musicforprogramming.net ↳ https://mynoise.net ↳ https://coffitivity.com ↳ https://elicit.com ↳ https://consensus.app ↳ https://connectedpapers.com ↳ https://semanticscholar.org ↳ https://scispace.com ↳ https://summarize.tech ↳ https://phind.com ↳ https://regex101.com ↳ https://codebeautify.org ↳ https://jsonformatter.org ↳ https://explainshell.com ↳ https://raindrop.io ↳ https://downdetector.com ↳ https://tineye.com ↳ https://fast.com ↳ https://smallpdf.com ↳ https://ilovepdf.com 2024: one prompt box, one output, start over every time 2026: a canvas where the whole process stays connected that&apos;s @pippitofficial&apos;s Creative Agent Canvas. instead of jumping between tools, you build your own workflow in one place → chat and canvas working together, ideas to e…
+
+![Web Sites Google Doesn&apos;t Want You to Know About ↳ https://alternativeto.net ↳ https://justwatch.com ↳ https://archive.org ↳ https://gutenberg.org ↳ https://openculture.com ↳ https://wolframalpha.](../../../../assets/images/2026/09/06/2096561640888209582-1.jpg)
+
+🔗 [View original post](https://x.com/nrqa__/status/2096561640888209582)
+
+---
+
+### 🕐 11:15 UTC · @Wise1Philosophy
+
+> 🚨 BREAKING: Google just launched free AI courses. No sign-up fees or prior skills required. Here are 10 courses you don&apos;t want to miss:
+
+![🚨 BREAKING: Google just launched free AI courses. No sign-up fees or prior skills required. Here are 10 courses you don&apos;t want to miss:](../../../../assets/images/2026/09/06/2096557784024379895-1.jpg)
+
+🔗 [View original post](https://x.com/AndrewBolis/status/2096557784024379895)
 
 ---
 
@@ -11,6 +39,14 @@
 > Brian Chesky says the advice that nearly DESTROYED Airbnb is taught at every business school. &quot;Hire great people and empower them to do their job.&quot; He believed it. Guess what happened when he implemented it? Teams spawned teams. Managers created managers. Soon he had a hundred little divisions running in a hundred directions, drowning in meetings about meetings. The CEO got separated from the product itself. He says great leadership is presence, not absence. You start in the details, build trust, then let go. You do not hand off the thing and hope. — Brian Chesky (.@bchesky), CEO of Airbnb Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media
 
 🔗 [View original post](https://x.com/AiEvolutio58513/status/2096554115119886671)
+
+---
+
+### 🕐 10:44 UTC · @Wise1Philosophy
+
+> https://x.com/i/article/2096542582159634433
+
+🔗 [View original post](https://x.com/charliejhills/status/2096550164278485292)
 
 ---
 
@@ -44,6 +80,14 @@
 ![](../../../../assets/images/2026/09/06/2096531433594540082-1.jpg)
 
 🔗 [View original post](https://x.com/Ant_Philosophy/status/2096531433594540082)
+
+---
+
+### 🕐 09:16 UTC · @Wise1Philosophy
+
+> This guy literally burned $9k on ads, yet ended up building a $1m solo business. And now he just shares everything he knows for free: Side Quests is my weekly field log from the trenches, covering, products, prototypes, launches, growth experiments, weird ideas, and whatever I’m currently trying to figure out. Subscribe for free now: https://sidequests.pascio.com/subscribe https://x.com/i/article/20965235139810…
+
+🔗 [View original post](https://x.com/creatorpascal/status/2096527958223573422)
 
 ---
 
