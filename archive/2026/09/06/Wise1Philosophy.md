@@ -2,7 +2,57 @@
 
 ## 📅 September 06, 2026
 
-> 22 post(s) archived.
+> 29 post(s) archived.
+
+---
+
+### 🕐 11:00 UTC · @Wise1Philosophy
+
+> Brian Chesky says the advice that nearly DESTROYED Airbnb is taught at every business school. &quot;Hire great people and empower them to do their job.&quot; He believed it. Guess what happened when he implemented it? Teams spawned teams. Managers created managers. Soon he had a hundred little divisions running in a hundred directions, drowning in meetings about meetings. The CEO got separated from the product itself. He says great leadership is presence, not absence. You start in the details, build trust, then let go. You do not hand off the thing and hope. — Brian Chesky (.@bchesky), CEO of Airbnb Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2096554115119886671)
+
+---
+
+### 🕐 10:09 UTC · @Wise1Philosophy
+
+> TAKING MAGNESIUM RIGHT WILL TURN YOU INTO A 13% BODY FAT BEAST: (99% ARE MAKING THESE 3 MISTAKE):
+
+🔗 [View original post](https://x.com/NutritionCorp/status/2096541240783462655)
+
+---
+
+### 🕐 09:58 UTC · @Wise1Philosophy
+
+> Dementia is blood flow. Dementia is cholesterol. Dementia is preventable close to half the time. 8 simple rules to protect your brain: 1. Floss your teeth
+
+🔗 [View original post](https://x.com/_Gut_Laboratory/status/2096538502775349560)
+
+---
+
+### 🕐 09:46 UTC · @Wise1Philosophy
+
+> A heart surgeon told me something that shocked me: “There are 3 types of people who don&apos;t get heart attacks.” 1. Don&apos;t go to the toilet at 3 AM
+
+🔗 [View original post](https://x.com/CoachWillStone/status/2096535603458543718)
+
+---
+
+### 🕐 09:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/06/2096531433594540082-1.jpg)
+
+🔗 [View original post](https://x.com/Ant_Philosophy/status/2096531433594540082)
+
+---
+
+### 🕐 08:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/06/2096516277086876133-1.jpg)
+
+🔗 [View original post](https://x.com/Mindsthatbuild/status/2096516277086876133)
 
 ---
 
@@ -38,6 +88,15 @@
 > If you want to avoid clots, strokes and heart attacks, especially past 40, here are the 8 things worth paying attention to: 1. Waking at 3 AM with a pounding heart
 
 🔗 [View original post](https://x.com/RasmusNorbergg/status/2096503668388602261)
+
+---
+
+### 🕐 07:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/06/2096501181476388923-1.jpg)
+
+🔗 [View original post](https://x.com/Daily__wisdom_/status/2096501181476388923)
 
 ---
 
