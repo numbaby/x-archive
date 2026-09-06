@@ -2,7 +2,39 @@
 
 ## 📅 September 06, 2026
 
-> 6 post(s) archived.
+> 10 post(s) archived.
+
+---
+
+### 🕐 19:18 UTC · @tunguz
+
+> AGI will fix California.
+
+🔗 [View original post](https://x.com/tunguz/status/2096679404902703260)
+
+---
+
+### 🕐 16:31 UTC · @tunguz
+
+> Recycling is one of the biggest scams that has been imposed on us over the past few decades. Disappointingly, this article says that what I already knew about recycling (it’s good for aluminum but not really for plastic) is basically correct. https://worksinprogress.co/issue/just-bury-your-trash/
+
+🔗 [View original post](https://x.com/tunguz/status/2096637517516968336)
+
+---
+
+### 🕐 14:33 UTC · @tunguz
+
+> an influencer &gt; posts about how fit/youthful/good looking he/she is at 40/50/60 &gt; asian every. single. time.
+
+🔗 [View original post](https://x.com/tunguz/status/2096607690340626672)
+
+---
+
+### 🕐 14:23 UTC · @tunguz
+
+> In my experience most “ethicists” are just neuroticists with extra steps and some dose of power. This Is the Biggest Obstacle to New Cancer Cures: Regulatory red tape (e.g,. paperwork for drug approval higher than the Empire State Bldg). Some of this, ironically, comes from &quot;bioethics,&quot; ingenious at imagining hypothetical risks, oblivious to the costs in lives in delaying or
+
+🔗 [View original post](https://x.com/tunguz/status/2096605309133623396)
 
 ---
 

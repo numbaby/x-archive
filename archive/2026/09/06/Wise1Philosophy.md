@@ -2,7 +2,151 @@
 
 ## 📅 September 06, 2026
 
-> 54 post(s) archived.
+> 72 post(s) archived.
+
+---
+
+### 🕐 19:25 UTC · @Wise1Philosophy
+
+> A Stanford biology professor said: &quot;All the supplements on the shelf are lies. There’s only 3 that make a difference. I can bet my career &amp; life savings on it.&quot; 1) Magnesium glycinate.
+
+🔗 [View original post](https://x.com/NutritionCorp/status/2096681088500584473)
+
+---
+
+### 🕐 18:58 UTC · @Wise1Philosophy
+
+> The world’s leading cancer researcher said: “Cancer isn’t bad luck or bad genes. This flips everything you’ve been told about cancer upside down.” 1. It’s damaged mitochondria.
+
+🔗 [View original post](https://x.com/Dr_Biohacker/status/2096674473454043348)
+
+---
+
+### 🕐 18:53 UTC · @Wise1Philosophy
+
+> Waking up 2-3 times a night to piss and thinking it&apos;s because you drank water before bed. It&apos;s not the water. Here’s actually why (&amp; what stops it): 1. Your blood sugar is crashing at 1am, 3am, 5am.
+
+🔗 [View original post](https://x.com/LongevityCode_/status/2096673272352129201)
+
+---
+
+### 🕐 17:15 UTC · @Wise1Philosophy
+
+> Everyone is focused on what Astra can build. I&apos;m more interested in what you can do with it after that. Turns out GPT-6 Astra + Dreamina Seedance 2.5 is an actual pipeline. Astra codes the geometry → Blender → Clay Renderer Plugin → final render on Dreamina. That last step is powered by Dreamina&apos;s Clay Renderer Plugin — move the Blender clay model into Dreamina and let Seedance 2.5 turn it into footage, while keeping the camera and layout intact. No premium pipeline pricing either. See what it can do 👇 #Dreamina #DreaminaPartner Media
+
+🔗 [View original post](https://x.com/socialwithaayan/status/2096648379682156845)
+
+---
+
+### 🕐 16:26 UTC · @Wise1Philosophy
+
+> 96%?? that&apos;s absolutely wild Someone gave GPT-6 and Fable 5.1 access to Canva. One smoked the other (it&apos;s not even close). Claude Fable 5.1 is on the left. GPT-6 Astra is on the right. The gap is not small. It comes down to one test (ARC-AGI 3). It drops a model into a game with no instructions and makes it …
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2096636172701147250)
+
+---
+
+### 🕐 16:13 UTC · @Wise1Philosophy
+
+> AI-POWERED 3D CREATION JUST TOOK ANOTHER BIG STEP FORWARD @TripoAI just wrapped up Gamescom 2026 in Cologne, showcasing a more production-focused AI 3D workflow for game creators. From the booth footage, the direction is pretty clear: Tripo is positioning AI 3D as a production pipeline, not just a model generator. One of the key feats is Smart Mesh P2.0, which generates native quad topology and assets up to 50K triangles. That matters because topology is still where a lot of AI 3D tools fall short 🧵↓
+
+![AI-POWERED 3D CREATION JUST TOOK ANOTHER BIG STEP FORWARD @TripoAI just wrapped up Gamescom 2026 in Cologne, showcasing a more production-focused AI 3D workflow for game creators. From the booth foota](../../../../assets/images/2026/09/06/2096632828419256325-1.jpg)
+
+🔗 [View original post](https://x.com/DataChaz/status/2096632828419256325)
+
+---
+
+### 🕐 16:12 UTC · @Wise1Philosophy
+
+> 10 things your wife can say to you but you can never say to her.. Marriage is not all about equality... 👇
+
+![10 things your wife can say to you but you can never say to her.. Marriage is not all about equality... 👇](../../../../assets/images/2026/09/06/2096632548361388362-1.jpg)
+
+🔗 [View original post](https://x.com/scotti_brooks/status/2096632548361388362)
+
+---
+
+### 🕐 16:11 UTC · @Wise1Philosophy
+
+> The 4-minute after-school sequence I have run every day for 3 years. No questions. No agenda. No talking. The evening runs itself after this... 🧵
+
+![The 4-minute after-school sequence I have run every day for 3 years. No questions. No agenda. No talking. The evening runs itself after this... 🧵](../../../../assets/images/2026/09/06/2096632442123944410-1.jpg)
+
+🔗 [View original post](https://x.com/Manifest_Lord/status/2096632442123944410)
+
+---
+
+### 🕐 15:54 UTC · @Wise1Philosophy
+
+> Grok Bot is literally a company in your pocket. People are running desks, hiring specialists, shipping work overnight. 8 wild examples:
+
+🔗 [View original post](https://x.com/socialwithaayan/status/2096628030882119736)
+
+---
+
+### 🕐 15:47 UTC · @Wise1Philosophy
+
+> Cortisol = belly fat. Cortisol = puffy face. Cortisol = hair loss. Cortisol = collagen gone. Cortisol = libido gone. One hormone. Every symptom. Here’s what actually fixes it:
+
+🔗 [View original post](https://x.com/TheFastedState/status/2096626239381582277)
+
+---
+
+### 🕐 15:46 UTC · @Wise1Philosophy
+
+> Ring has sold over 25 million doorbells and roughly 22 million of them are running on factory settings nobody has touched since installation day. A guy installed his Ring doorbell 2 years ago. He mounted it. Connected the Wi-Fi. Downloaded the app. Since then, one function. Someone rings. He checks his phone. They&apos;re already gone. He also gets 43 motion alerts a day. Cars driving past. Neighbors walking dogs. A tree branch swaying. Shadows sliding across the porch at sunset. His neighbor&apos;s cat. His neighbor&apos;s cat again. His neighbor&apos;s cat for the 14,000th time. His phone buzzes so often he turned off notifications 8 months ago. His Ring doorbell now records everything and alerts him about nothing. The worst of both worlds. His neighbor, a retired home security installer who spent 22 years designing commercial and residential surveillance systems across 3,000+ properties, watched him silence another notification during a barbecue and finally said something. &quot;You don&apos;t own a doorbell. You own a person detection AI, a package theft alert system, a two-way intercom, a motion intelligence engine, a video answering machine for your front door, a porch surveillance timeline, a privacy masking tool, and a whole-home notification network connected to the Echo sitting in your kitchen. You&apos;re using it to check who rang the bell after they already left. That&apos;s 10% of what&apos;s mounted on your door. The other 90% has been recording your neighbor&apos;s cat 40 times a day because nobody configured the one setting that separates people from everything else.&quot; Here are the 9 Ring features most owners have never turned on 🧵
+
+🔗 [View original post](https://x.com/Alvin1492840/status/2096626171178111449)
+
+---
+
+### 🕐 15:29 UTC · @Wise1Philosophy
+
+> Jason Isbell&apos;s lawsuit argues an artist&apos;s identity is property and Suno AI is stealing it. It claims Suno’s safeguards are easily bypassed, selling access to his voice without consent. Where do we draw the line between inspiration and theft?
+
+![Jason Isbell&apos;s lawsuit argues an artist&apos;s identity is property and Suno AI is stealing it. It claims Suno’s safeguards are easily bypassed, selling access to his voice without consent. Where](../../../../assets/images/2026/09/06/2096621717980643818-1.jpg)
+
+🔗 [View original post](https://x.com/Emma_AItalks/status/2096621717980643818)
+
+---
+
+### 🕐 15:28 UTC · @Wise1Philosophy
+
+> Fasting 96 hours literally causes your body to eat up diseased tissues, tumors, inflammation and toxins that hurt your longevity. I just started my fast for 4 days. Here’s exactly what I did from Day 0 to Day 4:
+
+🔗 [View original post](https://x.com/CoachDanCole_/status/2096621525277507759)
+
+---
+
+### 🕐 15:26 UTC · @Wise1Philosophy
+
+> Walking = lose weight Walking = lower blood sugar Walking = reduce your risk of early death. 8 simple rules you have to follow: 1. Don&apos;t chase 10,000 steps. Media
+
+🔗 [View original post](https://x.com/_sleepreport/status/2096621122523738305)
+
+---
+
+### 🕐 15:04 UTC · @Wise1Philosophy
+
+> If you want to avoid heart clots, strokes, and heart attacks (especially if you&apos;re over 40) Here are 8 things you must pay attention to: 8. Energy Drink
+
+🔗 [View original post](https://x.com/Fitby_Chandler/status/2096615435798241624)
+
+---
+
+### 🕐 14:55 UTC · @Wise1Philosophy
+
+> I dug deeper and found out the team behind Wispr Flow recent launch video, which got 19M+ views. Took me 3 days, but I finally found about The Launch Video Company. The team, behind most viral launches on X. Insane to see that there’s a single team doing all these launches!
+
+🔗 [View original post](https://x.com/Rixhabh__/status/2096613334124838999)
+
+---
+
+### 🕐 14:11 UTC · @Wise1Philosophy
+
+> A Heart doctor admitted: “There are 3 types of people who don&apos;t get heart attacks.” 1. Don&apos;t go pee at 3 AM Media
+
+🔗 [View original post](https://x.com/CoachWillStone/status/2096602265201336493)
 
 ---
 
@@ -254,6 +398,16 @@
 > This guy literally burned $9k on ads, yet ended up building a $1m solo business. And now he just shares everything he knows for free: Side Quests is my weekly field log from the trenches, covering, products, prototypes, launches, growth experiments, weird ideas, and whatever I’m currently trying to figure out. Subscribe for free now: https://sidequests.pascio.com/subscribe https://x.com/i/article/20965235139810…
 
 🔗 [View original post](https://x.com/creatorpascal/status/2096527958223573422)
+
+---
+
+### 🕐 09:13 UTC · @Wise1Philosophy
+
+> Side Quests is my weekly field log from the trenches, covering, products, prototypes, launches, growth experiments, weird ideas, and whatever I’m currently trying to figure out. Subscribe for free now: https://sidequests.pascio.com/subscribe https://x.com/i/article/2096523513981026307
+
+![Side Quests is my weekly field log from the trenches, covering, products, prototypes, launches, growth experiments, weird ideas, and whatever I’m currently trying to figure out. Subscribe for free now](../../../../assets/images/2026/09/06/2096527252225761430-1.jpg)
+
+🔗 [View original post](https://x.com/IAmPascio/status/2096527252225761430)
 
 ---
 

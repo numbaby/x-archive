@@ -2,7 +2,15 @@
 
 ## 📅 September 06, 2026
 
-> 6 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 16:01 UTC · @elonmusk
+
+> No country did more to make the case for free speech over the last 300 years than Britain. And yet it has made over 62,000 arrests over the last five years for &quot;communications offences,&quot; which have included doing nothing more than watching a TikTok video. It&apos;s terrifying just how totalitarian the UK has become. 🚨 NEWS: Our groundbreaking new investigation into the scale of Britain’s free speech crisis is front page of the Mail on Sunday today. Time for @andyburnham to listen - we want a free speech reset. I’ve written to him today calling for an urgent review into our laws on speech
+
+🔗 [View original post](https://x.com/shellenberger/status/2096629817529483393)
 
 ---
 
