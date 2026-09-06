@@ -2,7 +2,23 @@
 
 ## 📅 September 06, 2026
 
-> 4 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 14:11 UTC · @tunguz
+
+> The dirtiest secret of the scientific profession is that science as a profession is not very scientific.
+
+🔗 [View original post](https://x.com/tunguz/status/2096602219957346471)
+
+---
+
+### 🕐 14:10 UTC · @tunguz
+
+> Wow. This cold be way bigger than the replication crisis. I sicced Astra on a bunch of replication packages, and it found a huge number of coding errors. Most of these were inconsequential, but some of them overturn central results for papers in high-ranking journals. Astra also discovered that many models weren&apos;t even run properly.
+
+🔗 [View original post](https://x.com/tunguz/status/2096602027904389585)
 
 ---
 

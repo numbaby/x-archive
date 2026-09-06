@@ -2,7 +2,138 @@
 
 ## 📅 September 06, 2026
 
-> 34 post(s) archived.
+> 54 post(s) archived.
+
+---
+
+### 🕐 14:01 UTC · @Wise1Philosophy
+
+> Your body will forgive you for: -Skipping the gym -Eating pizza -Sleeping poorly on the weekend -Losing motivation Your body WILL NOT forgive you for:
+
+🔗 [View original post](https://x.com/LevelUpPrime/status/2096599648366641439)
+
+---
+
+### 🕐 14:00 UTC · @Wise1Philosophy
+
+> wow.. AI agents can do animation for you now I used just GPT Image 2.0 and Seedance 2.0 to generate this perfect animation video. Step-by-step tutorial with prompts: 👇 Media
+
+🔗 [View original post](https://x.com/HeyAbhishek/status/2096599351498064120)
+
+---
+
+### 🕐 14:00 UTC · @Wise1Philosophy
+
+> Brad Gerstner is an investor in OpenAI, Anthropic and Google. On the All-In podcast, he shared the 8 rules he uses to price a company nobody can forecast: 1) He asked how a firm earning $13 billion promises $1.4 trillion Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2096599319868797358)
+
+---
+
+### 🕐 13:52 UTC · @Wise1Philosophy
+
+> THE OLDER YOU GET, THE MORE YOU NEED TO: 1. Not be fat
+
+![THE OLDER YOU GET, THE MORE YOU NEED TO: 1. Not be fat](../../../../assets/images/2026/08/26/2092626352595984550-1.png)
+
+🔗 [View original post](https://x.com/josh_uglyasf/status/2096597314601439239)
+
+---
+
+### 🕐 13:50 UTC · @Wise1Philosophy
+
+> HABITS I STOLE FROM WEALTHY PEOPLE 1. The One Phone Rule
+
+![HABITS I STOLE FROM WEALTHY PEOPLE 1. The One Phone Rule](../../../../assets/images/2026/09/06/2096596890876100627-1.png)
+
+🔗 [View original post](https://x.com/BeBetterMan_/status/2096596890876100627)
+
+---
+
+### 🕐 13:47 UTC · @Wise1Philosophy
+
+> Heart Attack = Blood sugar Heart Attack = Insulin resistance Heart Attack = No.1 killer worldwide. 5 simple rules to protect your heart: 1. Don&apos;t go pee at 3 AM Media
+
+🔗 [View original post](https://x.com/BeBetter_Athlet/status/2096596244852572606)
+
+---
+
+### 🕐 13:45 UTC · @Wise1Philosophy
+
+> follow this account to learn enterprise AI transformation: Implementing AI transformation is like upgrading an airplane’s engines mid-flight. You cannot land the plane to make this change because your customers are already on board, delivery schedules are locked, and no client will pay you to sit idle for six months during a complete reb…
+
+🔗 [View original post](https://x.com/alex_prompter/status/2096595683134275615)
+
+---
+
+### 🕐 13:40 UTC · @Wise1Philosophy
+
+> Your body is flooded with cortisol and you do not even realise it. These are the 9 signs that confirm it: 1. Waking between 2 and 4am Media
+
+🔗 [View original post](https://x.com/DPro_Coach/status/2096594444997066983)
+
+---
+
+### 🕐 13:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/06/2096591838010298475-1.jpg)
+
+🔗 [View original post](https://x.com/Mindsthatbuild/status/2096591838010298475)
+
+---
+
+### 🕐 13:21 UTC · @Wise1Philosophy
+
+> Stop telling Claude, &quot;do this.&quot; Stop telling Claude, &quot;write code.&quot; Stop telling Claude, &quot;fix this error.&quot; You&apos;re actually treating a senior AI like a junior intern. Here are 8 prompts you can copy and paste directly:
+
+🔗 [View original post](https://x.com/iam_chonchol/status/2096589625943027841)
+
+---
+
+### 🕐 13:18 UTC · @Wise1Philosophy
+
+> Just a heads up: Here is one of the more important AI search updates of 2026. If you want to continue showing up in ChatGPT, Claude, Google&apos;s AI family, etc - pay attention. A lot of site owners are going to misunderstand what is happening and play this wrong. Cloudflare is giving websites more control over AI bot traffic, which is good and appreciated in theory. That said, this also creates a new problem for businesses that still need to be discovered by Google, ChatGPT, Claude, Perplexity, Gemini, Grok and the rest of the AI search ecosystem. Let’s go through it. By the way, you can see whether your business is appearing across Google AI, ChatGPT, Claude, Perplexity and Grok here. It’s free: https://rightcited.com/ Cloudflare recently announced new AI traffic controls for website owners. The big change is that they are splitting AI traffic into three buckets: Search, Agent and Training. Search means a crawler is collecting or indexing your content so it can answer questions about it later. That is usually the traffic most businesses want to allow, because that is how customers find you. Agent means automated behavior acting on behalf of a person in real time. Think of an AI assistant, chatbot or browser agent visiting a page because a human asked it to get something done. Training means a crawler is taking your content to train or fine-tune a model. That is the one a lot of website owners are increasingly uncomfortable with, for obvious reasons. For years, the deal was pretty simple in that search engines crawled your site and you got traffic back. Obviously, that deal has since gotten much messier. AI systems can crawl content, summarize it, reuse it, answer questions with it and sometimes send very little back to the original website. So Cloudflare is trying to give site owners more control. The issue is that blocking AI bots isn&apos;t really as black and white as it sounds. A SaaS company probably wants AI search systems to understand its product, pricing, use cases, comparisons, documentation and customer proof. That does not mean the same SaaS company wants every training crawler absorbing its best content forever. An e-commerce company probably wants AI search systems to understand its product pages, category pages, pricing, availability, shipping, returns and reviews. That does not mean it wants every agent, scraper or training crawler hitting the site with no upside. A local business probably wants to be found everywhere customers are searching. That does not mean it should allow every automated visitor just because it calls itself AI. That is the tradeoff and this is where I think a lot of companies are going to mess this up. They will hear “block AI bots” and treat it like an obvious win, or they will hear “AI search visibility” and assume everything should stay open. Both don&apos;t really tell the full story. What needs to be addressed is which bots help customers find you, which bots help customers take action and which bots are just extracting value from your site. Cloudflare is making that question much more explicit. Starting September 15, Cloudflare says it will update default settings around these categories. Search remains allowed by default. Training and Agent traffic will be blocked by default on pages that display ads for new domains onboarding to Cloudflare. Existing customers can review the settings and opt out of the new defaults if they want to keep things as they are. The most important part, though, may be how Cloudflare handles multi-purpose crawlers. Cloudflare says some crawlers combine Search with Training. And when a crawler has multiple purposes, Cloudflare wants it treated according to all of those behaviors. The most restrictive rule can win. So if a site owner blocks Training, a crawler that combines Search and Training may get blocked too. That is where this becomes a real search visibility issue, because if your settings block the wrong crawler, you may also be making your business harder to find. If you don&apos;t know how to make sure you&apos;re checking the right boxes on this, let SEO Stuff (http://seo-stuff.com) help. That matters because a lot of businesses are already invisible in AI Search. And now some of those same businesses may accidentally block the systems that help them get discovered. Keep in mind, that does not mean every AI bot deserves access - a lot of them do not. But the strategy should definitely be more thoughtful than turning everything off. Allow the bots that create discovery. Be careful with the bots that only extract. Watch agent traffic differently from search indexing. Understand whether your content is being used for reference, summaries, reproduction or training. And make sure the pages that matter commercially can still be found. If you don&apos;t know how to do this, SEO Stuff (http://seo-stuff.com) can help. The businesses winning in Search and AI Search right now are winning from specific commercial pages that help customers make decisions. Best X for Y when Z if 123. Alternatives to X if Y and Z is 123. X vs Y for Z and 123. Pricing. Use cases. Industry pages. Implementation guides. Comparison pages. Product documentation. Case studies. Customer proof. Those are the pages that need to be accessible to the right systems. A company can have the best product page in the world, but if search and AI systems cannot crawl it, understand it and verify it across the web, it may not show up when buyers ask for recommendations. This is where SEO Stuff steps in. The done-for-you package combines 10 AI-search-optimized pieces of content with three DR50+ authority placements: https://seo-stuff.com/gold-plan-package The content helps your business cover the questions customers ask before buying, including problems, use cases, comparisons, pricing, alternatives, industries, objections, case studies, product details and implementation. The authority placements help your business show up across trusted sources that search and AI systems use to understand categories. And again, if you&apos;re curious about whether your business is appearing across Google AI, ChatGPT, Claude, Perplexity and Grok, you can check here. It’s free: https://rightcited.com/ A brand followed the advice in this article and generated more than $50,000 from ChatGPT, Google and Perplexity-driven traffic.
+
+![Just a heads up: Here is one of the more important AI search updates of 2026. If you want to continue showing up in ChatGPT, Claude, Google&apos;s AI family, etc - pay attention. A lot of site owners ](../../../../assets/images/2026/09/06/2096588906586402906-1.png)
+
+🔗 [View original post](https://x.com/alexgroberman/status/2096588906586402906)
+
+---
+
+### 🕐 13:01 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/06/2096584610129875327-1.jpg)
+
+🔗 [View original post](https://x.com/Life__Mastery/status/2096584610129875327)
+
+---
+
+### 🕐 12:59 UTC · @Wise1Philosophy
+
+> NVIDIA CEO Jensen Huang: “I really discourage 1-on-1s” He has 60 direct reports. Patrick Collison points out that nobody would call that best practice, and Jensen explains why he does it anyway: “I don’t do 1-on-1s, and almost everything I say, I say to everybody all the time. I don’t really believe there’s any information that I operate on that only one or two people should hear about… I believe that when you give everybody equal access to information, that empowers people. And so that’s number one… Number two, if the CEO’s direct staff is 60 people, the number of layers you’ve removed in a company is probably something like seven.” Patrick pushes back for the other side. Isn&apos;t the 1-on-1 where coaching happens, where careers get discussed, where you tell someone the thing they keep getting wrong? His answer is the part worth sitting with: “I give you feedback right there in front of everybody. In fact, this is a really big deal. First of all, feedback is learning. For what reason are you the only person who should learn this?… We should all learn from that opportunity… Half the time I’m not right, but for me to reason through it in front of everybody helps everybody learn how to reason through it. The problem I have with 1-on-1s and taking feedback aside is you deprive a whole bunch of people that same learning. Learning from other people’s mistakes is the best way to learn.” Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2096584024533966973)
+
+---
+
+### 🕐 12:49 UTC · @Wise1Philosophy
+
+> All Paid Courses (Free for First 4500 People) 𝗣𝗮𝗶𝗱 𝗖𝗼𝘂𝗿𝘀𝗲 𝗙𝗥𝗘𝗘 (PART - 1) 1. Artificial Intelligence 2. Machine Learning 3. Prompt Engineering 4. Claude,Chatgpt,Grok 5. Data Analytics 6. AWS Certified 7. Data Science 8. BIG DATA 9. Python 10. Ethical Hacking (72 Hours only ) Like + RT + comment &apos; Drive &apos; Must Follow me so I can DM you.
+
+![All Paid Courses (Free for First 4500 People) 𝗣𝗮𝗶𝗱 𝗖𝗼𝘂𝗿𝘀𝗲 𝗙𝗥𝗘𝗘 (PART - 1) 1. Artificial Intelligence 2. Machine Learning 3. Prompt Engineering 4. Claude,Chatgpt,Grok 5. Data Analytics 6. AWS Certified](../../../../assets/images/2026/09/06/2096581599894860173-1.png)
+
+🔗 [View original post](https://x.com/heyalexmoore/status/2096581599894860173)
+
+---
+
+### 🕐 12:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/06/2096576740986409335-1.jpg)
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2096576740986409335)
 
 ---
 
@@ -24,6 +155,15 @@
 
 ---
 
+### 🕐 11:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/06/2096561622068101363-1.jpg)
+
+🔗 [View original post](https://x.com/Daily__wisdom_/status/2096561622068101363)
+
+---
+
 ### 🕐 11:15 UTC · @Wise1Philosophy
 
 > 🚨 BREAKING: Google just launched free AI courses. No sign-up fees or prior skills required. Here are 10 courses you don&apos;t want to miss:
@@ -31,6 +171,15 @@
 ![🚨 BREAKING: Google just launched free AI courses. No sign-up fees or prior skills required. Here are 10 courses you don&apos;t want to miss:](../../../../assets/images/2026/09/06/2096557784024379895-1.jpg)
 
 🔗 [View original post](https://x.com/AndrewBolis/status/2096557784024379895)
+
+---
+
+### 🕐 11:01 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/06/2096554391893414207-1.jpg)
+
+🔗 [View original post](https://x.com/apex_mentality_/status/2096554391893414207)
 
 ---
 
@@ -47,6 +196,15 @@
 > https://x.com/i/article/2096542582159634433
 
 🔗 [View original post](https://x.com/charliejhills/status/2096550164278485292)
+
+---
+
+### 🕐 10:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/06/2096546482170089483-1.jpg)
+
+🔗 [View original post](https://x.com/yeti_mind/status/2096546482170089483)
 
 ---
 
@@ -80,6 +238,14 @@
 ![](../../../../assets/images/2026/09/06/2096531433594540082-1.jpg)
 
 🔗 [View original post](https://x.com/Ant_Philosophy/status/2096531433594540082)
+
+---
+
+### 🕐 09:17 UTC · @Wise1Philosophy
+
+> holy f*ck, what did I just read: Side Quests is my weekly field log from the trenches, covering, products, prototypes, launches, growth experiments, weird ideas, and whatever I’m currently trying to figure out. Subscribe for free now: https://sidequests.pascio.com/subscribe https://x.com/i/article/20965235139810…
+
+🔗 [View original post](https://x.com/xgrowthpascal/status/2096528210653520217)
 
 ---
 
@@ -259,6 +425,16 @@
 > Your resting heart rate tells the whole story. 95+ bpm, the heart is strained just to keep you alive. 90 bpm, sedentary and stressed. 80 bpm, the modern average. 1. What the numbers mean
 
 🔗 [View original post](https://x.com/ClaraBrooksjz/status/2096480516052783378)
+
+---
+
+### 🕐 06:03 UTC · @Wise1Philosophy
+
+> Most people don&apos;t have an information problem. They have a clarity problem. Too many half-done thoughts sitting inside ChatGPT or Claude. I&apos;ve been testing a simple workflow that turns all of that mess into something useful. ChatGPT + Gamma. Here&apos;s exactly how I use it: Step 1: Dump everything into ChatGPT. Rough notes. Random ideas. Open questions. Things I&apos;m still deciding on. No structure. No editing. Just get it out. Step 2: Ask this prompt: &quot;Organize this into the 3–5 most important themes. Tell me what matters, what can be ignored, what decisions need to be made, and what the next steps should be.&quot; That one prompt takes you from information → clarity. Step 3: Connect Gamma. ChatGPT → Settings → Apps → Gamma Then turn the final thinking into a visual one-pager. Now instead of 20 scattered notes, I have 1 clear document showing: → The themes that actually matter → The decisions I need to make → The next steps, in order Pick 1 project that&apos;s been sitting in your head. Dump everything about it into ChatGPT. Run the prompt above. Send the result to Gamma and turn it into a one-page visual. ♻️ Repost to share with your network. Thanks! Gamma Partner
+
+![Most people don&apos;t have an information problem. They have a clarity problem. Too many half-done thoughts sitting inside ChatGPT or Claude. I&apos;ve been testing a simple workflow that turns all o](../../../../assets/images/2026/09/06/2096479432567615847-1.jpg)
+
+🔗 [View original post](https://x.com/sufyanmaan/status/2096479432567615847)
 
 ---
 
