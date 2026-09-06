@@ -2,7 +2,31 @@
 
 ## 📅 September 06, 2026
 
-> 1 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 04:17 UTC · @tunguz
+
+> resumes ... skills ... jobs ... income ... crazy how in a few short years resumes become virtually irrelevant
+
+🔗 [View original post](https://x.com/tunguz/status/2096452598824051179)
+
+---
+
+### 🕐 04:12 UTC · @tunguz
+
+> I feel seen. Marry someone you’d enjoy running a small, poorly funded summer camp with. That’s most of the job.
+
+🔗 [View original post](https://x.com/tunguz/status/2096451476809986401)
+
+---
+
+### 🕐 04:11 UTC · @tunguz
+
+> This will be a September to remember.
+
+🔗 [View original post](https://x.com/tunguz/status/2096451257489924434)
 
 ---
 
