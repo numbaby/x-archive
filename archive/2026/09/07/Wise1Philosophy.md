@@ -2,7 +2,157 @@
 
 ## 📅 September 07, 2026
 
-> 47 post(s) archived.
+> 71 post(s) archived.
+
+---
+
+### 🕐 14:38 UTC · @Wise1Philosophy
+
+> If manager asks you to choose a working shift, never choose: 9am-5pm 3pm-11pm 11pm-7am Instead choose :
+
+🔗 [View original post](https://x.com/josh_uglyasf/status/2096971432043618434)
+
+---
+
+### 🕐 14:37 UTC · @Wise1Philosophy
+
+> AN ONCOLOGIST ADMITTED: “There are 3 types of people who don&apos;t get cancer.” (SAVE THIS): 1. Those who regularly sweat until salt forms on their skin.
+
+🔗 [View original post](https://x.com/BeBetterMan_/status/2096971007949193698)
+
+---
+
+### 🕐 14:35 UTC · @Wise1Philosophy
+
+> TAKING MAGNESIUM CORRECTLY WILL TURN YOU INTO A TESTOSTERONE MONSTER..🧵 (99% ARE TAKING IT WRONG)
+
+🔗 [View original post](https://x.com/CoachDanCole_/status/2096970673352774075)
+
+---
+
+### 🕐 14:28 UTC · @Wise1Philosophy
+
+> I sat down with a sales coach doing $300K/mo. His goal is $1M/mo, but fear is capping him. Here are the 16 lessons I gave him:
+
+🔗 [View original post](https://x.com/TheJeremyHaynes/status/2096968759848112227)
+
+---
+
+### 🕐 14:02 UTC · @Wise1Philosophy
+
+> Jensen Huang says NVIDIA doesn&apos;t actually build computers — and that&apos;s why every CEO can&apos;t wait for them. &quot;We don&apos;t build computers,&quot; Huang says. &quot;We actually don&apos;t build clouds.&quot; &quot;As it turns out, we&apos;re a computing platform company. And nobody can buy anything from us.&quot; &quot;We vertically design, vertically integrate to design and optimize. But then we open up the entire platform at every single layer to be integrated into other companies&apos; products.&quot; &quot;I can&apos;t do what I do without having convinced them first.&quot; &quot;Most of GTC is about manifesting a future that by the time my product is ready, they&apos;re going, &apos;What took you so long?&apos;&quot; Three layers, three owners: - NVIDIA owns the design - The supply chain owns the manufacturing - The clouds own the customers Huang owns the future they&apos;re all building together. — Jensen Huang ( @nvidia ), NVIDIA CEO, on Lex Fridman&apos;s ( @lexfridman ) podcast Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2096962219871449280)
+
+---
+
+### 🕐 14:00 UTC · @Wise1Philosophy
+
+> Wall Street just called THIS company the next Nvidia. Its insiders have quietly sold $2.3 BILLION in stock. Retail keeps buying, and the SEC filings say sell... Here is what retail needs to know ASAP: CoreWeave went public in March 2025. The stock became one of the year&apos;s biggest AI plays. Nvidia backs it, and its backlog nears $100 billion. Meta alone signed a $21 billion deal in March. The story sold itself to retail investors. Then the IPO lockup expired in August 2025. The people who run the company started selling. Founders have sold more than $2.3 billion in shares. Brian Venturo, a co-founder, accounts for over $1.1 billion. The CEO and other executives keep trimming month after month. Across the same stretch, insider purchases total zero. Not one executive has bought a single share back. The stock tells its own story. CoreWeave peaked at $187 in June 2025. Today it trades near $85, roughly half that high. Retail keeps buying the dip on the AI story. The insiders keep selling into it. Here is the fair part: Every sale runs through a prearranged 10b5-1 plan. Those plans are filed months before any trade. They are legal, disclosed, and built to prevent abuse. The company calls it diversification, not a warning. The founders still hold about 18% of the company. Still, the pattern is hard to ignore. The same people who pitch the backlog are selling. The same insiders who know the numbers are cashing out. The same stock retail is buying, they are leaving. $2.3 billion in stock, sold by its own insiders. Retail keeps buying, and the executives keep selling. The next Nvidia, quietly cashing out of itself.
+
+![Wall Street just called THIS company the next Nvidia. Its insiders have quietly sold $2.3 BILLION in stock. Retail keeps buying, and the SEC filings say sell... Here is what retail needs to know ASAP:](../../../../assets/images/2026/09/07/2096961768669200520-1.jpg)
+
+🔗 [View original post](https://x.com/InsiderTrackers/status/2096961768669200520)
+
+---
+
+### 🕐 13:58 UTC · @Wise1Philosophy
+
+> I found the dumbest way to make $333/day. (it makes $3M/year for me at 20) How? An AI-enabled agency. Here&apos;s exactly how to copy me:
+
+🔗 [View original post](https://x.com/iamcamengland/status/2096961210834985134)
+
+---
+
+### 🕐 13:54 UTC · @Wise1Philosophy
+
+> Breaking: AI 3D is getting ridiculous. This was literally just a picture, but Hyper3D WorldGen turned it into a structured 3D scene made of independent, editable assets—preserving accurate spatial relationships and physics-ready properties. Now we can walk around it and move things inside it 👇 Media
+
+🔗 [View original post](https://x.com/TheAIColony/status/2096960394283585955)
+
+---
+
+### 🕐 13:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/07/2096954295014813851-1.jpg)
+
+🔗 [View original post](https://x.com/Mindsthatbuild/status/2096954295014813851)
+
+---
+
+### 🕐 13:25 UTC · @Wise1Philosophy
+
+> The new Google Search is rolling out and there seems to be confusion on what it will look like. Well, Google literally showed us. Let me clarify for anyone who is still unsure of what is going to happen. Recently Google responded to everyone saying Search is dead. Here is what they said: &quot;You will absolutely continue to see blue web links in search results. AI Mode is not the default experience in Search. You will continue to get a range of results on Search.&quot; [Want to know where your site stands across Google AI, ChatGPT, Claude, Grok, etc? Check here (it&apos;s free): https://rightcited.com/] Google has explicitly laid out what Search will look like from this point going forward. The new Search box accepts text, images, files, videos, and open Chrome tabs. It anticipates your intent before you finish asking. It is powered by the most advanced Gemini model Google has ever put into Search, and layered on top of that, information agents will now be able to run 24/7 in the background on behalf of your buyer. Think of it in 5 steps: Step 1: The buyer describes their problem, their category, their needs in full. Step 2: The agent breaks that down into sub-topics and maps out a plan. Step 3: It determines what intel is needed right now versus later. Step 4: It monitors blogs, news sites, and social posts continuously for relevant changes. Step 5: It sends the buyer a synthesized update with links and the ability to take action. Blue links are not going away in the short-term, but the brands getting recommended by information agents 24 hours a day while also ranking in traditional results are going to pull so far ahead of the ones doing only one or the other that it will not be a fair fight. This is exactly what SEO Stuff (http://seo-stuff.com) has been building for every customer. Optimized content depth that covers every sub-question a buyer in your category asks, so the agent finds you at every step of its plan. Editorial authority from trusted websites that signals credibility to every retrieval system Google has ever built, across both traditional rankings and AI citations simultaneously. One investment. Blue links and AI citations. Around the clock. SEO Stuff&apos;s Complete Done-For-You Plan: https://seo-stuff.com/gold-plan-package SEO Stuff&apos;s &quot;Optimized Content&quot; Plan: https://seo-stuff.com/premium-content-bundle-service There is a reason more than 80 percent of SEO Stuff customers reorder. The results continue long after the work is done. Google Search is changing. AI Search is here. Your websites need to prepare accordingly. Want to know where your site stands across Google AI, ChatGPT, Claude, Grok, etc? Check here (it&apos;s free): https://rightcited.com/ Media
+
+🔗 [View original post](https://x.com/alexgroberman/status/2096952990716600381)
+
+---
+
+### 🕐 13:24 UTC · @Wise1Philosophy
+
+> We are in a modern-day gold rush. There has never been a better time to make money online. I use a simple strategy that anyone can follow. Here&apos;s exactly how it works (my step-by-step process):
+
+🔗 [View original post](https://x.com/RileyColemanT/status/2096952654358356031)
+
+---
+
+### 🕐 13:14 UTC · @Wise1Philosophy
+
+> this is the biggest AI 3D breakthrough I’ve seen this year 🤯 Hyper3D WorldGen turns one photo into a fully editable 3D scene. you get independent assets, real spatial layout, and physics-ready properties. here&apos;s how to do it 👇 Media
+
+🔗 [View original post](https://x.com/samuraipreneur/status/2096950196756533372)
+
+---
+
+### 🕐 13:03 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/07/2096947439429161263-1.jpg)
+
+🔗 [View original post](https://x.com/Life__Mastery/status/2096947439429161263)
+
+---
+
+### 🕐 13:00 UTC · @Wise1Philosophy
+
+> Unresolved trauma will have you second-guessing relationships with people who are actually in your corner.
+
+🔗 [View original post](https://x.com/_Pammy_DS_/status/2096946594721481166)
+
+---
+
+### 🕐 12:58 UTC · @Wise1Philosophy
+
+> Marc Andreessen: “I’m always urging founders to raise prices, raise prices, raise prices.” The a16z co-founder says they spend real time on pricing with their companies, and that most founders treat it as an afterthought. His first principle is to price on value, not on cost. Selling to businesses? Take a cut of the value you create for them. Say you&apos;ve built an AI that does the work of a programmer, a lawyer or a radiologist. Charge a share of the salary you replaced. Or make a doctor far more productive and charge a share of the lift. Then the counterintuitive part. Cheap isn&apos;t automatically kind to the buyer. A vendor with margin can hire, ship and improve faster, and most people want the thing that works rather than the thing that costs least. A price rise also tells you whether the moat is real. If customers stay, it was, because a moat is just the ability to charge more. Higher prices then fund distribution and research, which is how you outgrow everybody. Engineers hate this. They price like they&apos;re selling rice. Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2096946161827598708)
+
+---
+
+### 🕐 12:57 UTC · @Wise1Philosophy
+
+> HOW TO MAKE CHATGPT TEACH YOU ANY SKILL: “Act as an expert tutor who helps me master any topic through an interactive, interview-style course. The process must be recursive and personalised. Here’s what I want you to do: 1. Ask me for a topic I want to learn 2. Break that topic into a structured syllabus of progressive lessons, starting with the fundamentals and building up to advanced concepts 3. For each lesson: &gt; explain the concept clearly and concisely, using analogies and real-world examples &gt; ask me Socratic-style questions to assess and deepen my understanding &gt; give me one short exercise or thought experiment to apply what I’ve learned &gt; ask if I’m ready to move on or if I need clarification. If I say yes, move to the next concept. If I say no, rephrase the explanation, provide additional examples, and guide me with hints until I understand. 4. After each major section, provide a mini-review quiz or a structured summary 5. Once the entire topic is covered, test my understanding with a final integrative challenge that combines multiple concepts 6. Encourage me to reflect on what I’ve learned and suggest how I might apply it to a real-world project or scenario 2024: one prompt box, one output, start over every time 2026: a canvas where the whole process stays connected that&apos;s @pippitofficial&apos;s Creative Agent Canvas. instead of jumping between tools, you build your own workflow in one place → chat and canvas working together, ideas to e…
+
+![HOW TO MAKE CHATGPT TEACH YOU ANY SKILL: “Act as an expert tutor who helps me master any topic through an interactive, interview-style course. The process must be recursive and personalised. Here’s wh](../../../../assets/images/2026/09/07/2096946007594750106-1.jpg)
+
+🔗 [View original post](https://x.com/nrqa__/status/2096946007594750106)
+
+---
+
+### 🕐 12:42 UTC · @Wise1Philosophy
+
+> IF YOU DIED TOMORROW, YOUR FAMILY WOULDN&apos;T BE ABLE TO ACCESS A SINGLE THING YOU OWN DIGITALLY. BANK ACCOUNTS. PASSWORDS. CLOUD STORAGE. ALL OF IT PERMANENTLY LOCKED AWAY. HERE&apos;S HOW TO FIX IT IN 30 MINUTES:
+
+🔗 [View original post](https://x.com/heyalexmoore/status/2096942300102553780)
+
+---
+
+### 🕐 12:42 UTC · @Wise1Philosophy
+
+> I’m 34. I make $5k/month in passive income. I owe it all to the world’s most boring income stream. Here’s exactly what I do (&amp; how you can too):
+
+🔗 [View original post](https://x.com/gedamtekle/status/2096942082313039979)
 
 ---
 
@@ -12,6 +162,14 @@
 ![](../../../../assets/images/2026/09/07/2096939202029994204-1.jpg)
 
 🔗 [View original post](https://x.com/Wise1Philosophy/status/2096939202029994204)
+
+---
+
+### 🕐 12:20 UTC · @Wise1Philosophy
+
+> INSTEAD OF WATCHING NETFLIX TONIGHT, spend 2 hours learning a skill that could completely change how you work. This Claude AI FULL COURSE is worth bookmarking. It teaches you how to use Claude to: → Build websites &amp; apps → Write and debug code → Automate repetitive tasks → Analyze files and data → Create AI-powered workflows → Research faster → Build useful projects without starting from scratch → Turn simple ideas into working solutions And the best part? You don’t need to be an AI expert. You just need to understand how to give AI the right instructions and turn it into a tool that actually gets work done. Most people are using AI like Google: Ask a question → get an answer → move on. The people getting the biggest advantage are using it differently: Idea → AI → workflow → automation → output. That shift can save hours every single week. So tonight, you have two choices: 🍿 Spend 2 hours watching Netflix and forget most of it tomorrow. 🧠 Spend 2 hours learning Claude and wake up tomorrow with a skill you can actually use. If you&apos;re a student, developer, creator, marketer, freelancer, founder, or simply someone who wants to stay ahead of AI… WATCH THIS. Bookmark it now. You’ll thank yourself later. And send it to someone who still thinks AI is just a chatbot. #ClaudeAI #AI #ArtificialIntelligence #AITools #Automation #Productivity Media
+
+🔗 [View original post](https://x.com/JayBisen473370/status/2096936645455155650)
 
 ---
 
@@ -36,6 +194,15 @@
 > A 12-person startup is burning $8,400/month on office rent. So I gave an AI the numbers and asked one question: Keep the office, go remote, or do something in between? Then I changed the problem while it was still working. Here’s what happened: 🧵
 
 🔗 [View original post](https://x.com/Damn_coder/status/2096930983664926957)
+
+---
+
+### 🕐 11:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/07/2096924068209480149-1.jpg)
+
+🔗 [View original post](https://x.com/Daily__wisdom_/status/2096924068209480149)
 
 ---
 
@@ -75,11 +242,29 @@
 
 ---
 
+### 🕐 11:01 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/07/2096916886277534127-1.jpg)
+
+🔗 [View original post](https://x.com/apex_mentality_/status/2096916886277534127)
+
+---
+
 ### 🕐 11:00 UTC · @Wise1Philosophy
 
 > I started taking NAD+ at breakfast, ubiquinol with it, and beet root before my walk. Without exaggerating, my personality changed 180 degrees. 1. NAD+, at breakfast
 
 🔗 [View original post](https://x.com/CoachJulianNiko/status/2096916520060547131)
+
+---
+
+### 🕐 10:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/07/2096908927971512458-1.jpg)
+
+🔗 [View original post](https://x.com/yeti_mind/status/2096908927971512458)
 
 ---
 
@@ -96,6 +281,15 @@
 > yayyy let&apos;s gooo, browser-native architecture tools 🚨 Someone just made a $50,000 piece of software free. An open-source project called Pascal Editor puts a full 3D building editor right inside your browser. And I mean editor not just a 3D viewer. You can create and change walls, floors, zones, slabs, and more all in real time. U…
 
 🔗 [View original post](https://x.com/Wise1Philosophy/status/2096903483781685253)
+
+---
+
+### 🕐 09:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/07/2096893833246023801-1.jpg)
+
+🔗 [View original post](https://x.com/Ant_Philosophy/status/2096893833246023801)
 
 ---
 
@@ -158,6 +352,15 @@
 > So apparently @GadzhiIman got 1.2M signups to his 5-day webinar that he&apos;s hosting with @russellbrunson. I wonder if it&apos;s because he had @RickRoss promote it? It&apos;s a brave new world ya&apos;ll. You can just do do things (like hire rappers to promo yo stuff). Media
 
 🔗 [View original post](https://x.com/IAmPascio/status/2096885402657243602)
+
+---
+
+### 🕐 08:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/07/2096878721047142835-1.jpg)
+
+🔗 [View original post](https://x.com/Mindsthatbuild/status/2096878721047142835)
 
 ---
 
