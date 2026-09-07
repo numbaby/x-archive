@@ -2,7 +2,7 @@
 
 ## 📅 September 07, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
 
 ---
 
@@ -23,5 +23,15 @@
 ![Fascinating paper from Anthropic and colleagues. They study whether models can tell when they are being tested. It turns out that capable models can tell when they are being tested rather than deploye](../../../../assets/images/2026/09/07/2096782512119001119-1.png)
 
 🔗 [View original post](https://x.com/dair_ai/status/2096782512119001119)
+
+---
+
+### 🕐 02:00 UTC · @dair_ai
+
+> Super interesting paper on proactive agents from Google DeepMind. (bookmark it) Proactive assistance usually means autocomplete. Researchers asks what it looks like when an agent offers higher-level cognitive support and picks its own moment to speak. They built a probe and deployed it with 16 participants for a week. Writers create partners by configuring a role and a proactivity level, and relevant partners then take initiative as the writing happens. Three findings stand out: &gt; Participants configured support prospectively, planning for situations they anticipated rather than reacting to interruptions. &gt; They used suggestions for idea generation and also for self-monitoring, which is a purpose proactive tools rarely design for. &gt; And they judged intrusiveness by presentation, valuing lightweight visual representation and non-directive rhetorical framing. The design implications cover customization, timing, engagement and representation. Worth reading if you are building an assistant that acts before being asked, because how the intervention is phrased mattered to users as much as when it arrived. Paper: https://academy.dair.ai/papers/designing-proactive-thought-partners-for-writing-2609.01588
+
+![Super interesting paper on proactive agents from Google DeepMind. (bookmark it) Proactive assistance usually means autocomplete. Researchers asks what it looks like when an agent offers higher-level c](../../../../assets/images/2026/09/07/2096780509540139364-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2096780509540139364)
 
 ---

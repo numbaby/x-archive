@@ -2,7 +2,40 @@
 
 ## 📅 September 07, 2026
 
-> 43 post(s) archived.
+> 47 post(s) archived.
+
+---
+
+### 🕐 12:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/07/2096939202029994204-1.jpg)
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2096939202029994204)
+
+---
+
+### 🕐 12:10 UTC · @Wise1Philosophy
+
+> If you want to make money with AI: • Don&apos;t build an app • Don&apos;t start an agency • Don&apos;t use a trading bot Start a faceless Instagram page and let AI run it for you. Here&apos;s exactly how it works:
+
+🔗 [View original post](https://x.com/erichustls/status/2096934030625095826)
+
+---
+
+### 🕐 12:01 UTC · @Wise1Philosophy
+
+> The company behind your COVID vaccine just scored a win against cancer. Its stock went up almost 200% in a single day! One year ago, it had crashed more than 90%.. Then ONE trial added $45 BILLION to its value. Here&apos;s the real reason behind this explosion: Moderna built its entire company on one vaccine. That vaccine was for COVID. When the pandemic faded, so did the demand. Sales collapsed, and the stock followed. By 2025, it had fallen from over 400 dollars to under 30. Wall Street had mostly stopped paying attention. The company still had one thing left to prove. Its mRNA technology could work on more than one virus. For years it had been testing that idea on cancer. Melanoma is one of the deadliest forms of skin cancer. More than 230,000 people will be diagnosed with it this year. Moderna and Merck built a vaccine made for each patient&apos;s own tumor. Paired with an existing drug, it aimed to stop the cancer returning. In August, the trial results came in. The combination cut the risk of the cancer returning or spreading. It was the first positive late-stage result for an mRNA cancer treatment. That is the headline everyone read. Here is the part fewer people noticed: Merck is a 333 billion dollar company. This single drug is one of dozens in its pipeline. Moderna, before the announcement, was worth about 25 billion dollars total. For Merck, this was good news. For Moderna, this was the entire company&apos;s future arriving at once. That is why one stock moved 12 percent, and the other 177. The size of the reaction was not about the drug. It was about how much of the company depended on it. Someone was on the right side of this before the headline hit. Some investors held Moderna all the way to the bottom. They were not doing it for comfort. They were betting the technology had a future beyond one vaccine. Most people who bought Moderna during the pandemic sold long before this. They watched it collapse and walked away from the story. The ones still holding on August 19 were paid for staying. This is not really a story about one drug trial. It is about what happens when a stock is priced for zero. When a market gives up on a company, good news hits harder. There is no expectation left to disappoint. Every surprise is pure upside. That is a different game than a company like Merck. Merck was already priced for success, so success barely moved the needle. Moderna was priced for failure, so a single win changed everything. You will not see this kind of move very often. It requires a stock that has been left for dead. And news big enough to change the entire story at once. The traders who understood this were not reading the vaccine data. They were reading the balance sheet and the size of the bet. The signal was in how much room there was to be surprised. Retail investors watched the crash and moved on. The ones who stayed got paid for a bet others abandoned. That&apos;s the whole game. Surmount builds rules-based strategies that trade the filings instead of the headlines. Media
+
+🔗 [View original post](https://x.com/LogWeaver/status/2096931808118198747)
+
+---
+
+### 🕐 11:58 UTC · @Wise1Philosophy
+
+> A 12-person startup is burning $8,400/month on office rent. So I gave an AI the numbers and asked one question: Keep the office, go remote, or do something in between? Then I changed the problem while it was still working. Here’s what happened: 🧵
+
+🔗 [View original post](https://x.com/Damn_coder/status/2096930983664926957)
 
 ---
 
