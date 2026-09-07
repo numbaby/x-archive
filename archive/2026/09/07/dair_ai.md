@@ -2,7 +2,45 @@
 
 ## 📅 September 07, 2026
 
-> 5 post(s) archived.
+> 9 post(s) archived.
+
+---
+
+### 🕐 21:00 UTC · @dair_ai
+
+> Really strong benchmark paper on coding agents. Claude Opus 5 running under Claude Code passes 23.9% of the evaluations. An expert human reference scores 82.2%. Here is what the task actually is. The developer agent is dropped into a client engagement. It gets the records a business really keeps, a client who holds the requirements and will answer questions, a production API that operations has to run through, an inherited codebase, and hard limits on serving cost and model choice. From that it has to deliver a working customer service agent. The score comes from deploying the agent it built against held-out simulated users. 53 tasks across four domains. The failures look familiar to anyone who has done this work. The models query the business records shallowly instead of reading them properly. They tell the client almost nothing. They experiment very little with agent architecture or serving spend, and ship the first design that runs. Existing coding benchmarks score a patch. This one scores whether an agent can do the cooperative part of the job. Paper: https://academy.dair.ai/papers/bench-an-environment-for-end-to-end-realistic-agent-construction-2609.04611
+
+![Really strong benchmark paper on coding agents. Claude Opus 5 running under Claude Code passes 23.9% of the evaluations. An expert human reference scores 82.2%. Here is what the task actually is. The ](../../../../assets/images/2026/09/07/2097067454883328053-1.png)
+
+🔗 [View original post](https://x.com/dair_ai/status/2097067454883328053)
+
+---
+
+### 🕐 20:29 UTC · @dair_ai
+
+> A few days ago, Anthropic shared this brilliant prompt. I was surprised by how it significantly improved writing with Fable 5.1. Even more surprising, it also improved writing for GPT-5.6 Sol. I have it as a rule everywhere I use AI for editing/writing.
+
+![A few days ago, Anthropic shared this brilliant prompt. I was surprised by how it significantly improved writing with Fable 5.1. Even more surprising, it also improved writing for GPT-5.6 Sol. I have ](../../../../assets/images/2026/09/07/2097059598960132110-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2097059598960132110)
+
+---
+
+### 🕐 18:00 UTC · @dair_ai
+
+> // From Language Models to World-Acting Systems // A critical review of agentic AI, and a framework that is genuinely useful for deciding how much authority to hand an agent. Here is how it works. The review separates three things the field routinely treats as one. Model competence, harness integration, and the authority a deployment actually grants are pulled apart and assessed separately. Evidence gets organized along delegated authority, temporal persistence and environmental coupling, and the model, the harness and the environment stay distinct when a result is attributed. The finding across the papers examined is that expansion of action interfaces is documented far more convincingly than robust completion, recovery, authorization or independent verification. MCP and Agent2Agent improve interoperability without establishing that delegation is trustworthy. Multi-agent organization buys specialization along with cost and correlated failure. Paper: https://academy.dair.ai/papers/from-language-models-to-world-acting-systems-progress-and-limits-of-agentic-ai-a-2609.04894
+
+![// From Language Models to World-Acting Systems // A critical review of agentic AI, and a framework that is genuinely useful for deciding how much authority to hand an agent. Here is how it works. The](../../../../assets/images/2026/09/07/2097022152088445034-1.png)
+
+🔗 [View original post](https://x.com/dair_ai/status/2097022152088445034)
+
+---
+
+### 🕐 17:08 UTC · @dair_ai
+
+> Testing GPT-6 Astra on visualizing popular AI papers. Started with this beautifully generated interactive version of the Transformer paper. This unlocks new ways to explore research. Media
+
+🔗 [View original post](https://x.com/omarsar0/status/2097009154963419528)
 
 ---
 

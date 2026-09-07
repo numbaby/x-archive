@@ -2,7 +2,25 @@
 
 ## 📅 September 07, 2026
 
-> 1 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 17:06 UTC · @theendeavorpath
+
+> Dear men: Your future self will live with the habits you choose today. 1. “But I like drinking”
+
+![Dear men: Your future self will live with the habits you choose today. 1. “But I like drinking”](../../../../assets/images/2026/09/07/2097008569434689548-1.jpg)
+
+🔗 [View original post](https://x.com/EnergyUp_/status/2097008569434689548)
+
+---
+
+### 🕐 16:12 UTC · @theendeavorpath
+
+> She literally explained how to stop ruminating and take action instead. Media
+
+🔗 [View original post](https://x.com/thewisepathh/status/2096994975989026919)
 
 ---
 

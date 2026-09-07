@@ -2,7 +2,65 @@
 
 ## 📅 September 07, 2026
 
-> 4 post(s) archived.
+> 11 post(s) archived.
+
+---
+
+### 🕐 20:38 UTC · @tunguz
+
+> The main difference between blockchain and fiat currencies is that the blockchain ones are far more centralized and opaque than the fiat ones.
+
+🔗 [View original post](https://x.com/tunguz/status/2097062024547307772)
+
+---
+
+### 🕐 20:35 UTC · @tunguz
+
+> I can’t even begin to imagine what 2028 is gonna look like.
+
+🔗 [View original post](https://x.com/tunguz/status/2097061244926845384)
+
+---
+
+### 🕐 19:58 UTC · @tunguz
+
+> If you are into reading text, pivot to reading vectors in the latent space.
+
+🔗 [View original post](https://x.com/tunguz/status/2097051780496625807)
+
+---
+
+### 🕐 18:30 UTC · @tunguz
+
+> Touch trees.
+
+![Touch trees.](../../../../assets/images/2026/09/07/2097029798287769708-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2097029798287769708)
+
+---
+
+### 🕐 18:01 UTC · @tunguz
+
+> AI is essentially Autism-as-a-Service: AaaS.
+
+🔗 [View original post](https://x.com/tunguz/status/2097022388970074342)
+
+---
+
+### 🕐 17:03 UTC · @tunguz
+
+> She’s a ten but she is always being real.
+
+🔗 [View original post](https://x.com/tunguz/status/2097007789151605068)
+
+---
+
+### 🕐 15:58 UTC · @tunguz
+
+> The thought that the fate of human civilization is currently in the hands of a handful of people who believe that San Francisco is the pinnacle of human civilization is downright depressing.
+
+🔗 [View original post](https://x.com/tunguz/status/2096991411766022615)
 
 ---
 

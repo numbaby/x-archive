@@ -2,7 +2,179 @@
 
 ## 📅 September 07, 2026
 
-> 83 post(s) archived.
+> 103 post(s) archived.
+
+---
+
+### 🕐 19:40 UTC · @Wise1Philosophy
+
+> Decades of observation reveal a pattern in those who break free. For anyone feeling trapped by the &quot;good life&quot;: The existence you want requires the demolition of the one you have. Here are 9 principles for a controlled burn. 🔥
+
+![Decades of observation reveal a pattern in those who break free. For anyone feeling trapped by the &quot;good life&quot;: The existence you want requires the demolition of the one you have. Here are 9](../../../../assets/images/2026/09/07/2097047286497132895-1.jpg)
+
+🔗 [View original post](https://x.com/Claritysteps/status/2097047286497132895)
+
+---
+
+### 🕐 18:42 UTC · @Wise1Philosophy
+
+> this is a very exciting start for robotic foundation models 👀 Action Intelligence builds robotic foundation models. Our first chapter starts with humans. Chapter 01 / FOR HUMAN Continuo. Intelligence that stays with you. See it live at #ECCV. Sep 10–12 · Booth #44 @eccvconf
+
+🔗 [View original post](https://x.com/DataChaz/status/2097032722438869093)
+
+---
+
+### 🕐 18:40 UTC · @Wise1Philosophy
+
+> ONE OF THE BIGGEST CHANGES IN AI FILMMAKING MAY BE HAPPENING BEFORE THE FIRST FRAME IS GENERATED. 3D blocking used to be mainly a pre-production tool. Now it can become part of the AI generation process. #GPT6Astra #CapCutPC Media
+
+🔗 [View original post](https://x.com/Polanco_IA/status/2097032371371720885)
+
+---
+
+### 🕐 18:28 UTC · @Wise1Philosophy
+
+> HONESTLY, THIS IS HOW I WANT AI VIDEO TOOLS TO WORK TOGETHER. Not one model trying to do everything. One stage understands the space. One stage turns the scene into video. Then the creator gets to shape the result. GPT-6 Astra handles the spatial planning, including the 3D environment and Viewport-based camera + character paths. I manually bring that scene into CapCut PC, use Seedance 2.5 for the render, then keep working on the footage in CapCut PC. That last part matters. Because a generated clip isn&apos;t necessarily a finished video. The more interesting future might be AI helping across the entire filmmaking pipeline while the creator still decides what the final piece should be. And this is definitely one of those workflows I&apos;d want to try hands-on in CapCut PC. #CapCutPC #GPT6Astra #AIVideo #Seedance25 Media
+
+🔗 [View original post](https://x.com/Alex_Inspira/status/2097029333936423031)
+
+---
+
+### 🕐 18:27 UTC · @Wise1Philosophy
+
+> IT IS GENUINELY PAINFUL TO WATCH FABLE 5.1 GET CRUSHED BY ASTRA LIKE THIS Every single benchmark comparing these two models ends in a bloodbath for Anthropic. Watching GPT 6 Astra and Claude Fable 5.1 attempt a Porsche 911 GT3 RS in Blender proves it. GPT-6 produced a surgically precise model. Fable produced a blocky retro toy. &gt; Astra billed $132.03 for 2.5 hrs &gt; Fable billed $114.41 for the same time Seriously.. paying an extra 18$ to avoid looking like a geometry amateur is a bargain 😅 Media GPT-6 Astra smokes Claude Fable 5.1 in Blender 💨 We compared GPT-6 Astra and Fable 5.1 on a Porsche 911 GT3 RS build and the difference is visible from the very first shot Output: Astra: $132.03 • 2.58 hours Fable: $114.41 • 2.56 hours Astra&apos;s model is not only more detailed in …
+
+🔗 [View original post](https://x.com/DataChaz/status/2097029031371981210)
+
+---
+
+### 🕐 18:11 UTC · @Wise1Philosophy
+
+> This is wild 🔥 An infinite interactive stream powered by GPT-6 Astra and Higgsfield. This might be the first time a creator goes to sleep while their AI keeps the stream going. This is my last stream as a human being. i&apos;ll explain when it&apos;s over first Al streamer in the world and it&apos;s me. this stream will never end. going to bed now. don&apos;t make me do anything that can jail me. powered by GPT-6 Astra and @higgsfield.ai live on Kick.
+
+🔗 [View original post](https://x.com/HeyAbhishek/status/2097025051422060661)
+
+---
+
+### 🕐 17:40 UTC · @Wise1Philosophy
+
+> TACA APPLICATIONS ARE OPEN! 👀🐝 Have you been wanting to learn AI but don’t know where to start? Or wondering how AI can fit into the skill you already have? We’ve got four courses waiting for you: ✅ AI for Product Management ✅ AI Automation ✅ AI for Software Engineering ✅ AI for Marketing 8 weeks. 16 sessions. *Fully funded.* Ready to get started? Apply here: https://theaicolonyacademy.com/?v=2 Applications close 21st September
+
+![TACA APPLICATIONS ARE OPEN! 👀🐝 Have you been wanting to learn AI but don’t know where to start? Or wondering how AI can fit into the skill you already have? We’ve got four courses waiting for you: ✅ A](../../../../assets/images/2026/09/07/2097017248288243896-1.jpg)
+
+🔗 [View original post](https://x.com/AIColonyAcademy/status/2097017248288243896)
+
+---
+
+### 🕐 17:26 UTC · @Wise1Philosophy
+
+> The part I like most? You don&apos;t have to rebuild the shot just to render it. Turns out GPT-6 Astra + Dreamina Seedance 2.5 is an actual pipeline. Astra codes the geometry → Blender → Clay Renderer Plugin → final render on Dreamina. With Dreamina&apos;s Clay Renderer Plugin, your Blender clay model goes directly into Dreamina. Your existing camera and composition stay as the foundation, while Seedance 2.5 handles the visual styling. You&apos;re not paying a separate fee for connecting the tools. #Dreamina #DreaminaPartner Media
+
+🔗 [View original post](https://x.com/darshal_/status/2097013711441637397)
+
+---
+
+### 🕐 17:03 UTC · @Wise1Philosophy
+
+> For complex AI video, maybe the most important prompt is the one you don’t write. If the environment, camera and character positions are already established spatially, the model has a much clearer structure to work from. That’s the idea behind using GPT-6 Astra for 3D scene planning and Viewport-controlled movement. I then manually bring the scene into CapCut PC, use Seedance 2.5 to generate the video, and continue editing in CapCut PC. Maybe the future of AI filmmaking is less about describing every detail and more about defining the world first. #CapCutPC #GPT6Astra #AIVideo #Seedance25 Media
+
+🔗 [View original post](https://x.com/socialwithaayan/status/2097007833250480245)
+
+---
+
+### 🕐 16:33 UTC · @Wise1Philosophy
+
+> A startup called Subsense wants to connect your brain to a computer by having you snort specially designed nanoparticles. They&apos;ve raised $27 million and are already testing it on mice. Elon Musk drills a hole in your skull. These guys just want you to do a line. Competition breeds innovation.
+
+![A startup called Subsense wants to connect your brain to a computer by having you snort specially designed nanoparticles. They&apos;ve raised $27 million and are already testing it on mice. Elon Musk ](../../../../assets/images/2026/09/07/2097000376771719551-1.jpg)
+
+🔗 [View original post](https://x.com/TheAIColonyRD/status/2097000376771719551)
+
+---
+
+### 🕐 16:22 UTC · @Wise1Philosophy
+
+> hunter biden is reportedly launching a meme coin in 2 days 🚨 and yes, it&apos;s literally called $laptop according to the wsj, the token is expected to launch september 9 on base. here&apos;s what we know: ticker: $laptop chain: base 1b total supply 30% allocated to founders, including hunter biden founder tokens locked for 6 months, then gradually unlocked over 2 years 20% allocated partly to $trump holders the entire token is basically built around hunter biden&apos;s infamous laptop story and positioned as a political jab at trump. which means the next 48 hours will probably be filled with fake $laptop tokens. so here&apos;s what i&apos;m watching: hunter biden the strongest confirmation would obviously come directly from hunter or people officially involved with the launch. until that happens, i wouldn&apos;t treat any contract circulating on ct as the real one. - base the wsj report says $laptop will launch on base. so if you see a &quot;hunter biden $laptop&quot; launching on solana, ethereum or another chain, that&apos;s already a massive red flag. the contract once a potential ca appears, don&apos;t buy just because the ticker matches. check: deployer supply ownership mint permissions holders liquidity contract verification there will probably be dozens of $laptop contracts before the real one is confirmed. the deployer is probably one of the most important things to watch. - $trump holders this is where things get interesting. according to the report, part of the 20% allocation will go to investors in the official trump memecoin. if that distribution happens onchain, the wallets and snapshot mechanics could give us another way to identify the legitimate token. so the sequence i&apos;m looking for is basically: official signal ↓ one canonical ca ↓ base ↓ verified deployer ↓ 1b supply ↓ liquidity ↓ $trump distribution ↓ confirmation across official channels right now we are still at step zero. laptop reportedly launches september 9. until the real ca is confirmed, assume every $laptop you see is fake.
+
+![hunter biden is reportedly launching a meme coin in 2 days 🚨 and yes, it&apos;s literally called $laptop according to the wsj, the token is expected to launch september 9 on base. here&apos;s what we ](../../../../assets/images/2026/09/07/2096997666034987285-1.jpg)
+
+🔗 [View original post](https://x.com/daveydefi/status/2096997666034987285)
+
+---
+
+### 🕐 16:15 UTC · @Wise1Philosophy
+
+> The shower drain one sent me GPT-6 Astra did not slow down after launch. The last 24 hours might be even crazier. 8 wild examples people just shipped:
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2096995784323469642)
+
+---
+
+### 🕐 16:12 UTC · @Wise1Philosophy
+
+> For a long time, AI video has basically been: Write a prompt → generate a clip → regenerate when something goes wrong. But complex filmmaking probably needs a different logic. Instead of asking AI to invent the entire shot, what if you give it an actual spatial structure first? GPT-6 Astra can turn the scene into a 3D spatial setup, with the camera and character paths defined inside the Viewport. Then the scene is manually imported into CapCut PC and rendered with Seedance 2.5. That changes the relationship between creator and model. You’re no longer just describing what the camera should do. You’re starting to design where the camera actually goes. The interesting part is seeing how far this workflow can go inside CapCut PC. #CapCutPC #GPT6Astra #AIVideo #Seedance25 Media
+
+🔗 [View original post](https://x.com/Rixhabh__/status/2096995150312751276)
+
+---
+
+### 🕐 16:11 UTC · @Wise1Philosophy
+
+> Day 3,480. Raising a kid who tells me things his friends won&apos;t tell theirs. 7 conversations I started when he was 5. And still have with him now... 👇 🧵
+
+![Day 3,480. Raising a kid who tells me things his friends won&apos;t tell theirs. 7 conversations I started when he was 5. And still have with him now... 👇 🧵](../../../../assets/images/2026/09/07/2096994756673028573-1.jpg)
+
+🔗 [View original post](https://x.com/Manifest_Lord/status/2096994756673028573)
+
+---
+
+### 🕐 16:11 UTC · @Wise1Philosophy
+
+> 7 Spiritual reasons your first born child is a daughter... What do you think 👇...
+
+![7 Spiritual reasons your first born child is a daughter... What do you think 👇...](../../../../assets/images/2026/09/07/2096994679841865934-1.jpg)
+
+🔗 [View original post](https://x.com/scotti_brooks/status/2096994679841865934)
+
+---
+
+### 🕐 16:07 UTC · @Wise1Philosophy
+
+> I&apos;m not sure the future of AI filmmaking is one model doing everything. It might actually be several systems doing different jobs really well, and an editor connecting the pieces. That&apos;s how this workflow starts to make sense. #GPT6Astra #AIVideo Media
+
+🔗 [View original post](https://x.com/darshal_/status/2096993777735082318)
+
+---
+
+### 🕐 16:05 UTC · @Wise1Philosophy
+
+> This is getting ridiculous. Chat GPT 6 Astra just turned a single image into a working product demo. Media
+
+🔗 [View original post](https://x.com/AIHighlight/status/2096993340327661631)
+
+---
+
+### 🕐 15:58 UTC · @Wise1Philosophy
+
+> one take, no cuts, wild!! no one teaches you how these AI realistic videos are made.. so here it is, generated with Seedance 2.5 on @higgsfield in one take, 1080p full breakdown, every prompt included
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2096991435413180907)
+
+---
+
+### 🕐 15:56 UTC · @Wise1Philosophy
+
+> Ok GPT-6 Astra is insane. People can&apos;t stop building. 10 wild examples.
+
+🔗 [View original post](https://x.com/TheAIColony/status/2096991012648301004)
+
+---
+
+### 🕐 15:53 UTC · @Wise1Philosophy
+
+> Disney+ has 150 million subscribers and Disney is betting 135 million of them never scroll past the Frozen thumbnail. A woman spent 4 years working on the Disney+ content experience team. She told me something that should frustrate every subscriber: &quot;You don&apos;t have a streaming app. You have a private IMAX theater showing blockbusters in an expanded aspect ratio with 26% more image than the version you&apos;ve been watching. You have a bonus content vault with deleted scenes, alternate endings, bloopers, and behind-the-scenes documentaries on almost every Marvel and Star Wars title you&apos;ve ever streamed sitting behind a tab you&apos;ve scrolled past 500 times. You have a documentary library from National Geographic with thousands of hours of Emmy-winning content you&apos;ve never scrolled down far enough to see. You have a 4K Dolby Vision cinema running in compressed 720p because nobody changed one setting. You have Dolby Atmos surround sound being flattened to stereo because the audio track was never switched. You have an offline download system that replaces the iTunes movies you bought for $47 on your last road trip. You have a synchronized watch party system that replaces the FaceTime propped up next to the TV when grandma watches movies with the kids from another state. And you have the most comprehensive parental control system on any streaming platform running on zero configuration while your 5-year-old has unrestricted access to PG-13 content. You&apos;re paying $14 to $18/month. You&apos;re using one row of the homepage. You&apos;re watching 12 movies on rotation. Disney will never interrupt Frozen to tell you that 16,000 other titles, IMAX versions, bonus content, a documentary library, and a cinema-grade picture and sound system are all included in the subscription you&apos;re already paying for. Because a family that watches Frozen for the 47th time generates the same $14 as a family that discovers everything else.&quot; Here are the 9 Disney+ features most subscribers have never opened 🧵
+
+🔗 [View original post](https://x.com/Alvin1492840/status/2096990272836321634)
 
 ---
 
