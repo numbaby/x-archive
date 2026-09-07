@@ -2,7 +2,17 @@
 
 ## 📅 September 07, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 15:25 UTC · @dair_ai
+
+> // Design Docs Are All You Need // Banger paper from Google DeepMind, MIT, and colleagues. What a genuinely strange and interesting paper this one is. Here is the setup: They maintain a performance-modeling library whose main branch contains almost no code. The repository is a directed graph of natural-language design docs. Coding sub-agents regenerate the entire implementation from those docs whenever a version updates. Every human change is an edit to a doc. The premise is that ML performance modeling invalidates its own abstractions every hardware and model generation, and coding agents are now cheap enough that regenerating a library beats patching one. Two things make the regeneration reliable. The design docs are written around step-by-step worked examples, which act as in-context demonstrations for the generating agents. The system is also anchored on a minimal recursively defined operator IR with symbolic cost expressions in SymPy. Regenerated implementations reproduce hand-audited reference models to round-off precision, including DeepSeek-V3 serving on a TPU pod slice. Paper: https://academy.dair.ai/papers/design-docs-are-all-you-need-an-ai-native-machine-learning-performance-tool-2609.05364
+
+![// Design Docs Are All You Need // Banger paper from Google DeepMind, MIT, and colleagues. What a genuinely strange and interesting paper this one is. Here is the setup: They maintain a performance-mo](../../../../assets/images/2026/09/07/2096983084956852537-1.png)
+
+🔗 [View original post](https://x.com/omarsar0/status/2096983084956852537)
 
 ---
 

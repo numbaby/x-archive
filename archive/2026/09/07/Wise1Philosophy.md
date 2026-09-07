@@ -2,7 +2,89 @@
 
 ## 📅 September 07, 2026
 
-> 71 post(s) archived.
+> 83 post(s) archived.
+
+---
+
+### 🕐 15:28 UTC · @Wise1Philosophy
+
+> I started taking Glycine for 60 days, every night before bed. I expected better sleep and less wrinkles one my face…But didn’t expect this. Here&apos;s what it did to my body:
+
+🔗 [View original post](https://x.com/BeBetter_Athlet/status/2096983947800690756)
+
+---
+
+### 🕐 15:27 UTC · @Wise1Philosophy
+
+> Microsoft dropped an official “Here Is How To Get Traffic From ChatGPT” guide. Interestingly, it got surprisingly little attention. Let’s go over it together. Not long ago Microsoft released &quot;A guide to AEO and GEO - Practical data strategies to empower retailers for AI search, AI assistants and AI browsers.” Everything here is drawn directly from the document and its diagrams, with some of my personal takes layered on top for clarity and execution value. I’ll also reference the pages in the PDF in case you want to go read it yourself. That said, if you don&apos;t care and just want someone to get the ChatGPT traffic for you, let SEO Stuff do the heavy lifting: https://seo-stuff.com And if you want to know where your site stands right now across Google and AI search, check here (it&apos;s free): https://rightcited.com/ Microsoft’s central message in the doc is that retail competition is shifting from “being found” to “being chosen.” They argue that traditional SEO was optimized for: Ranking, Clicks and Page Visits. Whereas AI-driven shopping replaces that with: Answers, Recommendations and Agent-Led Decisions. They’re arguing that visibility is now earned by how clearly AI systems understand your products, trust your brand and can act on your data. This is where “AEO” and “GEO” come in. (I hate both of these acronyms and prefer to just call it all AI search optimization, but this is their doc so I’ll go with their language.) This is also why we’ve seen brands struggle even with strong traditional SEO, but immediately improve AI visibility once they pair technical SEO with structured, intent-driven content and authoritative signals like those included in SEO Stuff’s done-for-you package. https://seo-stuff.com/gold-plan-package Microsoft also broke down the difference, to them, between AEO and GEO. Microsoft makes it a very clean distinction: Answer / Agentic Engine Optimization (AEO) in their estimation optimizes content and data so AI assistants and agents (Copilot, ChatGPT, Gemini) can: Find it Understand it Summarize it Recommend it Act on it This is about clarity and machine-readability. Generative Engine Optimization (GEO) optimizes content so generative AI search systems trust it as: Authoritative Credible Citable This is about credibility, reputation, and justification. Microsoft is explicit that SEO still matters, but it is now the foundation and not the endpoint. In practice, this is why execution now requires both properly structured pages and volume at scale, something SEO Stuff intentionally designed the Premium Content Bundle to solve. https://seo-stuff.com/premium-content-bundle Microsoft then delved into the AI shopping ecosystem and how discovery actually works now. One of the most interesting sections is Microsoft’s breakdown of AI browsers, assistants, and agents (pages 5–7). These are not separate systems and they overlap constantly. AI BROWSERS Edge, Chrome, or similar with embedded AI They can “see” the live page you are on and interpret it in real time. AI ASSISTANTS Copilot, ChatGPT, Gemini They answer questions, summarize options, and recommend products. AI AGENTS They: Navigate websites Add items to carts Apply promo codes Calculate shipping Complete purchases The key insight: The question is not “which AI surface am I optimizing for?” The question is what data can AI access, trust, and use? This is exactly where most sites break. The data exists, but it isn’t structured, consistent, or surfaced in a way AI can reliably act on. Microsoft then went into how AI actually decides what to recommend. Microsoft outlines a multi-stage reasoning process used by Copilot and Bing AI (pages 7–8). AI does not rely on one data source, but rather fuses: CRAWLED WEB DATA Brand reputation Category authority Expert mentions Historical understanding PRODUCT FEEDS AND APIS Price Availability Variants Inventory Key specs This is where competitive advantage often comes from, and where most brands are under-optimized. LIVE WEBSITE DATA Real-time pricing Promotions Reviews Media Checkout functionality If your live site fails, the agent fails, even if feeds were perfect. An example Microsoft gives is “rain jacket under $200.” AI reasoning includes: “Patagonia and North Face make quality jackets” (general knowledge) “Hiking jackets need to be lightweight and waterproof” (category understanding) “Brand X is known for hiking equipment” (brand positioning) “Your model is $179 and in stock” (feeds) “Competitor is $199 and backordered” (feeds) Your product makes the top recommendations because feeds, availability, price, and context align. This is why content that simply “ranks” but doesn’t explain, compare, or justify rarely shows up in AI answers without additional supporting assets. Microsoft then really breaks down the journey from SEO to AEO to GEO. They summarize the transition pretty clearly (page 6): SEO = matching keywords “Waterproof rain jacket” AEO = descriptive clarity “Lightweight, packable waterproof rain jacket with ventilation and reflective piping” GEO = justification and trust “Best-rated by Outdoor Magazine, 4.8 stars, 180-day returns, 3-year warranty” So basically, AEO drives understanding and GEO drives confidence, and you need both to be recommended. This is why brands pairing long-form, intent-driven content with authoritative backlinks and mentions often outperform those relying on SEO alone. Then Microsoft talks about three data layers you must control. They stress that retailers must show up in three distinct data planes (page 10): CRAWLED DATA What AI learned during training What it finds via real-time web search This shapes baseline brand perception. SEO still matters here. PRODUCT FEEDS AND APIS Structured data you actively provide This is where precision and control live. Feeds drive: Comparisons Rankings Recommendations This is where many retailers under-invest. LIVE WEBSITE DATA What AI agents see when they actually visit Includes: Reviews Media Dynamic pricing Checkout capability If agents cannot transact, influence stops at recommendation. Here are the three action pillars Microsoft prescribes. This is the most legit part of the document (pages 11–14). Pillar 1: Technical foundations and structured data AI requires structure and consistency, not creativity. Microsoft explicitly calls for: MACHINE-READABLE CATALOGS DYNAMIC FIELDS: Price Availability Size Color SKU GTIN dateModified ITEMLIST MARKUP FOR CATEGORIES LOCALIZED PRICING AND LANGUAGE VIA: inLanguage priceCurrency REQUIRED SCHEMA TYPES: Product Offer AggregateRating Review Brand ItemList FAQ They also highlight this: “Never serve different HTML to bots than to users.” Pillar 2: Intent-driven content enrichment AI interprets intent over keywords. MICROSOFT RECOMMENDS: Front-loading descriptions with: Who it is for What problem it solves Why it is better Use-case framing: “Best for day hikes above 40 degrees” Headings that mirror real questions Modular, citable content blocks THEY EXPLICITLY ENCOURAGE: Q&amp;A sections Comparison content Feature lists “Goes well with” product relationships Video transcripts Detailed image alt text with ImageObject schema This is content designed for extraction as opposed to reading. This is also why scale matters. One or two pages won’t move the needle. Systems that produce dozens of structured, intent-mapped articles tend to win, which is exactly what the Premium Content Bundle is built around. https://seo-stuff.com/premium-content-bundle Pillar 3: Trust and credibility signals (GEO) AI systems prioritize verifiable truth. Microsoft highlights: VERIFIED SOCIAL PROOF Verified reviews Review volume Sentiment extraction (“highly rated for comfort and fit”) Review and AggregateRating schema AUTHORITATIVE BRAND IDENTITY Expert reviews Press mentions Certifications Sustainability badges Official brand links CONTENT INTEGRITY Avoid exaggerated claims Maintain consistent brand voice Provide structured FAQs and help content This also stood out: “AI penalizes low-trust language.” Interesting, but obviously open to interpretation. Microsoft then closed with a fairly straightforward message. Retailers already have most of the signals AI uses to rank and recommend. The winners in AI commerce will be the brands that: Treat data as a product Treat feeds as strategic assets Treat content as machine-readable infrastructure Treat trust as a measurable ranking factor This is what Microsoft calls “AI ranking readiness.” If I had to reduce this entire PDF to one core idea: AI needs to understand your products in order to justify recommending them. It needs to literally be able to act on your data in real time if you want to be a legit presence in AI-driven commerce. Luckily, SEO Stuff (http://seo-stuff.com) solves for all of this. And if you want to know where your site stands right now across Google and AI search, check here (it&apos;s free): https://rightcited.com/ The new Google Search is rolling out and there seems to be confusion on what it will look like. Well, Google literally showed us. Let me clarify for anyone who is still unsure of what is going to happen. Recently Google responded to everyone saying Search is dead. Here is what th…
+
+![Microsoft dropped an official “Here Is How To Get Traffic From ChatGPT” guide. Interestingly, it got surprisingly little attention. Let’s go over it together. Not long ago Microsoft released &quot;A g](../../../../assets/images/2026/09/07/2096983759803564170-1.jpg)
+
+🔗 [View original post](https://x.com/alexgroberman/status/2096983759803564170)
+
+---
+
+### 🕐 15:25 UTC · @Wise1Philosophy
+
+> A Harvard neuroscientist admitted: &quot;Your belly stores cortisol waste. Kill it with this One habit before you sleep.. And your life will change.&quot; Here is the 9 minute fix: 1. Minutes 1 to 3 - Diaphragmatic breathing
+
+🔗 [View original post](https://x.com/CoachWillStone/status/2096983091290239287)
+
+---
+
+### 🕐 15:20 UTC · @Wise1Philosophy
+
+> 3D generation is getting seriously interesting. We gave Hyper3D WorldGen one image of a motorcycle workshop, and it built an entire 3D scene made of independent assets—preserving accurate spatial relationships and physics-ready properties. Here’s the scene we could explore and edit 👇 Media
+
+🔗 [View original post](https://x.com/FutureStacked/status/2096982023428550743)
+
+---
+
+### 🕐 15:19 UTC · @Wise1Philosophy
+
+> Andrew Huberman was just asked by Steve Bartlett: “If you could only take 5 supplements for the rest of your life, what would they be?” 1. Creatine Media
+
+🔗 [View original post](https://x.com/NutritionCorp/status/2096981740036427868)
+
+---
+
+### 🕐 15:17 UTC · @Wise1Philosophy
+
+> Ten foods with no limit. Eat them at 9pm, eat them all week, it doesn&apos;t matter. 1. Cucumber
+
+🔗 [View original post](https://x.com/DPro_Coach/status/2096981078754119733)
+
+---
+
+### 🕐 15:11 UTC · @Wise1Philosophy
+
+> I don&apos;t care if you&apos;re 45lbs overweight and haven&apos;t set foot in a gym in a decade. Here&apos;s exactly what your first 8 weeks should look like. 1. Two days a week, not five
+
+🔗 [View original post](https://x.com/Fitby_Chandler/status/2096979711608180810)
+
+---
+
+### 🕐 14:59 UTC · @Wise1Philosophy
+
+> A guy signed up for Amazon Prime in 2018 for one reason: free 2-day shipping. He&apos;s renewed every year since. $139/year × 8 years = $1,112 total. He&apos;s used Prime for exactly 1 thing free shipping on Amazon orders. That&apos;s it. Eight years. One feature. He&apos;s never opened Prime Video. Never streamed Prime Music. Never uploaded a photo to Amazon Photos. Never claimed his free Grubhub+ membership. Never activated RxPass for $5 prescriptions. Never checked Prime Gaming. Never read a free Prime Reading book. Never used Try Before You Buy. Never saved $0.10/gallon on gas. Never earned No-Rush Shipping credits. Never shopped at Whole Foods with his Prime discount. Never shared his membership with his wife through Amazon Household. Never used Amazon Fresh delivery. Never opened Alexa+ features. Never downloaded a free First Reads book. One benefit out of sixteen. For 8 years. $1,112 paid for a membership he values at roughly $30/year the amount he estimates he&apos;d spend on shipping without Prime. His coworker who uses 13 of the 16 benefits and values her membership at over $2,400/year told him: &quot;You&apos;ve been paying for an all-inclusive resort and sleeping in the parking lot.&quot; She showed him 11 Prime benefits that transform $139/year from a shipping subscription into the most valuable membership in American retail. Here&apos;s the full playbook 🧵
+
+🔗 [View original post](https://x.com/jackcoder0/status/2096976753067798588)
+
+---
+
+### 🕐 14:51 UTC · @Wise1Philosophy
+
+> If I wanted to get dementia as fast as possible, here is exactly what I would do: 1. Sleep 6 hours a night Media
+
+🔗 [View original post](https://x.com/_Gut_Laboratory/status/2096974610483085737)
+
+---
+
+### 🕐 14:51 UTC · @Wise1Philosophy
+
+> Walking is the most underrated medicine on Earth. It lowers blood sugar, blood pressure, anxiety, and even your risk of early death. Here&apos;s how to get the full effect with 8 simple steps: 1. Don&apos;t chase 10,000 steps. Media
+
+🔗 [View original post](https://x.com/TheFastedState/status/2096974527159026158)
 
 ---
 
@@ -27,6 +109,26 @@
 > TAKING MAGNESIUM CORRECTLY WILL TURN YOU INTO A TESTOSTERONE MONSTER..🧵 (99% ARE TAKING IT WRONG)
 
 🔗 [View original post](https://x.com/CoachDanCole_/status/2096970673352774075)
+
+---
+
+### 🕐 14:33 UTC · @Wise1Philosophy
+
+> You found the right job. You have the right skills. You submitted the application. And then… silence. 👀 So what went wrong? Your resume may have been filtered before it ever reached a recruiter.
+
+![You found the right job. You have the right skills. You submitted the application. And then… silence. 👀 So what went wrong? Your resume may have been filtered before it ever reached a recruiter.](../../../../assets/images/2026/09/07/2096970157331714168-1.jpg)
+
+🔗 [View original post](https://x.com/darshal_/status/2096970157331714168)
+
+---
+
+### 🕐 14:30 UTC · @Wise1Philosophy
+
+> 1 free Claude skill turns 1 product URL into 5 ranked ad angles 👇 It pulls: • claims, specs, reviews + policies • price/cost-per-use • trust signals • buyer fit • proof + guarantees Then ranks the top 2 to brief. Comment &quot;ANGLES&quot; and I’ll DM the skill + setup.
+
+![1 free Claude skill turns 1 product URL into 5 ranked ad angles 👇 It pulls: • claims, specs, reviews + policies • price/cost-per-use • trust signals • buyer fit • proof + guarantees Then ranks the top](../../../../assets/images/2026/09/07/2096969236354912490-1.jpg)
+
+🔗 [View original post](https://x.com/nipuntaneja/status/2096969236354912490)
 
 ---
 
