@@ -2,7 +2,183 @@
 
 ## 📅 September 07, 2026
 
-> 17 post(s) archived.
+> 37 post(s) archived.
+
+---
+
+### 🕐 10:08 UTC · @Wise1Philosophy
+
+> yayyy let&apos;s gooo, browser-native architecture tools 🚨 Someone just made a $50,000 piece of software free. An open-source project called Pascal Editor puts a full 3D building editor right inside your browser. And I mean editor not just a 3D viewer. You can create and change walls, floors, zones, slabs, and more all in real time. U…
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2096903483781685253)
+
+---
+
+### 🕐 09:26 UTC · @Wise1Philosophy
+
+> 🚨 BREAKING: ChatGPT can rebuild your LinkedIn profile and job search in 30 days. For free. Here are 7 prompts to do it:
+
+🔗 [View original post](https://x.com/AriaWestcott/status/2096892801858302025)
+
+---
+
+### 🕐 09:19 UTC · @Wise1Philosophy
+
+> 🚨BREAKING: Google just dropped 10 AI courses you can take for free. No previous experience required. Here are the best ones to start with:
+
+🔗 [View original post](https://x.com/AIHighlight/status/2096891187017691569)
+
+---
+
+### 🕐 09:10 UTC · @Wise1Philosophy
+
+> Governments stopped debating AI and started buying it. One country published a £1.1B national hardware plan, another launched a £500M sovereign AI initiative, and a third issued the first rules for how AI is allowed to talk to humans. The full policy shift is in the H1 2026 Industry Report:https://bit.ly/StateofAI2026
+
+![Governments stopped debating AI and started buying it. One country published a £1.1B national hardware plan, another launched a £500M sovereign AI initiative, and a third issued the first rules for ho](../../../../assets/images/2026/09/07/2096888916540305887-1.jpg)
+
+🔗 [View original post](https://x.com/TheAIColonyRD/status/2096888916540305887)
+
+---
+
+### 🕐 09:10 UTC · @Wise1Philosophy
+
+> 🚨 SHOCKING: AI just killed PowerPoint. Plus AI dropped the most powerful AI agent for building slides of 2026. It turns any doc, notes, or rough content into a polished, presentation-ready deck directly inside Google Slides and PowerPoint in 30 sec. Here&apos;s the breakdown 🧵:
+
+![🚨 SHOCKING: AI just killed PowerPoint. Plus AI dropped the most powerful AI agent for building slides of 2026. It turns any doc, notes, or rough content into a polished, presentation-ready deck direct](../../../../assets/images/2026/09/07/2096888708977091048-1.png)
+
+🔗 [View original post](https://x.com/JaynitMakwana/status/2096888708977091048)
+
+---
+
+### 🕐 09:02 UTC · @Wise1Philosophy
+
+> this is insane. a hacker just stole $320 million worth of bitcoin from blockstream&apos;s liquid network. now he is talking to the developers through on-chain messages and says he will return funds once the bug is fixed.
+
+![this is insane. a hacker just stole $320 million worth of bitcoin from blockstream&apos;s liquid network. now he is talking to the developers through on-chain messages and says he will return funds on](../../../../assets/images/2026/09/07/2096886707421352413-1.jpg)
+
+🔗 [View original post](https://x.com/daveydefi/status/2096886707421352413)
+
+---
+
+### 🕐 08:59 UTC · @Wise1Philosophy
+
+> Your AI chat history is full of unfinished projects. We turned one into a faceless YouTube case study and another into a complete summer travel guide. Here’s how we finished both without starting from scratch:
+
+🔗 [View original post](https://x.com/TheAIColony/status/2096886129442074962)
+
+---
+
+### 🕐 08:56 UTC · @Wise1Philosophy
+
+> So apparently @GadzhiIman got 1.2M signups to his 5-day webinar that he&apos;s hosting with @russellbrunson. I wonder if it&apos;s because he had @RickRoss promote it? It&apos;s a brave new world ya&apos;ll. You can just do do things (like hire rappers to promo yo stuff). Media
+
+🔗 [View original post](https://x.com/IAmPascio/status/2096885402657243602)
+
+---
+
+### 🕐 08:23 UTC · @Wise1Philosophy
+
+> AI just landed a big W this week. Your product idea can now go from a chat to a polished pitch without leaving ChatGPT or Claude. We put that to the test with two products that didn’t exist. Here’s what happened:
+
+🔗 [View original post](https://x.com/AIFrontliner/status/2096877036300087579)
+
+---
+
+### 🕐 08:17 UTC · @Wise1Philosophy
+
+> Large businesses have always had someone to call when their payments needed attention. Small businesses never really had that support. All they got was a support ticket number and a wait time in hours which feels very long in the quick commerce era. So we decided to change that. Meet RAY, our AI account manager, now live on WhatsApp. Ask it anything about your payments and like a friend who’s on your side, it answers instantly. &quot;What happened to my payments yesterday?&quot; &quot;Send this customer a payment link.&quot; &quot;Issue a refund for that order.&quot; RAY handles it, right there in the chat. But like I said, RAY is like a friend who’s really on your side, it doesn&apos;t wait for you to ask. If your settlement is about to get delayed because of a bank holiday, RAY tells you first. If there&apos;s a way to boost your payment success rate, RAY brings it to you. Built with IndusInd Bank, Bajaj Finance is already live on it and it is 20,000+ conversations and counting. So no matter what the size of your business, you should have the same support. The one that feels like talking to a friend. Get access to RAY AI account manager here: https://razorpay.com/ray-on-whatsapp/ @Razorpay Media
+
+🔗 [View original post](https://x.com/shashank_kr/status/2096875512065089922)
+
+---
+
+### 🕐 08:16 UTC · @Wise1Philosophy
+
+> Your daughter will meet girls who love her, use her, exclude her, manipulate her. And test her. Teach her these 7 friendship rules early.
+
+![Your daughter will meet girls who love her, use her, exclude her, manipulate her. And test her. Teach her these 7 friendship rules early.](../../../../assets/images/2026/09/07/2096875336671826208-1.jpg)
+
+🔗 [View original post](https://x.com/scotti_brooks/status/2096875336671826208)
+
+---
+
+### 🕐 08:16 UTC · @Wise1Philosophy
+
+> Women don&apos;t need a little more sleep than men. They need dramatically more. A man gets away with 7 hours. A woman needs 8 to 10, uninterrupted. The reason has a name: 👇 🧵
+
+![Women don&apos;t need a little more sleep than men. They need dramatically more. A man gets away with 7 hours. A woman needs 8 to 10, uninterrupted. The reason has a name: 👇 🧵](../../../../assets/images/2026/09/07/2096875235996037345-1.jpg)
+
+🔗 [View original post](https://x.com/Manifest_Lord/status/2096875235996037345)
+
+---
+
+### 🕐 08:01 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/07/2096871451999568057-1.jpg)
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2096871451999568057)
+
+---
+
+### 🕐 07:43 UTC · @Wise1Philosophy
+
+> Ashwagandha is nature’s hormone stabilizer. It lowers cortisol, boosts testosterone, and improves sleep. But almost no one uses it correctly. Here’s what you need to know (&amp; how to actually get results): 1. It&apos;s an adaptogen Media
+
+🔗 [View original post](https://x.com/Rose_MaryIRL/status/2096866824961024374)
+
+---
+
+### 🕐 07:36 UTC · @Wise1Philosophy
+
+> A neurologist shocked me when he said: &quot;You age because your stomach stops absorbing B12. Without it, your energy drops, your memory slips, and your hands start tingling.&quot; Here&apos;s the 5-step protocol to rebuild it naturally: 1. Stop reaching for antacids out of habit
+
+🔗 [View original post](https://x.com/RafaelNasriX/status/2096865049604411497)
+
+---
+
+### 🕐 07:30 UTC · @Wise1Philosophy
+
+> 🚨 SHOCKING: PowerPoint users are shaking right now. Plus AI just dropped an AI Agent that builds and improves decks inside PowerPoint. One document → slide draft → AI rewrite → polished deck. Here is the breakdown:
+
+🔗 [View original post](https://x.com/heyDhavall/status/2096863717048864912)
+
+---
+
+### 🕐 07:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/07/2096863685700419800-1.jpg)
+
+🔗 [View original post](https://x.com/Daily__wisdom_/status/2096863685700419800)
+
+---
+
+### 🕐 07:30 UTC · @Wise1Philosophy
+
+> 7 sitios web extremadamente útiles... Este hilo te va a gustar 🧵
+
+![7 sitios web extremadamente útiles... Este hilo te va a gustar 🧵](../../../../assets/images/2026/09/07/2096863657577550132-1.jpg)
+
+🔗 [View original post](https://x.com/IA_Quijote/status/2096863657577550132)
+
+---
+
+### 🕐 07:17 UTC · @Wise1Philosophy
+
+> What happens when your body is seriously vitamin D deficient? These 12 bizarre symptoms might surprise you. You may never skip your vitamin D again after reading this: 1. Your head starts sweating uncontrollably...
+
+![What happens when your body is seriously vitamin D deficient? These 12 bizarre symptoms might surprise you. You may never skip your vitamin D again after reading this: 1. Your head starts sweating unc](../../../../assets/images/2026/09/07/2096860273491714136-1.png)
+
+🔗 [View original post](https://x.com/MarkoSilva291/status/2096860273491714136)
+
+---
+
+### 🕐 07:15 UTC · @Wise1Philosophy
+
+> AI transformation isn&apos;t sexy. Everyone wants to sell you a revolution. They put you in a conference room with a 90-slide deck and talk about autonomous agents running your entire enterprise. That&apos;s a fantasy built to bill you for months of strategy. The reality looks much more boring. It&apos;s picking the one workflow everybody hates. It&apos;s finding the process currently held together with a shared spreadsheet and a prayer, and taking it apart. You rebuild that single workflow until it stops breaking. You don&apos;t touch anything else until that first problem is entirely solved. Then you do the next one. The companies actually winning with AI figured this out a year ago. They stopped evaluating models and started evaluating their own bottlenecks.
+
+🔗 [View original post](https://x.com/mardehaym/status/2096859795525341227)
 
 ---
 

@@ -2,7 +2,17 @@
 
 ## 📅 September 07, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 08:00 UTC · @dair_ai
+
+> // Evaluating and Improving LLM Self-Modeling // Really interesting paper. Can a model answer questions about its own behavior? The questions are deliberately verifiable, such as whether a particular prompt edit would change the model&apos;s final answer. This framing avoids the usual trap where introspection claims cannot be checked by anyone. Current models show real but limited skill on a new benchmark covering diverse self-modeling question types, and they make consistent errors on simple counterfactuals about themselves. A scalable synthetic-data pipeline plus reinforcement learning raises the aggregate score across three open-source model families, with some transfer to held-out tasks. The authors then decline the interpretation their own result invites. They note the gains may not come from privileged access to the model&apos;s internal decision process, so a better self-modeling score is not evidence of introspection. Useful if you want agents that predict their own failures well enough to route or escalate, since that capability can now be measured without settling what produces it. Paper: https://academy.dair.ai/papers/evaluating-and-improving-llm-self-modeling-2608.30980
+
+![// Evaluating and Improving LLM Self-Modeling // Really interesting paper. Can a model answer questions about its own behavior? The questions are deliberately verifiable, such as whether a particular ](../../../../assets/images/2026/09/07/2096871139184451647-1.jpg)
+
+🔗 [View original post](https://x.com/dair_ai/status/2096871139184451647)
 
 ---
 
