@@ -2,7 +2,59 @@
 
 ## 📅 September 07, 2026
 
-> 37 post(s) archived.
+> 43 post(s) archived.
+
+---
+
+### 🕐 11:15 UTC · @Wise1Philosophy
+
+> Most people treat Perplexity like Google. And they skip its powerful research features. Perplexity is a full research engine built for depth and accuracy. To use it effectively, start with the right Model: Think of these as different &quot;brains,&quot; each specialized for a specific type of work. 1. Sonar Fast, source-backed live search. Use it for real-time facts and breaking updates. 2. Claude Sonnet Balanced, structured reasoning. Strong in writing and summarizing. 3. Claude Sonnet Thinking Slower, deeper step-by-step logic. Best for detailed analysis. 4. Gemini Pro Handles text, images, data, and math. Great for technical or visual tasks. 5. GPT Versatile and quick for general tasks. Works well for everyday workflows. 6. GPT Thinking Designed for long, structured reasoning. Ideal for strategy and complex planning. 7. Grok Casual, fast, and culture-aware. Good for quick explanations and lighter queries. Then use the right Features: 1. Pro Search Instant answers with citations and live results. Prompt: &quot;Summarize recent changes to US tax laws with citations.&quot; 2. Research Mode Builds organized, multi-step research automatically. Prompt: &quot;Write a comprehensive market analysis on the rise of vertical farming.&quot; 3. Pages Turns chats into clean, formatted reports. Prompt: “Turn this discussion into a blog post about productivity hacks.&quot; 4. Spaces Shared folders for saved threads and notes. Prompt: &quot;Create a Space called &apos;Q4 Marketing&apos; to track our campaign research.&quot; 5. Internal Knowledge Search Search your own documents + the web together. Prompt: &quot;Using our brand guidelines and web trends, draft a social media strategy.&quot; 6. File Uploads Upload PDFs, slides, or videos and extract insights. Prompt: &quot;Analyze these three earnings call transcripts and compare the revenue growth.&quot; 7. Labs Quickly turn data into small dashboards. Prompt: &quot;Use Labs to turn this sales data into an interactive bar chart.&quot; 8. Tasks Automate recurring updates in your inbox. Prompt: &quot;Every Friday at 9 AM, email me a summary of major crypto price moves.&quot; 9. Focus Search Filter results by type or source. Prompt: &quot;Search academic papers for the latest studies on intermittent fasting.&quot; 10. Personalization &amp; Memory Recalls your role and preferences. Prompt: &quot;Set my default location to &apos;New York&apos; for all local market searches.&quot; 11. Watchlists Track topics, companies, or trends. Prompt: &quot;Add the NY Knicks and LA Lakers to my Sports watchlist.&quot; 12. Connectors Pull data from Gmail, Drive, or Calendar. Prompt: &quot;Find the flight confirmation PDF in my Gmail from last month.&quot; 13. Assistant Writes emails, plans meetings, and handles small tasks. Prompt: &quot;Write a polite decline for the invitation and suggest a reschedule for next week.&quot; Now you can use Perplexity’s powerful research engine. 📌 Learn 30 free AI tools in 30 days: https://bit.ly/48woPL4 👉 Follow me @AndrewBolis for more and 🔄 Repost this to help others use AI
+
+![Most people treat Perplexity like Google. And they skip its powerful research features. Perplexity is a full research engine built for depth and accuracy. To use it effectively, start with the right M](../../../../assets/images/2026/09/07/2096920172485624251-1.jpg)
+
+🔗 [View original post](https://x.com/AndrewBolis/status/2096920172485624251)
+
+---
+
+### 🕐 11:03 UTC · @Wise1Philosophy
+
+> Asked what most people get wrong about success, Sam Altman did not say hard work or luck. He said they cannot understand &quot;power laws&quot;, where one bet beats everything else put together. 3 examples of how this shows up: 1) Startup investing Media My conversation with Sam Altman (@sama), co-founder &amp; CEO of @OpenAI. 0:00 Tobi Lütke, AI-Native Companies &amp; Why Adoption Moves Slowly 5:45 Sam&apos;s Own Resistance to AI &amp; the Missing iPhone Moment 10:00 Models, Compute, Power Laws &amp; Non-Consensus Talent 18:37 From AI-Obsessed Kid t…
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2096917171926679571)
+
+---
+
+### 🕐 11:02 UTC · @Wise1Philosophy
+
+> Google just released a free 2-hour course on full Graph Engineering. How to go from one prompt to an agent graph that can build itself: 0% → 10:16 - build your first AI agent 25% → 41:05 - master prompt engineering 50% → 54:45 - turn agents into graphs 75% → 1:20:10 - run loops inside agent graphs 100% → 1:43:33 - build a graph that builds itself Most people build one agent and stop there. Google is teaching everything that comes after: Prompt → Agents → Graphs → Loops → Self-Building Systems Single agents are the old workflow. Graphs that evolve themselves are the next one. This 2-hour course is worth more than most paid agent engineering courses. Bookmark it and watch today Then read how to run 1,000 agents from one prompt below ↓ Media
+
+🔗 [View original post](https://x.com/ajitcodes/status/2096917073251451204)
+
+---
+
+### 🕐 11:02 UTC · @Wise1Philosophy
+
+> Internet esconde muchas páginas secretas. Aquí tienes 9 joyas ocultas... [🔖 Guárdalas, antes de que las borren]
+
+![Internet esconde muchas páginas secretas. Aquí tienes 9 joyas ocultas... [🔖 Guárdalas, antes de que las borren]](../../../../assets/images/2026/09/07/2096917000282951954-1.jpg)
+
+🔗 [View original post](https://x.com/MiguelMaestroIA/status/2096917000282951954)
+
+---
+
+### 🕐 11:00 UTC · @Wise1Philosophy
+
+> I started taking NAD+ at breakfast, ubiquinol with it, and beet root before my walk. Without exaggerating, my personality changed 180 degrees. 1. NAD+, at breakfast
+
+🔗 [View original post](https://x.com/CoachJulianNiko/status/2096916520060547131)
+
+---
+
+### 🕐 10:17 UTC · @Wise1Philosophy
+
+> Amazon Prime has 200 million subscribers and Amazon is betting 190 million of them never look past the &quot;Buy Now&quot; button. A woman spent 3 years on Amazon&apos;s Prime benefits team. She told me something that should bother every subscriber: &quot;You&apos;re paying $139/year for a shipping membership. That&apos;s what you think Prime is. Fast shipping. That&apos;s maybe 20% of what your $139 includes. You have a music app with 100 million songs sitting untouched next to your $11/month Spotify subscription. Unlimited full-resolution photo storage better than the iCloud plan you&apos;re paying $3/month for. A prescription discount program that beats your pharmacy copay on 80% of generics. Free restaurant delivery through Grubhub+ that you&apos;ve been paying $10/order for separately. A gaming platform giving away free PC games every single month your kids have never claimed. A Try Before You Buy program for clothes that doesn&apos;t charge your card until you decide what to keep. A free book and magazine library you&apos;ve never browsed. A fuel savings program giving you $0.10 off per gallon at 7,000+ gas stations you&apos;ve been filling up at full price. And a Whole Foods discount card most members walk past the store without knowing they carry. Amazon will never send you a notification about any of this. Never. Because every benefit you don&apos;t use is profit they get to keep.&quot; Here are the 9 Amazon Prime benefits you&apos;re already paying for but have never opened 🧵
+
+🔗 [View original post](https://x.com/Alvin1492840/status/2096905749796417796)
 
 ---
 
