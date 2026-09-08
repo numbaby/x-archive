@@ -2,7 +2,15 @@
 
 ## 📅 September 08, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 16:56 UTC · @bcherny
+
+> To all: this came out sassier than I wanted it to. I meant this post earnestly - this is an improvement, and it really is good that we are seeing that improvement. Please keep it up
+
+🔗 [View original post](https://x.com/bcherny/status/2097368503624085773)
 
 ---
 

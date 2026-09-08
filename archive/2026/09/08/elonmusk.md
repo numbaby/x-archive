@@ -2,7 +2,7 @@
 
 ## 📅 September 08, 2026
 
-> 11 post(s) archived.
+> 15 post(s) archived.
 
 ---
 
@@ -14,11 +14,47 @@
 
 ---
 
+### 🕐 16:07 UTC · @elonmusk
+
+> Rave cave Tesla Cybercab’s interior at night is so sick. RGB accent lighting on the dash, doors, and floor pulses in sync with the music. Such a vibe.
+
+🔗 [View original post](https://x.com/robotaxi/status/2097356275592184178)
+
+---
+
 ### 🕐 15:55 UTC · @elonmusk
 
 > Hopefully soon in Europe too Just tried a CyberCab ride here in Austin Texas 🤩 Super smooth experience. The style is just unmatched especially vs Waymo which I tried last year. Hope it’s not gonna take years until this is possible in Germany. Come on EU 🤞
 
 🔗 [View original post](https://x.com/elonmusk/status/2097353262588383244)
+
+---
+
+### 🕐 15:24 UTC · @elonmusk
+
+> Earth is a max-difficulty escape room. The universe offered a slim hint at escape, then drowned it in noise. The aperture is short. Recording every finding on Earth counts for nothing if we spend it crowning ourselves geniuses rather than combining our efforts to crack the puzzle before the door closes.
+
+🔗 [View original post](https://x.com/yunta_tsai/status/2097345305599754469)
+
+---
+
+### 🕐 13:04 UTC · @elonmusk
+
+> SpaceX launches vs. kids painting astronauts I scraped 100 million pictures of kids&apos; drawings, and made them searchable so you can see the trends of the last 20 years https://walzr.com/kids-trends
+
+![SpaceX launches vs. kids painting astronauts I scraped 100 million pictures of kids&apos; drawings, and made them searchable so you can see the trends of the last 20 years https://walzr.com/kids-trend](../../../../assets/images/2026/09/08/2097310017451946263-1.jpg)
+
+🔗 [View original post](https://x.com/luismbat/status/2097310017451946263)
+
+---
+
+### 🕐 12:32 UTC · @elonmusk
+
+> 🚨BREAKING: The number of migrants being placed in the tiny village of Piddington has been INCREASED They originally said 1,250 illegal fighting age men IT IS NOW GOING TO BE 3,510 FIGHTING AGE MALES The village has just 300 adults and 50 children They will be outnumbered by 10 to 1 God help them
+
+![🚨BREAKING: The number of migrants being placed in the tiny village of Piddington has been INCREASED They originally said 1,250 illegal fighting age men IT IS NOW GOING TO BE 3,510 FIGHTING AGE MALES T](../../../../assets/images/2026/09/08/2097302133800312969-1.jpg)
+
+🔗 [View original post](https://x.com/BasilTheGreat/status/2097302133800312969)
 
 ---
 

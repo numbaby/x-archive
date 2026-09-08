@@ -2,7 +2,15 @@
 
 ## 📅 September 08, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 16:19 UTC · @_akhaliq
+
+> You shouldn’t need to be an ML expert to have an ML idea. Today we’re launching ML Intern in HuggingChat. Start with a conversation. Finish with deployable artefacts. Media
+
+🔗 [View original post](https://x.com/evilpingwin/status/2097359184207511654)
 
 ---
 

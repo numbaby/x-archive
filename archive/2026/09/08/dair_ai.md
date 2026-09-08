@@ -2,7 +2,25 @@
 
 ## 📅 September 08, 2026
 
-> 3 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 17:31 UTC · @dair_ai
+
+> 🤯 For the Navier-Stokes Millennium Prize Problem solution, OpenAI says they used a next-generation model that is significantly more capable than GPT-6 Astra. If GPT-6 Astra is this good already, imagine what the next generation will be like. We’re sharing a solution to the Navier-Stokes Millennium Prize Problem, one of the deepest problems at the frontier of mathematics. The proof was produced by a group of agents, using an OpenAI next-generation model significantly more capable than GPT-6 Astra. The problem concerns…
+
+🔗 [View original post](https://x.com/omarsar0/status/2097377214941597729)
+
+---
+
+### 🕐 16:55 UTC · @dair_ai
+
+> Nice report on agents beyond code generation. Here is why it matters: Coding agents raise how much code gets written. This report argues the gains shrink sharply between writing code and shipping reliable software. It pulls together field studies, benchmark audits and production reports from 2024 through September 2026. What stays constraining is review, integration, testing, security, deployment and production operations. The cost side changes shape too. Predictable per seat licensing gives way to variable token, tool, sandbox, CI and rework costs, which is a different budgeting problem than buying licenses. Four interesting concepts emerged in this report. The Agentic SDLC Throughput Paradox, Production-Qualified Change, the Verification Tax, and an Agentic SDLC Control Plane that allocates autonomy under explicit cost, reliability and human attention budgets. Paper: https://academy.dair.ai/papers/beyond-code-generation-reliability-verification-and-cost-economics-in-the-agenti-2609.04681
+
+![Nice report on agents beyond code generation. Here is why it matters: Coding agents raise how much code gets written. This report argues the gains shrink sharply between writing code and shipping reli](../../../../assets/images/2026/09/08/2097368121468453044-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2097368121468453044)
 
 ---
 

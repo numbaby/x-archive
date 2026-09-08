@@ -2,7 +2,93 @@
 
 ## 📅 September 08, 2026
 
-> 110 post(s) archived.
+> 120 post(s) archived.
+
+---
+
+### 🕐 17:31 UTC · @Wise1Philosophy
+
+> Voice Design is live on @GradiumAI You literally describe the kind of voice you have in mind, it gives you a few options, and you keep the one that feels right. That is basically the whole flow. I asked for a 22 year old from a Vancouver suburb with an accent, a little rough around, but still young. second option nailed it. Try today, describe the voice you want is a very different job than scrolling through voices hoping to find it. Today, we’re launching Voice Design. Write a prompt, create a voice. Describe the accent, age, gender, and pace your use case needs, and get new voices in seconds, ready to use. Live and free in the Gradium API and Studio. https://gradium.link/voice-design
+
+🔗 [View original post](https://x.com/sufyanmaan/status/2097377173262709023)
+
+---
+
+### 🕐 17:22 UTC · @Wise1Philosophy
+
+> THIS IS WILD @GradiumAI just let you invent a voice from a prompt 🤯 Accent, age, gender, pace etc.. Seconds later you are hearing someone who did not exist before. Not a clone. An actual creation. It’s Live now. FREE. API + Studio 👀 Today, we’re launching Voice Design. Write a prompt, create a voice. Describe the accent, age, gender, and pace your use case needs, and get new voices in seconds, ready to use. Live and free in the Gradium API and Studio. https://gradium.link/voice-design
+
+🔗 [View original post](https://x.com/DataChaz/status/2097375067873419427)
+
+---
+
+### 🕐 17:16 UTC · @Wise1Philosophy
+
+> CRESTA × MARSHAWN LYNCH = CX IN BEAST MODE 🔥 What that actually means: &gt; their AI Agents pick up and solve the easy stuff &gt; when it needs a person, the handoff includes the full convo Already trusted by names like United Airlines, Cox, Marriott 👀 &gt; https://cresta.com/ Media We’re welcoming Super Bowl champion, Bay Area legend, and media icon @MoneyLynch to Team Cresta. He earned the name Beast Mode by being unstoppable. Now your customer experience can be too. Call the right play. Solve the problem. Never fumble. Put your customer experience in Beas…
+
+🔗 [View original post](https://x.com/DataChaz/status/2097373599694794800)
+
+---
+
+### 🕐 17:03 UTC · @Wise1Philosophy
+
+> Asked @GradiumAI Voice Design for a battle-worn warrior queen. Northern English. Dark contralto. Measured. Commanding. Heard a few options. Kept the one that hits like a boss fight intro in Studio. This is one of those features people sleep on for a week then suddenly everyone is using. Media Today, we’re launching Voice Design. Write a prompt, create a voice. Describe the accent, age, gender, and pace your use case needs, and get new voices in seconds, ready to use. Live and free in the Gradium API and Studio. https://gradium.link/voice-design
+
+🔗 [View original post](https://x.com/alex_prompter/status/2097370362958717077)
+
+---
+
+### 🕐 17:01 UTC · @Wise1Philosophy
+
+> Most voice tools give you safe defaults. I asked @GradiumAI Voice Design for a Mythical King: deep baritone, polished British, regal with a little arrogance underneath. Heard a few options. Kept the one that actually felt dangerous in Studio. The prompt is the product. Be specific or get generic. Media Today, we’re launching Voice Design. Write a prompt, create a voice. Describe the accent, age, gender, and pace your use case needs, and get new voices in seconds, ready to use. Live and free in the Gradium API and Studio. https://gradium.link/voice-design
+
+🔗 [View original post](https://x.com/alex_verem/status/2097369637046390881)
+
+---
+
+### 🕐 16:59 UTC · @Wise1Philosophy
+
+> AI video is making me rethink what a “shot” actually is. A shot isn’t just a collection of good-looking frames. It has a camera. It has movement. It has geography. And it has a reason for existing in the sequence. GPT-6 Astra lets me establish those spatial relationships first through the Viewport. Then I can bring the 3D scene into CapCut PC, render with Seedance 2.5, and keep shaping the footage afterward. Maybe the future of AI video is less about generating better frames and more about generating better shots. #GPT6Astra #AIVideo #Seedance25 #CapCutPC Media
+
+🔗 [View original post](https://x.com/Div_pradeep/status/2097369351565476251)
+
+---
+
+### 🕐 16:46 UTC · @Wise1Philosophy
+
+> The bridge between Blender and AI video is finally starting to feel like an actual production pipeline. Turns out GPT-6 Astra + Dreamina Seedance 2.5 is an actual pipeline. Astra codes the geometry → Blender → Clay Renderer Plugin → final render on Dreamina. You build the geometry in Blender, then send the clay model directly to Dreamina with one click. Camera locked. Layout locked. Seedance 2.5 handles the final rendering and visual style without messing with the setup. If you&apos;re building AI-assisted production workflows, try Dreamina. #Dreamina #DreaminaPartner Media
+
+🔗 [View original post](https://x.com/nrqa__/status/2097365909858082950)
+
+---
+
+### 🕐 16:39 UTC · @Wise1Philosophy
+
+> If I have to explain my problem to four different employees, put me on the payroll. @cresta’s AI agents handle routine requests and pass the full context to a human when needed. Transferring a call shouldn’t cause collective amnesia. We’re welcoming Super Bowl champion, Bay Area legend, and media icon @MoneyLynch to Team Cresta. He earned the name Beast Mode by being unstoppable. Now your customer experience can be too. Call the right play. Solve the problem. Never fumble. Put your customer experience in Beas…
+
+![If I have to explain my problem to four different employees, put me on the payroll. @cresta’s AI agents handle routine requests and pass the full context to a human when needed. Transferring a call sh](../../../../assets/images/2026/09/08/2097364117895991565-1.jpg)
+
+🔗 [View original post](https://x.com/alex_prompter/status/2097364117895991565)
+
+---
+
+### 🕐 16:33 UTC · @Wise1Philosophy
+
+> okay so i logged into hypesonic kind of expecting the usual AI-tool thing where you get one video and have to figure out the rest yourself. instead it made a whole set of ads on its own, i just went through and approved the ones i liked, and they went straight to my actual meta account from there. didn&apos;t have to touch ads manager once. it took me a second to process but ngl this is the first AI ad tool that&apos;s actually saved me a step instead of adding one. they&apos;re doing a free week for early users if you want to see it yourself. $70M+ in ad spend is already supported by Hypesonic. Today we&apos;re officially introducing it: the world&apos;s most powerful self-improving ads and content engine. It reads your ad data, competitors, what&apos;s viral, does deep research on your customers. Then it creates image and video ads…
+
+![okay so i logged into hypesonic kind of expecting the usual AI-tool thing where you get one video and have to figure out the rest yourself. instead it made a whole set of ads on its own, i just went t](../../../../assets/images/2026/09/08/2097362684996145532-1.png)
+
+🔗 [View original post](https://x.com/aibytekat/status/2097362684996145532)
+
+---
+
+### 🕐 16:33 UTC · @Wise1Philosophy
+
+> alright, Hypesonic is easily my most &quot;holy shit&quot; AI moment this year. i have been thinking a lot about this launch today. running ads used to need money or a team, usually both, so most people just didn&apos;t bother. it actually puts the ads live on your meta account, that&apos;s the part that used to need a whole company behind you. idk this one feels different. And, it&apos;s a free week for early users today, so try it yourself. $70M+ in ad spend is already supported by Hypesonic. Today we&apos;re officially introducing it: the world&apos;s most powerful self-improving ads and content engine. It reads your ad data, competitors, what&apos;s viral, does deep research on your customers. Then it creates image and video ads…
+
+![alright, Hypesonic is easily my most &quot;holy shit&quot; AI moment this year. i have been thinking a lot about this launch today. running ads used to need money or a team, usually both, so most peop](../../../../assets/images/2026/09/08/2097362656734990761-1.png)
+
+🔗 [View original post](https://x.com/thetripathi58/status/2097362656734990761)
 
 ---
 
