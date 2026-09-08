@@ -2,7 +2,47 @@
 
 ## 📅 September 08, 2026
 
-> 120 post(s) archived.
+> 125 post(s) archived.
+
+---
+
+### 🕐 19:09 UTC · @Wise1Philosophy
+
+> Texan elder. French radio host. Calm woman in her forties. Type it. Hear it. Ship it. @GradiumAI’s new Voice Design is finally live. I’ve played it, it’s awesome. Free to try, with a Studio UI and a great API 👀 Media Today, we’re launching Voice Design. Write a prompt, create a voice. Describe the accent, age, gender, and pace your use case needs, and get new voices in seconds, ready to use. Live and free in the Gradium API and Studio. https://gradium.link/voice-design
+
+🔗 [View original post](https://x.com/DataChaz/status/2097401857844888037)
+
+---
+
+### 🕐 18:39 UTC · @Wise1Philosophy
+
+> Gradium’s latency result is one story. The other is VoiceArena becoming a reference point for comparing voice models. This is what the early stages of an industry standard look like. Voice Arena benchmarked 10 TTS models on latency. Gradium lands #1: lowest p50 at 231 ms, and the tightest spread across p25, p50 and p75. This is one of the first things developers measure when they test us. Thanks @voicearena_ai for running this in public on https://voicearena.…
+
+🔗 [View original post](https://x.com/alex_prompter/status/2097394515531239451)
+
+---
+
+### 🕐 17:48 UTC · @Wise1Philosophy
+
+> this account shares real advice on AI for enterprise: Most advice on the subject of AI transformation comes from people who have never made a model run in a regulated company. Here are the 8 steps you can follow to make it actually happen: 1. Name a sponsor before a use case. Find one person to own priorities, acceptance, and escala…
+
+🔗 [View original post](https://x.com/alex_verem/status/2097381679677497368)
+
+---
+
+### 🕐 17:47 UTC · @Wise1Philosophy
+
+> Most advice on the subject of AI transformation comes from people who have never made a model run in a regulated company. Here are the 8 steps you can follow to make it actually happen: 1. Name a sponsor before a use case. Find one person to own priorities, acceptance, and escalation for about an hour a week. A pilot with no acceptance owner doesn&apos;t end. It ages. 2. Pick one workflow your customer can feel. Choose a process with a metric the business already tracks (e.g., onboarding, KYC, reporting). Broad requests like &quot;tell us what AI does for revenue&quot; just end up in a drawer. 3. Baseline it before touching a model. Document the trigger, end state, exceptions, and baseline handling time on real cases. Skip this, and &quot;it feels faster&quot; becomes your only result. CFOs don&apos;t fund feelings. 4. Build the evaluation before the agent. Your experts define &quot;correct&quot; on real cases, and that becomes the test. An evaluation written *after* you&apos;ve seen the AI&apos;s answers measures nothing. 5. Ship the smallest useful slice by week six. Weeks 1-2 frame it. Weeks 3-6 prove it on real data with visible human review. If it isn&apos;t useful by week six, stop and keep the budget. 6. Harden it like software. Because it *is* software. Weeks 7-10 focus on integrations, security, release pipelines, spend caps, and assigning an operating owner. A prototype without an owner is a demo. 7. Measure in operating terms. Track throughput, quality, and adoption against your baseline. Keep observed results away from estimates, and don&apos;t count &quot;hours saved&quot; as cash until actual cash is saved. 8. Hand over on readiness, then copy. Readiness is a test, not a date. Your operators accept or override outputs with evidence. The workflow leaves a playbook, the second reuses the harness, and the workload drops every time. Twelve weeks to one workflow running on real cases, old versus new measured, and a harness your team reuses for the next one. Inside a software team, these same eight steps run even faster. That&apos;s what what we do for enterprise clients at Limestone Digital.
+
+🔗 [View original post](https://x.com/mardehaym/status/2097381232212336933)
+
+---
+
+### 🕐 17:41 UTC · @Wise1Philosophy
+
+> AI video is getting very good at creating moments. The harder problem is creating a shot where every element feels intentional. Camera position. Character blocking. Spatial relationships. Movement. That’s where GPT-6 Astra’s approach gets interesting. #GPT6Astra #CapCutPC Media
+
+🔗 [View original post](https://x.com/thetripathi58/status/2097379862323531803)
 
 ---
 

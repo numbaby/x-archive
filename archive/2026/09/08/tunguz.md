@@ -2,7 +2,81 @@
 
 ## 📅 September 08, 2026
 
-> 13 post(s) archived.
+> 22 post(s) archived.
+
+---
+
+### 🕐 19:18 UTC · @tunguz
+
+> I’m old enough to remember when we used people to do math.
+
+🔗 [View original post](https://x.com/tunguz/status/2097404276574417036)
+
+---
+
+### 🕐 19:06 UTC · @tunguz
+
+> Next on the top AI lab agenda: solving the polycule scheduling problem.
+
+🔗 [View original post](https://x.com/tunguz/status/2097401217630802275)
+
+---
+
+### 🕐 18:53 UTC · @tunguz
+
+> We’ll probably have successors to both Fable 5.1 and GPT 6 within a month. 🚨 SCOOP: Anthropic are planning to launch a successor to Fable 5.1 before their IPO in late September, potentially early October if timelines slip a little The model is Anthropic&apos;s first fresh pretrain for the Fable class, and they&apos;re confident it will dethrone Astra. The genera…
+
+🔗 [View original post](https://x.com/tunguz/status/2097397822970798243)
+
+---
+
+### 🕐 18:30 UTC · @tunguz
+
+> Stocks fall on the news that we have solved science.
+
+![Stocks fall on the news that we have solved science.](../../../../assets/images/2026/09/08/2097392054741680141-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2097392054741680141)
+
+---
+
+### 🕐 18:28 UTC · @tunguz
+
+> It tells you a lot about the state of acceleration when this announcement is only the second most impressive scientific breakthrough of the day. With AlphaFold we mapped the protein universe - now with AlphaGenome Atlas we’re charting the human genome. It can predict the impact of all 9 billion possible single-letter DNA variants, helping scientists better understand disease. Freely available for academic research: http:/…
+
+🔗 [View original post](https://x.com/tunguz/status/2097391647936123200)
+
+---
+
+### 🕐 18:25 UTC · @tunguz
+
+> You are laughing. Navier-Stokes has been solved and you are laughing.
+
+🔗 [View original post](https://x.com/tunguz/status/2097390784110879229)
+
+---
+
+### 🕐 18:10 UTC · @tunguz
+
+> The most important point of this tweet is that viral tweets now drive top research agenda. Some more technical points: (a) We began working on the Millennium problems due to viral twitter rumors that Anthropic had resolved 2 Millenium problems. Our aim was to see whether our system was also capable of this impressive feat, especially given our excitement regarding the …
+
+🔗 [View original post](https://x.com/tunguz/status/2097387187507757484)
+
+---
+
+### 🕐 18:09 UTC · @tunguz
+
+> Here is the “other side” of the story. As far as I am concerned, it all seems very reasonable. I don’t see any intentional malice and/or underhandedness in how all of this was handled by OAI. I would like to clarify a few things: 1) The screenshot is my reaching out to Levent to coordinate our releases. I hope it’s clear from the message that we came in with the best possible intentions. 2) I never ever asked for Levent to be removed from authorship of his own work (a…
+
+🔗 [View original post](https://x.com/tunguz/status/2097386965008306339)
+
+---
+
+### 🕐 17:55 UTC · @tunguz
+
+> Nothing to see, just a bunch of stochastic parrots. We’re sharing a solution to the Navier-Stokes Millennium Prize Problem, one of the deepest problems at the frontier of mathematics. The proof was produced by a group of agents, using an OpenAI next-generation model significantly more capable than GPT-6 Astra. The problem concerns…
+
+🔗 [View original post](https://x.com/tunguz/status/2097383404820217885)
 
 ---
 

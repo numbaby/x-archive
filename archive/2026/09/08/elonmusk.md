@@ -2,7 +2,23 @@
 
 ## 📅 September 08, 2026
 
-> 15 post(s) archived.
+> 17 post(s) archived.
+
+---
+
+### 🕐 19:07 UTC · @elonmusk
+
+> If you notice anything concerning about 𝕏, please lmk directly in replies Glad to be back at X as Head of Safety. Focus: keep people safe across our products and AI systems, protect free expression, and make Safety more transparent.
+
+🔗 [View original post](https://x.com/elonmusk/status/2097401351441633585)
+
+---
+
+### 🕐 19:02 UTC · @elonmusk
+
+> 𝕏 is the number 1 source for news on Earth! More monthly readership than the circulation of all newspapers combined. 𝕏 ranks #1 among news apps across almost all European countries Europeans are turning to 𝕏 for the truth... Europe spent years attacking 𝕏 Now 𝕏 is becoming Europe’s #1 place for news 😂
+
+🔗 [View original post](https://x.com/elonmusk/status/2097400295525638383)
 
 ---
 

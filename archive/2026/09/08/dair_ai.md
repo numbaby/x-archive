@@ -2,7 +2,25 @@
 
 ## 📅 September 08, 2026
 
-> 5 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 19:44 UTC · @dair_ai
+
+> Great to see Meta getting into always-on proactive agents. Given their distribution, it&apos;s going to be interesting to see how ready people are for personal agents. Fig: Muse under the hood. Introducing Muse, the personal agent that understands your goals and works 24/7 to get things done for you.
+
+![Great to see Meta getting into always-on proactive agents. Given their distribution, it&apos;s going to be interesting to see how ready people are for personal agents. Fig: Muse under the hood. Introd](../../../../assets/images/2026/09/08/2097410842652184920-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2097410842652184920)
+
+---
+
+### 🕐 18:37 UTC · @dair_ai
+
+> Recent advancements in math with the use of AI propel us into an undeniably exciting new arc of AI-enabled scientific discovery and understanding. And yet, it feels like we are just scratching the surface. Stay humble, stay curious, and stay focused on what matters most.
+
+🔗 [View original post](https://x.com/omarsar0/status/2097394030556422154)
 
 ---
 
