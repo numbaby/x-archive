@@ -2,7 +2,33 @@
 
 ## 📅 September 08, 2026
 
-> 5 post(s) archived.
+> 9 post(s) archived.
+
+---
+
+### 🕐 08:48 UTC · @elonmusk
+
+> True Far right is just whatever was considered being normal in the early 2000s. Even some of Obama&apos;s positions during his first term would be considered right wing by modern Democrat standards.
+
+🔗 [View original post](https://x.com/elonmusk/status/2097245786694099341)
+
+---
+
+### 🕐 08:46 UTC · @elonmusk
+
+> According to Grok for this election cycle: https://x.com/i/grok/share/be1c9d7737d24e20a6124f50de810625
+
+🔗 [View original post](https://x.com/elonmusk/status/2097245204780556344)
+
+---
+
+### 🕐 07:54 UTC · @elonmusk
+
+> I find it strange how Elon’s most controversial moments get amplified by the media, while the things he does that inspire people often get little to no coverage. Where was « People’s Magazine » when Elon Musk showed personal kindness toward ordinary people (fans, kids or strangers…)? 1. Answered a dying teen’s last questions and made her design a SpaceX mascot (Liv Perrotto, 2026) 15-year-old Liv Perrotto, who had dreamed of meeting Musk, left eight handwritten questions on her nightstand after she became too weak to take a scheduled call. After her death from cancer, commentator Glenn Beck shared them. Musk answered every question (Tesla phone? No. Diner expansion and new games? Yes. Favorite anime? Your Name. Japan? Kyoto and teamLab. Hatsune Miku and Ani/Misa? Yes). On her final request, to make her Shiba Inu “Asteroid” plush (designed as a zero-g indicator for Polaris Dawn) a SpaceX mascot, he simply wrote “Ok 😀.” Her mother replied: “I wish she was here to see this.” 2. Publicly adopted a 5th-grader’s marketing idea (Bria, 2017) Nine-year-old Bria from Michigan wrote Musk a school-project letter suggesting Tesla use the homemade commercials fans already made, since the company didn’t advertise. Her dad posted it. Musk replied: “Thank you for the lovely letter. That sounds like a great idea. We’ll do it!” She also asked for a Tesla T-shirt. 3. Covered the full repair bill for a stranger who used his Tesla to save a life (Manfred Kick, 2017) German Tesla owner Manfred Kick saw an unconscious stroke victim’s Volkswagen swerving on the Autobahn. He pulled in front of it, let the other car hit his bumper, and braked both vehicles to a stop, saving the driver’s life at the cost of damage to his own Model S. Musk tweeted congratulations and announced Tesla would cover all repairs, free and expedited. The local Tesla Germany head personally picked up the car. 4. Shared a struggling woman’s letter, she said it stopped her from taking her life (Johnna Sabri, 2018) Johnna Sabri wrote an open letter about how Musk’s persistence inspired her after her nonprofit failed and her life fell apart. Musk shared it with his millions of followers on Memorial Day. Sales of her handmade jewelry exploded. When he later accepted a small space-rock pendant she wanted to give him, she publicly said the timing and gesture pulled her back from suicide. Musk later posted a quote about hidden kindness. 5. Funded clean-water fountains in Flint schools after a young activist asked (Mari Copeny / Little Miss Flint, 2018) After 11-year-old activist Mari Copeny (“Little Miss Flint”) and others highlighted the ongoing water crisis, the Musk Foundation donated about $480,000 for UV-filtered drinking fountains in all Flint schools (plus later funds for student laptops). Musk had publicly committed to helping houses with contaminated water above FDA levels. The fountains were eventually installed so kids could drink from school fountains again. 6. Kept a promise to hug a YouTuber because two kids at the World Cup asked him to (Fidias, 2022–2023) Cypriot YouTuber Fidias Panayiotou camped outside Twitter/SpaceX offices for months hoping for a hug. At the 2022 World Cup in Qatar, two young boys asked Musk to hug “the guy who keeps trying to hug you in San Francisco.” Musk checked that they were sure, then tweeted “Will do it.” He later hugged Fidias at Twitter HQ on National Hugging Day. 7. Stopped to sign a hat and take a selfie with a child who called out from the crowd In a widely circulated video, a young fan called out during an event. Musk paused, brought the boy up, signed his hat and toy rocket, knelt to the child’s level, and posed for photos. Musk later quoted the clip with the comment “Great kid.” Small gestures that meant the world to one family to support that helped entire communities… these are moments that reached and touched many ordinary people at once. Sadly, « People’s Magazine » did not cover any of those 7 inspiring’ stories. Every attempt to smear Elon Musk lands on the same small group of people who already made up their minds. They will not move an inch, no matter what facts or evidence they are shown. Every book, film, and article about Elon Musk only proves our point as his supporters: he is the …
+
+![I find it strange how Elon’s most controversial moments get amplified by the media, while the things he does that inspire people often get little to no coverage. Where was « People’s Magazine » when E](../../../../assets/images/2026/09/08/2097232194502607145-1.jpg)
+
+🔗 [View original post](https://x.com/karatademada/status/2097232194502607145)
 
 ---
 
@@ -19,6 +45,16 @@
 > Yup Come ON, bro. I like Carl, but the left needs to read TWO books about rightist politics. The best comparison for the lesbian feminist with the Sri Lankan boss-girl lover - who is just tried of migrant crime - is not &quot;Hitler.&quot;
 
 🔗 [View original post](https://x.com/elonmusk/status/2097185713330475226)
+
+---
+
+### 🕐 03:32 UTC · @elonmusk
+
+> @leodev Build supports dynamic workflows :) https://x.ai/news/workflows
+
+![@leodev Build supports dynamic workflows :) https://x.ai/news/workflows](../../../../assets/images/2026/09/08/2097166049821278284-1.jpg)
+
+🔗 [View original post](https://x.com/milichab/status/2097166049821278284)
 
 ---
 

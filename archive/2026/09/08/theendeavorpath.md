@@ -2,7 +2,15 @@
 
 ## 📅 September 08, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 07:37 UTC · @theendeavorpath
+
+> A neuroscientist I follow was just asked: &quot;If you could only take 5 supplements for the rest of your life, what would they be?&quot; 1. Magnesium is a must Media
+
+🔗 [View original post](https://x.com/RasmusNorbergg/status/2097227702659101082)
 
 ---
 
