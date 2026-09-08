@@ -2,7 +2,107 @@
 
 ## 📅 September 08, 2026
 
-> 47 post(s) archived.
+> 59 post(s) archived.
+
+---
+
+### 🕐 13:03 UTC · @Wise1Philosophy
+
+> This Harvard professor just proved 6 hours of sleep &quot;triggers&quot; your body toward heart disease and even cancer in 1 week. He revealed 7 daily habits that destroy your sleep, mood, and brain: 1) Checking your phone right after waking up Media
+
+🔗 [View original post](https://x.com/TheFastedState/status/2097309963114979355)
+
+---
+
+### 🕐 13:03 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/08/2097309795036348701-1.jpg)
+
+🔗 [View original post](https://x.com/Life__Mastery/status/2097309795036348701)
+
+---
+
+### 🕐 13:00 UTC · @Wise1Philosophy
+
+> Your partner coming to you about something you&apos;ve done wrong is not a personal attack. It’s a sign they really care about the relationship &amp; want to make it work – it&apos;s a heads up. You communicate, you fix it, you stay. That&apos;s emotional maturity. That&apos;s commitment. That&apos;s love.
+
+🔗 [View original post](https://x.com/_Pammy_DS_/status/2097308982926873010)
+
+---
+
+### 🕐 12:57 UTC · @Wise1Philosophy
+
+> MARC ANDREESSEN DID 3+ HOURS ON ROGAN. HERE ARE 11 TAKEAWAYS YOU SHOULD ACTUALLY CARE ABOUT. 1. In his telling, AGI is not “coming.” It already arrived. He thinks the threshold quietly flipped about three months ago with GPT-5.5, Claude 4.6, Gemini 3, and Grok 4.3, and the world shrugged because the pace is too fast for anyone to notice the big moments anymore. 2. He says that for almost any subject, the best models now outperform the elite experts he could personally call, and he can call nearly anyone. He has not shown public evidence for that, and it is worth remembering a Nature Medicine study on a similar AI health system found it missed true emergencies more than half the time. Treat it as a serious hypothesis, not a settled fact. 3. On doctors, he claims they are already using ChatGPT live in the exam room, entering symptoms as you talk. His blunt line: “at that point you&apos;re asking the question of like, what do I need you for.” 4. Allegedly, when the model refuses, he gets around it by saying the request is for a novel. 5. Allegedly, his approach to tough concepts is “simplicity laddering.” Explain it like I am 10, then 5, then 2, until it finally lands. 6. Allegedly, he does not ask for the “correct” view first. He asks the AI to steelman both sides, then he decides. 7. Allegedly, for high-stakes questions he has the AI simulate a panel of experts who debate each other. 8. His meta-lesson: the moment you think “I don’t know how to solve this” is exactly where most people stop, and exactly where you should open the AI. 9. His belief: the scarce skill now is asking good questions. The limiting factor is not the model. It is your ability to frame the problem. 10. He talks about sending AI images such as rashes, lab results, and blood tests for quick second opinions, since current systems can interpret visuals directly. 11. He flags CBT as the clearest clinically validated therapy format AI can plausibly deliver solo, meaning real support could become effectively free and massively scalable. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2097308288052535732)
+
+---
+
+### 🕐 12:56 UTC · @Wise1Philosophy
+
+> A Stanford neurobiologist warns chronic stress is physically shrinking the part of your brain responsible for memory, focus, and clear thinking. Most people blame age. His 30 years of research points to something else entirely. It comes down to 4 variables almost nobody knows about: Media
+
+🔗 [View original post](https://x.com/marcuswlefton/status/2097308029297348986)
+
+---
+
+### 🕐 12:51 UTC · @Wise1Philosophy
+
+> Walking is the best exercise for fatloss. Done correctly, it can lower your risk of heart disease, improve blood sugar, strengthen your heart, and add years to your life. Here are 7 rules that completely changed how I walk: 1. Don&apos;t chase 10,000 steps. Media
+
+🔗 [View original post](https://x.com/CoachWillStone/status/2097306862983217565)
+
+---
+
+### 🕐 12:45 UTC · @Wise1Philosophy
+
+> A cardiologist shocked me when he said: &quot;You age because your body stops making Nitric Oxide. Without it, blood pressure rises, erections fail, and Alzheimer&apos;s happens.&quot; Here&apos;s the 5-step protocol to boost it naturally: 1. Stop using mouthwash
+
+🔗 [View original post](https://x.com/HeyDoc_MD/status/2097305434390778357)
+
+---
+
+### 🕐 12:42 UTC · @Wise1Philosophy
+
+> If you&apos;re in your 40s &amp; your goal is to retire by 50, here&apos;s exactly what to do: 1. Start an LLC before the week is over. Not next month. Not after you &quot;research more.&quot; This week.
+
+🔗 [View original post](https://x.com/gedamtekle/status/2097304469377552413)
+
+---
+
+### 🕐 12:40 UTC · @Wise1Philosophy
+
+> A Stanford neurologist told me: “Sticking out your tongue for 40 seconds removes cortisol faster than any pills and breathing exercises.” 1. Your neck is what&apos;s keeping you anxious.
+
+🔗 [View original post](https://x.com/LongevityCode_/status/2097304023435190464)
+
+---
+
+### 🕐 12:35 UTC · @Wise1Philosophy
+
+> Ten foods with no limit. Eat them at 9pm, eat them all week, it doesn&apos;t matter. 1. Pickles
+
+🔗 [View original post](https://x.com/CoachDanCole_/status/2097302871926862279)
+
+---
+
+### 🕐 12:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/08/2097301574628327792-1.jpg)
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2097301574628327792)
+
+---
+
+### 🕐 12:10 UTC · @Wise1Philosophy
+
+> OpenAI just achieved AGI. Here&apos;s what it means for the average person… &amp; how you can capitalize on this once-in-a-lifetime opportunity to build generational wealth:
+
+![OpenAI just achieved AGI. Here&apos;s what it means for the average person… &amp; how you can capitalize on this once-in-a-lifetime opportunity to build generational wealth:](../../../../assets/images/2026/09/08/2097296421049319440-1.jpg)
+
+🔗 [View original post](https://x.com/erichustls/status/2097296421049319440)
 
 ---
 
