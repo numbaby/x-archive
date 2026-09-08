@@ -2,7 +2,25 @@
 
 ## 📅 September 08, 2026
 
-> 36 post(s) archived.
+> 38 post(s) archived.
+
+---
+
+### 🕐 09:40 UTC · @Wise1Philosophy
+
+> Samsung, LG, Sony, TCL, Hisense, Vizio, Roku every brand ships smart TVs with the same 9 wrong settings. The picture mode is set for a showroom. The motion smoothing makes movies look like soap operas. The brightness is dimmed by an eco setting you didn&apos;t turn on. The audio makes dialogue inaudible and explosions deafening. The TV is taking screenshots of your screen and selling your viewing data to advertisers. The free channels are buried. And you&apos;re tapping through 5 menus when one remote button could control every device in the room. A home theater installer who&apos;s calibrated TVs from every major brand over 1,000 total in 11 years told his friend: &quot;The brand on the box doesn&apos;t matter. They all ship with the same problems. Showroom picture. Soap opera motion. Surveillance enabled. Audio unoptimized. Free content hidden. Every smart TV in America is sitting in a living room performing at 40% of its capability because every brand ships with the same factory defaults and nobody changes them.&quot; His friend said: &quot;I have an LG. This applies to me?&quot; &quot;LG, Samsung, Sony, TCL, Hisense, Vizio, Roku they all do the same things. They just put them in different menus with different names. The problems are universal. The fixes are universal. The fact that nobody changes them is universal.&quot; He changed 9 settings in 15 minutes. The picture improved. The sound improved. The spying stopped. And 500+ free channels appeared on a TV his friend thought only ran Netflix. &quot;Every smart TV owner in America should make these 9 changes. This thread gives you the setting name and the menu path for every brand so you can do it regardless of which logo is on the box.&quot; Here are the 9 things he changed 🧵
+
+🔗 [View original post](https://x.com/Eric_Smith08/status/2097258769680150940)
+
+---
+
+### 🕐 09:00 UTC · @Wise1Philosophy
+
+> En GptZone publicamos más de 1.000 contenidos al mes entre nuestra web, newsletter y redes sociales. Y descubrimos algo curioso: crear el contenido ya no era nuestro mayor problema. El problema venía después. ¿Qué artículos funcionan? ¿Qué temas generan más clics? ¿Qué publicación merece convertirse en newsletter? ¿Qué contenido deberíamos actualizar? Durante mucho tiempo, teníamos esas respuestas repartidas entre herramientas, métricas y canales. Probamos hacerlo con ChatGPT. Funcionaba, pero primero teníamos que recopilar los datos, pasarle el contexto y convertir sus recomendaciones en tareas. Seguíamos haciendo casi todo el trabajo. Así que cambiamos el enfoque. En lugar de pedirle respuestas, delegamos el workflow posterior a la publicación a Viktor. Lo que antes eran 5 tareas separadas para analizar, adaptar y decidir qué hacer con un contenido, ahora lo planteamos como 1 workflow que nuestro equipo puede delegar y revisar. Viktor trabaja dentro de Slack y Microsoft Teams y puede conectarse con 3.200+ herramientas. Nuestro equipo puede darle una tarea completa: revisar el rendimiento, detectar patrones, investigar oportunidades y preparar las siguientes acciones. Si un tema empieza a destacar, prepara cómo aprovecharlo en otros canales. Si un contenido necesita actualizarse, prepara el trabajo. Si aparece un patrón entre varias publicaciones, lo pone delante del equipo para decidir qué hacer. El cambio no fue añadir otra herramienta. Fue pasar de 5 tareas separadas a 1 workflow delegado. Nosotros seguimos decidiendo qué merece publicarse y aprobamos el resultado final. Viktor hace el trabajo que viene después. Un chatbot analiza lo que le das. A un AI employee le delegas el trabajo. Hire @viktor_com for your team. $100 in credits included, no card. Full link in first comment. In partnership with Viktor.
+
+![En GptZone publicamos más de 1.000 contenidos al mes entre nuestra web, newsletter y redes sociales. Y descubrimos algo curioso: crear el contenido ya no era nuestro mayor problema. El problema venía ](../../../../assets/images/2026/09/08/2097248592150790308-1.jpg)
+
+🔗 [View original post](https://x.com/MiguelMaestroIA/status/2097248592150790308)
 
 ---
 
