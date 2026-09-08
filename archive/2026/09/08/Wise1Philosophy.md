@@ -2,7 +2,140 @@
 
 ## 📅 September 08, 2026
 
-> 59 post(s) archived.
+> 79 post(s) archived.
+
+---
+
+### 🕐 14:12 UTC · @Wise1Philosophy
+
+> Nearly 50% of ChatGPT citations come from one specific place. A fascinating study analyzing 3 million AI answers and 30 million citations dropped a while back and answered a lot of key questions brands have. And it lines up closely with what we have been learning about how AI systems retrieve, evaluate and reuse information. By the way, if you want to know where your site stands right now across Google and AI search, check here (it&apos;s free): https://rightcited.com Alright, let’s get into the study. Kevin Indig, one of the most brilliant minds in this space, analyzed 3 million AI answers from ChatGPT alongside 30 million citations. The biggest takeaway? 44.2% of ChatGPT citations came from the first third of the content. 31.1% came from the middle. Only 24.7% came from the final third. That is a pretty clear pattern. Traditional SEO often rewarded depth and narrative, where you could warm up the reader, build context and delay the main point. AI retrieval is much less patient. If your strongest definitions, facts and entities are buried halfway down the page, they are less likely to be surfaced early enough to influence retrieval. That is because modern AI systems often discover pages, break them into chunks, score relevance and then assemble a smaller context window before generating an answer. The early sections help establish what the page is about. That makes front-loaded clarity extremely important. Again, if you want to know where your site stands right now across Google and AI search, check here (it&apos;s free): https://rightcited.com Indig also found several recurring traits in cited passages. Definitive language performed well, including simple constructions like “X is...” and “X refers to...” Cited content was also roughly twice as likely to contain question marks. And 78.4% of citations tied to questions came from headings. That is especially interesting because an H2 can function almost like a prompt, while the paragraph directly beneath it becomes the answer. Entity density mattered too. Typical text contained roughly 5% to 8% proper nouns. Highly cited text was around 20.6%. That reinforces something we have been talking about for a while. AI systems respond well to clear entity relationships. Specific companies, products, people, technologies, locations and categories give the model more context than vague marketing language. The best-performing content also tended to use a more neutral, analytical tone. So the pattern is becoming pretty consistent. AI rewards clarity, specificity and extractability. And that is a different writing model from what a lot of brands are still using. This is exactly why SEO Stuff content is structured the way it is. The done-for-you plan includes AI-search-optimized content built around question-based headings, direct answers, early definitions, TLDR sections and clear entity signals: https://seo-stuff.com/gold-plan-package We do not bury the useful information in paragraph 18 - the important classification and answer signals appear early. The Premium Content Bundle goes deeper: https://seo-stuff.com/premium-content-bundle-service It includes 60 long-form pieces designed around semantic coverage, comparisons, entity reinforcement and structured sections that are easier for search and AI systems to understand and reuse. The bigger takeaway is simple: AI wants content that gets to the point. Define the topic early. Mention the important entities early. Answer the question early. Use clear headings. Make the useful facts easy to extract. Nearly half of ChatGPT citations in this dataset came from the first third of the content. So if your best information is buried near the bottom of the page, there is a good chance you are making AI work harder than it needs to. And if you want to see where your business stands across Google, ChatGPT, Claude, Perplexity and broader AI search, start here: https://rightcited.com Microsoft dropped an official “Here Is How To Get Traffic From ChatGPT” guide. Interestingly, it got surprisingly little attention. Let’s go over it together. Not long ago Microsoft released &quot;A guide to AEO and GEO - Practical data strategies to empower retailers for AI search, A…
+
+![Nearly 50% of ChatGPT citations come from one specific place. A fascinating study analyzing 3 million AI answers and 30 million citations dropped a while back and answered a lot of key questions brand](../../../../assets/images/2026/09/08/2097327316368244959-1.jpg)
+
+🔗 [View original post](https://x.com/alexgroberman/status/2097327316368244959)
+
+---
+
+### 🕐 14:01 UTC · @Wise1Philosophy
+
+> Stop saving random AI prompts from your timeline. This free website has over 10,000 prompts for ChatGPT, Claude and Nano Banana, all organized in one place. Link in the comments. Media
+
+🔗 [View original post](https://x.com/AriaWestcott/status/2097324460537782521)
+
+---
+
+### 🕐 14:01 UTC · @Wise1Philosophy
+
+> Reddit is disappearing from ChatGPT citations right now, but I honestly think everyone is focusing on the wrong part of the story: Reddit isn’t what matters most here. Because something much bigger seems to have changed in how ChatGPT searches. 8 August: ChatGPT started citing Reddit less. 14 August: It basically stopped citing Reddit at all. But at almost exactly the same time, ChatGPT’s query fan-outs started changing too. It began using much more specific searches like: &gt; site:http://ibm.com &gt; ibm official pricing &gt; ibm docs [feature] Which suggests ChatGPT is doing less of: search the web → see what ranks → cite it And more of: choose where to search → search those sites/brands → build the answer But Reddit isn’t the only thing changing. Another dataset found it’s the entire citation mix: &gt; Reddit: 15% → 0% &gt; review sites/forums: 7% → 0% &gt; smaller company sites: 66% → 32% While: &gt; help centres/docs: 2% → 32% &gt; established companies: 4% → 18% &gt; app marketplaces: 2% → 17% This is the part I find most interesting. Is ChatGPT starting to decide which sources it trusts before it searches? Does that make the authority of the source more important than where an individual page ranks? And how long does any of this last? Because if AI search keeps proving one thing, it’s how quickly things change. Reddit looked incredibly important two weeks ago. In another two weeks, this could all look different again. looks like reddit is almost wiped from chatgpt sources the query fanout changes had a big impact and the past couple of days it seems to be almost completely removed from prompt responses https://promptwatch.com/data/reddit-citations-are-dropping-in-chatgpt
+
+![Reddit is disappearing from ChatGPT citations right now, but I honestly think everyone is focusing on the wrong part of the story: Reddit isn’t what matters most here. Because something much bigger se](../../../../assets/images/2026/09/08/2097324332532084897-1.png)
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2097324332532084897)
+
+---
+
+### 🕐 14:00 UTC · @Wise1Philosophy
+
+> Nearly half of America&apos;s economic growth now comes from ONE thing. It is not jobs, housing, or shopping. And your &quot;safe&quot; index fund is now betting on it... Here is what it is (and what it actually means for your investments): AI data centers. A data center is a giant building full of computers. They power the AI tools everyone is suddenly using. Building them costs a staggering amount of money. And a handful of tech giants are spending like never before. Five of the largest could spend around 750 billion dollars this year. That category of spending jumped 72 percent in a single year. Measured against the whole economy, that spending tops the dot-com peak. It has become the biggest single engine of the economy. Strip it out, and growth almost disappears. Now here is why this reaches your account: You probably own an index fund somewhere. Maybe inside a 401k you rarely check. It is supposed to spread your money across 500 companies. That is what makes it feel safe. You were told to buy the whole market and relax. But seven giant tech names now dominate that fund. Together they are more than a third of its value. At the dot-com peak, the top names were about 15 percent. So your diversified fund is really one giant bet on AI. And the cracks are already showing. Google&apos;s parent just burned more cash than it made. The first time that has happened since it went public. The profit gains are piling up in just a few names too. The rest of the market is barely growing its profits. The danger is not that AI suddenly fails. The danger is that everyone owns the same bet. When one giant stumbles, they often fall together. And a fund that felt safe drops all at once. That is the retirement money you were counting on. And you never chose this bet on purpose. This is how hidden risk actually works. It hides inside the word diversified. The comfort is the trap. Most people never look under the hood of their fund. They see 500 names and feel protected. Rules-based investing looks at what you actually own. It measures the risk instead of trusting the label. Then it spreads your money by design, not by accident. It does not care how popular a trade has become. That is exactly what Surmount was built for. Automated strategies that manage real risk, not comforting labels. So when the crowded trade unwinds, you are not trapped in it. You are already positioned: Media
+
+🔗 [View original post](https://x.com/SurmountInvest/status/2097324296918217134)
+
+---
+
+### 🕐 13:59 UTC · @Wise1Philosophy
+
+> PAID VS FREE 1. Netflix Paid: ↳ http://netflix.com Free alternative: Tubi ↳ http://tubitv.com 2. Spotify Premium Paid: ↳ http://spotify.com/premium/ Free: Spotify ↳ http://open.spotify.com 3. Apple Music Paid: ↳ http://apple.com/apple-music/ Free alternative: Demus ↳ http://demus.app 4. ChatGPT Plus Paid: ↳ http://chatgpt.com Free: ChatGPT ↳ http://chatgpt.com 5. Microsoft Office Paid: ↳ http://microsoft.com/microsoft-365 Free: LibreOffice ↳ http://libreoffice.org 6. Midjourney Paid: ↳ http://midjourney.com Free alternative: Leonardo AI ↳ http://leonardo.ai 7. Canva Pro Paid: ↳ http://canva.com Free: Canva ↳ http://canva.com 8. Google Gemini Paid: ↳ http://gemini.google.com Free: Gemini ↳ http://gemini.google.com 9. Disney+ Paid: ↳ http://disneyplus.com Free alternative: Tubi ↳ http://tubitv.com 10. Hulu Paid: ↳ http://hulu.com Free alternative: Pluto TV ↳ http://pluto.tv 11. Xbox Game Pass Paid: ↳ http://xbox.com/xbox-game-pass Free alternative: Epic Games Store ↳ http://store.epicgames.com/free-games 12. Kindle Paid: ↳ http://amazon.com/kindle Free alternative: Wattpad ↳ http://wattpad.com 13. Gmail Free: ↳ http://mail.google.com Privacy-focused alternative: Proton Mail ↳ http://proton.me/mail 14. Figma Paid: ↳ http://figma.com Free: Figma Starter ↳ http://figma.com 15. YouTube Premium Paid: ↳ http://youtube.com/premium Free alternative: Rumble ↳ http://rumble.com 16. Grammarly Premium Paid: ↳ http://grammarly.com Free alternative: Ginger ↳ http://gingersoftware.com 17. Notion Paid: ↳ http://notion.com wtf..Higgsfield Genjutsu...we are NOT ready for what happens next
+
+![PAID VS FREE 1. Netflix Paid: ↳ http://netflix.com Free alternative: Tubi ↳ http://tubitv.com 2. Spotify Premium Paid: ↳ http://spotify.com/premium/ Free: Spotify ↳ http://open.spotify.com 3. Apple Mu](../../../../assets/images/2026/09/08/2097323915349819630-1.jpg)
+
+🔗 [View original post](https://x.com/nrqa__/status/2097323915349819630)
+
+---
+
+### 🕐 13:52 UTC · @Wise1Philosophy
+
+> IF YOU DIED TOMORROW, YOUR FAMILY WOULDN&apos;T BE ABLE TO ACCESS A SINGLE THING YOU OWN DIGITALLY. BANK ACCOUNTS. PASSWORDS. CLOUD STORAGE. ALL OF IT PERMANENTLY LOCKED AWAY. HERE&apos;S HOW TO FIX IT IN 30 MINUTES:
+
+🔗 [View original post](https://x.com/iam_chonchol/status/2097322218250453502)
+
+---
+
+### 🕐 13:48 UTC · @Wise1Philosophy
+
+> This book changed the game: The Big Leap. Gay Hendricks cracked why so many smart, successful people sabotage themselves right as things start going well. Here are 8 lessons for breaking through your own ceiling:
+
+![This book changed the game: The Big Leap. Gay Hendricks cracked why so many smart, successful people sabotage themselves right as things start going well. Here are 8 lessons for breaking through your ](../../../../assets/images/2026/09/08/2097321086991929562-1.jpg)
+
+🔗 [View original post](https://x.com/davekashen/status/2097321086991929562)
+
+---
+
+### 🕐 13:44 UTC · @Wise1Philosophy
+
+> the best enterprise AI account on this app: AI transformation isn&apos;t sexy. Everyone wants to sell you a revolution. They put you in a conference room with a 90-slide deck and talk about autonomous agents running your entire enterprise. That&apos;s a fantasy built to bill you for months of strategy. The reality looks much more bo…
+
+🔗 [View original post](https://x.com/alex_prompter/status/2097320212005539949)
+
+---
+
+### 🕐 13:44 UTC · @Wise1Philosophy
+
+> The most underrated artifact in AI engineering is a folder of markdown files. Before any agent touches code on a brownfield engagement, the team builds a knowledge graph: every module, dependency, data flow, and domain term documented. The agent reads this context before writing a single line. Every time. On one of our logistics clients, building the knowledge graph took 4 days. It saved roughly 4 months. The agent stopped generating code that violated naming conventions. Stopped importing deprecated modules. Stopped wiring services through patterns the team abandoned six months earlier. At another healthcare client, the same knowledge graph served double duty. AI agents used it for code generation context. Human engineers used it as onboarding documentation. I mean, most teams skip this because it feels like overhead. Four days of documentation before any code ships feels slow. But the teams that skip it spend those same four days spread across four months of rework, reviewing PRs that look right and break something upstream. We&apos;ve seen this at @LimestoneHQ on dozens of engagements. The knowledge graph is the scaffolding everything else stands on.
+
+🔗 [View original post](https://x.com/mardehaym/status/2097320047957999726)
+
+---
+
+### 🕐 13:43 UTC · @Wise1Philosophy
+
+> Signs that you have a good Aura: 1. Dogs are drawn to you.
+
+🔗 [View original post](https://x.com/BeBetterMan_/status/2097319972959850910)
+
+---
+
+### 🕐 13:32 UTC · @Wise1Philosophy
+
+> Signs you have insulin resistance (&amp; don’t realize it): 1. Foam when you piss.
+
+![Signs you have insulin resistance (&amp; don’t realize it): 1. Foam when you piss.](../../../../assets/images/2026/09/04/2095773613341429937-1.png)
+
+🔗 [View original post](https://x.com/Fitby_Chandler/status/2097317085982638219)
+
+---
+
+### 🕐 13:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/08/2097316730489954772-1.jpg)
+
+🔗 [View original post](https://x.com/Mindsthatbuild/status/2097316730489954772)
+
+---
+
+### 🕐 13:24 UTC · @Wise1Philosophy
+
+> CREATINE is the most POWERFUL legal supplement in the world. However, most men have no idea what it really does. How to use it correctly. Or if it&apos;s safe in the long term? This thread will tell you what to do:
+
+![CREATINE is the most POWERFUL legal supplement in the world. However, most men have no idea what it really does. How to use it correctly. Or if it&apos;s safe in the long term? This thread will tell y](../../../../assets/images/2026/09/08/2097315034628321288-1.jpg)
+
+🔗 [View original post](https://x.com/NutritionCorp/status/2097315034628321288)
+
+---
+
+### 🕐 13:23 UTC · @Wise1Philosophy
+
+> 9 SIGNS YOUR CORTISOL IS THROUGH THE ROOF (&amp; YOU DON’T EVEN REALISE IT): 1. Waking up between 2–4 a.m at night Media
+
+🔗 [View original post](https://x.com/DPro_Coach/status/2097314915686248665)
+
+---
+
+### 🕐 13:05 UTC · @Wise1Philosophy
+
+> REBUILDING YOURSELF AFTER 40 STARTS WITH THESE 14 THINGS. 1. Fix your teeth, skin, and posture
+
+🔗 [View original post](https://x.com/josh_uglyasf/status/2097310286646812901)
 
 ---
 
@@ -114,6 +247,15 @@
 
 ---
 
+### 🕐 11:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/08/2097286439733973442-1.jpg)
+
+🔗 [View original post](https://x.com/Daily__wisdom_/status/2097286439733973442)
+
+---
+
 ### 🕐 11:15 UTC · @Wise1Philosophy
 
 > Top Claude Prompts for Job Seekers 1). Personalized Resume Builder ↳ “analyze my experience in industry/role and draft a tailored resume for a specific job title.” 2). Compelling Cover Letter Generator ↳ “write a cover letter for a job title position at company, highlighting my achievements in key skills/experience.” 3). Keyword Optimization ↳ “review this job description and suggest keywords to include in my resume for better ATS matching.” 4). Interview Preparation ↳ “generate likely interview questions for a role at target company and help me craft strong responses.” 5). Networking Message Crafting ↳ “write a concise LinkedIn message to connect with professional name about opportunities at company.” 2024: one prompt box, one output, start over every time 2026: a canvas where the whole process stays connected that&apos;s @pippitofficial&apos;s Creative Agent Canvas. instead of jumping between tools, you build your own workflow in one place → chat and canvas working together, ideas to e…
@@ -121,6 +263,15 @@
 ![Top Claude Prompts for Job Seekers 1). Personalized Resume Builder ↳ “analyze my experience in industry/role and draft a tailored resume for a specific job title.” 2). Compelling Cover Letter Generato](../../../../assets/images/2026/09/08/2097282571906457846-1.jpg)
 
 🔗 [View original post](https://x.com/nrqa__/status/2097282571906457846)
+
+---
+
+### 🕐 11:02 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/08/2097279365939699785-1.jpg)
+
+🔗 [View original post](https://x.com/apex_mentality_/status/2097279365939699785)
 
 ---
 
@@ -166,6 +317,15 @@
 
 ---
 
+### 🕐 10:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/08/2097271380609794487-1.jpg)
+
+🔗 [View original post](https://x.com/yeti_mind/status/2097271380609794487)
+
+---
+
 ### 🕐 10:06 UTC · @Wise1Philosophy
 
 > The AI ad wars have officially begun. Fable 5.1 vs GPT-6 Astra. Who did the Pringles Ad better? Media
@@ -179,6 +339,15 @@
 > Samsung, LG, Sony, TCL, Hisense, Vizio, Roku every brand ships smart TVs with the same 9 wrong settings. The picture mode is set for a showroom. The motion smoothing makes movies look like soap operas. The brightness is dimmed by an eco setting you didn&apos;t turn on. The audio makes dialogue inaudible and explosions deafening. The TV is taking screenshots of your screen and selling your viewing data to advertisers. The free channels are buried. And you&apos;re tapping through 5 menus when one remote button could control every device in the room. A home theater installer who&apos;s calibrated TVs from every major brand over 1,000 total in 11 years told his friend: &quot;The brand on the box doesn&apos;t matter. They all ship with the same problems. Showroom picture. Soap opera motion. Surveillance enabled. Audio unoptimized. Free content hidden. Every smart TV in America is sitting in a living room performing at 40% of its capability because every brand ships with the same factory defaults and nobody changes them.&quot; His friend said: &quot;I have an LG. This applies to me?&quot; &quot;LG, Samsung, Sony, TCL, Hisense, Vizio, Roku they all do the same things. They just put them in different menus with different names. The problems are universal. The fixes are universal. The fact that nobody changes them is universal.&quot; He changed 9 settings in 15 minutes. The picture improved. The sound improved. The spying stopped. And 500+ free channels appeared on a TV his friend thought only ran Netflix. &quot;Every smart TV owner in America should make these 9 changes. This thread gives you the setting name and the menu path for every brand so you can do it regardless of which logo is on the box.&quot; Here are the 9 things he changed 🧵
 
 🔗 [View original post](https://x.com/Eric_Smith08/status/2097258769680150940)
+
+---
+
+### 🕐 09:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/08/2097256275457249583-1.jpg)
+
+🔗 [View original post](https://x.com/Ant_Philosophy/status/2097256275457249583)
 
 ---
 
@@ -235,6 +404,15 @@
 ![a network of young crypto scammers allegedly pulled off one of the largest cryptocurrency thefts in u.s. history, tricking a washington, d.c. investor into handing over access that let them steal more](../../../../assets/images/2026/09/08/2097241257168843166-1.jpg)
 
 🔗 [View original post](https://x.com/daveydefi/status/2097241257168843166)
+
+---
+
+### 🕐 08:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/08/2097241109030113543-1.jpg)
+
+🔗 [View original post](https://x.com/Mindsthatbuild/status/2097241109030113543)
 
 ---
 

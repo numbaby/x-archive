@@ -2,7 +2,39 @@
 
 ## 📅 September 08, 2026
 
-> 6 post(s) archived.
+> 10 post(s) archived.
+
+---
+
+### 🕐 14:24 UTC · @tunguz
+
+> If all options are on the table, then ALL options are on the table. Not just those that benefit you and your narrow interests.
+
+🔗 [View original post](https://x.com/tunguz/status/2097330138883174564)
+
+---
+
+### 🕐 13:52 UTC · @tunguz
+
+> My favorite thing about automating verifiability of many scientific topics is that we’ll FINALLY be able to get rid of “peer review” once and for all. What a horrible, horrible, system that is.
+
+🔗 [View original post](https://x.com/tunguz/status/2097322090269650986)
+
+---
+
+### 🕐 13:46 UTC · @tunguz
+
+> A lot of drama going on. Stakes are really high for this one, and it’s hard to discern what to believe. My sense is that most of the conversations that have been reported are probably accurate, OAI did not have access to user logs during this process, but they did hear through some other means which direction Tristan and Levent were going, and managed to utilize that information for their own benefit. Just my 2c. And if you are surprised and shocked with how some of these conversations, you have probably never worked in academic research environment. There is a heated debate right now. Tristan Buckmaster says OpenAI told him its AI had solved the Navier–Stokes Millennium Prize Problem. That claim remains unverified, and the discussions around it have erupted into a dispute over scientific credit. Here is what happened and wha…
+
+🔗 [View original post](https://x.com/tunguz/status/2097320711312622044)
+
+---
+
+### 🕐 13:37 UTC · @tunguz
+
+> Two and a half years ago I was given the task to sit down and conduct a fireside chat with @ChrSzegedy for GTC 2024. The topic he was working on was autofromalization of Mathematics - something I never heard of. I crammed for a month anything I could find about it in order to come up with reasonably intelligent questions for our session. Since those days, the progress in that field has been nothing short of breathtaking. And now, with the autoformailzation of Fermat’s theorem (13 million lines of Lean code!) having been passed, it is quite likely that we’ll have *all* of human mathematics formalized by the end of next year, at the latest. In the post below Jared gives a brief overview of how did we get here and what a momentous occasion this is going to be. We are poised to translate all known math into formal code. https://x.com/i/article/2096800480437641217
+
+🔗 [View original post](https://x.com/tunguz/status/2097318523097829493)
 
 ---
 
