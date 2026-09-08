@@ -2,7 +2,98 @@
 
 ## 📅 September 08, 2026
 
-> 15 post(s) archived.
+> 26 post(s) archived.
+
+---
+
+### 🕐 08:01 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/08/2097233816813277444-1.jpg)
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2097233816813277444)
+
+---
+
+### 🕐 08:00 UTC · @Wise1Philosophy
+
+> Your body has emergency stress and anxiety switches built right into it. Here&apos;s what you can reset in seconds: 1. Lying awake in bed = blink slowly for 60 seconds
+
+🔗 [View original post](https://x.com/HiVioletMM/status/2097233488617656466)
+
+---
+
+### 🕐 07:54 UTC · @Wise1Philosophy
+
+> What happens when your body is severely vitamin D deficient? You may NEVER skip your vitamin D again after reading this list: 1. Your head starts sweating for no reason///
+
+🔗 [View original post](https://x.com/TinaaDeJong/status/2097231967746163077)
+
+---
+
+### 🕐 07:43 UTC · @Wise1Philosophy
+
+> A Stanford professor proved high cortisol hurts your memory, enlarges your fear center, and makes your brain smaller. 1. Walk barefoot on grass for 5 minutes Media
+
+🔗 [View original post](https://x.com/Rose_MaryIRL/status/2097229222171541621)
+
+---
+
+### 🕐 07:30 UTC · @Wise1Philosophy
+
+> The future of creativity is coming to Los Angeles. This October, CapCut World will bring together global creators to explore new possibilities in AI-powered creativity and video creation. A new era of creating starts here. #CapCutWorld #CapCutDidThat
+
+![The future of creativity is coming to Los Angeles. This October, CapCut World will bring together global creators to explore new possibilities in AI-powered creativity and video creation. A new era of](../../../../assets/images/2026/09/08/2097225998886396107-1.jpg)
+
+🔗 [View original post](https://x.com/FutureStacked/status/2097225998886396107)
+
+---
+
+### 🕐 07:27 UTC · @Wise1Philosophy
+
+> Los Angeles. October 2026. Creators from around the world. AI. Creativity. Video. CapCut World is bringing the future of creation together in one place. #CapCutWorld #CapCutDidThat
+
+![Los Angeles. October 2026. Creators from around the world. AI. Creativity. Video. CapCut World is bringing the future of creation together in one place. #CapCutWorld #CapCutDidThat](../../../../assets/images/2026/09/08/2097225411197329765-1.jpg)
+
+🔗 [View original post](https://x.com/TheAIColony/status/2097225411197329765)
+
+---
+
+### 🕐 07:24 UTC · @Wise1Philosophy
+
+> AI is changing the way we create, and creators are at the center of it all. This October, CapCut World is coming to Los Angeles for a global gathering celebrating AI, creativity, and the future of video creation. Can’t wait to see what creators make next. #CapCutWorld #CapCutDidThat
+
+![AI is changing the way we create, and creators are at the center of it all. This October, CapCut World is coming to Los Angeles for a global gathering celebrating AI, creativity, and the future of vid](../../../../assets/images/2026/09/08/2097224427461079133-1.jpg)
+
+🔗 [View original post](https://x.com/AriaWestcott/status/2097224427461079133)
+
+---
+
+### 🕐 07:21 UTC · @Wise1Philosophy
+
+> Something big is coming to Los Angeles. CapCut World is happening in October 2026, bringing together creators from around the world to explore the future of AI, creativity, and video creation. The future of creating is here. Will you be part of it? #CapCutWorld #CapCutDidThat
+
+![Something big is coming to Los Angeles. CapCut World is happening in October 2026, bringing together creators from around the world to explore the future of AI, creativity, and video creation. The fut](../../../../assets/images/2026/09/08/2097223714152559016-1.jpg)
+
+🔗 [View original post](https://x.com/AIFrontliner/status/2097223714152559016)
+
+---
+
+### 🕐 07:20 UTC · @Wise1Philosophy
+
+> The biggest scam in human history is the supplement industry. Out of 50,000+ products on the shelves, these are the 5 that actually work: 1. Magnesium glycinate
+
+![The biggest scam in human history is the supplement industry. Out of 50,000+ products on the shelves, these are the 5 that actually work: 1. Magnesium glycinate](../../../../assets/images/2026/09/03/2095419784422912168-1.jpg)
+
+🔗 [View original post](https://x.com/MuahDavis/status/2097223419138080776)
+
+---
+
+### 🕐 07:14 UTC · @Wise1Philosophy
+
+> I started taking whey at breakfast, vitamin D with the same meal, and magnesium before bed. Without exaggerating, my personality changed 180 degrees. 1. Whey protein, at breakfast
+
+🔗 [View original post](https://x.com/MarkoSilva291/status/2097221901412364679)
 
 ---
 
@@ -13,6 +104,14 @@
 ![Creatine isn&apos;t a steroid. It is a naturally occurring compound that exists in everyone’s body. It doesn&apos;t cause bloating, hair loss, weight gain, or kidney trouble. 1. It refuels effort](../../../../assets/images/2026/09/08/2097213349616652498-1.png)
 
 🔗 [View original post](https://x.com/HeyKimChong/status/2097213349616652498)
+
+---
+
+### 🕐 06:23 UTC · @Wise1Philosophy
+
+> We were asked to assess a mature eDiscovery platform comprising over 2 million lines of code. The product manager showed us the math and proved that engineering was not the bottleneck. Testing was the actual constraint. Law firms and corporations use it for large litigations: collect the custodians, process the documents, review them, produce what&apos;s responsive to the other side or to a regulator. It is largely a 15 year old Windows desktop application with release cycles stretching up to a year. They ran 3,800 regression tests entirely by hand. This suite provided zero coverage for new features. It required five months of manual execution just to ship an update, with a single tester clearing only one or two tests a day. New hires took three months to become useful because the test paths were completely undocumented. The procedures lived solely in the heads of veteran staff. Every new feature carries a five month tax. While this company shipped once, a competitor shipping quarterly took four swings at the market. From a board seat, this simply looks like a slow engineering organization where releases land late and the roadmap slips. The default response is to hire more engineers, but that makes the problem worse. Every new hire produces more surface area to regress and directly hits the bottleneck slowing the system down. You are just paying to lengthen the queue. The root cause is a QA function sitting completely outside development. They were absent from planning and acceptance. They arrived only at the end to inspect. When nobody upstream is accountable for building a testable product, thousands of manual tests feel necessary. We audited the codebase and scoped the turnaround. We are not automating 3,800 tests because most of the suite is duplicative or covers behavior customers abandoned years ago. Automating a test nobody needs is just faster waste. The first job is identifying the 500 tests that actually protect the business. No tool can answer that question for you. Once we isolate the core suite, the designed strategy shifts the workload away from manual execution. We designed a solution where AI generates test cases directly from acceptance criteria in minutes, and Playwright executes them automatically. The strategy establishes quality gates enforcing a 98% pass rate before code merges. The design targets an 80% reduction in total testing time. If you manage a mature product with a long release cycle and an update slips, you must be able to split the delay into days of engineering versus days of verification. Most companies cannot do this. That is the exact metric you need before approving more headcount. Your release cycle does not die of bad features. It dies of manual regression.
+
+🔗 [View original post](https://x.com/mardehaym/status/2097209066322067758)
 
 ---
 

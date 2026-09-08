@@ -2,7 +2,23 @@
 
 ## 📅 September 08, 2026
 
-> 1 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 06:29 UTC · @theendeavorpath
+
+> 6 signs magnesium deficiency is quietly damaging your health: 1. You get random, unexplained cramps Media
+
+🔗 [View original post](https://x.com/JasperKasparov/status/2097210637533544771)
+
+---
+
+### 🕐 06:23 UTC · @theendeavorpath
+
+> A fatty liver = insulin resistance Fatty liver = fructose Fatty liver = 1 in 3 adults, and almost none of them know it 1. Drink your coffee properly
+
+🔗 [View original post](https://x.com/IranaJasmin/status/2097209066699510010)
 
 ---
 
