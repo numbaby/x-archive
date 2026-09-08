@@ -2,7 +2,25 @@
 
 ## 📅 September 08, 2026
 
-> 45 post(s) archived.
+> 47 post(s) archived.
+
+---
+
+### 🕐 11:48 UTC · @Wise1Philosophy
+
+> AI VIDEO IS QUIETLY CROSSING THE LINE FROM CONTENT GENERATION INTO GENUINE CINEMATOGRAPHY With GPT-6 Astra + CapCut PC, the workflow itself starts looking more like filmmaking. The key difference: You start by designing the shot, not just prompting for the final image 🧵↓ Media
+
+🔗 [View original post](https://x.com/DataChaz/status/2097291074406580482)
+
+---
+
+### 🕐 11:15 UTC · @Wise1Philosophy
+
+> Top Claude Prompts for Job Seekers 1). Personalized Resume Builder ↳ “analyze my experience in industry/role and draft a tailored resume for a specific job title.” 2). Compelling Cover Letter Generator ↳ “write a cover letter for a job title position at company, highlighting my achievements in key skills/experience.” 3). Keyword Optimization ↳ “review this job description and suggest keywords to include in my resume for better ATS matching.” 4). Interview Preparation ↳ “generate likely interview questions for a role at target company and help me craft strong responses.” 5). Networking Message Crafting ↳ “write a concise LinkedIn message to connect with professional name about opportunities at company.” 2024: one prompt box, one output, start over every time 2026: a canvas where the whole process stays connected that&apos;s @pippitofficial&apos;s Creative Agent Canvas. instead of jumping between tools, you build your own workflow in one place → chat and canvas working together, ideas to e…
+
+![Top Claude Prompts for Job Seekers 1). Personalized Resume Builder ↳ “analyze my experience in industry/role and draft a tailored resume for a specific job title.” 2). Compelling Cover Letter Generato](../../../../assets/images/2026/09/08/2097282571906457846-1.jpg)
+
+🔗 [View original post](https://x.com/nrqa__/status/2097282571906457846)
 
 ---
 

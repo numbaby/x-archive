@@ -2,7 +2,15 @@
 
 ## 📅 September 08, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 12:19 UTC · @tunguz
+
+> Not all constraints are blockers. Many are regulators.
+
+🔗 [View original post](https://x.com/tunguz/status/2097298693586383344)
 
 ---
 
