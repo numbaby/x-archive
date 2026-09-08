@@ -2,7 +2,57 @@
 
 ## 📅 September 08, 2026
 
-> 38 post(s) archived.
+> 45 post(s) archived.
+
+---
+
+### 🕐 10:56 UTC · @Wise1Philosophy
+
+> Now turn messy documents into structured knowledge with one command. It&apos;s called Hyper-Extract. Most RAG setups chop your PDFs into pieces and pray the search layer holds up. This one goes further. It reads unstructured text and hands back knowledge graphs, hypergraphs, temporal and spatial graphs, spatio-temporal graphs, typed data models, Obsidian vaults, and MCP-ready knowledge bases. So rather than begging a model to read your report, you convert the report into a system you can query. What people do with it: Papers become research graphs. Earnings reports give up the companies, people, metrics and risks inside them. Private docs finally become searchable. Run it locally through vLLM and nothing leaves your machine. Pull the results into Claude Desktop or an IDE agent over MCP. 80+ YAML templates ship alongside it, across finance, legal, medical and industrial work. This is what RAG looks like once it grows a spine. Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals.
+
+![Now turn messy documents into structured knowledge with one command. It&apos;s called Hyper-Extract. Most RAG setups chop your PDFs into pieces and pray the search layer holds up. This one goes furthe](../../../../assets/images/2026/09/08/2097277775489241133-1.jpg)
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2097277775489241133)
+
+---
+
+### 🕐 10:54 UTC · @Wise1Philosophy
+
+> Holy smokes... How is this AI? Media
+
+🔗 [View original post](https://x.com/AIFrontliner/status/2097277493824631126)
+
+---
+
+### 🕐 10:49 UTC · @Wise1Philosophy
+
+> I think the real skill is scoping, Not asking Astra to do everything, But knowing exactly where it must stop :) https://x.com/i/article/2097274811928231936
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2097276036924764612)
+
+---
+
+### 🕐 10:35 UTC · @Wise1Philosophy
+
+> okay GPT-6 Astra, I see you Okay this one actually made me stop scrolling. A guy asked GPT-6 Astra to help him understand his ankle pain. And it didn&apos;t just write a paragraph back. It built him a full 3D model of his ankle he can play with. Bones, ligaments, tendons, the way the foot actually moves, sliders…
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2097272514611212715)
+
+---
+
+### 🕐 10:34 UTC · @Wise1Philosophy
+
+> Okay, this is wild 🤯 I turned a single image into an entire interactive 3D world with Hyper3D WorldGen. This is one of the coolest AI 3D demos I’ve tried. Here’s how to do it: Media
+
+🔗 [View original post](https://x.com/HeyAbhishek/status/2097272261866831976)
+
+---
+
+### 🕐 10:06 UTC · @Wise1Philosophy
+
+> The AI ad wars have officially begun. Fable 5.1 vs GPT-6 Astra. Who did the Pringles Ad better? Media
+
+🔗 [View original post](https://x.com/AIHighlight/status/2097265303667249515)
 
 ---
 
@@ -11,6 +61,14 @@
 > Samsung, LG, Sony, TCL, Hisense, Vizio, Roku every brand ships smart TVs with the same 9 wrong settings. The picture mode is set for a showroom. The motion smoothing makes movies look like soap operas. The brightness is dimmed by an eco setting you didn&apos;t turn on. The audio makes dialogue inaudible and explosions deafening. The TV is taking screenshots of your screen and selling your viewing data to advertisers. The free channels are buried. And you&apos;re tapping through 5 menus when one remote button could control every device in the room. A home theater installer who&apos;s calibrated TVs from every major brand over 1,000 total in 11 years told his friend: &quot;The brand on the box doesn&apos;t matter. They all ship with the same problems. Showroom picture. Soap opera motion. Surveillance enabled. Audio unoptimized. Free content hidden. Every smart TV in America is sitting in a living room performing at 40% of its capability because every brand ships with the same factory defaults and nobody changes them.&quot; His friend said: &quot;I have an LG. This applies to me?&quot; &quot;LG, Samsung, Sony, TCL, Hisense, Vizio, Roku they all do the same things. They just put them in different menus with different names. The problems are universal. The fixes are universal. The fact that nobody changes them is universal.&quot; He changed 9 settings in 15 minutes. The picture improved. The sound improved. The spying stopped. And 500+ free channels appeared on a TV his friend thought only ran Netflix. &quot;Every smart TV owner in America should make these 9 changes. This thread gives you the setting name and the menu path for every brand so you can do it regardless of which logo is on the box.&quot; Here are the 9 things he changed 🧵
 
 🔗 [View original post](https://x.com/Eric_Smith08/status/2097258769680150940)
+
+---
+
+### 🕐 09:13 UTC · @Wise1Philosophy
+
+> LA first look at how the foldable iPhone might look. Media
+
+🔗 [View original post](https://x.com/FutureStacked/status/2097251874810327381)
 
 ---
 
