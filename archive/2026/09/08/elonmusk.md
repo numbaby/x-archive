@@ -2,7 +2,23 @@
 
 ## 📅 September 08, 2026
 
-> 9 post(s) archived.
+> 11 post(s) archived.
+
+---
+
+### 🕐 16:13 UTC · @elonmusk
+
+> Well said Rubio just blew my mind‼️ The man who understood communism the most, just explained it to the least of us.
+
+🔗 [View original post](https://x.com/elonmusk/status/2097357638044443029)
+
+---
+
+### 🕐 15:55 UTC · @elonmusk
+
+> Hopefully soon in Europe too Just tried a CyberCab ride here in Austin Texas 🤩 Super smooth experience. The style is just unmatched especially vs Waymo which I tried last year. Hope it’s not gonna take years until this is possible in Germany. Come on EU 🤞
+
+🔗 [View original post](https://x.com/elonmusk/status/2097353262588383244)
 
 ---
 

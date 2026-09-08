@@ -2,7 +2,185 @@
 
 ## 📅 September 08, 2026
 
-> 87 post(s) archived.
+> 110 post(s) archived.
+
+---
+
+### 🕐 16:15 UTC · @Wise1Philosophy
+
+> Motion consistency beats visual novelty in this kind of scene. yeah.. i just recreated the STORM music video no camera, no cast, no set @higgsfield Genjutsu... exact workflow below👇
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2097358188903317809)
+
+---
+
+### 🕐 16:15 UTC · @Wise1Philosophy
+
+> Your competitor found a killer ad format. You can stop staring at it now. @TopviewAIhq’s new AI Marketer connects market research with ad production. Research your niche, adapt successful video formats to your product, then generate multiple variations to test. Ask for another round and it keeps your brand context. That folder of saved ads might finally pay its rent. Media Turn GPT-6 Astra into your AI marketing dream team. Meet Topview AI Marketer. Market research → Winning angles → Conversion-ready ads From strategy to final assets, all in one workspace #TopviewAI #AIMarketer #AIVideo #EcommerceMarketing #GPT6
+
+🔗 [View original post](https://x.com/alex_verem/status/2097358096909615492)
+
+---
+
+### 🕐 16:14 UTC · @Wise1Philosophy
+
+> Your clay model stops at the Blender export Turns out GPT-6 Astra + Dreamina Seedance 2.5 is an actual pipeline. Astra codes the geometry → Blender → Clay Renderer Plugin → final render on Dreamina. The Clay Renderer Plugin is the step I was missing. Here&apos;s what it does in 3 moves (finally): 1. Pushes your Blender clay straight into Dreamina 2. Seedance 2.5 renders it into finished footage 3. Your camera and layout stay locked, so it only adds the look Same model, no premium pipeline. Try it now 👇 #Dreamina #DreaminaPartner Media
+
+🔗 [View original post](https://x.com/socialwithaayan/status/2097357944149155908)
+
+---
+
+### 🕐 16:13 UTC · @Wise1Philosophy
+
+> GPT-6 Astra just walked into the agency business. @TopviewAIhq’s AI Marketer is live: research the market, find the angle, produce the ads. All in one workflow. It pulls research from TikTok Shop, Amazon and Shopee, then carries your product and brand context into the creative work. You can go from “what’s the opportunity?” to reviewing finished ads in the same workspace. Media Turn GPT-6 Astra into your AI marketing dream team. Meet Topview AI Marketer. Market research → Winning angles → Conversion-ready ads From strategy to final assets, all in one workspace #TopviewAI #AIMarketer #AIVideo #EcommerceMarketing #GPT6
+
+🔗 [View original post](https://x.com/alex_prompter/status/2097357630133993562)
+
+---
+
+### 🕐 16:06 UTC · @Wise1Philosophy
+
+> Decades of gerontology research identify 8 variables that govern your rate of aging. The most predictive isn&apos;t your genetics. It&apos;s how you cross the street.
+
+![Decades of gerontology research identify 8 variables that govern your rate of aging. The most predictive isn&apos;t your genetics. It&apos;s how you cross the street.](../../../../assets/images/2026/09/08/2097355855750631836-1.jpg)
+
+🔗 [View original post](https://x.com/Claritysteps/status/2097355855750631836)
+
+---
+
+### 🕐 16:06 UTC · @Wise1Philosophy
+
+> THE MOOD OF THE HOME IS CREATED BY THE WIFE... AND THE MOOD OF THE WIFE IS IN THE HANDS OF HER HUSBAND Here&apos;s what that means: 👇 🧵
+
+![THE MOOD OF THE HOME IS CREATED BY THE WIFE... AND THE MOOD OF THE WIFE IS IN THE HANDS OF HER HUSBAND Here&apos;s what that means: 👇 🧵](../../../../assets/images/2026/09/08/2097355812293562442-1.jpg)
+
+🔗 [View original post](https://x.com/scotti_brooks/status/2097355812293562442)
+
+---
+
+### 🕐 16:05 UTC · @Wise1Philosophy
+
+> After the first day of school you have a 15-minute window that never opens the same way again. Don&apos;t waste it on &quot;how was your day.&quot; Ask these 5 questions. 🧵 👇
+
+![After the first day of school you have a 15-minute window that never opens the same way again. Don&apos;t waste it on &quot;how was your day.&quot; Ask these 5 questions. 🧵 👇](../../../../assets/images/2026/09/08/2097355642830991838-1.jpg)
+
+🔗 [View original post](https://x.com/Manifest_Lord/status/2097355642830991838)
+
+---
+
+### 🕐 16:04 UTC · @Wise1Philosophy
+
+> Turns out GPT-6 Astra + Dreamina Seedance 2.5 is an actual pipeline Forget prompt → generate → regenerate. This workflow gives you actual structure first. GPT-6 Astra → coded geometry Blender → scene setup Clay Renderer Plugin → Dreamina Seedance 2.5 → final render This might be a much better way to create AI video when you actually care about the shot. #Dreamina #DreaminaPartner Media
+
+🔗 [View original post](https://x.com/Div_pradeep/status/2097355403172749353)
+
+---
+
+### 🕐 16:01 UTC · @Wise1Philosophy
+
+> 🚨 BREAKING: People are using Claude to build income streams… in days. Not months. Not years. Just prompts. Here are 7 you can copy 👇🧵
+
+🔗 [View original post](https://x.com/heyadam_ai/status/2097354718104437141)
+
+---
+
+### 🕐 16:00 UTC · @Wise1Philosophy
+
+> &quot;Does S1 exhibit physical prompt steerability: different prompts induce distinct behavior in the same environment?&quot; Yes! Watch S1 follow 4 different video prompt recipes in the same kitchen. The first one is something far out of distribution -- &quot;putting a plate in a toaster&quot;. Media Introducing S1, our new foundation model that learns from one example. It can be taught 10-minute long tasks that it has never seen before, from one video prompt without any fine-tuning. Watch S1 operate in real-time via in-context learning:
+
+🔗 [View original post](https://x.com/deepakpathak/status/2097354518497522024)
+
+---
+
+### 🕐 16:00 UTC · @Wise1Philosophy
+
+> Apple First Folding I Phone Lunches Tomorrow. Media
+
+🔗 [View original post](https://x.com/TheAIColonyRD/status/2097354428164591856)
+
+---
+
+### 🕐 15:54 UTC · @Wise1Philosophy
+
+> football analytics is solved. gpt-6 astra + higgsfield built a tool that tracks players, maps passes and follows possession while you watch. honestly, watching sports is more fun with ai. Media
+
+🔗 [View original post](https://x.com/daveydefi/status/2097352776795685314)
+
+---
+
+### 🕐 15:47 UTC · @Wise1Philosophy
+
+> Amazon Ring. NVIDIA Robotics. Nebius. Some serious teams are already using @antiochrobotics to develop physical AI through scaled, high-fidelity simulation. Now Antioch has raised a $32M Series A led by @GreylockVC. Definitely one to watch 👀↓ Today, we’re announcing Antioch’s $32 million Series A, led by @GreylockVC with participation from @A_StarVC, @Category_VC, @BoxGroup, @IcehouseVenture, and angels. While AI has drastically accelerated software development, physical autonomy has been constrained by slow, expensiv…
+
+🔗 [View original post](https://x.com/DataChaz/status/2097351001355194871)
+
+---
+
+### 🕐 15:45 UTC · @Wise1Philosophy
+
+> damn... OpenMAIC has changed a lot since I first came across it. with v1.0, it’s no longer just “give it a topic and get a course.” you can now work with an AI agent that plans and builds the course from your materials, then keep chatting to revise, expand, or change direction as you learn. genuinely nice to see the team bringing this new version to educators from around the world at UNESCO Digital Learning Week. try it here: http://open.maic.chat GitHub: http://github.com/THU-MAIC/OpenMAIC Media A huge moment for us: OpenMAIC at UNESCO Digital Learning Week. 🇺🇳 In Paris, we brought OpenMAIC into the room with educators from around the world , not just to demo AI, but to hear what it actually takes to make AI useful in their classrooms. We believe anyone should be able …
+
+🔗 [View original post](https://x.com/thetripathi58/status/2097350727513608218)
+
+---
+
+### 🕐 15:45 UTC · @Wise1Philosophy
+
+> GPT-6 Astra + Dreamina Seedance 2.5 is turning into a seriously interesting workflow. Astra codes the geometry → Blender builds the scene → Clay Renderer Plugin brings it into Dreamina → Seedance 2.5 handles the final render. This is where AI creation starts feeling like an actual production pipeline, not just prompting. #Dreamina #DreaminaPartner Media
+
+🔗 [View original post](https://x.com/Rixhabh__/status/2097350715241005126)
+
+---
+
+### 🕐 15:43 UTC · @Wise1Philosophy
+
+> Turns out GPT-6 Astra + Dreamina Seedance 2.5 is an actual pipeline. Astra → code the geometry Blender → build the scene Clay Renderer Plugin → bring it into Dreamina Seedance 2.5 → final render This feels much closer to directing the output than simply generating it. #Dreamina #DreaminaPartner Media
+
+🔗 [View original post](https://x.com/Damn_coder/status/2097350057083449449)
+
+---
+
+### 🕐 15:39 UTC · @Wise1Philosophy
+
+> EL 90% USA GEMINI PRO 3.1 COMO SI FUERA GOOGLE ❌ Y DESPERDICIAN SU VERDADERO PODER. Reuní +300 Prompts que lo convierten en una máquina de automatización BRUTAL. (GRATIS SOLO POR 24 HORAS) Like + RT + Sígueme Comenta &quot;IA&quot; y te los envío por DM 👇
+
+![EL 90% USA GEMINI PRO 3.1 COMO SI FUERA GOOGLE ❌ Y DESPERDICIAN SU VERDADERO PODER. Reuní +300 Prompts que lo convierten en una máquina de automatización BRUTAL. (GRATIS SOLO POR 24 HORAS) Like + RT +](../../../../assets/images/2026/09/08/2097349145170497543-1.jpg)
+
+🔗 [View original post](https://x.com/Griselda_IA/status/2097349145170497543)
+
+---
+
+### 🕐 15:37 UTC · @Wise1Philosophy
+
+> OpenMAIC v1.0 feels less like a course generator and more like having an AI agent build the learning experience with you. Give it your materials, let it plan and create the course, then keep talking to it to revise pages, add new content, or go deeper wherever you’re stuck. Interesting to see this kind of agentic learning experience being explored with educators at UNESCO Digital Learning Week. Try it: http://open.maic.chat GitHub: http://github.com/THU-MAIC/OpenMAIC Media A huge moment for us: OpenMAIC at UNESCO Digital Learning Week. 🇺🇳 In Paris, we brought OpenMAIC into the room with educators from around the world , not just to demo AI, but to hear what it actually takes to make AI useful in their classrooms. We believe anyone should be able …
+
+🔗 [View original post](https://x.com/AIPandaX/status/2097348709927506401)
+
+---
+
+### 🕐 15:36 UTC · @Wise1Philosophy
+
+> A business followed the recommendations in this article and added $50,000+ in ChatGPT, Google and Perplexity-driven traffic.
+
+![A business followed the recommendations in this article and added $50,000+ in ChatGPT, Google and Perplexity-driven traffic.](../../../../assets/images/2026/08/26/2092642032812748892-1.png)
+
+🔗 [View original post](https://x.com/alexgroberman/status/2097348392183791904)
+
+---
+
+### 🕐 15:20 UTC · @Wise1Philosophy
+
+> Okay, imagine giving AI that paper or topic you’ve been struggling with and simply saying: “teach me this.” OpenMAIC can turn it into an interactive course, and with v1.0, you can keep working with the agent to go deeper, revise the course, or focus on the parts you don’t understand. Pretty cool to see an open-source project like this being brought into conversations with educators from around the world at UNESCO Digital Learning Week. Try it: http://open.maic.chat GitHub: http://github.com/THU-MAIC/OpenMAIC Media A huge moment for us: OpenMAIC at UNESCO Digital Learning Week. 🇺🇳 In Paris, we brought OpenMAIC into the room with educators from around the world , not just to demo AI, but to hear what it actually takes to make AI useful in their classrooms. We believe anyone should be able …
+
+🔗 [View original post](https://x.com/aibytekat/status/2097344437970210851)
+
+---
+
+### 🕐 15:16 UTC · @Wise1Philosophy
+
+> follow this account if you want to actually learn enterprise AI: The most underrated artifact in AI engineering is a folder of markdown files. Before any agent touches code on a brownfield engagement, the team builds a knowledge graph: every module, dependency, data flow, and domain term documented. The agent reads this context before writing …
+
+🔗 [View original post](https://x.com/alex_prompter/status/2097343237467893818)
 
 ---
 
@@ -29,6 +207,16 @@
 > LinkedIn has been my business&apos;s top revenue driver for the last few years. The number of opportunities I&apos;ve gotten from LinkedIn DMs is crazy. Both from inbound and outbound. But running outbound campaigns by hand is brutal. Now HeyReach plugs into Claude, so you can write one sentence describing the campaign and your list, and then the sequence and the sends happen from there. Makes it super easy to scale, as it&apos;s already a part of your Claude workflow. Try HeyReach for free: https://app.heyreach.io/account/register Me and Stefan started @heyreach_io from our bedrooms in Macedonia. Buggy af at first. Since then: $17M ARR and 7,000+ teams running their LinkedIn outreach on it. This is how you go from “Hey” to deals closed in 2026:
 
 🔗 [View original post](https://x.com/ecomchasedimond/status/2097339533826363561)
+
+---
+
+### 🕐 14:51 UTC · @Wise1Philosophy
+
+> GPT-6 Astra can (actually) use your Mac. 1. Open Codex and pick Astra (if available). 2. Install Computer Use, enable server and skill. 3. Grant Screen Recording and Accessibility. 4. Connect Chrome and confirm it shows Manage. 5. Mention @Chrome or an app, then say the goal. 6. Approve access to the app or website. 7. Sign in yourself, then check the work. Give it your constraints and a clear finish line: &quot;Use [app or page] to achieve [result]. Use an available plugin for the work it supports, then Computer Use for remaining steps and visual checks. Preserve [constraints], check against [success criteria], and show me the result.&quot; Claude-to-Codex guide → https://charliehills.substack.com/p/claude-code-codex Repost ♻️ to help someone in your network.
+
+![GPT-6 Astra can (actually) use your Mac. 1. Open Codex and pick Astra (if available). 2. Install Computer Use, enable server and skill. 3. Grant Screen Recording and Accessibility. 4. Connect Chrome a](../../../../assets/images/2026/09/08/2097336967084310723-1.jpg)
+
+🔗 [View original post](https://x.com/charliejhills/status/2097336967084310723)
 
 ---
 
@@ -108,6 +296,14 @@
 > Nearly half of America&apos;s economic growth now comes from ONE thing. It is not jobs, housing, or shopping. And your &quot;safe&quot; index fund is now betting on it... Here is what it is (and what it actually means for your investments): AI data centers. A data center is a giant building full of computers. They power the AI tools everyone is suddenly using. Building them costs a staggering amount of money. And a handful of tech giants are spending like never before. Five of the largest could spend around 750 billion dollars this year. That category of spending jumped 72 percent in a single year. Measured against the whole economy, that spending tops the dot-com peak. It has become the biggest single engine of the economy. Strip it out, and growth almost disappears. Now here is why this reaches your account: You probably own an index fund somewhere. Maybe inside a 401k you rarely check. It is supposed to spread your money across 500 companies. That is what makes it feel safe. You were told to buy the whole market and relax. But seven giant tech names now dominate that fund. Together they are more than a third of its value. At the dot-com peak, the top names were about 15 percent. So your diversified fund is really one giant bet on AI. And the cracks are already showing. Google&apos;s parent just burned more cash than it made. The first time that has happened since it went public. The profit gains are piling up in just a few names too. The rest of the market is barely growing its profits. The danger is not that AI suddenly fails. The danger is that everyone owns the same bet. When one giant stumbles, they often fall together. And a fund that felt safe drops all at once. That is the retirement money you were counting on. And you never chose this bet on purpose. This is how hidden risk actually works. It hides inside the word diversified. The comfort is the trap. Most people never look under the hood of their fund. They see 500 names and feel protected. Rules-based investing looks at what you actually own. It measures the risk instead of trusting the label. Then it spreads your money by design, not by accident. It does not care how popular a trade has become. That is exactly what Surmount was built for. Automated strategies that manage real risk, not comforting labels. So when the crowded trade unwinds, you are not trapped in it. You are already positioned: Media
 
 🔗 [View original post](https://x.com/SurmountInvest/status/2097324296918217134)
+
+---
+
+### 🕐 14:00 UTC · @Wise1Philosophy
+
+> Me and Stefan started @heyreach_io from our bedrooms in Macedonia. Buggy af at first. Since then: $17M ARR and 7,000+ teams running their LinkedIn outreach on it. This is how you go from “Hey” to deals closed in 2026: Media
+
+🔗 [View original post](https://x.com/nikolak47/status/2097324081792332195)
 
 ---
 
