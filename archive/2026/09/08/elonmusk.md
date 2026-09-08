@@ -2,7 +2,15 @@
 
 ## 📅 September 08, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 03:28 UTC · @elonmusk
+
+> “Far right” is a propaganda term that became especially popular in recent years Have you noticed the media overusing the term &quot;far right&quot; for Republicans (and conservatives in other countries) But wondered why they rarely use the term &quot;far left&quot; to describe Democrats? Here&apos;s the past 5 years of Google News trends. You don&apos;t hate the media enough.
+
+🔗 [View original post](https://x.com/elonmusk/status/2097165268690543015)
 
 ---
 
