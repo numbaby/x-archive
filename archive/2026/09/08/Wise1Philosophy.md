@@ -2,7 +2,67 @@
 
 ## 📅 September 08, 2026
 
-> 79 post(s) archived.
+> 87 post(s) archived.
+
+---
+
+### 🕐 15:12 UTC · @Wise1Philosophy
+
+> Stop telling Claude, &quot;do this.&quot; Stop telling Claude, &quot;write code.&quot; Stop telling Claude, &quot;fix this error.&quot; You&apos;re actually treating a senior AI like a junior intern. Here are 8 prompts you can copy and paste directly:
+
+🔗 [View original post](https://x.com/jaysmith_ai/status/2097342382476013666)
+
+---
+
+### 🕐 15:07 UTC · @Wise1Philosophy
+
+> ok so, I need to talk about this for a sec I didn&apos;t realize how slow and expensive hardware testing actually was until someone explained it to me. You basically can&apos;t move fast and everything costs real money, so even good AI ends up stuck. Antioch raised $32M to fix that by letting teams test in simulation instead of always needing real hardware. Amazon&apos;s Ring, NVIDIA, and Nebius are already using it which is wild. rooting for this one 👇 Today, we’re announcing Antioch’s $32 million Series A, led by @GreylockVC with participation from @A_StarVC, @Category_VC, @BoxGroup, @IcehouseVenture, and angels. While AI has drastically accelerated software development, physical autonomy has been constrained by slow, expensiv…
+
+![ok so, I need to talk about this for a sec I didn&apos;t realize how slow and expensive hardware testing actually was until someone explained it to me. You basically can&apos;t move fast and everythin](../../../../assets/images/2026/09/08/2097340959659049328-1.png)
+
+🔗 [View original post](https://x.com/thetripathi58/status/2097340959659049328)
+
+---
+
+### 🕐 15:01 UTC · @Wise1Philosophy
+
+> LinkedIn has been my business&apos;s top revenue driver for the last few years. The number of opportunities I&apos;ve gotten from LinkedIn DMs is crazy. Both from inbound and outbound. But running outbound campaigns by hand is brutal. Now HeyReach plugs into Claude, so you can write one sentence describing the campaign and your list, and then the sequence and the sends happen from there. Makes it super easy to scale, as it&apos;s already a part of your Claude workflow. Try HeyReach for free: https://app.heyreach.io/account/register Me and Stefan started @heyreach_io from our bedrooms in Macedonia. Buggy af at first. Since then: $17M ARR and 7,000+ teams running their LinkedIn outreach on it. This is how you go from “Hey” to deals closed in 2026:
+
+🔗 [View original post](https://x.com/ecomchasedimond/status/2097339533826363561)
+
+---
+
+### 🕐 14:40 UTC · @Wise1Philosophy
+
+> Everyone who just bought an annual @pangram sub right now: Media We just killed Pangram, the world&apos;s most accurate AI detector. Today we’re announcing Super, a next generation humanization model. Our model makes content so unique and natural AI checkers can&apos;t even detect it. Check this out ⬇️
+
+🔗 [View original post](https://x.com/DataChaz/status/2097334255781122104)
+
+---
+
+### 🕐 14:34 UTC · @Wise1Philosophy
+
+> Introducing Buzzy 3D Director Console, powered by GPT-6 Astra. Let GPT-6 turn your words into fully interactive 3D world, and then to stunning video on Buzzy. &gt;Build complex 3D characters &amp; scenes with simple prompts &gt;Control cameras, characters, lighting, and environments easily &gt;Direct and refine every detail with simple prompts Experience OpenAI&apos;s strongest model on Buzzy! Media
+
+🔗 [View original post](https://x.com/Buzzy_now_AI/status/2097332703444308275)
+
+---
+
+### 🕐 14:30 UTC · @Wise1Philosophy
+
+> Vibelets MCP now casts our UGC ads. 0 creators hired. 16 styles, 16 avatars, Claude shortlists 3 👇 The order is the whole trick. Strategy, then script, then face: 1/ The strategy first 2/ The script pass 3/ The avatar roster 4/ The counter-pick 5/ The style match 6/ The render fan-out 7/ The face read Paste 1 URL into Claude, casting in 1 minute. Comment &quot;STYLES&quot; and I&apos;ll DM the connector link + all 8 prompts.
+
+![Vibelets MCP now casts our UGC ads. 0 creators hired. 16 styles, 16 avatars, Claude shortlists 3 👇 The order is the whole trick. Strategy, then script, then face: 1/ The strategy first 2/ The script p](../../../../assets/images/2026/09/08/2097331627965706389-1.jpg)
+
+🔗 [View original post](https://x.com/nipuntaneja/status/2097331627965706389)
+
+---
+
+### 🕐 14:29 UTC · @Wise1Philosophy
+
+> A couple planned a group trip for 8 friends. The planning process: 47 screenshots texted to a group chat. 6 &quot;what about this one?&quot; messages with Airbnb links nobody clicked. 3 arguments about location. 2 people who wanted a pool. 1 person who needed a pet-friendly property. 4 hours of scrolling through listings nobody else could see. And the person who finally booked it fronted $3,200 on their credit card then spent 3 weeks chasing 7 Venmo payments from friends who &quot;forgot.&quot; Their friend a travel planner who books 30+ Airbnbs per year for corporate retreats heard the group chat horror story and said something that silenced the table. &quot;Every problem you just described has been solved inside the Airbnb app for years. Collaborative wishlists where 8 people vote on properties no screenshots needed. Payment splitting across 16 travelers no fronting, no chasing. AI that reads 400 reviews and tells you the 3 things that matter no scrolling. A trip planner that builds the itinerary inside the app no Google Sheets. Flexible dates that find the cheapest window no guessing. A map that shows cheaper properties 10 minutes away no overpaying.&quot; She told them the Airbnb app has 11 features most users have never opened because most users search a city, scroll listings, and book. The same way they&apos;ve used Airbnb since 2015. The app rebuilt itself into a trip-planning platform. The users are still using it as a bedroom search engine. Here&apos;s every hidden Airbnb feature most travelers have never tapped 🧵
+
+🔗 [View original post](https://x.com/jackcoder0/status/2097331520042316267)
 
 ---
 
@@ -13,6 +73,15 @@
 ![Nearly 50% of ChatGPT citations come from one specific place. A fascinating study analyzing 3 million AI answers and 30 million citations dropped a while back and answered a lot of key questions brand](../../../../assets/images/2026/09/08/2097327316368244959-1.jpg)
 
 🔗 [View original post](https://x.com/alexgroberman/status/2097327316368244959)
+
+---
+
+### 🕐 14:03 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/08/2097324913589625025-1.jpg)
+
+🔗 [View original post](https://x.com/Ant_Philosophy/status/2097324913589625025)
 
 ---
 

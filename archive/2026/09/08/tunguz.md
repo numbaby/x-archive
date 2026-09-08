@@ -2,7 +2,31 @@
 
 ## 📅 September 08, 2026
 
-> 10 post(s) archived.
+> 13 post(s) archived.
+
+---
+
+### 🕐 15:11 UTC · @tunguz
+
+> Most of you have never been on a team of hypercompetitive autistic a-holes and it shows.
+
+🔗 [View original post](https://x.com/tunguz/status/2097342109644894617)
+
+---
+
+### 🕐 15:02 UTC · @tunguz
+
+> still don’t understand what’s a big deal with Naval Strokes. I mean, yeah, they feel nice and all, but there are other things that feel even nicer.
+
+🔗 [View original post](https://x.com/tunguz/status/2097339683894415455)
+
+---
+
+### 🕐 14:39 UTC · @tunguz
+
+> I mean, I’ve known my whole life how unprincipled most people are, but still …
+
+🔗 [View original post](https://x.com/tunguz/status/2097334011786080313)
 
 ---
 

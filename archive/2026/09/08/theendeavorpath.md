@@ -2,7 +2,15 @@
 
 ## 📅 September 08, 2026
 
-> 5 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 14:29 UTC · @theendeavorpath
+
+> .@nitprashant grew @emergentlabs from $0 to $100M ARR* in 8 months. Seriously insane. This is a 2-hour masterclass on running large-scale influencer programs, the economics behind X creators, orchestrating cultural moments, and what goes on BTS of startup hypergrowth. Probably the most tactical episode we&apos;ve recorded yet. Episode 3 of the @distributionpod. Enjoy. 00:00 Intro 00:51 The Tweet That Got Him Into Emergent 06:46 Why He Left Emergent 11:18 The Truth Behind the $100M ARR Number 16:32 How Growth Changes from $0 to $1B in Valuation 26:48 What&apos;s Stopping India From Growing in AI? 32:54 Ranking Emergent&apos;s Channels by Effectiveness 37:54 How to Start an Influencer Program from Scratch 50:20 Moment Marketing vs Evergreen Marketing 55:03 Inside the Instagram Mafia 01:21:57 How He Built the Network 01:34:38 Building the Team &amp; the Engine Media
+
+🔗 [View original post](https://x.com/subahwadhwani/status/2097331593790792035)
 
 ---
 
