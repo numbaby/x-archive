@@ -70616,5 +70616,18 @@
         "source_url": "https://pbs.twimg.com/media/HRt_z-hXUAAlr0O.jpg?name=orig"
       }
     ]
+  },
+  "2097475247595536880": {
+    "account": "simonw",
+    "date": "2026-09-09",
+    "file": "data/posts/2026/09/2026-09-09.jsonl",
+    "fingerprint": "3b1c3eba7ba58573bc5d66489d86d3637b2701aeb55515279b6aa41aedce9a46",
+    "media": [
+      {
+        "local_path": "assets/images/2026/09/09/2097475247595536880-1.jpg",
+        "sha256": "0ba5391350a95056b12963d63aecda73ed1ae54f73ce582dc7a63fc28cd64ffe",
+        "source_url": "https://pbs.twimg.com/card_img/2095172929587642368/ai8fEi2P?format=jpg&name=420x420_2"
+      }
+    ]
   }
 }
