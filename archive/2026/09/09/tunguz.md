@@ -2,7 +2,31 @@
 
 ## 📅 September 09, 2026
 
-> 10 post(s) archived.
+> 13 post(s) archived.
+
+---
+
+### 🕐 17:26 UTC · @tunguz
+
+> Become irrelevant. Claude on who gets to live 🧐
+
+🔗 [View original post](https://x.com/tunguz/status/2097738360248840632)
+
+---
+
+### 🕐 16:14 UTC · @tunguz
+
+> OK, this is super cool. Astra made me a sonar app that emits undetectable audio to scroll up/down on your computer. It uses the doppler effect to determine where your hand placement is. You can even double tap in the air to change scroll directions!
+
+🔗 [View original post](https://x.com/tunguz/status/2097720244701954442)
+
+---
+
+### 🕐 15:49 UTC · @tunguz
+
+> Yeah, I’m not sure that the same model they use to operate warehouses and deliveries should be applied to running airlines. Amazon Air has roughly 4.4X the major accident rate of global airlines and 18X the fatal accident rate, per departure. Something is seriously wrong with how Amazon is operating. I suspect the model of subcontracting to random tier 3 “airlines” is broken.
+
+🔗 [View original post](https://x.com/tunguz/status/2097714078131384359)
 
 ---
 

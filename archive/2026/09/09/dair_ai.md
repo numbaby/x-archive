@@ -2,7 +2,43 @@
 
 ## 📅 September 09, 2026
 
-> 5 post(s) archived.
+> 9 post(s) archived.
+
+---
+
+### 🕐 18:37 UTC · @dair_ai
+
+> Recommended paper from Google if you want to learn how to improve long-horizon agents with procedural graphs https://x.com/omarsar0/status/2097755424007373270?s=20 Another banger paper from Google. If you build memory for long-horizon agents, this one is worth your time. (bookmark it) Really nice to see how knowledge graphs are being explored in creative ways for agents. This has lots of implications for self-evolving agents. Technical summ…
+
+🔗 [View original post](https://x.com/dair_ai/status/2097756208857837851)
+
+---
+
+### 🕐 18:34 UTC · @dair_ai
+
+> Another banger paper from Google. If you build memory for long-horizon agents, this one is worth your time. (bookmark it) Really nice to see how knowledge graphs are being explored in creative ways for agents. This has lots of implications for self-evolving agents. Technical summary below: Agents usually pick actions by generating over an accumulating history, which leaves the procedural knowledge implicit. As trajectories get longer they lose track of objectives, call tools out of order, and repeat actions that did not work. The Procedural Graph helps to make that knowledge explicit. A knowledge graph stores facts as entity-relation-entity triplets. A Procedural Graph stores procedures as procedure-relation-procedure triplets, so the agent can query what to do next and under which conditions. At each step, the framework localizes the agent&apos;s active node, and a guidance model turns the surrounding subgraph into step-level guidance that biases the next action without dictating it. The graph rewrites itself. An LLM refiner compares failed trajectories against successful ones and edits the topology and attributes, committing only edits that hold up on held-out validation, and keeping the rejected ones on file so the same change is not proposed twice. Starting from a minimal skeleton it builds graphs that match or beat hand-designed ones, and it helps to repair a flawed expert priors instead of inheriting them. Paper: https://academy.dair.ai/papers/procedural-graphs-self-evolving-execution-structures-for-llm-agents-2609.09153
+
+![Another banger paper from Google. If you build memory for long-horizon agents, this one is worth your time. (bookmark it) Really nice to see how knowledge graphs are being explored in creative ways fo](../../../../assets/images/2026/09/09/2097755424007373270-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2097755424007373270)
+
+---
+
+### 🕐 18:00 UTC · @dair_ai
+
+> Wild paper from Microsoft and colleagues. They show a new attack that reconstructs the text a local LLM generates by watching CPU cache activity while it detokenizes. Earlier cache attacks needed something unusual in the deployment, such as shared data memory, CPU offloading, or a Mixture-of-Experts architecture. This work targets the detokenizer, which runs in default inference pipelines. The method has two stages. 1) Flush+Reload on shared tokenizer code detects when decoding happens, which lets the attacker fire Prime+Probe at the right moment and isolate token-dependent cache activity. 2) A clustering and language-model pipeline then recovers readable text from the noisy observations. They evaluate across datasets, hardware platforms, inference frameworks and model families, including real local deployments and agentic systems. The widely used tokenizer implementations are susceptible, and they are embedded in many popular local LLM products and agent frameworks. OpenClaw is demonstrated directly. Paper: https://academy.dair.ai/papers/detokenization-leaks-reconstructing-local-llm-outputs-from-cache-traces-2609.06674
+
+![Wild paper from Microsoft and colleagues. They show a new attack that reconstructs the text a local LLM generates by watching CPU cache activity while it detokenizes. Earlier cache attacks needed some](../../../../assets/images/2026/09/09/2097746964662366376-1.png)
+
+🔗 [View original post](https://x.com/dair_ai/status/2097746964662366376)
+
+---
+
+### 🕐 16:53 UTC · @dair_ai
+
+> It&apos;s crazy how far small models can be pushed. Robbyant just open-sourced LingBot-World 2.0 Small, a 1.3B world model that generates an interactive world in real time on a single consumer GPU. Same pattern we saw with language &amp; image models. Scale capabilities first, then distill down to hardware people own. 🌍 What if an AI-generated world didn’t end after a few seconds—but kept running for hours, responded to every move, let you attack, cast spells, shoot, or summon storms, and continued evolving through AI agents? That’s LingBot-World 2.0: our open-source real-time interactive wor…
+
+🔗 [View original post](https://x.com/omarsar0/status/2097730117900328968)
 
 ---
 

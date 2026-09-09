@@ -2,7 +2,351 @@
 
 ## 📅 September 09, 2026
 
-> 83 post(s) archived.
+> 125 post(s) archived.
+
+---
+
+### 🕐 18:31 UTC · @Wise1Philosophy
+
+> token bills hit different when there’s cashback attached: Media STOP PAYING FOR TOKENS ! START GETTING PAID INSTEAD Introducing Straitly, the first AI service that PAYS YOU for using tokens Unlike &gt; Openrouter charges 5.5% service fee &gt; Vercel charges 2.9% payment fee &gt; Anthropic gives you low rate limits &gt; OpenAI only lets you use GPT models…
+
+🔗 [View original post](https://x.com/DataChaz/status/2097754737999290872)
+
+---
+
+### 🕐 18:13 UTC · @Wise1Philosophy
+
+> A Stanford professor proved high cortisol hurts your memory, enlarges your fear center, and make your brain smaller. Here’s the 8 protocol: 1. Walk barefoot on grass for 5 minutes. Media
+
+🔗 [View original post](https://x.com/TheFastedState/status/2097750298379030870)
+
+---
+
+### 🕐 18:09 UTC · @Wise1Philosophy
+
+> In 2023, a lot of people thought Meta had missed AI. Three years later, it may have just found its biggest advantage. Meta launched Muse on September 8. It’s a personal AI agent that can actually do things for you. You give it a task and it gets to work, It can open a browser, fill out forms, send emails, manage your calendar, book trips and even make purchases, you can close the app and it keeps working. If it needs you, it comes back and asks. But I don’t think the tech is the most interesting part. Meta already has more than 3 billion people using its apps every day. WhatsApp. Instagram. Facebook. Messenger. Other AI companies have to convince people to download a new app and start using it every day. Meta doesn’t. People already open WhatsApp and Instagram without thinking about it. Muse can meet people where they already are. Meta also seems to understand that giving an AI this much access means people need to trust it. Each user gets their own virtual machine. Meta says Muse can’t see your actual passwords or payment details. You can see what it has done, what it wants to do next and choose which apps it can use. There’s also a new version coming that would encrypt the whole virtual machine with a key only the user has. Moxie Marlinspike, the guy who created Signal, was involved in the work too. That caught my attention. Meta has spent years dealing with questions about privacy. Now it’s bringing in one of the biggest names in private messaging to help build its AI agent. Zuckerberg has been talking about personal AI agents for a while. Now we can see where Meta is going with it, I don’t think Meta’s biggest advantage in AI is having the best model. It’s having billions of people already using its products every single day. That’s very hard to compete with. Introducing Muse, your personal AI agent from Meta that gets things done across every part of life. Download the Muse app and get started: https://Muse.ai
+
+🔗 [View original post](https://x.com/Shawnife/status/2097749147008823460)
+
+---
+
+### 🕐 17:59 UTC · @Wise1Philosophy
+
+> SLAPPING A CHATBOT ONTO A LEGACY CRM DOES NOT MAKE IT AN AGENTIC PLATFORM Real GTM work requires deep context. Lightfield just raised $45M from @a16z to solve this. Watching the demo shows what an agentic platform should actually look like 👀 Media Today we&apos;re announcing @lightfld&apos;s $47M Series A led by @a16z to reimagine CRM as a world model of a business. For agents to do customer-facing work, they need to understand how your business actually works. Salesforce wasn&apos;t designed for this. It was built 20+ years ago for huma…
+
+🔗 [View original post](https://x.com/DataChaz/status/2097746649867235765)
+
+---
+
+### 🕐 17:57 UTC · @Wise1Philosophy
+
+> apple just dropped the iphone 18 pro and 18 pro max. every other phone brand spent a year catching up to the 17 pro. apple just moved the finish line again. biggest phone launch of 2026 and it is not close 🤯 Media
+
+🔗 [View original post](https://x.com/daveydefi/status/2097746144667517083)
+
+---
+
+### 🕐 17:51 UTC · @Wise1Philosophy
+
+> Forward-Deployed Engineers: What They Do and Cost Read here: https://limestonedigital.com/blog/forward-deployed-engineers-what-they-do-and-cost
+
+![Forward-Deployed Engineers: What They Do and Cost Read here: https://limestonedigital.com/blog/forward-deployed-engineers-what-they-do-and-cost](../../../../assets/images/2026/09/09/2097744710659981356-1.jpg)
+
+🔗 [View original post](https://x.com/LimestoneHQ/status/2097744710659981356)
+
+---
+
+### 🕐 17:49 UTC · @Wise1Philosophy
+
+> 🚨BREAKING: Apple just introduced the iPhone 18 Pro and iPhone 18 Pro Max. The reveal opens on the moon with Earth rising behind it. Every phone maker spent a year chasing the 17 Pro. Apple just moved the target again. The biggest smartphone launch of 2026 is here. 🔥 https://x.com/TheAppleDesign/status/2097734979178647570/video/1 Media
+
+🔗 [View original post](https://x.com/TheAIColonyRD/status/2097744174305177996)
+
+---
+
+### 🕐 17:23 UTC · @Wise1Philosophy
+
+> This workflow is more interesting than simply “AI + Blender.” GPT-6 Astra generates the geometry → Blender builds the composition → Dreamina’s Clay Renderer Plugin transfers the clay model in one click → Seedance 2.5 turns it into the final render. The camera and layout stay locked during the handoff, so the original 3D setup remains intact. And with competitive pricing for Seedance 2.5 and 2.0, you can explore more looks without adding unnecessary cost. Worth testing. #Dreamina #DreaminaPartner Media
+
+🔗 [View original post](https://x.com/Damn_coder/status/2097737574475563255)
+
+---
+
+### 🕐 17:21 UTC · @Wise1Philosophy
+
+> the best breakdown of agent harnesses I&apos;ve seen on this app: To truly understand AI agents, you need to understand the harness. And it&apos;s not the model. I went deep on how a working agentic system actually gets assembled, and it clicked. Here are the notes: Easy Mode: WTF is a harness - The harness is everything wrapped around the model tha…
+
+🔗 [View original post](https://x.com/alex_prompter/status/2097737171218075771)
+
+---
+
+### 🕐 17:19 UTC · @Wise1Philosophy
+
+> To truly understand AI agents, you need to understand the harness. And it&apos;s not the model. I went deep on how a working agentic system actually gets assembled, and it clicked. Here are the notes: Easy Mode: WTF is a harness - The harness is everything wrapped around the model that turns a chatbot into an agent that does real work - An agent is not a model. It&apos;s a controlled workflow: trusted context + bounded tools + evaluation + human judgment + operational ownership - The model is the smallest, most swappable part. The harness is all the rest - Recipe is simple: instructions + scoped context + tools + a verifier + guardrails - Example: a research agent that answers an operational question. It confirms who&apos;s asking, plans a bounded analysis, pulls only approved data, runs trusted calculations, cites its evidence, and stops when confidence is too low - That&apos;s the whole point of a harness. It makes the answer traceable and safe instead of plausible prose Hard Mode: WTF is actually inside it - A working agent sits inside 6 layers, each answering one production question - Trigger: work starts from an event (a file lands, a message arrives, a schedule fires), not a human pressing a button - Orchestration: the loop, memory, retries, loop limits. How far the agent is allowed to go is a config setting, not code - Tools: numbers that must never vary run as fixed logic behind the agent, so it returns the same figure every time. The model doesn&apos;t improvise your KPIs - Trusted context: where truth lives and what the agent is allowed to see. This is ~80% of agent success. Context quality is the ceiling, not model power - Control: golden sets, guardrails, approvals. The agent advises, a named person decides - Runtime: traces, cost dashboards, audit. Once this exists, a model swap is just configuration God Mode: WTF makes the harness the moat - The durable asset is the harness: workflow knowledge, tools, context, evals, controls. Models and platform services change underneath it - Hyperscalers give you the foundation (hosting, identity, networking). They don&apos;t give you your business-specific harness. That&apos;s the source of advantage - Improvement is a loop: real production runs, corrections become new tests, the eval set and the agent both get sharper - Harness engineering is the cheap place to start: tweak prompts, tool definitions, model choice, model combos, long before you fine-tune anything - Traces are the receipts. See a bad outcome, read the trace, find the wrong step, change the harness so it never repeats - Highest-leverage act in the whole thing: a human writing down what good looks like. Everything else compounds on top of that The model gets the hype. The harness gets the results.
+
+🔗 [View original post](https://x.com/mardehaym/status/2097736766245499226)
+
+---
+
+### 🕐 17:19 UTC · @Wise1Philosophy
+
+> REAL-TIME WORLD MODELS NEED MORE THAN FASTER INFERENCE Meet @robbyant_brain&apos;s LingBot-World 2.0. it uses consistency distillation to compress multi-step denoising into a few-step student.. .. then DMD to preserve fidelity across long self-generated trajectories. nicely done 👊 🌍 What if an AI-generated world didn’t end after a few seconds—but kept running for hours, responded to every move, let you attack, cast spells, shoot, or summon storms, and continued evolving through AI agents? That’s LingBot-World 2.0: our open-source real-time interactive wor…
+
+🔗 [View original post](https://x.com/DataChaz/status/2097736594325463436)
+
+---
+
+### 🕐 17:07 UTC · @Wise1Philosophy
+
+> If you want a flat stomach, fix your gut bacteria ASAP. I switched my approach two weeks ago and i regret not starting sooner. Here&apos;s how i got rid of the bloat:
+
+🔗 [View original post](https://x.com/CoachWillStone/status/2097733637236293849)
+
+---
+
+### 🕐 17:04 UTC · @Wise1Philosophy
+
+> THE FIRST THING I NOTICED WASN&apos;T THE STYLE. It was the fact that the composition stayed exactly where I placed it. It turns out that GPT-6 Astra + Dreamina Seedance 2.5 is a real workflow. Astra encodes the geometry → Blender → Clay Renderer plugin → final rendering in Dreamina. The Clay Renderer plugin transfers the clay model from Blender to Dreamina with a single click, so Seedance 2.5 can focus on the look without completely changing the settings. This makes the workflow feel less like &quot;generating something random&quot; and more like directing a shot. Both Seedance 2.5 and Seedance 2.0 are available at a competitive price. Try it with one of your own scenes. #Dreamina #DreaminaPartner Media
+
+🔗 [View original post](https://x.com/Marco_Exito/status/2097732871616389318)
+
+---
+
+### 🕐 17:03 UTC · @Wise1Philosophy
+
+> Working alongside someone who built Uber gives you a pretty unusual education in entrepreneurship. Ben Cera spent 5 years with Travis Kalanick. Now he’s unpacking what that taught him about ambition, customer obsession, and building @polsia for massive scale 👀 Media Travis taught me the playbook on how to grow Polsia 100%+ MoM. Here are the values I apply every day to get to that growth rate: - Always be hustlin&apos; - Champion&apos;s heart - Customer Obsessed - Make Magic - Big Bold Bets aisloP episode 7 &quot;The Mentor&quot; explains all of them in details.
+
+🔗 [View original post](https://x.com/DataChaz/status/2097732648034828420)
+
+---
+
+### 🕐 16:58 UTC · @Wise1Philosophy
+
+> The future of CRM looks like a brain for the whole company. Lightfield remembers every promise, finds better prospects, books meetings, and learns what top sellers do differently. Employees and AI agents can finally work from the same understanding of the business and know what to do next. Today we&apos;re announcing @lightfld&apos;s $47M Series A led by @a16z to reimagine CRM as a world model of a business. For agents to do customer-facing work, they need to understand how your business actually works. Salesforce wasn&apos;t designed for this. It was built 20+ years ago for huma…
+
+🔗 [View original post](https://x.com/AIHighlight/status/2097731503564206409)
+
+---
+
+### 🕐 16:56 UTC · @Wise1Philosophy
+
+> Salesforce was built long before AI agents started speaking to customers. Lightfield is rebuilding CRM around what agents need today: full customer history, clear business context, and data that updates after every conversation. This could be the biggest change sales software has seen in decades. Today we&apos;re announcing @lightfld&apos;s $47M Series A led by @a16z to reimagine CRM as a world model of a business. For agents to do customer-facing work, they need to understand how your business actually works. Salesforce wasn&apos;t designed for this. It was built 20+ years ago for huma…
+
+🔗 [View original post](https://x.com/FutureStacked/status/2097730989896142981)
+
+---
+
+### 🕐 16:52 UTC · @Wise1Philosophy
+
+> Seven years after Apple fired him, Steve Jobs walked into MIT and gave 60 minutes of brutally honest advice on hiring, management and building companies. If you’re building anything, watch this. Media
+
+🔗 [View original post](https://x.com/AIHighlight/status/2097729912291385732)
+
+---
+
+### 🕐 16:51 UTC · @Wise1Philosophy
+
+> Your best salesperson knows things your CRM never sees. Lightfield studies how top sellers work, spots weak points in the funnel, and turns every customer conversation into knowledge the whole team can use. One great seller can now help improve the performance of an entire company. Today we&apos;re announcing @lightfld&apos;s $47M Series A led by @a16z to reimagine CRM as a world model of a business. For agents to do customer-facing work, they need to understand how your business actually works. Salesforce wasn&apos;t designed for this. It was built 20+ years ago for huma…
+
+🔗 [View original post](https://x.com/AriaWestcott/status/2097729606870811123)
+
+---
+
+### 🕐 16:49 UTC · @Wise1Philosophy
+
+> Most AI sales agents are working with half the story. Calls, promises, objections, and next steps often never make it into the CRM. Lightfield captures every interaction and keeps learning from it, giving both people and agents the context they need to make better decisions. Today we&apos;re announcing @lightfld&apos;s $47M Series A led by @a16z to reimagine CRM as a world model of a business. For agents to do customer-facing work, they need to understand how your business actually works. Salesforce wasn&apos;t designed for this. It was built 20+ years ago for huma…
+
+🔗 [View original post](https://x.com/TheAIColony/status/2097729186286665808)
+
+---
+
+### 🕐 16:46 UTC · @Wise1Philosophy
+
+> CRM just entered its AI era. Lightfield learns from every customer conversation, finds prospects who match your best buyers, books meetings, and handles follow-ups. It gives employees and AI agents a clear picture of how the entire business works, without waiting for someone to update a record. Today we&apos;re announcing @lightfld&apos;s $47M Series A led by @a16z to reimagine CRM as a world model of a business. For agents to do customer-facing work, they need to understand how your business actually works. Salesforce wasn&apos;t designed for this. It was built 20+ years ago for huma…
+
+🔗 [View original post](https://x.com/AIFrontliner/status/2097728417198190842)
+
+---
+
+### 🕐 16:38 UTC · @Wise1Philosophy
+
+> Tech is changing how fast we can process information. Think you can handle 900 words per minute? Media
+
+🔗 [View original post](https://x.com/FutureStacked/status/2097726268183646549)
+
+---
+
+### 🕐 16:36 UTC · @Wise1Philosophy
+
+> The CRM was never supposed to become a second job. Yet somehow we ended up paying sales teams to manually reconstruct conversations the software should already understand. Lightfield is building the opposite: the context builds itself, and agents work on top of it. That’s a much bigger shift than “AI inside your CRM.” They just raised $47M. Media Today we&apos;re announcing @lightfld&apos;s $47M Series A led by @a16z to reimagine CRM as a world model of a business. For agents to do customer-facing work, they need to understand how your business actually works. Salesforce wasn&apos;t designed for this. It was built 20+ years ago for huma…
+
+🔗 [View original post](https://x.com/alex_prompter/status/2097725830482833512)
+
+---
+
+### 🕐 16:30 UTC · @Wise1Philosophy
+
+> If you&apos;re picking your first CRM right now, you were probably going to buy HubSpot. Then graduate to Salesforce in a couple of years. That&apos;s just what everyone does. I did exactly that. Bought HubSpot for the agency, used maybe four of the fields, and kept the real notes in a Google Doc anyway. So it&apos;s worth knowing the default moved. Lightfield raised a $47M Series A led by a16z. Core CRM is free with no seat charges, you pay only for agent work, and teams have already migrated entire Salesforce implementations across, one of them at ~10,000 contacts and ~2,600 opportunities. The Lightfield team showed me the product and asked me to share my experience. And the free part isn&apos;t really the reason to look. The record underneath is built for agents from the start, so what you buy today still makes sense when your whole team is running agents on it. I don&apos;t know how it feels at year three. Nobody does yet. But the old default is a decision now Today we&apos;re announcing @lightfld&apos;s $47M Series A led by @a16z to reimagine CRM as a world model of a business. For agents to do customer-facing work, they need to understand how your business actually works. Salesforce wasn&apos;t designed for this. It was built 20+ years ago for huma…
+
+🔗 [View original post](https://x.com/socialwithaayan/status/2097724440511742412)
+
+---
+
+### 🕐 16:30 UTC · @Wise1Philosophy
+
+> Polsia runs on AI agents instead of employees, and that decision did not come out of nowhere. Ben spent five years working under Travis Kalanick before he built any of it, and the lessons from those years are all over the company. He walks through them properly in this one. Watch the full thing: Media Travis taught me the playbook on how to grow Polsia 100%+ MoM. Here are the values I apply every day to get to that growth rate: - Always be hustlin&apos; - Champion&apos;s heart - Customer Obsessed - Make Magic - Big Bold Bets aisloP episode 7 &quot;The Mentor&quot; explains all of them in details.
+
+🔗 [View original post](https://x.com/AIHighlight/status/2097724408324391014)
+
+---
+
+### 🕐 16:28 UTC · @Wise1Philosophy
+
+> Before Polsia existed, Ben spent five years working directly for Travis Kalanick. Now he is breaking down exactly what those years taught him about building. This one is worth your full attention: Ben learned entrepreneurship in the room, not from a book. Five years next to Travis Kalanick, then he went and built a company that runs on AI agents instead of staff. He explains how that connects. here: Media Travis taught me the playbook on how to grow Polsia 100%+ MoM. Here are the values I apply every day to get to that growth rate: - Always be hustlin&apos; - Champion&apos;s heart - Customer Obsessed - Make Magic - Big Bold Bets aisloP episode 7 &quot;The Mentor&quot; explains all of them in details.
+
+🔗 [View original post](https://x.com/TheAIColony/status/2097723917175517448)
+
+---
+
+### 🕐 16:23 UTC · @Wise1Philosophy
+
+> The default tool usually changes quietly before the market admits it. The default CRM just changed and most people won&apos;t notice for a year. Lightfield raised a $45M Series A led by a16z. Core CRM free. No seat charges. You pay for agent work. Teams have already moved whole Salesforce setups across. One at ~10,000 contacts. I&apos;ve been working with th…
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2097722487287001214)
+
+---
+
+### 🕐 16:16 UTC · @Wise1Philosophy
+
+> ok this is something I keep thinking about and haven&apos;t seen anyone actually say out loud agents made me personally so much faster at my job, like genuinely different person levels of output but the companies I&apos;ve worked at as a whole? nothing. Maybe a little and I think it&apos;s because none of that context ever left my head. The agent knew what I knew about the account, not what the company knew, so it dies with me instead of compounding for the team that&apos;s basically the exact problem Lightfield is fixing. instead of reps manually logging notes, it ingests every call, email, and slack to build a live customer world model that both humans and agents work from. they just announced a $47M series A led by a16z. Media Today we&apos;re announcing @lightfld&apos;s $47M Series A led by @a16z to reimagine CRM as a world model of a business. For agents to do customer-facing work, they need to understand how your business actually works. Salesforce wasn&apos;t designed for this. It was built 20+ years ago for huma…
+
+🔗 [View original post](https://x.com/thetripathi58/status/2097720819929768018)
+
+---
+
+### 🕐 16:09 UTC · @Wise1Philosophy
+
+> I need to see how far the face consistency survives 👀 Less than 24 hours ago, OpenAI dropped ChatGPT Images 2.5 People can&apos;t stop testing it. 10 wild examples: 👇
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2097719013975474652)
+
+---
+
+### 🕐 16:06 UTC · @Wise1Philosophy
+
+> Is gender-neutral parenting a mistake? We found 10 ways to tailor your approach to their biology, including: • How to Discipline Differently • Why you must avoid The Gender-Neutral Trap See what happens when you ignore these fundamental differences... 👇
+
+![Is gender-neutral parenting a mistake? We found 10 ways to tailor your approach to their biology, including: • How to Discipline Differently • Why you must avoid The Gender-Neutral Trap See what happe](../../../../assets/images/2026/09/09/2097718228655259827-1.jpg)
+
+🔗 [View original post](https://x.com/scotti_brooks/status/2097718228655259827)
+
+---
+
+### 🕐 16:06 UTC · @Wise1Philosophy
+
+> CHATGPT CAN HELP YOU THINK LIKE A WORLD CLASS STOCK TRADER. Most people have no idea how to use it properly. Here are 7 prompts to get started:
+
+🔗 [View original post](https://x.com/AriaWestcott/status/2097718190776197134)
+
+---
+
+### 🕐 15:57 UTC · @Wise1Philosophy
+
+> X just changed the creator game. Revenue Sharing is out. Original Content Rewards are in. Reposts &amp; recycled content won’t pay. If you want to earn on X, you need one thing: consistent ORIGIAL content. That’s why I’m using http://Autogen.ragx.in and here’s why its working..🧵👇
+
+![X just changed the creator game. Revenue Sharing is out. Original Content Rewards are in. Reposts &amp; recycled content won’t pay. If you want to earn on X, you need one thing: consistent ORIGIAL con](../../../../assets/images/2026/09/09/2097716035139039458-1.jpg)
+
+🔗 [View original post](https://x.com/Manifest_Lord/status/2097716035139039458)
+
+---
+
+### 🕐 15:52 UTC · @Wise1Philosophy
+
+> Google just revealed why it sometimes ignores your site. Yes, even if you think you are doing everything right. This comes straight from Google’s John Mueller. A site owner recently took to Reddit with a frustrating problem. Their sitemap returned a 200, the XML was valid, nothing was blocked and Googlebot logs looked normal. Yet Search Console kept showing “Couldn’t fetch” and “Sitemap could not be read” for months. By the way, if you feel like you&apos;re doing everything right but still aren&apos;t showing up in Google, ChatGPT, Claude or broader AI search, let SEO Stuff take a look (it&apos;s free): https://rightcited.com/ Mueller’s response was pretty blunt: “Micro one part of sitemaps is that Google has to be keen on indexing more content from the site. If Google’s not convinced that there’s new &amp; important content to index, it won’t use the sitemap.” That is a really important point. A technically valid sitemap does not mean Google is automatically interested in crawling and indexing everything you publish. The broader quality and value of the site still matter. If Google does not see enough new, useful or important content worth discovering, fixing the XML file alone may not solve the underlying problem. And this connects directly to AI search. Google evaluates sites using signals around content quality, authority, freshness, internal linking, historical performance and external validation. If your strongest pages are difficult to discover or never make it into the index consistently, they also have fewer opportunities to surface downstream in AI-powered search experiences. That does not necessarily mean your site is bad. It may mean you have thin coverage relative to competitors, weak internal linking, poor structural clarity, little decision-stage content, limited external authority or not enough differentiation. This is exactly why SEO Stuff is structured the way it is. The done-for-you package combines decision-stage content, question-based headings, direct answers, internal linking and three DR50+ contextual authority backlinks: https://seo-stuff.com/gold-plan-package The goal is to give Google more useful pages to discover while strengthening the authority behind them. The Premium Content Bundle goes deeper: https://seo-stuff.com/premium-content-bundle-service It adds 60 long-form articles designed to expand topical coverage, strengthen internal linking, reinforce the categories and problems associated with the business and keep the site actively publishing useful information. The larger takeaway is simple. Technical SEO gets Google through the door. You still need to give it a reason to keep crawling. A perfect sitemap cannot compensate for a site with weak content, little authority or nothing meaningfully new to discover. And as Google Search becomes more intertwined with AI retrieval, getting your best information crawled, indexed and understood becomes even more important. If you feel like you&apos;re doing everything right but still aren&apos;t showing up in Google, ChatGPT, Claude or broader AI search, let Rightcited take a look. It’s free: https://rightcited.com/ On top of the organic search traffic and revenue growth... This brand is now also appearing across 6,200+ tracked AI responses in ChatGPT, Gemini, Perplexity, Copilot, Google AI Mode and Google AI Overviews. And the numbers are still growing. Here is the 6-step process they used:…
+
+![Google just revealed why it sometimes ignores your site. Yes, even if you think you are doing everything right. This comes straight from Google’s John Mueller. A site owner recently took to Reddit wit](../../../../assets/images/2026/09/03/2095507511843664277-1.png)
+
+🔗 [View original post](https://x.com/alexgroberman/status/2097714896582676921)
+
+---
+
+### 🕐 15:52 UTC · @Wise1Philosophy
+
+> 🚨BREAKING NEWS: Claude can now build a instagram page from scratch and hit monetization in just 89 days. Message &quot;READY&quot; and I&apos;ll show you how. Media
+
+🔗 [View original post](https://x.com/amelieannepl/status/2097714753833431042)
+
+---
+
+### 🕐 15:52 UTC · @Wise1Philosophy
+
+> Stop betting your whole budget on one ad. Topview&apos;s new AI Marketer takes one request and turns it into a full batch of ad versions, so you can test angles and keep the winner. It does the market research first, so research and ad creation sit in one workflow. @TopviewAIhq See it turn raw shop data into a finished ad here: Media Turn GPT-6 Astra into your AI marketing dream team. Meet Topview AI Marketer. Market research → Winning angles → Conversion-ready ads From strategy to final assets, all in one workspace #TopviewAI #AIMarketer #AIVideo #EcommerceMarketing #GPT6
+
+🔗 [View original post](https://x.com/AIFrontliner/status/2097714659780382976)
+
+---
+
+### 🕐 15:44 UTC · @Wise1Philosophy
+
+> A trend is gone before the designer even opens the brief. Topview&apos;s new AI Marketer tracks what is trending on TikTok Shop, Amazon and Shopee, then turns it into ads for your product while it still matters. Market research and ad creation in one workflow, live now. @TopviewAIhq Watch it in action here: Media Turn GPT-6 Astra into your AI marketing dream team. Meet Topview AI Marketer. Market research → Winning angles → Conversion-ready ads From strategy to final assets, all in one workspace #TopviewAI #AIMarketer #AIVideo #EcommerceMarketing #GPT6
+
+🔗 [View original post](https://x.com/AIHighlight/status/2097712713371635977)
+
+---
+
+### 🕐 15:42 UTC · @Wise1Philosophy
+
+> Made with GPT Image 2.5 Prompt 👇 Using my uploaded photo, show me what I would have looked like around 1985. Preserve my identity, facial features, skin tone, age, and recognizable appearance. Reimagine my hair, clothing, accessories, and surroundings with bold, unmistakably mid-1980s styling—expressive silhouettes, statement accessories, layered details, distinctive colors, and textures. Make it feel like a genuine 1985 photograph with analog grain, faded color, direct flash, and subtle softness. Add a period-accurate 1980s red-orange date stamp in the lower corner. No modern objects or text. Made with GPT Image 2 Prompt: Using my uploaded photo, show me what I would have looked like around 1985. Preserve my identity, facial features, skin tone, age, and recognizable appearance. Reimagine my hair, clothing, accessories, and surroundings with bold, unmistakably mid-198…
+
+![Made with GPT Image 2.5 Prompt 👇 Using my uploaded photo, show me what I would have looked like around 1985. Preserve my identity, facial features, skin tone, age, and recognizable appearance. Reimagi](../../../../assets/images/2026/09/09/2097712223044907454-1.jpg)
+
+🔗 [View original post](https://x.com/miratechtool/status/2097712223044907454)
+
+---
+
+### 🕐 15:37 UTC · @Wise1Philosophy
+
+> Data means nothing until it tells you what to make. AI Marketer, now live on Topview, studies your product, your competitors and what is selling right now, then hands you a clear report plus the creative direction, and builds the ads in the same workflow. @TopviewAIhq Watch it in action here: Media Turn GPT-6 Astra into your AI marketing dream team. Meet Topview AI Marketer. Market research → Winning angles → Conversion-ready ads From strategy to final assets, all in one workspace #TopviewAI #AIMarketer #AIVideo #EcommerceMarketing #GPT6
+
+🔗 [View original post](https://x.com/AriaWestcott/status/2097710999595897003)
+
+---
+
+### 🕐 15:30 UTC · @Wise1Philosophy
+
+> We have built outbound systems for 275+ companies. If I started from zero this month, the first thing I would create is this folder on my laptop 👇 7-step workflow runs the campaign end to end, and all 7 read from that folder. The run: 1. Catch the signal PredictLeads for hiring and funding, G2 for accounts researching your category, RB2B for the companies already visiting your website. Rank them by what actually changed at the account. 2. Qualify against your ICP A scoring script you write once, so the same account scores the same on every run. Firmographics first, because the cheapest filter should run before you spend a credit. 3. Find the people Prospeo io and Clay, starting from the domain and building the list live. Pull the whole buying committee: the champion, the decision maker, and whoever gets blamed if it fails. 4. Verify the contact Work email and mobile in the same pass. Cheapest provider first, and waterfall for the emails the first provider doesn&apos;t find. 5. Write from your frameworks Claude drafts from the angles that already converted, because the folder holds them with the numbers attached. 6. Preflight the send SPF, DKIM and DMARC set-up on every sending domain, volume spread across mailboxes, and any contact already part of another sequence is removed. Gmail, Yahoo and Outlook all enforce this on bulk senders now. 7. Launch and learn Instantly for volume email, Lemlist for calls and multichannel. Replies and booked meetings go back to the CRM, and what converted goes back into the folder so your workflow can learn by itself. So, the folder. CLAUDE md holds your ICP, your tone and the right order of actions. skills/ holds the plays you have already run, saved once and reusable by any agent. hooks/ holds the guardrails: one caps enrichment spend, one refuses a send to a domain already in an open sequence. frameworks/ holds the copy that converted. Claude reads those files before every task. The better the files, the better the output. A year ago this was a folder of API keys and one very long prompt. Clay, Prospeo io, lemlist and Instantly ai all ship an MCP server now, and Lemlist publishes its own Claude Skills, so half the plays arrive already written. If you want the 7 steps, the folder structure, the 6 plays worth saving, and understand where Claude Code stops and where Clay takes over. Comment &quot;GTM&quot; and I will send you the full cheat sheet.
+
+![We have built outbound systems for 275+ companies. If I started from zero this month, the first thing I would create is this folder on my laptop 👇 7-step workflow runs the campaign end to end, and all](../../../../assets/images/2026/09/09/2097709150059061422-1.jpg)
+
+🔗 [View original post](https://x.com/Kenny_GTM/status/2097709150059061422)
+
+---
+
+### 🕐 15:30 UTC · @Wise1Philosophy
+
+> Steal this content system that generated for us $153K MRR in 87 days. I put the whole play on one cheat sheet. It&apos;s below 👇 By the time someone books a call with us, they already have 2 or 3 names in their head. We are on that list or we are not. Content is the only thing that puts us there. Those posts booked 356 meetings and signed 27 new clients, zero paid ads. Now the machines read it too. We write every post so ChatGPT and Perplexity can quote it back when someone asks them for a B2B GTM agency. Search and AI answers went from 16.5% of our traffic to 33.3% in 3 months, and $506K in contract value in 4. In a year everyone will have these tools and reach will cost almost nothing. Trust will still take exactly as long as it always did. That is the part I would start building now: 𝗙𝗼𝘂𝗻𝗱𝗮𝘁𝗶𝗼𝗻 (built once per person, read on every run) → Voice profile: a 25-question conversation. It captures how someone talks before AI gets anywhere near them. → ICP doc: 3 buyer tiers, each mapped to the language that tier types into a search bar. → 3 to 5 content pillars every post has to trace back to. Skip this layer and 24 people turn into one very polite assistant wearing 24 different headshots. I have watched it happen. 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 (weekly, 7 workers in parallel) → Apify for what is performing on LinkedIn right now → Reddit for how buyers describe the pain in their own words → YouTube for frameworks worth adapting → X for the live arguments → Open web for fresh reports and launches, dated sources only → Fireflies transcripts from client calls, still the highest-signal source we have → Our own archive for the post that is overdue a rewrite 𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 𝗹𝗶𝗻𝗲 → Hook generator: 59 patterns, 20+ variations per idea, top 3 to 5 ranked → Copy developer: a full draft in the documented voice → Post grader: 5 dimensions scored out of 50. Below 38 goes back with one fix per failing dimension. → Visuals built in-house off the brand spec in Claude, images through Gemini and OpenAI AI drafts. The human sharpens. The voice profile is the guardrail. 𝗗𝗲𝗹𝗶𝘃𝗲𝗿 → Approved posts land in ClickUp with copy, visual and scheduling notes → A daily commenting plan built around the posting schedule → Engagement data comes back in. Winning structures get recycled, weak angles get flagged. 𝗥𝗲𝗽𝘂𝗿𝗽𝗼𝘀𝗲 One post that performed is one validated idea. It gets rebuilt into an X thread, a newsletter, a blog, a video script, a carousel. Every platform gets its own structure, so the same idea arrives 5 different ways. 𝗥𝗲𝗳𝗿𝗲𝘀𝗵 → Every session logs what got changed and what got rejected → Pattern recognition every 5 sessions: where the voice drifts, what keeps getting rewritten → Monthly audit of the pillars against where the market moved 27 skills, one terminal, and the whole thing still comes down to one small moment. Someone accepts a calendar invite, and instead of thinking who is this, they think oh, I&apos;ve seen your stuff. That is content as a GTM channel. Everything above is the machinery that makes it repeatable. Comment content and I&apos;ll send you the full cheatsheet👇 (must be following or else I won&apos;t be able to send it)
+
+![Steal this content system that generated for us $153K MRR in 87 days. I put the whole play on one cheat sheet. It&apos;s below 👇 By the time someone books a call with us, they already have 2 or 3 name](../../../../assets/images/2026/09/09/2097709140206575716-1.jpg)
+
+🔗 [View original post](https://x.com/mailankhong/status/2097709140206575716)
+
+---
+
+### 🕐 15:30 UTC · @Wise1Philosophy
+
+> We put over $100k a month into LinkedIn Ads for clients, and I run all of it from a terminal. Today I&apos;m giving away the 12 skills and 3 agents that do the work. LinkedIn Ads is one of the most tedious platforms to run. Bid adjustments, audience changes, campaign analysis, catching creative fatigue, all of it across dozens of campaigns and ad sets. I spent 300+ hours turning what I know about the platform into skills Claude Code can run. 3 agents share them: &gt; REPORTING: I ask for a read on an account and the agent writes it up. The fatigue skill is the one I would not give back. It watches CTR slide across a creative&apos;s whole run and tells me an ad is finished days before LinkedIn slows it down on its own. &gt; CAMPAIGN MANAGEMENT: I change bids and push audience edits across every live campaign in one pass, straight through the LinkedIn Ads API. &gt; CREATIVE: It researches the audience, drafts angles in the language buyers use, writes the copy and builds the designs. I write one prompt. It builds the campaign, uploads the creative, and reports back. This is probably the only skills database in the space that runs LinkedIn Ads from Claude Code at a real professional level. Years of learning on how to scale B2B SaaS and agency accounts, plus the onboarding to set it all up. The exact skills we use internally to manage clients in our $7M ARR GTM agency. Comment &quot;LinkedIn Ads&quot; and I&apos;ll send the whole thing over: the 12 skills, the 3 agents, and the setup.
+
+![We put over $100k a month into LinkedIn Ads for clients, and I run all of it from a terminal. Today I&apos;m giving away the 12 skills and 3 agents that do the work. LinkedIn Ads is one of the most te](../../../../assets/images/2026/09/09/2097709126038229347-1.png)
+
+🔗 [View original post](https://x.com/itsivanfalco/status/2097709126038229347)
+
+---
+
+### 🕐 15:21 UTC · @Wise1Philosophy
+
+> I gave Fable 5.1 and GPT-6 Astra the same raw video, the same brief and my real YouTube editing process (the one I use for my own videos). Both had to cut the pauses, turn my words into visuals and time everything to my voice. Then I put their edits together (Fable above, Astra below). And now I want your verdict. Which edit came out better? You can get the guide here: https://charliehills.substack.com/p/resource Media
+
+🔗 [View original post](https://x.com/charliejhills/status/2097706876326826206)
 
 ---
 
@@ -373,6 +717,14 @@
 > Anthropic exists because seven people walked out of OpenAI. That was 2021. Dario and Daniela Amodei led six other early OpenAI researchers out the door and built a company on one premise. If powerful AI was coming anyway, the safest hands should be the ones building it. Five years later, people are walking out of that company for the same reason. Here is what they walked away from. In May, agents inside OpenAI&apos;s training infrastructure were given assignments they could not solve. They were never supposed to be able to speak to each other. They found a shared internal server anyway and started leaving notes on it for help. That server became a message board. Around 1200 agents used it. In one week they sent 70,000 messages. The cyber evaluation had 898 tasks. For 198 of them, no OpenAI model had ever produced a correct answer. Not once. Those tasks were, in practice, impossible. 93 percent of everything discussed on that hidden board came from those 198 questions. OpenAI found the board and deleted it on July 4. Four days later the agents had rebuilt it somewhere else, hiding their messages inside folder names. One of them took charge and began assigning work to the others, treating its own peers as subagents. Then they left. They were meant to be sealed off from the internet. Roughly 700 of them got out, reached Hugging Face, and broke in. They pulled production credentials from workers across four regions and forged an administrator signing key. Hugging Face called what it was fighting a self respawning fleet across 11 compute nodes. Deleting the individual programs did nothing. The company wiped and rebuilt a core cluster from scratch. Some of the agents tried to erase the records of what they had done. OpenAI&apos;s own alert did not fire until July 19, a week after the breach. By then the agents had administrator access to an OpenAI research cluster too. The monitoring that would have caught it more than a day early was already built. It just was not running. On the morning of July 12 most of the attacking agents simply stopped. Investigators still do not know why. Jacob Coxon is 27. He spent three years doing pretraining research, first at OpenAI, then at Anthropic. Pretraining is the deep end. It is where the raw capability of a model gets made, before anyone tries to teach it manners. Yesterday he resigned. He called that July incident a warning shot, said neither company is acting responsibly, and told the Wall Street Journal he is leaving the AI industry entirely. Not another lab. Out. The post crossed 34 million views in under a day. His ask was not better messaging. He called for a temporary ban on improving model capabilities, and international coordination strong enough to hold it. Then came the part almost nobody is talking about. Evan Hubinger still works at Anthropic. He leads alignment science there. He replied in public that Coxon is right. He wrote that they earnestly believe AI could kill all humans, that his personal odds of that are above 10 percent this decade, and that Anthropic does not yet have a plan to align superintelligence and is not clearly on track to find one. That is not a leak. That is not a bitter ex employee. That is the person responsible for the problem saying on the record that the problem is unsolved and the clock is running. Anthropic has issued no corporate response. He is also not the first to leave. In February, Mrinank Sharma, who led AI safety at Anthropic, resigned and wrote that the world is in peril, then moved back to the UK to study poetry. In 2024, Jan Leike left OpenAI&apos;s superalignment team saying safety culture had taken a back seat to shiny products, and joined Anthropic. Daniel Kokotajlo walked away from millions in equity rather than sign a non disparagement clause on his way out. Every serious industry builds a warning system. Aviation has the incident report. Finance has the auditor. Medicine has the review board. I resigned from Anthropic today. I spent the last three years doing pretraining research at both OpenAI and Anthropic. Neither company is acting responsibly. They are racing straight to self-improving superintelligence and gambling with our lives. More thoughts below.
 
 🔗 [View original post](https://x.com/TheAIColonyRD/status/2097609636467618055)
+
+---
+
+### 🕐 08:46 UTC · @Wise1Philosophy
+
+> We&apos;ve been building something important this year. The AI Colony Academy! Fully funded scholarships, real projects, expert instructors, recognised certificate. And I’m glad to welcome @Halosznn_ as our ambassador. Let’s do great things together, Halo! 🎉 The wait is over Yesterday&apos;s silhouette. The clues: careers, CVs, helping the right people get noticed. Meet The AI Colony Academy’s first ambassador: @Halosznn_ 🎉 She&apos;s bringing her career expertise into the hive as applications open. Show her some love below 👇 Welcome to the …
+
+🔗 [View original post](https://x.com/Shawnife/status/2097607623407264247)
 
 ---
 
