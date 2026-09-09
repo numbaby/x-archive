@@ -2,7 +2,33 @@
 
 ## 📅 September 09, 2026
 
-> 79 post(s) archived.
+> 83 post(s) archived.
+
+---
+
+### 🕐 15:11 UTC · @Wise1Philosophy
+
+> Research in one tab, ad tools in another, and the brief lost somewhere in between. AI Marketer is now live on Topview and runs the whole thing in one workflow, from studying what sells to bulk creating ready to run ads. Market research and ad creation finally in one place. @TopviewAIhq Watch research and ad creation run in one place here: Media Turn GPT-6 Astra into your AI marketing dream team. Meet Topview AI Marketer. Market research → Winning angles → Conversion-ready ads From strategy to final assets, all in one workspace #TopviewAI #AIMarketer #AIVideo #EcommerceMarketing #GPT6
+
+🔗 [View original post](https://x.com/FutureStacked/status/2097704427192762815)
+
+---
+
+### 🕐 14:55 UTC · @Wise1Philosophy
+
+> This is SO useful for realistic AI video builders 💪🏽 crazy...that i made this with GPT Image 2.5 and Seedance 2.5 nobody is teaching you the actual workflow behind these AI realistic videos.. so here it is, full breakdown, every prompt included👇
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2097700501743694181)
+
+---
+
+### 🕐 14:24 UTC · @Wise1Philosophy
+
+> An entire outbound team just got compressed into one URL. Give Ami your website. It finds the buyers, builds the offer, launches the campaign, kills what isn’t working and doubles down on what is. Built by @runAISDR on GPT-6 Astra. Free to try, no card: https://aisdr.com/ai-gtm-agent-ami/ We spent 3 years building AI for sales. The same problem kept showing up: Wrong buyer. Wrong offer. AI helping people fail faster. Today we&apos;re launching Ami to fix that. Give it your website. Ami figures out who to target, why they&apos;d care, and how to reach them. You approve the p…
+
+![An entire outbound team just got compressed into one URL. Give Ami your website. It finds the buyers, builds the offer, launches the campaign, kills what isn’t working and doubles down on what is. Bui](../../../../assets/images/2026/09/09/2097692603269484804-1.jpg)
+
+🔗 [View original post](https://x.com/alex_prompter/status/2097692603269484804)
 
 ---
 
@@ -107,6 +133,14 @@
 > Sting said something that really stuck with me on CBS Sunday Morning: “All of us are in danger of losing our work to AI… everyone. Whether you’re an artist, a journalist, a lawyer, this technology could replace any of us.” His answer wasn&apos;t a new skill or a better tool. It was community. Look after the person next to you. Everything is racing toward automation, and most of it quietly pulls people further apart. So the thing that holds is whoever actually knows you. I keep noticing this in my own week. The tools get sharper every month and my week still turns on about four conversations. Is community really the answer here, or would you put something above it? Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media
 
 🔗 [View original post](https://x.com/AiEvolutio58513/status/2097670385777233963)
+
+---
+
+### 🕐 12:53 UTC · @Wise1Philosophy
+
+> this is the post every PE operating partner should read before the next platform deal: A PE-backed company that builds the kitchen-operations software national restaurant chains run on came to us with a prototype a non-engineer had built with AI. It couldn&apos;t handle production load. Six months later, one of our engineers had it live and stable. &quot;Just use AI&quot; is not …
+
+🔗 [View original post](https://x.com/saidstetic/status/2097669848490713165)
 
 ---
 

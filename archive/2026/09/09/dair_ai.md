@@ -2,7 +2,15 @@
 
 ## 📅 September 09, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 14:55 UTC · @dair_ai
+
+> Open video models are having their moment. The previous generation of LTX alone reached 18M downloads, which shows how much demand there is for video models that builders can own and modify themselves. LTX-2.5 from @ltx_io builds on that foundation as a world model with open weights, local deployment, and a pretrained base that teams can fine-tune for their own work. For me, it&apos;s all about owning the intelligence stack. Builders choose the hardware, keep access to the weights, and can fine-tune the model around a creative or production workflow. More capabilities related to this model: The release improves both generation and editing. The new decoder targets sharper faces, legible text and signage, and cleaner fast motion. Native Multishot generates connected shots while preserving character, environment, lighting, and voice across cuts. IC-LoRA works on footage you already have, with support for object removal, continuity and wardrobe fixes, and environment changes without a reshoot or frame-by-frame rotoscoping. A stronger distilled model brings more of the full model&apos;s quality and motion to local GPUs. Open video is still early, and releases like this give builders more room to experiment, specialize models, and own the production stack. I am looking forward to seeing what people build with LTX-2.5. Media
+
+🔗 [View original post](https://x.com/omarsar0/status/2097700488741376411)
 
 ---
 
