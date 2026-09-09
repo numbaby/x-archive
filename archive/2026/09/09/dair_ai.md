@@ -2,7 +2,27 @@
 
 ## 📅 September 09, 2026
 
-> 2 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 13:18 UTC · @dair_ai
+
+> Qodo just launched the Agentic Toolbox. It gives Claude Code, Codex, Kiro, and Cursor direct access to @QodoAI&apos;s review engine, codebase knowledge, and team rules.
+
+![Qodo just launched the Agentic Toolbox. It gives Claude Code, Codex, Kiro, and Cursor direct access to @QodoAI&apos;s review engine, codebase knowledge, and team rules.](../../../../assets/images/2026/09/09/2097675900531732624-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2097675900531732624)
+
+---
+
+### 🕐 05:33 UTC · @dair_ai
+
+> Nice paper to improve inference efficiency. It&apos;s been a while we haven&apos;t seen good work on efficiency. Here is why it matters: A long-running agent&apos;s workspace outgrows its context window long before the task finishes. The first approach commonly used, compaction, loses the fine-grained execution evidence. And text retrieval re-prefills content the model already processed. KVMem keeps the overflow as paged KV state instead, spread across GPU memory, host memory and NVMe. Lightweight attention-space indexes, native to the model, pick the relevant historical blocks and materialize a query-dependent view that fits inside the native context window. On the DeepSWE long-context test with Qwen3.8-27B, task success goes from 43.8% under compaction to 48.4%. The local deployment result stands out. It runs Qwen3.6/3.8-27B NVFP4 with MTP on a laptop with a 24GB RTX 5090, virtualizing an agent workspace up to 1M tokens, four times the model&apos;s native 256K window, at around 50 tokens per second. Paper: https://academy.dair.ai/papers/kvmem-virtualizing-million-token-agent-workspaces-on-a-consumer-gpu-2609.04852
+
+![Nice paper to improve inference efficiency. It&apos;s been a while we haven&apos;t seen good work on efficiency. Here is why it matters: A long-running agent&apos;s workspace outgrows its context wind](../../../../assets/images/2026/09/09/2097558879194558838-1.png)
+
+🔗 [View original post](https://x.com/omarsar0/status/2097558879194558838)
 
 ---
 

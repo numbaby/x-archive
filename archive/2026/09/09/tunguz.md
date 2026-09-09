@@ -2,7 +2,39 @@
 
 ## 📅 September 09, 2026
 
-> 6 post(s) archived.
+> 10 post(s) archived.
+
+---
+
+### 🕐 13:40 UTC · @tunguz
+
+> Do people still publish in Nature?
+
+🔗 [View original post](https://x.com/tunguz/status/2097681607339753570)
+
+---
+
+### 🕐 13:35 UTC · @tunguz
+
+> No, the reason why fights in academia are so vicious is *NOT* because the stakes are so low; the real reason is that academia is intrinsically a status game, and status games are intrinsically vicious.
+
+🔗 [View original post](https://x.com/tunguz/status/2097680207746621711)
+
+---
+
+### 🕐 12:57 UTC · @tunguz
+
+> Extremely likely. What is more likely is that the news of Tristan and Alpoge working on Navier Stokes was sufficient for someone else on the OpenAI team to narrow the set of approaches enough to find a path through. It happened with the nuclear bomb in 1945.
+
+🔗 [View original post](https://x.com/tunguz/status/2097670834995527904)
+
+---
+
+### 🕐 11:37 UTC · @tunguz
+
+> Oh Physics has been way too toxic already. Physics will be next, and this time we have a chance to learn from the mistakes of math and make the sociology a little less toxic. Let’s not screw it up.
+
+🔗 [View original post](https://x.com/tunguz/status/2097650620593512631)
 
 ---
 
