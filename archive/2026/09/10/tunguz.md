@@ -2,7 +2,17 @@
 
 ## 📅 September 10, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 13:59 UTC · @tunguz
+
+> Link to the commission website: https://aiworkforcecommission.org
+
+![Link to the commission website: https://aiworkforcecommission.org](../../../../assets/images/2026/09/10/2098048708688445805-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2098048708688445805)
 
 ---
 
