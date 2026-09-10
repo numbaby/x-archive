@@ -2,7 +2,15 @@
 
 ## 📅 September 10, 2026
 
-> 10 post(s) archived.
+> 11 post(s) archived.
+
+---
+
+### 🕐 10:36 UTC · @_Regret_x
+
+> Instinct vs. ego. Hoomans 🤦
+
+🔗 [View original post](https://x.com/_Regret_x/status/2097997590763864279)
 
 ---
 

@@ -2,7 +2,63 @@
 
 ## 📅 September 10, 2026
 
-> 42 post(s) archived.
+> 49 post(s) archived.
+
+---
+
+### 🕐 11:40 UTC · @Wise1Philosophy
+
+> The AI Colony just dropped a 110-page read on H1 2026, and the part that stuck with me is the concentration problem. Five deals took 73% of all US venture value in Q1. Everyone else fought over what was left. Record market. Brutal conditions. Both true at once. Get updated: https://bit.ly/StateofAI2026 . .
+
+![The AI Colony just dropped a 110-page read on H1 2026, and the part that stuck with me is the concentration problem. Five deals took 73% of all US venture value in Q1. Everyone else fought over what w](../../../../assets/images/2026/09/10/2098013838503223421-1.jpg)
+
+🔗 [View original post](https://x.com/sufyanmaan/status/2098013838503223421)
+
+---
+
+### 🕐 11:37 UTC · @Wise1Philosophy
+
+> Heart attack = blood sugar. Heart attack = insulin resistance. Heart attack = No.1 killer worldwide. 5 simple rules to protect your heart: 1. Don&apos;t go pee at 3 AM
+
+🔗 [View original post](https://x.com/MarkoSilva291/status/2098012862879031536)
+
+---
+
+### 🕐 11:06 UTC · @Wise1Philosophy
+
+> This got out of hand fast. I went into one chat and came out with a live website, a month of content and a launch plan. And I could still edit everything after. Here’s how I did it with ChatGPT, Claude and Gamma 🧵
+
+🔗 [View original post](https://x.com/AriaWestcott/status/2098005263466820038)
+
+---
+
+### 🕐 11:04 UTC · @Wise1Philosophy
+
+> A cardiologist shocked me when he said: &quot;You age because your body stops making Nitric Oxide. Without it, blood pressure rises, erections fail, and Alzheimer&apos;s happens.&quot; Here&apos;s the 5-step protocol to boost it naturally: 1. Stop using mouthwash
+
+![A cardiologist shocked me when he said: &quot;You age because your body stops making Nitric Oxide. Without it, blood pressure rises, erections fail, and Alzheimer&apos;s happens.&quot; Here&apos;s the](../../../../assets/images/2026/09/10/2098004566642155904-1.jpg)
+
+🔗 [View original post](https://x.com/Sophiaz6xo/status/2098004566642155904)
+
+---
+
+### 🕐 10:47 UTC · @Wise1Philosophy
+
+> GPT-6 ASTRA JUST BROKE THE INTERNET. People are calling it the most powerful AI they&apos;ve ever seen. Here are 9 examples:
+
+![GPT-6 ASTRA JUST BROKE THE INTERNET. People are calling it the most powerful AI they&apos;ve ever seen. Here are 9 examples:](../../../../assets/images/2026/09/10/2098000442857001446-1.png)
+
+🔗 [View original post](https://x.com/kumud_deepali/status/2098000442857001446)
+
+---
+
+### 🕐 10:32 UTC · @Wise1Philosophy
+
+> Me sorprende cuánta gente usa apps inútiles en su móvil. Aquí tienes 9 increíbles apps que sacarán el verdadero potencial de tu smartphone. (🔖 Guárdalas para probarlas) 👇
+
+![Me sorprende cuánta gente usa apps inútiles en su móvil. Aquí tienes 9 increíbles apps que sacarán el verdadero potencial de tu smartphone. (🔖 Guárdalas para probarlas) 👇](../../../../assets/images/2026/09/10/2097996531462787137-1.jpg)
+
+🔗 [View original post](https://x.com/IA_Quijote/status/2097996531462787137)
 
 ---
 
@@ -320,6 +376,16 @@
 > Jim Carrey said: “I’m 64. If I could be 25 again, here’s what I&apos;d tell myself” 1. Action is the cure for anxiety.
 
 🔗 [View original post](https://x.com/josh_uglyasf/status/2097916478054133925)
+
+---
+
+### 🕐 05:07 UTC · @Wise1Philosophy
+
+> We may have been MASSIVELY overpaying for AI agents. I looked at a benchmark of 107 real e-commerce tasks and the numbers are honestly ridiculous: → Accio: $3.69 → OpenAI Codex: $9.27 → Claude Code: $9.51 Same task set. Comparable completion quality. Accio costs over 50% less. And this wasn&apos;t some synthetic benchmark. The 107 tasks were distilled from 10M SMB users, 1.6M real conversations, and 200K execution traces. The craziest part? Accio doesn&apos;t just throw the biggest model at everything. It uses commerce-specific lightweight models for routine work, heavier reasoning when needed, plus caching and context compression to cut wasted computation. IMO, this is the smarter way to build AI: Use the right model for the right task — not the most expensive model for every task. No single model won across the board. But Accio&apos;s cost-performance is VERY hard to ignore. Accio becomes the most cost-effective e-commerce AI tool for SMEs.
+
+![We may have been MASSIVELY overpaying for AI agents. I looked at a benchmark of 107 real e-commerce tasks and the numbers are honestly ridiculous: → Accio: $3.69 → OpenAI Codex: $9.27 → Claude Code: $](../../../../assets/images/2026/09/10/2097914722813354448-1.jpg)
+
+🔗 [View original post](https://x.com/darshal_/status/2097914722813354448)
 
 ---
 

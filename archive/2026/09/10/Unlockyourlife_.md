@@ -2,7 +2,17 @@
 
 ## 📅 September 10, 2026
 
-> 17 post(s) archived.
+> 18 post(s) archived.
+
+---
+
+### 🕐 10:54 UTC · @Unlockyourlife_
+
+> What actually happens when you take creatine.
+
+![What actually happens when you take creatine.](../../../../assets/images/2026/09/10/2098002090031304930-1.jpg)
+
+🔗 [View original post](https://x.com/_fitnesshub/status/2098002090031304930)
 
 ---
 
