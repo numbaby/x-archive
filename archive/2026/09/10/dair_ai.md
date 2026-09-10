@@ -2,7 +2,27 @@
 
 ## 📅 September 10, 2026
 
-> 3 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 15:30 UTC · @dair_ai
+
+> Great paper from AWS. I use a similar setup where an agent orchestrator sits on top of a multi-agent system. (bookmark it) This work introduces one of the many approaches available to manage compound LLM systems. Compound LLM systems usually solve coordination by adding a higher-level model. That meta-agent reads worker outputs, writes the final answer, allocates later calls and decides when to stop, which concentrates three separate control decisions in one opaque, order-sensitive call. UnitBoost investigates whether the manager needs to be generative at all. A task-given unit map turns worker outputs into slot-value proposals, a constrained argmax assembles the output, and slots left unfilled or unsupported become an explicit residual that directs the next round. On three held-out benchmarks it beats the best single candidate chosen with gold labels by 0.060 to 0.195 task-score points, and beats input-matched generative managers by 0.048 to 0.076. Replacing only the management step improves six compound-system configurations. Residual-directed rounds raise FanOutQA cell F1 from 0.4778 to 0.5524. Chat with Paper: https://academy.dair.ai/papers/unitboost-managing-compound-llm-systems-with-a-merge-operator-not-a-model-2609.09815
+
+![Great paper from AWS. I use a similar setup where an agent orchestrator sits on top of a multi-agent system. (bookmark it) This work introduces one of the many approaches available to manage compound ](../../../../assets/images/2026/09/10/2098071565040853118-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2098071565040853118)
+
+---
+
+### 🕐 15:15 UTC · @dair_ai
+
+> If you run automated prompt or harness evolution, this one is worth your time. (bookmark it) Semantic-gradient prompt optimization improves an agent harness from execution feedback, but its local update rule never decides how large an edit to request or which operation to apply. RobustSGPO adds that. It specifies the requested edit, constructs and checks the patch before accepting it, and continues search from either the incumbent or a retained snapshot. Measured over 120 tasks, 95 runs and 7,350 candidate attempts in the AgentX brainstorming workflow, completion on 30 held-out tasks rises from 60.0% to 80.0% and test quality from 3.77 to 4.14 under a 20-million-token budget. Periodic 1 to 2 to 3 edit-permission scheduling beats fixed maximum permission by 0.28 test-score points, so how much the optimizer is allowed to change per step is itself worth scheduling. Retention is a real trade. Category retention reduces source-task degradation after a task-family shift, while random retention reaches a higher destination endpoint, and both carry measurable overhead. Chat with Paper: https://academy.dair.ai/papers/robustsgpo-search-space-control-for-agent-harness-evolution-2609.09646
+
+![If you run automated prompt or harness evolution, this one is worth your time. (bookmark it) Semantic-gradient prompt optimization improves an agent harness from execution feedback, but its local upda](../../../../assets/images/2026/09/10/2098067735389593926-1.jpg)
+
+🔗 [View original post](https://x.com/dair_ai/status/2098067735389593926)
 
 ---
 

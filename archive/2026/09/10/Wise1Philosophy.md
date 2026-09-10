@@ -2,7 +2,137 @@
 
 ## 📅 September 10, 2026
 
-> 90 post(s) archived.
+> 107 post(s) archived.
+
+---
+
+### 🕐 16:03 UTC · @Wise1Philosophy
+
+> I JUDGE A BUILDER PROGRAM BY WHETHER IT LOWERS THE COST OF STARTING @NebiusAI just launched an awesome AI Builder Program packed with perks 🔥 → $400+ in credits and discounts → cookbooks + working code → actual office hours with engineers → @nvidia, @LangChain, @huggingface, and MANY more in the mix Whether you&apos;re new to AI building, or already know your way around it, there&apos;s a lot here worth checking out ↓ Media The Nebius AI Builder Program is now available. AI isn’t just a model you call anymore. It’s a system you build. And builders, not a few closed labs, will decide what it becomes. The open ecosystem has all the pieces. We want to make it easier to put them together and start build…
+
+🔗 [View original post](https://x.com/DataChaz/status/2098079841656463377)
+
+---
+
+### 🕐 16:00 UTC · @Wise1Philosophy
+
+> they used ai to put themselves in all the iconic movie scenes the results are crazy 🤯 Media
+
+🔗 [View original post](https://x.com/daveydefi/status/2098079118717853912)
+
+---
+
+### 🕐 15:59 UTC · @Wise1Philosophy
+
+> Astra is making CapCut PC more efficient by turning AI-generated assets into editable starting points for the final cut. Prompt Astra for a specific color grade → generate a custom .cube LUT → download → import into CapCut PC → fine-tune it against the footage. If the look isn’t right, I can change the prompt and generate another version instead of digging through preset libraries. Need subtitles? Generate customized animated subtitle effects in an .srt file with Astra → import it into CapCut PC → place the captions on their own tracks → adjust timing, layout, font and animation. That handoff is the interesting part. AI creates exactly the kind of starting material I ask for. CapCut PC gives me the timeline and controls to turn it into the final edit. #GPT6Astra #CapCutPC #AIVideo #Seedance25 Media
+
+🔗 [View original post](https://x.com/aibytekat/status/2098078830049243405)
+
+---
+
+### 🕐 15:56 UTC · @Wise1Philosophy
+
+> GOATED workflow 🔥 AI animation like this cost studios millions and take years. i can teach you to make one in an afternoon, and these channels are printing $$ on YouTube right now. full workflow, every prompt: 🧵
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2098078210671956140)
+
+---
+
+### 🕐 15:54 UTC · @Wise1Philosophy
+
+> NEBIUS IS GIVING AWAY CREDITS TO BUILD WITH AI Today they launch the AI Builder Program - free to join, and on day one you get: → $400+ in credits and discounts → From Nebius Token Factory, Tavily, and 20 launch partners → Spanning every layer: models, orchestration, retrieval, evaluation, and coding agents → All open and swappable - no vendor lock-in Test Nemotron, DeepSeek, or Qwen on production-grade infra without spending a dime. Join free: http://dev.nebius.com/builders #nebiuspartnership The Nebius AI Builder Program is now available. AI isn’t just a model you call anymore. It’s a system you build. And builders, not a few closed labs, will decide what it becomes. The open ecosystem has all the pieces. We want to make it easier to put them together and start build…
+
+![NEBIUS IS GIVING AWAY CREDITS TO BUILD WITH AI Today they launch the AI Builder Program - free to join, and on day one you get: → $400+ in credits and discounts → From Nebius Token Factory, Tavily, an](../../../../assets/images/2026/09/10/2098077742579458133-1.jpg)
+
+🔗 [View original post](https://x.com/Life__Mastery/status/2098077742579458133)
+
+---
+
+### 🕐 15:54 UTC · @Wise1Philosophy
+
+> Nebius just put $400+ in credits and discounts on the table for AI builders, and joining costs nothing. The credits come from Nebius Token Factory, Tavily and the launch partners, so they cover every layer of the stack, and you can be running open models within minutes of signing up. Join the Nebius AI Builder Program, it’s free! #nebiuspartnership The Nebius AI Builder Program is now available. AI isn’t just a model you call anymore. It’s a system you build. And builders, not a few closed labs, will decide what it becomes. The open ecosystem has all the pieces. We want to make it easier to put them together and start build…
+
+🔗 [View original post](https://x.com/TheAIColony/status/2098077542494228983)
+
+---
+
+### 🕐 15:44 UTC · @Wise1Philosophy
+
+> Maybe the future of AI editing isn’t about giving AI the entire timeline. Maybe it’s about giving AI the parts of the timeline that are hardest to build from scratch. That’s how I see GPT-6 Astra + CapCut PC. Astra can generate a custom .cube LUT based on a specific creative direction, then I bring it into CapCut PC and make the final color decision against the footage. It can also generate customized animated subtitle effects as an .srt, which I can place on the timeline and refine across tracks. Then CapCut PC’s editing workflow takes over for everything that needs context, timing and judgment. AI generates the ingredients. The editor still decides what the meal becomes. #GPT6Astra #CapCutPC #AIVideo #Seedance25 Media
+
+🔗 [View original post](https://x.com/Damn_coder/status/2098075212323627261)
+
+---
+
+### 🕐 15:42 UTC · @Wise1Philosophy
+
+> I want to build the damn agent, not spend my weekend convincing six different tools to talk to each other. Runnable blueprints, free courses with NVIDIA, and office hours with the engineers who built the platform. That’s a much better starting point. Join the Nebius AI Builder Program free. $400+ in credits and discounts on day one: https://dev.nebius.com/builders The Nebius AI Builder Program is now available. AI isn’t just a model you call anymore. It’s a system you build. And builders, not a few closed labs, will decide what it becomes. The open ecosystem has all the pieces. We want to make it easier to put them together and start build…
+
+![I want to build the damn agent, not spend my weekend convincing six different tools to talk to each other. Runnable blueprints, free courses with NVIDIA, and office hours with the engineers who built ](../../../../assets/images/2026/09/10/2098077742579458133-1.jpg)
+
+🔗 [View original post](https://x.com/alex_verem/status/2098074620796477496)
+
+---
+
+### 🕐 15:40 UTC · @Wise1Philosophy
+
+> If switching models means rebuilding your entire product, you’ve built a hostage situation. Nebius gives you runnable agent blueprints with models and tools you can swap without tearing everything apart. Join the Nebius AI Builder Program free. $400+ in credits and discounts across the stack on day one: https://dev.nebius.com/builders The Nebius AI Builder Program is now available. AI isn’t just a model you call anymore. It’s a system you build. And builders, not a few closed labs, will decide what it becomes. The open ecosystem has all the pieces. We want to make it easier to put them together and start build…
+
+![If switching models means rebuilding your entire product, you’ve built a hostage situation. Nebius gives you runnable agent blueprints with models and tools you can swap without tearing everything apa](../../../../assets/images/2026/09/10/2098077742579458133-1.jpg)
+
+🔗 [View original post](https://x.com/alex_prompter/status/2098074110093860918)
+
+---
+
+### 🕐 15:39 UTC · @Wise1Philosophy
+
+> An AI cloud certification for $1 is now a real thing. Inside the Nebius AI Builder Program you get free Nebius Academy courses built with NVIDIA, starting with the Nemotron course, certifications at member pricing from $1 for AI Cloud Ops (Associate), and office hours with the engineers who built the platform. Join for free and grab $400+ in credits across the stack on day one. #nebiuspartnership The Nebius AI Builder Program is now available. AI isn’t just a model you call anymore. It’s a system you build. And builders, not a few closed labs, will decide what it becomes. The open ecosystem has all the pieces. We want to make it easier to put them together and start build…
+
+🔗 [View original post](https://x.com/AIFrontliner/status/2098073889213489239)
+
+---
+
+### 🕐 15:34 UTC · @Wise1Philosophy
+
+> I put my website into an AI tool to see who else I could be marketing to. It suggested 297 companies and 717 people. It’s called iCustomer Growth Brain. It researched my business and built a customer profile. I reviewed and approved that before it generated the list. If you’re looking for your next client or deciding who to approach with a new offer, that gives you companies to look into. I’d start with a simple question: which of these businesses could we actually help? You can try the same first step with your company website. It’s free to start, and there’s no credit card required. See what it comes back with for your business: https://www.icustomer.ai/growth-brain
+
+![I put my website into an AI tool to see who else I could be marketing to. It suggested 297 companies and 717 people. It’s called iCustomer Growth Brain. It researched my business and built a customer ](../../../../assets/images/2026/09/10/2098072683795951887-1.png)
+
+🔗 [View original post](https://x.com/ecomchasedimond/status/2098072683795951887)
+
+---
+
+### 🕐 15:32 UTC · @Wise1Philosophy
+
+> Nebius just lined up 20 AI companies in one place for builders. NVIDIA Nemotron, DeepSeek, Qwen and MiniMax on models, LangChain for agents, Tavily for search, Cognition&apos;s Devin and OpenHands for coding, each one giving members credits or a trial. Join the Nebius AI Builder Program for free and get $400+ in credits across the stack on day one. #nebiuspartnership The Nebius AI Builder Program is now available. AI isn’t just a model you call anymore. It’s a system you build. And builders, not a few closed labs, will decide what it becomes. The open ecosystem has all the pieces. We want to make it easier to put them together and start build…
+
+🔗 [View original post](https://x.com/FutureStacked/status/2098072163894923761)
+
+---
+
+### 🕐 15:20 UTC · @Wise1Philosophy
+
+> Your iPhone has a hidden setting that lets apps track you even after you say no. Most people turn it off once and think they&apos;re done. Here are 6 places to check tonight:🧵
+
+🔗 [View original post](https://x.com/Kevincreates77/status/2098069059657199834)
+
+---
+
+### 🕐 15:07 UTC · @Wise1Philosophy
+
+> Americans bought 35 million vacuum cleaners last year. Most of them are losing suction within 6 months and it&apos;s not the motor&apos;s fault. A Dyson repair specialist who has serviced 20,000+ vacuums over 12 years told me something that should make you walk over and look at your vacuum right now: &quot;Your vacuum isn&apos;t broken. It&apos;s suffocating. The filter hasn&apos;t been washed since you bought it. The brush roll is wrapped in enough hair to make a wig. The hose has a clog the size of a golf ball that&apos;s been there for 4 months. And you&apos;ve been vacuuming with the wrong height setting on every floor in your house. You&apos;re pushing a machine that&apos;s working at 40% capacity and blaming it for not picking up. The manufacturer designed it to be maintained. You just never did. And now you&apos;re about to spend $400 on a new one. That&apos;s exactly what they want.&quot; Here are the 9 vacuum cleaner mistakes that kill suction within 6 months 🧵
+
+🔗 [View original post](https://x.com/Alvin1492840/status/2098065811868881089)
+
+---
+
+### 🕐 15:05 UTC · @Wise1Philosophy
+
+> Your agent just wrote a 3,000-word market research report. Now it is stuck in a chat window. You can&apos;t exactly send a chat window to your team or present it to leadership. If you try pasting it into a doc, you just lose all the formatting. There is a better way. Let me show you:
+
+![Your agent just wrote a 3,000-word market research report. Now it is stuck in a chat window. You can&apos;t exactly send a chat window to your team or present it to leadership. If you try pasting it i](../../../../assets/images/2026/09/10/2098065254920180043-1.jpg)
+
+🔗 [View original post](https://x.com/thetripathi58/status/2098065254920180043)
 
 ---
 
@@ -110,6 +240,14 @@
 > 🚨BREAKING: Claude is building Instagram Pages from scratch and can hit monetisation in just 90 days. Message &quot;READY&quot; and I&apos;ll show you how. Media
 
 🔗 [View original post](https://x.com/amelieannepl/status/2098043925269213484)
+
+---
+
+### 🕐 13:37 UTC · @Wise1Philosophy
+
+> best writeup on this app if you want to see production AI done properly: A PE operating partner asked us to put production AI agents inside a portco&apos;s prior-authorization platform, submitting real treatment approvals across 600+ payer plans under HIPAA. A small team spent their days hand-building and maintaining hundreds of payer templates, one for ev…
+
+🔗 [View original post](https://x.com/brenzhills/status/2098043095522910598)
 
 ---
 
@@ -234,6 +372,14 @@
 > HeaI so when someone shows up and says they Iove you... you believe them.
 
 🔗 [View original post](https://x.com/_Pammy_DS_/status/2098033759740113295)
+
+---
+
+### 🕐 12:55 UTC · @Wise1Philosophy
+
+> one of the only production AI writeups on X worth bookmarking this week: A PE operating partner asked us to put production AI agents inside a portco&apos;s prior-authorization platform, submitting real treatment approvals across 600+ payer plans under HIPAA. A small team spent their days hand-building and maintaining hundreds of payer templates, one for ev…
+
+🔗 [View original post](https://x.com/maxwell_lenoir/status/2098032696299491443)
 
 ---
 

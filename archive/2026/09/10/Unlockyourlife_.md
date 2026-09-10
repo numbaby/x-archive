@@ -2,7 +2,15 @@
 
 ## 📅 September 10, 2026
 
-> 31 post(s) archived.
+> 33 post(s) archived.
+
+---
+
+### 🕐 15:27 UTC · @Unlockyourlife_
+
+> One of the biggest dating mistakes is ignoring how someone makes you feel because you like how they look. Attraction can make you negotiate with obvious problems. Ask the harder question: If the attraction disappeared tomorrow, would I still respect this person?
+
+🔗 [View original post](https://x.com/Masculinjournal/status/2098070837920256055)
 
 ---
 
@@ -69,6 +77,16 @@
 > Which Material Can Cut Bundle Of Razor Blades ? Media
 
 🔗 [View original post](https://x.com/_Brainboxx/status/2098044741224903005)
+
+---
+
+### 🕐 13:28 UTC · @Unlockyourlife_
+
+> In 1990, New York had a problem that seemed impossible to fix. The city wasn’t just dangerous. It looked like nobody cared. And one theory changed how they fought back: The Broken Windows Theory.
+
+![In 1990, New York had a problem that seemed impossible to fix. The city wasn’t just dangerous. It looked like nobody cared. And one theory changed how they fought back: The Broken Windows Theory.](../../../../assets/images/2026/09/10/2098040917827707033-1.jpg)
+
+🔗 [View original post](https://x.com/Mastering_life_/status/2098040917827707033)
 
 ---
 
