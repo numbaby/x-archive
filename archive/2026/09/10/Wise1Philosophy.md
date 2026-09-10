@@ -2,7 +2,49 @@
 
 ## 📅 September 10, 2026
 
-> 35 post(s) archived.
+> 42 post(s) archived.
+
+---
+
+### 🕐 10:28 UTC · @Wise1Philosophy
+
+> Americans run 60 million window AC units every summer. Most of them are making rooms more humid, not less. A former HVAC technician who spent 14 years installing and repairing residential cooling systems told me something that should make you walk over and look at your AC unit right now: &quot;Your AC unit is a mold factory. You&apos;ve never cleaned the filter. The coils are caked in dust from 4 summers ago. The condensation tray is breeding bacteriayou&apos;re breathing in right now. And you&apos;re setting the temperature to 68 on a 95-degree day, wondering why the unit freezes up and drips water on your floor. The unit isn&apos;t broken. It&apos;s being strangled. And the energy company is billing you $180/month for the privilege. Most people replace a perfectly good AC unit after 3 summers because nobody ever told them it needed 10 minutes of maintenance per month.&quot; Here are the 9 AC mistakes that double your electric bill and shorten your unit&apos;s life 🧵
+
+🔗 [View original post](https://x.com/Alvin1492840/status/2097995529787761078)
+
+---
+
+### 🕐 10:21 UTC · @Wise1Philosophy
+
+> This is what peak productivity looks like. Apple’s first foldable iPhone, the iPhone Duo is also its thinnest iPhone ever.
+
+![This is what peak productivity looks like. Apple’s first foldable iPhone, the iPhone Duo is also its thinnest iPhone ever.](../../../../assets/images/2026/09/10/2097993820730229155-1.jpg)
+
+🔗 [View original post](https://x.com/AriaWestcott/status/2097993820730229155)
+
+---
+
+### 🕐 10:14 UTC · @Wise1Philosophy
+
+> 🚨BREAKING: If you&apos;re not using GPT-6 Astra at your job, you&apos;re already behind. Copy these 9 prompts:
+
+🔗 [View original post](https://x.com/AIFrontliner/status/2097992179134161290)
+
+---
+
+### 🕐 10:11 UTC · @Wise1Philosophy
+
+> Neurologists have a name for the shortfall that mimics early dementia, strips the insulation off your nerves, and hides behind a normal lab result for years. The 5 signs they check before calling it ageing: 1. Tingling or numbness in your hands and feet Media
+
+🔗 [View original post](https://x.com/MagnusLindbrg/status/2097991253879407037)
+
+---
+
+### 🕐 10:00 UTC · @Wise1Philosophy
+
+> ¡Olvídate de gastar en programas caros para PC! Descubre 10 aplicaciones web gratuitas que pueden reemplazar tu software... Media
+
+🔗 [View original post](https://x.com/MiguelMaestroIA/status/2097988549702291744)
 
 ---
 
@@ -110,6 +152,14 @@
 
 ---
 
+### 🕐 07:26 UTC · @Wise1Philosophy
+
+> Every man over 30 blames aging for their low testosterone. Turns out it’s not just aging... it’s chronic stress, poor sleep, and quiet insulin resistance. 1. Whole eggs (with yolk) Media
+
+🔗 [View original post](https://x.com/thisispeak007/status/2097949716399239674)
+
+---
+
 ### 🕐 07:20 UTC · @Wise1Philosophy
 
 > You sleep 8 hours every night but still wake up exhausted. Coffee barely touches it. Naps feel good at first... then leave you even more drained. 1. Stop mouth breathing
@@ -152,6 +202,14 @@
 > If you want a flat stomach, fix your cortisol first. I switched my method a month ago and no joke I&apos;m shocked by how it did a 180 on me..
 
 🔗 [View original post](https://x.com/mind_and_beauty/status/2097940888894996842)
+
+---
+
+### 🕐 06:46 UTC · @Wise1Philosophy
+
+> Your Resting Heart Rate tells the real story. 95+ bpm - Heart is strained just to keep you alive. 90 bpm - Sedentary, unfit &amp; stressed. 80 bpm -
+
+🔗 [View original post](https://x.com/LiveandAlive_/status/2097939630683574569)
 
 ---
 
