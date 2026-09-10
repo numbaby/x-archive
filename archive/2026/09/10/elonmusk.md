@@ -2,7 +2,15 @@
 
 ## 📅 September 10, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 06:04 UTC · @elonmusk
+
+> Congrats Boring Company team! The Boring Company is pleased to announce our Series D funding round of $3 billion, led by the United Arab Emirates. The financing now values The Boring Company at $23 billion. Other key investors in the round include Human Capital, Vy Capital, Valor Equity Partners, Sequoia Capi…
+
+🔗 [View original post](https://x.com/elonmusk/status/2097929222639767712)
 
 ---
 
