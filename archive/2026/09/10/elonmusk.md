@@ -2,7 +2,15 @@
 
 ## 📅 September 10, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 05:13 UTC · @elonmusk
+
+> The logic is symmetric If remigration is ethnic cleansing, then so is mass migration.
+
+🔗 [View original post](https://x.com/elonmusk/status/2097916357979615503)
 
 ---
 
