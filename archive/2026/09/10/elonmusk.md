@@ -2,7 +2,37 @@
 
 ## 📅 September 10, 2026
 
-> 13 post(s) archived.
+> 16 post(s) archived.
+
+---
+
+### 🕐 17:34 UTC · @elonmusk
+
+> Privileged to be a major investor in @boringcompany Series D and to have helped scale the team for 5 years. Vegas Loop proved what’s possible. With the $3B raise, TBC is expanding to many more cities in the US and abroad. This is a rare moment to join the team and help bring Loop to the next 100 cities. We are inviting a select group of exceptional engineers and operators to an all expenses paid, behind the scenes tour of the Vegas Loop on Sunday, Oct 18. Years of experience is not a filter. New grads and dropouts should apply. Apply by Oct 1 http://BoringDayInVegas.com
+
+![Privileged to be a major investor in @boringcompany Series D and to have helped scale the team for 5 years. Vegas Loop proved what’s possible. With the $3B raise, TBC is expanding to many more cities ](../../../../assets/images/2026/09/10/2098102856629006741-1.jpg)
+
+🔗 [View original post](https://x.com/barisakis/status/2098102856629006741)
+
+---
+
+### 🕐 16:39 UTC · @elonmusk
+
+> Last day in Texas &amp; Starbase @SpaceX. The vibe here is so contagious. So much being build. The next few years are gonna be insane &amp; we’re alive to witness it all 🚀 Next stop Anaheim BlizzCon 💯 @AnnacakeLive @CosyDs92285 #blizzcon
+
+![Last day in Texas &amp; Starbase @SpaceX. The vibe here is so contagious. So much being build. The next few years are gonna be insane &amp; we’re alive to witness it all 🚀 Next stop Anaheim BlizzCon 💯](../../../../assets/images/2026/09/10/2098088965773336641-1.jpg)
+
+🔗 [View original post](https://x.com/rob2628/status/2098088965773336641)
+
+---
+
+### 🕐 15:12 UTC · @elonmusk
+
+> ⚫ Can you dig it? Yes, yes, you can solve soul-deadening traffic by going 3D. Today: Boring raised a heavily oversubscribed $3B at a $23B valuation, and closed a new 150km overseas project. Below, how it started… the four largest TBM incumbents were founded in the 1800’s. Reinventing Boring. I have been fascinated my the latent potential for a 10-100x improvement in neglected and formerly unattractive industrial businesses that lacked a new entrant for decades (e.g., aerospace, automotive &amp; construction). I be looking for more in the Future :)
+
+![⚫ Can you dig it? Yes, yes, you can solve soul-deadening traffic by going 3D. Today: Boring raised a heavily oversubscribed $3B at a $23B valuation, and closed a new 150km overseas project. Below, how](../../../../assets/images/2026/09/10/2098067052359749703-1.jpg)
+
+🔗 [View original post](https://x.com/FutureJurvetson/status/2098067052359749703)
 
 ---
 

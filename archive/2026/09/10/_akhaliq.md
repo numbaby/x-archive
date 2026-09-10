@@ -2,7 +2,37 @@
 
 ## 📅 September 10, 2026
 
-> 4 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 16:11 UTC · @_akhaliq
+
+> We were founded on advancements in translation. We couldn’t be prouder to continue that legacy. Find the weights on Hugging Face (available in several quants) under a CC BY-NC 4.0 license. https://huggingface.co/CohereLabs/North-Small-Translate-1.0
+
+![We were founded on advancements in translation. We couldn’t be prouder to continue that legacy. Find the weights on Hugging Face (available in several quants) under a CC BY-NC 4.0 license. https://hug](../../../../assets/images/2026/09/10/2098081941027192883-1.jpg)
+
+🔗 [View original post](https://x.com/cohere/status/2098081941027192883)
+
+---
+
+### 🕐 16:05 UTC · @_akhaliq
+
+> Two big updates 1. I published an @FT op-ed on the OpenAI/HF incident &amp; follow-ups 2. We’re starting an Open Alignment team at @huggingface to work on safety &amp; alignment for open models, incl cybersecurity Need 100x more transparency &amp; research on this https://www.ft.com/content/9faf688d-9192-418e-b7d3-c2202526e85e
+
+![Two big updates 1. I published an @FT op-ed on the OpenAI/HF incident &amp; follow-ups 2. We’re starting an Open Alignment team at @huggingface to work on safety &amp; alignment for open models, incl ](../../../../assets/images/2026/09/10/2098080470235762702-1.jpg)
+
+🔗 [View original post](https://x.com/Thom_Wolf/status/2098080470235762702)
+
+---
+
+### 🕐 16:04 UTC · @_akhaliq
+
+> I can confirm it now, DeepSeek V4.1 Flash is amazing 🥹 DeepSeek V4.1 Flash is available in HuggingChat 🐋 (absolute must try if you have a HF account!)
+
+![I can confirm it now, DeepSeek V4.1 Flash is amazing 🥹 DeepSeek V4.1 Flash is available in HuggingChat 🐋 (absolute must try if you have a HF account!)](../../../../assets/images/2026/09/10/2098080125203976632-1.jpg)
+
+🔗 [View original post](https://x.com/victormustar/status/2098080125203976632)
 
 ---
 
@@ -21,6 +51,16 @@
 ![AgentGrad: Intervention-guided Prompt Optimization Improves multi-agent prompt optimization via sequential intervention and semantic textual gradient abstraction, achieving SOTA on 5 MAS benchmarks an](../../../../assets/images/2026/09/10/2098022487405793367-1.jpg)
 
 🔗 [View original post](https://x.com/HuggingPapers/status/2098022487405793367)
+
+---
+
+### 🕐 08:45 UTC · @_akhaliq
+
+> 🚀MiniCPM5-2B hits #1 on @huggingface Trending! 🏆 Huge thanks to the community for the incredible support!💗 Ranked #1 among open-weight models under 4B parameters worldwide in the @ArtificialAnlys Intelligence Index. 🤖 Built for Agentic AI Tool calling, deep search, code generation, and more—bringing capable Agents to phones, PCs, and vehicles. 🧠 More than model weights We’re opening up training code, Agent SFT/RL data, UltraX, Meshy, and JustRL II, enabling deeper research and easier reproduction. 📱 Ready for the edge Day 0 support for Intel, AMD &amp; Arm, plus mainstream inference and fine-tuning frameworks. Try the model here: 🤗 Hugging Face: http://huggingface.co/openbmb/MiniCPM5-2B 💻 GitHub: http://github.com/OpenBMB/MiniCPM
+
+![🚀MiniCPM5-2B hits #1 on @huggingface Trending! 🏆 Huge thanks to the community for the incredible support!💗 Ranked #1 among open-weight models under 4B parameters worldwide in the @ArtificialAnlys Inte](../../../../assets/images/2026/09/10/2097969683408544148-1.jpg)
+
+🔗 [View original post](https://x.com/OpenBMB/status/2097969683408544148)
 
 ---
 

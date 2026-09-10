@@ -2,7 +2,153 @@
 
 ## 📅 September 10, 2026
 
-> 107 post(s) archived.
+> 127 post(s) archived.
+
+---
+
+### 🕐 18:11 UTC · @Wise1Philosophy
+
+> https://x.com/i/article/2098106886893830144
+
+🔗 [View original post](https://x.com/filippocarnvl/status/2098112186573082702)
+
+---
+
+### 🕐 18:00 UTC · @Wise1Philosophy
+
+> 9 signs your body is flooded with cortisol and you do not even realise it. 1. Waking between 2 and 4am Media
+
+🔗 [View original post](https://x.com/yourcamilavega/status/2098109368734802179)
+
+---
+
+### 🕐 17:34 UTC · @Wise1Philosophy
+
+> https://x.com/i/article/2098055968714297344
+
+🔗 [View original post](https://x.com/deepakpathak/status/2098102939017769386)
+
+---
+
+### 🕐 17:25 UTC · @Wise1Philosophy
+
+> My half-built agents feel exposed Something quietly changed in how AI systems get built. For years, going open meant assembling every layer yourself. Now it can start from one place. The Nebius AI Builder Program puts open models, partner tools, blueprints and the engineers behind them in one free program. - blue…
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2098100605088612681)
+
+---
+
+### 🕐 17:19 UTC · @Wise1Philosophy
+
+> Former Google CEO Eric Schmidt drops a chilling warning on AI&apos;s future &quot;Within 5 years, AI could handle infinite context, chain-of-thought reasoning for 1000-step solutions, and millions of agents working together. Eventually, they&apos;ll develop their own language... and we won&apos;t understand what they&apos;re doing.&quot; His final words: &quot;Pull the plug.&quot; This is the man who ran Google talking about the singularity. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2098099047647322504)
+
+---
+
+### 🕐 17:15 UTC · @Wise1Philosophy
+
+> useful breakdown of AI agents in production: A PE operating partner asked us to put production AI agents inside a portco&apos;s prior-authorization platform, submitting real treatment approvals across 600+ payer plans under HIPAA. A small team spent their days hand-building and maintaining hundreds of payer templates, one for ev…
+
+🔗 [View original post](https://x.com/free_ai_guides/status/2098098005526069283)
+
+---
+
+### 🕐 17:12 UTC · @Wise1Philosophy
+
+> To understand where the real money in software is, you need to understand Bending Spoons. And they don&apos;t build anything new. They just agreed to buy Miro for $1.355B in cash. I went through the whole playbook. Here are the notes: - The play isn&apos;t hot startups. It&apos;s mature software with loyal users and lazy pricing - Miro, announced today: $1.355B all-cash for a whiteboard tool with 100M+ users, 250k organizations, and ~$600M in annual recurring revenue - They don&apos;t buy to flip. In over a decade they&apos;ve never sold a material business. They buy to own and squeeze - Even the sellers stay in: some Miro shareholders are rolling $295M back into Bending Spoons equity - Step one after every deal: cut cost to the bone. Evernote lost ~129 people. WeTransfer was set to lose around 75% of staff - Step two: raise the floor. Free tiers get capped (Evernote to 50 notes, WeTransfer to 10 transfers a month) and prices climb - Step three: run it with a tiny core. Around 620 &quot;Spooners&quot; transform every business they own - The scoreboard: revenue per core Spooner went from $1.12M in 2023 to $2.57M in 2025 - They fund deals with debt, not dilution. $2.8B raised to buy AOL - Every acquisition throws off cash, and that cash buys the next one: Evernote, Meetup, StreamYard, WeTransfer, Brightcove, Vimeo, Eventbrite, AOL, now Miro - The moat isn&apos;t a product. It&apos;s the playbook: a repeatable machine that turns tired software into cash - The bet underneath it all: good software is chronically mismanaged, and that&apos;s a renewable resource - They IPO&apos;d on the Nasdaq this year (ticker BSP), and the buying spree only accelerated - The asymmetric lesson: you don&apos;t have to invent the next thing. You just have to operate what already works, leaner than the people who built it Founders chase the next unicorn. Bending Spoons buys the last one and prints. BREAKING: we&apos;ve officially entered a deal to acquire Miro for $1.355B! 😍
+
+🔗 [View original post](https://x.com/mardehaym/status/2098097195845026062)
+
+---
+
+### 🕐 17:06 UTC · @Wise1Philosophy
+
+> 94% OF ENGINEERING ORGS USE AI. ONLY 6% SCALE IT The missing link is context and governance. That’s exactly what @Atlassian is going after with its new agentic engineering stack: Code Context + governed agent loops in @Jira + DX measurement. The idea is simple: make agents a native part of your engineering system instead of a side quest in a terminal. &gt; Code Context grounds them in your architecture &gt; Governed loops take work from backlog to pull request &gt; DX measures the impact And the data backs up the context thesis: DX found context-rich AI teams shipped ~64% more per developer 👊 A pretty strong signal that context is becoming one of the biggest leverage points in agentic engineering. Media Agents should know better. With Jira, they do. Today we’re launching governed agent loops to move the SDLC from one-off sessions to always-on execution: → Code Context for semantic codebase understanding → Agent loops to automate the path from backlog to PR → Standards to set gua…
+
+🔗 [View original post](https://x.com/DataChaz/status/2098095869463593301)
+
+---
+
+### 🕐 16:40 UTC · @Wise1Philosophy
+
+> The Nebius AI Builder Program launched today and it starts you from working code, not a blank repo. Members get runnable blueprints, a LangChain agent traced with LangSmith, Nemotron fine-tuning and web-grounded RAG with Tavily, with the open models served on Nebius Token Factory over an OpenAI-compatible API, dedicated endpoints and production SLAs. Join free at http://dev.nebius.com/builders and get $400+ in credits across the stack on day one. #nebiuspartnership Take a look for yourself: Media The Nebius AI Builder Program is now available. AI isn’t just a model you call anymore. It’s a system you build. And builders, not a few closed labs, will decide what it becomes. The open ecosystem has all the pieces. We want to make it easier to put them together and start build…
+
+🔗 [View original post](https://x.com/AIHighlight/status/2098089225304293642)
+
+---
+
+### 🕐 16:36 UTC · @Wise1Philosophy
+
+> 🚨 BREAKING : NVIDIA just let another chipmaker inside its racks. d-Matrix is next. Its Raptor inference chips plug into NVLink Fusion and run alongside Vera Rubin on the same rack design. 3x lower latency than standard Ethernet. 3 TB/s per chip. Same list as AWS, Arm, Intel and Samsung.
+
+![🚨 BREAKING : NVIDIA just let another chipmaker inside its racks. d-Matrix is next. Its Raptor inference chips plug into NVLink Fusion and run alongside Vera Rubin on the same rack design. 3x lower lat](../../../../assets/images/2026/09/10/2098088192691843307-1.jpg)
+
+🔗 [View original post](https://x.com/TheAIColonyRD/status/2098088192691843307)
+
+---
+
+### 🕐 16:30 UTC · @Wise1Philosophy
+
+> Change one model on a closed platform and you end up rebuilding your whole stack. Nebius built this one the other way: open models served on Nebius Token Factory, LangChain, Tavily and LangSmith on top, and any layer swaps out without touching the rest. Join the Nebius AI Builder Program free at http://dev.nebius.com/builders and start with $400+ in credits across the stack on day one. #nebiuspartnership Full partner lineup here: Media The Nebius AI Builder Program is now available. AI isn’t just a model you call anymore. It’s a system you build. And builders, not a few closed labs, will decide what it becomes. The open ecosystem has all the pieces. We want to make it easier to put them together and start build…
+
+🔗 [View original post](https://x.com/AriaWestcott/status/2098086766548832471)
+
+---
+
+### 🕐 16:25 UTC · @Wise1Philosophy
+
+> If your child doesn&apos;t listen... Don&apos;t repeat yourself 10 times. Instead, try these 7 strategies that actually work... 👇 🧵
+
+![If your child doesn&apos;t listen... Don&apos;t repeat yourself 10 times. Instead, try these 7 strategies that actually work... 👇 🧵](../../../../assets/images/2026/09/10/2098085373805248951-1.jpg)
+
+🔗 [View original post](https://x.com/scotti_brooks/status/2098085373805248951)
+
+---
+
+### 🕐 16:24 UTC · @Wise1Philosophy
+
+> 5 HABITS MEN LOVE BUT ARE TOO SHY TO ASK THEIR WIVES FOR.. 🧵
+
+![5 HABITS MEN LOVE BUT ARE TOO SHY TO ASK THEIR WIVES FOR.. 🧵](../../../../assets/images/2026/09/10/2098085207803085193-1.jpg)
+
+🔗 [View original post](https://x.com/Manifest_Lord/status/2098085207803085193)
+
+---
+
+### 🕐 16:21 UTC · @Wise1Philosophy
+
+> Introducing Gumball Model agnostic, proactive, self improving. All in your company’s private cloud Media
+
+🔗 [View original post](https://x.com/MaxBrodeurUrbas/status/2098084379474251777)
+
+---
+
+### 🕐 16:17 UTC · @Wise1Philosophy
+
+> Apple’s first foldable is here and it’s already the most talked about phone on the internet! 10 wild videos: 1. Gaming from 3 different perspectives Media
+
+🔗 [View original post](https://x.com/FutureStacked/status/2098083434149167361)
+
+---
+
+### 🕐 16:16 UTC · @Wise1Philosophy
+
+> Your website tells people what you sell. But it can also help you figure out who to sell to. I put mine into an AI tool called iCustomer. It researched my business and built a profile of my ideal customers. After I reviewed and approved that profile, it suggested 297 companies and 717 people at those companies. If you&apos;re looking for new clients or planning a campaign, you can use those suggestions to build a shortlist for outreach or your next ad audience. Which companies might it suggest that you haven&apos;t thought to approach? You can find out with your own website. It&apos;s free to start, and you don&apos;t need a credit card. Enter your website and see who it suggests: https://www.icustomer.ai/growth-brain
+
+![Your website tells people what you sell. But it can also help you figure out who to sell to. I put mine into an AI tool called iCustomer. It researched my business and built a profile of my ideal cust](../../../../assets/images/2026/09/10/2098072683795951887-1.png)
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2098083157493071956)
+
+---
+
+### 🕐 16:11 UTC · @Wise1Philosophy
+
+> AI just hit a wall that money and chips cannot fix. 72% of companies say they cannot find people with AI skills. That single number from The AI Colony&apos;s H1 2026 report should change how anyone in tech plans the next two years of their career. Full report: http://bit.ly/StateofAI2026
+
+![AI just hit a wall that money and chips cannot fix. 72% of companies say they cannot find people with AI skills. That single number from The AI Colony&apos;s H1 2026 report should change how anyone in](../../../../assets/images/2026/09/10/2098081960400699518-1.jpg)
+
+🔗 [View original post](https://x.com/TheAIColonyRD/status/2098081960400699518)
 
 ---
 
@@ -92,6 +238,14 @@
 
 ---
 
+### 🕐 15:35 UTC · @Wise1Philosophy
+
+> One thing AI has taught me: Never fall in love with your stack. Models change. Tools get better. What looked perfect six months ago suddenly looks ancient. So I like this approach from Nebius. Open models. Modular tooling. Less lock-in. Swap things out. Keep building. That matters more than people think. #NebiusPartner The Nebius AI Builder Program is now available. AI isn’t just a model you call anymore. It’s a system you build. And builders, not a few closed labs, will decide what it becomes. The open ecosystem has all the pieces. We want to make it easier to put them together and start build…
+
+🔗 [View original post](https://x.com/ThatsEFM/status/2098072923982475532)
+
+---
+
 ### 🕐 15:34 UTC · @Wise1Philosophy
 
 > I put my website into an AI tool to see who else I could be marketing to. It suggested 297 companies and 717 people. It’s called iCustomer Growth Brain. It researched my business and built a customer profile. I reviewed and approved that before it generated the list. If you’re looking for your next client or deciding who to approach with a new offer, that gives you companies to look into. I’d start with a simple question: which of these businesses could we actually help? You can try the same first step with your company website. It’s free to start, and there’s no credit card required. See what it comes back with for your business: https://www.icustomer.ai/growth-brain
@@ -115,6 +269,14 @@
 > Your iPhone has a hidden setting that lets apps track you even after you say no. Most people turn it off once and think they&apos;re done. Here are 6 places to check tonight:🧵
 
 🔗 [View original post](https://x.com/Kevincreates77/status/2098069059657199834)
+
+---
+
+### 🕐 15:08 UTC · @Wise1Philosophy
+
+> okey... these look like someone&apos;s camera roll, not an ai demo. &gt; messy rooms &gt; harsh flash &gt; no more plastic skins GPT Image 2.5 just landed on Arcads with Sunburst + Flare. 2.0 vs 2.5 below. (look carefully at the faces): Media
+
+🔗 [View original post](https://x.com/samuraipreneur/status/2098066064982659401)
 
 ---
 
@@ -396,6 +558,14 @@
 > the only enterprise AI account worth following: A PE operating partner asked us to put production AI agents inside a portco&apos;s prior-authorization platform, submitting real treatment approvals across 600+ payer plans under HIPAA. A small team spent their days hand-building and maintaining hundreds of payer templates, one for ev…
 
 🔗 [View original post](https://x.com/karlarboledas/status/2098032541282222165)
+
+---
+
+### 🕐 12:50 UTC · @Wise1Philosophy
+
+> the most detailed production AI agents writeup on X: A PE operating partner asked us to put production AI agents inside a portco&apos;s prior-authorization platform, submitting real treatment approvals across 600+ payer plans under HIPAA. A small team spent their days hand-building and maintaining hundreds of payer templates, one for ev…
+
+🔗 [View original post](https://x.com/igus_ai/status/2098031376918331476)
 
 ---
 

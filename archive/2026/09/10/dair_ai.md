@@ -2,7 +2,17 @@
 
 ## 📅 September 10, 2026
 
-> 5 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 18:00 UTC · @dair_ai
+
+> Recommended read. Interaction horizon scheduling is an underexplored control problem in agentic RL This paper from the Qwen team takes a closer look at the problem. Scaling the maximum number of environment interactions per episode improves long-horizon agents, and curriculum methods that expand the horizon beat fixed-horizon training. But those schedules are open-loop. They increase monotonically to a manually specified maximum with no way to detect that expansion stopped helping. The authors propose the effective interaction frontier, a dynamic boundary past which extra interactions give diminishing returns while cost keeps growing linearly. Fixed-horizon sweeps on AppWorld and BFCL show clear saturation plateaus. Elastic Horizon is a closed-loop controller that tracks the boundary using the 90th percentile of successful trajectory lengths, a statistic already available during training. It settles inside the saturation band from both under-capacity and over-capacity starts, gets the best success rates across 7B and 14B backbones, and saves up to 25% of per-step trajectory tokens. Paper: https://academy.dair.ai/papers/elastic-horizon-discovering-the-effective-interaction-frontier-in-agentic-reinfo-2609.07247
+
+![Recommended read. Interaction horizon scheduling is an underexplored control problem in agentic RL This paper from the Qwen team takes a closer look at the problem. Scaling the maximum number of envir](../../../../assets/images/2026/09/10/2098109386568925397-1.jpg)
+
+🔗 [View original post](https://x.com/dair_ai/status/2098109386568925397)
 
 ---
 

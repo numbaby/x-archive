@@ -2,7 +2,15 @@
 
 ## 📅 September 10, 2026
 
-> 6 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 17:32 UTC · @tunguz
+
+> I mean, primates share 98% of genes with humans and cost 1.4% to maintain. 🤷‍♂️ WTF 😅🚀😳 “98% of Astra’s score at 1.4% of cost” Cancel the fucking IPOs 😂
+
+🔗 [View original post](https://x.com/tunguz/status/2098102366071582887)
 
 ---
 
