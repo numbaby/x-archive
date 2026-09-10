@@ -2,7 +2,31 @@
 
 ## 📅 September 10, 2026
 
-> 32 post(s) archived.
+> 35 post(s) archived.
+
+---
+
+### 🕐 09:40 UTC · @Wise1Philosophy
+
+> best account on X to learn how enterprise AI actually gets done: A PE operating partner asked us to put production AI agents inside a portco&apos;s prior-authorization platform, submitting real treatment approvals across 600+ payer plans under HIPAA. A small team spent their days hand-building and maintaining hundreds of payer templates, one for ev…
+
+🔗 [View original post](https://x.com/alex_prompter/status/2097983535483109740)
+
+---
+
+### 🕐 09:23 UTC · @Wise1Philosophy
+
+> A PE operating partner asked us to put production AI agents inside a portco&apos;s prior-authorization platform, submitting real treatment approvals across 600+ payer plans under HIPAA. A small team spent their days hand-building and maintaining hundreds of payer templates, one for every plan, trying to keep up with each payer’s custom forms, portals, and documentation rules. When a payer changed those rules overnight, the template broke. Denials would spike, and the team wouldn&apos;t realize it until someone noticed the mess and scrambled to rewrite the template. The product was sold as automation, but behind the scenes, it was just humans racing payer bureaucracy by hand. Five months later, we built six production agents that handle the entire workload. Zero patient data leaves the client’s tenant. In the first few weeks, we didn&apos;t touch a single AI model. We started with data architecture: mapping every payer’s submission steps, portal flows, plan-specific coverage rules, and CPT/diagnosis pairings. We turned all of it into structured, versioned facts that the agents must read before taking action. I’ve seen teams skip this step dozens of times. They bolt a model directly onto a portal, watch it hallucinate a nonexistent form field or policy, get an authorization denied, and declare that AI isn&apos;t ready for healthcare. It&apos;s the unglamorous data prep that actually makes it safe. Before any model touches a case, an enrichment layer compiles 47 distinct variables: active payer rules, plan coverage, site of service, procedure codes, and relevant clinical evidence from the chart. The agent gets ranked facts up front, not an open-ended search problem. Every agent follows a strict operational loop: 1. Pre-compute context using verified payer rules. 2. Strip all patient identifiers before sending data to the model. 3. Validate model output against a rigid schema. 4. Pass control to deterministic code to decide whether to submit. If an output strays from the allowlist, the system fails closed and hands the case to a human. Instead of one monolithic model, six specialized agents handle distinct workflows: eligibility checks, submission assembly, status polling, medical-necessity drafting, denial triage, and a payer-rule watcher that monitors policy updates to flag changes before templates break. To ensure reliability, we built an evaluation harness. Every agent runs through a curated test suite before any update goes to production. When a payer updates a form or a model provider releases an update, the harness catches regressions before a live case is affected. The medical-necessity agent is the flagship. It builds submission packets designed to match published payer criteria line by line. During eval testing, it produced clean packets on 56 out of 60 cases, and for the four it wasn&apos;t certain about, it flagged them for human review rather than guessing. Because the harness continuously verifies performance, we can route calls across two different model providers and swap them out without altering the output. Integrating the models ended up being the shortest line item in the entire build. In its first eight weeks live, the rule-watcher agent caught three major policy changes before a single authorization was sent using outdated rules. Under the old setup, those changes would have been discovered a week later in a pile of rejection notices. The operating partner now uses this architecture as the benchmark for the rest of their portfolio. That’s the difference between a company that truly runs on AI and one that’s still updating templates by hand.
+
+🔗 [View original post](https://x.com/mardehaym/status/2097979140884570267)
+
+---
+
+### 🕐 08:47 UTC · @Wise1Philosophy
+
+> omg.. this is absolutely crazy you can turn one image into a full game-ready 3D asset, geometry and materials, in about 20 seconds how is this even possible, no modeling at all👇 Media
+
+🔗 [View original post](https://x.com/nrqa__/status/2097970264499970419)
 
 ---
 
