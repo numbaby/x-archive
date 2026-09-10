@@ -2,7 +2,15 @@
 
 ## 📅 September 10, 2026
 
-> 8 post(s) archived.
+> 9 post(s) archived.
+
+---
+
+### 🕐 21:31 UTC · @_akhaliq
+
+> Yesterday we announced our series A to reimagine CRM as a business world model. I wanted explain what we mean by that, and why the CRM is the practical place to start building something much larger. https://x.com/i/article/2098159001070673920
+
+🔗 [View original post](https://x.com/hliriani/status/2098162367075164170)
 
 ---
 

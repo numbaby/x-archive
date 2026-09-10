@@ -2,7 +2,31 @@
 
 ## 📅 September 10, 2026
 
-> 127 post(s) archived.
+> 131 post(s) archived.
+
+---
+
+### 🕐 18:34 UTC · @Wise1Philosophy
+
+> 250M listeners is a tiny number btw :) Woww.. Pocket FM is doing $500M ARR off 10 minute audio episodes. &gt; 2.5 million hours of content produced a year &gt; 250M+ listeners, 70% of the revenue from the US &gt; 500,000+ writers on the platform &gt; profitable for 18 straight months everyone else is making shows. this is a suppl…
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2098117948514742517)
+
+---
+
+### 🕐 18:34 UTC · @Wise1Philosophy
+
+> If I wanted to get dementia as fast as possible, here is exactly what I would do: 1. Sleep six hours a night Media
+
+🔗 [View original post](https://x.com/HeyEleanorr/status/2098117858945606019)
+
+---
+
+### 🕐 18:23 UTC · @Wise1Philosophy
+
+> A Heart doctor confessed: “There are 3 kinds of people who never get heart attacks.” 1. Those who don&apos;t get up to pee at 3 AM Media
+
+🔗 [View original post](https://x.com/dzejlacathleen/status/2098115055363760621)
 
 ---
 
@@ -19,6 +43,14 @@
 > 9 signs your body is flooded with cortisol and you do not even realise it. 1. Waking between 2 and 4am Media
 
 🔗 [View original post](https://x.com/yourcamilavega/status/2098109368734802179)
+
+---
+
+### 🕐 17:36 UTC · @Wise1Philosophy
+
+> Why it matters: https://x.com/deepakpathak/status/2098102939017769386 https://x.com/i/article/2098055968714297344
+
+🔗 [View original post](https://x.com/SkildAI/status/2098103301317570857)
 
 ---
 

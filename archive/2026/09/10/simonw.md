@@ -2,7 +2,15 @@
 
 ## 📅 September 10, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 18:49 UTC · @simonw
+
+> DwarfStar running DeepSeek v4.1 Flash on a 128GB M5 Max. I didn&apos;t expect with SSD streaming it could be so fast. Recent SSD streaming changes to retain the right experts surely helped, but also maybe DS4.1 uses the same experts more. Will push online when ready QA &gt; ASAP. Media
+
+🔗 [View original post](https://x.com/antirez/status/2098121665771110540)
 
 ---
 

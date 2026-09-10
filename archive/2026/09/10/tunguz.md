@@ -2,7 +2,15 @@
 
 ## 📅 September 10, 2026
 
-> 7 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 19:39 UTC · @tunguz
+
+> They are going to get Riemann by the end of the year, aren’t they?
+
+🔗 [View original post](https://x.com/tunguz/status/2098134307214590100)
 
 ---
 

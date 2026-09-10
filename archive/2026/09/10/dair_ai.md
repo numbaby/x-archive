@@ -2,7 +2,27 @@
 
 ## 📅 September 10, 2026
 
-> 6 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 21:00 UTC · @dair_ai
+
+> Another interesting approach to self-evolve agent skills. But it&apos;s important to know that skill self-evolution loops fail in two specific ways: 1. Direction instability. Effective corrections get overwritten by iteration-local feedback instead of accumulating, so the loop keeps undoing its own fixes. 2. Fixed update scope. Every revision changes about the same amount regardless of whether recent case-level improvements were consistent or noisy. SkillAdam addresses both by porting Adam&apos;s two moment estimates to discrete, non-differentiable skill documents. As a functional analogue of the first moment, an optimization memory records identified problems and the outcomes of prior solution attempts, which stabilizes the update direction. As an analogue of the second moment, a volatility-driven edit budget tracks the history-weighted variation of recent case-level improvements and controls how large each revision is allowed to be. Across seven benchmarks spanning short and long-horizon tasks it reaches state of the art with more stable optimization dynamics, and it gets there in substantially fewer iterations and at lower cost than prior methods. Paper: https://academy.dair.ai/papers/skilladam-stable-and-efficient-skill-evolution-for-agents-2609.08944
+
+![Another interesting approach to self-evolve agent skills. But it&apos;s important to know that skill self-evolution loops fail in two specific ways: 1. Direction instability. Effective corrections get](../../../../assets/images/2026/09/10/2098154641854992676-1.png)
+
+🔗 [View original post](https://x.com/dair_ai/status/2098154641854992676)
+
+---
+
+### 🕐 20:05 UTC · @dair_ai
+
+> This is a brilliant paper. It&apos;s of the cleanest long-context agent designs I have seen in the past couple of months. Sequential memory agents read chunks one after another while maintaining a compact memory state. This behavior ties reasoning depth to document traversal and makes accuracy sensitive to where the evidence sits. It also makes latency grow linearly with document length. PARSER decouples the two. A bank of lightweight subagents, each bound to a single chunk, reads the whole document in parallel. A lead agent reasons through iterative scatter-gather rounds, broadcasting a query to all subagents, aggregating the returned evidence, and forming a deeper follow-up query conditioned on what it has found. All the learnable behavior is build into the lead agent, which is trained with RL. The subagents stay frozen off-the-shelf models. On multi-hop QA from 7K to 896K tokens, a 4B PARSER beats the strongest sequential memory baseline by 5.7 points on average and 12.0 points at 896K. At 9B it passes DeepSeek-V4-Pro by 6.3 points. Controlled experiments show it holds up under perturbations to evidence position, order and distance, which cause large accuracy swings in sequential methods, while cutting inference latency by up to 11x. Paper: https://academy.dair.ai/papers/parser-read-in-parallel-reason-in-depth-for-long-context-llm-agents-2609.06702
+
+![This is a brilliant paper. It&apos;s of the cleanest long-context agent designs I have seen in the past couple of months. Sequential memory agents read chunks one after another while maintaining a com](../../../../assets/images/2026/09/10/2098140712504332411-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2098140712504332411)
 
 ---
 

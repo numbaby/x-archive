@@ -2,7 +2,25 @@
 
 ## 📅 September 10, 2026
 
-> 35 post(s) archived.
+> 37 post(s) archived.
+
+---
+
+### 🕐 20:35 UTC · @Unlockyourlife_
+
+> 98% of men have developed this habit of trying to provide for everybody. Sadly, you have forgotten yourself. - No sleep - No gym - No hobbies - No friends - No boundaries - No rest - No self-care - No peace Just.. - Work - Overthink - Provide - Sacrifice - Repeat - Numb out - Burn out - Survive This is how men wake up at 50 not knowing who they are.
+
+🔗 [View original post](https://x.com/Masculinjournal/status/2098148256207519852)
+
+---
+
+### 🕐 19:09 UTC · @Unlockyourlife_
+
+> 7 Books That Can Change Your Life permanently. 1. Atomic Habits
+
+![7 Books That Can Change Your Life permanently. 1. Atomic Habits](../../../../assets/images/2026/09/10/2098126852095115455-1.jpg)
+
+🔗 [View original post](https://x.com/_learnskills/status/2098126852095115455)
 
 ---
 
