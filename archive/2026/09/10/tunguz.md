@@ -2,7 +2,17 @@
 
 ## 📅 September 10, 2026
 
-> 8 post(s) archived.
+> 9 post(s) archived.
+
+---
+
+### 🕐 22:02 UTC · @tunguz
+
+> Duh! omfg Qwen, GLM, Kimi, DeepSeek looks like they are all just claude
+
+![Duh! omfg Qwen, GLM, Kimi, DeepSeek looks like they are all just claude](../../../../assets/images/2026/09/10/2098170196254961914-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2098170196254961914)
 
 ---
 

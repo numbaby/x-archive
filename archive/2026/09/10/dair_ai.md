@@ -2,7 +2,15 @@
 
 ## 📅 September 10, 2026
 
-> 8 post(s) archived.
+> 9 post(s) archived.
+
+---
+
+### 🕐 21:55 UTC · @dair_ai
+
+> Recommended read. As the world becomes more agentic, we will start to see world models of different shapes. As an example, I find this “business world model” from @lightfld fascinating as a way to model the complexity of a business and make it convenient and easier for agents to derive value from. They are going for CRM first, but you can easily see how, with the right agent infrastructure, this can potentially mutate and expand to other adjacencies. This is just a really interesting and futuristic approach to leveraging agents. It&apos;s worth taking notes if you are building and operating in this space. Yesterday we announced our series A to reimagine CRM as a business world model. I wanted explain what we mean by that, and why the CRM is the practical place to start building something much larger. https://x.com/i/article/2098159001070673920
+
+🔗 [View original post](https://x.com/omarsar0/status/2098168545393701327)
 
 ---
 

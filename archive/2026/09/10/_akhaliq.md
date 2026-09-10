@@ -2,7 +2,7 @@
 
 ## 📅 September 10, 2026
 
-> 9 post(s) archived.
+> 10 post(s) archived.
 
 ---
 
@@ -11,6 +11,16 @@
 > Yesterday we announced our series A to reimagine CRM as a business world model. I wanted explain what we mean by that, and why the CRM is the practical place to start building something much larger. https://x.com/i/article/2098159001070673920
 
 🔗 [View original post](https://x.com/hliriani/status/2098162367075164170)
+
+---
+
+### 🕐 20:11 UTC · @_akhaliq
+
+> SWE-Bench Pro Verified OpenCompass released a verified version of SWE-Bench Pro that fixes reward hacking and task-quality issues, revealing frontier models score far lower than previously reported.
+
+![SWE-Bench Pro Verified OpenCompass released a verified version of SWE-Bench Pro that fixes reward hacking and task-quality issues, revealing frontier models score far lower than previously reported.](../../../../assets/images/2026/09/10/2098142214450782282-1.jpg)
+
+🔗 [View original post](https://x.com/HuggingPapers/status/2098142214450782282)
 
 ---
 
