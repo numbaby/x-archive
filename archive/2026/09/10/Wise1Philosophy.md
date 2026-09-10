@@ -2,7 +2,98 @@
 
 ## 📅 September 10, 2026
 
-> 71 post(s) archived.
+> 90 post(s) archived.
+
+---
+
+### 🕐 14:58 UTC · @Wise1Philosophy
+
+> GPT Image 2.5 doing the setup is smart 👏 you see videos like this and assume there&apos;s some crazy prompt behind them there isn&apos;t. it&apos;s a simple workflow most creators skip completely.. full breakdown below, every prompt included 👇
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2098063583544254759)
+
+---
+
+### 🕐 14:55 UTC · @Wise1Philosophy
+
+> Anthropic pays an outside company to tell it when a protest changes time. The firm is called Samdesk. Last year it gave Anthropic&apos;s security team about sixty minutes of notice that organisers had moved a demonstration forward, in a city one of the company&apos;s executives was travelling into. Without that hour, the executives would have walked into the middle of it. That story was told by Anthropic&apos;s own global security operations centre manager, on a podcast, last year. Nobody leaked it. It sat in public for months and nobody went looking. Yesterday somebody did. Daniel Boguslaw of The American Prospect read the podcast transcript, pulled Anthropic&apos;s job listings, and published on September 9. What he found is a corporate threat monitoring programme, and one of the categories it covers is activists who oppose fast AI development. It tracks activity in the vicinity of executives. It watches protests near company buildings. The security staff describe the method as anticipating incidents rather than reacting to them, and the Prospect reports that in some cases this has meant raising concerns with police early. Anthropic&apos;s security program manager put the ambition plainly in the same conversation. Move the operation off reacting to information, and onto anticipating and preventing incidents before they arrive. That is not an unusual thing for a large company to want. It is an unusual thing to hear said out loud. Then came the detail that got the most attention. Last month Anthropic posted a role for an intelligence specialist. The listing sets out what the job covers as &quot;terrorism, crime, activism, nation-state targeting of the AI sector.&quot; Four categories, one job description, and a lot of distance between the first and the third. There is history behind why a company gets here. Last year a man told Claude he had bought an AR-15 and had Dario Amodei &quot;in his sights.&quot; Anthropic reported him to San Francisco police. When the SF Standard reached him, he said he had been joking. Every security programme in the world is built out of moments like that one, where nobody can afford to guess wrong. Anthropic did not respond to the Prospect&apos;s request for comment. Here is what makes this different from any other corporate security desk. Banks, oil majors and pharmaceutical firms all built these functions, and all of them were watching people who objected to what the company did. None of those companies were also the ones telling the public how dangerous their own product might be. Anthropic is the lab that says the loudest that this technology could go badly. Some of the people outside the building are saying the same thing. 🚨BREAKING: Anthropic is building a predictive surveillance system to monitor activists who oppose AI development. Pre-crime detection. Real-time protest tracking. Reporting suspects to police before a crime even happens. The same company that refused the Pentagon&apos;s mass surveill…
+
+🔗 [View original post](https://x.com/TheAIColony/status/2098062923415367797)
+
+---
+
+### 🕐 14:51 UTC · @Wise1Philosophy
+
+> Feng Shui teaches that the mess in your home has a story. The spaces you neglect reflect where energy is stuck in your life. 1. Bedroom clutter =
+
+🔗 [View original post](https://x.com/BeBetterMan_/status/2098061897409167658)
+
+---
+
+### 🕐 14:46 UTC · @Wise1Philosophy
+
+> A Stanford psychiatrist says your anxiety was never about danger. It&apos;s tiny habits training your brain to panic when nothing&apos;s wrong. 6 habits quietly teaching your nervous system to panic: 1. Reaching for your phone the second you feel uncomfortable. Media
+
+🔗 [View original post](https://x.com/BeBetter_Athlet/status/2098060594595369397)
+
+---
+
+### 🕐 14:36 UTC · @Wise1Philosophy
+
+> You spent $400K on an AI transformation. Got a prototype nobody can maintain. I hear a version of this almost every week. Usually from a CTO who&apos;s now convinced AI is overhyped. Then I look at what they actually bought. A pile of tools. A Cursor rollout. Maybe a consultant who left a slide deck and a demo that worked once. That&apos;s not a transformation. That&apos;s Level 1 with a big invoice. Most companies that &quot;tried AI and it failed&quot; made the same mistake. They bought tools and expected a system. A tool makes one engineer faster on one task. A system changes how the whole team ships: evals before anything reaches production, version-managed prompts, a human in the loop where it counts, cost controls so an agent doesn&apos;t quietly burn $1,000 an hour, a kill switch under 30 seconds. The demo lives at Level 1. Production lives three levels up. The gap between them is where most transformations die. Here&apos;s the part that stings: it usually wasn&apos;t the model&apos;s fault. The setup failed. No guardrails, no measurement, no ownership once the consultant walked out. So the company decides AI doesn&apos;t work and goes back to hiring. If AI broke for you, don&apos;t ask for a better model. Ask what level you actually deployed at. Two engineers on one of our client pods shipped 122 PRs in three months at 90% AI-written code, running about $200 per developer a month. Same tools you already have. Different system around them. The tools were never the problem. Before you sign off on 12 new hires because &quot;AI didn&apos;t work,&quot; it&apos;s worth a second look at what was actually built.
+
+🔗 [View original post](https://x.com/Paul_Bracht/status/2098057970265289002)
+
+---
+
+### 🕐 14:30 UTC · @Wise1Philosophy
+
+> 1 free Claude skill now grades our ad-to-page match. Great CTR, bad CPA, ours scored 4/10 👇 The click was never the problem. 3 checks find the leak: 1/ The headline check 2/ The offer check 3/ The proof check 4/ The score 5/ The fix order 6/ The CPA read 7/ The pre-launch pass Paste 2 URLs into Claude, scored in 2 minutes. Comment &quot;MATCH&quot; and I&apos;ll DM the skill file + 3-step setup.
+
+![1 free Claude skill now grades our ad-to-page match. Great CTR, bad CPA, ours scored 4/10 👇 The click was never the problem. 3 checks find the leak: 1/ The headline check 2/ The offer check 3/ The pro](../../../../assets/images/2026/09/10/2098056403751510234-1.jpg)
+
+🔗 [View original post](https://x.com/nipuntaneja/status/2098056403751510234)
+
+---
+
+### 🕐 14:27 UTC · @Wise1Philosophy
+
+> SLEEPING WITH AC ALL NIGHT IS SILENTLY DAMAGING 6 SYSTEMS GOD DESIGNED TO HEAL YOU. You think the AC is helping you sleep better. Damage 1: Waking up with dry skin, lips, and throat.
+
+🔗 [View original post](https://x.com/Dr_Biohacker/status/2098055867484819504)
+
+---
+
+### 🕐 14:04 UTC · @Wise1Philosophy
+
+> Apple just announced the AirPods 5. Starting at $129. Most buyers will take them out of the case. They&apos;ll hold them near their iPhone. The &quot;Connect&quot; animation will appear. They&apos;ll tap &quot;Connect.&quot; They&apos;ll open Spotify. They&apos;ll press play. And for the next 2 years, they&apos;ll use $129 earbuds with 11 features for exactly 2 things listening to music and taking phone calls. The same 2 things they did with AirPods 4. The same 2 things they did with AirPods 3. The same 2 things they&apos;ve done with every pair of AirPods since 2016. The AirPods 5 cancel noise on an open-ear design for the first time at this price 50% better than the last generation. They answer calls with a nod and decline with a head shake. They detect when you&apos;re speaking and lower your music automatically. They control the iPhone camera shutter from across the room. They record studio-quality audio through computational beamforming. They turn your iPhone into a remote hearing microphone. They adjust volume from the stem without touching the phone. They share audio with a second pair of AirPods on a date night. They announce texts and read them aloud while you drive. They place sounds around you in a 3D room that follows your head position. They help you find them when they&apos;re lost between couch cushions. $129. Eleven features. Most buyers will discover 2. A former Apple Store Genius who spent 4 years teaching customers what their AirPods can do told her friend: &quot;AirPods are the most underexplored Apple product. Nobody reads the settings for something that feels simple. So everyone uses the complex thing simply.&quot; Here&apos;s every hidden feature inside the AirPods 5 that most buyers will never configure 🧵
+
+🔗 [View original post](https://x.com/jackcoder0/status/2098050082738229750)
+
+---
+
+### 🕐 14:03 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/10/2098049710200144236-1.jpg)
+
+🔗 [View original post](https://x.com/Ant_Philosophy/status/2098049710200144236)
+
+---
+
+### 🕐 14:00 UTC · @Wise1Philosophy
+
+> America lost 23,000 jobs last month. Yet the stock market just hit its 53rd record high since the election. And nobody can explain how both are true… Here’s what’s ACTUALLY happening under the hood of America’s economy: Every metric says the economy is cooked. The share of Americans with a job hit the lowest level since 2014. Inflation has beaten wage growth four months in a row. Growth slowed from 2.1% to 1.5% last quarter. But the stock market has closed at a record 25 times this year. Company profits jumped 47% from a year ago. Best quarter since 2021! So how does any of this make sense? The answer is that these companies got enormous. Add up every publicly traded company in America. It&apos;s now worth more than double the entire US economy. That changes what a share price is even used for. In the first 5 months of 2025, five tech giants borrowed $159 billion. More than the previous 5 years combined. Meta alone borrowed $30 billion in a single day. Lenders were fighting to hand over four times that amount. That same week, Meta&apos;s stock was down 11%. Its cash reserves had dropped from $8.5 billion to under $800 million. Shareholders were nervous. Lenders did not care. Because when you&apos;re worth over a trillion, you exist in 10 years. The share price is not a bet on the business anymore. It&apos;s collateral. And here&apos;s where it gets ugly: The US economy grew 1.5% last quarter. More than half of that came from companies buying equipment and building data centers. AI spending, funded by borrowed money, is holding the economy up. Take it away and America is in a recession. Now look at retail: Investors just borrowed a record $1.53 trillion to buy more stocks. Up 51% in a single year. The cash sitting in those same accounts hit a record low. The only other times borrowing grew this fast: 1997, 1999, 2007, and 2021. You already know what those years have in common. Meanwhile, the top 10% of Americans own 87% of all stocks. The bottom half owns 1%. When your job disappears, you feel the recession. When their stocks hit records, they feel like geniuses. Two different Americas, one stock market holding it all together. Here&apos;s what happens when the story cracks. Companies stop borrowing cheap. Spending slows and growth disappears with it. Pension funds for teachers, firefighters, and cops hold $642 billion in AI stocks. Your 401k owns the same names. The whole system is now one concentrated bet on a handful of companies. And emotional investors always lose when concentrated bets unwind. They panic sell at the bottom. They chase the rally at the top. They react to every headline in real time. Same cycle. Every time. Retail becomes exit liquidity. Rules-based strategies do not care about the headlines. They do not chase or panic. They execute the plan while everyone else guesses. That&apos;s exactly what Surmount was built for. Media
+
+🔗 [View original post](https://x.com/SurmountInvest/status/2098049073010118661)
+
+---
+
+### 🕐 13:54 UTC · @Wise1Philosophy
+
+> https://x.com/i/article/2098024279505784834
+
+🔗 [View original post](https://x.com/davekashen/status/2098047348148482167)
 
 ---
 
@@ -11,6 +102,14 @@
 > NETFLIX: CANCELLED. AMAZON PRIME: CANCELLED. HULU: CANCELLED. No more paying every month just to find something to watch. ChatGPT turned my laptop into a free streaming hub. Here are the 7 prompts I used:
 
 🔗 [View original post](https://x.com/AriaWestcott/status/2098044815522865567)
+
+---
+
+### 🕐 13:40 UTC · @Wise1Philosophy
+
+> 🚨BREAKING: Claude is building Instagram Pages from scratch and can hit monetisation in just 90 days. Message &quot;READY&quot; and I&apos;ll show you how. Media
+
+🔗 [View original post](https://x.com/amelieannepl/status/2098043925269213484)
 
 ---
 
@@ -29,6 +128,23 @@
 > BREAKING: Apple just unveiled its first foldable iPhone. But you probably missed its best features. Here are 10 of them: Media
 
 🔗 [View original post](https://x.com/AIHighlight/status/2098042750046269812)
+
+---
+
+### 🕐 13:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/10/2098041461702795733-1.jpg)
+
+🔗 [View original post](https://x.com/Mindsthatbuild/status/2098041461702795733)
+
+---
+
+### 🕐 13:29 UTC · @Wise1Philosophy
+
+> one of the most useful production AI agents posts you&apos;ll read this week: A PE operating partner asked us to put production AI agents inside a portco&apos;s prior-authorization platform, submitting real treatment approvals across 600+ payer plans under HIPAA. A small team spent their days hand-building and maintaining hundreds of payer templates, one for ev…
+
+🔗 [View original post](https://x.com/Nozelcode/status/2098041199261057198)
 
 ---
 
@@ -101,6 +217,15 @@
 > Weight loss cheat codes I know at 36 that I wish I&apos;d known at 21: 1. Walking &gt; Running
 
 🔗 [View original post](https://x.com/CoachWillStone/status/2098035830027870239)
+
+---
+
+### 🕐 13:04 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/10/2098034901853380959-1.jpg)
+
+🔗 [View original post](https://x.com/Life__Mastery/status/2098034901853380959)
 
 ---
 
@@ -201,6 +326,15 @@
 
 ---
 
+### 🕐 11:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/10/2098011261040570493-1.jpg)
+
+🔗 [View original post](https://x.com/Daily__wisdom_/status/2098011261040570493)
+
+---
+
 ### 🕐 11:06 UTC · @Wise1Philosophy
 
 > This got out of hand fast. I went into one chat and came out with a live website, a month of content and a launch plan. And I could still edit everything after. Here’s how I did it with ChatGPT, Claude and Gamma 🧵
@@ -216,6 +350,15 @@
 ![A cardiologist shocked me when he said: &quot;You age because your body stops making Nitric Oxide. Without it, blood pressure rises, erections fail, and Alzheimer&apos;s happens.&quot; Here&apos;s the](../../../../assets/images/2026/09/10/2098004566642155904-1.jpg)
 
 🔗 [View original post](https://x.com/Sophiaz6xo/status/2098004566642155904)
+
+---
+
+### 🕐 11:02 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/10/2098004157537915336-1.jpg)
+
+🔗 [View original post](https://x.com/apex_mentality_/status/2098004157537915336)
 
 ---
 
@@ -236,6 +379,15 @@
 ![Me sorprende cuánta gente usa apps inútiles en su móvil. Aquí tienes 9 increíbles apps que sacarán el verdadero potencial de tu smartphone. (🔖 Guárdalas para probarlas) 👇](../../../../assets/images/2026/09/10/2097996531462787137-1.jpg)
 
 🔗 [View original post](https://x.com/IA_Quijote/status/2097996531462787137)
+
+---
+
+### 🕐 10:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/10/2097996147105096153-1.jpg)
+
+🔗 [View original post](https://x.com/yeti_mind/status/2097996147105096153)
 
 ---
 
@@ -294,6 +446,15 @@
 > best account on X to learn how enterprise AI actually gets done: A PE operating partner asked us to put production AI agents inside a portco&apos;s prior-authorization platform, submitting real treatment approvals across 600+ payer plans under HIPAA. A small team spent their days hand-building and maintaining hundreds of payer templates, one for ev…
 
 🔗 [View original post](https://x.com/alex_prompter/status/2097983535483109740)
+
+---
+
+### 🕐 09:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/10/2097981031915606427-1.jpg)
+
+🔗 [View original post](https://x.com/Ant_Philosophy/status/2097981031915606427)
 
 ---
 

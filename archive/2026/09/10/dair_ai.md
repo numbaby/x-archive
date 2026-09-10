@@ -2,7 +2,25 @@
 
 ## 📅 September 10, 2026
 
-> 1 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 15:02 UTC · @dair_ai
+
+> Another goated release by DeepSeek. Open weight, btw. Outperforms Opus 5 on key benchmarks, btw. Lower prices too. Looks like an extremely efficient model. What a legendary run. 🚀 Introducing DeepSeek-V4.1-Flash: smarter, faster, more efficient. 🔹 Introducing the smallest model in our new architecture family, with native visual understanding. 🔹 Designed for greater capability, faster inference, higher throughput, and scaling to larger models. 1/6
+
+🔗 [View original post](https://x.com/omarsar0/status/2098064464536818141)
+
+---
+
+### 🕐 08:00 UTC · @dair_ai
+
+> Nice paper from Salesforce on co-evolving harnesses and models. Harness engineering is a hot topic right now. So this is a great read. (bookmark it) Salesforce evolved a harness with a weak model across seven enterprise agent tasks, then trained that model on a stronger expert&apos;s full trajectories under the same harness. Performance dropped on all seven tasks, by 4 to 30 points across Qwen3-Coder and Gemma 4. The same fine-tuning helps under the unevolved harness. So the harness is what changes the outcome. Their analysis points at model-harness fit. Imitation transfers knowledge and increases scaffold usage, but the weaker model adopts the expert&apos;s planning strategy without the competence to execute it, and it no longer matches a harness that was evolved around its own native planning style. The fix is to stop copying whole trajectories. A meta-level agent finds the failing turn in the weaker model&apos;s own rollout and asks the expert to rewrite only that turn. That keeps the model&apos;s planning style intact and combines the gains from harness evolution and weight updates. Paper: https://academy.dair.ai/papers/co-evolving-harnesses-and-models-on-policy-correction-helps-weaker-models-catch-2609.09134
+
+![Nice paper from Salesforce on co-evolving harnesses and models. Harness engineering is a hot topic right now. So this is a great read. (bookmark it) Salesforce evolved a harness with a weak model acro](../../../../assets/images/2026/09/10/2097958286146605446-1.png)
+
+🔗 [View original post](https://x.com/omarsar0/status/2097958286146605446)
 
 ---
 

@@ -2,7 +2,27 @@
 
 ## 📅 September 10, 2026
 
-> 3 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 14:03 UTC · @tunguz
+
+> Link to the commission website: https://aiworkforcecommission.org
+
+![Link to the commission website: https://aiworkforcecommission.org](../../../../assets/images/2026/09/10/2098048708688445805-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2098049841687363676)
+
+---
+
+### 🕐 14:03 UTC · @tunguz
+
+> I am honored to announce that I will serve as a Research Director for the Technology Industry on the Commission on AI and the Future of the American Workforce. This is a bipartisan data-driven effort hosted by @AEI and @urbaninstitute. AI is having a major impact on the workforce, but it is my firm belief that we as a society can prepare ourselves for all the challenges. I hope that my own contributions to that effort can help us navigate this transition.
+
+![I am honored to announce that I will serve as a Research Director for the Technology Industry on the Commission on AI and the Future of the American Workforce. This is a bipartisan data-driven effort ](../../../../assets/images/2026/09/10/2098049686884044841-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2098049686884044841)
 
 ---
 

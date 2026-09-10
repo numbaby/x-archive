@@ -2,7 +2,23 @@
 
 ## 📅 September 10, 2026
 
-> 11 post(s) archived.
+> 13 post(s) archived.
+
+---
+
+### 🕐 14:15 UTC · @elonmusk
+
+> Tesla self-driving is awesome I bought a Tesla in July and have basically retired from driving. If you can afford to you should too. It’s the most dangerous thing you do every day and Tesla’s robots are better at it.
+
+🔗 [View original post](https://x.com/elonmusk/status/2098052817391092113)
+
+---
+
+### 🕐 13:52 UTC · @elonmusk
+
+> Looking back, Full Self-Driving has faced the same relentless fear tactics. It feels little different from the AI panic being stoked today—often by nearly the same voices. The lives being saved, however, is enormous. For years we have held this conviction, quietly improving the products. Not for fortune or fame, but so the people we love can arrive home safely.
+
+🔗 [View original post](https://x.com/yunta_tsai/status/2098046851585036788)
 
 ---
 
