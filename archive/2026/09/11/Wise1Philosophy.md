@@ -2,7 +2,74 @@
 
 ## 📅 September 11, 2026
 
-> 41 post(s) archived.
+> 50 post(s) archived.
+
+---
+
+### 🕐 12:43 UTC · @Wise1Philosophy
+
+> it&apos;s over for traditional AI consultancy firms: Every PE operator I talk to has the same scar. They signed an open-ended consulting engagement, the meter started on day one, and six weeks in they were still paying people to &quot;understand the business.&quot; Ours at @LimestoneHQ works the other way. Four steps. First, we sign an NDA. …
+
+🔗 [View original post](https://x.com/alex_prompter/status/2098392074064130152)
+
+---
+
+### 🕐 12:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/11/2098388771431428475-1.jpg)
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2098388771431428475)
+
+---
+
+### 🕐 12:16 UTC · @Wise1Philosophy
+
+> Harvard scientists now know how to grow hair back. By age 35, 2 out of 3 men lose their hair (regardless of genetics). Here are 7 ways to grow yours back (&amp; keep it dark): 1. Your follicles do not die when the hair goes
+
+![Harvard scientists now know how to grow hair back. By age 35, 2 out of 3 men lose their hair (regardless of genetics). Here are 7 ways to grow yours back (&amp; keep it dark): 1. Your follicles do not](../../../../assets/images/2026/08/26/2092663914353823807-1.png)
+
+🔗 [View original post](https://x.com/MagnusLindbrg/status/2098385072810594800)
+
+---
+
+### 🕐 12:10 UTC · @Wise1Philosophy
+
+> Everyone should own a faceless Instagram page that makes $10k/month because… AI can run the entire thing for you. Here’s how to do it in the next 90 days:
+
+🔗 [View original post](https://x.com/erichustls/status/2098383695191163096)
+
+---
+
+### 🕐 12:06 UTC · @Wise1Philosophy
+
+> CANCELLED NETFLIX. CANCELLED AMAZON PRIME. CANCELLED HULU. No more $19.99 each month. ChatGPT transformed my laptop into a free streaming center. Here are 7 prompts to create this system:
+
+🔗 [View original post](https://x.com/heyadam_ai/status/2098382777507062017)
+
+---
+
+### 🕐 12:04 UTC · @Wise1Philosophy
+
+> AI coding tools are great at generating code. But can an AI agent take a vague idea, understand the whole project, make decisions, write the code, run it, test it, and actually turn it into something usable? I put EvoX Agent through a real-world task to find out. Here’s what happened ↓ #EvoxAgent #EvoMap #AlAgent Media
+
+🔗 [View original post](https://x.com/JayBisen473370/status/2098382215491289343)
+
+---
+
+### 🕐 12:04 UTC · @Wise1Philosophy
+
+> A heart doctor once admitted: “There are 3 types of people who never get heart attacks.” 1. You don&apos;t get up at 3 AM to pee Media
+
+🔗 [View original post](https://x.com/CoachLucHerrera/status/2098382064836133309)
+
+---
+
+### 🕐 12:00 UTC · @Wise1Philosophy
+
+> OpenAI and Anthropic are heading for two of the biggest IPOs ever. Together they&apos;re driving $725 BILLION in AI infrastructure spending this year. 50% of US businesses now pay them for AI tools. But their top 1% customers just started walking away... Here&apos;s how bad the impact of that actually is: For every other software category, revenue is spread across a normal curve. You need the top 10% or 20% to reach 80% of revenue. In enterprise AI, 1% is doing all the work. And within that 1%, the customers look almost identical. They are mostly AI startups, high-growth tech firms, and coding shops. The biggest AI customers are companies built to sell more AI. Cursor pays Anthropic to power its coding assistant. Half the AI economy runs on invoices between AI companies. When one cohort tightens, the rest tighten with them. The top spenders have already started tightening. The top 1% cut per-employee AI spend from $8,000 to $7,200. Some of that is summer seasonality. Most of it is not. Token usage actually kept rising in the same period. Businesses are using more AI while paying less for it. The gap is where the real story sits. OpenAI and Anthropic have spent the last six months cutting prices. The effective price per million tokens dropped from $1.15 to $0.68. That&apos;s a 41% collapse in six months. And enterprises are quietly walking away from the frontier models. Frontier token share fell from 53% in August to 45% last week. Companies now default employees to Sonnet and GPT-5.6 Terra instead. They save money and get 90% of the quality. Meanwhile, Big Tech is spending like enterprise AI demand keeps compounding. Big Tech will spend $725 billion on AI capex this year. That&apos;s up 77% from last year, headed toward a trillion by 2027. All of that spending assumes AI revenue keeps growing exponentially. But most of that revenue flows through OpenAI and Anthropic. And their most valuable customers just switched to the cheapest tier. Nvidia&apos;s data center revenue hit $75 billion in a single quarter. Almost all of it came from those same four hyperscalers. The entire AI trade rests on that 1% at the top. The stock market is pricing AI infrastructure at record valuations. The underlying enterprise customer is choosing the discount rack. Watch the frontier token share and the top 1% spend numbers. Those two lines break the AI trade if they keep falling. Media
+
+🔗 [View original post](https://x.com/LogWeaver/status/2098381204974420270)
 
 ---
 
@@ -12,6 +79,14 @@
 ![](../../../../assets/images/2026/09/11/2098373631768248697-1.jpg)
 
 🔗 [View original post](https://x.com/Daily__wisdom_/status/2098373631768248697)
+
+---
+
+### 🕐 11:25 UTC · @Wise1Philosophy
+
+> Every second founder I meet is raising money to start something new. After 10 years of running @LimestoneHQ, I want to buy something old. Limestone is going through the roof right now: demand, inbound, referrals, the size of the problems clients bring us. Old businesses come with the things new ones burn years chasing: customers, contracts, cash flow. And right now they come cheap. Option A: the roll-up. An engineering firm like ours, folded in and made AI-native. Small-size IT services firms dropped EBITDA multiple-wise, and that discount only works for a buyer who can change what the firm produces and how it serves/aquires customer. We can. Option B: the factory (physical factory). A 20-30 year-old manufacturing business, automated from quoting to maintenance. There are many thousands boomer-owned businesses in Europe and US, the owners are all past 65 by 2030, and manufacturing deals grew 16% year over year. A factory like that runs on manual, repetitive processes. Wiring AI and automation into those is what our engineers do for clients every day. Both options follow one rule: each side has to make the other stronger. Many of you run PE funds, lead engineering orgs, or have bought and sold companies like these. I trust that judgment. Vote, and if you&apos;ve lived through either deal, tell me in the comments what I&apos;m underestimating. To sum up A: roll-up Limestone-like businesses and run them properly. B: acquire a physical factory asset that our customers often own and show you guys an unhinged transformation and show story around it.
+
+🔗 [View original post](https://x.com/mardehaym/status/2098372271748296795)
 
 ---
 
