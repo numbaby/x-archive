@@ -2,7 +2,33 @@
 
 ## 📅 September 11, 2026
 
-> 27 post(s) archived.
+> 30 post(s) archived.
+
+---
+
+### 🕐 10:08 UTC · @Wise1Philosophy
+
+> Your blood sugar is aging you faster than smoking and junk food. It ruins sleep, fat loss, reduces nitric oxide, and drives fatty liver. Here&apos;s the simple fix: 1. Don&apos;t walk 10,000 steps
+
+🔗 [View original post](https://x.com/HeyKimChong/status/2098352853681381559)
+
+---
+
+### 🕐 10:00 UTC · @Wise1Philosophy
+
+> 10 GitHub Repos Blowing Up Right Now (and What They Actually Do) 1) superpowers 284k+ stars. Agentic skills framework for coding agents. https://github.com/obra/superpowers 2) OmniRoute 59.9k+ stars. Free AI gateway: 352 providers, 1200+ models, one endpoint. https://github.com/diegosouzapw/OmniRoute 3) diagram-design 36.7k+ stars. 38 editorial diagram types for AI coding agents. https://github.com/cathrynlavery/diagram-design 4) i-have-adhd 34.8k+ stars. Short, scannable output from your coding agent. https://github.com/ayghri/i-have-adhd 5) llmfit 34.8k+ stars. Finds which models run best on your hardware. https://github.com/AlexsJones/llmfit 6) OpenMAIC 34.5k+ stars. Multi-agent interactive classroom, one click. https://github.com/THU-MAIC/OpenMAIC 7) skills (Vercel Labs) 30.1k+ stars. Install agent skills with one command. https://github.com/vercel-labs/skills 8) gods-eye-view 24.2k+ stars. Real-data spy satellite simulator in your browser. https://github.com/bilawalsidhu/gods-eye-view 9) awesome-gpt-image-2 17.6k+ stars. Prompt engineering library for GPT-Image-2. https://github.com/freestylefly/awesome-gpt-image-2 10) llm_wiki 17.2k+ stars. Turns your docs into a self-updating knowledge wiki. https://github.com/nashsu/llm_wiki
+
+![10 GitHub Repos Blowing Up Right Now (and What They Actually Do) 1) superpowers 284k+ stars. Agentic skills framework for coding agents. https://github.com/obra/superpowers 2) OmniRoute 59.9k+ stars. ](../../../../assets/images/2026/09/11/2098351074755457321-1.png)
+
+🔗 [View original post](https://x.com/charliejhills/status/2098351074755457321)
+
+---
+
+### 🕐 09:34 UTC · @Wise1Philosophy
+
+> Two women order a vanilla latte at the same Starbucks every morning. One orders a &quot;Grande Vanilla Latte&quot; from the menu board. $6.75. The other orders a &quot;Grande Americano, extra steamed milk, 2 pumps vanilla.&quot; $4.25. They taste nearly identical. Both have espresso. Both have steamed milk. Both have vanilla syrup. The Americano starts with hot water added to espresso then extra steamed milk fills the cup, creating the same creamy, espresso-forward drink a latte delivers. Same counter. Same barista. Same cup. $2.50 difference. Every day. 5 days a week. 52 weeks. $650/year. One orders a name. The other orders ingredients. The name costs $6.75. The ingredients cost $4.25. A barista of 4 years who makes both drinks side by side, from the same machine, in the same minute told them: &quot;These two drinks use the same espresso machine, the same milk pitcher, and the same syrup bottle. The register charges them differently because one is categorized as a &apos;latte&apos; and the other as a &apos;modified Americano.&apos; The drink in the cup is 90% the same. The number on the receipt is 37% different.&quot; She showed them 10 more things sizing tricks, ice hacks, free swaps, hidden sizes, and ordering strategies that change Starbucks from the most expensive coffee chain in America into a customizable system most customers have never explored. &quot;Starbucks is a customization platform that sells preset drinks. The presets cost $6-$8. The customizations cost $3-$5 for the same ingredients, from the same machines, in the same cup. You&apos;ve been ordering the presets because the board only shows presets. The customizations are behind the counter on a screen you&apos;ve never seen.&quot; Here are the 11 things she showed them 🧵
+
+🔗 [View original post](https://x.com/jackcoder0/status/2098344341467259311)
 
 ---
 
