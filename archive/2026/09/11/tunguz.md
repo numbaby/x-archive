@@ -2,7 +2,17 @@
 
 ## 📅 September 11, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 02:58 UTC · @tunguz
+
+> “They don’t know that Muse Spark 1.3 is as good as Fable.”
+
+![“They don’t know that Muse Spark 1.3 is as good as Fable.”](../../../../assets/images/2026/09/11/2098244839477231940-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2098244839477231940)
 
 ---
 
