@@ -2,7 +2,166 @@
 
 ## 📅 September 11, 2026
 
-> 50 post(s) archived.
+> 69 post(s) archived.
+
+---
+
+### 🕐 14:46 UTC · @Wise1Philosophy
+
+> FACIAL FAT = HIGH CORTISOL The good news is that it is reversible. Here are 9 tips that work. 1. Don&apos;t eat breakfast Media
+
+🔗 [View original post](https://x.com/DPro_Coach/status/2098423048718451000)
+
+---
+
+### 🕐 14:43 UTC · @Wise1Philosophy
+
+> Leaky gut causes brain dysfunction, bad immune, and raises your cancer risk by 6x. 1 in 3 Americans walk around with it &amp; have no clue. Here’s what kills your gut (and how to heal it): 1. The elimination protocol
+
+🔗 [View original post](https://x.com/LongevityCode_/status/2098422237426753719)
+
+---
+
+### 🕐 14:38 UTC · @Wise1Philosophy
+
+> Everyone fears a heart attack. If you want to avoid fatty liver, high blood pressure, and insulin resistance (especially if you’re over 35): 1. Don&apos;t count 10,000 steps. Media
+
+🔗 [View original post](https://x.com/TheFastedState/status/2098420936429260950)
+
+---
+
+### 🕐 14:33 UTC · @Wise1Philosophy
+
+> A cardiologist shocked me when he said: &quot;You age because your body stops making Nitric Oxide. Without it, blood pressure rises, erections fail, and Alzheimer&apos;s happens.&quot; Here&apos;s the 5-step protocol to boost it naturally: 1. Stop using mouthwash
+
+![A cardiologist shocked me when he said: &quot;You age because your body stops making Nitric Oxide. Without it, blood pressure rises, erections fail, and Alzheimer&apos;s happens.&quot; Here&apos;s the](../../../../assets/images/2026/09/11/2098419554502537458-1.jpg)
+
+🔗 [View original post](https://x.com/TinaaDeJong/status/2098419554502537458)
+
+---
+
+### 🕐 14:30 UTC · @Wise1Philosophy
+
+> Heart Attack = Blood sugar Heart Attack = Insulin resistance Heart Attack = The world&apos;s top killer 5 simple rules to protect your heart: 1. Stop breathing through your mouth Media
+
+🔗 [View original post](https://x.com/Sophiaz6xo/status/2098418827788955751)
+
+---
+
+### 🕐 14:28 UTC · @Wise1Philosophy
+
+> The fastest way to turn money into more money is a bottleneck analysis. Find the one statistic that&apos;s contracted, put all your attention on that single thing, fix it, then run it again. Most people spread their effort across everything at once and wonder why nothing moves. So I put together a free Funnel Bottleneck Guide that will help you find the one step in your funnel that is capping everything above it. Like this post + comment &quot;BOTTLENECK&quot; and I&apos;ll send it over. Media
+
+🔗 [View original post](https://x.com/TheJeremyHaynes/status/2098418337738797066)
+
+---
+
+### 🕐 14:01 UTC · @Wise1Philosophy
+
+> A network of traders made $100 MILLION by reading tomorrow&apos;s news. For five years, their timing looked like pure genius. Then the FBI found their INSANE loophole behind it all... Here is how the scheme worked: The scheme crossed borders and hid in plain sight. Two hackers in Ukraine broke into the newswires. They used phishing and code injection to slip inside. Business Wire, Marketwired, and PR Newswire all fell. Warren Buffett&apos;s company even owns one of them. Those services hold corporate earnings before they go public. The traders handed the hackers a shopping list. The hackers grabbed the reports and passed them on. A secret server fed the news to traders worldwide. Dozens of traders paid the hackers a cut. They traded in the quiet window before each release. Some traded after the close, minutes before the news. They knew every number before the market did. The crew stole 150,000 releases over five years. They acted on only 800 of them. Those 800 were enough to clear $100 million. The FBI called it the largest scheme of its kind. One name stood out from the rest. Vitaly Korchevsky was a former Morgan Stanley banker. He was also the pastor of a Baptist church. He once led a national association of Slavic churches. He cleared more than $14 million on stolen news. He told his church his heart was &quot;clean before the Lord.&quot; A jury disagreed and sent him to prison. Then one hacker aimed even higher than the newswires. He broke into the SEC&apos;s own filing system. He stole company reports straight from the regulator. Then he vanished, and remains at large. The same news that moved markets was stolen first. The same reports the world waited for, they read early. The same edge you lack, they simply took. The scheme rose on stolen news, then it fell. A hundred million dollars, from reading tomorrow&apos;s news. The pastor went to prison, and the masterminds vanished. Media
+
+🔗 [View original post](https://x.com/InsiderTrackers/status/2098411562306552179)
+
+---
+
+### 🕐 14:00 UTC · @Wise1Philosophy
+
+> Walking = lose weight Walking = lower blood sugar Walking = a lower risk of early death 8 simple rules you have to follow: 1. Walk after meals, not before bed
+
+🔗 [View original post](https://x.com/RasmusNorbergg/status/2098411349361738204)
+
+---
+
+### 🕐 13:59 UTC · @Wise1Philosophy
+
+> Stop telling Claude, &quot;do this.&quot; Stop telling Claude, &quot;write code.&quot; Stop telling Claude, &quot;fix this error.&quot; You&apos;re actually treating a senior AI like a junior intern. Here are 8 prompts you can copy and paste directly:
+
+🔗 [View original post](https://x.com/iam_chonchol/status/2098411104661852588)
+
+---
+
+### 🕐 13:54 UTC · @Wise1Philosophy
+
+> 🚨 BREAKING NEWS: AI is building Instagram Pages from scratch and can hit monetisation in just 90 days. Message &quot;READY&quot; and I&apos;ll show you how Media
+
+🔗 [View original post](https://x.com/amelieannepl/status/2098409947465765263)
+
+---
+
+### 🕐 13:37 UTC · @Wise1Philosophy
+
+> https://x.com/i/article/2098357814070505472
+
+🔗 [View original post](https://x.com/RileyColemanT/status/2098405634425180435)
+
+---
+
+### 🕐 13:32 UTC · @Wise1Philosophy
+
+> Fun fact: When a buyer asks ChatGPT about your brand BY NAME, your website gets cited 77.6% of the time. When a buyer asks &quot;who is the best in this category,&quot; your site gets cited 2.2% of the time. Here is how to close that 14x gap. Oh, and if you want to see where your site stands across Google, ChatGPT, Claude and broader AI search, start here (it&apos;s free): https://rightcited.com/ According to Foundation Marketing and AirOps&apos;s April 2026 study of 57.2 million AI citations across 50 brands in 7 B2B verticals, branded queries generate 14x more citations for brand-owned websites than unbranded discovery queries. The brands that do appear in unbranded AI recommendations share a fairly consistent profile: deep expert content on their own site that establishes category authority, combined with editorial coverage from trusted industry publications that puts their brand name in front of the AI&apos;s retrieval system across multiple authoritative sources. Basically, when a buyer asks AI about your brand by name, the AI searches specifically for your website and your content, so of course it finds you. But then when a buyer asks &quot;best CRM for mid-market companies&quot; or &quot;top cybersecurity platforms for healthcare,&quot; the AI is looking for the most authoritative, comprehensive answer it can assemble from every source in the category. Every industry has a different set of sources that AI draws from for these unbranded queries. The brands that close the 14x gap are the ones that show up across both their own site and the editorial sources AI trusts in their vertical. That takes two things working together - both of which SEO Stuff (http://seo-stuff.com) has been helping customers with all year. Expert content on your own website that demonstrates deep category authority: this is what gives AI platforms a reason to include your brand when it finds you. And editorial backlinks + mentions (authority) from trusted publications in your vertical: this is what puts your brand name across multiple authoritative sources so the AI encounters your brand repeatedly when searching for the best answer to a category query. Again, if you want to see how your brand performs on branded versus unbranded AI queries and where the 14x gap is in your category, start here (it&apos;s free): https://seo-stuff.com/free-audit The expert content is doing two things simultaneously. First, it creates a comprehensive resource that AI can cite directly when it finds the brand during category searches: the more sub-questions your content answers, the more entry points AI has to discover and recommend your brand. Second, it creates something that editorial publications want to cover and link to: original data, expert frameworks, and comprehensive buyer guides are what industry publications write about. Every editorial placement where a trusted publication mentions your brand and links to your site creates another source the AI can encounter during unbranded category queries. A brand that has been covered by 10 or 15 editorial publications in its vertical gives the AI multiple authoritative references to draw from. Reddit alone accounts for 20.8% of all external AI citations, but editorial publications, review sites, and industry sources collectively represent a massive portion of the citation landscape that brands can actively build presence on through expert content and earned editorial coverage. This is the system SEO Stuff (http://seo-stuff.com) was built around. The done-for-you package: https://seo-stuff.com/gold-plan-package Expert-attributed content backed by DR50+ backlinks: the content builds category authority on your site that AI cites directly, and the backlinks put your brand across the editorial sources AI draws from during unbranded discovery, closing the 14x gap The content package: https://seo-stuff.com/premium-content-bundle-service 60 pages of expert-attributed content covering every question buyers ask in your category: the content depth that gives AI a reason to cite your brand and gives editorial publications something worth covering The authority building package: https://seo-stuff.com/premium-backlink-bundle-service Editorial placements on trusted publications that put your brand name across the authoritative sources AI searches during unbranded category queries, turning your brand into a recommendation for buyers who have never heard of you And if you want to see where your site stands across Google, ChatGPT, Claude and broader AI search, start here (it&apos;s free): https://rightcited.com/ Not trying to insult anyone here but... B2B SaaS operators on X are struggling to keep up with how marketing is changing in 2026. They&apos;re losing on rising Meta ad costs, blowing cash on influencers with no reach, and hoping a Product Hunt launch gets them 1,000 paying customers. …
+
+![Fun fact: When a buyer asks ChatGPT about your brand BY NAME, your website gets cited 77.6% of the time. When a buyer asks &quot;who is the best in this category,&quot; your site gets cited 2.2% of th](../../../../assets/images/2026/09/11/2098404420929352047-1.png)
+
+🔗 [View original post](https://x.com/alexgroberman/status/2098404420929352047)
+
+---
+
+### 🕐 13:30 UTC · @Wise1Philosophy
+
+> GPT Image 2.5 is unlimitd for 7 Days on Buzzy ⚡️ Sharper details. Better text. Stronger prompts. Try OpenAI&apos;s Strongest Image Model on Buzzy Media
+
+🔗 [View original post](https://x.com/Buzzy_now_AI/status/2098403689597952010)
+
+---
+
+### 🕐 13:26 UTC · @Wise1Philosophy
+
+> Neurologists have a name for the shortfall that mimics early dementia, strips the insulation off your nerves, and hides behind a normal lab result for years. The 3 signs they check before calling it ageing: 1. A smooth, sore tongue
+
+![Neurologists have a name for the shortfall that mimics early dementia, strips the insulation off your nerves, and hides behind a normal lab result for years. The 3 signs they check before calling it a](../../../../assets/images/2026/09/11/2098402687851327938-1.png)
+
+🔗 [View original post](https://x.com/Marc0sRomano/status/2098402687851327938)
+
+---
+
+### 🕐 13:20 UTC · @Wise1Philosophy
+
+> ChatGPT remembers more about you than you think. Your goals. Your habits. The way you work. Here are 7 prompts to see what it knows about you:
+
+🔗 [View original post](https://x.com/AriaWestcott/status/2098401419036328173)
+
+---
+
+### 🕐 13:12 UTC · @Wise1Philosophy
+
+> Someone will build this soon, watch ⬇️ Someone should build a done-for-you ChatGPT Sites studio. Not another template marketplace. Not another no-code course. A small studio that takes a client call, turns it into a brief for GPT-6 Astra, and hands back a live site on their own domain. Why now: Sites hosts what Astra …
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2098399262899908982)
+
+---
+
+### 🕐 13:03 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/11/2098397049695633591-1.jpg)
+
+🔗 [View original post](https://x.com/Life__Mastery/status/2098397049695633591)
+
+---
+
+### 🕐 13:01 UTC · @Wise1Philosophy
+
+> I started taking whey at breakfast, vitamin D with the same meal, and magnesium before bed. Without exaggerating, my personality changed 180 degrees. 1. Whey protein, at breakfast
+
+🔗 [View original post](https://x.com/MarkoSilva291/status/2098396401973813643)
+
+---
+
+### 🕐 13:00 UTC · @Wise1Philosophy
+
+> I love people who are highly aware of their worth but highly humble too and don&apos;t look down on anyone.
+
+🔗 [View original post](https://x.com/_Pammy_DS_/status/2098396150369845651)
 
 ---
 

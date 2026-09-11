@@ -2,7 +2,42 @@
 
 ## 📅 September 11, 2026
 
-> 15 post(s) archived.
+> 20 post(s) archived.
+
+---
+
+### 🕐 14:03 UTC · @_Regret_x
+
+> Honestly, same.
+
+🔗 [View original post](https://x.com/_Regret_x/status/2098412115199660258)
+
+---
+
+### 🕐 13:46 UTC · @_Regret_x
+
+
+![](../../../../assets/images/2026/09/11/2098407770416714208-1.jpg)
+
+🔗 [View original post](https://x.com/Unsaidfeeling_1/status/2098407770416714208)
+
+---
+
+### 🕐 13:07 UTC · @_Regret_x
+
+
+![](../../../../assets/images/2026/09/11/2098397988670374398-1.jpg)
+
+🔗 [View original post](https://x.com/MasculineC20812/status/2098397988670374398)
+
+---
+
+### 🕐 12:18 UTC · @_Regret_x
+
+
+![](../../../../assets/images/2026/09/11/2098385613414334765-1.jpg)
+
+🔗 [View original post](https://x.com/_Regret_x/status/2098385613414334765)
 
 ---
 
@@ -74,6 +109,15 @@
 > Trading yourself for nothing. - Fyodor Dostoevsky, &quot;Crime and Punishment&quot;
 
 🔗 [View original post](https://x.com/_Regret_x/status/2098319432271728784)
+
+---
+
+### 🕐 07:00 UTC · @_Regret_x
+
+
+![](../../../../assets/images/2026/09/11/2098305642658406780-1.jpg)
+
+🔗 [View original post](https://x.com/Nobody_xaot/status/2098305642658406780)
 
 ---
 
