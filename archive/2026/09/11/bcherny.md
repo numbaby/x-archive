@@ -2,7 +2,17 @@
 
 ## 📅 September 11, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 05:25 UTC · @bcherny
+
+> The latest Threat Intelligence report is an absolutely terrifying and important read. As models become more intelligent, without the right safeguards and monitoring they also become more dangerous. Many capabilities are dual use: a model that codes well can be used to hack critical infrastructure; a model that assists with biology research can also be used to engineer the next pandemic. These issues are complex, thorny, and increasingly important for everyone to understand so that the world can weigh in and respond to rapidly escalating risks. https://www.anthropic.com/threat-intelligence-report-september-2026
+
+![The latest Threat Intelligence report is an absolutely terrifying and important read. As models become more intelligent, without the right safeguards and monitoring they also become more dangerous. Ma](../../../../assets/images/2026/09/11/2098276367884484684-1.jpg)
+
+🔗 [View original post](https://x.com/bcherny/status/2098281805770309686)
 
 ---
 
