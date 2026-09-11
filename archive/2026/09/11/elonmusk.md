@@ -2,7 +2,15 @@
 
 ## 📅 September 11, 2026
 
-> 9 post(s) archived.
+> 11 post(s) archived.
+
+---
+
+### 🕐 08:44 UTC · @elonmusk
+
+> SpaceX CFO speaks at GS Tech Comf WATCH: @SpaceX CFO Bret Johnsen speaks at the Goldman Sachs Communacopia + Technology Conference: https://x.com/i/broadcasts/1qxoNYEgaeEJv
+
+🔗 [View original post](https://x.com/elonmusk/status/2098331769892130941)
 
 ---
 
@@ -61,6 +69,14 @@
 ![ハンドルもペダルもない、無人タクシー用としてゼロから設計されたCybercabを日本初公開。 https://www.tesla.com/ja_jp/event/2026sep_cc_tour](../../../../assets/images/2026/09/11/2098267916840096058-1.jpg)
 
 🔗 [View original post](https://x.com/teslajapan/status/2098267916840096058)
+
+---
+
+### 🕐 03:02 UTC · @elonmusk
+
+> Most efficient production EV ever That efficiency is what will make Cybercab one of the lowest cost-per-mile modes of transport The @Tesla Cybercab has a wider front track than the rear. The teardrop shape is how Tesla achieved a drag coefficient under 0.2. It&apos;s the most efficient production EV ever certified, at 165 Wh/mi, and the first Tesla that&apos;s front-wheel drive. Seeing it in person is incredible.
+
+🔗 [View original post](https://x.com/robotaxi/status/2098245744952332779)
 
 ---
 
