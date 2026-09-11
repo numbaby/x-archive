@@ -2,7 +2,25 @@
 
 ## 📅 September 11, 2026
 
-> 14 post(s) archived.
+> 16 post(s) archived.
+
+---
+
+### 🕐 11:07 UTC · @Unlockyourlife_
+
+> Stop telling everyone your plans. - Work quietly. - Build quietly. - Save quietly. - Improve quietly. Then let the results introduce you. Not everyone who listens to your plans is rooting for them.
+
+🔗 [View original post](https://x.com/Masculinjournal/status/2098367739622514963)
+
+---
+
+### 🕐 10:58 UTC · @Unlockyourlife_
+
+> 💧 Hydration matters more than you think.
+
+![💧 Hydration matters more than you think.](../../../../assets/images/2026/09/11/2098365489273540930-1.jpg)
+
+🔗 [View original post](https://x.com/_fitnesshub/status/2098365489273540930)
 
 ---
 

@@ -2,7 +2,94 @@
 
 ## 📅 September 11, 2026
 
-> 30 post(s) archived.
+> 41 post(s) archived.
+
+---
+
+### 🕐 11:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/11/2098373631768248697-1.jpg)
+
+🔗 [View original post](https://x.com/Daily__wisdom_/status/2098373631768248697)
+
+---
+
+### 🕐 11:18 UTC · @Wise1Philosophy
+
+> El coche se transforma en un mecha a mitad de carrera. Hecho con GPT-6 Astra y con partidas online de hasta 8 jugadores. Lo encontré en Combos Fun. Media
+
+🔗 [View original post](https://x.com/MiguelMaestroIA/status/2098370600590807374)
+
+---
+
+### 🕐 11:17 UTC · @Wise1Philosophy
+
+> When I read MrBeast was buying a bank back in Feb, I couldn&apos;t believe my eyes. But after reading this, it makes much more sense. Imagine choosing your child’s first banking app. Then you see one owned by MrBeast. That’s the bet behind Beast Industries’ acquisition of Step, a financial app with 7 million users. Here’s why it could work:
+
+🔗 [View original post](https://x.com/IAmPascio/status/2098370341764571469)
+
+---
+
+### 🕐 11:17 UTC · @Wise1Philosophy
+
+> Fatty liver now affects 1 in 3 adults. It destroys your metabolism, tracks with diabetes, and increases your risk of heart disease. 1. Eat all the sweet potatoes you want.
+
+![Fatty liver now affects 1 in 3 adults. It destroys your metabolism, tracks with diabetes, and increases your risk of heart disease. 1. Eat all the sweet potatoes you want.](../../../../assets/images/2026/08/29/2093628980859682903-1.jpg)
+
+🔗 [View original post](https://x.com/mind_and_beauty/status/2098370227725836616)
+
+---
+
+### 🕐 11:16 UTC · @Wise1Philosophy
+
+> Imagine choosing your child’s first banking app. Then you see one owned by MrBeast. That’s the bet behind Beast Industries’ acquisition of Step, a financial app with 7 million users. Here’s why it could work:
+
+![Imagine choosing your child’s first banking app. Then you see one owned by MrBeast. That’s the bet behind Beast Industries’ acquisition of Step, a financial app with 7 million users. Here’s why it cou](../../../../assets/images/2026/09/11/2098370083336728970-1.jpg)
+
+🔗 [View original post](https://x.com/Scottvdberg/status/2098370083336728970)
+
+---
+
+### 🕐 11:04 UTC · @Wise1Philosophy
+
+> ONE WEBSITE JUST TURNED THE ENTIRE PLANET INTO A MOVIE SET YOU CAN EXPLORE. Movie Scene Map shows you the movie scenes filmed on them. It’s a free website with 15,716 real filming locations across 166 countries on one map. Click any pin and see what was shot there, or search any movie and see every place it was filmed. Game of Thrones castles in Croatia, Breaking Bad streets in Albuquerque, Lord of the Rings hills in New Zealand. The fun part is how quickly you stop searching movies and start searching your own city, then your hometown, then that place you went on vacation. Built by one anonymous developer. Open it, search your city, and see what got filmed near you. https://x.com/heynavtoor/status/2096067130223730748/video/1 Media
+
+🔗 [View original post](https://x.com/FutureStacked/status/2098367010283340004)
+
+---
+
+### 🕐 11:02 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/11/2098366551946596858-1.jpg)
+
+🔗 [View original post](https://x.com/apex_mentality_/status/2098366551946596858)
+
+---
+
+### 🕐 11:00 UTC · @Wise1Philosophy
+
+> Elon Musk told Jamie Dimon why Earth cannot keep up with AI. He didn&apos;t talk vision. He talked physics. Musk: &quot;I think we can do probably somewhere around 1 terawatt per year of AI space compute from Earth, but we can do 1,000 terawatts or more from the Moon.&quot; One terawatt. That is the hard thermodynamic ceiling of this planet. Every reactor. Every solar array. Every grid upgrade humanity can engineer. The whole thing tops out at one terawatt of AI compute. Earth is not a launchpad anymore. It is a lid. So the Moon becomes the answer. Not for symbolism. For physics. Musk: &quot;Because the Moon has no atmosphere and about one-sixth Earth&apos;s gravity, you can use an electromagnetic accelerator… You don&apos;t need to use rockets to do AI data centers into deep space from the Moon. You can literally just shoot them like a railgun type of thing.&quot; This is not a research base. This is a frictionless industrial platform on a celestial body. Mine the surface. Build solar arrays and thermal radiators locally. Mount an electromagnetic launcher. Fire AI superclusters straight into deep space. No rockets. No atmosphere. No fuel burn on exit. A thousand terawatts. A 1,000x multiplier on the physical ceiling of compute. And the Moon is only step one. Musk: &quot;We can build a self-growing city on the Moon faster than we could do so on Mars.&quot; The Moon is the production floor. Mars is the long game. Musk: &quot;If you warm up Mars, you could one day make Mars like Earth, meaning with liquid oceans and life and where you could walk outside without a spacesuit type of thing.&quot; Musk: &quot;I call Mars a fixer-upper of a planet, but it&apos;s got a lot of potential.&quot; A fixer-upper. That is how the richest person alive describes an entire planet. The rest of the industry is stuck negotiating permits for a single server farm. Musk is engineering a magnetic launch system on the Moon to fling compute into orbit. For ten thousand years, humans looked at the night sky and invented gods. Musk looks up and sees bandwidth. We assumed the whole point of spaceflight was discovery. It was always infrastructure. Earth was never the destination. It was the starting point. Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media Elon Musk, the richest man alive and co-founder of OpenAI, on AI: &quot;It has the potential of civilization destruction.&quot; Asked whether AI could reach a point where humans simply can&apos;t turn it off, he didn&apos;t pause. &quot;Yeah. Absolutely. That&apos;s definitely the way things are headed, for s…
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2098366073741676658)
+
+---
+
+### 🕐 10:39 UTC · @Wise1Philosophy
+
+> Every PE operator I talk to has the same scar. They signed an open-ended consulting engagement, the meter started on day one, and six weeks in they were still paying people to &quot;understand the business.&quot; Ours at @LimestoneHQ works the other way. Four steps. First, we sign an NDA. No SOW yet, no invoice. Second, we spend our own time learning how you actually work. How the deal team sources. How the controllers close the books. Where smart people burn their days on version control and validation instead of the job they were hired for. Third, we write the SOW. Now you see what we&apos;d build, what it costs, and what changes. Fourth, billing starts when we reach work that moves the business. Discovery and slides cost you nothing. From there it&apos;s an AI Velocity Pod at $17K a month, month-to-month. If we don&apos;t deliver, you don&apos;t pay. We&apos;re operational in 3 to 5 weeks. Your people go back to sourcing and finance while we carry the technical risk. We turn away about 30% of the companies that come to us, because the model only works when the fit is there. When it is, it&apos;s the cleanest way I know to put AI inside a business without betting the quarter on a consultant&apos;s learning curve.
+
+🔗 [View original post](https://x.com/mardehaym/status/2098360843767259278)
+
+---
+
+### 🕐 10:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/11/2098358547641688490-1.jpg)
+
+🔗 [View original post](https://x.com/yeti_mind/status/2098358547641688490)
 
 ---
 
@@ -29,6 +116,15 @@
 > Two women order a vanilla latte at the same Starbucks every morning. One orders a &quot;Grande Vanilla Latte&quot; from the menu board. $6.75. The other orders a &quot;Grande Americano, extra steamed milk, 2 pumps vanilla.&quot; $4.25. They taste nearly identical. Both have espresso. Both have steamed milk. Both have vanilla syrup. The Americano starts with hot water added to espresso then extra steamed milk fills the cup, creating the same creamy, espresso-forward drink a latte delivers. Same counter. Same barista. Same cup. $2.50 difference. Every day. 5 days a week. 52 weeks. $650/year. One orders a name. The other orders ingredients. The name costs $6.75. The ingredients cost $4.25. A barista of 4 years who makes both drinks side by side, from the same machine, in the same minute told them: &quot;These two drinks use the same espresso machine, the same milk pitcher, and the same syrup bottle. The register charges them differently because one is categorized as a &apos;latte&apos; and the other as a &apos;modified Americano.&apos; The drink in the cup is 90% the same. The number on the receipt is 37% different.&quot; She showed them 10 more things sizing tricks, ice hacks, free swaps, hidden sizes, and ordering strategies that change Starbucks from the most expensive coffee chain in America into a customizable system most customers have never explored. &quot;Starbucks is a customization platform that sells preset drinks. The presets cost $6-$8. The customizations cost $3-$5 for the same ingredients, from the same machines, in the same cup. You&apos;ve been ordering the presets because the board only shows presets. The customizations are behind the counter on a screen you&apos;ve never seen.&quot; Here are the 11 things she showed them 🧵
 
 🔗 [View original post](https://x.com/jackcoder0/status/2098344341467259311)
+
+---
+
+### 🕐 09:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/11/2098343393638203853-1.jpg)
+
+🔗 [View original post](https://x.com/Ant_Philosophy/status/2098343393638203853)
 
 ---
 
