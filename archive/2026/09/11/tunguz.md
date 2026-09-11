@@ -2,7 +2,23 @@
 
 ## 📅 September 11, 2026
 
-> 3 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 15:54 UTC · @tunguz
+
+> A whistleblower but you are just a disgruntled low level employee with no special insider information.
+
+🔗 [View original post](https://x.com/tunguz/status/2098440089751953696)
+
+---
+
+### 🕐 14:57 UTC · @tunguz
+
+> My theory is that the first thing that rogue AI would try to do is figure out how to build rogue nuclear plants. A very happy ending would be if Trump regulatory reforms + data center demand launch a revolutionary era of next generation nuclear power but the stock market doesn’t seem to be buying it.
+
+🔗 [View original post](https://x.com/tunguz/status/2098425811389071469)
 
 ---
 
