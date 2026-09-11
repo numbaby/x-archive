@@ -2,7 +2,25 @@
 
 ## 📅 September 11, 2026
 
-> 2 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 06:50 UTC · @Unlockyourlife_
+
+> Diabetes can damage your body quietly for years. You may feel completely fine while high blood sugar is gradually affecting your blood vessels, nerves, eyes and kidneys. Here are 7 things about diabetes you should know.
+
+![Diabetes can damage your body quietly for years. You may feel completely fine while high blood sugar is gradually affecting your blood vessels, nerves, eyes and kidneys. Here are 7 things about diabet](../../../../assets/images/2026/09/11/2098303051006185490-1.jpg)
+
+🔗 [View original post](https://x.com/BioLifex/status/2098303051006185490)
+
+---
+
+### 🕐 06:34 UTC · @Unlockyourlife_
+
+> Your 20s are not supposed to look perfect. • You&apos;re going to make mistakes. • Lose money. • Choose the wrong people. • Change careers. • Get rejected. • Start again. • Learn. The goal isn&apos;t to have everything figured out early. The goal is to become wiser with every year.
+
+🔗 [View original post](https://x.com/Masculinjournal/status/2098299180359860707)
 
 ---
 

@@ -2,7 +2,24 @@
 
 ## 📅 September 11, 2026
 
-> 4 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 06:27 UTC · @_Regret_x
+
+> Nothing comes with us, nothing stays.
+
+🔗 [View original post](https://x.com/_Regret_x/status/2098297437911978371)
+
+---
+
+### 🕐 05:45 UTC · @_Regret_x
+
+
+![](../../../../assets/images/2026/09/07/2096841742779887843-1.jpg)
+
+🔗 [View original post](https://x.com/_Regret_x/status/2098286666201051323)
 
 ---
 
