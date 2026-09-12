@@ -2,7 +2,25 @@
 
 ## 📅 September 12, 2026
 
-> 6 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 16:48 UTC · @elonmusk
+
+> Next week, @mattyp @roshan_s and myself will be speedrunning building a new company using only Grok @Bot on the Grok Bot Galaxy livestream! We’ve been given just 3 days to do it, or else we might be turned into pizza 🤪 it will be so fun and I hope to see you on the livestream! I will have to miss the Cursor Compile conf in London and Amsterdam though. I will instead record an extended version of my talk and make it freely available here. So stay tuned for that post! https://x.ai/galaxy
+
+![Next week, @mattyp @roshan_s and myself will be speedrunning building a new company using only Grok @Bot on the Grok Bot Galaxy livestream! We’ve been given just 3 days to do it, or else we might be t](../../../../assets/images/2026/09/12/2098815981787414978-1.jpg)
+
+🔗 [View original post](https://x.com/poteto/status/2098815981787414978)
+
+---
+
+### 🕐 16:24 UTC · @elonmusk
+
+> Grok available in Microsoft Copilot More model choice coming to Copilot. Welcome Grok!
+
+🔗 [View original post](https://x.com/elonmusk/status/2098809953439904220)
 
 ---
 

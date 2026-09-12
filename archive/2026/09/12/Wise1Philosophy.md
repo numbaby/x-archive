@@ -2,7 +2,23 @@
 
 ## 📅 September 12, 2026
 
-> 75 post(s) archived.
+> 77 post(s) archived.
+
+---
+
+### 🕐 17:55 UTC · @Wise1Philosophy
+
+> DoorDash just got FAA approval to fly your food. They&apos;re building their own drones now. Here&apos;s what most people are missing:🧵
+
+🔗 [View original post](https://x.com/liamaimans/status/2098832858093957204)
+
+---
+
+### 🕐 16:24 UTC · @Wise1Philosophy
+
+> A researcher who spent three years training models at both OpenAI and Anthropic quit, saying: “Neither company is behaving responsibly in the sprint toward self-improving superintelligence.” He described the rivalry as “gambling with our lives.” His post cleared 160M+ views. Two days earlier, Sam Altman pointed to Navier–Stokes as “the strongest evidence yet” that we should slow down. OpenAI’s chief scientist also published an essay urging a voluntary pause. That’s three internal warning signs from major labs in five days. -- An AI-designed longevity drug reportedly rolled back biological aging clocks by 3–6 years in four weeks. -- Google’s Alpha Genome Atlas precomputed 9B possible mutations across the full human genome. -- Higher-quality training data delivered a 12x gain in compute efficiency. Improved architectures added 3.7x. -- Emad’s p-doom estimate fell from 50% to 20%. -- Anthropic: $6.5B quarterly revenue run-rate, 42% share of the coding market, a $35B cloud deal, and an IPO narrative trending toward a $2T+ valuation. Media THE CURE IS THE PITCH Dario’s &quot;Pacing&quot; Essay Is Quiet-Period Illegal Stock Promotion Wrapped in Regulatory Capture Dario Amodei&apos;s &quot;We Must Pace the Frontier&quot; is not a safety paper. It is a pre-roadshow brand document published on September 12, 2026, by the CEO of a company that c…
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2098809939250815025)
 
 ---
 

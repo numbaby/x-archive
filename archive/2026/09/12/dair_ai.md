@@ -2,7 +2,25 @@
 
 ## 📅 September 12, 2026
 
-> 2 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 16:24 UTC · @dair_ai
+
+> Learn to build a harness, folks. It&apos;s not surprising to me that so many YC builders want to build domain-specific harnesses. If you work long enough on a domain-specific problem, you quickly realize the opportunity. But you also realize how important that harness will be to stay competitive in the agentic era. From a product perspective, harnesses open up interesting new surface areas and experiences for the services/products you provide. From a technical perspective, harnesses are how you build and maintain a framework and set of best practices for how your users/customers interact with what you offer. Understanding how to build and design a harness means you can build much stronger intelligence stacks, given that you can customize it and understand the domain well. That&apos;s extremely valuable. It may not seem apparent yet, but a harness wave is coming. If you are getting started, give this list of harness papers to your agents and start upskilling: https://academy.dair.ai/papers/collections/harness-engineering If you are already a builder, try building one for your specific domain. It&apos;s a lot of fun, and you learn a lot of interesting things to enhance your current agentic tools. Either you die a system of record or you live long enough to become a domain-specific harness
+
+🔗 [View original post](https://x.com/omarsar0/status/2098809969252450451)
+
+---
+
+### 🕐 16:14 UTC · @dair_ai
+
+> Interesting paper to improve recurrent reasoning. Looped models are great because you get more reasoning out of a model without adding parameters. So this work proposes a looped architecture with a new training method. The authors report wins over prior looped models on five of six reasoning benchmarks. More details from the paper: Looped models reason by updating a hidden state again and again at inference time. The hard part is training. Gradients usually flow through only the last one or two updates, so the early updates never learn to set up the later ones. Looped flows train the recurrence with local denoising objectives, the way flow models are trained. Noise levels decrease step by step and share the same noise sample, which ties each update to the next. At inference the model follows a probability flow. A finer time grid spends more compute, and different starting noise can produce different valid answers on tasks with more than one solution. Paper: https://arxiv.org/abs/2609.11801 Chat with Paper: https://academy.dair.ai/papers/thinking-with-looped-flows-2609.11801
+
+![Interesting paper to improve recurrent reasoning. Looped models are great because you get more reasoning out of a model without adding parameters. So this work proposes a looped architecture with a ne](../../../../assets/images/2026/09/12/2098807354343260366-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2098807354343260366)
 
 ---
 

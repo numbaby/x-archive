@@ -2,7 +2,34 @@
 
 ## 📅 September 12, 2026
 
-> 38 post(s) archived.
+> 41 post(s) archived.
+
+---
+
+### 🕐 17:07 UTC · @_Regret_x
+
+
+![](../../../../assets/images/2026/09/12/2098794800552333347-1.jpg)
+
+🔗 [View original post](https://x.com/_Regret_x/status/2098820695732154713)
+
+---
+
+### 🕐 16:31 UTC · @_Regret_x
+
+
+![](../../../../assets/images/2026/09/12/2098811655639769163-1.jpg)
+
+🔗 [View original post](https://x.com/_Regret_x/status/2098811655639769163)
+
+---
+
+### 🕐 15:57 UTC · @_Regret_x
+
+
+![](../../../../assets/images/2026/09/12/2098803135653535973-1.jpg)
+
+🔗 [View original post](https://x.com/DarkDevchand/status/2098803135653535973)
 
 ---
 
