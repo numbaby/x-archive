@@ -2,7 +2,23 @@
 
 ## 📅 September 12, 2026
 
-> 26 post(s) archived.
+> 28 post(s) archived.
+
+---
+
+### 🕐 15:05 UTC · @Unlockyourlife_
+
+> the difference between people who win and those who don’t, is consistency over time.
+
+🔗 [View original post](https://x.com/Unlockyourlife_/status/2098790199262101676)
+
+---
+
+### 🕐 14:48 UTC · @Unlockyourlife_
+
+> As a man: 1. Stop chasing validation → Validate yourself 2. Stop impressing people → Improve yourself 3. Stop posting everything → Move in silence 4. Stop fake lifestyle → Build real value 5. Stop attention seeking → Stay focused 6. Stop overexplaining → Let results talk 7. Stop proving yourself → Show results 8. Stop noise → Stay quiet 9. Stop clout chasing → Build respect 10. Stop talking → Start doing
+
+🔗 [View original post](https://x.com/Masculinjournal/status/2098785834241503678)
 
 ---
 

@@ -2,7 +2,57 @@
 
 ## 📅 September 12, 2026
 
-> 50 post(s) archived.
+> 61 post(s) archived.
+
+---
+
+### 🕐 15:13 UTC · @Wise1Philosophy
+
+> Now this is how you build AI videos properly 🔥 crazy...made this with image 2.5 and seedance 2.5 in Arcads The workflow behind them is where the magic happens. full breakdown, every prompt included 👇
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2098792201220166127)
+
+---
+
+### 🕐 15:00 UTC · @Wise1Philosophy
+
+> My go-to breakfast takes 2 minutes. It hits 60g of protein. And it tastes like dessert. Here&apos;s the Greek yogurt hack: 1. 1.5 cups plain Greek yogurt
+
+🔗 [View original post](https://x.com/HiVioletMM/status/2098788777284280502)
+
+---
+
+### 🕐 14:43 UTC · @Wise1Philosophy
+
+> Curated AI Learning Resources for Every Level 1). YouTube: Andrej Karpathy for real technical depth ↳ https://www.youtube.com/@AndrejKarpathy ↳ https://www.youtube.com/@mreflow 2). Books: Co-Intelligence by Ethan Mollick if you want one book on working with AI ↳ https://www.penguinrandomhouse.com/books/741805/co-intelligence-by-ethan-mollick/ ↳ https://www.oreilly.com/library/view/ai-engineering/9781098166298/ 3). Podcasts: Lex Fridman for long-form thinking ↳ https://lexfridman.com/podcast/ ↳ https://www.cognitiverevolution.ai/ 4). Creators: Andrew Ng if you want the most trusted name in AI education, full stop ↳ https://www.deeplearning.ai/ 5). TED Talks: short enough to watch between meetings, sharp enough to change how you think ↳ https://www.ted.com/topics/artificial+intelligence omg.. this is absolutely crazy you can turn one image into a full game-ready 3D asset, geometry and materials, in about 20 seconds how is this even possible, no modeling at all👇
+
+![Curated AI Learning Resources for Every Level 1). YouTube: Andrej Karpathy for real technical depth ↳ https://www.youtube.com/@AndrejKarpathy ↳ https://www.youtube.com/@mreflow 2). Books: Co-Intellige](../../../../assets/images/2026/09/12/2098784514118168971-1.jpg)
+
+🔗 [View original post](https://x.com/nrqa__/status/2098784514118168971)
+
+---
+
+### 🕐 14:34 UTC · @Wise1Philosophy
+
+> found the best enterprise AI account on this app: If you want AI implemented in your enterprise operations, here&apos;s the order we run it in. A total of five steps. 1. Frame. Pick one workflow with real users, a deadline the customer feels, and a number you already track. Client reporting, onboarding, reconciliation, exception hand…
+
+🔗 [View original post](https://x.com/alex_prompter/status/2098782187290030430)
+
+---
+
+### 🕐 14:30 UTC · @Wise1Philosophy
+
+> A psychiatrist shocked me when she said: &quot;You age because your body stops making serotonin. Without it, your mood flattens, your sleep breaks, and the cravings never stop.&quot; Here&apos;s the 5-step protocol to rebuild it naturally: 1. Stop eating lunch at your desk
+
+🔗 [View original post](https://x.com/Sophiaz6xo/status/2098781184281251934)
+
+---
+
+### 🕐 14:25 UTC · @Wise1Philosophy
+
+> 🚨 LAS AEROLÍNEAS TE ESTÁN ROBANDO MILES DE DÓLARES EN TU CARA. El mismo vuelo. El mismo asiento. El mismo día. Pero TÚ pagas $1,145 mientras otros pagan $205. ChatGPT acaba de romper el sistema que las aerolíneas no quieren que conozcas 👇 Media
+
+🔗 [View original post](https://x.com/Alex_Inspira/status/2098780138741866926)
 
 ---
 
@@ -63,6 +113,15 @@
 > 15 Things You Should Do with Your Mother While She&apos;s Still Alive: Start today. 1. Record Her Voice
 
 🔗 [View original post](https://x.com/BeBetterMan_/status/2098765183674155482)
+
+---
+
+### 🕐 13:02 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/12/2098759071738302607-1.jpg)
+
+🔗 [View original post](https://x.com/Life__Mastery/status/2098759071738302607)
 
 ---
 
@@ -195,6 +254,15 @@
 
 ---
 
+### 🕐 11:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/12/2098735958208180294-1.jpg)
+
+🔗 [View original post](https://x.com/Daily__wisdom_/status/2098735958208180294)
+
+---
+
 ### 🕐 11:15 UTC · @Wise1Philosophy
 
 > You can now learn AI without spending money. All you need is YouTube and the right teachers. Here are 20 YouTube channels for learning AI: [ bookmark 🔖 this thread for later ]
@@ -202,6 +270,24 @@
 ![You can now learn AI without spending money. All you need is YouTube and the right teachers. Here are 20 YouTube channels for learning AI: [ bookmark 🔖 this thread for later ]](../../../../assets/images/2026/09/12/2098732112140763585-1.jpg)
 
 🔗 [View original post](https://x.com/AndrewBolis/status/2098732112140763585)
+
+---
+
+### 🕐 11:01 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/12/2098728669980037152-1.jpg)
+
+🔗 [View original post](https://x.com/apex_mentality_/status/2098728669980037152)
+
+---
+
+### 🕐 10:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/12/2098720873779773820-1.jpg)
+
+🔗 [View original post](https://x.com/yeti_mind/status/2098720873779773820)
 
 ---
 
@@ -218,6 +304,15 @@
 > Do not buy the iPhone 18 Pro Max until you check this one setting. It affects how fast your phone charges for the next 3 years. Here&apos;s what to look for:👇
 
 🔗 [View original post](https://x.com/Kevincreates77/status/2098705856829501452)
+
+---
+
+### 🕐 09:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/12/2098705761190683074-1.jpg)
+
+🔗 [View original post](https://x.com/Ant_Philosophy/status/2098705761190683074)
 
 ---
 

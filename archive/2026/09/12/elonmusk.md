@@ -2,7 +2,25 @@
 
 ## 📅 September 12, 2026
 
-> 4 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 15:03 UTC · @elonmusk
+
+> Another AI attack
+
+![Another AI attack](../../../../assets/images/2026/09/12/2098789559093858580-1.jpg)
+
+🔗 [View original post](https://x.com/elonmusk/status/2098789559093858580)
+
+---
+
+### 🕐 15:01 UTC · @elonmusk
+
+> Dario is right We Must Pace the Frontier: I’ve written a new essay on why the AI industry should slow down, with a three-part plan for doing so. Anthropic is unilaterally committing to the first of these steps. We’ll provide third-party evaluators with permanent, employee-level access to our sy…
+
+🔗 [View original post](https://x.com/elonmusk/status/2098789109980332057)
 
 ---
 
