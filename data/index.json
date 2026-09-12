@@ -85969,5 +85969,71 @@
         "source_url": "https://pbs.twimg.com/media/HR8oRl7bsAAgQ0J.jpg?name=orig"
       }
     ]
+  },
+  "2098573718142452055": {
+    "account": "simonw",
+    "date": "2026-09-12",
+    "file": "data/posts/2026/09/2026-09-12.jsonl",
+    "fingerprint": "9eb143bb945919b9b0a88e202fbc0082fbb4d6d5844b741a76987811e5afb133",
+    "media": []
+  },
+  "2098577046251418031": {
+    "account": "simonw",
+    "date": "2026-09-12",
+    "file": "data/posts/2026/09/2026-09-12.jsonl",
+    "fingerprint": "46817d3ce6a28b21b7793dee86e1a7f22fffec1f820887aa7ec93439fb4b343c",
+    "media": [
+      {
+        "local_path": "assets/images/2026/09/12/2098577046251418031-1.png",
+        "sha256": "525a4424d635b3497919bf9ba7a608299b0edbfade459c73ec516e1e2c36cb02",
+        "source_url": "https://pbs.twimg.com/media/HR-kX36aAAAvtIf.png?name=orig"
+      }
+    ]
+  },
+  "2098577348211994947": {
+    "account": "dair_ai",
+    "date": "2026-09-12",
+    "file": "data/posts/2026/09/2026-09-12.jsonl",
+    "fingerprint": "d24d91785769eac272947596106c6e41c004927f19c7e5f1b2cbee8207af1fae",
+    "media": [
+      {
+        "local_path": "assets/images/2026/09/12/2098577348211994947-1.png",
+        "sha256": "59045dc3143393435d415737ba1ea4c45312a94070e96718d9255303d0bb16aa",
+        "source_url": "https://pbs.twimg.com/media/HR-k-csbIAAtwFu.png?name=orig"
+      }
+    ]
+  },
+  "2098578590623563851": {
+    "account": "alone_boy_010",
+    "date": "2026-09-12",
+    "file": "data/posts/2026/09/2026-09-12.jsonl",
+    "fingerprint": "b002d2e357ef98bf11668fb1f1a5e6c5ae3fca64e0a20bc39e55683d6b4c82c6",
+    "media": [
+      {
+        "local_path": "assets/images/2026/09/12/2098578590623563851-1.jpg",
+        "sha256": "1d62e757bf9b6e5e5e2211a5ccac8cf44f574e570e1cbd3b2db7716e1c50724a",
+        "source_url": "https://pbs.twimg.com/media/HR-mGQzbcAAzvuS.jpg?name=orig"
+      }
+    ]
+  },
+  "2098579776382365907": {
+    "account": "tunguz",
+    "date": "2026-09-12",
+    "file": "data/posts/2026/09/2026-09-12.jsonl",
+    "fingerprint": "a0b8ed9bcad4b494fa284d8480c11a43b40639cfeb894a673194a554898acb50",
+    "media": []
+  },
+  "2098579794757828617": {
+    "account": "alone_boy_010",
+    "date": "2026-09-12",
+    "file": "data/posts/2026/09/2026-09-12.jsonl",
+    "fingerprint": "b703e4d7e64a7f8fe161649348554ad406327bf0fef2c1fb4cbf78e4777c30f8",
+    "media": [
+      {
+        "local_path": "assets/images/2026/09/12/2098579794757828617-1.jpg",
+        "sha256": "a2e42d13a84d127c193ef747f93e8dc05d4248d2b0680f19814d427dd9f5d12e",
+        "source_url": "https://pbs.twimg.com/media/HR-nMQ6bEAEb-yY.jpg?name=orig"
+      }
+    ]
   }
 }
