@@ -2,7 +2,17 @@
 
 ## 📅 September 12, 2026
 
-> 10 post(s) archived.
+> 11 post(s) archived.
+
+---
+
+### 🕐 10:21 UTC · @Unlockyourlife_
+
+> Walking is underrated because it isn&apos;t impressive. But that&apos;s exactly why it&apos;s useful. You can do it regularly. It doesn&apos;t destroy your recovery. It increases daily activity. And it can help create the energy deficit needed for fat loss. You don&apos;t need every form of exercise to feel brutal.
+
+![Walking is underrated because it isn&apos;t impressive. But that&apos;s exactly why it&apos;s useful. You can do it regularly. It doesn&apos;t destroy your recovery. It increases daily activity. And i](../../../../assets/images/2026/09/12/2098718669475926374-1.jpg)
+
+🔗 [View original post](https://x.com/_alphafit/status/2098718669475926374)
 
 ---
 

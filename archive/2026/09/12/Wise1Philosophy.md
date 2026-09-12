@@ -2,7 +2,15 @@
 
 ## 📅 September 12, 2026
 
-> 26 post(s) archived.
+> 27 post(s) archived.
+
+---
+
+### 🕐 10:30 UTC · @Wise1Philosophy
+
+> A dermatologist shocked me when she said: &quot;You age because your body stops making collagen. Without it, your skin thins, your joints ache, and your bones get brittle.&quot; Here&apos;s the 5-step protocol to rebuild it naturally: 1. Stop skipping sunscreen on cloudy days
+
+🔗 [View original post](https://x.com/HeyEleanorr/status/2098720782969082177)
 
 ---
 
