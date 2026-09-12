@@ -90739,5 +90739,32 @@
         "source_url": "https://pbs.twimg.com/media/HSCQXrDXkAU2u9Q.jpg?name=orig"
       }
     ]
+  },
+  "2098841729818308820": {
+    "account": "Unlockyourlife_",
+    "date": "2026-09-12",
+    "file": "data/posts/2026/09/2026-09-12.jsonl",
+    "fingerprint": "b385a49e94e2db6d4cfe3678ec26d68cd0bc6f2caea7b129c63298a173c504c6",
+    "media": []
+  },
+  "2098845035269923069": {
+    "account": "tunguz",
+    "date": "2026-09-12",
+    "file": "data/posts/2026/09/2026-09-12.jsonl",
+    "fingerprint": "49be6e5052ac92ce53a3c0c049a1f3118aee1a6fab6ed7605364aa0abf644880",
+    "media": []
+  },
+  "2098864248197976465": {
+    "account": "dair_ai",
+    "date": "2026-09-12",
+    "file": "data/posts/2026/09/2026-09-12.jsonl",
+    "fingerprint": "211663f6be86a978259b162b45b40092420814d661bbfad4968db2092a4a8032",
+    "media": [
+      {
+        "local_path": "assets/images/2026/09/12/2098864248197976465-1.jpg",
+        "sha256": "ca9a7e4feffd199383f76210e8a6a1efa70434eed79d43d3f031fc032863fba8",
+        "source_url": "https://pbs.twimg.com/media/HSCp6O4aIAAQ791.jpg?name=orig"
+      }
+    ]
   }
 }

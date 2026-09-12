@@ -2,7 +2,17 @@
 
 ## 📅 September 12, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 20:00 UTC · @dair_ai
+
+> Very interesting paper if you are building with agents. How should a website tell an AI agent what it may access, for what purpose and at what price? robots.txt can only allow or disallow paths. It cannot say who is crawling, why, or on what terms, and automated clients now make up most web requests. This paper specifies terms.txt, a file that sets machine-access terms per path and per purpose. It pairs the file with a signed exchange built on Web Bot Auth signatures, signed intent, delegation tokens, HTTP 402 negotiation and signed receipts, all enforced by the origin server. The author is explicit about scope, separating what the exchange can enforce, what it can only audit and what is left to contracts. Paper: https://arxiv.org/abs/2609.11152 Chat with Paper: https://academy.dair.ai/papers/terms-txt-a-consent-and-compensation-protocol-for-agentic-web-access-2609.11152
+
+![Very interesting paper if you are building with agents. How should a website tell an AI agent what it may access, for what purpose and at what price? robots.txt can only allow or disallow paths. It ca](../../../../assets/images/2026/09/12/2098864248197976465-1.jpg)
+
+🔗 [View original post](https://x.com/dair_ai/status/2098864248197976465)
 
 ---
 

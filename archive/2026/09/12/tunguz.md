@@ -2,7 +2,15 @@
 
 ## 📅 September 12, 2026
 
-> 5 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 18:43 UTC · @tunguz
+
+> YES!!! We should rebuild the Twin Towers twice as tall.
+
+🔗 [View original post](https://x.com/tunguz/status/2098845035269923069)
 
 ---
 
