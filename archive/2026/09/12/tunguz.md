@@ -2,7 +2,15 @@
 
 ## 📅 September 12, 2026
 
-> 6 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 21:35 UTC · @tunguz
+
+> As I was saying: https://x.com/quanquangu/status/2098858841903681902?s=46 Just got this incredible news from UCLA Math Circle. Two high school students, Aayush Bathija and Prince Rohatgi, working with postdoc Daniel Soskin through the UCLA Math Circle, have solved a problem that Fields Medalist June Huh had previously worked on without solving. The pap…
+
+🔗 [View original post](https://x.com/tunguz/status/2098888219928432831)
 
 ---
 

@@ -2,7 +2,31 @@
 
 ## 📅 September 12, 2026
 
-> 33 post(s) archived.
+> 37 post(s) archived.
+
+---
+
+### 🕐 22:38 UTC · @Unlockyourlife_
+
+> There’s a difference between ignoring a woman and refusing to be dragged into unnecessary arguments. A man who has mastered his emotions doesn&apos;t need to win every argument. Sometimes, peace is more valuable than being right. Before he passed away, I asked my dad how he survived years of marriage with my mom, a woman who always nagged &amp; argued. He said “don’t take women seriously; don’t try to argue. just ignore their outbursts.” I think about this a lot.
+
+🔗 [View original post](https://x.com/Masculinjournal/status/2098904155955884104)
+
+---
+
+### 🕐 22:24 UTC · @Unlockyourlife_
+
+> Walking away after disrespect is self-respect. Silence after disrespect is leadership. Explaining after disrespect is begging.
+
+🔗 [View original post](https://x.com/Masculinjournal/status/2098900632040087917)
+
+---
+
+### 🕐 22:20 UTC · @Unlockyourlife_
+
+> Don&apos;t marry potential. Don&apos;t date potential. Don&apos;t build your future around who someone might become. Pay attention to who they consistently are today. Potential is possibility. Character is evidence👂
+
+🔗 [View original post](https://x.com/Masculinjournal/status/2098899525926621308)
 
 ---
 
@@ -11,6 +35,14 @@
 > SUPER idea with duct tape and a bag for survival Media
 
 🔗 [View original post](https://x.com/_learnskills/status/2098841729818308820)
+
+---
+
+### 🕐 18:14 UTC · @Unlockyourlife_
+
+> You don&apos;t need to become the perfect husband. But you do need to stop making these 5 common mistakes:
+
+🔗 [View original post](https://x.com/MensStandards/status/2098837597380661491)
 
 ---
 
