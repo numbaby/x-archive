@@ -2,7 +2,67 @@
 
 ## 📅 September 12, 2026
 
-> 42 post(s) archived.
+> 50 post(s) archived.
+
+---
+
+### 🕐 14:01 UTC · @Wise1Philosophy
+
+> BREAKING: Iran just opened a second front in the war. Not the Strait of Hormuz this time. Three of the world&apos;s biggest oil arteries were hit in the last 48 hours. And the US army is nowhere to be found…. Here&apos;s what&apos;s actually happening: The Houthis captured a port town on the Bab el-Mandeb Strait. They also seized an island in the middle of the narrowest part. That strait connects the Red Sea to the Suez Canal. Twenty percent of global shipping flows through it every day. Not just oil. Food. Grain. Cargo. Manufactured goods. Then a major Saudi oil pipeline got hit. The East-West pipeline. 2,000 kilometers long. It was the backup plan. The one Saudi Arabia was using to bypass the Strait of Hormuz. That backup plan just got taken out. Satellite photos already show the damage. Now zoom out. &gt; The Strait of Hormuz &gt; The Bab el-Mandeb &gt; The East-West pipeline All three arteries for Middle East oil are now under attack. Somali pirates are active again for the first time since 2011. The Yemen army was defeated by the Houthis in the last 48 hours. Then it gets worse. The Saudi crown prince called Trump asking for air support. Trump said no. The Saudi air force has 400 modern aircraft sitting on the ground. They are not flying in this campaign. Every Gulf state is now negotiating directly with Iran through Oman. Saudi Arabia. UAE. Kuwait. Bahrain. Even Jordan. The US is conspicuously missing from those talks. Iran is now controlling the escalation ladder. They pick the target. They pick the timing. They pick the intensity. The US is stuck reacting. Now here&apos;s what this means for your portfolio. Every major US index is sitting at a record high. Every single one of those valuations assumes cheap oil. They assume open shipping lanes. They assume a stable Middle East. All three of those assumptions just cracked in 48 hours. And the market has not repriced any of it yet. When it does, the moves will be violent. Retail investors will do what they always do. Read the headline. Panic sell. Then chase the recovery at the top. Same cycle, every time. Because the story now flips faster than any human can react. One tanker attack. One pipeline hit. One diplomatic surprise. Every headline moves the market before you finish reading it. The people who come out ahead are not the ones refreshing news feeds. They are the ones whose strategy was already running before the chaos started. Automated. Rules-based. No emotion. No guessing. That&apos;s exactly what Surmount was built for. Media
+
+🔗 [View original post](https://x.com/SurmountInvest/status/2098773876650209701)
+
+---
+
+### 🕐 14:00 UTC · @Wise1Philosophy
+
+> I went mostly plant-based at 34, lost 7kg I did not want to lose, and by month four I was flat every afternoon. I needed to fix it by summer without going back. I achieved it with these 18 rules: 1. BUILD EVERY PLATE AROUND A PROTEIN (not around what you took off it).
+
+🔗 [View original post](https://x.com/RasmusNorbergg/status/2098773643409113182)
+
+---
+
+### 🕐 13:51 UTC · @Wise1Philosophy
+
+> About 50% of ChatGPT citations came from pages ranking #1 on Google. The citation rate was 3.5x higher than for pages ranking beyond Google’s top 20 results. This is something businesses need to start taking advantage of. It works for any real brand, including SaaS, e-commerce, financial services, local businesses and agencies. And if you want to see where your site stands across ChatGPT, Claude, Gemini and broader AI search, start here (it&apos;s free): https://seo-stuff.com/free-audit Alright, let’s break it down. AirOps recently analyzed 548,534 pages retrieved across 15,000 prompts to understand how ChatGPT decides what actually gets cited. It also helps explain why SEO Stuff (http://seo-stuff.com) customers keep getting cited while competitors with stronger domains sometimes do not. And why more than 80% of SEO Stuff customers come back for multiple purchases. The biggest finding of this study? 85% of pages ChatGPT discovers during its research process never make it into the final answer. Your page can rank in Google, get retrieved by ChatGPT and still get dropped before the user ever sees it. AirOps breaks the process into three stages: discovery, expansion and selection. First, ChatGPT discovers potentially relevant pages - then it goes and expands the research. 89.6% of prompts triggered two or more follow-up searches, meaning ChatGPT often investigates the same question from several angles before deciding what to include. AirOps calls this the “second citation surface.” Then comes selection, where across everything retrieved from those searches, only about 15% of pages actually get cited, while the rest are discarded. So what separates the pages that get retrieved from the pages that actually survive? Well, structure matters a lot. A separate study from Kevin Indig analyzing 1.2 million AI answers and more than 18,000 verified citations found that 44.2% of ChatGPT citations came from the first 30% of the page. If your actual answer is buried under a long introduction, ChatGPT has a much harder job finding it. The same research found that 68.7% of cited pages used logical heading hierarchies, 87% had a single H1 and nearly 80% used lists to organize important information. ChatGPT appears to scan pages much like a researcher skims a document. The easier the useful information is to identify and extract, the better, but expansion does create another problem. Because ChatGPT runs follow-up searches, your page is not only competing against results for the keyword you can see - it is also competing against pages surfaced for related questions and subtopics. That is very similar to Google’s query fan-out model. A site with strong coverage across the surrounding topic has more opportunities to enter the research process and survive into the final answer. Authority matters at that stage too. When ChatGPT has several usable pages saying similar things, signals like site authority, brand mentions, consistent entity information and factual claims that can be independently verified can help separate one source from another. That is where a page can get retrieved and still lose. So what should you actually do? Front-load the answer, use clear H1 and H2 structures, organize useful information into easily extractable sections, cover the surrounding topic instead of one isolated keyword, strengthen backlinks and third-party mentions and keep important pages current. This is the system SEO Stuff was built around: http://seo-stuff.com The done-for-you package combines front-loaded, structured content with question-based headings, TLDR sections and DR50+ contextual backlinks: https://seo-stuff.com/gold-plan-package The Premium Content Bundle adds 60 structured pages designed to build coverage across the broader topic and give ChatGPT more ways to find your business during expansion searches: https://seo-stuff.com/premium-content-bundle-service And the Premium Backlink Bundle adds authority from DR50+ domains to help strengthen the pages competing at the selection stage: https://seo-stuff.com/premium-backlink-bundle-service And if you want to see where your site stands across Google and AI search, start here. It’s free: https://seo-stuff.com/free-audit A brand followed the recommendations in this article and generated more than $50,000 from ChatGPT, Google and Perplexity-driven traffic.
+
+![About 50% of ChatGPT citations came from pages ranking #1 on Google. The citation rate was 3.5x higher than for pages ranking beyond Google’s top 20 results. This is something businesses need to start](../../../../assets/images/2026/09/12/2098771468679307655-1.jpg)
+
+🔗 [View original post](https://x.com/alexgroberman/status/2098771468679307655)
+
+---
+
+### 🕐 13:43 UTC · @Wise1Philosophy
+
+> I don&apos;t understand why people aren&apos;t using AI agents yet. Most people use ChatGPT and stop there. Here are 12 underrated AI tools that are 10x more powerful: ⬇️
+
+![I don&apos;t understand why people aren&apos;t using AI agents yet. Most people use ChatGPT and stop there. Here are 12 underrated AI tools that are 10x more powerful: ⬇️](../../../../assets/images/2026/09/12/2098769513504485444-1.jpg)
+
+🔗 [View original post](https://x.com/MasculineM7/status/2098769513504485444)
+
+---
+
+### 🕐 13:42 UTC · @Wise1Philosophy
+
+> Once a boy turns into a man, all he wants in this life is: 1. Money, family, and a private life. That’s all.
+
+🔗 [View original post](https://x.com/Better_men/status/2098769335246569951)
+
+---
+
+### 🕐 13:30 UTC · @Wise1Philosophy
+
+> Your Resting Heart Rate tells the whole story. 95+ bpm - Heart is strained just to keep you going. 90 bpm - Sedentary, unhealthy &amp; stressed. 1. 80 bpm - Average, with room.
+
+🔗 [View original post](https://x.com/thisispeak007/status/2098766083075555741)
+
+---
+
+### 🕐 13:26 UTC · @Wise1Philosophy
+
+> 15 Things You Should Do with Your Mother While She&apos;s Still Alive: Start today. 1. Record Her Voice
+
+🔗 [View original post](https://x.com/BeBetterMan_/status/2098765183674155482)
 
 ---
 
@@ -88,6 +148,14 @@
 > Cancer often starts with symptoms that aren&apos;t likely, but emerges from a simple change that you might brush off and ignore. Here are 6 early signs of the most common types of cancer that you should never neglect: 1. Colon cancer = blood in the stool 🩸 Media
 
 🔗 [View original post](https://x.com/_Gut_Laboratory/status/2098747534810436040)
+
+---
+
+### 🕐 12:15 UTC · @Wise1Philosophy
+
+> Japanese scientist found a death point on your body: “Press it for 30 seconds to reset cortisol and slow aging.” They tested 500 volunteers. The results even shocked them:
+
+🔗 [View original post](https://x.com/Dr_Biohacker/status/2098747352110735815)
 
 ---
 
