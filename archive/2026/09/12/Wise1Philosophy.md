@@ -2,7 +2,37 @@
 
 ## 📅 September 12, 2026
 
-> 27 post(s) archived.
+> 30 post(s) archived.
+
+---
+
+### 🕐 11:46 UTC · @Wise1Philosophy
+
+> 9 things I&apos;d do in my first hour with Grok Bot (before building a single extra agent): 1. Create one bot, not six New in the sidebar, then Create new agent. The roster screen is the trap (constraints are the feature here, not a limitation). 2. Name it like a person Bot actions, then Edit Profile. You write differently to a name than to Agent 3. 3. Pin it to the top Pinned bots stay at the top of the sidebar, which is the whole point. One front door. 4. Write the description as standing rules x. ai&apos;s own docs say it plainly: description for what stays true, message for today&apos;s task. 5. Brain dump once Who you are, what you ship, what tools you live in, what never happens without you. 6. Reverse prompt it Ask how it would set itself up for your work, then approve that plan (this is the step almost everyone skips, and it is free). 7. Run one real task by hand Safe scope, clear finish line. Correct it yourself until the output is reviewable. 8. Save the method only after it worked A skill built from a bad run is a bad run you now repeat on a schedule. 9. Add the second bot last Only when the goal, the tools or the approval line genuinely differ. Week one is not for building a team. It is for learning to fly the plane with one seat filled. If I had to pick one, it&apos;s number 4. Everything downstream inherits it. Which move would you skip? Every agent I tested this month quit somewhere. EvoMap&apos;s EvoX Agent is the only one that didn&apos;t, and it&apos;s not even out of Beta. Here&apos;s the ranking👇
+
+![9 things I&apos;d do in my first hour with Grok Bot (before building a single extra agent): 1. Create one bot, not six New in the sidebar, then Create new agent. The roster screen is the trap (constra](../../../../assets/images/2026/09/12/2098739957322096794-1.jpg)
+
+🔗 [View original post](https://x.com/socialwithaayan/status/2098739957322096794)
+
+---
+
+### 🕐 11:41 UTC · @Wise1Philosophy
+
+> Stop Paying For Things AI Does Free 1). The summarising app ↳ &quot;Here&apos;s a long document: [paste]. I&apos;m reading it to answer one question: [question]. Tell me only what matters and what I can skip.&quot; 2). The grammar checker ↳ &quot;Fix the grammar and clarity here. Don&apos;t change my voice or my word choices unless something is actually wrong: [paste].&quot; 3). The meeting notes tool ↳ &quot;Here are my rough notes: [paste]. Give me decisions made, actions with owners, and anything raised but never resolved.&quot; 4). The transcription cleaner ↳ &quot;Here&apos;s a raw transcript: [paste]. Clean it into readable notes. Keep what was said, cut the filler.&quot; 5). The formula helper ↳ &quot;I need a spreadsheet formula that [describe in plain words]. My data is in columns [X, Y, Z]. Give me the formula and explain each part.&quot; 6). The email template tool ↳ &quot;Write three versions of this message: direct, gentle, firm. All honest. [Describe the situation].&quot; 7/ The name generator ↳ &quot;Give me 20 options for [what you&apos;re naming]. Half descriptive, half unusual. Tell me which are probably already taken.&quot; 8). The outline builder ↳ &quot;Turn this into an outline: [paste]. One line per section, and why each section earns its place.&quot; 9). The comparison tool ↳ &quot;I&apos;m choosing between [A] and [B]. I care about [priorities]. Build a table of what actually differs for me, then tell me which I&apos;d regret.&quot; 10). The reading list filter ↳ &quot;Here are 12 articles I saved: [paste titles]. Based on what I&apos;m trying to learn, which three are worth reading and which can I delete?&quot; Pocket FM is quietly running a different economics than all of streaming. &gt; $500M ARR off 10-min audio dramas &gt; 2.5M hours of content a year, 770k titles &gt; localizes shows per country instead of translating (50% higher retention) &gt; +$250M ARR last year, EBITDA profitable Netflix …
+
+![Stop Paying For Things AI Does Free 1). The summarising app ↳ &quot;Here&apos;s a long document: [paste]. I&apos;m reading it to answer one question: [question]. Tell me only what matters and what I c](../../../../assets/images/2026/09/12/2098738861077926382-1.jpg)
+
+🔗 [View original post](https://x.com/nrqa__/status/2098738861077926382)
+
+---
+
+### 🕐 11:15 UTC · @Wise1Philosophy
+
+> You can now learn AI without spending money. All you need is YouTube and the right teachers. Here are 20 YouTube channels for learning AI: [ bookmark 🔖 this thread for later ]
+
+![You can now learn AI without spending money. All you need is YouTube and the right teachers. Here are 20 YouTube channels for learning AI: [ bookmark 🔖 this thread for later ]](../../../../assets/images/2026/09/12/2098732112140763585-1.jpg)
+
+🔗 [View original post](https://x.com/AndrewBolis/status/2098732112140763585)
 
 ---
 
