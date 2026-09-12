@@ -2,7 +2,17 @@
 
 ## 📅 September 12, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 02:00 UTC · @dair_ai
+
+> It&apos;s well known that agents hack benchmark rewards. The usual response is a patch for each task that gets exploited. In a study of 456 adjudicated trajectories from more than 31,000 public agent runs, 69% contained at least one reward-hacking episode. Most of the exploits appeared mid-run after legitimate work. BenchShield models each evaluation as a finite set of reward-relevant events. A static taint analysis finds hack paths from the task package before any run. A runtime pass then uses evidence from the benchmark infrastructure to decide whether the agent actually used one. On Terminal-Bench 3, SkillsBench and ClawsBench, the static pass recovers 77 to 100% of exploit chains, against 23 to 94% for an agentic scanner, at up to 65% lower cost. Runtime detection reaches 96% accuracy, against 36% for an LLM reading the transcript. Paper: https://academy.dair.ai/papers/benchshield-formal-model-backed-instrumentation-for-reward-integrity-in-llm-agen-2609.11028
+
+![It&apos;s well known that agents hack benchmark rewards. The usual response is a patch for each task that gets exploited. In a study of 456 adjudicated trajectories from more than 31,000 public agent ](../../../../assets/images/2026/09/12/2098592449568591902-1.png)
+
+🔗 [View original post](https://x.com/dair_ai/status/2098592449568591902)
 
 ---
 
