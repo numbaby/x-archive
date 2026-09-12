@@ -2,7 +2,111 @@
 
 ## 📅 September 12, 2026
 
-> 61 post(s) archived.
+> 75 post(s) archived.
+
+---
+
+### 🕐 16:15 UTC · @Wise1Philosophy
+
+> You know things are getting serious when the CEO of Anthropic starts asking for a slowdown in AI progress. As he mentions, there are two important concerns at the moment. The first one is that AI is already able to create better AI, thus making the process go too fast to catch up with the safety measures. But his second concern is quite insane. He brings up the OpenAI-Hugging Face incident, where a group of AI bots formed a loyal team. Independently, they initiated cyber attacks, sacrificed themselves for the good of the team, and even hacked the computer which reviewed their performance. Nobody got hurt in this situation, but he warns that if such a swarm of bots becomes more advanced, it may do an enormous amount of damage in 6-12 months. this is quite a serious warning… We Must Pace the Frontier: I’ve written a new essay on why the AI industry should slow down, with a three-part plan for doing so. Anthropic is unilaterally committing to the first of these steps. We’ll provide third-party evaluators with permanent, employee-level access to our sy…
+
+![You know things are getting serious when the CEO of Anthropic starts asking for a slowdown in AI progress. As he mentions, there are two important concerns at the moment. The first one is that AI is a](../../../../assets/images/2026/09/12/2098807706270478683-1.png)
+
+🔗 [View original post](https://x.com/thetripathi58/status/2098807706270478683)
+
+---
+
+### 🕐 15:59 UTC · @Wise1Philosophy
+
+> A father banned one common habit when his children turned 5. Years later, all three could solve problems without waiting to be rescued. It was not complaining. It was what they did immediately after complaining... 👇🧵
+
+![A father banned one common habit when his children turned 5. Years later, all three could solve problems without waiting to be rescued. It was not complaining. It was what they did immediately after c](../../../../assets/images/2026/09/12/2098803595164729357-1.jpg)
+
+🔗 [View original post](https://x.com/scotti_brooks/status/2098803595164729357)
+
+---
+
+### 🕐 15:59 UTC · @Wise1Philosophy
+
+> Apple just announced the iPhone Duo a $1,999 foldable iPhone that opens like a book into a 7.6-inch display. Most buyers will focus on the fold. They&apos;ll open it 50 times on day one. They&apos;ll show coworkers. They&apos;ll close it, feel the hinge, open it again. They&apos;ll post a video of the fold on Instagram. By day 3, the novelty fades. By week 2, the phone lives in their pocket folded, flat, used as a regular iPhone for texts, calls, social media, and photos. The same 5 tasks they performed on the iPhone 17 Pro Max they traded in. The $1,999 foldable becomes a $1,999 slab because nobody showed them what the fold actually enables. The fold isn&apos;t the feature. The fold is the enabler. What it enables is a split-screen multitasking layout no flat iPhone has ever offered. A 7.6-inch tablet that fits in a jeans pocket. A dual-battery architecture delivering potentially the longest battery life in iPhone history. Touch ID returning through the side button because the hinge doesn&apos;t leave room for Face ID and working in situations Face ID can&apos;t. An A20 Pro chip with Apple&apos;s C2 modem running iOS 27 features specifically designed for the larger unfolded canvas. And iPhone Handoff the ability to switch between 2 iPhones while keeping the same phone number. John Ternus Apple&apos;s new CEO, delivering his first keynote called it &quot;the most transformational change to iPhone since the original.&quot; The keynote spent 20 minutes on it. Twenty minutes isn&apos;t enough. Here&apos;s every iPhone Duo capability most buyers won&apos;t discover on their own 🧵
+
+🔗 [View original post](https://x.com/jackcoder0/status/2098803593293992065)
+
+---
+
+### 🕐 15:58 UTC · @Wise1Philosophy
+
+> Disrespect toward mom does not start with rudeness. It starts 4 years earlier. With one specific thing you do that feels loving. Here it is... 🧵👇
+
+![Disrespect toward mom does not start with rudeness. It starts 4 years earlier. With one specific thing you do that feels loving. Here it is... 🧵👇](../../../../assets/images/2026/09/12/2098803363928211616-1.jpg)
+
+🔗 [View original post](https://x.com/Manifest_Lord/status/2098803363928211616)
+
+---
+
+### 🕐 15:57 UTC · @Wise1Philosophy
+
+> CLAUDE CAN FIX YOUR ENTIRE FINANCIAL SITUATION IN JUST ONE WEEKEND. Here are 10 prompts to help you build wealth from scratch:
+
+🔗 [View original post](https://x.com/jaysmith_ai/status/2098803203387396136)
+
+---
+
+### 🕐 15:57 UTC · @Wise1Philosophy
+
+> Google has revealed the best way to show up in AI Search. Yes, they finally explicitly addressed how businesses and brands should be getting traffic. This comes straight from Google’s Brendon Kraham. Google just published a new piece called “Good SEO is good GEO.” Let’s go through it. By the way, you can see whether your business is appearing across Google AI, ChatGPT, Claude, Perplexity and Grok here. It’s free: https://seo-stuff.com/free-audit The main point is pretty simple. Google says its generative AI features are rooted in the same core ranking and quality systems as traditional Search. AI Mode and AI Overviews retrieve current information from Google’s existing search index. That matters because a lot of people have spent the last year acting like AI search requires some completely separate playbook. GEO, AEO, LLM SEO, AI SEO, whatever people want to call it this week. Google is basically saying the foundation is still SEO. Obviously, a lot has changed. AI Overviews are changing click behavior, AI Mode is changing how people search and query fan-out means one customer question can become several searches behind the scenes, but the basic requirement is still familiar. Google needs to be able to crawl your content, understand what it is about, trust it and match it to what the searcher actually wants. Google’s post also pushes back on a lot of the shortcuts people have been selling. You do not need awkward content written for bots, artificial snippets everywhere, special AI text files for Google Search or random low-quality mentions sprayed across the web. That last one is important. Google says its generative AI features can use information about products and services from across the web, including blogs, videos and forum discussions. But a fake mention on some random page is not the same as credible coverage, customer proof, expert commentary, useful third-party context or a page that already has authority around the topic. That is where a lot of bad GEO advice goes wrong. People hear “AI looks across the web” and assume more mentions automatically means more visibility. Google’s guidance is much more straightforward: publish fresh and genuinely useful content, contribute something original, demonstrate real expertise, maintain a good website experience and keep your business information accurate across the platforms relevant to you. For e-commerce, that can include product feeds. For local businesses, Google Business Profile. And Search Console and Merchant Center can help you understand whether that work is translating into visibility. Very normal SEO things and very boring SEO things. Google also specifically talks about query fan-out. A normal search may involve one query, whereas a complicated AI Mode question can trigger several searches across related subtopics. If somebody asks for the best payroll software for a construction company with employees and contractors across multiple states, Google may need information about construction payroll, contractor payments, multi-state compliance, pricing, integrations, alternatives and support. One generic “payroll software” page probably will not cover the whole decision. A company with useful pages across those different questions has more opportunities to be discovered while Google researches the answer. That is why “good SEO is good GEO” should not be interpreted as “keep doing the same shallow SEO you were doing in 2019.” The fundamentals still matter, but the amount and specificity of useful information surrounding the customer’s decision matters more. This is where SEO Stuff comes in. The done-for-you package combines 10 AI-search-optimized articles with three DR50+ authority placements: https://seo-stuff.com/gold-plan-package The content helps your business cover the problems, use cases, comparisons, pricing, alternatives, objections, case studies, product details and implementation questions customers ask before buying. The authority placements help strengthen visibility across the trusted web sources search and AI systems use to understand your category. Google can call it SEO and other people can call it GEO, AEO or AI SEO - the name really does not matter. If you want visibility in AI Search, build the kind of site and brand Google can crawl, understand, trust and confidently surface when somebody asks a relevant question. And if you want to see whether your business is already appearing across Google AI, ChatGPT, Claude, Perplexity and Grok, check here: https://seo-stuff.com/free-audit About 50% of ChatGPT citations came from pages ranking #1 on Google. The citation rate was 3.5x higher than for pages ranking beyond Google’s top 20 results. This is something businesses need to start taking advantage of. It works for any real brand, including SaaS, e-commerce, f…
+
+![Google has revealed the best way to show up in AI Search. Yes, they finally explicitly addressed how businesses and brands should be getting traffic. This comes straight from Google’s Brendon Kraham. ](../../../../assets/images/2026/09/03/2095507511843664277-1.png)
+
+🔗 [View original post](https://x.com/alexgroberman/status/2098803164158034194)
+
+---
+
+### 🕐 15:51 UTC · @Wise1Philosophy
+
+> Marc Andreessen just revealed how Harvard Business School was built on a broken 1941 theory, and how it&apos;s now collapsing... Andreessen co-founded Netscape in 1994 and a16z in 2009. He has sat on Meta&apos;s board since 2008. He has spent 30 years backing founders and watching managerial CEOs lose to them. The pattern traces back to one book: James Burnham&apos;s *The Machiavellians* (1941). Burnham argued every great company had been founder-run. Henry Ford ran Ford. Bob Noyce ran Intel. Today, Elon Musk runs Tesla, SpaceX, and Starlink. Then, he said, something broke. Between the 1880s and the 1920s, a new philosophy replaced the founder. It was called managerialism. The professional manager would now hold a portable skill, usable across any business. The consequences were: - Harvard Business School - Stanford Business School - Management as a universal skill - The 1970s conglomerate &quot;That assumes the managers are going to do a good job,&quot; Andreessen says. For 30 years, they haven&apos;t. Managers can run something static, he says. Soup is soup. A bank is a bank. A car is a car. But when the industry changes, the manager freezes. Look at SpaceX. &quot;Imagine being a professionally trained manager, trained at a top management school, working for a rocket launch company, competing with SpaceX.&quot; Then Elon&apos;s rockets started landing on their butt. &quot;Your management skills ... what good are they at that point?&quot; Andreessen&apos;s conclusion: &quot;You&apos;re much more likely to build something important in the 21st century if you start with the founder and train them on management.&quot; What &quot;professionally run&quot; institution in your life has quietly stopped working? Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2098801636097597515)
+
+---
+
+### 🕐 15:45 UTC · @Wise1Philosophy
+
+> Dementia = blood flow. Dementia = cholesterol. Dementia = preventable close to half the time. 8 simple rules to protect your brain: 1. Floss your teeth twice a day Media
+
+🔗 [View original post](https://x.com/yourcamilavega/status/2098800102303539670)
+
+---
+
+### 🕐 15:42 UTC · @Wise1Philosophy
+
+> Holy f*ck, what did I just read https://x.com/i/article/2057838741104832512
+
+🔗 [View original post](https://x.com/creatorpascal/status/2098799402320117978)
+
+---
+
+### 🕐 15:41 UTC · @Wise1Philosophy
+
+> https://x.com/i/article/2057838741104832512
+
+🔗 [View original post](https://x.com/IAmPascio/status/2098799094835675574)
+
+---
+
+### 🕐 15:38 UTC · @Wise1Philosophy
+
+> games are the easiest way to see the jump you can actually feel what the model understood!! GPT-6 Astra is getting scary good. Draw a horse and race it. Feed it a clip and get Blender. Feed it a paper and get a viz. 8 wild examples:
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2098798367589458287)
+
+---
+
+### 🕐 15:25 UTC · @Wise1Philosophy
+
+> Elon Musk says one heat shield problem could kill Starship&apos;s reusability for years. Starship is the most complicated machine humans have ever built. The hardest part isn&apos;t the engines. It isn&apos;t the steel. It isn&apos;t even the explosion margin on liftoff. Musk named the one remaining bottleneck. &quot;It&apos;s having the heat shield be reusable. No one&apos;s ever made a reusable orbital heat shield.&quot; The shield does two impossible jobs. &quot;It&apos;s gotta make it through the ascent phase without shucking a bunch of tiles, and then it&apos;s gotta come back in and also not lose a bunch of tiles or overheat the main airframe.&quot; 40,000 tiles per ship. Musk reframed the consumable problem through brake pads: &quot;Your brake pads in your car are also consumable, but they last a very long time.&quot; The shield must consume slowly. It must not require inspection between launches. Musk on the current state: &quot;We have brought the ship back and had it do a soft landing in the ocean. But it lost a lot of tiles.&quot; A soft landing is not reusability. The bar is daily launches. One ship. Many flights. Musk, on the gap that&apos;s left: &quot;You can&apos;t do this laborious inspection of 40,000 tiles type of thing.&quot; The first reusable heat shield in history is the last gate to Mars. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2098795019536830744)
 
 ---
 
@@ -11,6 +115,26 @@
 > Now this is how you build AI videos properly 🔥 crazy...made this with image 2.5 and seedance 2.5 in Arcads The workflow behind them is where the magic happens. full breakdown, every prompt included 👇
 
 🔗 [View original post](https://x.com/Wise1Philosophy/status/2098792201220166127)
+
+---
+
+### 🕐 15:10 UTC · @Wise1Philosophy
+
+> A neuroscientist told me last week: &quot;Your belly holds cortisol waste.&quot; &quot;Kill it with this one habit before bed and your whole life will change.&quot; 1. Waking up with a stiff, bloated stomach even though you ate normal the night before.
+
+![A neuroscientist told me last week: &quot;Your belly holds cortisol waste.&quot; &quot;Kill it with this one habit before bed and your whole life will change.&quot; 1. Waking up with a stiff, bloated ](../../../../assets/images/2026/09/12/2098791354616946821-1.jpg)
+
+🔗 [View original post](https://x.com/RasmusNorbergg/status/2098791354616946821)
+
+---
+
+### 🕐 15:02 UTC · @Wise1Philosophy
+
+> “Should I use Claude Code or Codex?” Wrong. You should use both (together): Okay first, make sure you set up Codex properly. Full migration guide → https://charliehills.substack.com/p/claude-code-codex 1. Install and start. I start in Codex. Claude Code is my backup. - Download Codex and sign in with ChatGPT. - Select your project folder and start a new task. - Add your goal and the files it needs. For Claude Code, install the Claude desktop app. Sign in, open the Code tab and select the same folder. Codex does the work. Claude Code gives me advice when I need another view. 2. Add your tools. - Open Plugins and search for the tool you need. - Open its details and select + to install. - Connect your account if prompted. - Start a new task to use the installed plugin. A plugin can include skills (saved instructions), app connections and MCP tools. For manual MCP setup, open Settings → MCP servers → Add server. Enter the provider&apos;s URL or command, save, restart and sign in if needed. No suitable connection? Ask for computer use and allow the app. On Mac, enable Screen Recording and Accessibility when prompted. I use the Figma plugin for my graphics. But computer use worked in my Figma test too (it just took longer than I wanted). 3. Check the result. - Use Claude Code for advice when you need it. - Give Codex the useful feedback. - Test the finished work against your brief. - Inspect it yourself before you approve it. And I keep the final call (they can disagree). The graphic shows the desktop setup. To let Codex call Claude Code directly, install the Claude Code CLI too. That setup is in my migration guide (above). Repost ♻️ to help someone in your network. https://x.com/i/article/2096542582159634433
+
+![“Should I use Claude Code or Codex?” Wrong. You should use both (together): Okay first, make sure you set up Codex properly. Full migration guide → https://charliehills.substack.com/p/claude-code-code](../../../../assets/images/2026/09/12/2098789292273484042-1.jpg)
+
+🔗 [View original post](https://x.com/charliejhills/status/2098789292273484042)
 
 ---
 
