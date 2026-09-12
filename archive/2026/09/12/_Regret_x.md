@@ -2,7 +2,25 @@
 
 ## 📅 September 12, 2026
 
-> 2 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 04:57 UTC · @_Regret_x
+
+
+![](../../../../assets/images/2026/09/12/2098637181065805988-1.jpg)
+
+🔗 [View original post](https://x.com/_Regret_x/status/2098637181065805988)
+
+---
+
+### 🕐 04:24 UTC · @_Regret_x
+
+
+![](../../../../assets/images/2026/09/12/2098628824506515915-1.jpg)
+
+🔗 [View original post](https://x.com/_Regret_x/status/2098628824506515915)
 
 ---
 
