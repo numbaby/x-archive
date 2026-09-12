@@ -2,7 +2,23 @@
 
 ## 📅 September 12, 2026
 
-> 16 post(s) archived.
+> 18 post(s) archived.
+
+---
+
+### 🕐 12:26 UTC · @Unlockyourlife_
+
+> A lasting relationship isn&apos;t about finding someone who perfectly meets every expectation. It&apos;s about finding two people willing to communicate honestly, compromise wisely, repair sincerely, and grow together.
+
+🔗 [View original post](https://x.com/ThePartnersCode/status/2098750152001339780)
+
+---
+
+### 🕐 12:08 UTC · @Unlockyourlife_
+
+> You don&apos;t need to get everything before you get married. Take that step.
+
+🔗 [View original post](https://x.com/Masculinjournal/status/2098745623730094486)
 
 ---
 
