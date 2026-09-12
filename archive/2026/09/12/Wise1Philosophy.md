@@ -2,7 +2,65 @@
 
 ## 📅 September 12, 2026
 
-> 19 post(s) archived.
+> 26 post(s) archived.
+
+---
+
+### 🕐 09:30 UTC · @Wise1Philosophy
+
+> Do not buy the iPhone 18 Pro Max until you check this one setting. It affects how fast your phone charges for the next 3 years. Here&apos;s what to look for:👇
+
+🔗 [View original post](https://x.com/Kevincreates77/status/2098705856829501452)
+
+---
+
+### 🕐 09:04 UTC · @Wise1Philosophy
+
+> This is getting ridiculous. GPT Image 2.5 is here. Look at the image on the right (that&apos;s AI-generated). DALL·E 3 came out in September 2023. GPT Image 1 was huge for editing, but the portraits still had that AI look. Then 1.5 came along. Now look at 2.0 and 2.5. Imagine where we&apos;ll be in another 3 years. Here&apos;s the exact portrait prompt (unchanged): &quot;A high-resolution, photorealistic, close-up portrait of a woman. The woman, softly and evenly lit, has an oval-shaped face with an even more pronounced oval jawline. She sports an asymmetric bob hairstyle, her hair cut to ear-length. She has an impressively straight nose contour, with the base of her nose being equally straight. The image is a splendid display of macrophotography, with a shallow depth of field adding an extra layer of interest to it. The textures are incredibly detailed, adding much to the overall realism of the image.&quot; Try it yourself. You&apos;ll see. Get my free AI workflows → https://charliehills.substack.com/subscribe Repost ♻️ to help someone in your network. Media
+
+🔗 [View original post](https://x.com/charliejhills/status/2098699335546376667)
+
+---
+
+### 🕐 09:00 UTC · @Wise1Philosophy
+
+> A sports physiologist exposed the myths every woman has been told to use to &quot;get healthier&quot;. 7 things you do every day that eat your muscle, slow your thyroid, and increase belly fat: 1. Training fasted in the morning Media
+
+🔗 [View original post](https://x.com/TinaaDeJong/status/2098698190434545706)
+
+---
+
+### 🕐 08:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/12/2098690614875263210-1.jpg)
+
+🔗 [View original post](https://x.com/Mindsthatbuild/status/2098690614875263210)
+
+---
+
+### 🕐 08:30 UTC · @Wise1Philosophy
+
+> I started taking vitamin D at breakfast, collagen at midday, and zinc in the evening. Without exaggerating, my personality changed 180 degrees. 1. Vitamin D. At breakfast. You should take it too.
+
+🔗 [View original post](https://x.com/Rose_MaryIRL/status/2098690581228892272)
+
+---
+
+### 🕐 08:03 UTC · @Wise1Philosophy
+
+> Your body is flooded with cortisol and you do not even notice it. These are the 9 signs that give it away: 1. Waking between 2 and 4am Media
+
+🔗 [View original post](https://x.com/RafaelNasriX/status/2098683796841455998)
+
+---
+
+### 🕐 08:01 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/12/2098683312277520747-1.jpg)
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2098683312277520747)
 
 ---
 
