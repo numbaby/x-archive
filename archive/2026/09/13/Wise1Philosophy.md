@@ -2,7 +2,154 @@
 
 ## 📅 September 13, 2026
 
-> 32 post(s) archived.
+> 51 post(s) archived.
+
+---
+
+### 🕐 12:42 UTC · @Wise1Philosophy
+
+> All Paid Courses (Free for First 4500 People) 𝗣𝗮𝗶𝗱 𝗖𝗼𝘂𝗿𝘀𝗲 𝗙𝗥𝗘𝗘 (PART - 1) 1. Artificial Intelligence 2. Machine Learning 3. Prompt Engineering 4. Claude,Chatgpt,Grok 5. Data Analytics 6. AWS Certified 7. Data Science 8. BIG DATA 9. Python 10. Ethical Hacking (72 Hours only ) Like + RT + comment &apos; Drive &apos; Must Follow me so I can DM you.
+
+![All Paid Courses (Free for First 4500 People) 𝗣𝗮𝗶𝗱 𝗖𝗼𝘂𝗿𝘀𝗲 𝗙𝗥𝗘𝗘 (PART - 1) 1. Artificial Intelligence 2. Machine Learning 3. Prompt Engineering 4. Claude,Chatgpt,Grok 5. Data Analytics 6. AWS Certified](../../../../assets/images/2026/09/06/2096581599894860173-1.png)
+
+🔗 [View original post](https://x.com/heyalexmoore/status/2099116560308961305)
+
+---
+
+### 🕐 12:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/13/2099113475880386637-1.jpg)
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2099113475880386637)
+
+---
+
+### 🕐 12:21 UTC · @Wise1Philosophy
+
+> Cortisol = Jaw clenching Cortisol = Waking up at 3 AM Cortisol = Belly fat that won&apos;t budge Cortisol = Bloated face Cortisol = No libido One hormone. Every symptom. Simple fix: 1. Ashwagandha in the morning.
+
+🔗 [View original post](https://x.com/Fitby_Chandler/status/2099111237280051592)
+
+---
+
+### 🕐 12:12 UTC · @Wise1Philosophy
+
+> 7 years in the gym taught me that: Gut Health Changes Everything. If you want to fix your gut health, here&apos;s every tip I could come up with: 1. Stop drinking alcohol.
+
+![7 years in the gym taught me that: Gut Health Changes Everything. If you want to fix your gut health, here&apos;s every tip I could come up with: 1. Stop drinking alcohol.](../../../../assets/images/2026/09/13/2099108852067455417-1.png)
+
+🔗 [View original post](https://x.com/LevelUpPrime/status/2099108852067455417)
+
+---
+
+### 🕐 12:09 UTC · @Wise1Philosophy
+
+> This Harvard professor just proved 6 hours of sleep &quot;triggers&quot; your body toward heart disease and even cancer in 1 week. He revealed 7 daily habits that destroy your sleep, mood, and brain: 1) Checking your phone right after waking up Media
+
+🔗 [View original post](https://x.com/NutritionCorp/status/2099108202977923236)
+
+---
+
+### 🕐 12:07 UTC · @Wise1Philosophy
+
+> A heart surgeon told me something that scared me: “There are only 3 types of people who don&apos;t get heart attacks.” 1. Don&apos;t go to the toilet at 3 AM
+
+🔗 [View original post](https://x.com/DPro_Coach/status/2099107658934714378)
+
+---
+
+### 🕐 12:05 UTC · @Wise1Philosophy
+
+> A Radiologist said : &quot;If I have cancer, I will not consider a hospital. I’ve seen too many people die from chemo, not from cancer.&quot; 1. I’ll fast for 30 days and I’ll stop working. Media
+
+🔗 [View original post](https://x.com/_Gut_Laboratory/status/2099107134898385340)
+
+---
+
+### 🕐 12:02 UTC · @Wise1Philosophy
+
+> Heart disease doesn&apos;t start with age. It starts with inflammation, insulin resistance, and low nitric oxide. Here are 7 science-proven tips to keep your heart young: 1. Don&apos;t go pee at 3 AM Media
+
+🔗 [View original post](https://x.com/TheFastedState/status/2099106561994248296)
+
+---
+
+### 🕐 12:00 UTC · @Wise1Philosophy
+
+> Your body has emergency switches built into it. Most people have never been shown where they are. Here&apos;s how you can reset in under a minute: 1. Lying awake in bed = Blink slowly for 60 seconds.
+
+🔗 [View original post](https://x.com/mind_and_beauty/status/2099105839797936537)
+
+---
+
+### 🕐 11:53 UTC · @Wise1Philosophy
+
+> 10 GitHub Repos Builders Are Starring Right Now (and What They Do) 1) EvoMap (EvoX) It remembers you across terminal, browser, and IDE, then turns wins into reusable Genes and Capsules. https://evomap.ai/evox/beta?utm_source=10454321&amp;utm_campaign=kol&amp;utm_content=muhammad_ayan 2) spec-kit — 136k+ GitHub’s toolkit for spec-driven development with coding agents. https://github.com/github/spec-kit 3) ui-ux-pro-max-skill — 127k+ Agent skill that forces real design systems, not generic AI UI. https://github.com/nextlevelbuilder/ui-ux-pro-max-skill 4) awesome-mcp-servers — 94.9k+ The map of MCP servers worth plugging into your agent stack. https://github.com/punkpeye/awesome-mcp-servers 5) Cline — 67.9k+ Autonomous coding agent as SDK, IDE extension, or CLI. https://github.com/cline/cline 6) mem0 — 65.2k+ Drop-in memory layer so agents remember across sessions. https://github.com/mem0ai/mem0 7) minimind — 60.9k+ Train a 64M LLM from scratch in about 2 hours. https://github.com/jingyaogong/minimind 8) archify — 60.2k+ Agent skill that turns a repo into verifiable architecture diagrams. https://github.com/tt-a1i/archify 9) goose — 54.2k+ Block’s open source agent that goes past autocomplete. https://github.com/block/goose 10) exo — 47.4k+ Run frontier models locally across the devices you already own. https://github.com/exo-explore/exo Which one is already in your stack? Every agent I tested this month quit somewhere. EvoMap&apos;s EvoX Agent is the only one that didn&apos;t, and it&apos;s not even out of Beta. Here&apos;s the ranking👇
+
+![10 GitHub Repos Builders Are Starring Right Now (and What They Do) 1) EvoMap (EvoX) It remembers you across terminal, browser, and IDE, then turns wins into reusable Genes and Capsules. https://evomap](../../../../assets/images/2026/09/13/2099104073517781052-1.jpg)
+
+🔗 [View original post](https://x.com/socialwithaayan/status/2099104073517781052)
+
+---
+
+### 🕐 11:30 UTC · @Wise1Philosophy
+
+> Hello, how do I get all this cortisol out of my body. Asking for every professional over 40 with a puffy face, a belly that won&apos;t move, and a 3am wake-up schedule they didn&apos;t sign up for. 1. You do not flush it out
+
+🔗 [View original post](https://x.com/HeyKimChong/status/2099098269632823700)
+
+---
+
+### 🕐 11:15 UTC · @Wise1Philosophy
+
+> YouTube is free education. Sadly, 97% of people don&apos;t know the best channels. Here are 10 YouTube channels that will level up your learning:
+
+![YouTube is free education. Sadly, 97% of people don&apos;t know the best channels. Here are 10 YouTube channels that will level up your learning:](../../../../assets/images/2026/09/13/2099094496378253321-1.jpg)
+
+🔗 [View original post](https://x.com/AndrewBolis/status/2099094496378253321)
+
+---
+
+### 🕐 11:08 UTC · @Wise1Philosophy
+
+> don&apos;t just star all 10. clone one and build something with it this weekend. 10 GITHUB REPOS THAT FEEL ALMOST ILLEGAL TO BE FREE 1. Archify ↳ https://github.com/tt-a1i/archify 2. OpenMAIC ↳ https://github.com/THU-MAIC/OpenMAIC 3. DeepSeek Harness ↳ https://github.com/deepseek-ai/deepseek-harness 4. Ponytail ↳ https://github.com/DietrichGebert/ponytail 5. …
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2099092874688184633)
+
+---
+
+### 🕐 11:01 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/13/2099091051357020323-1.jpg)
+
+🔗 [View original post](https://x.com/apex_mentality_/status/2099091051357020323)
+
+---
+
+### 🕐 11:00 UTC · @Wise1Philosophy
+
+> Dario Amodei breaks his silence on Jacob Coxon’s post: “I agree with Jacob much more than I disagree with him.” “When he left, he said, ‘I think Anthropic is the most responsible player. I think Anthropic is the most aware of these issues.’” “He wasn’t calling out us. He was calling out the dynamic of the industry as a whole moving too fast.” Media I resigned from Anthropic today. I spent the last three years doing pretraining research at both OpenAI and Anthropic. Neither company is acting responsibly. They are racing straight to self-improving superintelligence and gambling with our lives. More thoughts below.
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2099090873527218298)
+
+---
+
+### 🕐 11:00 UTC · @Wise1Philosophy
+
+> Losing fat in your hips, face, and belly is extremely easy once you realize this: 1. Walk before you eat
+
+🔗 [View original post](https://x.com/JasperKasparov/status/2099090740605558785)
+
+---
+
+### 🕐 10:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/13/2099083250631160061-1.jpg)
+
+🔗 [View original post](https://x.com/yeti_mind/status/2099083250631160061)
 
 ---
 
@@ -13,6 +160,14 @@
 ![I started taking vitamin D at breakfast, zinc in the morning, and ashwagandha with dinner. My life changed 180 degrees. 1. Vitamin D, at breakfast](../../../../assets/images/2026/09/13/2099083177390453048-1.jpg)
 
 🔗 [View original post](https://x.com/HeyEleanorr/status/2099083177390453048)
+
+---
+
+### 🕐 10:25 UTC · @Wise1Philosophy
+
+> https://x.com/i/article/2099077155594612737
+
+🔗 [View original post](https://x.com/charliejhills/status/2099082012573552901)
 
 ---
 
@@ -45,6 +200,15 @@
 > Dr. Rhonda Patrick named 6 things aging your brain that you think are protecting it: 1. Chewing gum. Media
 
 🔗 [View original post](https://x.com/ClaraBrooksjz/status/2099074889818988792)
+
+---
+
+### 🕐 09:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/13/2099068137245151711-1.jpg)
+
+🔗 [View original post](https://x.com/Ant_Philosophy/status/2099068137245151711)
 
 ---
 
