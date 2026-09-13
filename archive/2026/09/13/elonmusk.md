@@ -2,7 +2,41 @@
 
 ## 📅 September 13, 2026
 
-> 3 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 06:53 UTC · @elonmusk
+
+> Yes Elon Musk on how to make AI safer and actually pro-human: “Artificial intelligence will be smarter than the smartest human. At which point, any invention is possible” But there’s also a small chance AI could kill us all So what matters most is how we train it • Make AI as truthfu…
+
+🔗 [View original post](https://x.com/elonmusk/status/2099028557758706048)
+
+---
+
+### 🕐 06:50 UTC · @elonmusk
+
+> True First we achieve abundance in energy....and once that happens, abundance in almost everything else starts to follow
+
+🔗 [View original post](https://x.com/elonmusk/status/2099027918806790355)
+
+---
+
+### 🕐 06:46 UTC · @elonmusk
+
+> I think this is worth doing ELON MUSK: AI competitors should peer review each other’s models before release. “I would recommend that we at least have some sort of informal weekly or biweekly call and that there’s maybe a week or two weeks of early access by competitors. This is why I think the incentives wo…
+
+🔗 [View original post](https://x.com/elonmusk/status/2099026931006181867)
+
+---
+
+### 🕐 06:14 UTC · @elonmusk
+
+> First we achieve abundance in energy....and once that happens, abundance in almost everything else starts to follow
+
+![First we achieve abundance in energy....and once that happens, abundance in almost everything else starts to follow](../../../../assets/images/2026/09/13/2099018760128487608-1.jpg)
+
+🔗 [View original post](https://x.com/XFreeze/status/2099018760128487608)
 
 ---
 
@@ -11,6 +45,16 @@
 > Banger Can&apos;t believe people keep doing the meme
 
 🔗 [View original post](https://x.com/elonmusk/status/2098994567810830823)
+
+---
+
+### 🕐 04:00 UTC · @elonmusk
+
+> Elon Musk with his first Tesla Roadster, in 2008.
+
+![Elon Musk with his first Tesla Roadster, in 2008.](../../../../assets/images/2026/09/13/2098985200298692687-1.jpg)
+
+🔗 [View original post](https://x.com/cb_doge/status/2098985200298692687)
 
 ---
 
