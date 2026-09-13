@@ -2,7 +2,120 @@
 
 ## 📅 September 13, 2026
 
-> 51 post(s) archived.
+> 65 post(s) archived.
+
+---
+
+### 🕐 14:36 UTC · @Wise1Philosophy
+
+> I started taking vitamin D at breakfast, ashwagandha in the late afternoon, and magnesium before bed. Without exaggerating, my personality changed 180 degrees. 1. Vitamin D, at breakfast
+
+🔗 [View original post](https://x.com/HiVioletMM/status/2099145073753800829)
+
+---
+
+### 🕐 14:30 UTC · @Wise1Philosophy
+
+> TAKING MAGNESIUM CORRECTLY WILL CHANGE YOUR LIFE. HERE&apos;S WHY:
+
+🔗 [View original post](https://x.com/Sophiaz6xo/status/2099143567474335786)
+
+---
+
+### 🕐 14:20 UTC · @Wise1Philosophy
+
+> A heart doctor told me there are 3 kinds of people who never get heart attacks. 1. Don&apos;t get up to pee at 3 AM Media
+
+🔗 [View original post](https://x.com/IranaJasmin/status/2099141065643340058)
+
+---
+
+### 🕐 14:04 UTC · @Wise1Philosophy
+
+> MIT has released a blunt account of what generative AI is doing to its students. Honestly this reads less like a white paper and more like an urgent warning for higher education. For five months, a committee of faculty and students tracked how learning on campus is changing. The findings are stark. Study groups are shrinking, office hours are getting quieter, and the traditional proof points of learning, such as problem sets, take home exams, and polished written work, are losing their value as evidence. When a chatbot can produce a plausible solution to nearly anything in the undergraduate curriculum, credibility no longer reliably signals understanding. And when students reach for AI at the first sign of difficulty, the report argues, they are not just outsourcing effort. They are giving up core parts of thinking itself. The numbers reinforce the concern. Forty six percent of surveyed MIT undergraduates say they use large language models every day. Nine in ten report feeling uneasy about their dependence. More undergraduates now say AI makes them feel replaceable than say it makes them feel more capable. Equally notable is what MIT does not recommend. There is no call for a crackdown and no push for an arms race in surveillance. The report describes AI detectors as unreliable, characterizes lockdown browsers as invasive, and warns that heavy policing turns classrooms into adversarial spaces where suspicion replaces trust. Instead, MIT proposes rebuilding education around what cannot be reduced to a prompt. More oral exams. Portfolios that show process over time. In person projects that demand real coordination. Social requirements embedded across subjects so learning cannot be completed in isolation. The report even raises a more radical possibility: rethinking grading itself, since removing the incentive to game a GPA may reduce the impulse to optimize coursework through AI. The committee also sets an expectation for faculty. Do not replace undergraduate research assistants with cheaper AI agents simply because it is possible. A university’s purpose is to develop people, not to maximize output. One of the world’s most celebrated tech institutions is acknowledging that machines have broken its old teaching model, and the solution it is betting on is more human contact, not more software.
+
+![MIT has released a blunt account of what generative AI is doing to its students. Honestly this reads less like a white paper and more like an urgent warning for higher education. For five months, a co](../../../../assets/images/2026/09/13/2099137034548051971-1.jpg)
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2099137034548051971)
+
+---
+
+### 🕐 14:00 UTC · @Wise1Philosophy
+
+> A sports physician shocked me when he said: &quot;You age because your body stops making creatine. Without it, your strength goes, your memory slips, and recovery takes days.&quot; Here&apos;s the 5-step protocol to rebuild it naturally: 1. Stop trying to keep muscle with cardio
+
+🔗 [View original post](https://x.com/RasmusNorbergg/status/2099136021325926562)
+
+---
+
+### 🕐 13:52 UTC · @Wise1Philosophy
+
+> Not trying to insult anyone here but... B2C SaaS operators on X are struggling to keep up with how marketing is changing. Let’s start with how people are finding software now. Your customers are increasingly starting with questions like: “What’s the best budgeting app if I don’t want to track everything manually?” “What’s the best app for learning Spanish if I only have 15 minutes a day?” “Is there a cheaper alternative to Dropbox for storing all my photos?” Those questions are being answered across Google AI Overviews, ChatGPT, Perplexity, Gemini, Bing and traditional search. That is something SEO Stuff started building around early: https://seo-stuff.com And if you want to see whether your site is already showing up across Google and AI search, check here. It’s free: https://seo-stuff.com/free-audit The first step is targeting the way customers actually describe their problems. Good sources include keyword data, Reddit discussions, app reviews, support forums and anywhere customers explain what they are trying to accomplish in their own words. Look for specific, commercially relevant searches with manageable competition, then build around the actual problem instead of broad category keywords. Next, every meaningful feature and use case should have a strong landing page. If your software helps fitness coaches schedule clients, tutors collect payments and creators manage invoices, those use cases should not be buried inside one generic features page. Each important page should clearly explain the outcome, who it is for, how the feature works, what proof supports it and where the customer should go next. Then own the comparison layer. If customers are searching “[Your Tool] vs [Competitor]” or “best alternatives to [Competitor],” you want your site participating in that decision. Strong comparison pages should include a clear verdict, pricing and feature differences, screenshots, customer proof, FAQs and a direct explanation of who each option is best for. Those are extremely high-intent searches because the buyer is already evaluating software. Video helps too. Create short demos, workflow walkthroughs, customer stories and direct comparisons, then publish them on YouTube with clear titles and transcripts. That gives customers another way to discover the product while also creating more indexable information around what the software does and who it serves. Content still matters, but it needs to be useful and easy to extract. Good topics include category explainers, workflow guides, templates, common mistakes, comparisons and timely planning content. A piece like “2026 planning framework for freelancers” is much more useful when it naturally connects back to the product&apos;s relevant feature, pricing page or use case. The goal is covering the questions customers ask before they sign up. Retention content matters too. Create onboarding hubs, “how to do X with [Your Tool]” walkthroughs, templates, workflows and useful customer education. That improves the product experience while creating more branded searches, repeat visits and clear information about how people actually use the software. Then retarget the people showing real buying intent. Someone who visits pricing, reads a comparison page or starts signup and leaves is very different from someone who bounced from a broad informational article. Use customer stories, “why I switched” videos, testimonials and concrete outcomes to bring those users back. Run the system consistently and you start building visibility around the questions people actually ask instead of the keywords you hope they type. You also give Google, ChatGPT, Gemini, Perplexity and other systems far more information about what your product does, who it serves and why somebody might choose it. If you want the done-for-you version so you can stay focused on the product, check out SEO Stuff: https://seo-stuff.com And if you want to see where your SaaS already stands across Google, ChatGPT, Claude, Perplexity and broader AI search, start here: https://seo-stuff.com/free-audit Google has revealed the best way to show up in AI Search. Yes, they finally explicitly addressed how businesses and brands should be getting traffic. This comes straight from Google’s Brendon Kraham. Google just published a new piece called “Good SEO is good GEO.” Let’s go throug…
+
+![Not trying to insult anyone here but... B2C SaaS operators on X are struggling to keep up with how marketing is changing. Let’s start with how people are finding software now. Your customers are incre](../../../../assets/images/2026/09/13/2099134176049963019-1.jpg)
+
+🔗 [View original post](https://x.com/alexgroberman/status/2099134176049963019)
+
+---
+
+### 🕐 13:35 UTC · @Wise1Philosophy
+
+> me paying for 5 tools that do the same thing: 🧍 this list would&apos;ve saved me actual money. bookmarking so future me stops signing up for tools I already have a version of. Beginner vs Expert Level AI Tools 1. Presentations: Gemini vs Gamma Gemini - generates slides straight from your Google Workspace files - references existing docs and keeps your presentation theme - refines everything inside Google Slides - best for team updates, proposals, inter…
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2099129887525163381)
+
+---
+
+### 🕐 13:32 UTC · @Wise1Philosophy
+
+> 13 FACTS TO MAKE YOU AN ABSOLUTE MENACE.. Must read 👇
+
+![13 FACTS TO MAKE YOU AN ABSOLUTE MENACE.. Must read 👇](../../../../assets/images/2026/09/13/2099129141245419803-1.jpg)
+
+🔗 [View original post](https://x.com/MindPatternHQ/status/2099129141245419803)
+
+---
+
+### 🕐 13:30 UTC · @Wise1Philosophy
+
+> Every January I put on 6kg, stopped training by the third week, and went Monday to Friday without seeing daylight. I needed to reach March with none of that happening. I achieved it with these 18 rules: 1. GO OUTSIDE BEFORE 9AM (grey counts).
+
+![Every January I put on 6kg, stopped training by the third week, and went Monday to Friday without seeing daylight. I needed to reach March with none of that happening. I achieved it with these 18 rule](../../../../assets/images/2026/09/13/2099128479342338275-1.png)
+
+🔗 [View original post](https://x.com/thisispeak007/status/2099128479342338275)
+
+---
+
+### 🕐 13:05 UTC · @Wise1Philosophy
+
+> 🚨BREAKING NEWS: AI is building Instagram Pages from scratch and creators are hitting monetisation in as little as 90 days. When I started doing this, it genuinely changed my life. Whether you&apos;re stuck in a 9-5 or already running a business and want another stream of income, this is one of the simplest ways to build a real asset and generate income. It doesn&apos;t require experience, just consistency and the earlier you start the faster you see results. Drop &quot;READY&quot; below and I&apos;ll show you exactly how. Media
+
+🔗 [View original post](https://x.com/amelieannepl/status/2099122288700408085)
+
+---
+
+### 🕐 13:01 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/13/2099121407309262954-1.jpg)
+
+🔗 [View original post](https://x.com/Life__Mastery/status/2099121407309262954)
+
+---
+
+### 🕐 12:58 UTC · @Wise1Philosophy
+
+> BREAKING: Sam Altman says OpenAI won’t pursue an IPO this year, citing “safety concerns.” “With all the safety issues in motion, this isn’t the right time to be a public company.” Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2099120444117053580)
+
+---
+
+### 🕐 12:54 UTC · @Wise1Philosophy
+
+> Your body will forgive you for: -Skipping your vitamins for a day -Eating takeout when you&apos;re too tired to cook -Drinking one too many coffees on a Monday -Going to bed later than you planned Your body will NOT forgive you for:
+
+🔗 [View original post](https://x.com/HeyDoc_MD/status/2099119505444368405)
 
 ---
 
@@ -13,6 +126,14 @@
 ![All Paid Courses (Free for First 4500 People) 𝗣𝗮𝗶𝗱 𝗖𝗼𝘂𝗿𝘀𝗲 𝗙𝗥𝗘𝗘 (PART - 1) 1. Artificial Intelligence 2. Machine Learning 3. Prompt Engineering 4. Claude,Chatgpt,Grok 5. Data Analytics 6. AWS Certified](../../../../assets/images/2026/09/06/2096581599894860173-1.png)
 
 🔗 [View original post](https://x.com/heyalexmoore/status/2099116560308961305)
+
+---
+
+### 🕐 12:41 UTC · @Wise1Philosophy
+
+> A Biology professor told me: “Taking magnesium correctly will make your testosterone go through the roof. But 99% are taking it wrong.” 1. Your hormones can’t function without it.
+
+🔗 [View original post](https://x.com/LongevityCode_/status/2099116246176501953)
 
 ---
 
