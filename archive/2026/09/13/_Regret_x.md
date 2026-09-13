@@ -2,7 +2,24 @@
 
 ## 📅 September 13, 2026
 
-> 1 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 04:43 UTC · @_Regret_x
+
+> The obsession pays off. Man to man.
+
+🔗 [View original post](https://x.com/_Regret_x/status/2098996008617418982)
+
+---
+
+### 🕐 02:50 UTC · @_Regret_x
+
+
+![](../../../../assets/images/2026/09/12/2098654883088138663-1.jpg)
+
+🔗 [View original post](https://x.com/_Regret_x/status/2098967545026142213)
 
 ---
 

@@ -2,7 +2,23 @@
 
 ## 📅 September 13, 2026
 
-> 2 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 05:09 UTC · @tunguz
+
+> Yes Living simply is linked to greater happiness and purpose. You need people, not products.
+
+🔗 [View original post](https://x.com/tunguz/status/2099002437856293243)
+
+---
+
+### 🕐 05:04 UTC · @tunguz
+
+> Another problem due to global warming. History has been made! ✏️ 📖 No hurricanes have formed in the North Atlantic Ocean so far this year. This is the FIRST time on record in the satellite era (since 1966) that we have made it to September 12th without at least one Atlantic hurricane yet in the calendar year. This is…
+
+🔗 [View original post](https://x.com/tunguz/status/2099001359312080973)
 
 ---
 
