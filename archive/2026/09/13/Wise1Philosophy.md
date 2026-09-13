@@ -2,7 +2,85 @@
 
 ## 📅 September 13, 2026
 
-> 17 post(s) archived.
+> 27 post(s) archived.
+
+---
+
+### 🕐 09:00 UTC · @Wise1Philosophy
+
+> If you bloat after meals, it&apos;s your gut. If you keep breaking out, it&apos;s your gut. If your hormones feel off, that&apos;s your gut too. Here&apos;s how to fix all three at once: 1. Stop grazing Media
+
+🔗 [View original post](https://x.com/TinaaDeJong/status/2099060553985777922)
+
+---
+
+### 🕐 08:57 UTC · @Wise1Philosophy
+
+> Apple sold 100 million AirPods last year. The AirPods Pro 5 has 50% better noise cancellation than last generation and most owners will never notice. A former Apple audio engineer told me: &quot;Your AirPods Pro 5 can cancel more noise than any earbuds on the market. But you&apos;re using the default Adaptive mode, which dials ANC back to save battery. You paid for the best noise cancellation Apple has ever shipped. You&apos;re getting 60% of it.&quot; Here are the 9 AirPods Pro 5 settings that unlock the full ANC 🧵
+
+🔗 [View original post](https://x.com/Alvin1492840/status/2099059857072758883)
+
+---
+
+### 🕐 08:50 UTC · @Wise1Philosophy
+
+> Stanford University charges $65,127 per year in tuition. A 4-year degree costs roughly $260,000 before room, board, and fees. The acceptance rate is 3.6%. For every 100 students who apply, 96 are told no. Stanford has also published for free, online, accessible to anyone on Earth with an internet connection over 2,100 courses, the complete AI curriculum its graduate students use, hundreds of full lecture series on YouTube, one of the most comprehensive philosophy references ever written, a design thinking toolkit used by Google and Nike, medical school health courses, business strategy lectures from Stanford GSB, entrepreneurship resources from the university that produced Google, Netflix, Instagram, LinkedIn, and PayPal and research papers that have shaped entire industries. A Stanford professor told a friend: &quot;Most people think Stanford&apos;s knowledge is locked behind a $65,000/year gate. It&apos;s not. The gate is the degree the credential, the campus, the network, the diploma. The knowledge has been free for over a decade published on YouTube, Coursera, edX, and Stanford&apos;s own website. The same lectures I give to students who paid $65,000 are sitting on a YouTube channel with 4 million subscribers. Most people have never searched for them because they assumed a university this expensive would never give anything away.&quot; She said: &quot;Why would Stanford give it away?&quot; &quot;Because the degree is the product not the knowledge. The knowledge is the marketing. A free Stanford course that changes your life is the best advertisement for a $260,000 degree. And the research the papers, the encyclopedias, the toolkits exists to advance human knowledge, not to generate tuition revenue. Stanford publishes freely because the mission has always been public. The price tag is for the credential. The education has been free since the moment they uploaded the first lecture.&quot; He showed her 11 free Stanford resources most people don&apos;t know exist resources that replaced $3,000 in textbooks, $10,000 in professional workshops, and $100,000 in degree programs. &quot;Stanford&apos;s reputation is behind a gate. Stanford&apos;s knowledge is not.&quot; Here are the 11 resources 🧵
+
+🔗 [View original post](https://x.com/jackcoder0/status/2099058136007262326)
+
+---
+
+### 🕐 08:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/13/2099053052485325062-1.jpg)
+
+🔗 [View original post](https://x.com/Mindsthatbuild/status/2099053052485325062)
+
+---
+
+### 🕐 08:30 UTC · @Wise1Philosophy
+
+> The tension in your jaw, your shoulders and your evenings is extremely easy to release once you realize this:
+
+![The tension in your jaw, your shoulders and your evenings is extremely easy to release once you realize this:](../../../../assets/images/2026/09/13/2099052979026636943-1.jpg)
+
+🔗 [View original post](https://x.com/Rose_MaryIRL/status/2099052979026636943)
+
+---
+
+### 🕐 08:02 UTC · @Wise1Philosophy
+
+> 4 supplements I&apos;m getting my father to take, six months after his scare: 1. Vitamin D3 with K2. You should take it, your friends should take it, your parents should take it. One softgel with a meal, never D3 alone. Media
+
+🔗 [View original post](https://x.com/RafaelNasriX/status/2099045986706600101)
+
+---
+
+### 🕐 08:01 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/13/2099045682791211284-1.jpg)
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2099045682791211284)
+
+---
+
+### 🕐 07:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/13/2099037893830312037-1.jpg)
+
+🔗 [View original post](https://x.com/Daily__wisdom_/status/2099037893830312037)
+
+---
+
+### 🕐 07:00 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/13/2099030536295522678-1.jpg)
+
+🔗 [View original post](https://x.com/apex_mentality_/status/2099030536295522678)
 
 ---
 
@@ -19,6 +97,15 @@
 > Fatty liver = fructose Fatty liver = insulin resistance Fatty liver = 1 in 3 adults, and almost none of them know 1. Coffee, and not for the reason you think
 
 🔗 [View original post](https://x.com/CoachLucHerrera/status/2099023522148540756)
+
+---
+
+### 🕐 06:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/13/2099022791378882982-1.jpg)
+
+🔗 [View original post](https://x.com/yeti_mind/status/2099022791378882982)
 
 ---
 

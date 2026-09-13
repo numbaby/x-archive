@@ -2,7 +2,15 @@
 
 ## 📅 September 13, 2026
 
-> 7 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 08:13 UTC · @Unlockyourlife_
+
+> Take your faith seriously. You don&apos;t have to have everything figured out before you turn to God. • Bring your worries. • Your mistakes. • Your plans. • Your fears. • Your gratitude. Sometimes a man needs to stop trying to control everything and remember that he isn&apos;t in control of everything.
+
+🔗 [View original post](https://x.com/Masculinjournal/status/2099048805874200621)
 
 ---
 

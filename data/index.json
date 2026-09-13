@@ -91435,6 +91435,13 @@
       }
     ]
   },
+  "2098979236539449615": {
+    "account": "elonmusk",
+    "date": "2026-09-13",
+    "file": "data/posts/2026/09/2026-09-13.jsonl",
+    "fingerprint": "55bb73072ceb84c8e18d0cb9e9b69cae3c07d1c00a3b228b208f038b764cfa7f",
+    "media": []
+  },
   "2098982928068075819": {
     "account": "alone_boy_010",
     "date": "2026-09-13",
@@ -91897,6 +91904,19 @@
       }
     ]
   },
+  "2099001123206312290": {
+    "account": "alone_boy_010",
+    "date": "2026-09-13",
+    "file": "data/posts/2026/09/2026-09-13.jsonl",
+    "fingerprint": "e0e7a7097fe65ca69e5ce8a696257fc343522f12a51d0c9c362b671514c7a3f8",
+    "media": [
+      {
+        "local_path": "assets/images/2026/09/13/2099001123206312290-1.jpg",
+        "sha256": "262911e242f73ba55a53d09e85567a1f5656683db47b8f9bc9964da65dcd50cc",
+        "source_url": "https://pbs.twimg.com/media/HSEmZRgagAItHCD.jpg?name=orig"
+      }
+    ]
+  },
   "2099001359312080973": {
     "account": "tunguz",
     "date": "2026-09-13",
@@ -92028,6 +92048,19 @@
       }
     ]
   },
+  "2099014905114530272": {
+    "account": "_Regret_x",
+    "date": "2026-09-13",
+    "file": "data/posts/2026/09/2026-09-13.jsonl",
+    "fingerprint": "72961753ee9b0d71454a463c17ff66b1a992f048715dccf80decef47a8f9d039",
+    "media": [
+      {
+        "local_path": "assets/images/2026/09/13/2099014905114530272-1.jpg",
+        "sha256": "ae89799ecdb06aa344f69b1bef87be41531d0381c9a49756d3fae9976cf4fe78",
+        "source_url": "https://pbs.twimg.com/media/HSEy7S9aMAAllza.jpg?name=orig"
+      }
+    ]
+  },
   "2099015079358312833": {
     "account": "Alphafiles1",
     "date": "2026-09-13",
@@ -92113,6 +92146,19 @@
       }
     ]
   },
+  "2099017268391039348": {
+    "account": "Fiction_1m",
+    "date": "2026-09-13",
+    "file": "data/posts/2026/09/2026-09-13.jsonl",
+    "fingerprint": "afa2ba144bac880f48207fd3e255087ce52b5fe1c85323a929721387944378c9",
+    "media": [
+      {
+        "local_path": "assets/images/2026/09/13/2099017268391039348-1.jpg",
+        "sha256": "179e0628d119211e11305a583fd1f016b79c3e7901327b1d3aa6557b79b6740e",
+        "source_url": "https://pbs.twimg.com/media/HSE1Eqea8AA83jz.jpg?name=orig"
+      }
+    ]
+  },
   "2099018004122005527": {
     "account": "Turbo_clips",
     "date": "2026-09-13",
@@ -92123,6 +92169,19 @@
         "local_path": "assets/images/2026/09/13/2099018004122005527-1.jpg",
         "sha256": "b58d1d194ebd2bc8d401ba37f45b9c920e63710a95a3a1a58b0bdbc43f5c0346",
         "source_url": "https://pbs.twimg.com/media/HSE1vmoaAAAyHtI.jpg?name=orig"
+      }
+    ]
+  },
+  "2099018644361798098": {
+    "account": "alone_boy_010",
+    "date": "2026-09-13",
+    "file": "data/posts/2026/09/2026-09-13.jsonl",
+    "fingerprint": "3fb319dda22fd42d60f44fbe9edd206b444071a2343ebb5ee8a4eb7365821f48",
+    "media": [
+      {
+        "local_path": "assets/images/2026/08/30/2093957773830889975-1.jpg",
+        "sha256": "fab874eea0a2372b821404f0e3e1075a39eec3aad036d9a1c43a5e781f8efcf5",
+        "source_url": "https://pbs.twimg.com/media/HSE2VJHaAAAIAOl.jpg?name=orig"
       }
     ]
   },
@@ -92178,6 +92237,19 @@
       }
     ]
   },
+  "2099022791378882982": {
+    "account": "Wise1Philosophy",
+    "date": "2026-09-13",
+    "file": "data/posts/2026/09/2026-09-13.jsonl",
+    "fingerprint": "3a8427008d2cfa41745229295a69f871fb3ac7c908b2efc903a262cbc5b96fc2",
+    "media": [
+      {
+        "local_path": "assets/images/2026/09/13/2099022791378882982-1.jpg",
+        "sha256": "79ebddf257cfe7af9cb6efa0d7d6d1dc92eece90d69bf74428600c407f4768c3",
+        "source_url": "https://pbs.twimg.com/media/HSE6GwfXMAImLfY.jpg?name=orig"
+      }
+    ]
+  },
   "2099022813705199705": {
     "account": "Unlockyourlife_",
     "date": "2026-09-13",
@@ -92219,6 +92291,19 @@
     "fingerprint": "1c2ad7f1fc9de38be22aa50f1ffb853a2562b0d32cb3a548e73b79da74e87644",
     "media": []
   },
+  "2099028383770542459": {
+    "account": "alone_boy_010",
+    "date": "2026-09-13",
+    "file": "data/posts/2026/09/2026-09-13.jsonl",
+    "fingerprint": "cbb7b0250a2ff4d678f1c9391ffd0f28c35586e3991f1ddf553f8147cce67b89",
+    "media": [
+      {
+        "local_path": "assets/images/2026/09/13/2099028383770542459-1.jpg",
+        "sha256": "c1d80c430a652cd9d2a8bc6b5a6fc6edef8ee1814cc6374d19044f5e0b974e84",
+        "source_url": "https://pbs.twimg.com/media/HSE_L_dbQAAKWD7.jpg?name=orig"
+      }
+    ]
+  },
   "2099028557758706048": {
     "account": "elonmusk",
     "date": "2026-09-13",
@@ -92232,6 +92317,45 @@
     "file": "data/posts/2026/09/2026-09-13.jsonl",
     "fingerprint": "92210ece3aa2ce23045ed66001014e8380c765da2fce255c297062c8dacd8e3b",
     "media": []
+  },
+  "2099030224143016134": {
+    "account": "alone_boy_010",
+    "date": "2026-09-13",
+    "file": "data/posts/2026/09/2026-09-13.jsonl",
+    "fingerprint": "71b7e5c4b670a7ea378b331bb393f82264e342a44b78a55e2af87364532c8211",
+    "media": [
+      {
+        "local_path": "assets/images/2026/09/13/2099030224143016134-1.jpg",
+        "sha256": "f552aa8c54910489eb43d215092ad3023f91c5776796b52c428bd662b80c435d",
+        "source_url": "https://pbs.twimg.com/media/HSFA2ija0AAGNyi.jpg?name=orig"
+      }
+    ]
+  },
+  "2099030268896239781": {
+    "account": "Turbo_clips",
+    "date": "2026-09-13",
+    "file": "data/posts/2026/09/2026-09-13.jsonl",
+    "fingerprint": "83c0af74d14caf2e426a80d84aba4df84809f331d45dc0ebcdb44bb647c60411",
+    "media": [
+      {
+        "local_path": "assets/images/2026/09/13/2099030268896239781-1.jpg",
+        "sha256": "d9699dee3cc940637ddee05808d2844530d931c7dbe5830c6bccd3ea5ea44450",
+        "source_url": "https://pbs.twimg.com/media/HSFA5uLaIAA-RkL.jpg?name=orig"
+      }
+    ]
+  },
+  "2099030536295522678": {
+    "account": "Wise1Philosophy",
+    "date": "2026-09-13",
+    "file": "data/posts/2026/09/2026-09-13.jsonl",
+    "fingerprint": "b7d27385718f62b6ca51f42deeb46bde11692f7a010d5290e03273f45650e95a",
+    "media": [
+      {
+        "local_path": "assets/images/2026/09/13/2099030536295522678-1.jpg",
+        "sha256": "48269b667a6373505800bd1038a6cd9cfb72e683d8f707d22c33237f7a2abc57",
+        "source_url": "https://pbs.twimg.com/media/HSFBJiFWsAYcIjC.jpg?name=orig"
+      }
+    ]
   },
   "2099031156070965460": {
     "account": "Unlockyourlife_",
@@ -92305,6 +92429,13 @@
     "fingerprint": "956c54266f11ff45420d5398194bde4eb967f409304fe276e833b048d5b973bb",
     "media": []
   },
+  "2099032556033233067": {
+    "account": "elonmusk",
+    "date": "2026-09-13",
+    "file": "data/posts/2026/09/2026-09-13.jsonl",
+    "fingerprint": "bb1b881e6452c464732487bc885dedf3422389e6115d851e9d89f90abaae71df",
+    "media": []
+  },
   "2099033550322331739": {
     "account": "Alphafiles1",
     "date": "2026-09-13",
@@ -92341,6 +92472,250 @@
         "local_path": "assets/images/2026/09/13/2099034625465082042-1.jpg",
         "sha256": "436618a8764fbbd6590fed125ec8decc5ea482c0bdb6ccff4c4f6ba4fb939d17",
         "source_url": "https://pbs.twimg.com/media/HSFE2ooaEAARamJ.jpg?name=orig"
+      }
+    ]
+  },
+  "2099036903005921713": {
+    "account": "alone_boy_010",
+    "date": "2026-09-13",
+    "file": "data/posts/2026/09/2026-09-13.jsonl",
+    "fingerprint": "68dc35362a9891e03bf98b68fc2f3ca3ae8945df8c7b4834e65c1d2913d96e72",
+    "media": [
+      {
+        "local_path": "assets/images/2026/09/13/2099036903005921713-1.jpg",
+        "sha256": "617263ae68855ef550688915fe90fecf1f986107b66c87fe89ca442d13f0a7fe",
+        "source_url": "https://pbs.twimg.com/media/HSFG79Jb0AA2zJt.jpg?name=orig"
+      }
+    ]
+  },
+  "2099037893830312037": {
+    "account": "Wise1Philosophy",
+    "date": "2026-09-13",
+    "file": "data/posts/2026/09/2026-09-13.jsonl",
+    "fingerprint": "a57ebbfcb72d719e9df8db503c91c1f82a4fbb9cfb25662da77222b4f78162a0",
+    "media": [
+      {
+        "local_path": "assets/images/2026/09/13/2099037893830312037-1.jpg",
+        "sha256": "2d90c9c544678ea53e12095f6b252eea4bcc54572693407b0779f88853c0b1f5",
+        "source_url": "https://pbs.twimg.com/media/HSFH10RWYAgFMsY.jpg?name=orig"
+      }
+    ]
+  },
+  "2099038076886479324": {
+    "account": "Turbo_clips",
+    "date": "2026-09-13",
+    "file": "data/posts/2026/09/2026-09-13.jsonl",
+    "fingerprint": "1d402e15f6ced20dd82c6daf6214ae754c882bb347195c039d50d7c63325236b",
+    "media": [
+      {
+        "local_path": "assets/images/2026/09/13/2099038076886479324-1.jpg",
+        "sha256": "74c32f48fa748ead6a52bcb58fb84e9bf409b0be930304d22b42e572a4ea6bfb",
+        "source_url": "https://pbs.twimg.com/media/HSFIAFabUAACKd4.jpg?name=orig"
+      }
+    ]
+  },
+  "2099039744323985884": {
+    "account": "Fiction_1m",
+    "date": "2026-09-13",
+    "file": "data/posts/2026/09/2026-09-13.jsonl",
+    "fingerprint": "a05268a4d5e0e872096e503cc3a60a9ef2e47a2159e4911db23636d61e0be3f4",
+    "media": [
+      {
+        "local_path": "assets/images/2026/09/13/2099039744323985884-1.jpg",
+        "sha256": "964b605fe421d4cca84fdd57ae89d9693a8aa02d71825b162d142734d8c3dc58",
+        "source_url": "https://pbs.twimg.com/media/HSFJhVHbQAAicy1.jpg?name=orig"
+      }
+    ]
+  },
+  "2099039959361405220": {
+    "account": "_Regret_x",
+    "date": "2026-09-13",
+    "file": "data/posts/2026/09/2026-09-13.jsonl",
+    "fingerprint": "7676a9b5b422b98b1a0dbedcc3f8ed9500900e4a73725910bef206b4ca1124ca",
+    "media": [
+      {
+        "local_path": "assets/images/2026/09/13/2099039959361405220-1.jpg",
+        "sha256": "1018233cad211061f082748055d488dd30095fd4b4bb87db444899957b97bc27",
+        "source_url": "https://pbs.twimg.com/media/HSFJtjYacAAgvGp.jpg?name=orig"
+      }
+    ]
+  },
+  "2099041041395364327": {
+    "account": "Alphafiles1",
+    "date": "2026-09-13",
+    "file": "data/posts/2026/09/2026-09-13.jsonl",
+    "fingerprint": "49ea7ae1711edc265e00529da050643e086444fcba48f88fa26c0d1052212759",
+    "media": [
+      {
+        "local_path": "assets/images/2026/09/13/2099041041395364327-1.jpg",
+        "sha256": "84146d1d892ae88c2dd6f10f54c1fd93c78d19b0a327c970d1a220690e74f584",
+        "source_url": "https://pbs.twimg.com/media/HSFKsMka4AA27Oi.jpg?name=orig"
+      }
+    ]
+  },
+  "2099045366197109039": {
+    "account": "elonmusk",
+    "date": "2026-09-13",
+    "file": "data/posts/2026/09/2026-09-13.jsonl",
+    "fingerprint": "078029694402447bc8bc8003e4e217842db584f2a2257db42ca06ed42634c0cf",
+    "media": []
+  },
+  "2099045682791211284": {
+    "account": "Wise1Philosophy",
+    "date": "2026-09-13",
+    "file": "data/posts/2026/09/2026-09-13.jsonl",
+    "fingerprint": "fae192d51b0d24958a80273a04a8965a34c21efefb433afb8cca73d370ae2611",
+    "media": [
+      {
+        "local_path": "assets/images/2026/09/13/2099045682791211284-1.jpg",
+        "sha256": "cf0cf35f33fedc73a87a0904e411238dca56f9d5318534be2d74f0ed2e030ed7",
+        "source_url": "https://pbs.twimg.com/media/HSFO7NvWwAUeJNv.jpg?name=orig"
+      }
+    ]
+  },
+  "2099045986706600101": {
+    "account": "Wise1Philosophy",
+    "date": "2026-09-13",
+    "file": "data/posts/2026/09/2026-09-13.jsonl",
+    "fingerprint": "c15971d466553c66e4325408bee903e630d3fb854c4e16f6d3338c45de5dccf9",
+    "media": []
+  },
+  "2099048805874200621": {
+    "account": "Unlockyourlife_",
+    "date": "2026-09-13",
+    "file": "data/posts/2026/09/2026-09-13.jsonl",
+    "fingerprint": "7de5a384d4211c14d21eb7faa7a0445be64127bcb00de95fb54747bc4968c55c",
+    "media": []
+  },
+  "2099049137924874593": {
+    "account": "alone_boy_010",
+    "date": "2026-09-13",
+    "file": "data/posts/2026/09/2026-09-13.jsonl",
+    "fingerprint": "38bc6387df1f6669b67d00b4038757db6c1993d3cbf02f348761cb1d508bb699",
+    "media": [
+      {
+        "local_path": "assets/images/2026/09/13/2099049137924874593-1.jpg",
+        "sha256": "8c3448ad6963b61f799d84685a75be762a06d8c476a861b2495b66bc86343867",
+        "source_url": "https://pbs.twimg.com/media/HSFSD5VaAAAupey.jpg?name=orig"
+      }
+    ]
+  },
+  "2099051728318660621": {
+    "account": "elonmusk",
+    "date": "2026-09-13",
+    "file": "data/posts/2026/09/2026-09-13.jsonl",
+    "fingerprint": "a986f38eef15d969ddb19efa7c4d70c4b65e9751b313c7e2ca23bba517b845cb",
+    "media": []
+  },
+  "2099052979026636943": {
+    "account": "Wise1Philosophy",
+    "date": "2026-09-13",
+    "file": "data/posts/2026/09/2026-09-13.jsonl",
+    "fingerprint": "52586f5a515fe7bfb9a22edbad3647c274ea6f82bb5be1678c6f50ba121b8b31",
+    "media": [
+      {
+        "local_path": "assets/images/2026/09/13/2099052979026636943-1.jpg",
+        "sha256": "a1af60694b1d19996f32c2bdfa61f75a6bd149b45ca0591e359f5a361e1b18d0",
+        "source_url": "https://pbs.twimg.com/media/HSFVjtjagAAsEx4.jpg?name=orig"
+      }
+    ]
+  },
+  "2099053052485325062": {
+    "account": "Wise1Philosophy",
+    "date": "2026-09-13",
+    "file": "data/posts/2026/09/2026-09-13.jsonl",
+    "fingerprint": "c0f40e60c713376b9104858b3862ab275bb4021fdf0b223df86aba322a468cea",
+    "media": [
+      {
+        "local_path": "assets/images/2026/09/13/2099053052485325062-1.jpg",
+        "sha256": "b5fe2a690e9a0d0ce3e0bdab7614c065dd63d3dd95710964a5f2382415134a8b",
+        "source_url": "https://pbs.twimg.com/media/HSFVoLyXgAEWMku.jpg?name=orig"
+      }
+    ]
+  },
+  "2099055663661859325": {
+    "account": "_Regret_x",
+    "date": "2026-09-13",
+    "file": "data/posts/2026/09/2026-09-13.jsonl",
+    "fingerprint": "bde078a85899b2d41033f844c42a306c3ac8939a683f7ea42ab1ee440cbc06df",
+    "media": [
+      {
+        "local_path": "assets/images/2026/09/13/2099055663661859325-1.jpg",
+        "sha256": "523337fb5a4b554f7fd34c0418bc140d9e2e8ad76ec86df8d086d4ddc195cabb",
+        "source_url": "https://pbs.twimg.com/media/HSFX_0OawAA-tIq.jpg?name=orig"
+      }
+    ]
+  },
+  "2099058136007262326": {
+    "account": "Wise1Philosophy",
+    "date": "2026-09-13",
+    "file": "data/posts/2026/09/2026-09-13.jsonl",
+    "fingerprint": "5265f962a840b990f7d41ecf4acde7f989faa393187f9f3c515196057bb1c157",
+    "media": []
+  },
+  "2099059857072758883": {
+    "account": "Wise1Philosophy",
+    "date": "2026-09-13",
+    "file": "data/posts/2026/09/2026-09-13.jsonl",
+    "fingerprint": "94d5742c04952746c8476d95ba9dadeac6c9d4f08efc29fc643e0ef313ac4bde",
+    "media": []
+  },
+  "2099060116893073900": {
+    "account": "alone_boy_010",
+    "date": "2026-09-13",
+    "file": "data/posts/2026/09/2026-09-13.jsonl",
+    "fingerprint": "69c383340edcb58d8a7143d7164a0e221e8e4126c988ba65955b9b6918538978",
+    "media": [
+      {
+        "local_path": "assets/images/2026/09/13/2099060116893073900-1.jpg",
+        "sha256": "4d9a2f9cbf134eea66481caf9493039c61f7e510c7f1a5403ed36ba46659ca03",
+        "source_url": "https://pbs.twimg.com/media/HSFcB2QbsAI9i34.jpg?name=orig"
+      }
+    ]
+  },
+  "2099060553985777922": {
+    "account": "Wise1Philosophy",
+    "date": "2026-09-13",
+    "file": "data/posts/2026/09/2026-09-13.jsonl",
+    "fingerprint": "eb740c3b11dc9ba468efe98ce6ca9b4adfcf34ba92e3a63ab6ef34af5584cfa3",
+    "media": []
+  },
+  "2099065993217626555": {
+    "account": "Alphafiles1",
+    "date": "2026-09-13",
+    "file": "data/posts/2026/09/2026-09-13.jsonl",
+    "fingerprint": "e4bf677483346606e6299f289009f6eaebf3cc7c81ff453c616ec4e952a2ea9b",
+    "media": [
+      {
+        "local_path": "assets/images/2026/08/25/2092289393025269814-1.jpg",
+        "sha256": "6a0d60a1660444545d5e45b8b49dde73a1c3195acce1291fef983501e10b7e95",
+        "source_url": "https://pbs.twimg.com/media/HSFhYwSWYAQIgL_.jpg?name=orig"
+      }
+    ]
+  },
+  "2099066129926717668": {
+    "account": "Alphafiles1",
+    "date": "2026-09-13",
+    "file": "data/posts/2026/09/2026-09-13.jsonl",
+    "fingerprint": "442d327665a42b47b2a603da4a37e4c30064ddaade9434754a6f5d6e6a56d160",
+    "media": [
+      {
+        "local_path": "assets/images/2026/09/13/2099066129926717668-1.jpg",
+        "sha256": "d1ff638ac5e8b340f72309a44286f3d1fee43b0e866769919b9a2e0389b7bd83",
+        "source_url": "https://pbs.twimg.com/media/HSFhgzObMAABWZd.jpg?name=orig"
+      }
+    ]
+  },
+  "2099066277398462539": {
+    "account": "Alphafiles1",
+    "date": "2026-09-13",
+    "file": "data/posts/2026/09/2026-09-13.jsonl",
+    "fingerprint": "4d472a7fea152414f669ae9bf7334f98863f883d2296d4da2d667b71d80acac9",
+    "media": [
+      {
+        "local_path": "assets/images/2026/08/25/2092289639331631347-1.jpg",
+        "sha256": "710819fe5e9e984885233332bfad8212a976d548b18fbd4ac65cdc5ce8bf451e",
+        "source_url": "https://pbs.twimg.com/media/HSFhpTpb0AASmrq.jpg?name=orig"
       }
     ]
   }
