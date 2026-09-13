@@ -2,7 +2,43 @@
 
 ## 📅 September 13, 2026
 
-> 14 post(s) archived.
+> 18 post(s) archived.
+
+---
+
+### 🕐 21:12 UTC · @Unlockyourlife_
+
+> Don&apos;t think you&apos;re the best she&apos;s ever had..
+
+🔗 [View original post](https://x.com/Masculinjournal/status/2099244771474862468)
+
+---
+
+### 🕐 19:27 UTC · @Unlockyourlife_
+
+> Knowledge matters, but action is where knowledge becomes useful. You can spend months preparing and still be afraid to start. Sometimes, you need to begin, make mistakes, ask better questions, and learn as you go. Start before you feel ready. You don&apos;t need a PhD in a topic before you can start doing it. You don&apos;t need to watch 10 YouTube videos, 20 podcasts, and read 5 books before you start. That only gets you stuck in a cycle of mental masturbation and feeling like you never know enough. Most people should start le…
+
+🔗 [View original post](https://x.com/Masculinjournal/status/2099218548824400373)
+
+---
+
+### 🕐 15:32 UTC · @Unlockyourlife_
+
+> This has ruined great talents
+
+![This has ruined great talents](../../../../assets/images/2026/09/13/2099159215088517218-1.jpg)
+
+🔗 [View original post](https://x.com/Masculinjournal/status/2099159215088517218)
+
+---
+
+### 🕐 15:08 UTC · @Unlockyourlife_
+
+> Do this if your car is OVERHEATING
+
+![Do this if your car is OVERHEATING](../../../../assets/images/2026/09/13/2099153311542710405-1.jpg)
+
+🔗 [View original post](https://x.com/_learnskills/status/2099153311542710405)
 
 ---
 

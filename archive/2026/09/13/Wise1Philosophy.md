@@ -2,7 +2,107 @@
 
 ## 📅 September 13, 2026
 
-> 65 post(s) archived.
+> 77 post(s) archived.
+
+---
+
+### 🕐 18:12 UTC · @Wise1Philosophy
+
+> the StatQuest to Karpathy pipeline alone will take you further than most paid programs. Best YouTube Channels To Master AI 1). AI Foundations ↳ Khan Academy - https://www.youtube.com/@khanacademy ↳ freeCodeCamp - https://www.youtube.com/@freecodecamp ↳ MIT OpenCourseWare - https://www.youtube.com/@mitocw ↳ StatQuest with Josh Starmer - https://www.youtube.com/@statq…
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2099199521892831343)
+
+---
+
+### 🕐 17:05 UTC · @Wise1Philosophy
+
+> Your AI is guessing what your business is. You can fix that with 4 files: ✦ customer.md - who actually buys, not a persona ✦ voice.md - everything you&apos;ve written, measured ✦ offer.md - your offer page, priced exactly ✦ company.md - your about page, in your words Prompts here → https://charliehills.substack.com/p/resource Full system here → https://charliehills.substack.com/p/graph-engineering-claude-code Paste the evidence in. The prompt writes the file. Repost ♻️ to help someone in your network. https://x.com/i/article/2099077155594612737
+
+![Your AI is guessing what your business is. You can fix that with 4 files: ✦ customer.md - who actually buys, not a persona ✦ voice.md - everything you&apos;ve written, measured ✦ offer.md - your offer](../../../../assets/images/2026/09/13/2099182810426986898-1.jpg)
+
+🔗 [View original post](https://x.com/charliejhills/status/2099182810426986898)
+
+---
+
+### 🕐 16:40 UTC · @Wise1Philosophy
+
+> Key components of agent harnesses: Layer 1: Trigger — &quot;Work starts from an event, not from a human pressing a button. A file lands, a message arrives, or a schedule fires.&quot; Tags: File arrival, Message event, Scheduled run. Layer 2: Orchestration — &quot;This is the loop around the model: planning, memory, retries, depth, and loop limits. How far the agent may go is configuration, not model intelligence.&quot; Tags: Planning loop, Memory + retries, Max steps. Layer 3: Tools — &quot;Critical calculations and business logic live behind the agent as fixed tools. The model should not improvise numbers that must never vary.&quot; Tags: Fixed calculations, Approved tools, Deterministic KPIs. Layer 4: Trusted Context — &quot;This is where truth lives and what the agent is allowed to see. Context quality is the ceiling on agent quality.&quot; Tags: Approved data, Scoped retrieval, Context window. Layer 5: Control — &quot;Golden sets, guardrails, approvals, and human judgment define what good looks like and where the agent must stop.&quot; Tags: Golden sets, Guardrails, Human approval. Layer 6: Runtime — &quot;Traces, cost dashboards, audit, and operational ownership turn the agent into a production system. Once this exists, model swaps become configuration.&quot; Tags: Traces, Cost dashboard, Audit trail. Either you die a system of record or you live long enough to become a domain-specific harness
+
+![Key components of agent harnesses: Layer 1: Trigger — &quot;Work starts from an event, not from a human pressing a button. A file lands, a message arrives, or a schedule fires.&quot; Tags: File arriva](../../../../assets/images/2026/09/13/2099176377580675081-1.jpg)
+
+🔗 [View original post](https://x.com/LimestoneHQ/status/2099176377580675081)
+
+---
+
+### 🕐 16:37 UTC · @Wise1Philosophy
+
+> The model is the smallest, most swappable part. Key principles learned from engineering harnesses: &gt; Garbage in, garbage out: Better models won&apos;t fix bad context. The quality of information you feed the agent determines the quality of its output. &gt; Hardcode fixed rules: Keep calculations and critical metrics in deterministic tools so the model never hallucinates exact numbers. &gt; Keep humans accountable: Use agents to advise, but require a designated person to approve actions before execution. &gt; Audit every step: Maintain detailed logs so you can trace failures to the exact prompt or tool and patch the system permanently. &gt; Build for interchangeable models: When your system architecture is solid, swapping out the underlying model is just a simple config change. The model gets the credit, but the infrastructure delivers the results. Either you die a system of record or you live long enough to become a domain-specific harness
+
+🔗 [View original post](https://x.com/mardehaym/status/2099175716046643654)
+
+---
+
+### 🕐 16:02 UTC · @Wise1Philosophy
+
+> Kids sit 6-7 hours a day at school. That is why afternoons fall apart. Here are the 4 things that reset a nervous system and the 3 most parents do that block it... Must Read till End.. 👇🧵
+
+![Kids sit 6-7 hours a day at school. That is why afternoons fall apart. Here are the 4 things that reset a nervous system and the 3 most parents do that block it... Must Read till End.. 👇🧵](../../../../assets/images/2026/09/13/2099166838504767488-1.jpg)
+
+🔗 [View original post](https://x.com/Manifest_Lord/status/2099166838504767488)
+
+---
+
+### 🕐 16:02 UTC · @Wise1Philosophy
+
+> 8 things that will put your marriage in the top 1%. (we do every one of them, and you can too) 🪡 👇
+
+![8 things that will put your marriage in the top 1%. (we do every one of them, and you can too) 🪡 👇](../../../../assets/images/2026/09/13/2099166745705808040-1.jpg)
+
+🔗 [View original post](https://x.com/scotti_brooks/status/2099166745705808040)
+
+---
+
+### 🕐 16:01 UTC · @Wise1Philosophy
+
+> A DOCTOR WHO LIVED TO 108 SAYS THE REAL KILLER ISN&apos;T STRESS OR DIET. THIS IS WHAT IS SILENTLY WIPING YOU OUT. Here are 9 things you need to know:
+
+![A DOCTOR WHO LIVED TO 108 SAYS THE REAL KILLER ISN&apos;T STRESS OR DIET. THIS IS WHAT IS SILENTLY WIPING YOU OUT. Here are 9 things you need to know:](../../../../assets/images/2026/09/13/2099166585332326495-1.jpg)
+
+🔗 [View original post](https://x.com/Better_men/status/2099166585332326495)
+
+---
+
+### 🕐 15:54 UTC · @Wise1Philosophy
+
+> ChatGPT is responsible for nearly 70% of all AI referral traffic. How much of that is flowing to your business? If the answer is “not enough,” there is a pretty straightforward way to improve it. Similarweb&apos;s Global AI Tracker had ChatGPT at 64.5% of generative AI search traffic in January 2026. By the end of Q1, Conductor put ChatGPT&apos;s share at 87%, while SE Ranking had it around 80%. The exact number varies by dataset, but the conclusion is the same: ChatGPT is by far the biggest source of AI-driven referral traffic. And that is exactly what SEO Stuff helps businesses capture: https://seo-stuff.com If you want to see where your site stands across Google, ChatGPT, Claude and broader AI search, start here. It’s free: https://seo-stuff.com/free-audit The problem is that AI platforms do not work like traditional Google results. Instead of giving buyers a page of links and letting them browse, ChatGPT, Perplexity, Gemini and Copilot can research the question and surface a much smaller set of companies and sources. If your brand never enters that research process, the buyer may never see you. And visibility can vary enormously by platform. Superlines analyzed 34,234 AI responses across 10 platforms and found cases where the same brand had a citation rate of just 0.59% on one platform and 27% on another. That is a 46x difference depending on which AI tool the customer opens. So how do you increase your chances of appearing consistently? Two things keep showing up. The first is content depth. A homepage and five feature pages are not enough if buyers are asking dozens of different questions about your category. AI systems can research pricing, integrations, use cases, comparisons, alternatives, implementation, specifications and other subtopics before producing an answer. Every useful question your site covers gives you another opportunity to become a source. Every important question you ignore creates another opening for a competitor. The second is authority. Strong editorial backlinks, expert attribution and credible third-party mentions give AI systems more evidence that your company and content are worth trusting. That combination is important. Content gives AI systems something relevant to retrieve. Authority gives them more reason to use your source over somebody else&apos;s. Think about a buyer asking: “Best project management tool for agencies.” Brand A has detailed pages covering agency workflows, client reporting, pricing, integrations, alternatives, onboarding and customer results, backed by credible third-party authority. Brand B has a homepage and a handful of feature pages. Which company gives ChatGPT more useful material to work with? That same basic dynamic applies across Perplexity, Gemini, Copilot and other AI systems, even though each platform has its own retrieval and citation behavior. AI referral traffic is still relatively early. Conductor found it represented about 1.08% of total website traffic on average, but that is exactly why the opportunity is interesting. The brands building category-level content and authority now are establishing visibility while the channel is still growing. So what should you actually do? Build content around the full question map in your category, including comparisons, pricing, alternatives, integrations, use cases, implementation and the specific problems buyers are trying to solve. Then strengthen that content with credible third-party authority and editorial backlinks, and stop treating AI visibility as a one-keyword-at-a-time exercise. The companies most likely to show up repeatedly are the ones giving AI systems broad, useful information about the category and enough outside validation to trust it. That is the system SEO Stuff was built around. The Done-For-You package combines AI-search-optimized content with DR50+ authority placements: https://seo-stuff.com/gold-plan-package The Premium Content Bundle adds 60 long-form pieces designed to cover the questions customers and AI systems are researching across your category: https://seo-stuff.com/premium-content-bundle-service And the Premium Backlink Bundle adds contextual DR50+ placements designed to strengthen authority across trusted third-party websites: https://seo-stuff.com/premium-backlink-bundle-service And if you want to see where your brand stands today, start here: https://seo-stuff.com/free-audit Not trying to insult anyone here but... B2C SaaS operators on X are struggling to keep up with how marketing is changing. Let’s start with how people are finding software now. Your customers are increasingly starting with questions like: “What’s the best budgeting app if I don’t …
+
+![ChatGPT is responsible for nearly 70% of all AI referral traffic. How much of that is flowing to your business? If the answer is “not enough,” there is a pretty straightforward way to improve it. Simi](../../../../assets/images/2026/09/13/2099164750567678157-1.jpg)
+
+🔗 [View original post](https://x.com/alexgroberman/status/2099164750567678157)
+
+---
+
+### 🕐 15:18 UTC · @Wise1Philosophy
+
+> THERE&apos;S A FOLDER ON YOUR ANDROID CALLED &quot;OTHER&quot; AND GOOGLE NEVER TELLS YOU WHAT&apos;S IN IT. On a lot of phones it quietly climbs past 30, 50, even 80GB. Here&apos;s how to clear it for free:👇
+
+🔗 [View original post](https://x.com/Kevincreates77/status/2099155753584271593)
+
+---
+
+### 🕐 15:04 UTC · @Wise1Philosophy
+
+> Arcads plus image 2.5 and Seedance 2.5 is a very practical stack. everyone is posting these AI character videos and nobody explains how they get this realistic.. so here&apos;s my exact process, start to finish
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2099152250006290632)
+
+---
+
+### 🕐 14:56 UTC · @Wise1Philosophy
+
+> AN ONCOLOGIST CONFESSED: “There are 3 types of people who don&apos;t get cancer.” (SAVE THIS):
+
+🔗 [View original post](https://x.com/BeBetterMan_/status/2099150337773109420)
 
 ---
 
@@ -108,6 +208,14 @@
 > BREAKING: Sam Altman says OpenAI won’t pursue an IPO this year, citing “safety concerns.” “With all the safety issues in motion, this isn’t the right time to be a public company.” Media
 
 🔗 [View original post](https://x.com/AiEvolutio58513/status/2099120444117053580)
+
+---
+
+### 🕐 12:55 UTC · @Wise1Philosophy
+
+> A doctor spent 40 years fasting thousands of patients told me: “Fasting is the most effective treatment ever shown for the world’s leading cause of cancer. It&apos;s the baseline for every human being.” Here&apos;s his 7 simple rules: 1. You should fast every single day
+
+🔗 [View original post](https://x.com/Dr_Biohacker/status/2099119863562391620)
 
 ---
 
