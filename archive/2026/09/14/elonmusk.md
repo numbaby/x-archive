@@ -2,7 +2,33 @@
 
 ## 📅 September 14, 2026
 
-> 5 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 01:20 UTC · @elonmusk
+
+> Starlink BREAKING: Starlink is now rolling out across Southwest Airlines’ fleet. Starlink is already live on selected aircraft, with equipped flights showing “WiFi Powered by Starlink” directly in the Southwest app. Passengers get high-speed Wi-Fi from takeoff to landing for streaming, ga…
+
+🔗 [View original post](https://x.com/elonmusk/status/2099307306685009955)
+
+---
+
+### 🕐 00:51 UTC · @elonmusk
+
+> Elon Musk showing Tesla Roadster to Arnold Schwarzenegger in 2008.
+
+![Elon Musk showing Tesla Roadster to Arnold Schwarzenegger in 2008.](../../../../assets/images/2026/09/14/2099299869471191102-1.jpg)
+
+🔗 [View original post](https://x.com/cb_doge/status/2099299869471191102)
+
+---
+
+### 🕐 00:47 UTC · @elonmusk
+
+> Important reading Listen to Elon. Purchase Suicidal Empathy now, and contribute to the defence of the West!
+
+🔗 [View original post](https://x.com/elonmusk/status/2099298845876208089)
 
 ---
 
