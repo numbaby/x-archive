@@ -2,7 +2,181 @@
 
 ## 📅 September 14, 2026
 
-> 68 post(s) archived.
+> 88 post(s) archived.
+
+---
+
+### 🕐 15:38 UTC · @Wise1Philosophy
+
+> A guy bought a $250 Nest thermostat because it &quot;saves money on energy.&quot; He installed it. He set the temperature to 72°F. He never opened the app again. Two years later, his energy bill is identical to what it was with his old $30 thermostat because the Nest is doing exactly what the old one did: holding one temperature, 24 hours a day, 7 days a week, whether he&apos;s home or not, whether he&apos;s awake or asleep, whether it&apos;s July or January. No schedule. No Home/Away detection. No eco setbacks. No Seasonal Savings. No energy reports. No filter reminders. A $250 smart thermostat running as dumb as the dial it replaced. An HVAC technician of 18 years who&apos;s walked into over 2,000 homes looked at his thermostat and said: &quot;You&apos;re not the exception. You&apos;re the rule. 80% of smart thermostat owners set a temperature on installation day and never configure anything else. The smart thermostat doesn&apos;t save money. The smart features save money and you have to turn them on. Yours are all off.&quot; He looked at the settings. Fan mode: &quot;On&quot; running the blower 24/7, costing $300/year. Schedule: none heating and cooling an empty house 10 hours a day. Eco temperatures: never set no setback when he leaves or sleeps. Air filter: unchanged for 14 months reducing system efficiency by 5-15%. And 4 vents in unused rooms: closed creating duct pressure that strains the blower and cracks seams. &quot;Your thermostat has 9 features designed to save you $600-$900/year. You&apos;ve configured zero of them. You bought a smart thermostat and gave it nothing to be smart about.&quot; He changed 9 things in 15 minutes. The energy bill dropped $52 the first month. Here are the 9 things he changed 🧵
+
+🔗 [View original post](https://x.com/jackcoder0/status/2099523079911440693)
+
+---
+
+### 🕐 15:36 UTC · @Wise1Philosophy
+
+> ChatGPT can turn one ordinary photo into a professional photoshoot. Here are 7 prompts to try:
+
+🔗 [View original post](https://x.com/AriaWestcott/status/2099522573679600016)
+
+---
+
+### 🕐 15:20 UTC · @Wise1Philosophy
+
+> agencies watching this like 😬 Brands pay agencies thousands for ads that look like this. I made one in a single generation. 1080p, every cut landing on the beat. full prompt in comments (bookmark this)
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2099518652135473457)
+
+---
+
+### 🕐 15:07 UTC · @Wise1Philosophy
+
+> 10 Laws Of Attraction That Will Change Your Life.. (Must read no. 7) 🧵
+
+![10 Laws Of Attraction That Will Change Your Life.. (Must read no. 7) 🧵](../../../../assets/images/2026/09/14/2099515327214420256-1.jpg)
+
+🔗 [View original post](https://x.com/MindPatternHQ/status/2099515327214420256)
+
+---
+
+### 🕐 15:05 UTC · @Wise1Philosophy
+
+> Feeling calm and relaxed in your evenings, your weekends and your sleep is extremely easy once you realize this:
+
+🔗 [View original post](https://x.com/RafaelNasriX/status/2099514759335076107)
+
+---
+
+### 🕐 15:03 UTC · @Wise1Philosophy
+
+> Harness, loop, context, graph engineering. It&apos;s tiring, right? Every month there&apos;s a new AI system you MUST implement. I do this full-time and I still struggle to keep up. But all of them matter (to certain degrees): Get the full setup guide and all 4 prompts (with their outputs) in my newsletter: https://charliehills.substack.com/p/graph-engineering-claude-code You can use all four together. But they do different jobs (and overlap). 1. Context: what it can see ☑︎ Your prompt and files loaded into this chat. ☑︎ Your folders aren&apos;t all in the window at once. &quot;Use the files I gave you for this job. If you need anything else, tell me which file and why before you assume what&apos;s in it.&quot; So you know what it&apos;s working from. 2. Harness: what you set up around it ☑︎ Your standing rules, tools and skills. ☑︎ You decide what it can do and how it checks. &quot;Read CLAUDE.md before you start. Follow the rules for this job, use the tools I&apos;ve connected where needed, and flag any conflicting instructions.&quot; You don&apos;t have to repeat every rule. 3. Loop: how it checks itself ☑︎ It checks the work, fixes it and repeats. ☑︎ You set the checks and the stopping point. &quot;Check the rendered graphic: every box fits and nothing is cut off. Fix any failures and check again. Stop after 3 tries and report anything still failing.&quot; And you see what passed (or what didn&apos;t). 4. Graph: how your files connect ☑︎ You map your files and what points to what. ☑︎ You can still find an unlinked file by searching. &quot;Read the files in this folder and write MAP.md with four parts: 1) topics and their files, ranked by inbound links, 2) files with no inbound links, as a count and percentage, 3) connections between files, naming both files and why they connect, 4) a header with the date, files read and files you couldn&apos;t read. Mark each connection FOUND when both files state it, or GUESSED when you inferred it. Don&apos;t count an unread file as read.&quot; Now you have a route through your files. Repost ♻️ to help someone in your network. https://x.com/i/article/2099077155594612737
+
+![Harness, loop, context, graph engineering. It&apos;s tiring, right? Every month there&apos;s a new AI system you MUST implement. I do this full-time and I still struggle to keep up. But all of them ma](../../../../assets/images/2026/09/14/2099514372070719912-1.jpg)
+
+🔗 [View original post](https://x.com/charliejhills/status/2099514372070719912)
+
+---
+
+### 🕐 15:00 UTC · @Wise1Philosophy
+
+> BEST ADVICE I GOT FROM AN OLDER MAN THAT CHANGED MY LIFE: 1. Leave the house once a day, even when you have nowhere to go
+
+🔗 [View original post](https://x.com/Better_men/status/2099513678307770781)
+
+---
+
+### 🕐 14:31 UTC · @Wise1Philosophy
+
+> 🚨 BREAKING: Apple is officially releasing iOS 27 to all users TODAY! iOS Biggest upgrade. Here are 9 mind-blowing features you cannot afford to miss:
+
+🔗 [View original post](https://x.com/TheAIColony/status/2099506376087097443)
+
+---
+
+### 🕐 14:22 UTC · @Wise1Philosophy
+
+> Heart attack = blood sugar. Heart attack = insulin resistance. Heart attack = No.1 killer worldwide. 5 simple rules to protect your heart: 1. Don&apos;t go pee at 3 AM
+
+🔗 [View original post](https://x.com/thisispeak007/status/2099503938953453887)
+
+---
+
+### 🕐 14:10 UTC · @Wise1Philosophy
+
+> GPT-6 Astra is going wild. Media
+
+🔗 [View original post](https://x.com/AIHighlight/status/2099500958405263466)
+
+---
+
+### 🕐 14:06 UTC · @Wise1Philosophy
+
+> iOS 27 commercial release today! All the new Siri AI animations comes to life! Media
+
+🔗 [View original post](https://x.com/FutureStacked/status/2099499998857609578)
+
+---
+
+### 🕐 14:04 UTC · @Wise1Philosophy
+
+> ChatGPT is a money-printing machine. You can use it to earn $349 every day. Like + reply &apos;Money&apos; and I&apos;ll send you my beginner to advanced guide 100% FREE. Must be following me to get the guide in DM. FREE for the next 48 hrs only.
+
+![ChatGPT is a money-printing machine. You can use it to earn $349 every day. Like + reply &apos;Money&apos; and I&apos;ll send you my beginner to advanced guide 100% FREE. Must be following me to get t](../../../../assets/images/2026/09/14/2099499531411083411-1.jpg)
+
+🔗 [View original post](https://x.com/jaysmith_ai/status/2099499531411083411)
+
+---
+
+### 🕐 14:03 UTC · @Wise1Philosophy
+
+> Palantir CEO Alex Karp: “If we weren’t facing rivals, I’d happily hit the brakes on this tech altogether, but we are.” 👇 China has nearly erased the U.S. lead in AI. If America eases off now, it’s basically an open invitation for China to take the top spot. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2099499191051723022)
+
+---
+
+### 🕐 14:03 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/14/2099499177814245668-1.jpg)
+
+🔗 [View original post](https://x.com/Ant_Philosophy/status/2099499177814245668)
+
+---
+
+### 🕐 14:00 UTC · @Wise1Philosophy
+
+> A freshman lawmaker dumped up to $8 MILLION in stock. 57 sales in 15 trading days, almost nothing bought... 84% of what she sold went on to CRASH. April McClain Delaney got out just in time, again and again. Here is what the filings show: She is a first-term Democrat from Maryland. She sits on the Agriculture and Science committees. She has put her own net worth near $100 million. Her husband is a former congressman and presidential candidate. So a large portfolio is no surprise. What she did with it in August is. Across fifteen trading days, she made 76 trades. Fifty-seven were sales, and only nineteen were buys. The total runs from $3 million to nearly $8 million. Then the timing gets hard to ignore. Of her 57 sales, 48 fell right after she sold. Those stocks trailed the market by about five percent. Look at Middleby and Viking for the pattern. She sold both again and again through August. Both slid up to 20% behind the market after. Here is the honest other half. When she bought, the timing flipped on her. Most of her purchases lagged the market instead. This looks like selling into a falling market. It is not proof of anything but timing. And all of it is a matter of public record. The same filings that show the sales show the slide. The same lawmaker who sells is easy to track. The same record is open to anyone who looks. A freshman sold up to $8 million in three weeks. 48 of her 57 sales fell right after. The receipts are public, and now you have them.
+
+![A freshman lawmaker dumped up to $8 MILLION in stock. 57 sales in 15 trading days, almost nothing bought... 84% of what she sold went on to CRASH. April McClain Delaney got out just in time, again and](../../../../assets/images/2026/09/14/2099498495518687649-1.jpg)
+
+🔗 [View original post](https://x.com/InsiderTrackers/status/2099498495518687649)
+
+---
+
+### 🕐 13:58 UTC · @Wise1Philosophy
+
+> If you don&apos;t want to quit your job but need another income source… Do this right now: • Start an AI-run agency and tell nobody • Let AI do 80% of the client work • Replace your salary, then quit Here&apos;s how you scale this to $10k/mo (in as little as 100 days):
+
+🔗 [View original post](https://x.com/iamcamengland/status/2099497916943450536)
+
+---
+
+### 🕐 13:48 UTC · @Wise1Philosophy
+
+> At least 35% of U.S. consumers now use AI platforms for product discovery. Regardless of whether Claude, ChatGPT, and the other frontier models slow down development or not, that number isn&apos;t going down. There has been a massive shift, and businesses should be adjusting accordingly. If you want to see where your site stands across Google, ChatGPT, Claude and broader AI search, start here. It’s free: https://seo-stuff.com/free-audit Similarweb’s 2026 Generative AI Brand Visibility Index tracked 113 brands across six industries using more than 11,000 prompts across ChatGPT, Gemini, Copilot and Perplexity. One of the most interesting findings was that AI visibility does not always mirror traditional search dominance. Similarweb identified a group of brands it calls “overachievers,” companies whose AI visibility dramatically exceeds their traditional search position. B&amp;H Photo nearly tripled its AI visibility index to 296.9. Ulta more than tripled to 319.0. Specialist retailers and other category-focused brands are outperforming much larger competitors relative to their traditional search footprint. And the traffic itself looks extremely valuable. According to Similarweb, users arriving from ChatGPT spent around 15 minutes on site compared with eight minutes from Google. They also viewed 12 pages per visit compared with nine and they converted at 7% compared with 5%. In other words, AI traffic was more engaged and converted about 40% better. For years, mid-market brands have had to compete against companies with larger budgets, stronger domains and much more brand recognition. AI search creates another path, if treated properly. A specialist retailer with detailed comparisons, expert buying guides, specification pages and deep category coverage can outperform a much larger competitor whose website provides far less useful information. That means content depth can help narrow the gap between brand sizes. You may not be able to outspend an enterprise competitor on paid search, and you may struggle to outrank them for the biggest traditional keywords, but you can sometimes out-cover them. When somebody asks ChatGPT for a product recommendation, the system may research several parts of the buying decision before generating an answer. A brand with dozens of useful pages covering products, comparisons, specifications, use cases and buying questions gives AI systems far more opportunities to discover and understand it than a larger company with a homepage and a handful of generic product pages. That is what SEO Stuff helps businesses build: https://seo-stuff.com The brands doing well in AI visibility tend to have two things. The first is content depth. They cover the full question map surrounding the category, including comparisons, specifications, use cases, objections and buying decisions. The second is authority. Credible third-party mentions and editorial backlinks give search and AI systems more evidence that the specialist content is worth trusting. Content gives you more opportunities to enter the research process. Authority gives AI systems more reason to use your information over somebody else’s. If you want to see whether your brand is already outperforming larger competitors in AI search, check here: https://seo-stuff.com/free-audit This is the system SEO Stuff was built around. The done-for-you package combines AI-search-optimized content with DR50+ authority placements: https://seo-stuff.com/gold-plan-package The Premium Content Bundle adds 60 long-form pieces designed to build comprehensive coverage across the questions buyers ask in your category: https://seo-stuff.com/premium-content-bundle-service And the Premium Backlink Bundle adds contextual DR50+ placements designed to strengthen authority across trusted third-party websites: https://seo-stuff.com/premium-backlink-bundle-service And again, if you want to see where your site stands across Google, ChatGPT, Claude and broader AI search, start here: https://seo-stuff.com/free-audit ChatGPT is responsible for nearly 70% of all AI referral traffic. How much of that is flowing to your business? If the answer is “not enough,” there is a pretty straightforward way to improve it. Similarweb&apos;s Global AI Tracker had ChatGPT at 64.5% of generative AI search traffic …
+
+![At least 35% of U.S. consumers now use AI platforms for product discovery. Regardless of whether Claude, ChatGPT, and the other frontier models slow down development or not, that number isn&apos;t goi](../../../../assets/images/2026/09/14/2099495541554151839-1.jpg)
+
+🔗 [View original post](https://x.com/alexgroberman/status/2099495541554151839)
+
+---
+
+### 🕐 13:42 UTC · @Wise1Philosophy
+
+> A heart surgeon told me something that stuck with me: &quot;There are 5 types of people who don&apos;t get heart attacks.&quot; 1. The ones who don&apos;t go to the toilet at 3 AM Media
+
+🔗 [View original post](https://x.com/MarkoSilva291/status/2099493890722284008)
+
+---
+
+### 🕐 13:36 UTC · @Wise1Philosophy
+
+> YouTube is not luck. If you start now, you can earn $7500/month by September 2026. Usually, I&apos;d charge $83 for this guide, but today you get it totally free. Like + comment &apos;YT&apos; &amp; I&apos;ll send you my complete guide 100% FREE. Must follow me to get guide in DM. FREE for 48 hours only.
+
+![YouTube is not luck. If you start now, you can earn $7500/month by September 2026. Usually, I&apos;d charge $83 for this guide, but today you get it totally free. Like + comment &apos;YT&apos; &amp; I](../../../../assets/images/2026/09/14/2099492473643139245-1.png)
+
+🔗 [View original post](https://x.com/heyalexmoore/status/2099492473643139245)
+
+---
+
+### 🕐 13:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/14/2099491020354289784-1.jpg)
+
+🔗 [View original post](https://x.com/Mindsthatbuild/status/2099491020354289784)
 
 ---
 
