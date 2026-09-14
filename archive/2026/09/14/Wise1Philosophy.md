@@ -2,7 +2,232 @@
 
 ## 📅 September 14, 2026
 
-> 35 post(s) archived.
+> 68 post(s) archived.
+
+---
+
+### 🕐 13:24 UTC · @Wise1Philosophy
+
+> If I lost everything tomorrow &amp; had to start over with $250... • I wouldn&apos;t buy crypto • I wouldn&apos;t start sports betting • I wouldn&apos;t try flipping it on FB marketplace I&apos;d open up my laptop &amp; do THIS instead:
+
+🔗 [View original post](https://x.com/RileyColemanT/status/2099489361737744564)
+
+---
+
+### 🕐 13:12 UTC · @Wise1Philosophy
+
+> a github with 2-3 of these beats another certificate for a job hunt, easily. 10 AI Projects That&apos;ll Get You Noticed by Recruiters in 30 Days 1). RAG App with Real Evaluations ↳ Guide: https://www.pinecone.io/learn/retrieval-augmented-generation/ 2). Autonomous Research Agent ↳ Example: https://github.com/langchain-ai/langgraph 3). AI Customer Support Copi…
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2099486494243139770)
+
+---
+
+### 🕐 13:05 UTC · @Wise1Philosophy
+
+> I’m 20 years old. I made $500k replying to DMs for online businesses. (and no, I’m not talking about Onlyfans) Here’s how it works: Step 1: Open Instagram or YouTube.
+
+🔗 [View original post](https://x.com/valematvei/status/2099484794753302837)
+
+---
+
+### 🕐 13:04 UTC · @Wise1Philosophy
+
+> TAKING MAGNESIUM CORRECTLY WILL GIVE YOU BACK THE SLEEP YOU THINK YOU LOST TO AGE. (99% ARE TAKING THE WRONG FORM) 1. It is the mineral your nervous system runs on.
+
+🔗 [View original post](https://x.com/MagnusLindbrg/status/2099484311275933950)
+
+---
+
+### 🕐 13:03 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/14/2099484162419794147-1.jpg)
+
+🔗 [View original post](https://x.com/Life__Mastery/status/2099484162419794147)
+
+---
+
+### 🕐 13:02 UTC · @Wise1Philosophy
+
+> THE OLDER YOU GET, THE MORE YOU NEED TO : 1. Not be fat
+
+![THE OLDER YOU GET, THE MORE YOU NEED TO : 1. Not be fat](../../../../assets/images/2026/08/26/2092626352595984550-1.png)
+
+🔗 [View original post](https://x.com/BeBetterMan_/status/2099483832869404724)
+
+---
+
+### 🕐 13:00 UTC · @Wise1Philosophy
+
+> Fatty liver = insulin resistance Fatty liver = higher heart attack risk Fatty liver = the disease 1 in 3 adults already have Here&apos;s how to reverse it: 1. Eat all the sweet potatoes you can.
+
+![Fatty liver = insulin resistance Fatty liver = higher heart attack risk Fatty liver = the disease 1 in 3 adults already have Here&apos;s how to reverse it: 1. Eat all the sweet potatoes you can.](../../../../assets/images/2026/09/14/2099341318250176954-1.jpg)
+
+🔗 [View original post](https://x.com/TheFastedState/status/2099483495349526777)
+
+---
+
+### 🕐 13:00 UTC · @Wise1Philosophy
+
+> May you manifest somebody who&apos;s as deep, passionate, sexual, soulful, and spiritual as you. Someone who wants to evolve with you, not only in this lifetime and dimension but every level up.
+
+🔗 [View original post](https://x.com/_Pammy_DS_/status/2099483314721558539)
+
+---
+
+### 🕐 12:57 UTC · @Wise1Philosophy
+
+> Anthropic may have just created the ultimate IPO disclosure headache (bookmark this). On June 1, Anthropic confidentially filed its draft S-1 with the SEC, starting the formal review process for a possible IPO. Once that clock starts, the company has to be extremely careful about anything it says publicly that could influence investors. The SEC interprets “offer” very broadly. Interviews, social posts, PR, and almost any publicity that “conditions” the market can qualify. That is why @chamath references Google and Slack. Google ultimately had to attach the entire Playboy interview with Larry Page and Sergey Brin to its prospectus, and Slack had to pull Chamath’s CNBC remarks directly into the SEC’s review. Anthropic’s situation may be more serious because this is not generic hype. It goes to the nature of the product itself. Former researcher Jacob Coxon warned that frontier labs are building AI that may be uncontrollable. Then Anthropic’s alignment lead amplified the concern publicly and put the odds of extinction at over 10% within a decade. That raises the SEC and investor question that is hard to ignore: if the company’s own safety leadership says the technology could plausibly cause catastrophic harm, how does Anthropic describe that risk, its mitigations, and the potential financial impact in its S-1 without misleading anyone? Section 11 of the Securities Act gives IPO buyers a cause of action if the registration statement includes a material misstatement or omits facts needed to make what is said not misleading. Anthropic is not automatically liable just because an employee predicts disaster. Product liability typically depends on an actual defect, concrete harm, and a provable causal chain. So the near-term risk is disclosure, not an automatic trillion-dollar tort judgment. Anthropic now has two real options: treat the extinction-risk claims as credible and disclose them clearly in the S-1, or disavow them, then explain why senior safety staff are overstating the risk and why investors should discount their statements. Pitching a trillion-dollar growth story while internal leaders publicly describe the core product as potentially civilization-ending is the tension @DavidSacks is emphasizing. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2099482622787485810)
+
+---
+
+### 🕐 12:54 UTC · @Wise1Philosophy
+
+> Poor sleep kills you faster than smoking, alcohol, and cancer. Here are 9 doctor rules for the best sleep of your life: 1. Eat grapes before sleep
+
+🔗 [View original post](https://x.com/DPro_Coach/status/2099481962276934031)
+
+---
+
+### 🕐 12:53 UTC · @Wise1Philosophy
+
+> That reference image sitting in your folder? Give it to Codex + Hyper3D MCP and turn it into a 3D scene. One image. One Agent. One scene. @OpenAIDevs GPT-6 Astra (Codex) + HYPER3D MCP just showed us the second half of 3D gen. 🚀
+
+🔗 [View original post](https://x.com/free_ai_guides/status/2099481695653146649)
+
+---
+
+### 🕐 12:41 UTC · @Wise1Philosophy
+
+> Walking = drops body fat Walking = lowers blood sugar Walking = lowers your risk of dying young. 8 simple rules that actually work: 1. Don&apos;t chase 10,000 steps. Media
+
+🔗 [View original post](https://x.com/Fitby_Chandler/status/2099478604266795510)
+
+---
+
+### 🕐 12:36 UTC · @Wise1Philosophy
+
+> SLEEPING WITH AC ALL NIGHT IS SILENTLY DAMAGING 6 SYSTEMS GOD DESIGNED TO HEAL YOU. You think the AC is helping you sleep better. Damage 1: Waking up with dry skin, lips, and throat.
+
+🔗 [View original post](https://x.com/HeyDoc_MD/status/2099477317982855395)
+
+---
+
+### 🕐 12:35 UTC · @Wise1Philosophy
+
+> An endocrinologist told me: &quot;Stand on your toes 20 times before bed. In 2 weeks, the result will surprise you...&quot; 1. Lowers blood sugar
+
+🔗 [View original post](https://x.com/LongevityCode_/status/2099477033697018238)
+
+---
+
+### 🕐 12:34 UTC · @Wise1Philosophy
+
+> Big Pharma doesn’t want you to know about this trio: 1) 1000mg Citrus Bergamot 2) 100mg Ubiquinol 3) 500mg Berberine They powerfully reduce high cholesterol, cardiovascular disease risk, and make statins USELESS:
+
+🔗 [View original post](https://x.com/Dr_Biohacker/status/2099476839567880622)
+
+---
+
+### 🕐 12:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/14/2099475974198874112-1.jpg)
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2099475974198874112)
+
+---
+
+### 🕐 12:29 UTC · @Wise1Philosophy
+
+> Heart Attack = Blood sugar Heart Attack = Insulin resistance Heart Attack = No. 1 cause of death on Earth. Here’s the simple fix to protect your heart: 1. Don&apos;t go pee at 3 AM Media
+
+🔗 [View original post](https://x.com/BeBetter_Athlet/status/2099475562003853604)
+
+---
+
+### 🕐 12:26 UTC · @Wise1Philosophy
+
+> Your body is flooded with cortisol and you do not even realise it. These are the 9 signs that confirm it: 1. Waking between 2 and 4am Media
+
+🔗 [View original post](https://x.com/mind_and_beauty/status/2099474763748090219)
+
+---
+
+### 🕐 12:10 UTC · @Wise1Philosophy
+
+> If I got laid off tomorrow &amp; had to replace my salary asap, here’s exactly what I’d do: 1. Go to Instagram and start a fresh account. Use a spare email. No one has to know.
+
+🔗 [View original post](https://x.com/erichustls/status/2099470739527053704)
+
+---
+
+### 🕐 12:07 UTC · @Wise1Philosophy
+
+> The real cause of cancer was identified in 1931. The man behind the discovery won a Nobel Prize, then was buried by the pharmaceutical industry. Here&apos;s what Dr. Otto Warburg found: 1. “Cancer cells thrive in high-sugar environments.”
+
+🔗 [View original post](https://x.com/NutritionCorp/status/2099470111480721661)
+
+---
+
+### 🕐 12:02 UTC · @Wise1Philosophy
+
+> this is basically fashion film meets k-pop I Made a 30-Second AI Girl Group MV 🌊 What if a 1970s Mediterranean fashion film was edited like a modern K-pop MV? I built it with: → 4 consistent girls → Rapid outfit changes → Full choreography → Red convertible → Luxury Mediterranean villa → Fashion-editorial shots → Match c…
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2099468946906677456)
+
+---
+
+### 🕐 12:01 UTC · @Wise1Philosophy
+
+> America pays more in interest than defense. Long-term rates hit their highest since 2007. So last week, Scott Bessent tried to fix it himself... Rates dropped from 5.34% to 5.18% the next morning. What he called &apos;liquidity&apos; was a job no Secretary has ever done: Setting interest rates on long-term debt is the Fed&apos;s job. That&apos;s why the central bank is independent from Washington. But the Fed has not cut fast enough for Washington&apos;s needs. So Bessent started doing it another way. The mechanics are simple. September 9th, Treasury announced a major expansion of its buyback program. Buybacks of 10 to 30-year bonds would at least double. From $2 billion per operation to at least $4 billion. Bessent said the goal was liquidity in older, less-traded bonds. Wall Street took that at face value for about a day. Then people started doing the math. When Treasury buys bonds, bond prices go up. When prices go up, yields go down. Every new bond the Treasury issues is priced off that yield. Lower prevailing yields mean cheaper borrowing on the next auction. For a government paying $1.3 trillion in interest, that math matters. But the Treasury does not talk about the funding side. Bessent cannot create money to fund these buybacks. Only the Fed has that power. So the Treasury raises the cash by issuing more short-term Treasury bills. Net effect: the government swaps long-term debt for short-term debt. Total debt does not go down. The annual interest bill does not go down either. But long-term bond supply gets smaller. And short-term bill supply gets bigger. Fewer long bonds in the market push long yields down. This is called operation twist. The Fed ran the same play in 2011 and 2012. But the Fed was the buyer both times. The Treasury has never done this on its own before. This is not the Treasury versus the Federal Reserve. It is the Treasury versus the bond market. The Treasury market is worth more than $30 trillion. Twenty and thirty-year bonds alone total trillions more. A $4 billion buyback nudges yields at the margin. It cannot overpower the market if investors want higher returns. And investors have real reasons to want them. Inflation is rising again on energy prices and tariffs. The federal deficit shows no sign of shrinking. Treasury has to sell trillions in new debt every year. Every buyer wants more compensation for that risk. These buyers are sometimes called bond vigilantes. When they win, yields rise regardless of what the Treasury does. So the buyback expansion is a signal, not a fix. The signal is that Washington will act when long yields spike. That is called yield curve control. Japan has run it for years and cannot get out. Every step in that direction reduces the market&apos;s role in pricing. And increases the government&apos;s role in setting it. Retail investors read the headline and moved on. Institutions read the mechanism and understood the stakes. The Federal Reserve is supposed to set interest rates. The Treasury is now quietly doing part of that job. And nothing about that fixes the underlying debt problem. Media
+
+🔗 [View original post](https://x.com/LogWeaver/status/2099468492374462811)
+
+---
+
+### 🕐 12:00 UTC · @Wise1Philosophy
+
+> Japanese scientist just found a death point on your body: “Hold down for 30 seconds to reset cortisol and reverse aging.” They tested 500 volunteers. The results even shocked them:
+
+🔗 [View original post](https://x.com/LevelUpPrime/status/2099468327731200348)
+
+---
+
+### 🕐 11:50 UTC · @Wise1Philosophy
+
+> If you want to reach 60 without a cardiac event, a memory problem, or quitting while your kids still need you (especially past 40) Here are 7 signs you should watch out for: 1. Waking up at 3-4 AM.
+
+🔗 [View original post](https://x.com/HeyKimChong/status/2099465686850621585)
+
+---
+
+### 🕐 11:46 UTC · @Wise1Philosophy
+
+> You don&apos;t need a $300 course to learn Claude Code. 19 free Code with Claude sessions (links below): Full playlist → http://youtube.com/playlist?list=PLf2m23nhTg1P5BsOHUOXyQz5RhfUSSVUi 1. Opening keynote → http://youtu.be/GMIWm5y90xA 2. Dario and Daniela Amodei → http://youtu.be/7xco5Qd2Oo8 3. What&apos;s new in Claude Code → http://youtu.be/IMZa42k6L6M 4. Live coding with Boris and Jarred → http://youtu.be/DlTCu_pNDHE 5. GitHub on caching and harnesses → http://youtu.be/y5TmF_6o6xk 6. Managed Agents to production → http://youtu.be/E9gaQHrw_rg 7. Inside Cognition, Gamma, Harvey → http://youtu.be/OFDm3T7pVlc 8. More from the Claude Platform → http://youtu.be/7oO37GRhwGk 9. Datadog&apos;s tool for Claude Code → http://youtu.be/EdmuYPBt_EM 10. The capability curve → http://youtu.be/tP4MGcJ80Y0 11. Vercel&apos;s Guillermo Rauch → http://youtu.be/bJKdXhnw7NU 12. Managed Agents with Asana → http://youtu.be/BrpB-h1e--k 13. Running an AI-native eng org → http://youtu.be/igO8iyca2_g 14. The thinking lever → http://youtu.be/OXJO4LldSnc 15. Claude on Google Cloud → http://youtu.be/SqHsS737CeA 16. How Replit tests its agent → http://youtu.be/snroDwX1-JU 17. How Cursor built cloud agents → http://youtu.be/BbYSGxtsMic 18. Memory and dreaming for agents → http://youtu.be/RtywqDFBYnQ 19. The expanding toolkit → http://youtu.be/KLCuxMDZSDg New? Start with 1, 3 and 4. Which one are you watching first? Follow Muhammad Ayan ♻️ Repost to help others https://x.com/i/article/2089647603915100160
+
+![You don&apos;t need a $300 course to learn Claude Code. 19 free Code with Claude sessions (links below): Full playlist → http://youtube.com/playlist?list=PLf2m23nhTg1P5BsOHUOXyQz5RhfUSSVUi 1. Opening ](../../../../assets/images/2026/09/14/2099464791467388989-1.jpg)
+
+🔗 [View original post](https://x.com/socialwithaayan/status/2099464791467388989)
+
+---
+
+### 🕐 11:31 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/14/2099460924637614238-1.jpg)
+
+🔗 [View original post](https://x.com/Daily__wisdom_/status/2099460924637614238)
+
+---
+
+### 🕐 11:19 UTC · @Wise1Philosophy
+
+> I started taking creatine in the morning, omega-3 at lunch, and magnesium at night. Without exaggerating, my personality changed 180 degrees. 1. Creatine, in the morning
+
+🔗 [View original post](https://x.com/CoachJulianNiko/status/2099457884434444406)
 
 ---
 
@@ -11,6 +236,39 @@
 > github is lowkey the most expensive-feeling free thing on the internet. saving this. 10 tools that could replace dozens of paid subscriptions 1). gstack by Garry Tran ↳ https://github.com/garrytan/gstack 2). Last 30 Days ↳ https://github.com/mvanhorn/last30days-skill 3). Marketing skills for AI agents ↳ https://github.com/coreyhaines31/marketingskills 4). Novu ↳ …
 
 🔗 [View original post](https://x.com/Wise1Philosophy/status/2099457263773618513)
+
+---
+
+### 🕐 11:15 UTC · @Wise1Philosophy
+
+> this post hits a nail on the head of the current state of AI consulting firms: The enterprise industry is currently drowning in what engineers call &quot;pilot purgatory,&quot; and high-priced AI strategy decks are to blame. Most AI consulting fails because they treat models like magic instead of commodities. A partner sells a maturity curve, a junior builds a shiny …
+
+🔗 [View original post](https://x.com/alex_prompter/status/2099456934248058979)
+
+---
+
+### 🕐 11:13 UTC · @Wise1Philosophy
+
+> The enterprise industry is currently drowning in what engineers call &quot;pilot purgatory,&quot; and high-priced AI strategy decks are to blame. Most AI consulting fails because they treat models like magic instead of commodities. A partner sells a maturity curve, a junior builds a shiny demo, and six weeks later, the client is staring at the exact same broken workflow. Nobody validated the outputs. Nobody built a system that runs every week without the consultant in the room. You don&apos;t need another slide telling you to &quot;adopt AI.&quot; You need actual engineering: 1. Deterministic guardrails: Stop letting LLMs guess at numbers. Lock math and logic behind rigid code. 2. Strict validation: Every output needs to be checked. 3. Clear boundaries: Define exactly where the model stops and human judgment starts. Winning teams don&apos;t have the best slide decks. They have formalized, reliable workflows so their people can get back to doing their actual jobs instead of debugging AI. Stop buying &quot;AI transformation&quot; from people who have never had to run the workflow they’re trying to transform.
+
+🔗 [View original post](https://x.com/mardehaym/status/2099456385444381084)
+
+---
+
+### 🕐 11:04 UTC · @Wise1Philosophy
+
+> HARVARD lleva casi 90 AÑOS estudiando una pregunta... ¿QUÉ TIENEN EN COMÚN LAS PERSONAS QUE TERMINAN VIVIENDO UNA VIDA MÁS LARGA, SANA Y FELIZ? Después de observar vidas enteras, de más de 700 personas, encontraron algo sorprendente:
+
+🔗 [View original post](https://x.com/MiguelMaestroIA/status/2099454134382481815)
+
+---
+
+### 🕐 11:02 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/14/2099453742701596804-1.jpg)
+
+🔗 [View original post](https://x.com/apex_mentality_/status/2099453742701596804)
 
 ---
 
@@ -45,6 +303,15 @@
 ![NGL ...this is fucking insane a solo developer just dropped a fully free, open-source ElevenLabs replacement no subscription, no catch and it&apos;s already at 28K stars on GitHub. what it can do: → c](../../../../assets/images/2026/09/14/2099446108284191084-1.jpg)
 
 🔗 [View original post](https://x.com/charliejhills/status/2099446108284191084)
+
+---
+
+### 🕐 10:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/14/2099445660332224724-1.jpg)
+
+🔗 [View original post](https://x.com/yeti_mind/status/2099445660332224724)
 
 ---
 
@@ -87,6 +354,15 @@
 > Heart Attack = Blood sugar spikes Heart Attack = Clogged arteries Heart Attack = Worst killer worldwide. 7 simple rules to guard your heart: 1. Don&apos;t go pee at 3 AM Media
 
 🔗 [View original post](https://x.com/BeBetter_Athlet/status/2099433007165919703)
+
+---
+
+### 🕐 09:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/14/2099430546602377310-1.jpg)
+
+🔗 [View original post](https://x.com/Ant_Philosophy/status/2099430546602377310)
 
 ---
 

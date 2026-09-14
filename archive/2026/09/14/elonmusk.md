@@ -2,7 +2,31 @@
 
 ## 📅 September 14, 2026
 
-> 18 post(s) archived.
+> 22 post(s) archived.
+
+---
+
+### 🕐 11:34 UTC · @elonmusk
+
+> A welfare state and free immigration will obviously bankrupt any country. AI + robotics is the only path to universal high income for everyone on Earth. True
+
+🔗 [View original post](https://x.com/elonmusk/status/2099461843269906606)
+
+---
+
+### 🕐 11:30 UTC · @elonmusk
+
+> Starlink supporting rural communities in Bolivia 🇧🇴 BREAKING: The President of Bolivia just announced 800 @Starlink terminals for rural Cochabamba 🇧🇴 Starlink will bring high-speed internet to remote communities where traditional networks struggle to reach. Another big step toward connecting the unconnected.
+
+🔗 [View original post](https://x.com/elonmusk/status/2099460669326188591)
+
+---
+
+### 🕐 11:23 UTC · @elonmusk
+
+> Gaming ftw Frequent video gamers performed on cognitive tests like non-gamers that were ~13.7 years younger
+
+🔗 [View original post](https://x.com/elonmusk/status/2099459125579071512)
 
 ---
 
@@ -63,6 +87,14 @@
 ![Happy Ganesh Chaturthi](../../../../assets/images/2026/09/14/2099370039011139784-1.jpg)
 
 🔗 [View original post](https://x.com/Tesla_India/status/2099370039011139784)
+
+---
+
+### 🕐 05:15 UTC · @elonmusk
+
+> Elon Musk on scaling AI beyond Earth. &quot;To reach a terawatt of compute per year, we need about 10 million tons to orbit annually. This is feasible—no new physics required—and I&apos;m confident SpaceX can achieve it.&quot; Most people treat orbital mass as sci-fi. Elon treats it as a logistics problem with hard numbers — and a factory plan to match. • ~10 million tons to orbit per year • Terawatt of solar for power • Terawatt of compute → Terafab fills the gap No new physics. Starship is the freighter. Terafab is the factory. &quot;We&apos;re also scaling to a terawatt of solar for power. The remaining piece is a terawatt of compute, which is why we&apos;re building Terafab.&quot; https://x.com/teslaownersSV/status/2035780274869702741/video/1 Media
+
+🔗 [View original post](https://x.com/teslaownersSV/status/2099366381867372971)
 
 ---
 
