@@ -2,7 +2,75 @@
 
 ## 📅 September 14, 2026
 
-> 9 post(s) archived.
+> 18 post(s) archived.
+
+---
+
+### 🕐 11:08 UTC · @elonmusk
+
+> People keep misunderstanding this. I CONTRIBUTED to Bostrom’s Superintelligence book and he thanks me by name in the foreword. I was thinking about AI safety long before 2014. Elon Musk posted this back in 2014 after reading Nick Bostrom’s Superintelligence: “Worth reading Superintelligence by Bostrom. We need to be super careful with AI. Potentially more dangerous than nukes” That was more than 12 years ago....long before the current AI boom The book …
+
+🔗 [View original post](https://x.com/elonmusk/status/2099455308284219727)
+
+---
+
+### 🕐 11:05 UTC · @elonmusk
+
+> True you go out in the real world and there are people everywhere who aren’t on 𝕏 and have no idea what’s coming
+
+🔗 [View original post](https://x.com/elonmusk/status/2099454402364920276)
+
+---
+
+### 🕐 10:49 UTC · @elonmusk
+
+> Grok Bot now lets your route through your local machine SpaceXAI: Grok Bot now lets you route egress through your local machine. (It means Grok Bot&apos;s VM will connect to things from your IP address, not the datacenter&apos;s.) This will be great to access picky sites and services that may block connections from datacenter IPs or access othe…
+
+🔗 [View original post](https://x.com/elonmusk/status/2099450564698423732)
+
+---
+
+### 🕐 10:30 UTC · @elonmusk
+
+> Zurich insurance offers lower insurance premiums if you use Tesla supervised self-driving Tesla FSD just reached a pretty important milestone in Australia 🇦🇺 Zurich has become the first Australian insurer to recognize FSD Supervised as reducing driving risk....and that is now being reflected in lower insurance pricing for Tesla owners Australian Teslas have already …
+
+🔗 [View original post](https://x.com/elonmusk/status/2099445708277387433)
+
+---
+
+### 🕐 08:54 UTC · @elonmusk
+
+> @yunta_tsai Meanwhile in Germany summon is limited to 6 meters, which is not even usable because you have to be so close to the car that it detects you as obstacle.
+
+🔗 [View original post](https://x.com/denispleiades/status/2099421439837221340)
+
+---
+
+### 🕐 07:00 UTC · @elonmusk
+
+> Grok Bot Galaxy starts tomorrow (Sep 15) 🚀 If you’re planning to tune in, here’s the full schedule so you don’t miss the sessions you care about September 15 • 9:00–10:00 AM PT — Grok Bot 101 • 12:30–2:00 PM PT — Grok Bot for Engineering • 2:30–3:30 PM PT — Grok Bot for Product Managers • 4:00–5:30 PM PT — Grok Bot for Founders September 16 • 9:00–10:30 AM PT — Grok Bot for Sales Engineering • 12:30–2:00 PM PT — Grok Bot for Sales • 2:30–3:30 PM PT — Grok Bot for SDRs • 4:00–5:00 PM PT — Grok Bot for Customer Support September 17 • 9:00–10:30 AM PT — Grok Bot for Marketing Operations • 12:30–1:30 PM PT — Grok Bot for Post-Sales • 2:30–4:00 PM PT — Grok Bot for Marketing • 4:30–5:30 PM PT — Final Showcase Three days of Grok Bot being put to work across real engineering, product, sales, support and marketing workflows....watch Grok Bot building a company If you haven’t registered yet....now is the time http://x.ai/galaxy Watch a company being built live with @Grok @Bot!
+
+![Grok Bot Galaxy starts tomorrow (Sep 15) 🚀 If you’re planning to tune in, here’s the full schedule so you don’t miss the sessions you care about September 15 • 9:00–10:00 AM PT — Grok Bot 101 • 12:30–](../../../../assets/images/2026/09/14/2099392868913746235-1.jpg)
+
+🔗 [View original post](https://x.com/XFreeze/status/2099392868913746235)
+
+---
+
+### 🕐 05:29 UTC · @elonmusk
+
+> Happy Ganesh Chaturthi
+
+![Happy Ganesh Chaturthi](../../../../assets/images/2026/09/14/2099370039011139784-1.jpg)
+
+🔗 [View original post](https://x.com/Tesla_India/status/2099370039011139784)
+
+---
+
+### 🕐 05:12 UTC · @elonmusk
+
+> FSD Supervised is making driving safer &amp; now cheaper Zurich is the first insurer in Australia to offer Tesla owners lower premiums, reflecting fewer collisions &amp; fewer claims ‘Humans make mistakes’: Insurer offers discount to self-driving car owners https://tinyurl.com/bdzbxvnb
+
+🔗 [View original post](https://x.com/TeslaAUNZ/status/2099365680449740820)
 
 ---
 
@@ -37,6 +105,16 @@
 > Important reading Listen to Elon. Purchase Suicidal Empathy now, and contribute to the defence of the West!
 
 🔗 [View original post](https://x.com/elonmusk/status/2099298845876208089)
+
+---
+
+### 🕐 00:37 UTC · @elonmusk
+
+> “Study hard what interests you the most in the most undisciplined, irreverent, and original manner possible.” — Richard Feynman
+
+![“Study hard what interests you the most in the most undisciplined, irreverent, and original manner possible.” — Richard Feynman](../../../../assets/images/2026/09/14/2099296319248724392-1.jpg)
+
+🔗 [View original post](https://x.com/readswithravi/status/2099296319248724392)
 
 ---
 

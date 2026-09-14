@@ -2,7 +2,75 @@
 
 ## 📅 September 14, 2026
 
-> 27 post(s) archived.
+> 35 post(s) archived.
+
+---
+
+### 🕐 11:16 UTC · @Wise1Philosophy
+
+> github is lowkey the most expensive-feeling free thing on the internet. saving this. 10 tools that could replace dozens of paid subscriptions 1). gstack by Garry Tran ↳ https://github.com/garrytan/gstack 2). Last 30 Days ↳ https://github.com/mvanhorn/last30days-skill 3). Marketing skills for AI agents ↳ https://github.com/coreyhaines31/marketingskills 4). Novu ↳ …
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2099457263773618513)
+
+---
+
+### 🕐 10:59 UTC · @Wise1Philosophy
+
+> Sam Altman just spoke on Jacob Coxon’s 166M+ mega-viral tweet (the former Anthropic/OpenAI researcher who quit). In his latest Fortune Magazine interview: “I don’t think it’s remotely acceptable to be playing with, say, a 10% chance of wiping out everyone before the decade’s over.” — Via the Fortune Magazine YouTube channel (full video link in the comment) Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2099452891350401186)
+
+---
+
+### 🕐 10:58 UTC · @Wise1Philosophy
+
+> This is one of the best breakdowns I&apos;ve seen so far: This is Iman Gadzhi. He unlocked the final level of the creator economy. Spent years teaching people how to make money online. Now he co-owns the platform where they can do it. Here’s the genius business model behind his Whop deal:
+
+🔗 [View original post](https://x.com/IAmPascio/status/2099452621773738314)
+
+---
+
+### 🕐 10:46 UTC · @Wise1Philosophy
+
+> Neurologists have a name for the shortfall that mimics early dementia, strips the insulation off your nerves, and hides behind a normal lab result for years. The 5 signs they check before calling it ageing: 1. Tingling or numbness in your hands and feet Media
+
+🔗 [View original post](https://x.com/IranaJasmin/status/2099449613740875950)
+
+---
+
+### 🕐 10:32 UTC · @Wise1Philosophy
+
+> NGL ...this is fucking insane a solo developer just dropped a fully free, open-source ElevenLabs replacement no subscription, no catch and it&apos;s already at 28K stars on GitHub. what it can do: → clone a voice off a single clean audio clip → dub full videos into 646 languages → generate audiobooks, handle dictation and transcription → let you swap between 14 different TTS engines ElevenLabs? 32 languages. this one? 646. No per-character pricing. No caps on usage. Everything processes locally, so nothing leaves your machine. Bookmark it now repo&apos;s linked below.
+
+![NGL ...this is fucking insane a solo developer just dropped a fully free, open-source ElevenLabs replacement no subscription, no catch and it&apos;s already at 28K stars on GitHub. what it can do: → c](../../../../assets/images/2026/09/14/2099446108284191084-1.jpg)
+
+🔗 [View original post](https://x.com/charliejhills/status/2099446108284191084)
+
+---
+
+### 🕐 10:19 UTC · @Wise1Philosophy
+
+> Hypothyroidism = being cold when nobody else is Hypothyroidism = the hair in the shower drain Hypothyroidism = 8 in 10 cases never get diagnosed 6 signs that show up before your labs catch it: 1. The outer third of your eyebrows
+
+🔗 [View original post](https://x.com/dzejlacathleen/status/2099442784956739728)
+
+---
+
+### 🕐 10:00 UTC · @Wise1Philosophy
+
+> Your blood sugar is aging you faster than smoking or alcohol. It wakes you up at 3 AM, destroys insulin and fat loss, and causes a fatty liver. 5 doctor tips to fix it naturally: 1. Don&apos;t walk 10,000 steps Media
+
+🔗 [View original post](https://x.com/yourcamilavega/status/2099438119632408985)
+
+---
+
+### 🕐 10:00 UTC · @Wise1Philosophy
+
+> This is Iman Gadzhi. He unlocked the final level of the creator economy. Spent years teaching people how to make money online. Now he co-owns the platform where they can do it. Here’s the genius business model behind his Whop deal:
+
+![This is Iman Gadzhi. He unlocked the final level of the creator economy. Spent years teaching people how to make money online. Now he co-owns the platform where they can do it. Here’s the genius busin](../../../../assets/images/2026/09/14/2099438002103517259-1.png)
+
+🔗 [View original post](https://x.com/Scottvdberg/status/2099438002103517259)
 
 ---
 
