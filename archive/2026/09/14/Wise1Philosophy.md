@@ -2,7 +2,337 @@
 
 ## 📅 September 14, 2026
 
-> 88 post(s) archived.
+> 128 post(s) archived.
+
+---
+
+### 🕐 19:34 UTC · @Wise1Philosophy
+
+> Bryan Johnson losing his CEO to a wearable startup was definitely not on my bingo card. BREAKING: @bryan_johnson’s former CEO/CTO @RyanMField just left Kernel to join BCI startup @sabi. He spent years making Bryan Johnson&apos;s massive brain helmets, and now he jumped ship to Sabi, backed by @khoslaventures. If the CEO of the most funded non-invasive helmet company is l…
+
+🔗 [View original post](https://x.com/alexconia/status/2099582569603858894)
+
+---
+
+### 🕐 19:24 UTC · @Wise1Philosophy
+
+> Esto es perfecto para profesionales del marketing como yo que necesitan versiones de sus videos en cuatro idiomas. Lo probé y solo me llevó unos minutos, vinculas el contenido, pides el doblaje y listo. Funciona a las mil maravillas. Media Introducing voice, music, image, and video generation in the ElevenLabs MCP. Generate speech, transcripts, dubs, music, sound effects, images, and video from the assistant you already work in.
+
+🔗 [View original post](https://x.com/MiguelMaestroIA/status/2099579961510121967)
+
+---
+
+### 🕐 19:20 UTC · @Wise1Philosophy
+
+> Sabi is quietly assembling the avengers of neurotech. Khosla backing + poaching from Kernel? yeah they&apos;re about to take over. BREAKING: @bryan_johnson’s former CEO/CTO @RyanMField just left Kernel to join BCI startup @sabi. He spent years making Bryan Johnson&apos;s massive brain helmets, and now he jumped ship to Sabi, backed by @khoslaventures. If the CEO of the most funded non-invasive helmet company is l…
+
+🔗 [View original post](https://x.com/PaulYoungX/status/2099578994307805461)
+
+---
+
+### 🕐 19:00 UTC · @Wise1Philosophy
+
+> Copying one campaign across LinkedIn, Meta and Google is draining your paid budget. And your team calls it &quot;multi-channel.&quot; LinkedIn is too expensive. Meta doesn&apos;t work for B2B. You&apos;ve heard both. Last year I drove $586K in closed revenue from LinkedIn Ads. On Meta, we get qualified demos for our B2B SaaS clients at $600 each. When a platform &quot;doesn&apos;t work,&quot; I usually open the account and find one audience and one &quot;book a demo&quot; ad, copied across all 3. Buyers use each platform at a different stage. Run them as one and you pay 3 times for the same targeting mistake. Here&apos;s what each one is actually for: 1. LinkedIn only pays off when you already know the accounts → Best for: a capped list of 500 to 3,000 accounts, pulled from closed-lost, stalled pipeline and old MQLs → Run the ads off a real person&apos;s face. Nobody trusts the company page. → Push 12+ impressions a head, so the CEO, CMO and CRO all know your name before sales gets in touch → Stack: Clay and Trigify for timing, Fibbler for the accounts already on your site 2. Meta can get you B2B demos cheaper than LinkedIn, if you stop training it on form-fills → Best for: demo volume, once the audience comes from your own data → Build audiences from your target account contacts and closed-won lookalikes → Ship 10 to 20 new creatives every 1 to 2 weeks, in the words your buyers use → Feed real SQLs back live, so budget moves to the campaigns creating deals → Skills I run: audience-builder, creative-fatigue-analyzer, pixel-and-capi-audit, spend-tracker 3. Google is where you collect on the demand LinkedIn and Meta built → Best for: buyers already typing the problem into a search bar → The pool is small, and it stays small if nothing upstream is warming your market → Review search terms every week and push the junk into negatives before it eats the month&apos;s budget → Skills I run: keyword-analyzer, search-terms, negative-keywords, performance-auditor All 3 run off the same account list, from one terminal, through the LinkedIn, Meta and Google APIs. That&apos;s how I&apos;ve put $2M+ in ad spend through Claude Code.
+
+🔗 [View original post](https://x.com/itsivanfalco/status/2099573903677125048)
+
+---
+
+### 🕐 18:59 UTC · @Wise1Philosophy
+
+> Congrats on the international orders. But if you aren&apos;t careful, you could unintentionally be considered a tax evader in multiple countries. And nobody told you this, which is a problem. The UK is owed sales tax on every order you&apos;ve ever shipped there, starting with order one. There&apos;s no threshold you have to cross, and their tax office is happy to wait a few years before sending the bill with the penalties added on. @kintsugi_ai built a free 2-minute quiz that gives you a quick read on which of 11 countries you&apos;re already exposed in, from the UK and EU to Canada, Australia and Japan. Better to find out from a quiz than from a scary letter. Take the free assessment below. It could save you thousands: https://assessment.trykintsugi.com/?utm_source=chase
+
+![Congrats on the international orders. But if you aren&apos;t careful, you could unintentionally be considered a tax evader in multiple countries. And nobody told you this, which is a problem. The UK i](../../../../assets/images/2026/09/14/2099573879761142090-1.jpg)
+
+🔗 [View original post](https://x.com/ecomchasedimond/status/2099573879761142090)
+
+---
+
+### 🕐 18:44 UTC · @Wise1Philosophy
+
+> THIS IS HOW PRODUCT ADS SHOULD FEEL IN 2026 &gt; stay in @atomic_chat_hq &gt; let Blender sketch the scene &gt; watch @higgsfield finish the whole video 🤯 check this out! 👀↓ Media Make product ads with @higgsfield + Blender MCPs in Atomic Chat 🎬 Connect both in the MCP hub and ask your AI to create a rough scene in Blender, then polish it into a video with Higgsfield, all in one chat Run your workflow -&gt; https://atomic.chat
+
+🔗 [View original post](https://x.com/DataChaz/status/2099569975216271682)
+
+---
+
+### 🕐 18:20 UTC · @Wise1Philosophy
+
+> One underrated thing about building a storyboard first: You finally have something to compare the generated video against. GPT Image 2.5 is coming to CapCut PC through Design Studio and AI Image. Start with the story and build the visual storyboard. Then bring it into CapCut PC’s Video Studio and use Seedance 2.5 to generate the full video. Now you can look at the result and ask: Did the video actually follow the direction? If not, keep refining it with CapCut’s AI editing tools. The storyboard isn’t just preparation. It becomes the visual reference for the entire process. #GPTImage25 #CapCutPC #AIVideo #Seedance25 Media
+
+🔗 [View original post](https://x.com/AIPandaX/status/2099563998589153452)
+
+---
+
+### 🕐 18:20 UTC · @Wise1Philosophy
+
+> I think AI filmmaking gets more interesting when you stop asking AI to make the whole thing in one shot. The better workflow might be: Idea → Storyboard → Video → Edit. Here’s how I’d build it 👇 #GPTImage25 #CapCutPC Media
+
+🔗 [View original post](https://x.com/thetripathi58/status/2099563990099857682)
+
+---
+
+### 🕐 18:20 UTC · @Wise1Philosophy
+
+> Two product images can go surprisingly far. I generated two visuals for a product with GPT Image 2.5, then used them as the starting point for a commercial video in CapCut. GPT Image 2.5 is coming to CapCut, with access through Design Studio and AI Image. The interesting part is what happens next. Instead of treating the images as the final assets, I can move from product visuals into Seedance 2.5 video generation and build out the commercial inside CapCut PC. One product. A couple of visuals. A complete ad workflow. #GPTImage25 #CapCutPC #AIVideo #Seedance25 Media
+
+🔗 [View original post](https://x.com/aibytekat/status/2099563960076992638)
+
+---
+
+### 🕐 18:13 UTC · @Wise1Philosophy
+
+> Most companies that rolled Claude out to everyone this year got exactly what they paid for: a chat subscription. I sat with a CFO last month who&apos;d done it by the book. Company-wide licenses, twenty people using it daily, two or three of them sharp enough to build real tools. Then he described what they&apos;d built: &quot;Very capped. Very brittle. It would not stand up to putting that in front of a customer. It barely stands up to the five people using it.&quot; Before him, the same company had tried building a sales agent on Claude and burned through tokens so fast they pulled the plug and started shopping for a cheaper model. That&apos;s the part that matters. They diagnosed a model problem when the model was fine. Our delivery architect looked at the same wreckage and named it in one line: no harness, no guardrails. Nothing was wrong with what the model produced. There was no evaluation set to say what a correct output looked like, no cost governance, no data layer with agreed definitions, no feedback loop, no human approval on the actions that mattered. Every prompt started from zero and every answer was somebody&apos;s opinion. A model is an engine. What they had was an engine sitting on a garage floor, and they were comparing engines. The harness is what turns it into something a customer can touch. A golden set of twenty cases with the expected answer, so you know when it&apos;s right. A judge that runs those cases on every change. Token caps per user and per workflow. A read-only data path with a dictionary the agent can reason from. Reversible actions with an approval step. Tracing on every call so you can find the bad one. None of that is exotic. It&apos;s the same discipline as shipping any production system, applied to a component that happens to be probabilistic. That&apos;s why the first thing we build for a client is the harness, and the first agent goes on top of it in month one. The rollout most companies did in January was step zero. The work starts when you decide what right looks like and build the machinery to hold the model to it.
+
+🔗 [View original post](https://x.com/mardehaym/status/2099562230647804152)
+
+---
+
+### 🕐 18:00 UTC · @Wise1Philosophy
+
+> MAYBE AI WORKFLOWS WORK BETTER WHEN EVERY MODEL HAS A SPECIFIC JOB. GPT Image 2.5 is coming to CapCut PC through Design Studio and AI Image. Its role? Turn the story into a visual direction. Then CapCut PC&apos;s Video Studio takes that direction into production with Seedance 2.5. And once the footage exists, CapCut&apos;s AI editing tools take over the refinement. So instead of asking one model to do everything: GPT Image 2.5 → visual thinking Seedance 2.5 → video generation CapCut → editing The result feels less like stacking AI tools and more like building an actual creative pipeline. #GPTImage25 #CapCutPC #AIVideo #Seedance25 Media
+
+🔗 [View original post](https://x.com/Marco_Exito/status/2099558989269025077)
+
+---
+
+### 🕐 17:53 UTC · @Wise1Philosophy
+
+> THE PART OF COLOR GRADING I&apos;M MOST INTERESTED IN AUTOMATING ISN&apos;T THE FINAL DECISION. It&apos;s the blank page at the beginning. GPT-6 Astra can turn a description of the look I want into a custom .cube LUT. Then I can import it into CapCut PC and immediately start working from something specific instead of staring at a library of presets. That changes the first step from &quot;What should I choose?&quot; to &quot;What should I create?&quot; The rest of the grade still happens in the edit. #GPT6Astra #CapCutPC #AIVideo #Seedance25 Media
+
+🔗 [View original post](https://x.com/Polanco_IA/status/2099557064859410763)
+
+---
+
+### 🕐 17:46 UTC · @Wise1Philosophy
+
+> WHAT IF THE FIRST VERSION OF YOUR PRODUCT AD DIDN&apos;T HAVE TO BE A VIDEO? GPT Image 2.5 is coming to CapCut, where it will be available through existing tools like Design Studio and AI Image. I used GPT Image 2.5 to visualize an iPhone Duo commercial first, building out the shots and visual direction before moving into video. Then CapCut PC + Seedance 2.5 turned those visuals into the actual commercial. Sometimes the fastest way to make a video is to figure out the visuals before making the video. #GPTImage25 #CapCutPC #AIVideo #Seedance25 Media
+
+🔗 [View original post](https://x.com/Alex_Inspira/status/2099555449880322067)
+
+---
+
+### 🕐 17:41 UTC · @Wise1Philosophy
+
+> THIS IS THE LAUNCH VIBE-CODERS HAVE BEEN WAITING FOR @boltdotnew shipped a new mode called Forge. it puts open models directly in the web builder. DeepSeek v4 Pro and GLM 5.3 Flash are ready to test. .. and you get an ABSURD amount of usage just for opting in to model training. Free until October 14, or you can lock in the Bolt Lite plan for 9$ 👀↓ Introducing Bolt Forge. Free until Oct 14th: - Up to 50x more usage - The new frontier: GLM, DeepSeek, Kimi - Zero usage charges Live now in your model picker on https://bolt.new And one more thing... 👇
+
+🔗 [View original post](https://x.com/DataChaz/status/2099554033404940678)
+
+---
+
+### 🕐 17:40 UTC · @Wise1Philosophy
+
+> 🚨 just in: apple just pushed ios 27 to every iphone on earth. the biggest ios upgrade yet. 9 features worth updating for:
+
+🔗 [View original post](https://x.com/daveydefi/status/2099553874403119459)
+
+---
+
+### 🕐 17:28 UTC · @Wise1Philosophy
+
+> 🚨 BREAKING : Apple iOS 27 just dropped for every iPhone user. The biggest iOS upgrade yet. 9 features worth updating for:
+
+🔗 [View original post](https://x.com/TheAIColonyRD/status/2099550894010323248)
+
+---
+
+### 🕐 17:25 UTC · @Wise1Philosophy
+
+> &quot;A generated video can be impressive. But a film is more than its generation. It starts with an idea. GPT Image 2.5 is coming to CapCut PC through Design Studio and AI Image, where it can help turn that idea into a visual storyboard. Then CapCut PC’s Video Studio + Seedance 2.5 can turn that storyboard into the actual video. And then comes the part that makes the result feel intentional: Editing. Use CapCut’s AI editing tools to reshape the pacing, scenes, captions, audio, and visual treatment. Generation gives you footage. The full workflow gives you a film. #GPTImage25 #CapCutPC #AIVideo #Seedance25 Media
+
+🔗 [View original post](https://x.com/Damn_coder/status/2099550037391102206)
+
+---
+
+### 🕐 17:23 UTC · @Wise1Philosophy
+
+> https://x.com/i/article/2099532263944077312
+
+🔗 [View original post](https://x.com/free_ai_guides/status/2099549707232309621)
+
+---
+
+### 🕐 17:22 UTC · @Wise1Philosophy
+
+> Trying to make the perfect AI video in one generation feels like the wrong goal. I’d rather build it in stages. GPT Image 2.5 is coming to CapCut PC, where it will be available through Design Studio and AI Image. First, use it to create the visual storyboard. Then bring that into CapCut PC’s Video Studio and generate with Seedance 2.5. Now you have a complete video to work with. From there, CapCut’s AI editing tools let you refine the actual result. Generation doesn’t need to solve everything. It just needs to give you a strong enough starting point to keep creating. #GPTImage25 #CapCutPC #AIVideo #Seedance25 Media
+
+🔗 [View original post](https://x.com/Div_pradeep/status/2099549250405466272)
+
+---
+
+### 🕐 17:07 UTC · @Wise1Philosophy
+
+> Traditional commercial workflow: Concept → moodboard → storyboard → production → footage → edit → revisions. AI workflow I’m experimenting with: Concept → GPT Image 2.5 → storyboard → Seedance 2.5 → CapCut edit. GPT Image 2.5 is coming to CapCut, where it will be available through Design Studio and AI Image. The interesting part isn’t removing every step. It’s connecting the steps so the creative direction doesn’t get lost along the way. #GPTImage25 #CapCutPC #AIVideo #Seedance25 Media
+
+🔗 [View original post](https://x.com/Rixhabh__/status/2099545614354890971)
+
+---
+
+### 🕐 17:06 UTC · @Wise1Philosophy
+
+> STOP PAYING FOR AI COURSES. The companies building AI are teaching it for free. Here are 10 resources that can take you from beginner to job-ready:
+
+🔗 [View original post](https://x.com/AriaWestcott/status/2099545350470095328)
+
+---
+
+### 🕐 16:59 UTC · @Wise1Philosophy
+
+> Before your son starts dating... Make sure he understands these 7 hard truths about &quot;Some girls.&quot; don&apos;t ignore 👇
+
+![Before your son starts dating... Make sure he understands these 7 hard truths about &quot;Some girls.&quot; don&apos;t ignore 👇](../../../../assets/images/2026/09/14/2099543593849643142-1.jpg)
+
+🔗 [View original post](https://x.com/scotti_brooks/status/2099543593849643142)
+
+---
+
+### 🕐 16:56 UTC · @Wise1Philosophy
+
+> 11 traditions that feel like magic to kids. Kids don&apos;t remember what you bought. They remember what you repeated. Childhood isn&apos;t made of highlights. It&apos;s made of little things that feel like home... 👇 🧵
+
+![11 traditions that feel like magic to kids. Kids don&apos;t remember what you bought. They remember what you repeated. Childhood isn&apos;t made of highlights. It&apos;s made of little things that fee](../../../../assets/images/2026/09/14/2099542937755697489-1.jpg)
+
+🔗 [View original post](https://x.com/Manifest_Lord/status/2099542937755697489)
+
+---
+
+### 🕐 16:55 UTC · @Wise1Philosophy
+
+> 11M+ PEOPLE ALREADY KNOW CLINE AS A VS CODE EXTENSION Now @cline is stepping outside VS Code. they just dropped a dedicated workspace for agents.. .. with a native UI built for working across frontier models, open weights *and* local models 🤯 great feats: → run parallel agents, schedule tasks, plug into a marketplace of tools and connectors → choose your own model and provider: Anthropic, OpenAI, Gemini, open weights, local. You can even switch mid-project → bring in work you started in another coding agent and keep going Desktop app link in 🧵↓ Media Introducing Cline Desktop - a native interface for working with open weights models. Use with ClinePass and all our free models like DeepSeek-V4.1-Flash, Musespark-1.3, or BYOK with any provider!
+
+🔗 [View original post](https://x.com/DataChaz/status/2099542656720294027)
+
+---
+
+### 🕐 16:50 UTC · @Wise1Philosophy
+
+> this is a full content marketing education for zero dollars. the only cost is actually sitting down and doing it. 10 Free Content Creation Courses to Learn Online 1). Content Marketing – HubSpot ↳ https://academy.hubspot.com/courses/content-marketing 2). Content Strategy – HubSpot ↳ https://academy.hubspot.com/courses/content-strategy 3). Blogging – HubSpot ↳ https://academy.hubspot.com/cour…
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2099541248247828533)
+
+---
+
+### 🕐 16:46 UTC · @Wise1Philosophy
+
+> 🚨 BREAKING: Apple’s new iOS 27 update is rolling out today. Here are 10 features that put real pressure on Samsung and Google:
+
+🔗 [View original post](https://x.com/AIHighlight/status/2099540262846431385)
+
+---
+
+### 🕐 16:41 UTC · @Wise1Philosophy
+
+> The model wars just became a dropdown menu. GLM 5.3 Flash, Kimi K3 and DeepSeek v4 Pro in @boltdotnew Forge. Up to 50× usage. Stop arguing over screenshots. Make them build your app. Introducing Bolt Forge. Free until Oct 14th: - Up to 50x more usage - The new frontier: GLM, DeepSeek, Kimi - Zero usage charges Live now in your model picker on https://bolt.new And one more thing... 👇
+
+![The model wars just became a dropdown menu. GLM 5.3 Flash, Kimi K3 and DeepSeek v4 Pro in @boltdotnew Forge. Up to 50× usage. Stop arguing over screenshots. Make them build your app. Introducing Bolt ](../../../../assets/images/2026/09/14/2099539051195834752-1.jpg)
+
+🔗 [View original post](https://x.com/alex_prompter/status/2099539051195834752)
+
+---
+
+### 🕐 16:39 UTC · @Wise1Philosophy
+
+> a brutally honest take on AI consultancies: Nothing makes my blood hotter than watching a real company get bent over by an AI consultant who has never shipped a single f*cking line of production code. You didn’t fail at AI. You got robbed by people who charge millions because you don’t know any better. Listen, I know this,…
+
+🔗 [View original post](https://x.com/claudeskills101/status/2099538529667654022)
+
+---
+
+### 🕐 16:35 UTC · @Wise1Philosophy
+
+> This AI workflow is crazy. One chat can now build your product scene in Blender, then turn it into a cinematic ad with Higgsfield. Blender MCP + Higgsfield MCP working together inside Atomic Chat. Make product ads with @higgsfield + Blender MCPs in Atomic Chat 🎬 Connect both in the MCP hub and ask your AI to create a rough scene in Blender, then polish it into a video with Higgsfield, all in one chat Run your workflow -&gt; https://atomic.chat
+
+🔗 [View original post](https://x.com/HeyAbhishek/status/2099537652609609929)
+
+---
+
+### 🕐 16:26 UTC · @Wise1Philosophy
+
+> ok this is actually wild not to be that guy but i&apos;ve been messing around in bolt&apos;s new forge mode all morning and it&apos;s actually really good. they added GLM, deepseek and kimi to the model picker. they also gave everyone 50x the usage till oct 14. so i&apos;ve just been letting it rip instead of babysitting every prompt like usual. Introducing Bolt Forge. Free until Oct 14th: - Up to 50x more usage - The new frontier: GLM, DeepSeek, Kimi - Zero usage charges Live now in your model picker on https://bolt.new And one more thing... 👇
+
+![ok this is actually wild not to be that guy but i&apos;ve been messing around in bolt&apos;s new forge mode all morning and it&apos;s actually really good. they added GLM, deepseek and kimi to the mod](../../../../assets/images/2026/09/14/2099535385877696739-1.png)
+
+🔗 [View original post](https://x.com/thetripathi58/status/2099535385877696739)
+
+---
+
+### 🕐 16:15 UTC · @Wise1Philosophy
+
+> the AI consultancy trap put into honest words: Nothing makes my blood hotter than watching a real company get bent over by an AI consultant who has never shipped a single f*cking line of production code. You didn’t fail at AI. You got robbed by people who charge millions because you don’t know any better. Listen, I know this,…
+
+🔗 [View original post](https://x.com/alex_verem/status/2099532574448132408)
+
+---
+
+### 🕐 16:15 UTC · @Wise1Philosophy
+
+> This is CRAZY! Bolt just launched Forge, a new experimental mode that gives you up to 50x the usage on open models. &gt; build and iterate without daily limits, just one monthly bar &gt; pick GLM 5.3 Flash, Kimi K3 or DeepSeek v4 Pro &gt; opt in and your builds help train a new open-weight model, and it asks you every time you switch &gt; free on every Pro plan until Oct 14, plus a $9/mo Bolt Lite plan with Forge included (waitlist open) turns out the fastest way to get better open models is letting people actually build with them. Would you opt in? Introducing Bolt Forge. Free until Oct 14th: - Up to 50x more usage - The new frontier: GLM, DeepSeek, Kimi - Zero usage charges Live now in your model picker on https://bolt.new And one more thing... 👇
+
+🔗 [View original post](https://x.com/socialwithaayan/status/2099532450120749503)
+
+---
+
+### 🕐 16:07 UTC · @Wise1Philosophy
+
+> YOUR ANDROID PHONE HAS A HIDDEN SETTING THAT SHARES YOUR DATA WITH APP DEVELOPERS. Most people never turn it off. Here&apos;s how:👇
+
+🔗 [View original post](https://x.com/Kevincreates77/status/2099530400163070154)
+
+---
+
+### 🕐 16:06 UTC · @Wise1Philosophy
+
+> One open source model from China is now the base for more new models than Google and Meta combined. The count is models built on it, not downloads. Open vs closed is settled and nobody called it. The AI Colony&apos;s H1 2026 report shows where it landed. https://bit.ly/StateofAI2026
+
+![One open source model from China is now the base for more new models than Google and Meta combined. The count is models built on it, not downloads. Open vs closed is settled and nobody called it. The ](../../../../assets/images/2026/09/14/2099530329052582288-1.jpg)
+
+🔗 [View original post](https://x.com/TheAIColonyRD/status/2099530329052582288)
+
+---
+
+### 🕐 15:58 UTC · @Wise1Philosophy
+
+> A brand followed the recommendations in this article and added $100,000 in Google, ChatGPT and broader AI search-related traffic.
+
+![A brand followed the recommendations in this article and added $100,000 in Google, ChatGPT and broader AI search-related traffic.](../../../../assets/images/2026/09/14/2099528334074077499-1.png)
+
+🔗 [View original post](https://x.com/alexgroberman/status/2099528334074077499)
+
+---
+
+### 🕐 15:46 UTC · @Wise1Philosophy
+
+> Your body is flooded with cortisol and you do not even notice it. Here are the 9 signs that confirm it: 1. Waking between 2 and 4am Media
+
+🔗 [View original post](https://x.com/Rose_MaryIRL/status/2099525091625447845)
+
+---
+
+### 🕐 15:44 UTC · @Wise1Philosophy
+
+> Nothing makes my blood hotter than watching a real company get bent over by an AI consultant who has never shipped a single f*cking line of production code. You didn’t fail at AI. You got robbed by people who charge millions because you don’t know any better. Listen, I know this, because I&apos;ve worked with the &quot;big&quot; three consultancy firms. Here’s the con without the embellishment. They sell you a pilot they already know dies in a conference room. They bill you to “learn your business,” which is three juniors googling your industry on your dime at partner rates. They shove the tools that pay them kickbacks, not the ones that would actually work. Their main goal is to stay, sucking the budget out of you. They slap a logo on someone else’s model, call it a proprietary platform, and dare you to open the hood. When it shits the bed they blame the model. Never the engagement. Never themselves. This isn’t a couple of scumbags. The data from 2026 shows a massive structural divide: while a vast majority of corporations are abandoning general-purpose or &quot;assistive&quot; AI projects due to poor returns, a highly disciplined 20% minority is capturing nearly all of the economic value. Regulators have started fining companies just for lying about what their AI can do. It&apos;s by design. And the actual work never happens. Nobody checks if the outputs are to be trusted. Nobody writes down what “good” even looks like. Nobody turns the demo into something that runs every week without the consultant still in the Slack. It rots into a zombie project, the budget is gone, and the whole room nods along to “AI didn’t work for us.” AI worked fine. The lie was the business model. We do the opposite at @LimestoneHQ. We sign an NDA and start on our own time. Not your invoice. We watch how your people actually work before we scope a single thing. We write the SOW only when we can show you what we’d build, what it costs, and what changes. Billing starts when we hit work that moves the business. Discovery is free. Then it’s an AI Velocity Pod at $17K a month, month-to-month. We don’t deliver, you don’t pay. One example: a PE-backed healthcare company had five people on a module rebuild. We put one pod on the same scope in the same codebase. One senior engineer paired with AI agents, plus a half-time delivery architect on review and quality gates. 1.5 people at $17K a month against a loaded squad burning $610K to $880K a year. Some PE partners can&apos;t believe that&apos;s our price. Ninety days later: 50% faster cycles. 122 PRs merged. 104 of them with fewer than five reviewer comments. Deployment from weeks to days. Agents wrote 98% of the code. The senior engineer reviewed every line and nothing shipped until he could prove it worked, explain why, and defend it with the agent closed. We&apos;ve saved your most valuable people 15 hours per week for a fraction of the price of the so-called &quot;consultants&quot;. That’s the difference between selling hours and shipping systems. One hides the ball. The other hands you the ball and walks out. Honest work gets you ACTUAL results, measured to the last cent.
+
+🔗 [View original post](https://x.com/mardehaym/status/2099524753081975243)
+
+---
+
+### 🕐 15:42 UTC · @Wise1Philosophy
+
+> BREAKING: @bryan_johnson’s former CEO/CTO @RyanMField just left Kernel to join BCI startup @sabi. He spent years making Bryan Johnson&apos;s massive brain helmets, and now he jumped ship to Sabi, backed by @khoslaventures. If the CEO of the most funded non-invasive helmet company is leaving for a wearable thought-to-text startup, the consumer BCI inflection point is arriving way faster than anyone realizes.
+
+![BREAKING: @bryan_johnson’s former CEO/CTO @RyanMField just left Kernel to join BCI startup @sabi. He spent years making Bryan Johnson&apos;s massive brain helmets, and now he jumped ship to Sabi, back](../../../../assets/images/2026/09/14/2099524312881586508-1.jpg)
+
+🔗 [View original post](https://x.com/rohanpaul_ai/status/2099524312881586508)
+
+---
+
+### 🕐 15:42 UTC · @Wise1Philosophy
+
+> Your flowcharts shouldn’t take longer than the code🤯 This GitHub skill lets Claude Code turn it into architecture diagrams. https://github.com/tt-a1i/archify
+
+![Your flowcharts shouldn’t take longer than the code🤯 This GitHub skill lets Claude Code turn it into architecture diagrams. https://github.com/tt-a1i/archify](../../../../assets/images/2026/09/14/2099524187052494905-1.jpg)
+
+🔗 [View original post](https://x.com/ScaleWthAI/status/2099524187052494905)
 
 ---
 
@@ -11,6 +341,14 @@
 > A guy bought a $250 Nest thermostat because it &quot;saves money on energy.&quot; He installed it. He set the temperature to 72°F. He never opened the app again. Two years later, his energy bill is identical to what it was with his old $30 thermostat because the Nest is doing exactly what the old one did: holding one temperature, 24 hours a day, 7 days a week, whether he&apos;s home or not, whether he&apos;s awake or asleep, whether it&apos;s July or January. No schedule. No Home/Away detection. No eco setbacks. No Seasonal Savings. No energy reports. No filter reminders. A $250 smart thermostat running as dumb as the dial it replaced. An HVAC technician of 18 years who&apos;s walked into over 2,000 homes looked at his thermostat and said: &quot;You&apos;re not the exception. You&apos;re the rule. 80% of smart thermostat owners set a temperature on installation day and never configure anything else. The smart thermostat doesn&apos;t save money. The smart features save money and you have to turn them on. Yours are all off.&quot; He looked at the settings. Fan mode: &quot;On&quot; running the blower 24/7, costing $300/year. Schedule: none heating and cooling an empty house 10 hours a day. Eco temperatures: never set no setback when he leaves or sleeps. Air filter: unchanged for 14 months reducing system efficiency by 5-15%. And 4 vents in unused rooms: closed creating duct pressure that strains the blower and cracks seams. &quot;Your thermostat has 9 features designed to save you $600-$900/year. You&apos;ve configured zero of them. You bought a smart thermostat and gave it nothing to be smart about.&quot; He changed 9 things in 15 minutes. The energy bill dropped $52 the first month. Here are the 9 things he changed 🧵
 
 🔗 [View original post](https://x.com/jackcoder0/status/2099523079911440693)
+
+---
+
+### 🕐 15:37 UTC · @Wise1Philosophy
+
+> 🚨 BREAKING: AI is now building full Instagram Pages from the ground up, and creators are reaching monetisation in as little as 90 days. When I first got into this, it completely changed my life. Whether you&apos;re stuck in a 9-5 or already running a business looking for another income stream, this is one of the easiest ways to build a real, ownable asset while generating income on the side 👀 No experience needed, just consistency. The sooner you start, the sooner you start seeing results. Message me &quot;READY&quot; and I&apos;ll walk you through exactly how it works. Media
+
+🔗 [View original post](https://x.com/amelieannepl/status/2099523025364267053)
 
 ---
 

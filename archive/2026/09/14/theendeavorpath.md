@@ -2,7 +2,15 @@
 
 ## 📅 September 14, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 17:19 UTC · @theendeavorpath
+
+> Growing up, most of us were taught how to study, get a job and make money. But nobody really teaches you how to take care of your body. I had to figure out a lot of it myself. So here are 33 things I wish I knew much earlier:
+
+🔗 [View original post](https://x.com/EnergyUp_/status/2099548666109612240)
 
 ---
 

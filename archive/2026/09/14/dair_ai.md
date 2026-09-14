@@ -2,7 +2,25 @@
 
 ## 📅 September 14, 2026
 
-> 3 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 17:07 UTC · @dair_ai
+
+> On building an agent harness from scratch. Got so many questions about where to get started. My short guide (feed it to your agent): If you really want to learn harnesses well, it&apos;s worth building one from scratch using a programming language (TypeScript or Python) of your choice. When I got started, I implemented my first harness using ReAct from Google: https://academy.dair.ai/papers/react-synergizing-reasoning-and-acting-in-language-models-2210.03629 At the time, I built this from scratch, but you can easily prompt your agent to consume the paper and produce a minimal implementation you can inspect and understand. You want to target having three parts: - an LLM module for all things inference, and it should ideally support several models. I used OpenRouter when I got started. This can include the system prompt, but you can also separate it out if you plan to explore context-engineering ideas more deeply. - a tools module (I recommend building them as MCP tools for interoperability, but you can design functions from scratch if you have experience). - an agent loop that encapsulates the tools and LLM. ReAct is one of the more basic loops you can implement. Primarily, aim to understand the main components and how they work with each other. Pro tips: - try to keep your system prompt minimal and experiment with different models; a mini version of all frontier lab models should be good enough to get you started. - look at the code and log things as you experiment with different tasks. You want to log inputs/outputs to the loop, inputs/outputs from LLMs, and inputs/outputs from tool calls as a starting point. Set up a simple set of diverse tasks to test your agent loop on. So with every change, you can run the tasks and inspect the results manually. Once you have a good grasp of this, you can easily add other things like skills, memory, etc., once you have a good idea of how to tune them. It helps to keep things modular if you are planning for this. I would recommend playing with memory, skill, and subagent as good next steps. If you don&apos;t want to build the components or want to start building a more serious agent harness, I recommend using the Pi SDK or LangChain harness tools. I am also going to release something soon to help with this. Let me know if you have questions. I am planning a longer write-up on this, but this should be enough to give you something to experiment with.
+
+![On building an agent harness from scratch. Got so many questions about where to get started. My short guide (feed it to your agent): If you really want to learn harnesses well, it&apos;s worth buildin](../../../../assets/images/2026/09/14/2099545598156288292-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2099545598156288292)
+
+---
+
+### 🕐 16:18 UTC · @dair_ai
+
+> Now is the best time to start building with frontier models. And more chances to bring your app ideas to life. Bolt Forge brings GLM, DeepSeek, and Kimi to @boltdotnew with up to 50x more usage. That means more room to try ideas, fix mistakes, and keep building. Introducing Bolt Forge. Free until Oct 14th: - Up to 50x more usage - The new frontier: GLM, DeepSeek, Kimi - Zero usage charges Live now in your model picker on https://bolt.new And one more thing... 👇
+
+🔗 [View original post](https://x.com/omarsar0/status/2099533286695378985)
 
 ---
 

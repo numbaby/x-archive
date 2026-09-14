@@ -2,7 +2,17 @@
 
 ## 📅 September 14, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 17:30 UTC · @bcherny
+
+> Claude Mods are landing now. Someone already built a Tetris-in-Claude mod 🤯 See issue for the latest community update, technical details, and more cool demos https://github.com/anthropics/claude-code/issues/91870#issuecomment-5666255143
+
+![Claude Mods are landing now. Someone already built a Tetris-in-Claude mod 🤯 See issue for the latest community update, technical details, and more cool demos https://github.com/anthropics/claude-code/](../../../../assets/images/2026/09/14/2099551291601248485-1.jpg)
+
+🔗 [View original post](https://x.com/bcherny/status/2099551291601248485)
 
 ---
 

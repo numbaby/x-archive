@@ -2,7 +2,15 @@
 
 ## 📅 September 14, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 17:00 UTC · @rasbt
+
+> Also, if mildly regulated, I think there&apos;s also a &quot;Sorry that this happened, but we did everything right and followed the framework&quot; kind of incentive that makes this attractive to companies to deflect blame and cope with the anti AI sentiment.
+
+🔗 [View original post](https://x.com/rasbt/status/2099543908631884013)
 
 ---
 

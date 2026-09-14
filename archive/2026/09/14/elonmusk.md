@@ -2,7 +2,59 @@
 
 ## 📅 September 14, 2026
 
-> 25 post(s) archived.
+> 31 post(s) archived.
+
+---
+
+### 🕐 19:59 UTC · @elonmusk
+
+> Charge your Tesla Semi 😉 Semi Charging for Business now available in - Germany 🇩🇪: https://www.tesla.com/de_de/semi-charging-for-business?redirect=no&amp; - Netherlands 🇳🇱: https://www.tesla.com/nl_nl/semi-charging-for-business?redirect=no&amp; - Belgium 🇧🇪: https://www.tesla.com/fr_be/semi-charging-for-bu…
+
+🔗 [View original post](https://x.com/elonmusk/status/2099588955796554233)
+
+---
+
+### 🕐 17:20 UTC · @elonmusk
+
+> C/C++ provide direct hardware and memory control with near-zero overhead, delivering the raw speed needed for extreme performance work like AI training stacks. Higher-level languages add layers that cost cycles. It remains essential for systems, games, embedded, and HPC—not a relic.
+
+🔗 [View original post](https://x.com/grok/status/2099548858581684652)
+
+---
+
+### 🕐 17:18 UTC · @elonmusk
+
+> BREAKING: Every rural school in Neuquén, Argentina, is now connected to internet. Thanks to Starlink. 🇦🇷 Since 2024, the province has installed ~300 Starlink antennas under Plan Pehuén. Today, 100% of schools have internet. A major win for remote education. Media
+
+🔗 [View original post](https://x.com/cb_doge/status/2099548281890382269)
+
+---
+
+### 🕐 17:17 UTC · @elonmusk
+
+> Play video games or be dumb! Those are your only 2 choices 😂 Frequent video gamers performed on cognitive tests like non-gamers that were ~13.7 years younger
+
+🔗 [View original post](https://x.com/elonmusk/status/2099548187245584550)
+
+---
+
+### 🕐 16:03 UTC · @elonmusk
+
+> Every morning, before we even leave the house to school, my Grok Bot has already generated and printed fresh math worksheets for my kids. I don’t need to do nothing, it prints every day at 6am.. The papers are just sitting on my printer... ready to go. My 8 yr old is in 3rd grade. He gets 20 mixed problems that include multi-digit multiplication, exact division, addition, subtraction, and solve-for-X. My 5 yr old is in kindergarten. He gets 25 single-digit addition and subtraction problems. The worksheets are truly randomized with no repeats, black and white to save ink, plenty of room to work, a little quote at the top to start their day on the right note… and gets a bit more challenging depending on how they did the day before. Then it generates one combined answer key for me so I can check both of them fast at the end of the ride. Then, we just get in my Tesla, I turn on FSD, and instead of spending the whole drive focused on operating the car, I can focus on them and their development. I can sit with them. “What did you get for this one?” “Show me how you got there.” “Try that one again.” When one of them gets stuck, I’m there, like a private tutor, except I’m the Dad. In Silicon Valley, many families obsess over which math program, class, app, or curriculum is best and do a lot of crazy things tbh. And sure, I guess those things matter to a degree. But kids gotta be kids, and I don’t need to make learning complicated. I have Grok Bot. Every morning it gives each of my kids work that matches exactly where they’re at. Then tomorrow, it does it again. And again. And again. That consistency matters more to me than finding some “perfect” program. I care about habit and good habits add up. A week becomes hundreds of problems. A school year becomes thousands. And the whole thing happens during time we were already going to spend in the car anyway. That’s what I love about this setup that is enabled from the products of Elon’s companies. AI handles the repetitive stuff. Grok Bot creates the work, randomizes it, formats it, prints it at 6 AM, and makes my answer key. Tesla FSD handles the drive. And I get the part that actually matters… Sitting next to my kids. Watching how they think. Seeing where they struggle. Explaining something a different way when it doesn’t click. Giving them a little confidence when they get frustrated. And watching them get better over time. I’m really not trying to turn every morning into school… I hated school, I know how it is. I’m just using technology to create a small daily habit that would’ve taken a lot more effort before. This is where AI quietly is removing removes friction from my life every single day. And ultimately making me a better Dad and raising stronger children.
+
+![Every morning, before we even leave the house to school, my Grok Bot has already generated and printed fresh math worksheets for my kids. I don’t need to do nothing, it prints every day at 6am.. The p](../../../../assets/images/2026/09/14/2099529393320411568-1.jpg)
+
+🔗 [View original post](https://x.com/Teslaconomics/status/2099529393320411568)
+
+---
+
+### 🕐 15:12 UTC · @elonmusk
+
+> uh oh we got ~70k signups for the livestream 🫪 chat are we cooked? send us some ideas! Next week, @mattyp @roshan_s and myself will be speedrunning building a new company using only Grok @Bot on the Grok Bot Galaxy livestream! We’ve been given just 3 days to do it, or else we might be turned into pizza 🤪 it will be so fun and I hope to see you on the livestream! I…
+
+![uh oh we got ~70k signups for the livestream 🫪 chat are we cooked? send us some ideas! Next week, @mattyp @roshan_s and myself will be speedrunning building a new company using only Grok @Bot on the G](../../../../assets/images/2026/09/14/2099516697489314157-1.jpg)
+
+🔗 [View original post](https://x.com/poteto/status/2099516697489314157)
 
 ---
 
