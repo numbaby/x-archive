@@ -2,7 +2,15 @@
 
 ## 📅 September 14, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 05:19 UTC · @tunguz
+
+> Me trying to take a look at the code I wrote 1+ years ago. Media
+
+🔗 [View original post](https://x.com/tunguz/status/2099367441843519835)
 
 ---
 
