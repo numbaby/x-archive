@@ -2,7 +2,63 @@
 
 ## 📅 September 15, 2026
 
-> 8 post(s) archived.
+> 15 post(s) archived.
+
+---
+
+### 🕐 06:17 UTC · @elonmusk
+
+> Slovenia 🇸🇮 🙌 “[FSD Supervised] is safe, efficient, and above all, an exciting glimpse into the future of mobility. It doesn&apos;t get tired, doesn&apos;t fall asleep, and can significantly contribute to safer driving” – Slovenia’s Deputy Prime Minister &amp; Minister for Infrastructure &amp; Energy 🇸🇮
+
+🔗 [View original post](https://x.com/elonmusk/status/2099744349017747493)
+
+---
+
+### 🕐 06:15 UTC · @elonmusk
+
+> True SpaceX specializes in converting things from impossible to late
+
+🔗 [View original post](https://x.com/elonmusk/status/2099743954707067058)
+
+---
+
+### 🕐 06:06 UTC · @elonmusk
+
+> Elon just gave a much more practical explanation of the current AI safety problem....and laid out a practical framework for making frontier AI safer OpenAI and Anthropic are the two leading AI companies....and their models are close enough in capability that it’s incredibly difficult for either one to slow down without basically handing the lead to the other Elon also made an important distinction: On balance, Anthropic puts more care into safety than OpenAI....but even people inside Anthropic are publicly worried about what their own models can do So instead of asking one company to voluntarily fall behind, Elon’s solution is much more practical: Have Anthropic run its safety test harness on OpenAI models Have OpenAI test Anthropic Have SpaceXAI test both And bring the leading Chinese AI companies into the same system Everyone tries to break everyone else’s models before release “The odds that you will find issues are dramatically greater” That makes way more sense than asking frontier labs to grade their own homework Media All-In Summit: Elon Musk &amp; Gwynne Shotwell -- AI Risks and Peer Review -- Starship -- Terafab as Taiwan Insurance -- SpaceX/Tesla Merger Potential -- Management at SpaceX ++ much more! (0:00) SpaceX&apos;s @Gwynne_Shotwell joins The Besties! (1:45) Gwynne&apos;s SpaceX story, selling rocke…
+
+🔗 [View original post](https://x.com/XFreeze/status/2099741633868865621)
+
+---
+
+### 🕐 05:59 UTC · @elonmusk
+
+> Wow This is absolutely DISGUSTING. James Talarico said parents who don’t transition their kids are “abusive” and thinks they should have their kids taken from them.
+
+🔗 [View original post](https://x.com/elonmusk/status/2099739744598962225)
+
+---
+
+### 🕐 05:58 UTC · @elonmusk
+
+> Physics is a harsh judge Elon’s entire engineering philosophy in one sentence: “Physics is the law, and everything else is a recommendation” &quot;Physics is a harsh judge, and there&apos;s no fooling physics. If something&apos;s wrong, the rocket&apos;s going to explode. It&apos;s not going to get to orbit. So it&apos;s not like, &quot;E…
+
+🔗 [View original post](https://x.com/elonmusk/status/2099739543360438774)
+
+---
+
+### 🕐 05:56 UTC · @elonmusk
+
+> All-In All-In Summit: Elon Musk &amp; Gwynne Shotwell -- AI Risks and Peer Review -- Starship -- Terafab as Taiwan Insurance -- SpaceX/Tesla Merger Potential -- Management at SpaceX ++ much more! (0:00) SpaceX&apos;s @Gwynne_Shotwell joins The Besties! (1:45) Gwynne&apos;s SpaceX story, selling rocke…
+
+🔗 [View original post](https://x.com/elonmusk/status/2099739227499942339)
+
+---
+
+### 🕐 05:56 UTC · @elonmusk
+
+> ELON MUSK: I saw some pretty funny jokes on 𝕏. One of them I saw was: &apos;Your girlfriend&apos;s a 10, but she&apos;s a benchmark maxxer.&apos; 🤣 Media All-In Summit: Elon Musk &amp; Gwynne Shotwell -- AI Risks and Peer Review -- Starship -- Terafab as Taiwan Insurance -- SpaceX/Tesla Merger Potential -- Management at SpaceX ++ much more! (0:00) SpaceX&apos;s @Gwynne_Shotwell joins The Besties! (1:45) Gwynne&apos;s SpaceX story, selling rocke…
+
+🔗 [View original post](https://x.com/cb_doge/status/2099739185943056674)
 
 ---
 
