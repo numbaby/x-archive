@@ -2,7 +2,125 @@
 
 ## 📅 September 15, 2026
 
-> 41 post(s) archived.
+> 54 post(s) archived.
+
+---
+
+### 🕐 11:16 UTC · @Wise1Philosophy
+
+> Fatty liver now affects 1 in 3 adults. It destroys your metabolism, tracks with diabetes, and increases your risk of heart disease. Here is how to walk it back: 1. Eat all the sweet potatoes you want.
+
+![Fatty liver now affects 1 in 3 adults. It destroys your metabolism, tracks with diabetes, and increases your risk of heart disease. Here is how to walk it back: 1. Eat all the sweet potatoes you want.](../../../../assets/images/2026/08/29/2093628980859682903-1.jpg)
+
+🔗 [View original post](https://x.com/CoachJulianNiko/status/2099819526875759053)
+
+---
+
+### 🕐 10:56 UTC · @Wise1Philosophy
+
+> a16z’s David George argues ai is pushing the power law into overdrive because money itself can now stack a company’s edge: “it’s pretty obvious the power law is sharper today than it’s been for the past 10 to 20 years of tech investing, maybe since the rise of network effect consumer winners.” “we’ve always lived with increasing returns… reputation, resource buildup, and other forms of accumulation create defensible advantages.” “all of that still holds. but with the labs, for the first time in my career, you can basically pour capital into a company and that spend directly amplifies the lead.” “traditionally, the fastest way to ruin a startup is to swamp it with cash, hire 1,000 people, and end up with coordination drag, overhead, and teams pulling in different directions… because humans can’t scale execution fast enough.” “but this time it’s different. you can funnel dollars into compute, and the compute turns into better products and stronger businesses. so it’s not shocking the power law looks more extreme. in ai, scale economies are very real right now, and i expect that to keep being true.” Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2099814555195228437)
+
+---
+
+### 🕐 10:46 UTC · @Wise1Philosophy
+
+> 7 early signs that your liver is quietly starting to fail (and what to do about it): 1. Itching, especially at night
+
+![7 early signs that your liver is quietly starting to fail (and what to do about it): 1. Itching, especially at night](../../../../assets/images/2026/09/15/2099811975517950447-1.jpg)
+
+🔗 [View original post](https://x.com/IranaJasmin/status/2099811975517950447)
+
+---
+
+### 🕐 10:33 UTC · @Wise1Philosophy
+
+> You don&apos;t need to open 6 apps for small jobs. Siri AI does all 6 for you (in plain words): MESSAGES Finds the restaurant a friend sent you. No scrolling back through three weeks of chat. MAIL Pulls up your hotel confirmation number. Even from the email you forgot about. CALENDAR Adds the dinner plan sitting on your screen. You don&apos;t retype a single detail. MUSIC Adds the song to your gym playlist. You just say which one. APPLE CASH Splits the bill with your friends. Nobody gets the calculator out. CAMERA Tells you how healthy the plate in front of you is. Point, ask, done. iOS 27 brought this on 14 Sep, and it&apos;s a beta. You&apos;ll need an iPhone 15 Pro or later. It&apos;s English first, and not in the EU or China yet. Expect daily limits, with paid Expanded Access. To try it, update to iOS 27 and opt in. Join the waitlist if Apple puts you on one. The big change is simple. Old Siri answered you. Siri AI reads your apps, sees your screen and acts. Start with the one you do ten times a day. Follow Muhammad Ayan ♻️ Repost to help others Which job would you give Siri first? https://x.com/i/article/2097274811928231936
+
+![You don&apos;t need to open 6 apps for small jobs. Siri AI does all 6 for you (in plain words): MESSAGES Finds the restaurant a friend sent you. No scrolling back through three weeks of chat. MAIL Pul](../../../../assets/images/2026/09/15/2099808865424711783-1.jpg)
+
+🔗 [View original post](https://x.com/socialwithaayan/status/2099808865424711783)
+
+---
+
+### 🕐 10:30 UTC · @Wise1Philosophy
+
+> YOUR MACBOOK HAS BEEN SECRETLY SLOWING DOWN FOR MONTHS. Here&apos;s the one setting that fixes it:👇
+
+🔗 [View original post](https://x.com/Kevincreates77/status/2099808132122001748)
+
+---
+
+### 🕐 10:29 UTC · @Wise1Philosophy
+
+> What if we got to experience Los Santos like this in GTA 6? This feels like a game I could spend hours playing. Created with @itsPolloAI #PolloAI #GTA6 #AIVideo Media
+
+🔗 [View original post](https://x.com/thetripathi58/status/2099807810880221459)
+
+---
+
+### 🕐 10:26 UTC · @Wise1Philosophy
+
+> You can make around $800/month with ChatGPT, a laptop, an internet connection, and just 60 minutes a day. I know it sounds crazy, but AI has created some very practical ways to make money online. Here’s the simple approach 🧵👇
+
+![You can make around $800/month with ChatGPT, a laptop, an internet connection, and just 60 minutes a day. I know it sounds crazy, but AI has created some very practical ways to make money online. Here](../../../../assets/images/2026/09/15/2099807075773903320-1.png)
+
+🔗 [View original post](https://x.com/REXO_TECH/status/2099807075773903320)
+
+---
+
+### 🕐 10:19 UTC · @Wise1Philosophy
+
+> 🚨 BREAKING NEWS: Apple has officially released iOS 27 for all users! One of the biggest updates to iOS to date. Here are 9 new features you shouldn&apos;t miss:
+
+![🚨 BREAKING NEWS: Apple has officially released iOS 27 for all users! One of the biggest updates to iOS to date. Here are 9 new features you shouldn&apos;t miss:](../../../../assets/images/2026/09/15/2099805368889016536-1.jpg)
+
+🔗 [View original post](https://x.com/AriaWestcott/status/2099805368889016536)
+
+---
+
+### 🕐 10:19 UTC · @Wise1Philosophy
+
+> The 3pm crash in your energy, your focus and your mood is extremely easy to fix once you realize this:
+
+🔗 [View original post](https://x.com/dzejlacathleen/status/2099805173220819384)
+
+---
+
+### 🕐 10:06 UTC · @Wise1Philosophy
+
+> Recuperamos 8 horas de trabajo cada semana después de delegar la pre-investigación a Viktor. Cada día aparecen cientos de noticias, herramientas y novedades sobre IA. En GptZone, nuestro problema ya no era encontrar información. Era saber cuál merecía convertirse en contenido. Entre medios, blogs, newsletters, lanzamientos, redes y comunidades, podíamos pasar buena parte del día buscando. Y durante mucho tiempo lo hicimos. Abrir fuentes. Revisar novedades. Descartar ruido. Comprobar si ya habíamos hablado del tema. Buscar un ángulo. Y finalmente decidir qué merecía llegar a nuestra web, newsletter o redes. La IA nos ayudaba, pero había algo bastante absurdo: para preguntarle qué era importante, primero teníamos que encontrar nosotros lo importante. Así que cambiamos el enfoque con Viktor. En lugar de usarlo para crear contenido, empezamos a delegarle el trabajo que ocurre antes de crearlo. Le dimos nuestras fuentes y criterios de investigación. Viktor revisó las fuentes, organizó las señales, identificó patrones y preparó oportunidades editoriales dentro de Slack. El resultado fue 8 horas recuperadas cada semana para el equipo, mientras seguíamos publicando más de 1.000 contenidos al mes entre web, newsletter y redes. Y eso es lo importante: Viktor no decide qué publicamos. Nos entrega el trabajo previo para que nuestro equipo pueda revisar, priorizar y tomar la decisión final. Viktor trabaja dentro de Slack y Microsoft Teams y conecta con 3.200+ herramientas. Un chatbot espera a que encuentres algo y le hagas una pregunta. Un AI employee puede encargarse del trabajo que ocurre antes de esa pregunta. Menos tiempo buscando. Más tiempo creando. Hire @viktor_com for your team. $100 in credits included, no card. Full link in first comment. In partnership with Viktor.
+
+![Recuperamos 8 horas de trabajo cada semana después de delegar la pre-investigación a Viktor. Cada día aparecen cientos de noticias, herramientas y novedades sobre IA. En GptZone, nuestro problema ya n](../../../../assets/images/2026/09/15/2099801937738608667-1.jpg)
+
+🔗 [View original post](https://x.com/MiguelMaestroIA/status/2099801937738608667)
+
+---
+
+### 🕐 10:00 UTC · @Wise1Philosophy
+
+> TAKING MAGNESIUM CORRECTLY WILL STOP THE CRAMPS YOU HAVE BEEN BLAMING ON DEHYDRATION. (99% ARE TAKING THE WRONG FORM)
+
+🔗 [View original post](https://x.com/yourcamilavega/status/2099800426942173288)
+
+---
+
+### 🕐 09:51 UTC · @Wise1Philosophy
+
+> 🚨 SOMEONE BUILT A FULL GAME ALONE No team. No 3D modeling skills. He talked to an AI and it wrote the code and built the game. You can play it right now in your browser. No download. No install. Click in and you&apos;re on a bike: throwing papers, dodging dogs. Not a tech demo. A real game. The numbers: - Tokens used: 1.56 billion - Time to build: 39 hours - Cost in AI usage: $2,175 - Commits: 90 - Days from start to launch: 11 He ran two separate chats the whole time: One handled how the game plays. The other handled how it looks. The AI was fine at houses and trees. Faces were the problem so he made a character in a different tool, turned it into a 3D model, and handed it back to the AI to finish. What actually surprised him: the AI took screenshots of its own work, checked them, and fixed most mistakes on its own. One guy, one AI, a few days. Media
+
+🔗 [View original post](https://x.com/charliejhills/status/2099798372941242629)
+
+---
+
+### 🕐 09:50 UTC · @Wise1Philosophy
+
+> This is the cutest thing you&apos;ll see today and it was made entirely with AI.
+
+![This is the cutest thing you&apos;ll see today and it was made entirely with AI.](../../../../assets/images/2026/09/15/2099797921549979769-1.jpg)
+
+🔗 [View original post](https://x.com/AIHighlight/status/2099797921549979769)
 
 ---
 
