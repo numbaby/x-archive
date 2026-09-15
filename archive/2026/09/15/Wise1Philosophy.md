@@ -2,7 +2,216 @@
 
 ## 📅 September 15, 2026
 
-> 70 post(s) archived.
+> 105 post(s) archived.
+
+---
+
+### 🕐 14:49 UTC · @Wise1Philosophy
+
+> Every standalone device got absorbed into the phone over the last decade. Incredibly convenient, but there was a hidden cost: everything became an app, and every task started with a screen. Moonphase Flip takes a different approach, your priorities are just there when you need them, without unlocking, opening an app, or searching for information. Maybe the future isn&apos;t more apps on one screen, but smarter devices that ask less from us. Meet Moonphase Flip: a low-distraction AI screen on the back of your phone that keeps track of your to-dos and takes actions before you ask. Threads below 🧵 Explore more: https://hellomoonphase.com/s/17e982
+
+![Every standalone device got absorbed into the phone over the last decade. Incredibly convenient, but there was a hidden cost: everything became an app, and every task started with a screen. Moonphase ](../../../../assets/images/2026/09/15/2099873138997944689-1.jpg)
+
+🔗 [View original post](https://x.com/HeyZoyaKhan/status/2099873138997944689)
+
+---
+
+### 🕐 14:31 UTC · @Wise1Philosophy
+
+> The smartphone&apos;s greatest strength became its biggest limitation. Because everything can happen on one screen, everything eventually competes for your attention on that screen. Messages. Maps. Photos. Notes. Social media. Work. Entertainment. AI. The device is incredibly capable, but the user has to keep switching contexts. Maybe we need to optimize technology for doing less. That&apos;s what makes Moonphase Flip interesting. Specialized hardware doesn&apos;t have to mean less capable. With AI handling more of the complexity underneath, the experience can become more focused while the technology becomes more intelligent. The winning device may not be the one with the most visible capabilities. It may be the one that asks the least from you. Meet Moonphase Flip: a low-distraction AI screen on the back of your phone that keeps track of your to-dos and takes actions before you ask. Threads below 🧵 Explore more: https://hellomoonphase.com/s/17e982
+
+![The smartphone&apos;s greatest strength became its biggest limitation. Because everything can happen on one screen, everything eventually competes for your attention on that screen. Messages. Maps. Ph](../../../../assets/images/2026/09/15/2099868787206197594-1.jpg)
+
+🔗 [View original post](https://x.com/HeyZaraKhan/status/2099868787206197594)
+
+---
+
+### 🕐 14:25 UTC · @Wise1Philosophy
+
+> Silicon Valley calls it “moving money.” A founder in Bangladesh calls it “why on earth can’t I get paid?” Same transaction. Completely different reality. That’s the opening for http://Fin.com. When getting paid is what holds you back, fixing payments means unlocking businesses that should already exist. https://Fin.com. $20M Raised. 7 M&amp;A’s completed in 12 months. Investors include Expa, Coinbase Ventures, and Tenet Fund. 825 million users impacted. You have probably used us already. We help your favorite fintechs move money to the rest of the world.
+
+![Silicon Valley calls it “moving money.” A founder in Bangladesh calls it “why on earth can’t I get paid?” Same transaction. Completely different reality. That’s the opening for http://Fin.com. When ge](../../../../assets/images/2026/09/15/2099867236148097432-1.jpg)
+
+🔗 [View original post](https://x.com/alex_verem/status/2099867236148097432)
+
+---
+
+### 🕐 14:22 UTC · @Wise1Philosophy
+
+> I started taking magnesium at night, a probiotic in the morning, and omega-3 at lunch. Without exaggerating, my personality changed 180 degrees. 1. Magnesium. At night. You should take it too.
+
+🔗 [View original post](https://x.com/thisispeak007/status/2099866326819123308)
+
+---
+
+### 🕐 14:21 UTC · @Wise1Philosophy
+
+> “Build from anywhere” is a bad joke if you can’t get paid from anywhere. AI helps you ship the product. The internet brings you customers. Then your bank makes geography your problem again. That’s the opportunity for http://Fin.com. An entire generation of founders whose ambition has outgrown their banking infrastructure. https://Fin.com. $20M Raised. 7 M&amp;A’s completed in 12 months. Investors include Expa, Coinbase Ventures, and Tenet Fund. 825 million users impacted. You have probably used us already. We help your favorite fintechs move money to the rest of the world.
+
+![“Build from anywhere” is a bad joke if you can’t get paid from anywhere. AI helps you ship the product. The internet brings you customers. Then your bank makes geography your problem again. That’s the](../../../../assets/images/2026/09/15/2099867236148097432-1.jpg)
+
+🔗 [View original post](https://x.com/alex_prompter/status/2099866257222672718)
+
+---
+
+### 🕐 14:01 UTC · @Wise1Philosophy
+
+> Larry Ellison briefly became the richest person on earth this September. His net worth crossed $200 billion overnight. Built on a single deal that has not paid a dime yet. Here is why every AI investor should be paying attention: There is a quote Ellison repeats so often people think he wrote it. &quot;It is not enough that I win. Everybody else has to lose.&quot; That is the mindset you need to understand what just happened. On September 10, Oracle announced its future orders had grown 359%. The number: $455 billion in signed contracts. Most of it tied to a single customer - OpenAI. The stock jumped 36% in one session. Its best day since 1992. Ellison owns about 40% of Oracle. His net worth spiked instantly. Then the fine print came out. Future orders are not revenue. They are promises to pay Oracle over the next decade. Not cash or money in the bank. Promises! Oracle still has to borrow tens of billions to actually build the data centers. And Oracle&apos;s free cash flow just turned negative. For the first time in nearly 30 years. The company that was profitable for decades is now bleeding cash. Everything depends on one customer paying every quarter for ten years. Now here is what history says. This is not the first time Ellison bet the company on future orders. In the late 1990s, the SEC investigated Oracle for overstating sales. The stock fell 75%. The company nearly went bankrupt. New accounting rules were written specifically because of Oracle&apos;s practices. &gt; Same founder &gt; Same playbook &gt; Bigger stakes Except this time, the entire AI trade is riding on it. Oracle is now a $450 billion company. Every S&amp;P 500 index fund on earth now owns it. Every 401k retirement plan is exposed to one contract, one customer, one promise. The customer, OpenAI, has never turned a profit. It is projected to lose $14 billion this year alone. That is the entity paying Oracle over the next decade. Most retail investors have no idea. They just buy the ticker. They watch it go up. They tell themselves it is diversified. When the story cracks, retail sells at the bottom. Then chases the recovery at the top. Same cycle. Every time. Because narrative-driven investing has no rules. It only has emotions. Rules-based strategies do not care who is the richest person on earth. They do not care about press releases. They execute the plan while everyone else guesses. That is exactly what Surmount was built for. Media
+
+🔗 [View original post](https://x.com/SurmountInvest/status/2099861136531431613)
+
+---
+
+### 🕐 13:59 UTC · @Wise1Philosophy
+
+> Many thanks to @FortuneMagazine for the exclusive: https://fortune.com/2026/09/15/exclusive-expa-coinbase-ventures-fin-com-20-million-seed-round-global-stablecoin-infrastructure/
+
+![Many thanks to @FortuneMagazine for the exclusive: https://fortune.com/2026/09/15/exclusive-expa-coinbase-ventures-fin-com-20-million-seed-round-global-stablecoin-infrastructure/](../../../../assets/images/2026/09/15/2099860607532990911-1.jpg)
+
+🔗 [View original post](https://x.com/Moneymamba/status/2099860607532990911)
+
+---
+
+### 🕐 13:59 UTC · @Wise1Philosophy
+
+> https://Fin.com. $20M Raised. 7 M&amp;A’s completed in 12 months. Investors include Expa, Coinbase Ventures, and Tenet Fund. 825 million users impacted. You have probably used us already. We help your favorite fintechs move money to the rest of the world. Media
+
+🔗 [View original post](https://x.com/Moneymamba/status/2099860604810916135)
+
+---
+
+### 🕐 13:56 UTC · @Wise1Philosophy
+
+> If you’ve been keeping tabs on the AI world these last few days, you need to watch this interview with Anthropic’s @DarioAmodei. He floats the idea that AI could wipe out 10% of the population before this decade is over, and he lays out why he believes “AI progress” should be slowed in the name of safety… Then he even credits @sama and @elonmusk for backing the same push. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2099859871869067670)
+
+---
+
+### 🕐 13:44 UTC · @Wise1Philosophy
+
+> ONCE YOU GET RICH, UPGRADE THESE 15 THINGS IMMEDIATELY:
+
+🔗 [View original post](https://x.com/Better_men/status/2099856798748749977)
+
+---
+
+### 🕐 13:42 UTC · @Wise1Philosophy
+
+> If I wanted to get dementia as fast as possible, here is exactly what I would do: 1. Sleep six hours a night Media
+
+🔗 [View original post](https://x.com/MarkoSilva291/status/2099856296661180546)
+
+---
+
+### 🕐 13:24 UTC · @Wise1Philosophy
+
+> You can earn $7000/month if you have ChatGPT, a laptop, and 60 mins a day. Usually, I&apos;d charge $79 for this guide, but today you get it completely free. Like + reply &apos;Money&apos; and I&apos;ll send you my detailed guide for FREE. Must follow me to get guide in your DM. FREE for 48 hrs.
+
+![You can earn $7000/month if you have ChatGPT, a laptop, and 60 mins a day. Usually, I&apos;d charge $79 for this guide, but today you get it completely free. Like + reply &apos;Money&apos; and I&apos;](../../../../assets/images/2026/09/15/2099851875906682899-1.png)
+
+🔗 [View original post](https://x.com/iam_chonchol/status/2099851875906682899)
+
+---
+
+### 🕐 13:16 UTC · @Wise1Philosophy
+
+> ESTA ESCENA DE LUCHA CINEMATOGRÁFICA COMENZÓ CON DOS SENCILLOS MANIQUÍES 3D Planifiqué cada patada, caída y ángulo de cámara dentro de @pippitofficial usando su 3D Director Studio. Luego, Seedance 2.5 transformó la puesta en escena en la toma final. Cómo funciona el flujo completo: → Creas personajes 3D y más de 150 objetos dentro de Pippit → Coreografías acciones en una línea de tiempo (patadas, saltos, reacciones) → Planificas movimientos de cámara y encuadres → Sincronizas cada movimiento en la timeline hasta que la secuencia se ve correcta → Renderizas la animación 3D como referencia → Seedance 2.5 convierte ese bloqueo 3D en video cinematográfico de acción real → Conserva el movimiento y la sincronización que planeaste Lo que antes era dejar cada toma al azar, ahora es dirigir la escena exactamente como la visualizas. Deja de depender del azar. Planifica en 3D, dirige el movimiento y dale vida con Seedance 2.5. Prueba 3D Director Studio aquí: http://www.pippit.ai/?utm_medium=Media&amp;utm_source=influencers_agency&amp;utm_campaign=x&amp;utm_content=2609_bld_ALEXANDERINSPIRA #3DDirectorStudio #PippitAI #Seedance25 #PippitPartner Media
+
+🔗 [View original post](https://x.com/Alex_Inspira/status/2099849818650919188)
+
+---
+
+### 🕐 13:16 UTC · @Wise1Philosophy
+
+> This changes the whole workflow!! 🔥 Woww.. Pletor just launched what they&apos;re calling the first creative agent for commerce. &gt; learns your identity, products, top performers and creative skills &gt; you brief it like a team, not a prompt box &gt; picks the references, models and products itself &gt; builds every asset on an …
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2099849806810108121)
+
+---
+
+### 🕐 13:05 UTC · @Wise1Philosophy
+
+> 69% of B2B buyers chose a different vendor than they originally planned based on what an AI chatbot told them. 33% bought from a brand they had never even heard of before. Increasingly in 2026 and beyond, if your brand is not the one AI is recommending, someone else’s brand is taking your deal. That is the reality SEO Stuff (https://www.seo-stuff.com/gold-plan-package) is helping businesses deal with every day. If you want to see where your site stands across Google and AI search, start here. It’s free: https://seo-stuff.com/free-audit According to G2’s 2026 Answer Economy report, based on 1,076 B2B software buyers and decision-makers, AI chatbots are now the number one source influencing which vendors make buyer shortlists. They are ahead of review sites, analyst reports and vendor websites. 51% of B2B software buyers now start their research with an AI chatbot more often than Google, up from 29% a year ago. 85% also say they think more highly of a vendor when it is cited in an AI-generated answer. Put simply, a buyer may walk in planning to use Vendor A, ask ChatGPT or Perplexity for recommendations and end up buying from Vendor B. One in three buyers in the study purchased from a brand they had never heard of before AI recommended it. Basically, in the old model, brand awareness did a lot of the filtering. Buyers shortlisted companies they already knew, then compared the familiar options. Now a lesser-known company can enter the shortlist purely because AI surfaced it during the research process. And a well-known company can lose a deal it assumed was secure because AI introduced the buyer to a better-fit alternative. So what determines whether AI recommends your brand or someone else’s? A big part of it comes down to two things: coverage and authority. When someone asks ChatGPT for the best project management tool for agencies or asks Perplexity for top CRM platforms for mid-market companies, the system may research several different parts of the decision before forming an answer. That can include features, pricing, use cases, integrations, alternatives, implementation, customer proof and category-specific questions. A brand with strong content across those areas has more chances to be discovered than one with a homepage and a handful of generic feature pages. Authority matters too. AI systems are much more comfortable citing companies and sources that have credible third-party validation through trusted publications, expert attribution, industry coverage, reviews and contextual backlinks. The brands building that visibility now are the ones putting themselves in position to take deals from competitors who are not. This is the system SEO Stuff was built around: http://seo-stuff.com The done-for-you package combines AI-search-optimized content with DR50+ contextual authority placements: https://seo-stuff.com/gold-plan-package The content helps your brand cover the commercial questions buyers ask before choosing a vendor, while the authority placements reinforce your expertise across trusted third-party sources. The Premium Content Bundle goes deeper: https://seo-stuff.com/premium-content-bundle-service It includes 60 long-form pieces designed to build broad coverage across the questions, comparisons, use cases and problems surrounding your category. That gives AI systems more opportunities to encounter your brand while researching a buyer’s decision. And the Premium Backlink Bundle strengthens the authority side: https://seo-stuff.com/premium-backlink-bundle-service It adds contextual DR50+ placements from trusted publishers that can help reinforce your brand, category and credibility across the web. Want to see how your brand is showing up in ChatGPT, Claude, Google AI, Grok, Perplexity and so forth? Start here. It’s free: https://seo-stuff.com/free-audit A brand followed the recommendations in this article and added $100,000 in Google, ChatGPT and broader AI search-related traffic.
+
+![69% of B2B buyers chose a different vendor than they originally planned based on what an AI chatbot told them. 33% bought from a brand they had never even heard of before. Increasingly in 2026 and bey](../../../../assets/images/2026/09/15/2099847098539921497-1.png)
+
+🔗 [View original post](https://x.com/alexgroberman/status/2099847098539921497)
+
+---
+
+### 🕐 13:04 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/15/2099846835758104984-1.jpg)
+
+🔗 [View original post](https://x.com/Life__Mastery/status/2099846835758104984)
+
+---
+
+### 🕐 13:02 UTC · @Wise1Philosophy
+
+> The 5 supplements you actually need to boost testosterone after 35: 1. Ashwagandha
+
+🔗 [View original post](https://x.com/MagnusLindbrg/status/2099846203223724132)
+
+---
+
+### 🕐 13:00 UTC · @Wise1Philosophy
+
+> It&apos;s ok to start over again...let somebody else appreciate you, and love you correctly.
+
+🔗 [View original post](https://x.com/_Pammy_DS_/status/2099845699558875278)
+
+---
+
+### 🕐 12:51 UTC · @Wise1Philosophy
+
+> Boring businesses are the greatest wealth-building tool for average Americans. Problem is, 99% of people don’t know which ones to start. Here are the top 7 anyone can use to get rich: 1) Line Painting Media
+
+🔗 [View original post](https://x.com/cleanwithmike/status/2099843536770236838)
+
+---
+
+### 🕐 12:42 UTC · @Wise1Philosophy
+
+> If I were in my 40s &amp; wanted to retire in the next 10 years, here&apos;s exactly what I&apos;d do: 1. Start an LLC before the week is over. Not next month. Not after you &quot;research more.&quot; This week.
+
+🔗 [View original post](https://x.com/gedamtekle/status/2099841176060805502)
+
+---
+
+### 🕐 12:36 UTC · @Wise1Philosophy
+
+> All Paid Courses (Free for First 4500 People) 𝗣𝗮𝗶𝗱 𝗖𝗼𝘂𝗿𝘀𝗲 𝗙𝗥𝗘𝗘 (PART - 1) 1. Artificial Intelligence 2. Machine Learning 3. Prompt Engineering 4. Claude,Chatgpt,Grok 5. Data Analytics 6. AWS Certified 7. Data Science 8. BIG DATA 9. Python 10. Ethical Hacking (72 Hours only ) Like + RT + comment &apos; Drive &apos; Must Follow me so I can DM you.
+
+![All Paid Courses (Free for First 4500 People) 𝗣𝗮𝗶𝗱 𝗖𝗼𝘂𝗿𝘀𝗲 𝗙𝗥𝗘𝗘 (PART - 1) 1. Artificial Intelligence 2. Machine Learning 3. Prompt Engineering 4. Claude,Chatgpt,Grok 5. Data Analytics 6. AWS Certified](../../../../assets/images/2026/09/06/2096581599894860173-1.png)
+
+🔗 [View original post](https://x.com/heyadam_ai/status/2099839689540894883)
+
+---
+
+### 🕐 12:34 UTC · @Wise1Philosophy
+
+> Dr. Mark Hyman, a 16 time New York Times best seller, spent decades to prove your body is designed to heal itself. Here’s 10 protocols to reduce symptoms in just 6 days; 1. Food is not fuel. Every bite changes your gene.
+
+🔗 [View original post](https://x.com/LongevityCode_/status/2099839361714106859)
+
+---
+
+### 🕐 12:32 UTC · @Wise1Philosophy
+
+> Years back, my heart went into atrial fibrillation at 3am. I was standing alone in a hospital corridor. I was the doctor on shift. And my own body was shutting down. The cause? Not genetics. Not diet. Not hypertension. Not stress alone. 1. I wasn&apos;t sleeping.
+
+🔗 [View original post](https://x.com/Dr_Biohacker/status/2099838648665694314)
+
+---
+
+### 🕐 12:30 UTC · @Wise1Philosophy
+
+> Holy f*ck, this actually an insane take: https://x.com/i/article/2098362190201843721
+
+🔗 [View original post](https://x.com/creatorpascal/status/2099838365587722615)
 
 ---
 
@@ -15,6 +224,50 @@
 
 ---
 
+### 🕐 12:30 UTC · @Wise1Philosophy
+
+> Tu teléfono es mucho más potente de lo que crees. Aquí tienes 15 apps que casi nadie conoce y tu smartphone necesita... Te dejarán sin palabras 🤐
+
+![Tu teléfono es mucho más potente de lo que crees. Aquí tienes 15 apps que casi nadie conoce y tu smartphone necesita... Te dejarán sin palabras 🤐](../../../../assets/images/2026/09/15/2099838259077513684-1.jpg)
+
+🔗 [View original post](https://x.com/IA_Quijote/status/2099838259077513684)
+
+---
+
+### 🕐 12:29 UTC · @Wise1Philosophy
+
+> wtf did I just read: https://x.com/i/article/2098362190201843721
+
+🔗 [View original post](https://x.com/IAmPascio/status/2099837961701331216)
+
+---
+
+### 🕐 12:28 UTC · @Wise1Philosophy
+
+> https://x.com/i/article/2098362190201843721
+
+🔗 [View original post](https://x.com/Scottvdberg/status/2099837847729537271)
+
+---
+
+### 🕐 12:28 UTC · @Wise1Philosophy
+
+> 80% of people who start the gym quit before their muscles actually start responding. 8 things you need to know before the third month:
+
+![80% of people who start the gym quit before their muscles actually start responding. 8 things you need to know before the third month:](../../../../assets/images/2026/09/15/2099837682079924346-1.png)
+
+🔗 [View original post](https://x.com/BeBetterMan_/status/2099837682079924346)
+
+---
+
+### 🕐 12:26 UTC · @Wise1Philosophy
+
+> Your body is flooded with cortisol and you do not even realise it. These are the 9 signs that confirm it: 1. Waking between 2 and 4am Media
+
+🔗 [View original post](https://x.com/mind_and_beauty/status/2099837152158949495)
+
+---
+
 ### 🕐 12:24 UTC · @Wise1Philosophy
 
 > Heart Attack = Blood sugar Heart Attack = Insulin resistance Heart Attack = No. 1 cause of death on Earth. Here’s the simple fix to protect your heart: 1. Don&apos;t go pee at 3 AM Media
@@ -23,11 +276,59 @@
 
 ---
 
+### 🕐 12:23 UTC · @Wise1Philosophy
+
+> 93% of Gen Z interns say they want to make it to senior leadership. So I looked at the people who get promoted faster than everyone else. They all have these 4 things in common:
+
+🔗 [View original post](https://x.com/valematvei/status/2099836395799953471)
+
+---
+
 ### 🕐 12:22 UTC · @Wise1Philosophy
 
 > One Agent plus an infinite board feels very clean, Pletor Pletor just dropped 2.0 and it completely changes how commerce brands make AI visuals. It&apos;s no longer just a workflow builder, it&apos;s a creative system built around your brand. &gt; Brain: guidelines, products and past campaigns in one place &gt; set it up from your site URL, brand book …
 
 🔗 [View original post](https://x.com/Wise1Philosophy/status/2099836223053275308)
+
+---
+
+### 🕐 12:21 UTC · @Wise1Philosophy
+
+> If you want a flat stomach, fix your cortisol ASAP. I switched my method a month ago and I&apos;m pissed off I didn&apos;t do it before. Here&apos;s what got rid of belly fat for me:
+
+🔗 [View original post](https://x.com/CoachWillStone/status/2099835966911640057)
+
+---
+
+### 🕐 12:15 UTC · @Wise1Philosophy
+
+> CTO: I want my engineers shipping with agents by next quarter. Me: Your engineers or ours? CTO: Mine. Yours already do. Me: Then I&apos;d start with you. CTO: Me personally? Me: You personally. If the person who owns the architecture won&apos;t push code through the harness, nobody below him will trust it. CTO: And when my code breaks something in a repo you&apos;re accountable for? Me: Then it gets caught in review, same as anyone&apos;s. You don&apos;t get a separate lane. CTO: You&apos;d let me commit into the platform you&apos;re contracted to deliver? We did, and he built his own agent harness. First production delivery from that workflow landed in April 2026. We&apos;ve been working on this performance marketing platform for three years. It started as a discovery project in 2023 and became all of it: product analysis, architecture, front end, back end, QA, DevOps. They had no engineering capability in-house when we met. Here&apos;s what year three looks like. Q1 2026: 22 production releases, around 120 tickets, zero rollbacks, all five planned major features delivered. February through June: 34 releases, six to nine every month. What makes it more impressive is that in February, our tech lead and solution architect both left. Why didn&apos;t it all fall apart? Because we&apos;d been running structured knowledge transfer since December. Three role transitions in five months, but the cadence never moved. That only works when the system doesn&apos;t live in anyone&apos;s head.
+
+🔗 [View original post](https://x.com/mardehaym/status/2099834371696115932)
+
+---
+
+### 🕐 12:14 UTC · @Wise1Philosophy
+
+> Fasting 96 hours literally causes your body to eat up diseased tissues, tumors, inflammation and toxins that hurt your longevity. I just started my fast for 4 days. Here’s exactly what I did:
+
+🔗 [View original post](https://x.com/TheFastedState/status/2099834257174859795)
+
+---
+
+### 🕐 12:11 UTC · @Wise1Philosophy
+
+> Your body is flooded with cortisol and you do not even realise it. These are the 9 signs that confirm it: 1. Waking between 2 and 4am Media
+
+🔗 [View original post](https://x.com/DPro_Coach/status/2099833518432141401)
+
+---
+
+### 🕐 12:10 UTC · @Wise1Philosophy
+
+> Anthropic just published its worst-case AI scenario. Good news: US economy grows 32% by 2030. Bad news: Almost none of it&apos;s going to you. Here&apos;s exactly what they said (&amp; how you can save yourself):
+
+🔗 [View original post](https://x.com/erichustls/status/2099833133482828147)
 
 ---
 
