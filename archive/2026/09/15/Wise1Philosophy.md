@@ -2,7 +2,83 @@
 
 ## 📅 September 15, 2026
 
-> 54 post(s) archived.
+> 70 post(s) archived.
+
+---
+
+### 🕐 12:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/15/2099838301939073158-1.jpg)
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2099838301939073158)
+
+---
+
+### 🕐 12:24 UTC · @Wise1Philosophy
+
+> Heart Attack = Blood sugar Heart Attack = Insulin resistance Heart Attack = No. 1 cause of death on Earth. Here’s the simple fix to protect your heart: 1. Don&apos;t go pee at 3 AM Media
+
+🔗 [View original post](https://x.com/CoachDanCole_/status/2099836685228093481)
+
+---
+
+### 🕐 12:22 UTC · @Wise1Philosophy
+
+> One Agent plus an infinite board feels very clean, Pletor Pletor just dropped 2.0 and it completely changes how commerce brands make AI visuals. It&apos;s no longer just a workflow builder, it&apos;s a creative system built around your brand. &gt; Brain: guidelines, products and past campaigns in one place &gt; set it up from your site URL, brand book …
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2099836223053275308)
+
+---
+
+### 🕐 12:08 UTC · @Wise1Philosophy
+
+> A poor diet is the #1 reason people can&apos;t lose weight. After coaching 800+ people, the ones who lose the fastest do this same thing, pick 3-4 simple diet on repeat. Here&apos;s the list: 1. 𝐄𝐠𝐠 &amp; 𝐑𝐢𝐜𝐞 (𝐒𝐢𝐦𝐩𝐥𝐞)
+
+![A poor diet is the #1 reason people can&apos;t lose weight. After coaching 800+ people, the ones who lose the fastest do this same thing, pick 3-4 simple diet on repeat. Here&apos;s the list: 1. 𝐄𝐠𝐠 &](../../../../assets/images/2026/09/08/2097155739064344737-1.jpg)
+
+🔗 [View original post](https://x.com/Fitby_Chandler/status/2099832848446582785)
+
+---
+
+### 🕐 12:04 UTC · @Wise1Philosophy
+
+> THE ONLY 5 EXERCISES YOUR BODY REALLY NEEDS. 1. Walking Media
+
+🔗 [View original post](https://x.com/BeBetter_Athlet/status/2099831828748390511)
+
+---
+
+### 🕐 12:01 UTC · @Wise1Philosophy
+
+> Eating anti-inflammatory for 30 days will have your energy stable, your stomach flat, and your skin completely different. Here are the bowls that changed ever ything for me:
+
+🔗 [View original post](https://x.com/LevelUpPrime/status/2099830993893101865)
+
+---
+
+### 🕐 11:50 UTC · @Wise1Philosophy
+
+> If you wake up to pee at 3 AM, it&apos;s cortisol. If your face is puffy, it&apos;s cortisol. If your libido is 0, it&apos;s cortisol. Here are the simple tips to fix all three: 1. No food 3 hours before bed Media
+
+🔗 [View original post](https://x.com/HeyKimChong/status/2099828097772319216)
+
+---
+
+### 🕐 11:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/15/2099823242814910950-1.jpg)
+
+🔗 [View original post](https://x.com/Daily__wisdom_/status/2099823242814910950)
+
+---
+
+### 🕐 11:28 UTC · @Wise1Philosophy
+
+> yup, photographers are gonna have some thoughts 👀 🚨 BREAKING NEWS: ChatGPT can now give your photos a full professional photoshoot glow-up Some prompts you can use are as follows:
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2099822725862719834)
 
 ---
 
@@ -13,6 +89,25 @@
 ![Fatty liver now affects 1 in 3 adults. It destroys your metabolism, tracks with diabetes, and increases your risk of heart disease. Here is how to walk it back: 1. Eat all the sweet potatoes you want.](../../../../assets/images/2026/08/29/2093628980859682903-1.jpg)
 
 🔗 [View original post](https://x.com/CoachJulianNiko/status/2099819526875759053)
+
+---
+
+### 🕐 11:15 UTC · @Wise1Philosophy
+
+> ChatGPT vs Gemini vs Claude vs Grok vs DeepSeek. Each one has different strengths and use cases. Some excel in multimodal creativity, others stand out in deep research, real-time updates or lower costs. Choosing the right one helps you become truly effective with AI. [ 🔖 bookmark this post for later ] Here&apos;s your complete guide: 1. ChatGPT The all-rounder AI is ideal for text, audio, video, code, and automation-focused tasks. 2. Gemini Ideal for Google Workspace users, with deep integration across Gmail, Docs, Sheets, and Drive. 3. Claude An AI built for safety, with long-context reasoning and strong accuracy in legal or policy-heavy work. 4. Grok A real-time social AI for X/Twitter, delivering witty answers and keeping up with breaking news. 5. DeepSeek An open-source powerhouse that’s cost-efficient, technically strong, and designed to scale. Mastering AI goes beyond picking a single “best” model. The key is matching the right tool to the right job. Save this guide. Share it. Start with one use case. 📌 Get Advanced ChatGPT Guide (free): https://bit.ly/3StIB3z 👉 Follow me @AndrewBolis for more and 🔄 Repost this to help others use AI
+
+![ChatGPT vs Gemini vs Claude vs Grok vs DeepSeek. Each one has different strengths and use cases. Some excel in multimodal creativity, others stand out in deep research, real-time updates or lower cost](../../../../assets/images/2026/09/15/2099819277889187905-1.jpg)
+
+🔗 [View original post](https://x.com/AndrewBolis/status/2099819277889187905)
+
+---
+
+### 🕐 11:02 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/15/2099816205691310138-1.jpg)
+
+🔗 [View original post](https://x.com/apex_mentality_/status/2099816205691310138)
 
 ---
 
@@ -49,6 +144,15 @@
 > YOUR MACBOOK HAS BEEN SECRETLY SLOWING DOWN FOR MONTHS. Here&apos;s the one setting that fixes it:👇
 
 🔗 [View original post](https://x.com/Kevincreates77/status/2099808132122001748)
+
+---
+
+### 🕐 10:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/15/2099808078791139356-1.jpg)
+
+🔗 [View original post](https://x.com/yeti_mind/status/2099808078791139356)
 
 ---
 
@@ -124,6 +228,15 @@
 
 ---
 
+### 🕐 09:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/15/2099792934782583022-1.jpg)
+
+🔗 [View original post](https://x.com/Ant_Philosophy/status/2099792934782583022)
+
+---
+
 ### 🕐 09:00 UTC · @Wise1Philosophy
 
 > Having energy in the morning, the afternoon and the evening is extremely easy once you realize this:
@@ -137,6 +250,15 @@
 > someone just dropped a 21-minute masterclass on turning $1k into $1m trading memecoins. no fluff. just the full strategy, mistakes, entries and what most people keep getting wrong. if you trade memecoins, this is worth watching. Media
 
 🔗 [View original post](https://x.com/daveydefi/status/2099778187089621073)
+
+---
+
+### 🕐 08:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/15/2099777822659129768-1.jpg)
+
+🔗 [View original post](https://x.com/Mindsthatbuild/status/2099777822659129768)
 
 ---
 
@@ -232,6 +354,14 @@
 
 ---
 
+### 🕐 07:04 UTC · @Wise1Philosophy
+
+> AI filmmaking is one of the biggest goldmine skills right now. While others dismissed it as “SLOP,” Chinese creators turned it into a profession. And they’re already capitalizing on it. Media This is pretty solid Nebius just launched something AI builders should know about. A free AI Builder Program with: → $400+ in credits → Working code &amp; cookbooks → Office hours with engineers → Builder community Pretty useful for anyone building with AI.
+
+🔗 [View original post](https://x.com/HeyZoyaKhan/status/2099756119191110119)
+
+---
+
 ### 🕐 07:01 UTC · @Wise1Philosophy
 
 
@@ -248,6 +378,16 @@
 ![A doctor who has followed the same 2,000 people since the eighties told me the 8 things that predict how well you age. 1. How fast you walk.](../../../../assets/images/2026/09/08/2097203298558439733-1.jpg)
 
 🔗 [View original post](https://x.com/MuahDavis/status/2099755355068940720)
+
+---
+
+### 🕐 06:50 UTC · @Wise1Philosophy
+
+> Want to become a Claude Certified Architect? Certification preparation is only one part of the process. For anyone learning Generative AI, LLMs, Claude, MCP, APIs, or AI Agents, the better approach is to develop the technical foundation first. Here’s a practical 6-step Claude Architect roadmap: 1. Build the foundation Use Anthropic Academy to learn: • AI Fluency • Claude 101 • Claude Code • Claude API • MCP • AI Agents Official free resources: https://academy.claude.com/ 2. Develop practical Claude Code skills Move beyond tutorials and guided examples. Build with Claude Code, work inside repositories, experiment with agentic workflows, and understand AI-assisted development in real environments. 3. Go deeper into Claude API and MCP Focus on: Claude API: prompting, tools, structured outputs, RAG, agents, evaluations, production patterns. MCP: connecting AI applications to external tools, APIs, databases, and context. Docs: Claude API: https://claude.com/app-unavailable-in-region MCP: https://modelcontextprotocol.io/docs/2026-07-28/getting-started/intro 4. Strengthen architecture skills A Claude Architect needs more than product knowledge. Develop an understanding of: • Agentic architectures • Tool design • MCP integrations • Context management • Prompt engineering • Structured outputs • Reliability &amp; evaluation • Cost optimization • Safety &amp; responsible AI The focus should be on understanding architectural trade-offs and design decisions. 5. Build real systems Build 3–5 projects such as: • Customer support agent • RAG knowledge assistant • MCP-powered business agent • Data-analysis agent • Multi-step automation workflow Practical projects introduce challenges that are difficult to learn from tutorials alone: failures, permissions, context limits, tool errors, evaluation, and cost. 6. Prepare for certification The Claude Certified Architect – Foundations exam is currently listed as: • 60 questions • 120 minutes • $125 USD • Online proctored or Pearson Test Center • 12-month validity The listed domains include: • Agentic Architecture &amp; Orchestration • Tool Design &amp; MCP Integration • Claude Code Configuration &amp; Workflows • Prompt Engineering &amp; Structured Output • Context Management &amp; Reliability Anthropic currently lists the certification as available to people at organizations in the Claude Partner Network. Check eligibility before planning around the exam. The certification validates knowledge. The real objective is being able to design, build, integrate, evaluate, secure, and deploy reliable AI-powered systems. Build that capability first. The certification comes after. The 7-level Claude prompting system: A practical framework with examples to get the most perfect results from Claude. ↓
+
+![Want to become a Claude Certified Architect? Certification preparation is only one part of the process. For anyone learning Generative AI, LLMs, Claude, MCP, APIs, or AI Agents, the better approach is](../../../../assets/images/2026/09/15/2099752708307595469-1.jpg)
+
+🔗 [View original post](https://x.com/ZabihullahAtal/status/2099752708307595469)
 
 ---
 
