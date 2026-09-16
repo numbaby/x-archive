@@ -2,7 +2,87 @@
 
 ## 📅 September 16, 2026
 
-> 45 post(s) archived.
+> 55 post(s) archived.
+
+---
+
+### 🕐 11:32 UTC · @Wise1Philosophy
+
+> What would you make with OnSolo? 👇 Reply to the original @OnSoloAI post below with your scene or game idea. I’ll choose 5 winners based on originality and how clearly they explain their concept. Each winner gets 100 OnSolo credits for free! GPT-6 Astra is now LIVE on OnSolo 🔥🔥 Multiple major updates just dropped, all powered by GPT-6 Astra. Pick your lane and start creating. 1️⃣ Game Section (Members only) Feed in a game idea. Agent spins up a playable web game — one click. 🎁 7-day limited free trial. Canvas usag…
+
+🔗 [View original post](https://x.com/alex_prompter/status/2100186154729386123)
+
+---
+
+### 🕐 11:15 UTC · @Wise1Philosophy
+
+> RIP McKinsey. Here are 10 prompts to replace expensive business consultants: [ 🔖 bookmark this post for later ] ➤ SWOT Analysis Act as a business strategist. Generate a SWOT analysis for [INSERT BUSINESS] in the [INSERT INDUSTRY], using competitive market data and internal insights. ➤ Growth Levers Find out 5 scalable growth levers for a [TYPE OF BUSINESS], focusing on revenue expansion, operational efficiency, and brand reach. ➤ 30-60-90 Plan Create a 30-60-90 day action plan for a new [INSERT ROLE] at [COMPANY], including onboarding objectives, performance metrics, and quick wins. ➤ Revenue Model Projection Develop a lean revenue model for a business providing [PRODUCT/SERVICE], covering optimal pricing, CAC, LTV, and monthly recurring revenue forecasts. ➤ Churn Reduction Suggest 3 data-driven strategies to minimize churn for a SaaS product targeting [TARGET CUSTOMER], leveraging user behavior data and feedback loops. ➤ KPI Dashboard Framework Outline the 7 critical KPIs for a [BUSINESS TYPE] to monitor across customer acquisition, retention, product engagement, and financial performance. ➤ Pricing Strategy Act as a pricing advisor. Propose 3 pricing approaches for [OFFER] aimed at [SEGMENT], utilizing value-based pricing, tier structures, and market positioning. ➤ Go-to-Market Plan Design a go-to-market plan for introducing [PRODUCT] to [TARGET MARKET], addressing positioning, distribution channels, customer acquisition, and success metrics. ➤ Value Proposition Draft a persuasive value proposition for [BRAND or PRODUCT] that addresses customer challenges, presents the solution, and emphasizes unique advantages. ➤ Pivot Directions Recommend 3 strategic pivot options for a startup facing [SPECIFIC PROBLEM], including alternative customer segments, applications, or product approaches. → Use these prompts to think, plan, and execute like a top business advisor. 📌 Get Advanced ChatGPT Guide (free): https://bit.ly/3StIB3z 👉 Follow me @AndrewBolis for more and 🔄 Repost this to help others use AI
+
+![RIP McKinsey. Here are 10 prompts to replace expensive business consultants: [ 🔖 bookmark this post for later ] ➤ SWOT Analysis Act as a business strategist. Generate a SWOT analysis for [INSERT BUSIN](../../../../assets/images/2026/09/16/2100181668472705499-1.jpg)
+
+🔗 [View original post](https://x.com/AndrewBolis/status/2100181668472705499)
+
+---
+
+### 🕐 11:14 UTC · @Wise1Philosophy
+
+> Si estás buscando trabajo remoto, la clave no es aplicar a 300 ofertas con el mismo CV. MEJOR HAZ ESTO:
+
+🔗 [View original post](https://x.com/MiguelMaestroIA/status/2100181468588753210)
+
+---
+
+### 🕐 11:13 UTC · @Wise1Philosophy
+
+> don&apos;t clone all 10 at once. pick the one hole in your stack and fill it. that&apos;s how you actually use a list like this. okay this is basically a whole ops team in bookmarks.. 10 repos, and each one replaces a hire you don&apos;t need yet 1). Windmill ↳ http://github.com/windmill-labs/windmill 2). Papermark ↳ http://github.com/papermark/papermark 3). Lago ↳ http://github.com/getlago/lago 4). Unkey ↳ htt…
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2100181396631261688)
+
+---
+
+### 🕐 11:12 UTC · @Wise1Philosophy
+
+> A doctor who has followed the same 2,000 people since the eighties told me the 8 things that predict how well you age. 1. How fast you walk.
+
+![A doctor who has followed the same 2,000 people since the eighties told me the 8 things that predict how well you age. 1. How fast you walk.](../../../../assets/images/2026/09/08/2097203298558439733-1.jpg)
+
+🔗 [View original post](https://x.com/CoachJulianNiko/status/2100180907437285629)
+
+---
+
+### 🕐 11:11 UTC · @Wise1Philosophy
+
+> ya he dominado por completo la capacidad de viajar a través del tiempo. Le pedí a GPT Image 2.5 que nos enviara a 1950, los años 80, un mundo cyberpunk y el año 2100. Después usé Seedance 2.5 para hacer que el tiempo se rompiera. ¿En qué época nos quedamos? 👇 Media
+
+🔗 [View original post](https://x.com/SofiaSici/status/2100180825824497782)
+
+---
+
+### 🕐 11:03 UTC · @Wise1Philosophy
+
+> A 370-year-old mystery just got solved by AI 🤯 The “Cyphral Distich” cipher, unsolved for centuries, has finally been cracked. Claude Fable 5.1 help to solve it. This is such a cool example of AI being used for real-world problems. We’re literally watching history get decoded in real time. Fable solved the Cyphral Distich (a 370 year old cypher). Super cool way to use Claude https://www.vals.ai/blogs/fable-solves-cyphral-distich
+
+![A 370-year-old mystery just got solved by AI 🤯 The “Cyphral Distich” cipher, unsolved for centuries, has finally been cracked. Claude Fable 5.1 help to solve it. This is such a cool example of AI bein](../../../../assets/images/2026/09/16/2100178794468479310-1.png)
+
+🔗 [View original post](https://x.com/charliejhills/status/2100178794468479310)
+
+---
+
+### 🕐 11:03 UTC · @Wise1Philosophy
+
+> AI is getting out of hand 🤯 Media
+
+🔗 [View original post](https://x.com/AIHighlight/status/2100178645209817573)
+
+---
+
+### 🕐 10:38 UTC · @Wise1Philosophy
+
+> Seedance 2.5 tops OpenArt’s AI video leaderboard. Wan 3.0 is second, Seedance 2.0 is third, and the rankings change across creative categories. Here’s where the rest of the models landed.
+
+![Seedance 2.5 tops OpenArt’s AI video leaderboard. Wan 3.0 is second, Seedance 2.0 is third, and the rankings change across creative categories. Here’s where the rest of the models landed.](../../../../assets/images/2026/09/16/2100172549195751485-1.jpg)
+
+🔗 [View original post](https://x.com/AIHighlight/status/2100172549195751485)
 
 ---
 
@@ -63,6 +143,16 @@
 ![I finally found a useful AI leaderboard. OpenArt Arena ranks models separately for ads, film, animation, motion design, editing and lip sync. Here’s why I’d actually use this one.](../../../../assets/images/2026/09/16/2100163156668534786-1.jpg)
 
 🔗 [View original post](https://x.com/AriaWestcott/status/2100163156668534786)
+
+---
+
+### 🕐 10:00 UTC · @Wise1Philosophy
+
+> Look at this guy. He accidentally built a billion-dollar tequila company. It started with 2 vacation homes, 3 friends and 700 tequila samples. Here’s how George Clooney turned a private drink into a deal worth up to $1B:
+
+![Look at this guy. He accidentally built a billion-dollar tequila company. It started with 2 vacation homes, 3 friends and 700 tequila samples. Here’s how George Clooney turned a private drink into a d](../../../../assets/images/2026/09/16/2100162786969997445-1.png)
+
+🔗 [View original post](https://x.com/Scottvdberg/status/2100162786969997445)
 
 ---
 
