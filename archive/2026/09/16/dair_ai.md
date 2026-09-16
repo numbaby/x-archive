@@ -2,7 +2,17 @@
 
 ## 📅 September 16, 2026
 
-> 5 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 15:48 UTC · @dair_ai
+
+> Nice paper discussing context trimming for agents. This is a hot topic at the moment, so it might be worth your time. Context trimming for agents is usually judged by how many tokens it removes. This study also measures whether the task still succeeds. The work compares five trimming strategies on multi-step tool workflows. Recency, relevance and summarization saved about 60% of tokens, but task success fell to between 66.6% and 77.3%. Protocol-aware trimming keeps identifiers, constraints, tool schemas and unresolved commitments intact and compresses the rest. With adaptive budget guardrails it reached 96.0% task success and 1.0% cascading failure while still saving 56.0% of tokens. The budget has a large effect. Keeping 25% of the context or less raised the odds of failure 10.92 times compared with keeping 50% or more, and complex workflows needed more retained context. There is one caveat. The protected state came from gold annotations, so a production system would still need to detect that state on its own. Paper: https://academy.dair.ai/papers/protocol-preserving-context-trimming-for-agentic-workflows-benefits-failure-regi-2609.16461
+
+![Nice paper discussing context trimming for agents. This is a hot topic at the moment, so it might be worth your time. Context trimming for agents is usually judged by how many tokens it removes. This ](../../../../assets/images/2026/09/16/2100250366495625320-1.jpg)
+
+🔗 [View original post](https://x.com/dair_ai/status/2100250366495625320)
 
 ---
 
@@ -13,6 +23,16 @@
 ![Banger paper from Google Research. This one is on how LLM assistants reason about the people in a user&apos;s life. People ask assistants for social advice constantly, and the assistant only hears the](../../../../assets/images/2026/09/16/2100235768975511752-1.jpg)
 
 🔗 [View original post](https://x.com/dair_ai/status/2100235768975511752)
+
+---
+
+### 🕐 14:49 UTC · @dair_ai
+
+> Banger paper from NVIDIA. It&apos;s on the topic of choosing which models go into a multi-agent system. The team compared eight selection strategies, based on size, accuracy, answer diversity and error diversity, across routing, majority vote and LLM-as-judge setups on hard science benchmarks. Larger pools of different open models raised the theoretical best-case accuracy. Achieved accuracy often fell below the single best model in the pool. Using several copies of one model worked better. Majority vote over the best single model raised HLE accuracy from 29.4% to 32.2%, while nearly every mixed-model group declined. Choosing candidates from a single model family gave the largest improvement over a standalone model of all eight strategies. Before adding another model to a router or ensemble, measure what it adds. Paper: https://arxiv.org/abs/2609.17306 Chat with Paper: https://academy.dair.ai/papers/mo-models-mo-problems-how-to-best-select-model-pools-when-designing-multi-agent-2609.17306
+
+![Banger paper from NVIDIA. It&apos;s on the topic of choosing which models go into a multi-agent system. The team compared eight selection strategies, based on size, accuracy, answer diversity and erro](../../../../assets/images/2026/09/16/2100235516918849661-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2100235516918849661)
 
 ---
 

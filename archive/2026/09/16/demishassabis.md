@@ -2,7 +2,7 @@
 
 ## 📅 September 16, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
 
 ---
 
@@ -23,6 +23,14 @@
 ![More on the purpose behind the DeepMind Institute in this short introduction: https://institute.deepmind.com/essays/introducing-the-deepmind-institute/](../../../../assets/images/2026/09/16/2100230526007218651-1.jpg)
 
 🔗 [View original post](https://x.com/demishassabis/status/2100230526007218651)
+
+---
+
+### 🕐 14:25 UTC · @demishassabis
+
+> My journey to develop AGI spans 25 yrs, including 10+ yrs thinking about technical &amp; societal perspectives at Google DeepMind. AGI is on the horizon - we need deeper understanding of its implications. To help, we&apos;ve created the DeepMind Institute. https://x.com/i/article/2100217797129240576
+
+🔗 [View original post](https://x.com/ShaneLegg/status/2100229706641539248)
 
 ---
 

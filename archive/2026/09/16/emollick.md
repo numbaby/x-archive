@@ -2,7 +2,17 @@
 
 ## 📅 September 16, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 15:33 UTC · @emollick
+
+> When I talk to senior managers, increasingly hearing stories of the blurring of jobs inside organizations (we found this at our P&amp;G study as well): coding, design, product management, all collapsing &amp; overlapping as everyone uses AI We need new models for organizing work, fast.
+
+![When I talk to senior managers, increasingly hearing stories of the blurring of jobs inside organizations (we found this at our P&amp;G study as well): coding, design, product management, all collapsi](../../../../assets/images/2026/09/16/2100246695766307171-1.jpg)
+
+🔗 [View original post](https://x.com/emollick/status/2100246695766307171)
 
 ---
 
