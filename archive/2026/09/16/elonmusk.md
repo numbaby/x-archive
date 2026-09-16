@@ -2,7 +2,15 @@
 
 ## 📅 September 16, 2026
 
-> 6 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 05:29 UTC · @elonmusk
+
+> Prufrock-5 finishing a test-tunnel in Bastrop, Texas. The ~900,000 lb boring machine will re-launch in November. Media
+
+🔗 [View original post](https://x.com/boringcompany/status/2100094676149907928)
 
 ---
 

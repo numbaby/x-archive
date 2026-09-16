@@ -2,7 +2,193 @@
 
 ## 📅 September 16, 2026
 
-> 55 post(s) archived.
+> 82 post(s) archived.
+
+---
+
+### 🕐 13:42 UTC · @Wise1Philosophy
+
+> Just a heads up: You can now block crawlers from using your content for AI training without completely blocking those crawlers from Search. If you want to continue showing up in ChatGPT, Claude, Google&apos;s AI family, etc - pay attention. Some site owners are going to misunderstand what is happening and play this wrong Cloudflare just made an important change to its AI crawler controls. A few weeks ago I wrote about the problem with blocking AI crawlers. Some companies use the same crawler for both Search and AI training, which meant blocking training could also mean blocking the crawler helping customers find you. Cloudflare just introduced a new setting designed specifically around that problem: it is called Disallow AI Training. Let’s go through it. By the way, you can see whether your business is appearing across Google AI, ChatGPT, Claude, Perplexity and Grok here. It’s free: https://www.seo-stuff.com/free-audit Cloudflare now lets website owners tell supported crawlers not to use their content for AI training without completely blocking those crawlers from Search. Applebot, Googlebot and Bingbot are what Cloudflare calls mixed-use crawlers because the same crawler infrastructure can serve multiple purposes. With the new setting, Cloudflare publishes the appropriate no-training preference in robots.txt while continuing to allow what it calls “Accountable” crawlers to access the site for Search. Cloudflare says Apple, Google and Microsoft currently qualify as Accountable. For OpenAI, Anthropic, Amazon and Meta, Cloudflare says Search and Training already use separate crawlers, so it can block the training crawler without blocking the Search crawler. There is one very important warning. Do not confuse Disallow AI Training with Block. Cloudflare changed what Block means. If you select Block for Training, mixed-use crawlers including Googlebot, Bingbot and Applebot can now be blocked completely, including their Search access. If you want Search access to remain, Cloudflare says to use Disallow AI Training instead. There are also some caveats. Google-Extended can be disallowed without affecting Google Search rankings, but Google says that control also affects whether your content can be used for grounding in Gemini Apps. And Bing does not yet support Cloudflare&apos;s new robots.txt no-training preference automatically. Microsoft says that support is targeted for early 2027. So this still is not a giant “turn off AI training with zero tradeoffs everywhere” button, but it is a big improvement. Businesses can increasingly make separate decisions about traditional Search, AI training, AI agents and, eventually, AI summaries. That is the direction this needed to go. For most businesses, the goal shouldn&apos;t be to blindly block every AI crawler so much as it should be to understand which systems create discovery, which ones help customers take action, and which ones are simply using your content for training. If you don&apos;t know how to make sure you&apos;re handling this correctly, SEO Stuff (https://www.seo-stuff.com/gold-plan-package) can help. And if you&apos;re curious whether your business is appearing across Google AI, ChatGPT, Claude, Perplexity and Grok right now, check here. It’s free: https://www.seo-stuff.com/free-audit 69% of B2B buyers chose a different vendor than they originally planned based on what an AI chatbot told them. 33% bought from a brand they had never even heard of before. Increasingly in 2026 and beyond, if your brand is not the one AI is recommending, someone else’s brand is ta…
+
+![Just a heads up: You can now block crawlers from using your content for AI training without completely blocking those crawlers from Search. If you want to continue showing up in ChatGPT, Claude, Googl](../../../../assets/images/2026/09/16/2100218835593040345-1.png)
+
+🔗 [View original post](https://x.com/alexgroberman/status/2100218835593040345)
+
+---
+
+### 🕐 13:37 UTC · @Wise1Philosophy
+
+> Losing the fat on your stomach, your face and your arms is extremely easy once you realize this:
+
+🔗 [View original post](https://x.com/MarkoSilva291/status/2100217389224993141)
+
+---
+
+### 🕐 13:24 UTC · @Wise1Philosophy
+
+> Breaking: Stop testing AI models at random. OpenArt Arena shows which ones perform best for the exact creative work you need to do. Here’s how to use it before your next generation.
+
+![Breaking: Stop testing AI models at random. OpenArt Arena shows which ones perform best for the exact creative work you need to do. Here’s how to use it before your next generation.](../../../../assets/images/2026/09/16/2100164097471861087-1.jpg)
+
+🔗 [View original post](https://x.com/AIFrontliner/status/2100214171321114880)
+
+---
+
+### 🕐 13:24 UTC · @Wise1Philosophy
+
+> Life hack: • Save $50 • Open a futures trading account • Learn one chart pattern • Wake up before the market opens • Trade for 1 hour a day • Close the laptop • Repeat (This is the process that&apos;s kept me out of a 9-5.) Here&apos;s how it works:
+
+🔗 [View original post](https://x.com/RileyColemanT/status/2100214139880603876)
+
+---
+
+### 🕐 13:23 UTC · @Wise1Philosophy
+
+> If you&apos;re in debt, never start by: -Paying the minimum -Taking out another loan -Using one card to cover another Instead, start by:
+
+🔗 [View original post](https://x.com/Better_men/status/2100214030636048499)
+
+---
+
+### 🕐 13:23 UTC · @Wise1Philosophy
+
+> GPT-6 Astra SABE PROGRAMAR. Pero, ¿qué sucede cuando necesita un recurso 3D real y listo para producción? Conecté GPT-6 Astra con Hyper3D Rodin MCP para generar assets 3D altamente detallados, de alta calidad y listos para integrarse directamente en un proyecto real. Idea → asset 3D production-ready → integración → proyecto funcional Así fue el proceso 🧵 Media
+
+🔗 [View original post](https://x.com/Alex_Inspira/status/2100213889527107587)
+
+---
+
+### 🕐 13:13 UTC · @Wise1Philosophy
+
+> The real cause of cancer was identified in 1931. The man behind the discovery won a Nobel prize, then was buried by the pharmaceutical industry. Here&apos;s what Dr. Otto Warburg found: 1. “Cancer cells thrive in high-sugar environments.”
+
+🔗 [View original post](https://x.com/BeBetterMan_/status/2100211476887949815)
+
+---
+
+### 🕐 13:07 UTC · @Wise1Philosophy
+
+> Your poor diet is why you are still fat. Studies confirm that the people who lose weight the fastest pick 3-4 simple diets, and eat them on repeat. Here&apos;s the list: 1. Chipotle
+
+🔗 [View original post](https://x.com/DPro_Coach/status/2100209845530144933)
+
+---
+
+### 🕐 13:05 UTC · @Wise1Philosophy
+
+> After 9 years training, I learned this the hard way: &quot;Gut health changes everything&quot; Here&apos;s every gut health tip I&apos;ve got: 1. Cool your potatoes. Seriously. Media
+
+🔗 [View original post](https://x.com/TheFastedState/status/2100209392314662933)
+
+---
+
+### 🕐 13:04 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/16/2100209243982905761-1.jpg)
+
+🔗 [View original post](https://x.com/Life__Mastery/status/2100209243982905761)
+
+---
+
+### 🕐 13:02 UTC · @Wise1Philosophy
+
+> Eczema doesn’t start on your skin. It starts in your gut. 31 million Americans have eczema &amp; treating it wrong. Here’s how to fix it:
+
+🔗 [View original post](https://x.com/LongevityCode_/status/2100208597636706404)
+
+---
+
+### 🕐 13:00 UTC · @Wise1Philosophy
+
+> Be the reason people still believe in genuine intentions, gentle souIs, and gorgeous hearts of gold.
+
+🔗 [View original post](https://x.com/_Pammy_DS_/status/2100208087143457052)
+
+---
+
+### 🕐 12:59 UTC · @Wise1Philosophy
+
+> A cardiologist said: “One test predicts heart attack and stroke risk years before symptoms. It costs $12.” Here’s the science behind. the test you don’t know about. 1. We’re checking your kidneys for your heart.
+
+🔗 [View original post](https://x.com/Dr_Biohacker/status/2100208070244888925)
+
+---
+
+### 🕐 12:51 UTC · @Wise1Philosophy
+
+> Don’t buy the new $2,000 iPhone. Instead, buy 5 of these machines that make money while you sleep. Here&apos;s exactly how they work:
+
+![Don’t buy the new $2,000 iPhone. Instead, buy 5 of these machines that make money while you sleep. Here&apos;s exactly how they work:](../../../../assets/images/2026/09/16/2100205871456280809-1.jpg)
+
+🔗 [View original post](https://x.com/gedamtekle/status/2100205871456280809)
+
+---
+
+### 🕐 12:42 UTC · @Wise1Philosophy
+
+> Your body is flooded with cortisol and you do not even realise it. These are the 9 signs that confirm it: 1. Waking between 2 and 4am Media
+
+🔗 [View original post](https://x.com/MagnusLindbrg/status/2100203567533686874)
+
+---
+
+### 🕐 12:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/16/2100200689695653974-1.jpg)
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2100200689695653974)
+
+---
+
+### 🕐 12:30 UTC · @Wise1Philosophy
+
+> ¿Y si pudieras meterte dentro de un cuadro de Van Gogh? He convertido LA NOCHE ESTRELLADA en una piscina. Media
+
+🔗 [View original post](https://x.com/IA_Quijote/status/2100200650239868974)
+
+---
+
+### 🕐 12:23 UTC · @Wise1Philosophy
+
+> If I wanted to quit my job &amp; had to replace my salary within 90 days, this is exactly what I’d do: 1. Go on Instagram. Find 10 online coaches. Look for “DM me” in the captions.
+
+🔗 [View original post](https://x.com/valematvei/status/2100198765902848010)
+
+---
+
+### 🕐 12:10 UTC · @Wise1Philosophy
+
+> A heart doctor once admitted: “There are 3 types of people who never get heart attacks.” 1. You don&apos;t get up at 3 AM to pee Media
+
+🔗 [View original post](https://x.com/HeyKimChong/status/2100195514520354948)
+
+---
+
+### 🕐 12:01 UTC · @Wise1Philosophy
+
+> Donald Trump&apos;s son-in-law just triggered a revolution in Europe. Jared Kushner has never closed a profitable real estate deal. Saudi Arabia gave him two billion dollars to invest anyway. He spent it building a luxury resort in a small Balkan country. That resort just caused Albania&apos;s biggest protests since 1992: Kushner married into the Trump family in 2009. By then his father had already been convicted of financial crimes. Jared took over the family real estate business at 25. He spent 10 million dollars on a newspaper that quickly failed. Then he bought a Manhattan skyscraper right before the 2008 crash. It nearly bankrupted his family. In 2016 Trump won and made Jared a senior advisor. Jared spent four years as a Middle East diplomat. In 2017 a Qatar-backed company bailed out his failing building. The day after Trump left office, Jared started a new firm. It was called Affinity Partners. He had zero private equity experience. Saudi Arabia&apos;s sovereign wealth fund invested two billion dollars anyway. Qatar and the UAE added millions more. These governments were not paying for investment skill. They were paying for access to a former and future president. In 2021 Jared met Albania&apos;s Prime Minister on a friend&apos;s boat. They agreed to build two luxury resorts worth a billion dollars. One sits on a public island called Sazan. The other sits on a protected wildlife reserve called Zvernec. Albania&apos;s government fast tracked the land sale through a special law. It downgraded Zvernec&apos;s environmental protections to make room for the resort. The company paid 120 million dollars to a suspected drug smuggler. Other claimants to that same land were bypassed entirely. In April 2026 photos of bulldozers in Zvernec leaked online. Protests erupted across Albania within days. Security guards were filmed beating demonstrators. The unrest became the largest since communism fell in 1992. It is now called the Flamingo Revolution. As of September it has lasted four months. Jared is still running Affinity while serving as a top US diplomat. He is negotiating an end to the war in Ukraine. He also leads reconstruction oversight for Gaza. Affinity owns a stake in an Israeli firm tied to settlements. That stake undermines his credibility in the same Gaza talks. A similar resort deal in Serbia collapsed after local protests too. Every foreign investor in Affinity has a five year exit clause. If they are unhappy, they can pull their money at any time. That gives foreign governments direct leverage over a sitting US diplomat. Albanians saw a land grab dressed up as tourism. Americans mostly saw a real estate story about a president&apos;s family. That&apos;s the whole game.
+
+![Donald Trump&apos;s son-in-law just triggered a revolution in Europe. Jared Kushner has never closed a profitable real estate deal. Saudi Arabia gave him two billion dollars to invest anyway. He spent](../../../../assets/images/2026/09/16/2100193236430278951-1.png)
+
+🔗 [View original post](https://x.com/LogWeaver/status/2100193236430278951)
+
+---
+
+### 🕐 12:00 UTC · @Wise1Philosophy
+
+> 🚨BREAKING NEWS: Claude can build Instagram Pages reaching monetization just 89 days. If you&apos;re working a 9-5 or already running a business, this could be a way to build an extra income stream using AI to handle a lot of the heavy lifting. Curious how it works? Message &quot;READY&quot; and I&apos;ll show you how Media
+
+🔗 [View original post](https://x.com/amelieannepl/status/2100193035388678423)
+
+---
+
+### 🕐 11:54 UTC · @Wise1Philosophy
+
+> If you want to reach 60 without a cardiac event, a memory problem, or quitting while your kids still need you (especially past 40) Here are 7 signs you should watch out for: 1. Waking up at 3-4 AM.
+
+🔗 [View original post](https://x.com/LiveandAlive_/status/2100191468308848763)
 
 ---
 
@@ -11,6 +197,15 @@
 > What would you make with OnSolo? 👇 Reply to the original @OnSoloAI post below with your scene or game idea. I’ll choose 5 winners based on originality and how clearly they explain their concept. Each winner gets 100 OnSolo credits for free! GPT-6 Astra is now LIVE on OnSolo 🔥🔥 Multiple major updates just dropped, all powered by GPT-6 Astra. Pick your lane and start creating. 1️⃣ Game Section (Members only) Feed in a game idea. Agent spins up a playable web game — one click. 🎁 7-day limited free trial. Canvas usag…
 
 🔗 [View original post](https://x.com/alex_prompter/status/2100186154729386123)
+
+---
+
+### 🕐 11:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/16/2100185634954498172-1.jpg)
+
+🔗 [View original post](https://x.com/Daily__wisdom_/status/2100185634954498172)
 
 ---
 
@@ -70,6 +265,15 @@
 
 ### 🕐 11:03 UTC · @Wise1Philosophy
 
+
+![](../../../../assets/images/2026/09/16/2100178749203316947-1.jpg)
+
+🔗 [View original post](https://x.com/apex_mentality_/status/2100178749203316947)
+
+---
+
+### 🕐 11:03 UTC · @Wise1Philosophy
+
 > AI is getting out of hand 🤯 Media
 
 🔗 [View original post](https://x.com/AIHighlight/status/2100178645209817573)
@@ -86,6 +290,15 @@
 
 ---
 
+### 🕐 10:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/16/2100170421194703290-1.jpg)
+
+🔗 [View original post](https://x.com/yeti_mind/status/2100170421194703290)
+
+---
+
 ### 🕐 10:29 UTC · @Wise1Philosophy
 
 > Your circulation is failing quietly and you do not even realise it. 9 things your body does first, in the order they show up: 1. Cold hands and feet in a warm room
@@ -99,6 +312,14 @@
 > High cortisol ruins the quality of your life. It&apos;s giving you beer belly, neck hump, skin tags, bloating your face. These are the best ways to reduce it: 1. Walk barefoot. Media
 
 🔗 [View original post](https://x.com/LevelUpPrime/status/2100169300619526244)
+
+---
+
+### 🕐 10:20 UTC · @Wise1Philosophy
+
+> iOS27 continues to prove itself as a massive upgrade from its previous version. Media
+
+🔗 [View original post](https://x.com/FutureStacked/status/2100167891177947418)
 
 ---
 
@@ -179,6 +400,15 @@
 ![10 GITHUB REPOS THAT FEEL LIKE SOMEONE FORGOT TO TELL THE INTERNET ABOUT THEM 1. M3E Canvas Sketch a UI and turn it into a prompt for Claude Code, Codex, Gemini CLI or Cursor. https://github.com/lnkia](../../../../assets/images/2026/09/16/2100157910164574276-1.png)
 
 🔗 [View original post](https://x.com/RodmanAi/status/2100157910164574276)
+
+---
+
+### 🕐 09:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/16/2100155405556945130-1.jpg)
+
+🔗 [View original post](https://x.com/Ant_Philosophy/status/2100155405556945130)
 
 ---
 
