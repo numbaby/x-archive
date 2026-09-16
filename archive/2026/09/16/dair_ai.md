@@ -2,7 +2,17 @@
 
 ## 📅 September 16, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 14:50 UTC · @dair_ai
+
+> Banger paper from Google Research. This one is on how LLM assistants reason about the people in a user&apos;s life. People ask assistants for social advice constantly, and the assistant only hears the user&apos;s version of events. Measuring whether it reads the situation correctly is hard, because other people&apos;s intentions have no ground truth. Fuse builds that ground truth with simulation. A target agent with a hidden motive interacts with other agents, including one playing the user. The user agent then describes what happened to the assistant, which has to infer the motive. The team validated the simulations with 24k human annotations and tested 12 LLMs. Hearing events through the user makes the task harder. Biased framing from the user shifts the assistant&apos;s answer. Models sometimes need more detail than humans do, and longer conversations with room for clarifying questions did not reliably help. They release the framework and 21k examples. Paper: https://academy.dair.ai/papers/verifiable-social-reasoning-for-llm-assistants-2609.17496
+
+![Banger paper from Google Research. This one is on how LLM assistants reason about the people in a user&apos;s life. People ask assistants for social advice constantly, and the assistant only hears the](../../../../assets/images/2026/09/16/2100235768975511752-1.jpg)
+
+🔗 [View original post](https://x.com/dair_ai/status/2100235768975511752)
 
 ---
 
