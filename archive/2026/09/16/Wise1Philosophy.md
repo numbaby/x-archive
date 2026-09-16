@@ -2,7 +2,106 @@
 
 ## 📅 September 16, 2026
 
-> 20 post(s) archived.
+> 35 post(s) archived.
+
+---
+
+### 🕐 09:30 UTC · @Wise1Philosophy
+
+> a whole trading floor just fit inside one terminal window. someone connected claude code to tradingview and let it loose: researching markets, backtesting strategies, executing trades on its own. analysts, quants, traders. one setup does all three now. Media
+
+🔗 [View original post](https://x.com/daveydefi/status/2100155328482451590)
+
+---
+
+### 🕐 09:29 UTC · @Wise1Philosophy
+
+> A guy told his friend: &quot;Netflix recommendations are terrible. It keeps showing me the same stuff. I&apos;ve watched everything good.&quot; His friend, a former Netflix data scientist who spent 4 years on the recommendation team, asked 3 questions: &quot;Does anyone else use your profile?&quot; Yes his girlfriend watches K-dramas on it. His kid watches cartoons on weekends. &quot;Do you ever press the thumbs-down button?&quot; No he just scrolls past things he&apos;s not interested in. &quot;Have you ever rated anything?&quot; No. He watches shows. He doesn&apos;t rate them. &quot;Your algorithm isn&apos;t broken. It&apos;s uninformed. You&apos;ve given it 3 years of passive data what you clicked on and zero active data what you actually enjoy versus what you watched because it was in front of you. It thinks you love K-dramas because your girlfriend watches them on your profile. It thinks you love cartoons because your kid uses your account on weekends. And it has no idea what you dislike because you&apos;ve never once told it.&quot; &quot;That&apos;s like asking someone to cook for you for 3 years and never telling them what you like or what you hate. They&apos;ll eventually just make the same 3 meals every night because those are the ones you didn&apos;t send back. Not because you loved them. Because you ate them without complaining.&quot; He showed him 9 ways to retrain the algorithm from scratch, in under 30 minutes and turn the homepage from a stale rotation of the same 5 genres into a discovery engine that surfaces the other 97% of the Netflix catalog. His friend retrained his algorithm on a Sunday afternoon. By Tuesday, his homepage had new genres, new titles, and new rows he&apos;d never seen before after 3 years of watching the same homepage on the same account. &quot;The algorithm wasn&apos;t broken. It was starving for information you never gave it. Feed it. It transforms.&quot; Here are the 9 ways to retrain it 🧵
+
+🔗 [View original post](https://x.com/jackcoder0/status/2100155131207762049)
+
+---
+
+### 🕐 08:32 UTC · @Wise1Philosophy
+
+> This is Xynova&apos;s Flex 2. A bionic robotic hand built for speed and precision at human scale, with 23 degrees of freedom. A human hand weighs about 400 grams. This one weighs the same and lifts 30 times its own weight. It opens and closes a full fist twice per second, handles payloads up to 12 kg, detects the moment an object starts to slip, and softens its grip around delicate objects. https://x.com/spaceandtech_/status/2099853563354894376/video/1 Media
+
+🔗 [View original post](https://x.com/TheAIColonyRD/status/2100140705561678122)
+
+---
+
+### 🕐 08:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/16/2100140211288092908-1.jpg)
+
+🔗 [View original post](https://x.com/Mindsthatbuild/status/2100140211288092908)
+
+---
+
+### 🕐 08:29 UTC · @Wise1Philosophy
+
+> Moving freely in your knees, your hips and your back is extremely easy once you realize this:
+
+🔗 [View original post](https://x.com/Sophiaz6xo/status/2100139878264762875)
+
+---
+
+### 🕐 08:21 UTC · @Wise1Philosophy
+
+> Boreal was tested on Creatify&apos;s own users before anyone outside ever saw it. That is the part that matters more than any spec, because a model built on real ad footage and creator UGC and then run on live customer workloads has already been through the hard part. The 81% win rate over its base model is the result of that, not a demo number. Proven on real ads first, released to everyone second. Try Boreal from Creatify Labs. Media Introducing Boreal from Creatify Labs. A new text-and-image-to-video model built for video generation. At just one cent per second, Boreal is up to 47x cheaper than Seedance 2.5. Boreal is an open video base we post-trained on a corpus of real ad footage, creator-style UGC, and p…
+
+🔗 [View original post](https://x.com/TheAIColony/status/2100137942312161645)
+
+---
+
+### 🕐 08:09 UTC · @Wise1Philosophy
+
+> Most video models are trained to look cinematic. Ad creative rarely needs that. Creatify built Boreal the other way round. It&apos;s post-trained on real ads, creator-style UGC, and customer briefs, so the output already looks like something you&apos;d actually run—at just one cent per second. For me, that means one product image, ten different hooks, and shipping the one people stop for. At 70% pass rate for $0.01, Boreal lets you test way more angles without the budget bleed. Try Boreal from Creatify Labs and see what it gives you. Media Introducing Boreal from Creatify Labs. A new text-and-image-to-video model built for video generation. At just one cent per second, Boreal is up to 47x cheaper than Seedance 2.5. Boreal is an open video base we post-trained on a corpus of real ad footage, creator-style UGC, and p…
+
+🔗 [View original post](https://x.com/AIFrontliner/status/2100134997092942315)
+
+---
+
+### 🕐 08:01 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/16/2100133067742490714-1.jpg)
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2100133067742490714)
+
+---
+
+### 🕐 08:01 UTC · @Wise1Philosophy
+
+> Every ad you have ever skipped was still an expensive final asset to someone. Creatify wants to end that. Boreal turns text or an image into ad video at 1 cent a second. Trained on real ads and creator UGC, so it knows what a selling video looks like. I&apos;d stop guessing which angle works and just generate all of them. Go try Boreal from Creatify Labs. Media Introducing Boreal from Creatify Labs. A new text-and-image-to-video model built for video generation. At just one cent per second, Boreal is up to 47x cheaper than Seedance 2.5. Boreal is an open video base we post-trained on a corpus of real ad footage, creator-style UGC, and p…
+
+🔗 [View original post](https://x.com/AIHighlight/status/2100132979892752431)
+
+---
+
+### 🕐 07:59 UTC · @Wise1Philosophy
+
+> Thinking clearly at work, at home and at the end of the day is extremely easy once you realize this:
+
+🔗 [View original post](https://x.com/RasmusNorbergg/status/2100132328534389192)
+
+---
+
+### 🕐 07:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/16/2100125130475163891-1.jpg)
+
+🔗 [View original post](https://x.com/Daily__wisdom_/status/2100125130475163891)
+
+---
+
+### 🕐 07:29 UTC · @Wise1Philosophy
+
+> I was 64kg, could not do one pull-up, and my arms had looked the same since school. I needed to put on 10kg by the summer. I achieved it with these 18 rules: 1. EAT MORE THAN YOU THINK (you are not eating enough).
+
+🔗 [View original post](https://x.com/thisispeak007/status/2100124779261092142)
 
 ---
 
@@ -14,11 +113,28 @@
 
 ---
 
+### 🕐 07:15 UTC · @Wise1Philosophy
+
+> $133,752 in new ARR in 30 days, with zero new hires. That’s the result Authority Makers attributed to putting http://viktor.com on outbound. Viktor works inside Slack and Microsoft Teams, connecting to 3,200+ tools to handle real outbound work: researching leads, drafting outreach, managing follow-ups, and updating the CRM. I gave Viktor two jobs at once. Both came back in Slack, ready for review. That’s the difference between asking AI for an answer and delegating the work to an AI employee. Chatbots answer. Copilots assist. AI employees do the work. Try Viktor with $100 in free credits. No card required. Link in the first comment. #AIemployee #Sales #Outbound In partnership with Viktor. Check out here! https://ref.viktor.com/jhood-li Media
+
+🔗 [View original post](https://x.com/JasonKHood/status/2100121357258518739)
+
+---
+
 ### 🕐 07:08 UTC · @Wise1Philosophy
 
 > Poolday is looking scary good 👏 Poolday&apos;s agent takes your Figma, Lottie files and brand guidelines, then ships the whole video from one prompt, 100M+ edits made and $11M raised. No asset hunting. No export checks. Just the video. THIS IS AN UNFAIR ADVANTAGE FOR ANY SMALL BRAND.
 
 🔗 [View original post](https://x.com/Wise1Philosophy/status/2100119695416336428)
+
+---
+
+### 🕐 07:01 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/16/2100117910458871810-1.jpg)
+
+🔗 [View original post](https://x.com/apex_mentality_/status/2100117910458871810)
 
 ---
 
@@ -35,6 +151,15 @@
 > Dementia is blood flow. Dementia is cholesterol. Dementia is preventable close to half the time. 8 simple rules to protect your brain: 1. Floss your teeth Media
 
 🔗 [View original post](https://x.com/Marc0sRomano/status/2100111009663049947)
+
+---
+
+### 🕐 06:30 UTC · @Wise1Philosophy
+
+
+![](../../../../assets/images/2026/09/16/2100110018993344934-1.jpg)
+
+🔗 [View original post](https://x.com/yeti_mind/status/2100110018993344934)
 
 ---
 
