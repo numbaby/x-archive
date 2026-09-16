@@ -2,7 +2,17 @@
 
 ## 📅 September 16, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 10:20 UTC · @dair_ai
+
+> Interesting safety paper from Microsoft. They find that a weaker, unaligned model can split a harmful task into harmless-looking subquestions, ask an aligned frontier model each one in a separate session, and combine the answers locally. The authors call this capability laundering. Each request passes on its own, because no single answer from the frontier model is a harmful task. They tested GPT-5.5, Claude Opus 4.8 and Grok-4.3 as the consulted models. On CyBench, Gemma-4-31B recovered 8 of 14 tasks it failed alone when it consulted GPT-5.5. On a CBRN attack chain, consultation raised its mean rubric score from 62.3 to 83.1. Paper: https://academy.dair.ai/papers/divide-consult-conquer-capability-laundering-through-aligned-llms-2609.15383
+
+![Interesting safety paper from Microsoft. They find that a weaker, unaligned model can split a harmful task into harmless-looking subquestions, ask an aligned frontier model each one in a separate sess](../../../../assets/images/2026/09/16/2100167820135059579-1.jpg)
+
+🔗 [View original post](https://x.com/dair_ai/status/2100167820135059579)
 
 ---
 

@@ -2,7 +2,93 @@
 
 ## 📅 September 16, 2026
 
-> 35 post(s) archived.
+> 45 post(s) archived.
+
+---
+
+### 🕐 10:29 UTC · @Wise1Philosophy
+
+> Your circulation is failing quietly and you do not even realise it. 9 things your body does first, in the order they show up: 1. Cold hands and feet in a warm room
+
+🔗 [View original post](https://x.com/HeyEleanorr/status/2100170077396230452)
+
+---
+
+### 🕐 10:25 UTC · @Wise1Philosophy
+
+> High cortisol ruins the quality of your life. It&apos;s giving you beer belly, neck hump, skin tags, bloating your face. These are the best ways to reduce it: 1. Walk barefoot. Media
+
+🔗 [View original post](https://x.com/LevelUpPrime/status/2100169300619526244)
+
+---
+
+### 🕐 10:16 UTC · @Wise1Philosophy
+
+> Imagine a PE-backed medical group with 40 clinics. Eleven people doing nothing but prior authorizations, 2,8K requests a month at 24 minutes each, and a third of them bounced back for a missing attachment or a wrong CPT code. Here&apos;s how we&apos;d get that from 24 minutes to under 4 with AI agents. [1] Week one we don&apos;t touch a payer portal, because the first thing we build is the golden set: sixty real prior-auth requests from the last quarter with the outcome the team actually got, including the twenty that bounced. That becomes the definition of done (foundation), and every change to the agent from then on is scored against it. Most teams skip this and go straight to browser automation, which works on one national payer, breaks on the regional Blue, and leaves nobody able to say what &quot;works&quot; meant. [2] Weeks two and three go to the data layer: read-only access to the EHR and the practice management system, a dictionary of the fields the agent can reason from, and patient identifiers masked before any model sees a record. [3] Weeks four and five are the harness. The agent assembles the request, checks the payer&apos;s documented criteria, attaches the notes, and then stops so a coordinator can see the assembled packet in a browser extension, read the agent&apos;s reasoning in three sentences, and click submit or edit. Nothing reaches a payer without a human on it, every portal interaction is recorded so a changed login page shows up as a failure on our side before the coordinator hits it, and for payers that only take phone the agent queues the call with the script prepared while a person dials. In week six the group&apos;s own prior-auth lead runs acceptance by taking the twenty bounced requests and watching the agent rebuild them, and if it misses an attachment on any of the twenty it goes back to us. The time saving comes from assembly rather than submission, since pulling notes, matching criteria, and formatting the packet is 19 of the 24 minutes. The agent takes those and the coordinator keeps the four that need judgment. At 2,800 requests a month the agent costs a few cents per request in model calls plus $250 a month in infrastructure inside the group&apos;s own tenant, and the build is one pod at $17K a month with the first coordinator-facing version in month three. Thousands of medical groups exist like this, and every one of them has been shown a demo on somebody else&apos;s portal. The design itself is how we shipped a prior-auth extension for a 10-year-old platform this summer, where the operators told us the invisible automation they&apos;d had before was the problem, because nobody could see it working or failing. Vendors sell autonomous, and what a CFO can actually sign is supervised, measured, and running inside the practice&apos;s own tenant.
+
+🔗 [View original post](https://x.com/mardehaym/status/2100166919684805065)
+
+---
+
+### 🕐 10:09 UTC · @Wise1Philosophy
+
+> Americans buy 200 million tires a year. Most of them are being driven on with the wrong pressure, and it&apos;s costing $300 a year. A tire technician who serviced 50,000+ vehicles told me: &quot;Your tires are underinflated by 5–8 PSI right now. You&apos;ve never checked them. You&apos;ve never even looked at the sticker inside your door jamb. You&apos;re burning extra gas, wearing out your tires twice as fast, and risking a blowout at highway speed. All because you never spent 60 seconds with a $3 gauge.&quot; Here are the 9 tire mistakes that cost you $300 a year and risk your life 🧵
+
+🔗 [View original post](https://x.com/Alvin1492840/status/2100165235273588885)
+
+---
+
+### 🕐 10:05 UTC · @Wise1Philosophy
+
+> OpenArt just made AI model rankings useful. Arena ranks models across ads, film, animation, motion design, editing and lip sync, so you can see which one fits the work. Here’s how the leaderboard was decided.
+
+![OpenArt just made AI model rankings useful. Arena ranks models across ads, film, animation, motion design, editing and lip sync, so you can see which one fits the work. Here’s how the leaderboard was ](../../../../assets/images/2026/09/16/2100164097471861087-1.jpg)
+
+🔗 [View original post](https://x.com/FutureStacked/status/2100164097471861087)
+
+---
+
+### 🕐 10:03 UTC · @Wise1Philosophy
+
+> GPT-6 Astra is now LIVE on OnSolo You can create playable games, visualize scenes before rendering, and generate 3D models all from simple prompts. Giveaway: have a chance to receive 100 credits each. To enter: → Like the original official post → Comment under the original post I’ll randomly select and provide their registered emails to the brand for adding credits. 👇 GPT-6 Astra is now LIVE on OnSolo 🔥🔥 Multiple major updates just dropped, all powered by GPT-6 Astra. Pick your lane and start creating. 1️⃣ Game Section (Members only) Feed in a game idea. Agent spins up a playable web game — one click. 🎁 7-day limited free trial. Canvas usag…
+
+🔗 [View original post](https://x.com/HeyZaraKhan/status/2100163678943277480)
+
+---
+
+### 🕐 10:01 UTC · @Wise1Philosophy
+
+> I finally found a useful AI leaderboard. OpenArt Arena ranks models separately for ads, film, animation, motion design, editing and lip sync. Here’s why I’d actually use this one.
+
+![I finally found a useful AI leaderboard. OpenArt Arena ranks models separately for ads, film, animation, motion design, editing and lip sync. Here’s why I’d actually use this one.](../../../../assets/images/2026/09/16/2100163156668534786-1.jpg)
+
+🔗 [View original post](https://x.com/AriaWestcott/status/2100163156668534786)
+
+---
+
+### 🕐 09:59 UTC · @Wise1Philosophy
+
+> Every time an agent runs a task, it makes routing calls, uses tools, fails, recovers and finishes. Most of that experience just vanishes. NeoHorse-1 records it as structured traces, screens them for quality and turns the good ones into training data. That&apos;s the Data-RSI loop, and it&apos;s open source. The RSI claim rests on one detail: NeoHorse-1 was post-trained on execution trajectories that include the failures. - When a tool call broke - What the error looked like - How the system got back on track Agent datasets usually capture the clean path. A 4B model that has seen run…
+
+🔗 [View original post](https://x.com/rezkhere/status/2100162722814173210)
+
+---
+
+### 🕐 09:59 UTC · @Wise1Philosophy
+
+> High cortisol ruins the quality of your life. It&apos;s giving you a beer belly, a neck hump, skin tags, and bloating your face. Here are the best ways to bring it down: 1. Walk barefoot Media
+
+🔗 [View original post](https://x.com/ClaraBrooksjz/status/2100162553083244865)
+
+---
+
+### 🕐 09:40 UTC · @Wise1Philosophy
+
+> 10 GITHUB REPOS THAT FEEL LIKE SOMEONE FORGOT TO TELL THE INTERNET ABOUT THEM 1. M3E Canvas Sketch a UI and turn it into a prompt for Claude Code, Codex, Gemini CLI or Cursor. https://github.com/lnkiai/m3e-canvas 2. Human Atlas Explore human anatomy in 3D with thousands of selectable body parts. https://github.com/ashemag/human-atlas 3. LLM Wiki Turn your documents into a persistent, interconnected knowledge base. https://github.com/nashsu/llm_wiki 4. book-to-skill Turn technical books into reusable Agent Skills. https://github.com/virgiliojr94/book-to-skill 5. MathModelAgent AI agent for mathematical modelling, analysis and experiments. https://github.com/jihe520/MathModelAgent 6. OpenFlux Network research tool built around TCP tunnelling and pluggable transports. https://github.com/p1neappleXpress/OpenFlux 7. Codenotch Track AI coding-tool usage limits directly on your screen. https://github.com/vinzdg/codenotch 8. DLSS-NR-on-AMD Experimental neural rendering work for AMD GPUs. https://github.com/danielblnc/DLSS-NR-on-AMD 9. OmniGet Cross-platform downloader supporting 1,800+ sites and multiple media formats. https://github.com/tonhowtf/omniget 10. Dagu Self-hostable workflow orchestration using YAML, scripts, SSH and containers. https://github.com/dagucloud/dagu Some repos have 100K+ stars. Save this list.
+
+![10 GITHUB REPOS THAT FEEL LIKE SOMEONE FORGOT TO TELL THE INTERNET ABOUT THEM 1. M3E Canvas Sketch a UI and turn it into a prompt for Claude Code, Codex, Gemini CLI or Cursor. https://github.com/lnkia](../../../../assets/images/2026/09/16/2100157910164574276-1.png)
+
+🔗 [View original post](https://x.com/RodmanAi/status/2100157910164574276)
 
 ---
 
