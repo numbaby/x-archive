@@ -2,7 +2,15 @@
 
 ## 📅 September 17, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 05:50 UTC · @emollick
+
+> We have come pretty far from &quot;every AI reference is hallucinated&quot; (which still happens a lot if you use cheaper models): when I had an AI go over my new book to check for errors, it found an error not in my reference itself, but in the original article my reference referred to.
+
+🔗 [View original post](https://x.com/emollick/status/2100462385924538552)
 
 ---
 
