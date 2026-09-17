@@ -111569,6 +111569,13 @@
       }
     ]
   },
+  "2100377793683243174": {
+    "account": "elonmusk",
+    "date": "2026-09-17",
+    "file": "data/posts/2026/09/2026-09-17.jsonl",
+    "fingerprint": "c4ba28f86667d74bc37ca58361c7d4e9cf6075d279774b5a9679bd50ceb54a4f",
+    "media": []
+  },
   "2100379459660730828": {
     "account": "emollick",
     "date": "2026-09-17",
@@ -111693,6 +111700,19 @@
     "fingerprint": "cd1ef31922a652bb1a780abf295747d285e734ea792175b4684bd666cbac1e02",
     "media": []
   },
+  "2100464625993052185": {
+    "account": "elonmusk",
+    "date": "2026-09-17",
+    "file": "data/posts/2026/09/2026-09-17.jsonl",
+    "fingerprint": "e6613846ee3684802a6390221f3ad56a8b6497e749d4641a0a36e8a47b2250d3",
+    "media": [
+      {
+        "local_path": "assets/images/2026/09/17/2100464625993052185-1.jpg",
+        "sha256": "988a3bed41a4a3ab6c7a44c19c4ded0d462c6c6ec150c16402092716f8150a8c",
+        "source_url": "https://pbs.twimg.com/media/HSZYOv6XkAAJSI2.jpg?name=orig"
+      }
+    ]
+  },
   "2100465607519207867": {
     "account": "elonmusk",
     "date": "2026-09-17",
@@ -111705,6 +111725,13 @@
     "date": "2026-09-17",
     "file": "data/posts/2026/09/2026-09-17.jsonl",
     "fingerprint": "ff51eae1bec63c509e6c4e4e926945b76de8700213f2f4e23aceeb6464caf91f",
+    "media": []
+  },
+  "2100550835923227097": {
+    "account": "elonmusk",
+    "date": "2026-09-17",
+    "file": "data/posts/2026/09/2026-09-17.jsonl",
+    "fingerprint": "5a12f02158043277aae00a41066b99620893d8784e523582f5640ae4ce632f90",
     "media": []
   },
   "2100559380919820358": {
@@ -111745,6 +111772,67 @@
     "date": "2026-09-17",
     "file": "data/posts/2026/09/2026-09-17.jsonl",
     "fingerprint": "ddee7ca69184636beb2cd9386e43afdd16bfe0c51e81d8336ff255cf4f97b95e",
+    "media": []
+  },
+  "2100575526356230458": {
+    "account": "elonmusk",
+    "date": "2026-09-17",
+    "file": "data/posts/2026/09/2026-09-17.jsonl",
+    "fingerprint": "8be9694e0cf977f5abcb2861951716763de216201113d071cae78c979517f3eb",
+    "media": [
+      {
+        "local_path": "assets/images/2026/09/17/2100575526356230458-1.jpg",
+        "sha256": "58605df9a0a486e6822e96f18b95fd65fc173e633c627ba83bc678acbe74be37",
+        "source_url": "https://pbs.twimg.com/card_img/2100575526872088576/6pPvcjhd?format=jpg&name=800x419"
+      }
+    ]
+  },
+  "2100578483428880386": {
+    "account": "tunguz",
+    "date": "2026-09-17",
+    "file": "data/posts/2026/09/2026-09-17.jsonl",
+    "fingerprint": "e30d1cbca8db8293f174e8b29ff090def092523bbdfbd49ea063e0c56faaa584",
+    "media": []
+  },
+  "2100582743553773715": {
+    "account": "elonmusk",
+    "date": "2026-09-17",
+    "file": "data/posts/2026/09/2026-09-17.jsonl",
+    "fingerprint": "d9591f16eea7897933e945f1ac8bd62ab2a78d8d53f4b7c28e041b55e7186814",
+    "media": [
+      {
+        "local_path": "assets/images/2026/09/17/2100582743553773715-1.jpg",
+        "sha256": "ac308fd6c02d89f9c87e68a4f9f212c2eb720c1a5a52e1225bc23dcd96daed35",
+        "source_url": "https://pbs.twimg.com/media/HSbE3cTWYAAVsJ2.jpg?name=orig"
+      }
+    ]
+  },
+  "2100583221369167924": {
+    "account": "tunguz",
+    "date": "2026-09-17",
+    "file": "data/posts/2026/09/2026-09-17.jsonl",
+    "fingerprint": "b14c775118dc8941b3b336515149d49af7d9ee1114b591de27ac34c82c7aab16",
+    "media": []
+  },
+  "2100585636826890294": {
+    "account": "tunguz",
+    "date": "2026-09-17",
+    "file": "data/posts/2026/09/2026-09-17.jsonl",
+    "fingerprint": "c759131929137a4eb796afe602d4b77867a29459c2cd24e886925973d3a3f5d0",
+    "media": []
+  },
+  "2100589562191863914": {
+    "account": "elonmusk",
+    "date": "2026-09-17",
+    "file": "data/posts/2026/09/2026-09-17.jsonl",
+    "fingerprint": "8d3271d1f516db90a932b586dfde8215e2fff61c606e77b256c8856c7d6c014c",
+    "media": []
+  },
+  "2100590521831804986": {
+    "account": "elonmusk",
+    "date": "2026-09-17",
+    "file": "data/posts/2026/09/2026-09-17.jsonl",
+    "fingerprint": "28cd0ffb9db2b9d9fbb48b1077b8eafb12925a4093ade3132b4081fd2c7a273b",
     "media": []
   }
 }

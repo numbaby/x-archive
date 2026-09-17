@@ -2,7 +2,31 @@
 
 ## 📅 September 17, 2026
 
-> 4 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 14:00 UTC · @tunguz
+
+> Dyson Sphere? In this economy?
+
+🔗 [View original post](https://x.com/tunguz/status/2100585636826890294)
+
+---
+
+### 🕐 13:50 UTC · @tunguz
+
+> One of the best and most nuanced posts about AI risk that I’ve come across. Maybe you have recently become aware of the AI safety debate and the arguments swirling around it. If you want to understand them, you need to understand a couple things that almost everyone gets wrong: There are TWO distinct classes of AI dangers, and it&apos;s VERY important to thin…
+
+🔗 [View original post](https://x.com/tunguz/status/2100583221369167924)
+
+---
+
+### 🕐 13:31 UTC · @tunguz
+
+> This. Million times this. There is tonnes of BS across the political spectrum, but the main difference is that BS on the left has been “laundered” through “respectable” academic departments. 2/ In the book we discuss how, yes, there is a problem of bullshit on the American right, largely stemming from &quot;news&quot; sources like Fox or Tucker Carlson. People on the left tend to trust higher-quality news sources, and yet...: &quot;We think the bigger problem for liberal America is…
+
+🔗 [View original post](https://x.com/tunguz/status/2100578483428880386)
 
 ---
 
