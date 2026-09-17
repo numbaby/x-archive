@@ -2,7 +2,15 @@
 
 ## 📅 September 17, 2026
 
-> 5 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 06:03 UTC · @elonmusk
+
+> That night SpaceX put everything on the line. December 21, 2015. Nearly 11 years later and it hits just as hard. Return to flight after a rocket failure six months earlier. First Full Thrust Falcon 9. First attempt to land an orbital-class booster on land. They had tried the droneship and failed. They had never successfully landed anything. In mission control it was a tense count. They went for it. Nine minutes later a rocket that had just thrown satellites toward orbit dropped out of the Florida dark. A camera on the back of the booster caught the engines lighting, still one of the most insane images in spaceflight. Legs out. The Falcon has landed. That was the peak of everything they had been working toward. The whole industry said it was impossible. They bet the company on that night anyway. Spaceflight has never been the same. Media
+
+🔗 [View original post](https://x.com/cb_doge/status/2100465607519207867)
 
 ---
 
@@ -11,6 +19,14 @@
 > Starlink V5 terminal is in production The next generation Starlink V5 has a smaller form factor and lightweight design with greater power efficiency. With speeds up to 375+ Mbps, Starlink V5 delivers reliable home internet for streaming, video calling, gaming and more. Available in select areas.
 
 🔗 [View original post](https://x.com/elonmusk/status/2100447103927353423)
+
+---
+
+### 🕐 04:39 UTC · @elonmusk
+
+> I still think about this all the time Elon buying Twitter and restoring free speech was unironically one of the most pivotal moments in the 21st century Its effects will be studied for generations
+
+🔗 [View original post](https://x.com/ArthurMacwaters/status/2100444410563772899)
 
 ---
 
