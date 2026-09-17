@@ -111732,5 +111732,19 @@
         "source_url": "https://pbs.twimg.com/media/HSav6ngXEAAYtOj.jpg?name=orig"
       }
     ]
+  },
+  "2100569780113776910": {
+    "account": "AiEvolutio58513",
+    "date": "2026-09-17",
+    "file": "data/posts/2026/09/2026-09-17.jsonl",
+    "fingerprint": "934d1cded78320541dd33e324d66b2c3576c351693e86c7f5994eb8007121ee2",
+    "media": []
+  },
+  "2100574815749107871": {
+    "account": "tunguz",
+    "date": "2026-09-17",
+    "file": "data/posts/2026/09/2026-09-17.jsonl",
+    "fingerprint": "ddee7ca69184636beb2cd9386e43afdd16bfe0c51e81d8336ff255cf4f97b95e",
+    "media": []
   }
 }

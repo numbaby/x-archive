@@ -2,7 +2,15 @@
 
 ## 📅 September 17, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 13:17 UTC · @tunguz
+
+> This is the famous “critical thinking” that you can only get if you go to college. This op-ed can’t be real: “Students on University of California campuses may struggle with basic math, but they are graduating at record rates.” “What has made the University of California exceptional is its commitment to increase access without sacrificing excellence.”
+
+🔗 [View original post](https://x.com/tunguz/status/2100574815749107871)
 
 ---
 
