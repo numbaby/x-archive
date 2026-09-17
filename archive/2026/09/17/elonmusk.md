@@ -2,7 +2,15 @@
 
 ## 📅 September 17, 2026
 
-> 9 post(s) archived.
+> 10 post(s) archived.
+
+---
+
+### 🕐 08:24 UTC · @elonmusk
+
+> True Starship being the only vehicle in the history of humanity that can take us to other planets does not get enough appreciation
+
+🔗 [View original post](https://x.com/elonmusk/status/2100501250009686419)
 
 ---
 
