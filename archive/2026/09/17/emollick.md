@@ -2,7 +2,31 @@
 
 ## 📅 September 17, 2026
 
-> 5 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 19:28 UTC · @emollick
+
+> Caveats: I take no money from the AI labs, and pay for my own accounts, but during early access there is no limit on tokens so I can’t speak to costs. Also, I have published peer reviewed work in history but am only an interested amateur on the topics the AI selected.
+
+🔗 [View original post](https://x.com/emollick/status/2100668197137678447)
+
+---
+
+### 🕐 18:21 UTC · @emollick
+
+> I had access to the new Claude Projects and was able to do some very complex work. Here, I asked it to go through all the images, videos and records about Umberto Eco&apos;s famous 33,000 book library &amp; try to reconstruct it, including book locations, in 3D. https://eco-library-map.netlify.app/ Media
+
+🔗 [View original post](https://x.com/emollick/status/2100651315617800358)
+
+---
+
+### 🕐 18:03 UTC · @emollick
+
+> When I talk to nonprofit leaders about AI they often report widespread resistance from staff, usually because of environmental objections (that mix real issues &amp; fake ones). It causes them frustration because they’re all under-resourced for their mission &amp; see AI as a way to help
+
+🔗 [View original post](https://x.com/emollick/status/2100646721814737109)
 
 ---
 
