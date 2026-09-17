@@ -2,7 +2,37 @@
 
 ## 📅 September 17, 2026
 
-> 8 post(s) archived.
+> 11 post(s) archived.
+
+---
+
+### 🕐 22:58 UTC · @emollick
+
+> This is now open source: https://github.com/emollick/eco-library The AI found all the references itself. Note the highlighted part.
+
+![This is now open source: https://github.com/emollick/eco-library The AI found all the references itself. Note the highlighted part.](../../../../assets/images/2026/09/17/2100721012287398312-1.jpg)
+
+🔗 [View original post](https://x.com/emollick/status/2100721012287398312)
+
+---
+
+### 🕐 22:37 UTC · @emollick
+
+> Here is the open source repository, including all research notes and public domain source files (with a list of copyrighted source files the AI consulted): https://github.com/emollick/historical_fun
+
+![Here is the open source repository, including all research notes and public domain source files (with a list of copyrighted source files the AI consulted): https://github.com/emollick/historical_fun](../../../../assets/images/2026/09/17/2100715745558585764-1.jpg)
+
+🔗 [View original post](https://x.com/emollick/status/2100715745558585764)
+
+---
+
+### 🕐 22:33 UTC · @emollick
+
+> I overestimated the difficulty of orchestrating massive numbers of agents. I assumed research would be needed to build working organizations of agents, but they self-organize very well (and politely) Here is a Fable coordinator in Claude Projects passing messages between agents.
+
+![I overestimated the difficulty of orchestrating massive numbers of agents. I assumed research would be needed to build working organizations of agents, but they self-organize very well (and politely) ](../../../../assets/images/2026/09/17/2100714800527327488-1.png)
+
+🔗 [View original post](https://x.com/emollick/status/2100714800527327488)
 
 ---
 

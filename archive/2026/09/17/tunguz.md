@@ -2,7 +2,15 @@
 
 ## 📅 September 17, 2026
 
-> 7 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 22:27 UTC · @tunguz
+
+> I want it. A new species of cat has been identified for the first time in a century—and experts think that there may be even more to discover around the world: https://on.natgeo.com/n5nxra
+
+🔗 [View original post](https://x.com/tunguz/status/2100713369175265318)
 
 ---
 

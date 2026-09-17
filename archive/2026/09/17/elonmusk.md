@@ -2,7 +2,15 @@
 
 ## 📅 September 17, 2026
 
-> 19 post(s) archived.
+> 22 post(s) archived.
+
+---
+
+### 🕐 21:26 UTC · @elonmusk
+
+> Grok @Bot now has a voice Grok Bot can talk now.
+
+🔗 [View original post](https://x.com/elonmusk/status/2100698004210475317)
 
 ---
 
@@ -11,6 +19,24 @@
 > Tesla cars feel alive I love this.
 
 🔗 [View original post](https://x.com/elonmusk/status/2100636554158813316)
+
+---
+
+### 🕐 17:10 UTC · @elonmusk
+
+> Now targeting to launch Starship Flight 14 as early as Monday, September 28, pending regulatory approval Starship is preparing to go to orbit. Flight 14 is targeting to launch as early as Tuesday, September 22, pending regulatory approval → https://spacex.com/launches/starship-flight-14
+
+🔗 [View original post](https://x.com/SpaceX/status/2100633608734081213)
+
+---
+
+### 🕐 17:06 UTC · @elonmusk
+
+> Caveman Issues Dire Warning That The Wheel Is Going To Eliminate Countless Jobs https://buff.ly/u9nCQoL
+
+![Caveman Issues Dire Warning That The Wheel Is Going To Eliminate Countless Jobs https://buff.ly/u9nCQoL](../../../../assets/images/2026/09/17/2100632552671261054-1.jpg)
+
+🔗 [View original post](https://x.com/TheBabylonBee/status/2100632552671261054)
 
 ---
 
