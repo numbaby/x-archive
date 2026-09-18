@@ -2,7 +2,17 @@
 
 ## 📅 September 18, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 15:07 UTC · @_akhaliq
+
+> We’ll kick off the Open Source AI Week in SF with a meetup, community demos, and a dance party. Let&apos;s all push and celebrate more openness and transparency in AI!
+
+![We’ll kick off the Open Source AI Week in SF with a meetup, community demos, and a dance party. Let&apos;s all push and celebrate more openness and transparency in AI!](../../../../assets/images/2026/09/18/2100964987720155620-1.jpg)
+
+🔗 [View original post](https://x.com/ClementDelangue/status/2100964987720155620)
 
 ---
 

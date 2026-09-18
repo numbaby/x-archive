@@ -2,7 +2,17 @@
 
 ## 📅 September 18, 2026
 
-> 8 post(s) archived.
+> 9 post(s) archived.
+
+---
+
+### 🕐 18:09 UTC · @emollick
+
+> Even if AI development stopped today, we&apos;d have years of catching up to do. The gap between what current models can do and what almost anyone is using them for is vast. Here’s my post on The Overhang, and the four advantages that let people close it. https://open.substack.com/pub/oneusefulthing/p/the-overhang?r=i5f7&amp;utm_medium=ios
+
+![Even if AI development stopped today, we&apos;d have years of catching up to do. The gap between what current models can do and what almost anyone is using them for is vast. Here’s my post on The Over](../../../../assets/images/2026/09/18/2101010622305493013-1.jpg)
+
+🔗 [View original post](https://x.com/emollick/status/2101010622305493013)
 
 ---
 

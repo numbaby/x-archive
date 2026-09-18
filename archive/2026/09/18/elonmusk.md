@@ -2,7 +2,15 @@
 
 ## 📅 September 18, 2026
 
-> 20 post(s) archived.
+> 21 post(s) archived.
+
+---
+
+### 🕐 18:13 UTC · @elonmusk
+
+> My guess is that AI roughly doubles US GDP growth next year from ~2% to ~4%. Maybe even more.
+
+🔗 [View original post](https://x.com/elonmusk/status/2101011740574052697)
 
 ---
 
