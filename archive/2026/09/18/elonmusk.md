@@ -2,7 +2,23 @@
 
 ## 📅 September 18, 2026
 
-> 6 post(s) archived.
+> 10 post(s) archived.
+
+---
+
+### 🕐 11:25 UTC · @elonmusk
+
+> Starlink is now often more reliable than cable Consistently my residential Starlink has less interruptions than my colleagues fiber connections.
+
+🔗 [View original post](https://x.com/elonmusk/status/2100909140931395881)
+
+---
+
+### 🕐 11:16 UTC · @elonmusk
+
+> Starlink BREAKING: The Government of Paraguay has installed 413 @Starlink kits at schools across five eastern departments, bringing high-speed internet to remote and vulnerable communities. The national rollout will connect 1,600 schools, expanding access to digital education.
+
+🔗 [View original post](https://x.com/elonmusk/status/2100906847049846951)
 
 ---
 
@@ -19,6 +35,22 @@
 > True If a black college girl was dragged from her porch and beaten by a white mob, EVERY SINGLE MSM OUTLET would cover it. When the reverse happens? Total silence.
 
 🔗 [View original post](https://x.com/elonmusk/status/2100895399498145879)
+
+---
+
+### 🕐 05:17 UTC · @elonmusk
+
+> Teslas driving on FSD (Supervised) in Australia and New Zealand experienced on average 40% fewer collisions than those driving manually. One collision every 1.1M miles on FSD vs one every 665k miles while manually driving. FSD Supervised safety results from the last 12 months
+
+🔗 [View original post](https://x.com/SawyerMerritt/status/2100816490391830932)
+
+---
+
+### 🕐 04:11 UTC · @elonmusk
+
+> NONE OF THIS WITHOUT ELON MUSK AND 𝕏. Nick Shirley at All-In Summit: &quot;If it wasn&apos;t for Elon and X, none of this would have been possible. For instance, I post that video about the fraud on YouTube. It does well. It gets a few million views. On X, it got 140 million views, and the most important people in the world see it, and they&apos;re able to see, like, oh, we&apos;re not doing our job. Let&apos;s go do what needs to be done.&quot; Media
+
+🔗 [View original post](https://x.com/teslaownersSV/status/2100799762031059206)
 
 ---
 
