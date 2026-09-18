@@ -2,7 +2,27 @@
 
 ## 📅 September 18, 2026
 
-> 3 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 18:52 UTC · @_akhaliq
+
+> JEPA-Anything Learning Predictive Models across Different Worlds paper: https://huggingface.co/papers/2609.20800
+
+![JEPA-Anything Learning Predictive Models across Different Worlds paper: https://huggingface.co/papers/2609.20800](../../../../assets/images/2026/09/18/2101021609113112658-1.jpg)
+
+🔗 [View original post](https://x.com/_akhaliq/status/2101021609113112658)
+
+---
+
+### 🕐 18:48 UTC · @_akhaliq
+
+> An Empirical Study of Harness Design for Coding Agents paper: https://huggingface.co/papers/2609.20804
+
+![An Empirical Study of Harness Design for Coding Agents paper: https://huggingface.co/papers/2609.20804](../../../../assets/images/2026/09/18/2101020560964866103-1.jpg)
+
+🔗 [View original post](https://x.com/_akhaliq/status/2101020560964866103)
 
 ---
 

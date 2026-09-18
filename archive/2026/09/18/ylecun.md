@@ -2,7 +2,17 @@
 
 ## 📅 September 18, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 13:49 UTC · @ylecun
+
+> From @WSJopinion: The Hugging Face hack wasn’t what it was cracked up to be. Forget the “hive mind” of AI agents “going rogue.” They did what humans programmed them to do, writes Brian Gross. https://on.wsj.com/3Tgmxx4
+
+![From @WSJopinion: The Hugging Face hack wasn’t what it was cracked up to be. Forget the “hive mind” of AI agents “going rogue.” They did what humans programmed them to do, writes Brian Gross. https://](../../../../assets/images/2026/09/18/2100945365763600404-1.jpg)
+
+🔗 [View original post](https://x.com/WSJ/status/2100945365763600404)
 
 ---
 

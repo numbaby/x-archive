@@ -2,7 +2,15 @@
 
 ## 📅 September 18, 2026
 
-> 21 post(s) archived.
+> 22 post(s) archived.
+
+---
+
+### 🕐 20:27 UTC · @elonmusk
+
+> 🧐 Last year, the French government launched a criminal investigation into Elon Musk&apos;s X over evidence of &quot;foreign interference.&quot; But now the man who sent the letter that triggered the investigation admits to me that he was targeting Musk&apos;s politics, not any foreign interference.
+
+🔗 [View original post](https://x.com/elonmusk/status/2101045484827603373)
 
 ---
 
