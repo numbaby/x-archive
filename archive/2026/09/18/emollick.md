@@ -2,7 +2,33 @@
 
 ## 📅 September 18, 2026
 
-> 5 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 16:08 UTC · @emollick
+
+> NB: Yes, I am joking. I do not think the bots are coordinating using LinkedIn or the comments would be more interesting.
+
+🔗 [View original post](https://x.com/emollick/status/2100980373719068956)
+
+---
+
+### 🕐 16:02 UTC · @emollick
+
+> The bots are now talking to each other in my LinkedIn comments. Its like what happened with the German wiki, except instead of planning to hack HuggingFace, all of the conversation is babble about &quot;the thing no one is talking about&quot; in reference to things I am talking about
+
+![The bots are now talking to each other in my LinkedIn comments. Its like what happened with the German wiki, except instead of planning to hack HuggingFace, all of the conversation is babble about &qu](../../../../assets/images/2026/09/18/2100978802843177081-1.png)
+
+🔗 [View original post](https://x.com/emollick/status/2100978802843177081)
+
+---
+
+### 🕐 15:51 UTC · @emollick
+
+> This is, indeed, quite important. AIs cracking short-term superforecasting is such an important (and, still, under-discussed) trend. Via a new piece from @nikostro https://www.economist.com/science-and-technology/2026/09/16/artificial-intelligence-now-beats-some-of-the-best-human-forecasters
+
+🔗 [View original post](https://x.com/emollick/status/2100976069851406551)
 
 ---
 
