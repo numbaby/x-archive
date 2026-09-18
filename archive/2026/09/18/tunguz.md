@@ -2,7 +2,15 @@
 
 ## 📅 September 18, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 05:06 UTC · @tunguz
+
+> The GOAT. Mark Carney’s approval hit 70%, the highest level, surpassing Chrétien’s 66%. So freaking awesome.
+
+🔗 [View original post](https://x.com/tunguz/status/2100813815290147227)
 
 ---
 
