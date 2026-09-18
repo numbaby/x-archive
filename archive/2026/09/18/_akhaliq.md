@@ -2,7 +2,15 @@
 
 ## 📅 September 18, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 08:15 UTC · @_akhaliq
+
+> NVIDIA&apos;s SoL-Pi, now on Hugging Face paper pages A token-efficient agent harness built by recursively scaling auto-research loops. It cuts token traffic by 44.7-49.0% and API cost by about one third while preserving performance. Media
+
+🔗 [View original post](https://x.com/HuggingPapers/status/2100861356442284375)
 
 ---
 
