@@ -2,7 +2,23 @@
 
 ## 📅 September 18, 2026
 
-> 4 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 10:53 UTC · @elonmusk
+
+> Tesla Energy Australia&apos;s first 8-hour long-duration battery is now operating in Limondale, NSW Built by RWE, 144 Tesla Megapacks charge 2x faster than discharge = more daytime renewables stored to cover evening peaks &amp; into the night
+
+🔗 [View original post](https://x.com/elonmusk/status/2100901135389254101)
+
+---
+
+### 🕐 10:31 UTC · @elonmusk
+
+> True If a black college girl was dragged from her porch and beaten by a white mob, EVERY SINGLE MSM OUTLET would cover it. When the reverse happens? Total silence.
+
+🔗 [View original post](https://x.com/elonmusk/status/2100895399498145879)
 
 ---
 
