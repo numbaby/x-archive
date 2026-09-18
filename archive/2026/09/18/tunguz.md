@@ -2,7 +2,23 @@
 
 ## 📅 September 18, 2026
 
-> 2 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 13:38 UTC · @tunguz
+
+> Yes The older I get, the more I realize that going to bed at 9 p.m. and waking up at 5 a.m. is an epic way to live well.
+
+🔗 [View original post](https://x.com/tunguz/status/2100942536886178175)
+
+---
+
+### 🕐 12:16 UTC · @tunguz
+
+> This is true. Nobody cares how rich, funny, smart, or good looking you are. The only thing people care about is how many steps you average a day
+
+🔗 [View original post](https://x.com/tunguz/status/2100921993264771130)
 
 ---
 

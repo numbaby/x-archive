@@ -112205,12 +112205,32 @@
     "fingerprint": "9b82d6880d5b30b36c59c70497ccf0879bf9d970bb01e65f3e3adb18e11ff5b2",
     "media": []
   },
+  "2100891228837749065": {
+    "account": "elonmusk",
+    "date": "2026-09-18",
+    "file": "data/posts/2026/09/2026-09-18.jsonl",
+    "fingerprint": "7a4a0cab00a5d6c2d70cfc198506077011c3416d18c77021b5d09095817f6524",
+    "media": []
+  },
   "2100895399498145879": {
     "account": "elonmusk",
     "date": "2026-09-18",
     "file": "data/posts/2026/09/2026-09-18.jsonl",
     "fingerprint": "085577f00cd0bcbc27b99ce93e5c39b4e6dd1eb206fcc313d07d3be8d988330c",
     "media": []
+  },
+  "2100900152764670151": {
+    "account": "elonmusk",
+    "date": "2026-09-18",
+    "file": "data/posts/2026/09/2026-09-18.jsonl",
+    "fingerprint": "6d036e139a51e3ddeedeb7f6c47565fec1288599ac298b10805b985868b1ae4c",
+    "media": [
+      {
+        "local_path": "assets/images/2026/09/18/2100900152764670151-1.jpg",
+        "sha256": "4b2ffc0e56da6e2fbf839c115bb0d392398f32647eec5468b8a30c478c40a229",
+        "source_url": "https://pbs.twimg.com/media/HSfXK7-bcAAN5PI.jpg?name=orig"
+      }
+    ]
   },
   "2100901135389254101": {
     "account": "elonmusk",
@@ -112231,6 +112251,81 @@
     "date": "2026-09-18",
     "file": "data/posts/2026/09/2026-09-18.jsonl",
     "fingerprint": "a4b9791bc2511de528ad2cc5093d2f7ad3c0dab95abebb7fecd56cfc08ab8001",
+    "media": []
+  },
+  "2100918817924809025": {
+    "account": "elonmusk",
+    "date": "2026-09-18",
+    "file": "data/posts/2026/09/2026-09-18.jsonl",
+    "fingerprint": "b1fa1e1fe4caa8307b066d8f5f74ddcdcabbd3ee2884afb7c2a339ce6553d7f8",
+    "media": []
+  },
+  "2100921993264771130": {
+    "account": "tunguz",
+    "date": "2026-09-18",
+    "file": "data/posts/2026/09/2026-09-18.jsonl",
+    "fingerprint": "1f6e52cfb8afebd82667d6fbabc980d4dab9604f91b7b6f4146bd26eee444654",
+    "media": []
+  },
+  "2100929144062140643": {
+    "account": "elonmusk",
+    "date": "2026-09-18",
+    "file": "data/posts/2026/09/2026-09-18.jsonl",
+    "fingerprint": "1572669217f7df1cc89054f418c12feb6c2e408a00f4ff313a3af3958cd8e6d6",
+    "media": [
+      {
+        "local_path": "assets/images/2026/09/18/2100929144062140643-1.jpg",
+        "sha256": "e20a59f46ab3a39b8bab87355ce9b85f8c7bbc6fde8c1a32f2dd56c566d041ca",
+        "source_url": "https://pbs.twimg.com/media/HSf_6uDWoAAZcaN.jpg?name=orig"
+      }
+    ]
+  },
+  "2100937966424072607": {
+    "account": "elonmusk",
+    "date": "2026-09-18",
+    "file": "data/posts/2026/09/2026-09-18.jsonl",
+    "fingerprint": "37d920e3d038a6a5d275cca859b66d2732a480dd3a822d60c4d731f2546bb827",
+    "media": []
+  },
+  "2100941018707427591": {
+    "account": "elonmusk",
+    "date": "2026-09-18",
+    "file": "data/posts/2026/09/2026-09-18.jsonl",
+    "fingerprint": "4c6fb53fe672e61a6dbdc24ba6ae2df07aa922e86e4e6a47c00b88b51e350209",
+    "media": [
+      {
+        "local_path": "assets/images/2026/09/18/2100941018707427591-1.jpg",
+        "sha256": "477f6a2bbade2d49396d911c52ea02a312b4d948b92aa1b08d105adefd567a8d",
+        "source_url": "https://pbs.twimg.com/media/HSgKt-CaoAAdsnd.jpg?name=orig"
+      }
+    ]
+  },
+  "2100941122679738705": {
+    "account": "elonmusk",
+    "date": "2026-09-18",
+    "file": "data/posts/2026/09/2026-09-18.jsonl",
+    "fingerprint": "b9239d4b55ed5b6c0e6144dd71b8e36762eb497c50b5f5e0638d00ac89022bb3",
+    "media": []
+  },
+  "2100942003018371184": {
+    "account": "elonmusk",
+    "date": "2026-09-18",
+    "file": "data/posts/2026/09/2026-09-18.jsonl",
+    "fingerprint": "981356380d47a114c99861aa95bceddf01dc7e387dc89529c518cfb0a7848bb8",
+    "media": []
+  },
+  "2100942536886178175": {
+    "account": "tunguz",
+    "date": "2026-09-18",
+    "file": "data/posts/2026/09/2026-09-18.jsonl",
+    "fingerprint": "d19aa4a6b2e5eff1dc48c308512204f99bbbeee7538dbf10c2293e9b0ce863bd",
+    "media": []
+  },
+  "2100951474482065487": {
+    "account": "elonmusk",
+    "date": "2026-09-18",
+    "file": "data/posts/2026/09/2026-09-18.jsonl",
+    "fingerprint": "106009026275cbc55e2aae1bad18cb1602b3096bbb7a3c85f509e8127ee1a0d4",
     "media": []
   }
 }

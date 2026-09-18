@@ -2,7 +2,67 @@
 
 ## 📅 September 18, 2026
 
-> 10 post(s) archived.
+> 19 post(s) archived.
+
+---
+
+### 🕐 14:13 UTC · @elonmusk
+
+> Well said Jerry Seinfeld How Warren Beatty changed his mind on Kids
+
+🔗 [View original post](https://x.com/elonmusk/status/2100951474482065487)
+
+---
+
+### 🕐 13:36 UTC · @elonmusk
+
+> Narrative: Whites invented slavery. Reality: Slavery was a global practice.
+
+🔗 [View original post](https://x.com/TheRabbitHole/status/2100942003018371184)
+
+---
+
+### 🕐 13:32 UTC · @elonmusk
+
+> V2 of the @Starlink direct-to-phone satellite constellation is a giant improvement over V1 with 100 times more bandwidth! Starlink Mobile will deliver its next-gen service with @au_official to enable 5G speeds from space. The V2 satellite network will expand upon its V1 capabilities with 100x the data density, and will enable native calls, high-speed apps, streaming and more 🛰️📱
+
+🔗 [View original post](https://x.com/elonmusk/status/2100941122679738705)
+
+---
+
+### 🕐 13:32 UTC · @elonmusk
+
+> BREAKING: Starlink high speed internet is scaling rapidly across airline fleets. 🔥
+
+![BREAKING: Starlink high speed internet is scaling rapidly across airline fleets. 🔥](../../../../assets/images/2026/09/18/2100941018707427591-1.jpg)
+
+🔗 [View original post](https://x.com/cb_doge/status/2100941018707427591)
+
+---
+
+### 🕐 13:20 UTC · @elonmusk
+
+> Watch your favorite games live on @Starlink United Airlines says they already flown more than 31 million passengers on @Starlink-powered aircraft across more than 464,000 flights, powering 14.2M devices. Starting this week, passengers will be able to watch NFL games on their Starlink-enabled seatback screen. Last month, I …
+
+🔗 [View original post](https://x.com/elonmusk/status/2100937966424072607)
+
+---
+
+### 🕐 12:45 UTC · @elonmusk
+
+> 79 years of breaking barriers—and counting. Happy birthday to the U.S. Air Force! From the Bell X-1 to today’s Airmen, innovation and service fuel our future.
+
+![79 years of breaking barriers—and counting. Happy birthday to the U.S. Air Force! From the Bell X-1 to today’s Airmen, innovation and service fuel our future.](../../../../assets/images/2026/09/18/2100929144062140643-1.jpg)
+
+🔗 [View original post](https://x.com/usairforce/status/2100929144062140643)
+
+---
+
+### 🕐 12:04 UTC · @elonmusk
+
+> Elon Musk stepping out of his Airstream trailer in Memphis after posting an absolute banger on 𝕏 😂 Media Elon Musk, the world’s first trillionaire, lives in a beautiful “palace,” which happens to be an Airstream trailer 😂 “I am coming to you today from the palace that I live in in Memphis, which is an Airstream trailer.” In America, you can just do things
+
+🔗 [View original post](https://x.com/iam_smx/status/2100918817924809025)
 
 ---
 
@@ -30,11 +90,29 @@
 
 ---
 
+### 🕐 10:50 UTC · @elonmusk
+
+> 台風が来ても、変わらない暮らしを。 停電時には Powerwall 3 から電気を供給。 ご家族とご自宅を守ります。
+
+![台風が来ても、変わらない暮らしを。 停電時には Powerwall 3 から電気を供給。 ご家族とご自宅を守ります。](../../../../assets/images/2026/09/18/2100900152764670151-1.jpg)
+
+🔗 [View original post](https://x.com/teslajapan/status/2100900152764670151)
+
+---
+
 ### 🕐 10:31 UTC · @elonmusk
 
 > True If a black college girl was dragged from her porch and beaten by a white mob, EVERY SINGLE MSM OUTLET would cover it. When the reverse happens? Total silence.
 
 🔗 [View original post](https://x.com/elonmusk/status/2100895399498145879)
+
+---
+
+### 🕐 10:14 UTC · @elonmusk
+
+> We need a slur for retards
+
+🔗 [View original post](https://x.com/dogeofficialceo/status/2100891228837749065)
 
 ---
 
