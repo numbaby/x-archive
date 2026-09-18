@@ -2,7 +2,23 @@
 
 ## 📅 September 18, 2026
 
-> 2 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 02:05 UTC · @emollick
+
+> As per usual, be careful not to be pulled in by the self-anthropomorphism, which was implied by the prompt. This fit into my Claude usage limit, but the entire analysis of the manuscript (including many agents) &amp; movie would have cost about $85 in tokens on Fable 5.1 otherwise
+
+🔗 [View original post](https://x.com/emollick/status/2100768169795227746)
+
+---
+
+### 🕐 02:01 UTC · @emollick
+
+> Hey Claude, &quot;Pick a problem or mystery that obsesses you and solve it as best you can &amp; make a movie we can share on social media about it&quot; So it took a crack at the Voynich Manuscript &amp; failed. Then it made this movie, which is pretty interesting to watch and a good explainer. Media
+
+🔗 [View original post](https://x.com/emollick/status/2100767116819325141)
 
 ---
 
