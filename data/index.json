@@ -112062,5 +112062,19 @@
         "source_url": "https://pbs.twimg.com/media/HSdCd2qX0AADcFQ.jpg?name=orig"
       }
     ]
+  },
+  "2100743641190781114": {
+    "account": "emollick",
+    "date": "2026-09-18",
+    "file": "data/posts/2026/09/2026-09-18.jsonl",
+    "fingerprint": "b4104993d1d56dad80c98514c89a618e1db0fefece225c3dbbcbd932fecf9e36",
+    "media": []
+  },
+  "2100744220562673683": {
+    "account": "emollick",
+    "date": "2026-09-18",
+    "file": "data/posts/2026/09/2026-09-18.jsonl",
+    "fingerprint": "e4278dce8ed48555a8402d4ab11ae5b8832879022df978efe1d0bcaf628039fd",
+    "media": []
   }
 }
