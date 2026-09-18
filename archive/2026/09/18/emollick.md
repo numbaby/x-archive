@@ -2,7 +2,17 @@
 
 ## 📅 September 18, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 14:49 UTC · @emollick
+
+> Here is Claude describing how it did it in the most Claudish way. I gave it encouraging prompts while the various agents were working &quot;is the presentation beautiful and interesting?&quot; but did not comment at all on the end product, which is all Calude. https://the-book-i-cannot-read.netlify.app/
+
+![Here is Claude describing how it did it in the most Claudish way. I gave it encouraging prompts while the various agents were working &quot;is the presentation beautiful and interesting?&quot; but did](../../../../assets/images/2026/09/18/2100960392092483876-1.jpg)
+
+🔗 [View original post](https://x.com/emollick/status/2100960392092483876)
 
 ---
 
