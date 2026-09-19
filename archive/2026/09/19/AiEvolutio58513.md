@@ -2,7 +2,25 @@
 
 ## 📅 September 19, 2026
 
-> 2 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 16:29 UTC · @AiEvolutio58513
+
+> Founders: we&apos;ll build your personal/company brand on 𝕏 without you lifting a finger. To date, we&apos;ve generated 1.5B+ impressions &amp; $1.3M+ revenue for clients. Interested? Schedule a 𝕏 audit: https://calendly.com/geniusfirst/viral
+
+![Founders: we&apos;ll build your personal/company brand on 𝕏 without you lifting a finger. To date, we&apos;ve generated 1.5B+ impressions &amp; $1.3M+ revenue for clients. Interested? Schedule a 𝕏 aud](../../../../assets/images/2026/09/19/2101347921207919067-1.png)
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2101347921207919067)
+
+---
+
+### 🕐 16:29 UTC · @AiEvolutio58513
+
+> Mark Zuckerberg thinks personal AI could eventually help design treatments around one individual. He believes this could be especially important for rare conditions that traditional drug markets overlook. Pharmaceutical companies naturally focus on common diseases because more patients create a larger market. But some conditions affect only dozens or hundreds of people. Zuckerberg suggested that an AI working with someone’s medical history, condition, and personal characteristics could potentially help develop a personalized treatment. He framed this as a possibility that could be approaching within the next few years, not something Muse can reliably do today. His broader prediction is that personal agents will become deeply involved in health because medicine is ultimately personal and every individual is different. — Mark Zuckerberg (@finkd) on Talk Tech With Tiff Media Mark Zuckerberg (@finkd) on Muse, Meta&apos;s personal AI agent I recently sat down with Zuckerberg for episode two of the Sources podcast. We go deep on Muse, Meta&apos;s new (and, in my experience over the last few days, very capable) agent that comes with its own virtual machine and can…
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2101347908524310952)
 
 ---
 

@@ -2,7 +2,31 @@
 
 ## 📅 September 19, 2026
 
-> 5 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 16:22 UTC · @emollick
+
+> Needless to say, our policies should be actively guiding us towards the good AI world.
+
+🔗 [View original post](https://x.com/emollick/status/2101346281775890896)
+
+---
+
+### 🕐 16:20 UTC · @emollick
+
+> It is not that hard to predict a very plausible, and even likely, scenario that things end up broadly good with some negative incidents that never reach catastrophic level (that is what happened with all other General Purpose Technologies in human history), but the issue is that there is also the real possibility that we are facing a von Neumann-type singularity where human affairs get reshaped dramatically by AI in ways that impossible to predict.
+
+🔗 [View original post](https://x.com/emollick/status/2101345754715435026)
+
+---
+
+### 🕐 16:16 UTC · @emollick
+
+> One future is that we muddle through on most risks (&amp; the existential ones are prevented) and the positive impacts that early data hints at — higher productivity, more scientific discovery, higher entrepreneurship, employment stable/growing (most tentative of the set) — continue One political problem for AI labs is that they can&apos;t articulate an optimistic medium-term future that sounds broadly good for humanity without also sounding incredibly weird, having huge wealth/power disparities, or both.
+
+🔗 [View original post](https://x.com/emollick/status/2101344628280607066)
 
 ---
 

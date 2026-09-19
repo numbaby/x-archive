@@ -2,7 +2,33 @@
 
 ## 📅 September 19, 2026
 
-> 3 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 19:06 UTC · @tunguz
+
+> Scrum was a ZIRP. it&apos;s funny how scrum masters completely disappeared and no one really cared
+
+🔗 [View original post](https://x.com/tunguz/status/2101387450866414055)
+
+---
+
+### 🕐 18:58 UTC · @tunguz
+
+> 31k … Steptember to remember.
+
+![31k … Steptember to remember.](../../../../assets/images/2026/09/19/2101385401915371709-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2101385401915371709)
+
+---
+
+### 🕐 18:45 UTC · @tunguz
+
+> Yes Reminder
+
+🔗 [View original post](https://x.com/tunguz/status/2101382230761451936)
 
 ---
 
