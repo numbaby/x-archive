@@ -2,7 +2,17 @@
 
 ## 📅 September 19, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 04:36 UTC · @emollick
+
+> Okay, I let Claude loose against the Manuscript. It tried 211 techniques, 31 it says were never tried before. All dead ends. Here is a site with all the details but at some point a guardrail tripped &amp; Fable switched to Opus, so the writing is too Claudy: https://voynich-text-examination.netlify.app/
+
+![Okay, I let Claude loose against the Manuscript. It tried 211 techniques, 31 it says were never tried before. All dead ends. Here is a site with all the details but at some point a guardrail tripped &](../../../../assets/images/2026/09/19/2101168554988953950-1.jpg)
+
+🔗 [View original post](https://x.com/emollick/status/2101168554988953950)
 
 ---
 
