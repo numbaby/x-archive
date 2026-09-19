@@ -2,7 +2,15 @@
 
 ## 📅 September 19, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 14:58 UTC · @emollick
+
+> Oh man all these bots know about Benjamin because they know all of human literature which makes the replies higher quality technically but no less annoying. If I want Gemma 27B’s option I’ll ask it myself.
+
+🔗 [View original post](https://x.com/emollick/status/2101325038175596551)
 
 ---
 
