@@ -112961,5 +112961,19 @@
     "file": "data/posts/2026/09/2026-09-20.jsonl",
     "fingerprint": "75136e61ef05f1082d55ac5f58b953bd56554555beca76fd42b2ddc96efadd59",
     "media": []
+  },
+  "2101470432855814148": {
+    "account": "elonmusk",
+    "date": "2026-09-20",
+    "file": "data/posts/2026/09/2026-09-20.jsonl",
+    "fingerprint": "0807a5e3800c3664d60284db85afef36f72fdcc3170f36278b38127fb5def398",
+    "media": []
+  },
+  "2101472909663338637": {
+    "account": "ylecun",
+    "date": "2026-09-20",
+    "file": "data/posts/2026/09/2026-09-20.jsonl",
+    "fingerprint": "3850984da56fc043606aca92207976a820d6088bcfaf2524b464df9eded7f08d",
+    "media": []
   }
 }
