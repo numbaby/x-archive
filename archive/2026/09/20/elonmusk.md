@@ -2,7 +2,43 @@
 
 ## 📅 September 20, 2026
 
-> 7 post(s) archived.
+> 11 post(s) archived.
+
+---
+
+### 🕐 09:21 UTC · @elonmusk
+
+> SpaceXAI just made a massive jump in image generation Grok Imagine Image 2.0 is now #4 on Artificial Analysis’ Text-to-Image Leaderboard with 1,154 Elo.....the highest-ranked model outside OpenAI Imagine Image 2.0: #4 — 1,154 Elo It also sits on the Pareto frontier for quality vs price Going from #18 to #4 in a single generation is insane SpaceXAI is moving ridiculously fast
+
+![SpaceXAI just made a massive jump in image generation Grok Imagine Image 2.0 is now #4 on Artificial Analysis’ Text-to-Image Leaderboard with 1,154 Elo.....the highest-ranked model outside OpenAI Imag](../../../../assets/images/2026/09/20/2101602553985138718-1.jpg)
+
+🔗 [View original post](https://x.com/XFreeze/status/2101602553985138718)
+
+---
+
+### 🕐 09:09 UTC · @elonmusk
+
+> Grok @Bot
+
+🔗 [View original post](https://x.com/elonmusk/status/2101599676214702243)
+
+---
+
+### 🕐 08:53 UTC · @elonmusk
+
+> 8 years ago Elon Musk with The Boring Company’s Not-a-Flamethrower at Joe Rogan’s studio in 2018.
+
+🔗 [View original post](https://x.com/elonmusk/status/2101595506426429618)
+
+---
+
+### 🕐 08:45 UTC · @elonmusk
+
+> Taylor in 2023: Taylor in 2026: “X is better now than ever” &quot;i think X is better now than ever&quot; - @TaylorLorenz &quot;twitter was falling apart so i&apos;m glad @elonmusk took over but i was like elon has never ran a social media product&quot; &quot;he banned me by the way. first major mistake&quot; &quot;i was very skeptical and i thought this would be the end of X b…
+
+![Taylor in 2023: Taylor in 2026: “X is better now than ever” &quot;i think X is better now than ever&quot; - @TaylorLorenz &quot;twitter was falling apart so i&apos;m glad @elonmusk took over but i was](../../../../assets/images/2026/09/20/2101593589746663435-1.jpg)
+
+🔗 [View original post](https://x.com/KatieMiller/status/2101593589746663435)
 
 ---
 
