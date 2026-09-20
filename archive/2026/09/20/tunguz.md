@@ -2,7 +2,67 @@
 
 ## 📅 September 20, 2026
 
-> 11 post(s) archived.
+> 18 post(s) archived.
+
+---
+
+### 🕐 22:19 UTC · @tunguz
+
+> Driving around Lake Michigan in Gary, Indiana. Media
+
+🔗 [View original post](https://x.com/tunguz/status/2101798388140503369)
+
+---
+
+### 🕐 21:44 UTC · @tunguz
+
+> I just told my oldest that he has been promoted to a “tech executive”. He asked me if that means his allowance will be increased, and when I said no, he was not that impressed.
+
+🔗 [View original post](https://x.com/tunguz/status/2101789526767407250)
+
+---
+
+### 🕐 20:55 UTC · @tunguz
+
+> Man, memeing today feels like stealing candy from a baby.
+
+🔗 [View original post](https://x.com/tunguz/status/2101777196276998497)
+
+---
+
+### 🕐 18:13 UTC · @tunguz
+
+> “He’s fully post-economic.”
+
+![“He’s fully post-economic.”](../../../../assets/images/2026/09/20/2101736425628790813-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2101736425628790813)
+
+---
+
+### 🕐 17:50 UTC · @tunguz
+
+> Recycling paper makes as much sense as recycling potatoes.
+
+🔗 [View original post](https://x.com/tunguz/status/2101730821912789066)
+
+---
+
+### 🕐 17:49 UTC · @tunguz
+
+> “So yeah, I am fully post-economic.”
+
+![“So yeah, I am fully post-economic.”](../../../../assets/images/2026/09/20/2101730451069227408-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2101730451069227408)
+
+---
+
+### 🕐 16:41 UTC · @tunguz
+
+> Neither economic nor post-economic, but the third much more powerful thing.
+
+🔗 [View original post](https://x.com/tunguz/status/2101713441069420972)
 
 ---
 

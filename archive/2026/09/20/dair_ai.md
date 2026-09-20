@@ -2,7 +2,39 @@
 
 ## 📅 September 20, 2026
 
-> 2 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 20:48 UTC · @dair_ai
+
+> 🔥 Introducing a Jev Primer &amp; Playground If you want to learn how Jev works, look no further. This is the only interactive guide you need to get started. No more confusion about what Jev can and cannot do. Plus we built a custom Jev Playground for you try out use cases now. https://x.com/i/article/2101769918484254720
+
+🔗 [View original post](https://x.com/omarsar0/status/2101775584661573692)
+
+---
+
+### 🕐 20:48 UTC · @dair_ai
+
+> A beginner&apos;s introduction to Jev. Plus we also built a Jev Playground for you to test out several use cases. https://x.com/i/article/2101769918484254720
+
+🔗 [View original post](https://x.com/dair_ai/status/2101775443300872536)
+
+---
+
+### 🕐 20:44 UTC · @dair_ai
+
+> https://x.com/i/article/2101769918484254720
+
+🔗 [View original post](https://x.com/omarsar0/status/2101774405521301681)
+
+---
+
+### 🕐 17:35 UTC · @dair_ai
+
+> https://x.com/i/article/2101726389456293888
+
+🔗 [View original post](https://x.com/dair_ai/status/2101726926838620444)
 
 ---
 
