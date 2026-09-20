@@ -2,7 +2,15 @@
 
 ## 📅 September 20, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 14:43 UTC · @emollick
+
+> Claude not having an image generator is a gap in agentic projects that involve knowledge work. It is quite good at using code to draw or model objects, but image generators from Google and OpenAI give their AIs many more option for doing PowerPoints, mockups, infographics, etc.
+
+🔗 [View original post](https://x.com/emollick/status/2101683717571784879)
 
 ---
 

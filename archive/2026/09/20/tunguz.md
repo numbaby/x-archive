@@ -2,7 +2,15 @@
 
 ## 📅 September 20, 2026
 
-> 7 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 14:32 UTC · @tunguz
+
+> If you value mastery over understanding you are going to have really hard time from now on. If you consider understanding the highest ideal, then you are about to go through the most amazing transition in history of humanity.
+
+🔗 [View original post](https://x.com/tunguz/status/2101680974895714453)
 
 ---
 
