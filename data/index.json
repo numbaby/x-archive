@@ -112975,5 +112975,18 @@
     "file": "data/posts/2026/09/2026-09-20.jsonl",
     "fingerprint": "3850984da56fc043606aca92207976a820d6088bcfaf2524b464df9eded7f08d",
     "media": []
+  },
+  "2101494059898655108": {
+    "account": "dair_ai",
+    "date": "2026-09-20",
+    "file": "data/posts/2026/09/2026-09-20.jsonl",
+    "fingerprint": "b18d0e31e675c849767ceb4254781a868ed69c866ab29103ba712c2ad6cfec68",
+    "media": [
+      {
+        "local_path": "assets/images/2026/09/20/2101494059898655108-1.jpg",
+        "sha256": "67786a051254c7954ee8f4e2bbbf95895dd3c4913990326c65e9122680ac534b",
+        "source_url": "https://pbs.twimg.com/media/HSoBtZea0AArcZC.jpg?name=orig"
+      }
+    ]
   }
 }
