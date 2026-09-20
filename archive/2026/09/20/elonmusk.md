@@ -2,7 +2,15 @@
 
 ## 📅 September 20, 2026
 
-> 5 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 05:07 UTC · @elonmusk
+
+> Tesla has a Semi 😂 Top Gear tours factory &amp; rides in production Semi w/ @danWpriestley &quot;Maybe the most significant Tesla since the Model 3&quot; At 1.7 kWh/mi, Semi is using only ~7× as much energy as a Model Y, at ~20× the weight. A comparable diesel is using ~3× as much as Semi https://youtu.be/0WP9Hi…
+
+🔗 [View original post](https://x.com/elonmusk/status/2101538675284676696)
 
 ---
 
