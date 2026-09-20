@@ -2,7 +2,33 @@
 
 ## 📅 September 20, 2026
 
-> 2 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 02:50 UTC · @elonmusk
+
+> Deployment of 27 @Starlink satellites confirmed
+
+🔗 [View original post](https://x.com/SpaceX/status/2101504221266792661)
+
+---
+
+### 🕐 01:57 UTC · @elonmusk
+
+> Not many people know that Elon Musk started The Boring Company as a joke.
+
+![Not many people know that Elon Musk started The Boring Company as a joke.](../../../../assets/images/2026/09/20/2101490987617206357-1.jpg)
+
+🔗 [View original post](https://x.com/cb_doge/status/2101490987617206357)
+
+---
+
+### 🕐 01:52 UTC · @elonmusk
+
+> Fairing separation confirmed. Today’s mission marks our first 40th flight of a fairing half! Media
+
+🔗 [View original post](https://x.com/SpaceX/status/2101489521615385011)
 
 ---
 
