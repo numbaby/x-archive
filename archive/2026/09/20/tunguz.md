@@ -2,7 +2,35 @@
 
 ## 📅 September 20, 2026
 
-> 8 post(s) archived.
+> 11 post(s) archived.
+
+---
+
+### 🕐 15:56 UTC · @tunguz
+
+> I guess I wasn’t her type.
+
+![I guess I wasn’t her type.](../../../../assets/images/2026/09/20/2101702086849397014-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2101702086849397014)
+
+---
+
+### 🕐 15:55 UTC · @tunguz
+
+> AI is going to fix this. Pew asked Americans what&apos;s essential to a fulfilling life: Career: 71% Friends: 61% Kids: 26% Marriage: 23% Fifty years of data say that marriage is the biggest happiness differentiator ever measured. Americans have this backwards.
+
+🔗 [View original post](https://x.com/tunguz/status/2101701877775970397)
+
+---
+
+### 🕐 15:52 UTC · @tunguz
+
+> - 27 y/o - healthy masculine - smart, funny, lighthearted - provider/protector mentality - post economic (still hardworking) - kind, generous, thoughtful - no kids yet, decidedly wants kids - on the healing path (history of serious commitment ex therapists, books, retreats) - can meet anywhere but will not date unless live in the same city - fit and sober because you care about your health - no prev marriages or engagements - works in finance (comfortable with risk and career is blended into personal life)
+
+![- 27 y/o - healthy masculine - smart, funny, lighthearted - provider/protector mentality - post economic (still hardworking) - kind, generous, thoughtful - no kids yet, decidedly wants kids - on the h](../../../../assets/images/2026/09/20/2101700925731827746-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2101700925731827746)
 
 ---
 

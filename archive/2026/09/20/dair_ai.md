@@ -2,7 +2,15 @@
 
 ## 📅 September 20, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 15:35 UTC · @dair_ai
+
+> 🔥 Awesome Jev Collection 🔥 Find inspiration in my new Jev collection. (bookmark it) It automatically updates with new trending Jev use cases and demos pulled from X. Curation powered by Jev itself. Surprisingly, I found Jev great at curation, too. Here you go: https://academy.dair.ai/resources/jev-field-notes Media
+
+🔗 [View original post](https://x.com/omarsar0/status/2101696753749655863)
 
 ---
 
