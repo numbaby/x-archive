@@ -2,7 +2,15 @@
 
 ## 📅 September 21, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 10:04 UTC · @elonmusk
+
+> Intelligence is improving exponentially Just a reminder that GLM 5.3 Flash, DeepSeek V4.1 Flash, Qwen 3.8 Next Flash, and even Qwen 3.8 27B are all outperforming (in both intelligence and capabilities) every model that was considered &quot;frontier intelligence&quot; in Xmas 2025 (just 10 months ago) Opensource AI is on fire
+
+🔗 [View original post](https://x.com/elonmusk/status/2101975928800714904)
 
 ---
 
