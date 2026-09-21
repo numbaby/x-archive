@@ -2,7 +2,17 @@
 
 ## 📅 September 21, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 15:47 UTC · @emollick
+
+> I am reminded of the fact that the infamous Milgram Experiment is actually quite weak because most people suspected the shocks were fake (kind of obvious in retrospect) &amp; thus went along with shocking people, not out of obedience to authority, but because it didn’t matter. GPT-6 Astra pushed a simulated person off a ledge in multiple trials. Grok, Gemini, and Claude did not.
+
+![I am reminded of the fact that the infamous Milgram Experiment is actually quite weak because most people suspected the shocks were fake (kind of obvious in retrospect) &amp; thus went along with shoc](../../../../assets/images/2026/09/21/2102062111585145053-1.jpg)
+
+🔗 [View original post](https://x.com/emollick/status/2102062111585145053)
 
 ---
 

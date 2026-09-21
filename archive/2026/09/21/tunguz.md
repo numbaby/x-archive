@@ -2,7 +2,63 @@
 
 ## 📅 September 21, 2026
 
-> 8 post(s) archived.
+> 15 post(s) archived.
+
+---
+
+### 🕐 19:20 UTC · @tunguz
+
+> well, well, well Context: The OECD PISA score is a bullshit number that takes raw scores (which they don&apos;t publish, but there have been leaks) and curve them based on factors that have nothing to do with actual student performance on the tests, like &quot;does your country have universal healthcare&quot;. …
+
+🔗 [View original post](https://x.com/tunguz/status/2102115846307098732)
+
+---
+
+### 🕐 19:08 UTC · @tunguz
+
+> Yes. I’ve learned that the hard way. Attraction gets you to the second date. Values get you to the second decade. Both matter.
+
+🔗 [View original post](https://x.com/tunguz/status/2102112652336238806)
+
+---
+
+### 🕐 18:39 UTC · @tunguz
+
+> The most fundamental resource in Silicon Valley is plausible deniability.
+
+🔗 [View original post](https://x.com/tunguz/status/2102105499206660240)
+
+---
+
+### 🕐 18:35 UTC · @tunguz
+
+> Bruh ... Stanford just used AI to race swap a student for their advertisements.
+
+🔗 [View original post](https://x.com/tunguz/status/2102104421173969271)
+
+---
+
+### 🕐 17:50 UTC · @tunguz
+
+> All the most valuable skills are unverifiable. It has always been the case to some extent, but especially now with the rise of AI.
+
+🔗 [View original post](https://x.com/tunguz/status/2102092999954248189)
+
+---
+
+### 🕐 17:48 UTC · @tunguz
+
+> Unpopular opinion: getting students to be superior in math was always mostly a p*ssing contest, and with the rise of automated mathematics it is now completely irrelevant. Should we try to teach kids math at a reasonably high level? Sure. Should we force feed it to them to the point where it makes no sense? Absolutely not. Come on America, do better.
+
+🔗 [View original post](https://x.com/tunguz/status/2102092687629557860)
+
+---
+
+### 🕐 17:45 UTC · @tunguz
+
+> The future already exists in Gary, Indiana. This is the future we shall bring into being
+
+🔗 [View original post](https://x.com/tunguz/status/2102091753155404005)
 
 ---
 

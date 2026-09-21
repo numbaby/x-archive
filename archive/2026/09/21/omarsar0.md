@@ -2,7 +2,15 @@
 
 ## 📅 September 21, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 16:09 UTC · @omarsar0
+
+> I must confess this isn&apos;t the flashiest outcome, but it makes a huge difference in the experience and how agents can use the tag to explore and discover research papers. There are insane compounding effects here. I have started using Jev to explore research papers in some really interesting ways. I&apos;m still doing some evals, but I am extremely excited about what Jev is currently unlocking for me.
+
+🔗 [View original post](https://x.com/omarsar0/status/2102067820678795614)
 
 ---
 
