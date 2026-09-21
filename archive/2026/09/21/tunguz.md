@@ -2,7 +2,15 @@
 
 ## 📅 September 21, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 04:13 UTC · @tunguz
+
+> What happens in AI labs doesn’t stay in AI labs.
+
+🔗 [View original post](https://x.com/tunguz/status/2101887402746999066)
 
 ---
 
