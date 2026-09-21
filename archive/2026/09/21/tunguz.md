@@ -2,7 +2,25 @@
 
 ## 📅 September 21, 2026
 
-> 6 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 14:53 UTC · @tunguz
+
+> Plot thickens.
+
+![Plot thickens.](../../../../assets/images/2026/09/21/2102048634376536542-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2102048634376536542)
+
+---
+
+### 🕐 14:36 UTC · @tunguz
+
+> No, sorry, your dog is not “friendly” and “likes people”. Your dog is an animal that has been domesticated to be used as a weapon. If it charges towards me and starts barking at me I consider that a threatening act ESPECIALLY IF YOUR DOG IS NOT ON A LEASH. Please people, use some sense about this.
+
+🔗 [View original post](https://x.com/tunguz/status/2102044408405528794)
 
 ---
 

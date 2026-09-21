@@ -2,7 +2,17 @@
 
 ## 📅 September 21, 2026
 
-> 5 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 14:03 UTC · @elonmusk
+
+> Morgan Stanley&apos;s Adam Jonas in new note: &quot;SpaceX and Tesla share tech, talent, and infrastructure in a shared mission of converting energy to intelligence. In our view, it is the belief of Elon Musk &amp; team that the next decade of AI value creation will be decided by who can build, power, connect, and instrument AI in the physical world. Tesla and SpaceX have each arguably assembled separate, but synergistically linked, physical AI capabilities and are working to gradually close the gap between them. Areas linking SpaceX &amp; Tesla today: • Advanced chips and AI hardware • Energy storage • Vehicles and components • Agentic platform development • Solar • Materials engineering • Vendors • Connectivity • Cross-Ownership • Culture • Talent SpaceX provides Tesla: • Compute • Connectivity • Capital Tesla provides SpaceX: • Robots • Data • Energy • Manufacturing&quot;
+
+![Morgan Stanley&apos;s Adam Jonas in new note: &quot;SpaceX and Tesla share tech, talent, and infrastructure in a shared mission of converting energy to intelligence. In our view, it is the belief of E](../../../../assets/images/2026/09/21/2102036118573076567-1.jpg)
+
+🔗 [View original post](https://x.com/SawyerMerritt/status/2102036118573076567)
 
 ---
 
