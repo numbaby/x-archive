@@ -2,7 +2,15 @@
 
 ## 📅 September 21, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 13:58 UTC · @AiEvolutio58513
+
+> AI bots have crossed a threshold nobody expected this soon. Cloudflare says automated traffic surpassed human traffic in May 2026. The company had previously estimated that the crossover would happen in 2027. Now Matthew Prince says the curve is accelerating so quickly that automated traffic could become 1,000 times greater than human traffic within five years. That does not mean humans will stop using the internet. It means agents will make dramatically more requests on their behalf. A person shopping for a camera might visit five websites and read 10 pages on each. An agent could visit 1,000 websites and inspect every page. That sounds useful for consumers, but every request consumes bandwidth, computing capacity, and content someone paid to create. — Matthew Prince (@eastdakota) on the Big Technology Podcast Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media Matthew Prince reveals Cloudflare will block Google by default starting mid-September for ad- and subscription-supported sites, and expects the largest publishers to follow &quot;What we&apos;ve said at Cloudflare is that by mid-September we&apos;re going to treat Google the same way. If you&apos;re…
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2102034699854160236)
 
 ---
 
