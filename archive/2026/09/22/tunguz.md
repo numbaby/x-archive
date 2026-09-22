@@ -2,7 +2,15 @@
 
 ## 📅 September 22, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 03:15 UTC · @tunguz
+
+> Math too cheap to matter.
+
+🔗 [View original post](https://x.com/tunguz/status/2102235208053596215)
 
 ---
 
