@@ -2,7 +2,15 @@
 
 ## 📅 September 22, 2026
 
-> 35 post(s) archived.
+> 36 post(s) archived.
+
+---
+
+### 🕐 22:07 UTC · @elonmusk
+
+> Interesting. Grok 4.7 is performing fairly well for a smallish model. We ran fresh Next.js evals. The tally: ① Opus 5.5 [𝟿𝟽%] ② GPT 6 Sol [𝟿𝟽%] ③ Fable 5.1 [𝟿𝟽%] ④ Grok 4.7 [𝟿𝟺%] Notably, Grok is 2x-7x cheaper
+
+🔗 [View original post](https://x.com/elonmusk/status/2102520283618017355)
 
 ---
 

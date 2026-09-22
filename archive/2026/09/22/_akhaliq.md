@@ -2,7 +2,7 @@
 
 ## 📅 September 22, 2026
 
-> 12 post(s) archived.
+> 13 post(s) archived.
 
 ---
 
@@ -31,6 +31,16 @@
 > Thanks for sharing @_akhaliq! RRSI Regularized Recursive Self-Improvement of Agent Harnesses paper: https://huggingface.co/papers/2609.24972
 
 🔗 [View original post](https://x.com/richardxp888/status/2102465252856369403)
+
+---
+
+### 🕐 18:28 UTC · @_akhaliq
+
+> Qwen-Image 2.1 draws its best pictures when a 9B &quot;prompt rewriter&quot; expands your request first. That is 20 GB in bf16 and uses 1700 words as system prompt, and thinks for ~1,600 tokens before answering. We shrank it to 0.8B. It fits on a laptop now. 🧵
+
+![Qwen-Image 2.1 draws its best pictures when a 9B &quot;prompt rewriter&quot; expands your request first. That is 20 GB in bf16 and uses 1700 words as system prompt, and thinks for ~1,600 tokens before](../../../../assets/images/2026/09/22/2102464987889553848-1.jpg)
+
+🔗 [View original post](https://x.com/Gradio/status/2102464987889553848)
 
 ---
 

@@ -2,7 +2,15 @@
 
 ## 📅 September 22, 2026
 
-> 10 post(s) archived.
+> 11 post(s) archived.
+
+---
+
+### 🕐 21:38 UTC · @sama
+
+> argh i meant VOICE not video :( sorry to dissapoint
+
+🔗 [View original post](https://x.com/sama/status/2102512794235207758)
 
 ---
 

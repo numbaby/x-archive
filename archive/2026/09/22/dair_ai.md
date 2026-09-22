@@ -2,7 +2,35 @@
 
 ## 📅 September 22, 2026
 
-> 6 post(s) archived.
+> 9 post(s) archived.
+
+---
+
+### 🕐 21:14 UTC · @dair_ai
+
+> Great prompt from Anthropic. It helps steer long runs when using Opus 5.5 in Claude Code. Apparently, on long-running tasks, the model sometimes stops to report instead of continuing. I&apos;ve noticed that this happens a lot with frontier models.
+
+![Great prompt from Anthropic. It helps steer long runs when using Opus 5.5 in Claude Code. Apparently, on long-running tasks, the model sometimes stops to report instead of continuing. I&apos;ve notice](../../../../assets/images/2026/09/22/2102506755037306925-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2102506755037306925)
+
+---
+
+### 🕐 19:50 UTC · @dair_ai
+
+> Own your intelligence stack, folks. You can&apos;t scale a company to the frontier by renting intelligence. Custom models, harnesses, and evals are becoming huge assets. And if you&apos;re building something new, you might want to consider working on any one of these, or a combination of them. The hardest thing about building @harvey is doing what’s best for our customers despite immense pressure to do what’s easy. The easy thing would have been to force our customers onto consumption pricing before they were ready and serve them worse models to protect our margins. We…
+
+🔗 [View original post](https://x.com/omarsar0/status/2102485778253086801)
+
+---
+
+### 🕐 19:50 UTC · @dair_ai
+
+> Impressive paper showing how much the harness changes a coding agent&apos;s results. Harnesses do play a huge role in what you are getting out of the models. GPT-5.5 was run inside both Claude Code and Codex on the same 1,000 tasks. With a specialized PowerPoint workflow, it improved inside one harness and got worse inside the other. The harness also changed scores when the prompt was identical. ReFigBench asks coding agents to rebuild real arXiv overview figures as editable PowerPoint slides that keep the text, layout and connections. It covers ten configurations across the GPT, Claude, MiMo and MiniMax families, scored by artifact checks, two families of LLM judges and blinded human comparisons. Perception is still the main bottleneck. The specialized workflow removed native connectors in every configuration, yet human judges still preferred its renderings in most matchups. Paper: https://arxiv.org/abs/2609.18844 Chat with Paper: https://academy.dair.ai/papers/refigbench-benchmarking-scientific-figure-reconstruction-as-editable-powerpoint-2609.18844
+
+![Impressive paper showing how much the harness changes a coding agent&apos;s results. Harnesses do play a huge role in what you are getting out of the models. GPT-5.5 was run inside both Claude Code an](../../../../assets/images/2026/09/22/2102485592420606054-1.png)
+
+🔗 [View original post](https://x.com/omarsar0/status/2102485592420606054)
 
 ---
 
