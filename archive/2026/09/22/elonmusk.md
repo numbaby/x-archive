@@ -2,7 +2,67 @@
 
 ## 📅 September 22, 2026
 
-> 10 post(s) archived.
+> 17 post(s) archived.
+
+---
+
+### 🕐 14:59 UTC · @elonmusk
+
+> Grok 4.7 with our Build harness is a strong daily workhorse I’ve been building with Grok 4.7 extra high in Grok Build today for hours. It’s fantastic and my usage percent (Cursor Ultra) is barely moving. Getting so much done. While Build works on one thing, I discuss the next feature/change with my Grok Bot team and have Engineer Bot
+
+🔗 [View original post](https://x.com/elonmusk/status/2102412363332805078)
+
+---
+
+### 🕐 14:42 UTC · @elonmusk
+
+> Interesting perspective The loudest voices stoking fears about AI dangers have made tremendous headway in the past two weeks. AI technology has not taken some unexpected, dangerous turn, but the hype around it — propelled by what appears to be a well orchestrated PR campaign — has drummed up considerabl…
+
+🔗 [View original post](https://x.com/elonmusk/status/2102408239774151050)
+
+---
+
+### 🕐 14:34 UTC · @elonmusk
+
+> Grok will be able to make photo-realistic &amp; physics-precise games Grok 4.7 just built a GTA-style open-world game from a single prompt in Grok Build You can walk around, drive cars, enter vehicles and explore an entire city It looks insane, and I had way too much fun playing it 😂
+
+🔗 [View original post](https://x.com/elonmusk/status/2102406300303049172)
+
+---
+
+### 🕐 14:00 UTC · @elonmusk
+
+> I let Grok Bot manage my YouTube channel... and it&apos;s better than I am! 0:53 Automating tagging with @Bot 1:40 How the Bot works 2:38 Figma thumbs and brand-voice descriptions 3:47 Template setup (YouTube Data API + AssemblyAI) 4:34 Install and get started Media
+
+🔗 [View original post](https://x.com/mattyp/status/2102397514792001868)
+
+---
+
+### 🕐 10:07 UTC · @elonmusk
+
+> @XFreeze Not a big fan of benchmarking. I just took it out for a real life test. Asked it to build me a bash only, self contained agenda, based on some sparse text files with tasks. Finished in 45 minutes end to end. Full video and repo link https://youtu.be/HI0ea6urJMw Solid model.
+
+![@XFreeze Not a big fan of benchmarking. I just took it out for a real life test. Asked it to build me a bash only, self contained agenda, based on some sparse text files with tasks. Finished in 45 min](../../../../assets/images/2026/09/22/2102339041341714509-1.jpg)
+
+🔗 [View original post](https://x.com/dragosroua/status/2102339041341714509)
+
+---
+
+### 🕐 06:07 UTC · @elonmusk
+
+> Grok 4.7 just outperformed GPT-6 Astra on professional work On the same Artificial Analysis run: • GDPval-AA — Grok leads by +153 Elo • AA-Briefcase — Grok leads by +88 Elo Grok 4.7 is now ahead on both professional deliverables and multi-hour office work SpaceXAI is pushing Grok hard into real-world knowledge work
+
+![Grok 4.7 just outperformed GPT-6 Astra on professional work On the same Artificial Analysis run: • GDPval-AA — Grok leads by +153 Elo • AA-Briefcase — Grok leads by +88 Elo Grok 4.7 is now ahead on bo](../../../../assets/images/2026/09/22/2102278706651861345-1.jpg)
+
+🔗 [View original post](https://x.com/XFreeze/status/2102278706651861345)
+
+---
+
+### 🕐 05:01 UTC · @elonmusk
+
+> Made a fun little game for my nephew using Grok 4.7. I gave it a simple prompt, and within minutes, he was playing the game. Seeing a random idea turn into a real game that quickly is honestly incredible. Media
+
+🔗 [View original post](https://x.com/cb_doge/status/2102262068586205512)
 
 ---
 

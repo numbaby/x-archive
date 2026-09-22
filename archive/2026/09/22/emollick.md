@@ -2,7 +2,15 @@
 
 ## 📅 September 22, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 15:05 UTC · @emollick
+
+> For all the tension between AI &amp; the arts, I have received enthusiastic receptions from the William Carlos Williams Society, the TS Eliot Society &amp; others about the AI interpretations of their work that I have posted here. It is possible to use AI as a bridge to arts appreciation
+
+🔗 [View original post](https://x.com/emollick/status/2102414040178036740)
 
 ---
 

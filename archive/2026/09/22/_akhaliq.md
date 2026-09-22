@@ -2,7 +2,15 @@
 
 ## 📅 September 22, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 14:26 UTC · @_akhaliq
+
+> Meet PixVerse R2, our new real-time world model. Explore living worlds. Control and edit them with prompts. Shape the story. Meet characters that remember and respond. Media
+
+🔗 [View original post](https://x.com/PixVerse/status/2102404266484989983)
 
 ---
 

@@ -2,7 +2,23 @@
 
 ## 📅 September 22, 2026
 
-> 7 post(s) archived.
+> 9 post(s) archived.
+
+---
+
+### 🕐 15:03 UTC · @tunguz
+
+> Not quite there yet, but almost. AI has made solving math problems trivial, but has also made learning math significantly easier
+
+🔗 [View original post](https://x.com/tunguz/status/2102413521984344550)
+
+---
+
+### 🕐 14:47 UTC · @tunguz
+
+> We are so back. everyone so busy yapping about AI no one noticed room-temperature superconductor claims are back https://arxiv.org/abs/2609.15712
+
+🔗 [View original post](https://x.com/tunguz/status/2102409577497244081)
 
 ---
 
