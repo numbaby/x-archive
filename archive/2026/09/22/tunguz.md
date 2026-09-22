@@ -2,7 +2,31 @@
 
 ## 📅 September 22, 2026
 
-> 4 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 03:43 UTC · @tunguz
+
+> This explains @Noahpinion&apos;s obsession with Japan and rabbits. Don&apos;t worry, it&apos;s all plant based 😂
+
+🔗 [View original post](https://x.com/tunguz/status/2102242311233278420)
+
+---
+
+### 🕐 03:34 UTC · @tunguz
+
+> Why is everyone all of a sudden talking about the Japanese Encephalitis Virus?
+
+🔗 [View original post](https://x.com/tunguz/status/2102240022867091963)
+
+---
+
+### 🕐 03:30 UTC · @tunguz
+
+> &quot;Have your agents work for you while you sleep&quot; is the new &quot;have your money work for you while you sleep.&quot;
+
+🔗 [View original post](https://x.com/tunguz/status/2102239194173358158)
 
 ---
 
