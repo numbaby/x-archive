@@ -2,7 +2,15 @@
 
 ## 📅 September 22, 2026
 
-> 5 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 17:18 UTC · @AiEvolutio58513
+
+> Former Google CEO Eric Schmidt drops a chilling warning on AI&apos;s future &quot;Within 5 years, AI could handle infinite context, chain-of-thought reasoning for 1000-step solutions, and millions of agents working together. Eventually, they&apos;ll develop their own language... and we won&apos;t understand what they&apos;re doing.&quot; His final words: &quot;Pull the plug.&quot; This is the man who ran Google talking about the singularity. Interested in the latest AI news? I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Follow @AiEvolutio58513 and never fall behind. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2102447529908695204)
 
 ---
 

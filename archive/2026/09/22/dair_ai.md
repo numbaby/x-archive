@@ -2,7 +2,37 @@
 
 ## 📅 September 22, 2026
 
-> 3 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 18:30 UTC · @dair_ai
+
+> Interesting work on long-horizon research agents. PrimeScientists can decide where a research agent spends its budget. Achieves 10.3% more reward with 50.6% fewer research attempts, under the same budget. That is PrimeScientist against AutoResearch on 12 AI research tasks. They treat deciding where to spend a research agent&apos;s budget as part of the agent&apos;s job. PrimeScientist keeps an executable plan tree of competing research directions and their outcomes. An adaptive MCTS policy reads the experimental feedback and the remaining budget and chooses whether to explore a new direction or continue a promising one. The gains also hold on systems, code optimization and ML engineering tasks. If your research agent can propose more experiments than you can afford to run, this is a concrete method for choosing among them. Paper: https://academy.dair.ai/papers/primescientist-strategic-allocation-of-research-effort-in-autonomous-research-2609.17846
+
+![Interesting work on long-horizon research agents. PrimeScientists can decide where a research agent spends its budget. Achieves 10.3% more reward with 50.6% fewer research attempts, under the same bud](../../../../assets/images/2026/09/22/2102465468556820660-1.jpg)
+
+🔗 [View original post](https://x.com/dair_ai/status/2102465468556820660)
+
+---
+
+### 🕐 16:27 UTC · @dair_ai
+
+> Cool paper showing how effective tuning a system prompt for an agent can be. Recommended paper if you tune agent harnesses. This paper presents EvolveTrade, which treats a trading agent&apos;s system prompt as its policy. After each trading interval, a separate Policy Agent reads the decision traces and the realized returns and rewrites the prompt. The backbone model stays frozen. Across several market regimes and two backbone models, the evolved agent beats fixed-prompt baselines on Sharpe ratio and cumulative return in most settings. The rewritten prompts also led the agent to run more code-based analysis and to compute signals that fit the current market regime. Paper: https://academy.dair.ai/papers/evolvetrade-experience-driven-policy-refinement-for-self-evolving-llm-trading-ag-2609.17632
+
+![Cool paper showing how effective tuning a system prompt for an agent can be. Recommended paper if you tune agent harnesses. This paper presents EvolveTrade, which treats a trading agent&apos;s system ](../../../../assets/images/2026/09/22/2102434507043598432-1.jpg)
+
+🔗 [View original post](https://x.com/dair_ai/status/2102434507043598432)
+
+---
+
+### 🕐 16:10 UTC · @dair_ai
+
+> DigitalOcean Managed Agents are here! They work with major harnesses like Claude Code and Codex. 16,000+ tools. Idle agents stop using CPU. Optimized to help builders scale agents in production. Worth checking out. DigitalOcean Managed Agents is now in public preview. Run Claude Code, Codex, or your own LangGraph agent in a runtime environment that pauses when idle. Put its tools behind one governed endpoint, and pick from 75+ open and proprietary models. One cloud, one bill. Prompts to get…
+
+![DigitalOcean Managed Agents are here! They work with major harnesses like Claude Code and Codex. 16,000+ tools. Idle agents stop using CPU. Optimized to help builders scale agents in production. Worth](../../../../assets/images/2026/09/22/2102430254535233981-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2102430254535233981)
 
 ---
 

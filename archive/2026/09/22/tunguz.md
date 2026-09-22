@@ -2,7 +2,43 @@
 
 ## 📅 September 22, 2026
 
-> 9 post(s) archived.
+> 13 post(s) archived.
+
+---
+
+### 🕐 18:11 UTC · @tunguz
+
+> Link to the article: https://nypost.com/2026/09/21/tech/silicon-valleys-ai-accelerationists-fighting-back-against-mind-virus-taking-over-big-labs/
+
+![Link to the article: https://nypost.com/2026/09/21/tech/silicon-valleys-ai-accelerationists-fighting-back-against-mind-virus-taking-over-big-labs/](../../../../assets/images/2026/09/22/2102460760899338420-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2102460760899338420)
+
+---
+
+### 🕐 18:09 UTC · @tunguz
+
+> I got interviewed recently for a @nypost article about the latest &quot;accelerationist vs. doomer&quot; controversy. My take is that such a Manichean framing doesn&apos;t quite do justice to the range of views on the topic of AI safety. AI is evolving fast, there is a tremendous amount of good that it brings to the table, and I myself am greatly benefiting from all the development, both personally and professionally. However, frontier systems&apos; capabilities could lead to serious deleterious consequences that we are only starting to fully comprehend. Lots of caution and consideration are warranted. Many thanks to @vivilinsv for giving me the opportunity to voice my views in such a public way.
+
+![I got interviewed recently for a @nypost article about the latest &quot;accelerationist vs. doomer&quot; controversy. My take is that such a Manichean framing doesn&apos;t quite do justice to the rang](../../../../assets/images/2026/09/22/2102460330458943896-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2102460330458943896)
+
+---
+
+### 🕐 17:54 UTC · @tunguz
+
+> Today is the beginning of the Fall of AI. Tomorrow is the beginning of the Fall of AI.
+
+🔗 [View original post](https://x.com/tunguz/status/2102456431228444910)
+
+---
+
+### 🕐 17:24 UTC · @tunguz
+
+> very very interesting We published a paper reconceptualizing ADHD as a circadian rhythm disorder.
+
+🔗 [View original post](https://x.com/tunguz/status/2102448989488677074)
 
 ---
 

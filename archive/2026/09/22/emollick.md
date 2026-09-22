@@ -2,7 +2,15 @@
 
 ## 📅 September 22, 2026
 
-> 3 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 16:55 UTC · @emollick
+
+> Opus 5.5 was a good model in my early tests, first non-Fable/Astra model to feel like a Fable-class model, but still hasn&apos;t fully solved the dense language issue of the recent Claudes. Its version of the same shader (broken towers are a nice touch): https://twigl.app?ol=true&amp;ss=-P291BpUn5JvZhohk-c0 Media The drowned neo-gothic tower twigl shader created by Fable 5.1 with the same prompt. (compare to Fable 5 in the quoted tweet, and other models before that)
+
+🔗 [View original post](https://x.com/emollick/status/2102441628661080384)
 
 ---
 
@@ -11,6 +19,14 @@
 > For all the tension between AI &amp; the arts, I have received enthusiastic receptions from the William Carlos Williams Society, the TS Eliot Society &amp; others about the AI interpretations of their work that I have posted here. It is possible to use AI as a bridge to arts appreciation
 
 🔗 [View original post](https://x.com/emollick/status/2102414040178036740)
+
+---
+
+### 🕐 11:54 UTC · @emollick
+
+> People got upset at me for saying this, but there are no companies outside the US and China even *trying* to build frontier AI (perhaps Korea and UK are close), despite marketing claims. Governments saying &quot;sovereign AI&quot; need to understand this. GREAT piece of journalism. I sum up: - @MistralAI is moving away from the desire to be a frontier lab - The company is now focusing on deployment within big companies (including the deployment of Chinese models). - These companies CEOs find Mistral strategy hard to follow… which …
+
+🔗 [View original post](https://x.com/Afinetheorem/status/2102365928176415013)
 
 ---
 
