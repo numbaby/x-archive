@@ -2,7 +2,7 @@
 
 ## 📅 September 22, 2026
 
-> 8 post(s) archived.
+> 10 post(s) archived.
 
 ---
 
@@ -24,6 +24,16 @@
 
 ---
 
+### 🕐 02:30 UTC · @elonmusk
+
+> Remembering Roger Boisjoly, the engineer who correctly identified a fatal flaw in the Challenger shuttle design months before the disaster, but nobody gave a damn. His exact words to his wife, Darlene: &quot;It&apos;s going to blow up&quot; 73 seconds before it did. More rare historical photos: https://bit.ly/44OpIzi
+
+![Remembering Roger Boisjoly, the engineer who correctly identified a fatal flaw in the Challenger shuttle design months before the disaster, but nobody gave a damn. His exact words to his wife, Darlene](../../../../assets/images/2026/09/22/2102223883227091134-1.jpg)
+
+🔗 [View original post](https://x.com/fasc1nate/status/2102223883227091134)
+
+---
+
 ### 🕐 01:23 UTC · @elonmusk
 
 > Grok 4.7
@@ -39,6 +49,16 @@
 > True In just the last 90 days: 1. Grok 4.3 — barely top 10. “xAI is dead beyond compute leases.” 2. Grok 4.5 — massive comeback. “Maybe a chance. But Grok will never catch up to the frontier.” 3. Grok 4.6 — they’re frontier. “Still not top 3.” 4. Grok 4.7 — now top 3 in frontier codin…
 
 🔗 [View original post](https://x.com/elonmusk/status/2102201534776025356)
+
+---
+
+### 🕐 00:30 UTC · @elonmusk
+
+> Love Trump or hate him, it’s genuinely embarrassing the White House didn’t have this before now. Decline is a choice.
+
+![Love Trump or hate him, it’s genuinely embarrassing the White House didn’t have this before now. Decline is a choice.](../../../../assets/images/2026/09/22/2102193661371179179-1.jpg)
+
+🔗 [View original post](https://x.com/A_d_n_R_d_i_g/status/2102193661371179179)
 
 ---
 

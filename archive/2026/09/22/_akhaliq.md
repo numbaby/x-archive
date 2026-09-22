@@ -2,7 +2,15 @@
 
 ## 📅 September 22, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 05:19 UTC · @_akhaliq
+
+> WorldCrafter Consistent Video World Model with Implicit 3D-aware Memory paper: https://huggingface.co/papers/2609.24984 Media
+
+🔗 [View original post](https://x.com/_akhaliq/status/2102266547108819254)
 
 ---
 
