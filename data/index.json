@@ -114983,6 +114983,13 @@
     "fingerprint": "5d6b53a6b544a728467972fceada9d9eea0ea38e229b7b0db172e1b739e24ed2",
     "media": []
   },
+  "2102590667914686576": {
+    "account": "elonmusk",
+    "date": "2026-09-23",
+    "file": "data/posts/2026/09/2026-09-23.jsonl",
+    "fingerprint": "b7ef29cfc912d473ab687ae84bbb2c534bb13287805c8b04a2a4e22b2a6bd6cc",
+    "media": []
+  },
   "2102591025068052721": {
     "account": "elonmusk",
     "date": "2026-09-23",
@@ -115081,6 +115088,47 @@
     "date": "2026-09-23",
     "file": "data/posts/2026/09/2026-09-23.jsonl",
     "fingerprint": "f5231a3999dc0496d937fa452f641efad2bcd76f41a5226d18d953f187028aa2",
+    "media": []
+  },
+  "2102743797738385897": {
+    "account": "AiEvolutio58513",
+    "date": "2026-09-23",
+    "file": "data/posts/2026/09/2026-09-23.jsonl",
+    "fingerprint": "c8369da08ed2d3ff3312685451e863ceb51a7ab99c26fca7014b5fbb281b41e5",
+    "media": [
+      {
+        "local_path": "assets/images/2026/09/23/2102743797738385897-1.jpg",
+        "sha256": "47f506a3b95e7bb0d20f09d1fd14ef3bc7b14786a1902c13acc45aa4687db93b",
+        "source_url": "https://pbs.twimg.com/media/HS5yVhgaUAAB4Cc.jpg?name=orig"
+      }
+    ]
+  },
+  "2102744024755143000": {
+    "account": "tunguz",
+    "date": "2026-09-23",
+    "file": "data/posts/2026/09/2026-09-23.jsonl",
+    "fingerprint": "30e828e4ab409348673c07d1976f014d901369aaf4d362f1478dcf6cd2da929e",
+    "media": []
+  },
+  "2102754945078620403": {
+    "account": "tunguz",
+    "date": "2026-09-23",
+    "file": "data/posts/2026/09/2026-09-23.jsonl",
+    "fingerprint": "4c2554bfe35e19d27c9924464ca3e4ec35f1da5dde66123be77e112122bc2d4e",
+    "media": []
+  },
+  "2102755523997364649": {
+    "account": "tunguz",
+    "date": "2026-09-23",
+    "file": "data/posts/2026/09/2026-09-23.jsonl",
+    "fingerprint": "60d4be8165dcf9dd2b09f41a4b3cc3f105461bdd9e8bc8c1c8c703a621a32c85",
+    "media": []
+  },
+  "2102756771500818909": {
+    "account": "tunguz",
+    "date": "2026-09-23",
+    "file": "data/posts/2026/09/2026-09-23.jsonl",
+    "fingerprint": "995f8e8e29d8671686a37d434fd189a78d8ccf8d1cbce739f96af42c7538192a",
     "media": []
   }
 }

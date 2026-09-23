@@ -2,7 +2,7 @@
 
 ## 📅 September 23, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
 
 ---
 
@@ -21,5 +21,13 @@
 ![日本でのStarlinkの導入が、かつてないほど簡単になりました。 一部の地域では、ホーム向けの「レンタルMiniキット」の初期費用が0円になります。日本全国の大半の地域でスピーディに設置でき、いつでも最適なパフォーマンスを発揮します。 また、お申し込みの前後はもちろん、ご利用開始後も日本語のカスタマーサポートがしっかりと対応いたしますので安心です。 詳しくはこちら：http://starlink](../../../../assets/images/2026/09/23/2102591025068052721-1.jpg)
 
 🔗 [View original post](https://x.com/Starlink/status/2102591025068052721)
+
+---
+
+### 🕐 02:47 UTC · @elonmusk
+
+> The Tesla sound system is so incredible that I waited all day to listen to the new album of one of my favorite artists, just to experience it for the first time in the car while FSD drives me through the woods Plagued by Visions by Kiki Rockwell - give it a listen Media
+
+🔗 [View original post](https://x.com/battleangelviv/status/2102590667914686576)
 
 ---
