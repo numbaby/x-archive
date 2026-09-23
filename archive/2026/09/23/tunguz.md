@@ -2,7 +2,17 @@
 
 ## 📅 September 23, 2026
 
-> 15 post(s) archived.
+> 16 post(s) archived.
+
+---
+
+### 🕐 22:24 UTC · @tunguz
+
+> Men, what’s stopping you from wearing this?
+
+![Men, what’s stopping you from wearing this?](../../../../assets/images/2026/09/23/2102886891213525440-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2102886891213525440)
 
 ---
 

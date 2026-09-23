@@ -2,7 +2,15 @@
 
 ## 📅 September 23, 2026
 
-> 7 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 21:57 UTC · @omarsar0
+
+> Agents are coming to healthcare. Doctors spend much of their day on admin and research. @almanac_health lets them delegate it to an agent and get that time back. Almanac runs each task in its own sandbox, pulls from specialist medical knowledge, and asks permission before it acts. One of the scarcest resources in healthcare is time. We’re building @almanac_health so physicians have more time to care for patients. After spending the last few months building, we’re thrilled to be launching Almanac, the first milestone in our mission to improve healthcare del…
+
+🔗 [View original post](https://x.com/omarsar0/status/2102880008947552572)
 
 ---
 

@@ -2,7 +2,15 @@
 
 ## 📅 September 23, 2026
 
-> 12 post(s) archived.
+> 13 post(s) archived.
+
+---
+
+### 🕐 21:29 UTC · @elonmusk
+
+> Grok 4.7 moves up in ranking After we fixed the weak spots exposed by Grok 4.7 (thank you, Grok), we audited every model we have run on the SWE-Together leaderboard for the same behavior, re-ran every trial that got through, and updated the rows. Here is what changed. We scanned the tool calls of all 2,616 t…
+
+🔗 [View original post](https://x.com/elonmusk/status/2102873022789283985)
 
 ---
 

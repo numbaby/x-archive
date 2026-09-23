@@ -2,7 +2,15 @@
 
 ## 📅 September 23, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 23:09 UTC · @bcherny
+
+> More details for the formal methods people -- what&apos;s happening is Claude is doing something like: 1. Building a model of the program, targeting a tricky state machine or race-prone part of the code 2. Finding counter-examples in the model. These are suspected bugs 3. Reproducing the bugs 4. Fixing the bugs in the code It&apos;s not that the whole codebase is formally verified (yet!..), more that the hairiest parts of the code are modeled, checked for counter-examples, and fixed.
+
+🔗 [View original post](https://x.com/bcherny/status/2102898067133595992)
 
 ---
 

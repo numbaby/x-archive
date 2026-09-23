@@ -2,7 +2,15 @@
 
 ## 📅 September 23, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 15:41 UTC · @demishassabis
+
+> Introducing Gemini 3.8 Flash and Flash-Lite TTS, our new SOTA text to speech model with: - a new voice design experience - 2,000+ production ready voices - voice replication - support for 100 languages - voice remixing (soon) - #1 spot on Hume AI&apos;s voice benchmarks and more!!
+
+🔗 [View original post](https://x.com/OfficialLoganK/status/2102785495726219305)
 
 ---
 
