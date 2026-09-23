@@ -2,7 +2,17 @@
 
 ## 📅 September 23, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 05:11 UTC · @emollick
+
+> Open source here: https://github.com/emollick/wasteland-annotated
+
+![Open source here: https://github.com/emollick/wasteland-annotated](../../../../assets/images/2026/09/23/2102626794104934520-1.jpg)
+
+🔗 [View original post](https://x.com/emollick/status/2102626794104934520)
 
 ---
 

@@ -115002,5 +115002,18 @@
         "source_url": "https://pbs.twimg.com/card_img/2102594492721238016/qcf3U-YI?format=jpg&name=800x419"
       }
     ]
+  },
+  "2102626794104934520": {
+    "account": "emollick",
+    "date": "2026-09-23",
+    "file": "data/posts/2026/09/2026-09-23.jsonl",
+    "fingerprint": "086b114b42b6941149adaa9b780326d6e1213c05639c69e6198c9d31e15d8f98",
+    "media": [
+      {
+        "local_path": "assets/images/2026/09/23/2102626794104934520-1.jpg",
+        "sha256": "94999cdb23994bb4425f6f45d75bdc92d62c74d1915a8bc152dd2276fc446d50",
+        "source_url": "https://pbs.twimg.com/card_img/2102626794473951232/ZzwTAN6t?format=jpg&name=800x419"
+      }
+    ]
   }
 }
