@@ -2,7 +2,15 @@
 
 ## 📅 September 23, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 08:31 UTC · @swyx
+
+> Give TypeSafe’s Diogo Almeida a billion dollars and he still wouldn’t pre-train. His bet: slice, dice, and Frankenstein existing stacks — anything except burning the check on a scratch foundation model. @swyx @labenz Latent Space — Why We Made Jev — Diogo Almeida, TypeSafe Co-founder &amp; CEO https://www.youtube.com/watch?v=cFx9Z3ZXca0 Media
+
+🔗 [View original post](https://x.com/fourweekmba/status/2102677181025427675)
 
 ---
 

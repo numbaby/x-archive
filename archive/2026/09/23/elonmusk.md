@@ -2,7 +2,31 @@
 
 ## 📅 September 23, 2026
 
-> 7 post(s) archived.
+> 12 post(s) archived.
+
+---
+
+### 🕐 19:15 UTC · @elonmusk
+
+> SpaceXAI wow big move. troy and eric are truly world-class
+
+🔗 [View original post](https://x.com/elonmusk/status/2102839221593710678)
+
+---
+
+### 🕐 18:02 UTC · @elonmusk
+
+> Have been using Grok Imagine to generate beautiful covers for the new Grokipedia. Amazing how consistent it is. Media
+
+🔗 [View original post](https://x.com/benjitaylor/status/2102820884931354776)
+
+---
+
+### 🕐 16:49 UTC · @elonmusk
+
+> excited to join the amazing team at @SpaceXAI it is our destiny to reach across the stars, and develop a multiplanetary human civilization I am excited to be starting a new role at Cursor/SpaceXAI! I will be working on long term research with @ellev3n11 and the amazing team here. Can&apos;t wait for what comes next!
+
+🔗 [View original post](https://x.com/eric_luhman1/status/2102802589305946282)
 
 ---
 
@@ -19,6 +43,22 @@
 > Grok @Bot usage is growing faster than anything we’ve ever seen News: SpaceXAI&apos;s Grok Bot hits 418,000 weekly users ending Sept. 14, WoW growth of 24% through that date. It was outlined in a presentation by SpaceXAI staff last week in London. A sign of modest but early demand for a key product https://www.bloomberg.com/news/articles/2026-09-2…
 
 🔗 [View original post](https://x.com/elonmusk/status/2102798608227795393)
+
+---
+
+### 🕐 15:59 UTC · @elonmusk
+
+> I am excited to be starting a new role at Cursor/SpaceXAI! I will be working on long term research with @ellev3n11 and the amazing team here. Can&apos;t wait for what comes next!
+
+🔗 [View original post](https://x.com/troyluhman/status/2102789984860393898)
+
+---
+
+### 🕐 15:56 UTC · @elonmusk
+
+> i was having dinner with someone recently who asked why i spend so much time reading &amp; posting on x. she had a pretty negative perception of the platform mostly shaped by the mainstream narrative around it. my answer was simple. x is where the future gets beta tested. you basically get to watch ppl build things, talk through ideas, show off stuff, &amp; argue about where everything is going, way way before it reaches anyone else. there really isn’t another surface on the internet quite like it.
+
+🔗 [View original post](https://x.com/signulll/status/2102789183370613106)
 
 ---
 

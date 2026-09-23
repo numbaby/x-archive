@@ -2,7 +2,59 @@
 
 ## 📅 September 23, 2026
 
-> 9 post(s) archived.
+> 15 post(s) archived.
+
+---
+
+### 🕐 20:04 UTC · @tunguz
+
+> Reminds me of this: Sir what is going on here
+
+![Reminds me of this: Sir what is going on here](../../../../assets/images/2026/09/23/2102851506877894881-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2102851506877894881)
+
+---
+
+### 🕐 20:02 UTC · @tunguz
+
+> Quite right. This is a very common knee jerk reaction. Evidence shows that high quality sleep makes you hard. Lack of sleep leaves you flaccid. They have it all backwards.
+
+🔗 [View original post](https://x.com/tunguz/status/2102851163620286905)
+
+---
+
+### 🕐 19:02 UTC · @tunguz
+
+> Enzymes too cheap to matter. BREAKING: Anthropic’s new wet lab produces its first discovery, with nearly 1,000 Claude agents autonomously uncovering a novel enzyme system after 21 hours of work.
+
+🔗 [View original post](https://x.com/tunguz/status/2102835943803912305)
+
+---
+
+### 🕐 18:05 UTC · @tunguz
+
+> how do tou like them apples The best snack for fat loss is apples. They rank near the top of the satiety index meaning. They&apos;re 86% water &amp; under 100 calories. The fiber in apples slows digestion, feeds good gut bacteria, and keeps hunger hormones in check. Apples are the best snack when cutting. Eat them.
+
+🔗 [View original post](https://x.com/tunguz/status/2102821712018755912)
+
+---
+
+### 🕐 17:51 UTC · @tunguz
+
+> 32k … 31k …
+
+![32k … 31k …](../../../../assets/images/2026/09/23/2102818225927110790-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2102818225927110790)
+
+---
+
+### 🕐 17:09 UTC · @tunguz
+
+> Compute is King
+
+🔗 [View original post](https://x.com/tunguz/status/2102807524689002603)
 
 ---
 

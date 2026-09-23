@@ -2,7 +2,61 @@
 
 ## 📅 September 23, 2026
 
-> 5 post(s) archived.
+> 11 post(s) archived.
+
+---
+
+### 🕐 21:04 UTC · @emollick
+
+> Also this terrific chart. All from: https://epoch.ai/publications/the-plunging-price-of-thought
+
+![Also this terrific chart. All from: https://epoch.ai/publications/the-plunging-price-of-thought](../../../../assets/images/2026/09/23/2102866687016206734-1.jpg)
+
+🔗 [View original post](https://x.com/emollick/status/2102866687016206734)
+
+---
+
+### 🕐 20:59 UTC · @emollick
+
+> This is a really important graph showing the cost of achieving 25% or 75% scores in various hard math and science benchmarks. Costs are collapsing even as ability is increasing It is also why optimizing for cost for a particular solution right now may end up being short sighted
+
+![This is a really important graph showing the cost of achieving 25% or 75% scores in various hard math and science benchmarks. Costs are collapsing even as ability is increasing It is also why optimizi](../../../../assets/images/2026/09/23/2102865436459069474-1.jpg)
+
+🔗 [View original post](https://x.com/emollick/status/2102865436459069474)
+
+---
+
+### 🕐 19:50 UTC · @emollick
+
+> So far, the answer appears to be &quot;no&quot;
+
+🔗 [View original post](https://x.com/emollick/status/2102848092500373602)
+
+---
+
+### 🕐 18:58 UTC · @emollick
+
+> The original is playable here: https://classicreload.com/apple2-rescue-raiders.html
+
+![The original is playable here: https://classicreload.com/apple2-rescue-raiders.html](../../../../assets/images/2026/09/23/2102835034147127599-1.png)
+
+🔗 [View original post](https://x.com/emollick/status/2102835034147127599)
+
+---
+
+### 🕐 18:56 UTC · @emollick
+
+> There is an abandonware game I loved as a kid called Rescue Raiders. I asked Claude to create a modern &amp; updated version of the game with new graphics, goals, tech trees, etc. It iterated back-and-forth with critic &amp; art agents until I got this. Its fun! https://rescue-raiders.netlify.app/ Media
+
+🔗 [View original post](https://x.com/emollick/status/2102834402908582112)
+
+---
+
+### 🕐 17:38 UTC · @emollick
+
+> This is both fun and a useful measure of how much better multimodal AI has gotten In a short time. Can AI tell if you&apos;ve built your IKEA furniture wrong? Our new benchmark, the Furniture Assembly Benchmark (FAB), gives models the manual and a photo of a half-completed piece of furniture and asks them to spot the mistake. The top score has gone from 28% to 80% in just 10 months…
+
+🔗 [View original post](https://x.com/emollick/status/2102814884111249872)
 
 ---
 
