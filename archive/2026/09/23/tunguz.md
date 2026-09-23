@@ -2,7 +2,51 @@
 
 ## 📅 September 23, 2026
 
-> 4 post(s) archived.
+> 9 post(s) archived.
+
+---
+
+### 🕐 15:24 UTC · @tunguz
+
+> Fascinating and totally unsurprising. I’ve been saying for years that unsupervised FSD will be downstream from AGI. We gave ChatGPT, Claude, and Grok control of a real Toyota Corolla 🚗, steering/gas/brakes, no human driving (just a foot over the brake). Only one model was able to complete our entire driving course. Introducing DrivingBench. 🔥⌛️🏁
+
+🔗 [View original post](https://x.com/tunguz/status/2102781103954346126)
+
+---
+
+### 🕐 15:03 UTC · @tunguz
+
+> Looks artistically well executed, but Theranos story is ancient history in the world of tech. What I’d love to see him would be Nathan embedded in one of the top AI labs and follow them as they realize that we have passed the point of no return. Would love to be the fly on that wall. Here is official trailer, You Can See Everything
+
+🔗 [View original post](https://x.com/tunguz/status/2102775911586410892)
+
+---
+
+### 🕐 14:27 UTC · @tunguz
+
+> He’s a ten, but he is a top ranked tech influencer on some obscure European podcast list.
+
+🔗 [View original post](https://x.com/tunguz/status/2102766896127078721)
+
+---
+
+### 🕐 14:21 UTC · @tunguz
+
+> LOL they are still writing reports.
+
+![LOL they are still writing reports.](../../../../assets/images/2026/09/23/2102765376312689052-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2102765376312689052)
+
+---
+
+### 🕐 14:13 UTC · @tunguz
+
+> (Illustration by Maria Jesus Contreras for The Washington Post)
+
+![(Illustration by Maria Jesus Contreras for The Washington Post)](../../../../assets/images/2026/09/23/2102763377038872921-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2102763377038872921)
 
 ---
 

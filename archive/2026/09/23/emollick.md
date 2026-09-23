@@ -2,7 +2,23 @@
 
 ## 📅 September 23, 2026
 
-> 3 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 15:58 UTC · @emollick
+
+> I appreciate the references to hidden incidents, and I am sure there are some, but it would be really useful to know if there are any public ones around internal use of AI? There are hundreds of millions of people with AI access at work right now...
+
+🔗 [View original post](https://x.com/emollick/status/2102789826856841326)
+
+---
+
+### 🕐 14:35 UTC · @emollick
+
+> Has there actually been a major security AI incident around internal use of a commercially released frontier model, operating in ordinary deployment with normal safeguards? Everybody in organizations was deeply worried about this in 2023, but I am not aware of real incidents?
+
+🔗 [View original post](https://x.com/emollick/status/2102768800399548792)
 
 ---
 

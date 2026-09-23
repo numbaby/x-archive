@@ -2,7 +2,15 @@
 
 ## 📅 September 23, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 14:03 UTC · @AiEvolutio58513
+
+> Greg Brockman says OpenAI deployed 10,000 AI agents to solve the Navier-Stokes problem. He sees it as evidence that AI can create knowledge humans did not already possess. The problem has major implications for fluid dynamics, ocean currents and other scientific fields. OpenAI also formalized the work in Lean, allowing the mathematical result to be checked. This represents a new kind of intelligence. One AI can reason through a difficult problem. Thousands of agents can work together and explore possibilities at a scale no human research team could match. For Brockman, AGI is not only about replacing tasks people already perform. It could unlock discoveries that humanity was previously unable to reach. — Greg Brockman (@gdb) on the A16Z podcast Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media Greg Brockman says OpenAI pointed Astra at its own systems until it ran out of vulnerabilities to find: &quot;We took 25% of our production engineers and said, &apos;Sorry, all your projects are on hold. You are now defending. You are now up-leveling our security architecture. You&apos;re going…
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2102760688494272616)
 
 ---
 

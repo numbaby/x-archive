@@ -2,7 +2,39 @@
 
 ## 📅 September 23, 2026
 
-> 3 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 16:35 UTC · @elonmusk
+
+> New Grok @Bot features! Here&apos;s what&apos;s new in Grok @Bot this week 0:08 Voice calls and voice memos 0:35 1Password vault for Grok Bot 0:53 Inline forms 1:07 Inline drafts for email and Slack 1:31 Account switching 1:40 Route traffic through your desktop
+
+🔗 [View original post](https://x.com/elonmusk/status/2102798963837665464)
+
+---
+
+### 🕐 16:33 UTC · @elonmusk
+
+> Grok @Bot usage is growing faster than anything we’ve ever seen News: SpaceXAI&apos;s Grok Bot hits 418,000 weekly users ending Sept. 14, WoW growth of 24% through that date. It was outlined in a presentation by SpaceXAI staff last week in London. A sign of modest but early demand for a key product https://www.bloomberg.com/news/articles/2026-09-2…
+
+🔗 [View original post](https://x.com/elonmusk/status/2102798608227795393)
+
+---
+
+### 🕐 15:36 UTC · @elonmusk
+
+> Thoughtful piece by Jeffrey Katzenberg The World is Changing: AI For Creativity By Jeffrey Katzenberg A few months ago, I sat in my office in Silicon Valley and watched as a tech founder showed me something extraordinary. On the screen was a fully realized, beautifully lit, well-composed animated scene. It was stunnin…
+
+🔗 [View original post](https://x.com/elonmusk/status/2102784148977201241)
+
+---
+
+### 🕐 09:15 UTC · @elonmusk
+
+> A CS undergrad asked me where he could have most effect in the AI age. I said probably at either extreme: either close to the technology, actually making LLMs, or close to the customer, using AI to give them exactly what they want. Or maybe both if you can stretch that far.
+
+🔗 [View original post](https://x.com/paulg/status/2102688252473782422)
 
 ---
 
