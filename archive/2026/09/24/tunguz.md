@@ -2,7 +2,31 @@
 
 ## 📅 September 24, 2026
 
-> 2 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 18:01 UTC · @tunguz
+
+> Wow, numbers for Seattle are crazy! Apparently everyone is fleeing Seattle now. Welcome to Miami!
+
+🔗 [View original post](https://x.com/tunguz/status/2103183039354540341)
+
+---
+
+### 🕐 14:34 UTC · @tunguz
+
+> Nothing turns my magnanimity to hostility like being purposefully deceived.
+
+🔗 [View original post](https://x.com/tunguz/status/2103130923411923270)
+
+---
+
+### 🕐 14:30 UTC · @tunguz
+
+> A very useful context. As someone who did this kind of genome mining work during my PhD, some thoughts on this Anthropic announcement: First, the very simplified version of what they did is that they noticed two genes (one known, one new) sitting next to a weird repeating piece of DNA. More specificall…
+
+🔗 [View original post](https://x.com/tunguz/status/2103129846901825771)
 
 ---
 

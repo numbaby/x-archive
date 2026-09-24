@@ -2,7 +2,17 @@
 
 ## 📅 September 24, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 20:42 UTC · @swyx
+
+> more conferences could implement this. so much high value time wasted without thought
+
+![more conferences could implement this. so much high value time wasted without thought](../../../../assets/images/2026/09/24/2103223477130129726-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2103223477130129726)
 
 ---
 

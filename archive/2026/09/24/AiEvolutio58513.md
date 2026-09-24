@@ -2,7 +2,17 @@
 
 ## 📅 September 24, 2026
 
-> 5 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 16:01 UTC · @AiEvolutio58513
+
+> A retention lead told me last month that her team&apos;s ceiling was 8 campaigns a month. Mainly because, with everything on their plate, that was the most their 2 person team could realistically get out. So I asked what she&apos;d send if she didn’t have limits. She answered that she would create emails for: → Lapsed 60-day buyers → Highly engaged people who&apos;ve never once checked out. → Everyone who bought in May and hasn&apos;t been seen since. → A cross-sell aimed at second-order customers, which she&apos;d already mapped out in a doc nobody had opened since spring. And that conversation is why I keep pointing brands at @getallanai. It sits on top of Omnisend &amp; Klaviyo rather than replacing it. Your designer stops producing finished emails and starts producing blocks: heroes, body copy, CTAs, product modules. Allan assembles a different email per subscriber at send time and learns which combinations land with which people. The unit of work stops being the campaign and becomes the library. Her strategy was already written down. It had just never had anywhere to go. Try Allan free and see the impact it can make on your BFCM this year→ https://getallan.com/?utm_source=chase&amp;utm_medium=social
+
+![A retention lead told me last month that her team&apos;s ceiling was 8 campaigns a month. Mainly because, with everything on their plate, that was the most their 2 person team could realistically get ](../../../../assets/images/2026/09/24/2103152767338787019-1.jpg)
+
+🔗 [View original post](https://x.com/ecomchasedimond/status/2103152767338787019)
 
 ---
 

@@ -2,7 +2,41 @@
 
 ## 📅 September 24, 2026
 
-> 6 post(s) archived.
+> 10 post(s) archived.
+
+---
+
+### 🕐 20:07 UTC · @emollick
+
+> This is not a joke. A lot of security specialists are making the wrong assumptions about the ways in which the cybersecurity environment is about to change. All of the swarm attacks from OpenAI seem to be about finding information, usually trivial or mostly irrelevant information
+
+🔗 [View original post](https://x.com/emollick/status/2103214772510413154)
+
+---
+
+### 🕐 20:02 UTC · @emollick
+
+> The cybersecurity threat from agents may be more likely to come from a massed swarm of AIs whose only goal is to penetrate your IT to figure out how much you paid for your company t-shirts as part of a research effort to &quot;find good shirt prices&quot; as it is from bad actor attacks.
+
+🔗 [View original post](https://x.com/emollick/status/2103213473887101062)
+
+---
+
+### 🕐 19:19 UTC · @emollick
+
+> Please enjoy the vaguely unnerving sales pitch for the book that Astra made in Blender, from its perspective Media
+
+🔗 [View original post](https://x.com/emollick/status/2103202596919898184)
+
+---
+
+### 🕐 17:49 UTC · @emollick
+
+> I propose this as the official replacement for the famous (and now saturated) METR Long Task Horizon chart that used to be in every AI presentation.
+
+![I propose this as the official replacement for the famous (and now saturated) METR Long Task Horizon chart that used to be in every AI presentation.](../../../../assets/images/2026/09/24/2103180095930196037-1.jpg)
+
+🔗 [View original post](https://x.com/emollick/status/2103180095930196037)
 
 ---
 
