@@ -2,7 +2,15 @@
 
 ## 📅 September 24, 2026
 
-> 5 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 21:38 UTC · @omarsar0
+
+> Build your next business with GPT-6 Astra + Higgsfield API. We’re backing builders with a $20M API cashback. @gregisenberg filmed a step-by-step guide on YouTube 24 hours ago you can copy and implement. Get 100% of your API spend back instantly in API credits, on every model. Up to $100,000 per business. Spend $100,000 → get $100,000 back in API credits, for a total of $200,000 worth of API usage. Unused cashback expires on September 30. Can’t wait to see what you’ll build. Media We&apos;re announcing 100% cashback on every model on the Higgsfield API platform. Seedance 2.5, Kling 3.0, MiniMax H3, Wan 3.0, and more. Spend on the API and get your cashback instantly, up to $100,000 per business. $20,000,000 cashback pool. First come, first served. You helped us …
+
+🔗 [View original post](https://x.com/higgsfield_ai/status/2103237751584010496)
 
 ---
 

@@ -2,7 +2,15 @@
 
 ## 📅 September 24, 2026
 
-> 14 post(s) archived.
+> 17 post(s) archived.
+
+---
+
+### 🕐 21:43 UTC · @elonmusk
+
+> Easy way to see how the 𝕏 algorithm works By popular request, a new, easier way to see Under The Hood. (You can still download a JSON file, too.) See your report at https://x.com/i/jf/under_the_hood
+
+🔗 [View original post](https://x.com/elonmusk/status/2103238840072937532)
 
 ---
 
@@ -21,6 +29,14 @@
 > The amount of compute in space will obviously round up to 100% of all compute BREAKING: Google launching TPUs in space NEXT WEEK on SpaceX falcon 9 to test AI data centers orbit ITS HAPPENING
 
 🔗 [View original post](https://x.com/elonmusk/status/2103188449960313173)
+
+---
+
+### 🕐 18:03 UTC · @elonmusk
+
+> Gavin Baker owned 15% of Nvidia and 10% of Tesla sub-$2 billion. His biggest regret won&apos;t be either. It&apos;ll be the price you&apos;ll pay for SpaceX after the IPO. &quot;A company like this comes once in your career. Thank God I took it. Plenty of people didn&apos;t.&quot; His analog: British East India Company. Empire scale, not tech scale. The setup: - 10,000 SpaceX employees could have sold every 6 months for a decade - Almost nobody did - Secondary pricing is a decade underpriced Baker on the Elon-Anthropic partnership: &quot;Four months ago it didn&apos;t exist. Then it made sense. Everyone has a price.&quot; Incumbents realign around SpaceX gravity when it moves. The IPO doesn&apos;t price the company. It prices the last window. Media Gavin Baker: &quot;The Magnificent 7 will go from $10-12 trillion to $50-100 trillion. But one or two of them will go extinct.&quot; His foundation-model survival list is short: - Google — search-plus-Gemini flywheel - Meta — Llama + ad-revenue self-funding - xAI — X + Tesla data footprint…
+
+🔗 [View original post](https://x.com/stark0xbt/status/2103183639383298066)
 
 ---
 
@@ -63,6 +79,14 @@
 > Good idea to post an image of the front page Take an early look at the front page of The Wall Street Journal https://on.wsj.com/3VdLOsw
 
 🔗 [View original post](https://x.com/elonmusk/status/2103005014277111831)
+
+---
+
+### 🕐 05:06 UTC · @elonmusk
+
+> Had opus 5.5 make a video predicting the next 50 years I&apos;m optimistic that the end will be beautiful, but the transition will be a little rough Media @andrewjiang you&apos;re afraid? really?
+
+🔗 [View original post](https://x.com/andrewjiang/status/2102987981695132140)
 
 ---
 

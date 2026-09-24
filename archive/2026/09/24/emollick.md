@@ -2,7 +2,17 @@
 
 ## 📅 September 24, 2026
 
-> 10 post(s) archived.
+> 11 post(s) archived.
+
+---
+
+### 🕐 23:05 UTC · @emollick
+
+> All of this effort from the AI labs pouring into proofs, but there are so many other interesting problems in other fields For example, this historian used AI to make progress on the cyphers of John Dee &amp; the intellectual antecedents that Darwin drew from. https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical
+
+![All of this effort from the AI labs pouring into proofs, but there are so many other interesting problems in other fields For example, this historian used AI to make progress on the cyphers of John De](../../../../assets/images/2026/09/24/2103259638145704260-1.jpg)
+
+🔗 [View original post](https://x.com/emollick/status/2103259638145704260)
 
 ---
 

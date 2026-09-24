@@ -2,7 +2,15 @@
 
 ## 📅 September 24, 2026
 
-> 5 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 22:22 UTC · @tunguz
+
+> They are actually all the same electron. Still wrapping my mind around the fact that in quantum mechanics, all electrons are identical and no one knows which is which
+
+🔗 [View original post](https://x.com/tunguz/status/2103248669508251846)
 
 ---
 

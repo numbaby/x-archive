@@ -2,7 +2,15 @@
 
 ## 📅 September 24, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 15:48 UTC · @simonw
+
+> &gt; Create a 30s animated video with sythesized voice where an animated pelican on a unicycle explains the shell command `w | tail -n +3 | cut -d &apos; &apos; -f1 | sort -u` with visuals while juggling several fish. Claude Opus 5.5 (Extra) Media
+
+🔗 [View original post](https://x.com/goodside/status/2103149526244618682)
 
 ---
 
