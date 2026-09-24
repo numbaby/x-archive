@@ -2,7 +2,15 @@
 
 ## 📅 September 24, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 03:13 UTC · @emollick
+
+> &quot;Opus, please make a sequence of fully animated/movie Skyrim loading screens, but with your favorite things.&quot; (That was it) You can see them here: https://elder-favorites.netlify.app/ Media
+
+🔗 [View original post](https://x.com/emollick/status/2102959636450013456)
 
 ---
 

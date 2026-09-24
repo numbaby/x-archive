@@ -2,7 +2,17 @@
 
 ## 📅 September 24, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 02:11 UTC · @tunguz
+
+> BREAKING : @Meta unveils VR Glasses. They will be priced at $1299 and ship in Spring of 2027.
+
+![BREAKING : @Meta unveils VR Glasses. They will be priced at $1299 and ship in Spring of 2027.](../../../../assets/images/2026/09/24/2102944070679281765-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2102944070679281765)
 
 ---
 
