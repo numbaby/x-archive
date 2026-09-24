@@ -2,7 +2,17 @@
 
 ## 📅 September 24, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 12:13 UTC · @dair_ai
+
+> Super interesting paper from Google and colleagues. It studies where it&apos;s possible to distill an agent harness. With the specialized harness removed, macro task success goes from 23.3% to 44.3%. That is higher than the 41.7% the base model reaches with the harness attached. Harness-Zero uses the optimized harness only during training. The optimized harness and the deployment harness have different action spaces, so a harnessing agent guided by the optimized harness corrects the student&apos;s responses in the deployment action space before they run. Those corrected runs become the training demonstrations. Across 28 harness-induced behaviors in knowledge work, tool use and science, 82.3% are recovered on average. For frontier models using the same evolved harness, the agent-as-harness form also beats the code-as-harness form. It remains to be seen how robust the approach is, but it&apos;s very interesting to see potential in harness distillation. Paper: https://arxiv.org/abs/2609.24974 Chat with Paper: https://academy.dair.ai/papers/harness-zero-harness-distillation-via-agent-as-harness-2609.24974
+
+![Super interesting paper from Google and colleagues. It studies where it&apos;s possible to distill an agent harness. With the specialized harness removed, macro task success goes from 23.3% to 44.3%. ](../../../../assets/images/2026/09/24/2103095360239636666-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2103095360239636666)
 
 ---
 

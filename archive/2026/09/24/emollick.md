@@ -2,7 +2,25 @@
 
 ## 📅 September 24, 2026
 
-> 4 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 12:45 UTC · @emollick
+
+> I just got the first copies of my new book, Co-Existence (out October 20) &amp; they look great! Also, there is a fun pre-order bonus: if you pre-order, you get a code to an AI interview that will help you figure out how to use your human advantages with AI. https://co-existence.ai/
+
+![I just got the first copies of my new book, Co-Existence (out October 20) &amp; they look great! Also, there is a fun pre-order bonus: if you pre-order, you get a code to an AI interview that will hel](../../../../assets/images/2026/09/24/2103103429782716702-1.jpg)
+
+🔗 [View original post](https://x.com/emollick/status/2103103429782716702)
+
+---
+
+### 🕐 12:17 UTC · @emollick
+
+> It also appears that forecasters may be becoming more wrong on shorter timeframes. This was last year&apos;s missed prediction. https://x.com/emollick/status/1962859757674344823?s=20 We can now say pretty definitively that AI progress is well ahead of expectations from a few years ago. In 2022, the Forecasting Research Institute had super forecasters &amp; experts to predict AI progress. They gave a 2.3% &amp; 8.6% probability of an AI Math Olympiad gold by 2025…
+
+🔗 [View original post](https://x.com/emollick/status/2103096397931425858)
 
 ---
 
