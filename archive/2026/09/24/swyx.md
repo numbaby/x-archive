@@ -2,7 +2,17 @@
 
 ## 📅 September 24, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 06:32 UTC · @swyx
+
+> AI Engineer Shanghai | Nov 5-6, 2026 Join @amrcn_werewolf (@Microsoft), @ryolu_ (ex-@cursor_ai), @chlassner (@theworldlabs), @NancyZWang (@1Password) &amp; @liu8in (@HeyGen). Open models, AI infra, Physical AI. Technical talks + demos. Tickets: https://www.ai.engineer/shanghai/2026
+
+![AI Engineer Shanghai | Nov 5-6, 2026 Join @amrcn_werewolf (@Microsoft), @ryolu_ (ex-@cursor_ai), @chlassner (@theworldlabs), @NancyZWang (@1Password) &amp; @liu8in (@HeyGen). Open models, AI infra, Ph](../../../../assets/images/2026/09/24/2103009576379367735-1.jpg)
+
+🔗 [View original post](https://x.com/aiDotEngineer/status/2103009576379367735)
 
 ---
 
