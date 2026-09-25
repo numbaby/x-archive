@@ -2,7 +2,15 @@
 
 ## 📅 September 25, 2026
 
-> 7 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 16:43 UTC · @emollick
+
+> I was right about this, they should have called it flocks of agents. Nobody wants to invoke a swarm, but swarm it apparently is. Fine, if you need it to be fun make it like a flock of agents or a pride of agents or party of agents or something. Just not swarm or murder or horde. I would even settle for an OpenAI name right about now: GPT-multiagent-5.2HighCodex-ProMax-Latest can be the official term.
+
+🔗 [View original post](https://x.com/emollick/status/2103525721289486777)
 
 ---
 

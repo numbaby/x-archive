@@ -2,7 +2,51 @@
 
 ## 📅 September 25, 2026
 
-> 13 post(s) archived.
+> 18 post(s) archived.
+
+---
+
+### 🕐 17:27 UTC · @elonmusk
+
+> Roll the Calls came out this week. I’ve had great conversations with incredible people along the way. And we’re just getting started. More calls. More conversations. More to come. Media
+
+🔗 [View original post](https://x.com/AriEmanuel/status/2103536880470163894)
+
+---
+
+### 🕐 16:44 UTC · @elonmusk
+
+> Cool Grok is the leading client for agentic traders on Coinbase currently.
+
+🔗 [View original post](https://x.com/elonmusk/status/2103526000415879522)
+
+---
+
+### 🕐 16:01 UTC · @elonmusk
+
+> SpaceX has introduced a new website for its AI training clusters in Tennessee/Mississippi. New info: • Tesla Megapacks will provide 3.3 GWh to Colossus 2, enough to power Memphis for two hours, making it America’s largest grid-connected battery pack. • SpaceX has invested millions of dollars in sound walls, silencers, and next-gen turbines with advanced quieting technologies. • Since joining the community in 2024, SpaceXAI is investing more than $90 billion in the region. Estimated 2026 tax revenue will be $60M+ • 7,500 local jobs supported • SpaceXAI is investing $360 million, at no cost to the city, in a clean water recycling plant. It is designed to process up to 10 million gallons of wastewater a day and would offset ~3.64 billion gallons a year from the Memphis Aquifer. • In Memphis, SpaceXAI is investing $35 million in a 150 MW substation to support MLGW and another $20 million in a second substation. Both come online at no cost to MLGW or homeowners. • Temporary power is coming off. Under an agreed order with the Mississippi Department of Environmental Quality, all remaining temporary turbines must be removed by July 2027. SpaceXAI is already taking units offline and expects to complete removal well ahead of that deadline. Website: https://spacex.com/Mid-South Media
+
+🔗 [View original post](https://x.com/SawyerMerritt/status/2103515250737758442)
+
+---
+
+### 🕐 14:53 UTC · @elonmusk
+
+> Motortrend after driving the new Tesla Semi: &quot;Driving the Semi was surprisingly familiar, shockingly easy, and dare I say, several tons of fun. Lane centering wasn’t a problem, thanks to fantastic visibility straight ahead and out of the tall side windows. Tesla claims Semi needs only a little more room to make a U-turn than a Model Y, and it certainly felt that way after I turned around on a two-lane road about the width of a residential street. It takes around five complete turns of the steering wheel to go lock-to-lock, and the feeling is light yet precise, thanks to the EPS.&quot; https://www.motortrend.com/reviews/2027-tesla-semi-first-drive-review-electric-big-rig
+
+![Motortrend after driving the new Tesla Semi: &quot;Driving the Semi was surprisingly familiar, shockingly easy, and dare I say, several tons of fun. Lane centering wasn’t a problem, thanks to fantasti](../../../../assets/images/2026/09/25/2103498016770474171-1.jpg)
+
+🔗 [View original post](https://x.com/SawyerMerritt/status/2103498016770474171)
+
+---
+
+### 🕐 14:34 UTC · @elonmusk
+
+> The European Union has delayed a vote on Tesla’s FSD (Supervised) to December at the earliest (from October 6th), according to an agenda published on the EU’s website. Agenda for the October meeting:
+
+![The European Union has delayed a vote on Tesla’s FSD (Supervised) to December at the earliest (from October 6th), according to an agenda published on the EU’s website. Agenda for the October meeting:](../../../../assets/images/2026/09/25/2103493350351630628-1.jpg)
+
+🔗 [View original post](https://x.com/SawyerMerritt/status/2103493350351630628)
 
 ---
 

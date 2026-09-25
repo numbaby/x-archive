@@ -2,7 +2,25 @@
 
 ## 📅 September 25, 2026
 
-> 2 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 20:02 UTC · @omarsar0
+
+> Hours researching the rise of Microsoft. 5 min feeding that research into Pexo. 10–15 min later, a finished 30s video. The collage work is what really got me. Pexo took the research and built the whole visual treatment around it—cutouts, stickers, supporting images, all of it. Nothing felt randomly added. It all followed the story. And this was the first take. If you make history or explainer content, I think the workflow just changed. @Pexoai_offical Media
+
+🔗 [View original post](https://x.com/omarsar0/status/2103575986772070862)
+
+---
+
+### 🕐 20:02 UTC · @omarsar0
+
+> If you’re curious about the workflow, start here: https://invite.pexo.ai/3UXdQIF Exclusive Pexo perk for you: Sign up, open your profile menu, select “Redeem Code,” and enter [72EVDG] to get free trial credits. Only the first 50 users can redeem it, so claim yours early.
+
+![If you’re curious about the workflow, start here: https://invite.pexo.ai/3UXdQIF Exclusive Pexo perk for you: Sign up, open your profile menu, select “Redeem Code,” and enter [72EVDG] to get free tria](../../../../assets/images/2026/09/25/2103575988554674652-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2103575988554674652)
 
 ---
 
