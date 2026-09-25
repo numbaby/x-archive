@@ -2,7 +2,17 @@
 
 ## 📅 September 25, 2026
 
-> 6 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 14:59 UTC · @emollick
+
+> Claude liked* this project. I have wondered whether that results in better outputs. * In defiance of AP Stylebook guidelines.
+
+![Claude liked* this project. I have wondered whether that results in better outputs. * In defiance of AP Stylebook guidelines.](../../../../assets/images/2026/09/25/2103499760233537625-1.png)
+
+🔗 [View original post](https://x.com/emollick/status/2103499760233537625)
 
 ---
 

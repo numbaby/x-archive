@@ -2,7 +2,17 @@
 
 ## 📅 September 25, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 14:47 UTC · @dair_ai
+
+> Recommended benchmark. I expect voice to become one of the main ways people interact with robots and physical AI. That makes speech recognition in real conversations much more important than it seems today. Real conversations are hard to transcribe. People pause, talk over each other, and switch languages mid-sentence. Robots also need to understand the languages people actually speak. More than 5.5 billion people across the Global South are non-English speakers. The community needs a good way to measure these frontier capabilities. @humynlabs built BRIDGE ASR 2.0 to measure exactly this. It tests 23 speech recognition models on real two-person conversations, each 10 to 15 minutes long, in 18 Indic languages plus Spanish, Portuguese, and Vietnamese. The metric I find most useful is code-switch F1. It checks whether English words mixed into an Indic sentence stay in English. A model that writes &quot;data backup&quot; in Devanagari script scores zero. You can also filter the leaderboard by language and by metric. The methodology and evaluation data are public, and the team wants researchers to test the benchmark and find where it breaks. Check out the benchmark here: https://humynlabs.ai/bridge/ASR/2.0
+
+![Recommended benchmark. I expect voice to become one of the main ways people interact with robots and physical AI. That makes speech recognition in real conversations much more important than it seems ](../../../../assets/images/2026/09/25/2103496639855865871-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2103496639855865871)
 
 ---
 

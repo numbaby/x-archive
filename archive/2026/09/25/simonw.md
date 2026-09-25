@@ -2,7 +2,15 @@
 
 ## 📅 September 25, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 13:52 UTC · @simonw
+
+> @simonw &quot;It doesn&apos;t get easier, you just get faster&quot;
+
+🔗 [View original post](https://x.com/hillelogram/status/2103482784606040229)
 
 ---
 
