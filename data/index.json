@@ -116431,6 +116431,19 @@
       }
     ]
   },
+  "2103387344955211907": {
+    "account": "elonmusk",
+    "date": "2026-09-25",
+    "file": "data/posts/2026/09/2026-09-25.jsonl",
+    "fingerprint": "c3fa86509b5e8a8efa5d59c8c9d1523b29addf10a126c9719ed4c7610193ceed",
+    "media": [
+      {
+        "local_path": "assets/images/2026/09/25/2103387344955211907-1.jpg",
+        "sha256": "e698ce93db20e1c73e832fd1d8d8d966caeb47f269f8a52a2ef1042ab4d9047b",
+        "source_url": "https://pbs.twimg.com/media/HTC7oUuaEAA3ccm.jpg?name=orig"
+      }
+    ]
+  },
   "2103388450120737068": {
     "account": "elonmusk",
     "date": "2026-09-25",
