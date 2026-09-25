@@ -2,7 +2,15 @@
 
 ## 📅 September 25, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 13:00 UTC · @AiEvolutio58513
+
+> Gavin Baker thinks Grok Bot is another ChatGPT moment, because work that took hours in Claude Code now takes seconds: &quot;You see these 23-year-old kids and just the way they use AI, they&apos;re just fluent and native in it. I just feel like maybe in a way that no matter how hard I try, I will never be, and I&apos;m trying really hard.&quot; &quot;We got Claude Code. I built some stuff, did some cool stuff, and in, I don&apos;t know, 3 minutes of creating Grok Bots, I had much better versions of everything I created.&quot; &quot;I love having a podcast summarizer... It takes 10 seconds in Grok Bot. It&apos;s amazing, and it&apos;s so good.&quot; &quot;A Substack summarizer, an X summarizer, an X sentiment tracker for topics and stocks... All of those would have taken me hours working with Claude Code, and they each took 7 to 12 seconds with Grok Bot. And it&apos;s better.&quot; &quot;To me, Grok Bot does feel like another ChatGPT moment.&quot; — Gavin Baker, in conversation with a16z&apos;s David George Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2103469673191022878)
 
 ---
 
