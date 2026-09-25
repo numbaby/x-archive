@@ -116364,5 +116364,18 @@
     "file": "data/posts/2026/09/2026-09-25.jsonl",
     "fingerprint": "b95aaaa660f9e823dcf713c96a86f2477e35d371f86ba1a43a32a6ea59c2f0dd",
     "media": []
+  },
+  "2103361254433993165": {
+    "account": "swyx",
+    "date": "2026-09-25",
+    "file": "data/posts/2026/09/2026-09-25.jsonl",
+    "fingerprint": "267a5060c5977a1ea904d82b079b1a2957aa54931e997c5bdaef6f1b47d76258",
+    "media": [
+      {
+        "local_path": "assets/images/2026/09/25/2103361254433993165-1.jpg",
+        "sha256": "af8ab64d895015e5064ce2461cfadc08525a15941d8665e2e84640ec248ce615",
+        "source_url": "https://pbs.twimg.com/media/HTCjmU3aMAAaMI4.jpg?name=orig"
+      }
+    ]
   }
 }
