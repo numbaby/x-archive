@@ -2,7 +2,23 @@
 
 ## 📅 September 25, 2026
 
-> 4 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 05:12 UTC · @elonmusk
+
+> 🚀🚀 Can our TPUs survive and operate in space? Well, we&apos;re going to find out. Project Suncatcher is hitching a ride aboard @SpaceX&apos;s Transporter-18 mission, testing a prototype satellite built in partnership with @planet One small step for TPUs....
+
+🔗 [View original post](https://x.com/elonmusk/status/2103351799130579033)
+
+---
+
+### 🕐 05:11 UTC · @elonmusk
+
+> The NGOs end up increasing the number of homeless people they manage, because that’s the only way to increase their revenue! Incentives drive outcomes. “Homeless” is a propaganda word used to describe people on the street who are mentally ill or severely addicted to drugs. The word implies that this is someone who fell a little behind on their mortgage payment and they’re one job offer away from getting back on their feet, which is obviously false if you’ve ever tried talking to a “homeless” person in SF, LA, NY, Austin or anywhere else. The honest reality is that we need to bring back asylums for extreme mental illness or drug addiction for those who are a serious danger to themselves or others. Incentives determine outcomes If you give an NGO a certain number of dollars per homeless person, they will never solve homelessness SF spends more than $1b/yr (up 5x) and the homeless population has only grown NGO fraud is so insane, man.
+
+🔗 [View original post](https://x.com/elonmusk/status/2103351727734829090)
 
 ---
 
