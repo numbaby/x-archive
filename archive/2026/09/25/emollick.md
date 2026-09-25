@@ -2,7 +2,17 @@
 
 ## 📅 September 25, 2026
 
-> 5 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 14:04 UTC · @emollick
+
+> Microsoft seems to sell its own Claw now (I suspect they will not be the last), which may help spread personal agents in organizations But using a router with mystery models behind it is a big problem. Routers underestimate work difficulty in many fields resulting in bad outputs We’re building Copilot as a new OS for work that spans every model, every form factor, and every task. Today, we’re announcing our biggest update to Copilot to date, bringing four things together: · Autopilot: proactive and long-running agent built for the enterprise · Code: buil…
+
+![Microsoft seems to sell its own Claw now (I suspect they will not be the last), which may help spread personal agents in organizations But using a router with mystery models behind it is a big problem](../../../../assets/images/2026/09/25/2103485857147617393-1.jpg)
+
+🔗 [View original post](https://x.com/emollick/status/2103485857147617393)
 
 ---
 

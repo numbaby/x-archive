@@ -116411,6 +116411,13 @@
       }
     ]
   },
+  "2103377602216116254": {
+    "account": "ylecun",
+    "date": "2026-09-25",
+    "file": "data/posts/2026/09/2026-09-25.jsonl",
+    "fingerprint": "75b436e23e6b2e6f36d2de5ba1478a4c88346abc8eb96de5a588c5448949bff7",
+    "media": []
+  },
   "2103382290994962788": {
     "account": "elonmusk",
     "date": "2026-09-25",
@@ -116491,5 +116498,51 @@
     "file": "data/posts/2026/09/2026-09-25.jsonl",
     "fingerprint": "9df621552f5924252ce9eebf1d338c9e6609a22e964267405ea754c9836437cd",
     "media": []
+  },
+  "2103474594430746971": {
+    "account": "omarsar0",
+    "date": "2026-09-25",
+    "file": "data/posts/2026/09/2026-09-25.jsonl",
+    "fingerprint": "828bcb7d1c01a896f5bca7e07d252015c7693f12291eeb39360b61774030945c",
+    "media": []
+  },
+  "2103478384584278502": {
+    "account": "omarsar0",
+    "date": "2026-09-25",
+    "file": "data/posts/2026/09/2026-09-25.jsonl",
+    "fingerprint": "e643238cbc4d5acb2eb755552a185df00c95ea85d0392dd099ecb4d5d99a95e8",
+    "media": [
+      {
+        "local_path": "assets/images/2026/09/25/2103478384584278502-1.jpg",
+        "sha256": "cc84712ad76a935d3a5e890102ad04d7469df170e34ea876127946926d8fd9ad",
+        "source_url": "https://pbs.twimg.com/media/HTEOcVWaIAEH8zF.jpg?name=orig"
+      }
+    ]
+  },
+  "2103479392106352910": {
+    "account": "dair_ai",
+    "date": "2026-09-25",
+    "file": "data/posts/2026/09/2026-09-25.jsonl",
+    "fingerprint": "f0f8c325300b4b5fb20c85e543d9c5c8f9c11d263d463a9f14fe1781611d8302",
+    "media": [
+      {
+        "local_path": "assets/images/2026/09/25/2103479392106352910-1.png",
+        "sha256": "92c460760ab0874581a8fa5c7214fa54cfdd92b381d567575691f7540e68606e",
+        "source_url": "https://pbs.twimg.com/media/HTEPW55aAAE7YYH.png?name=orig"
+      }
+    ]
+  },
+  "2103485857147617393": {
+    "account": "emollick",
+    "date": "2026-09-25",
+    "file": "data/posts/2026/09/2026-09-25.jsonl",
+    "fingerprint": "90e6290d89ae461dcaa75c8e8f73a0ef2f5e854edb17cc659a695fe9189ca4b0",
+    "media": [
+      {
+        "local_path": "assets/images/2026/09/25/2103485857147617393-1.jpg",
+        "sha256": "9b0e7e2838e7db35f54406b36f41b4a05938c65c254fa7e66391bda192d53227",
+        "source_url": "https://pbs.twimg.com/media/HTEVPVDW4AAdHq0.jpg?name=orig"
+      }
+    ]
   }
 }
