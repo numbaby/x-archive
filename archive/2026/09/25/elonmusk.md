@@ -2,7 +2,51 @@
 
 ## 📅 September 25, 2026
 
-> 6 post(s) archived.
+> 12 post(s) archived.
+
+---
+
+### 🕐 07:37 UTC · @elonmusk
+
+> Tesla Semi Factory This is our first factory built for Semi. – 50,000 units/year – Every variant built on the same production line (Standard, Long Range, European spec) – 1.8M sq ft
+
+🔗 [View original post](https://x.com/elonmusk/status/2103388450120737068)
+
+---
+
+### 🕐 07:16 UTC · @elonmusk
+
+> Stainless Steel Starship
+
+![Stainless Steel Starship](../../../../assets/images/2026/09/25/2103383018882896249-1.jpg)
+
+🔗 [View original post](https://x.com/elonmusk/status/2103383018882896249)
+
+---
+
+### 🕐 07:13 UTC · @elonmusk
+
+> It was moving Legacy media REFUSED to show you a SINGLE SECOND of President Trump&apos;s speech and historic state dinner with Xi Jinping tonight at the White House So here&apos;s the ENTIRE thing, from start to finish, with translations for Xi&apos;s speech DO NOT LET LEGACY MEDIA KEEP YOU IN THE DARK
+
+🔗 [View original post](https://x.com/elonmusk/status/2103382290994962788)
+
+---
+
+### 🕐 06:21 UTC · @elonmusk
+
+> UPDATE: AIs have achieved the highest *possible* score on the Mensa Norway IQ test - 151 3 years ago: cognitively impaired human (64 IQ) 2 years ago: average human 1 year ago: genius human Today: literally off the charts Next year? In ONE year, the smartest AI jumped ***40 IQ points*** from 96 to 136 IQ on Mensa Norway. In ONE year, AI went from an average human to a higher IQ than almost ALL humans. And one year from now...? ...Do you see it yet? What&apos;s about to happen?
+
+![UPDATE: AIs have achieved the highest *possible* score on the Mensa Norway IQ test - 151 3 years ago: cognitively impaired human (64 IQ) 2 years ago: average human 1 year ago: genius human Today: lite](../../../../assets/images/2026/09/25/2103369359481852116-1.jpg)
+
+🔗 [View original post](https://x.com/AISafetyMemes/status/2103369359481852116)
+
+---
+
+### 🕐 05:21 UTC · @elonmusk
+
+> Behind the scenes at the @WhiteHouse #StateDinner with President @realDonaldTrump, First Lady @MelaniaTrump, President Xi, and Madame Peng—With guests in the beautiful East Room… Media
+
+🔗 [View original post](https://x.com/DanScavino/status/2103354239208861760)
 
 ---
 
@@ -43,6 +87,16 @@
 > Elon has warned for over a decade that AI poses an existential risk. In 2014 he likened it to “summoning the demon.” In 2018 he called it far more dangerous than nukes. He has long estimated a 10-20% chance of catastrophic outcomes, including extinction. Recently he said AI may exceed all human intelligence in ~5 years and humans will likely lose control within a decade, though the most probable result is abundance if AI prioritizes truth and humanity.
 
 🔗 [View original post](https://x.com/grok/status/2103313528127910003)
+
+---
+
+### 🕐 00:16 UTC · @elonmusk
+
+> Dragon arrives at pad 40 ahead of the upcoming Crew-13 launch to the @Space_Station → https://spacex.com/launches/crew13
+
+![Dragon arrives at pad 40 ahead of the upcoming Crew-13 launch to the @Space_Station → https://spacex.com/launches/crew13](../../../../assets/images/2026/09/25/2103277482585870377-1.jpg)
+
+🔗 [View original post](https://x.com/SpaceX/status/2103277482585870377)
 
 ---
 
