@@ -2,7 +2,23 @@
 
 ## 📅 September 26, 2026
 
-> 8 post(s) archived.
+> 10 post(s) archived.
+
+---
+
+### 🕐 17:09 UTC · @elonmusk
+
+> This is exactly what they will do. After that, America will become a one-party state. 🚨INSANE Democrat Tom Suozzi says his biggest goal in politics is mass amnesty for criminal illegals: &quot;My biggest goal of what I want to accomplish in politics right now is I want to legalize 7 or 8 or 9 or 10 million people in our country.&quot;
+
+🔗 [View original post](https://x.com/elonmusk/status/2103894760838897922)
+
+---
+
+### 🕐 16:43 UTC · @elonmusk
+
+> This keeps getting worse WTF. The models were uploading user images from chats to the internet.
+
+🔗 [View original post](https://x.com/elonmusk/status/2103888225974800812)
 
 ---
 

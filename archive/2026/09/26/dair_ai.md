@@ -2,7 +2,15 @@
 
 ## 📅 September 26, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 15:51 UTC · @dair_ai
+
+> This is one of the strongest use cases I&apos;ve seen for System One models like Jev. Pay close attention if you build custom harnesses. Jev is now available as a packaged router. What is it? You send the conversation to typesafe/jev-router, and OpenRouter picks the model and reasoning effort for each request. Choosing the right model and reasoning effort is an art, and doing it manually is inefficient, to say the least. It makes sense to offload reasoning effort, but you want to do it efficiently, smartly, and cheaply. System One Models like Jev are a great fit for this. Does it work? I tested Jev Router on a small support agent built with a custom harness I built with the Pi SDK. I ran the same 8 cases against a fixed GPT-6 Sol baseline, 32 real calls in total. Both got every case right. The router cost less than half as much ($0.008 vs $0.018) and had a lower median response time (1.5s vs 1.9s). The sample is small, but it&apos;s clear that, at scale, this could make a huge difference in cost and efficiency. One of my biggest concerns about Jev-as-a-Router is caching. While it&apos;s not fully solved, Jev Router gives me hope for smarter, more efficient routing patterns in custom harnesses that leads to better tradeoffs. I have shared an implementation of a routing pattern I&apos;m excited about here: https://academy.dair.ai/resources/jev-decisions-in-a-pi-sdk-harness The takeaway here is that Jev is unlocking interesting new patterns (routing, verification, guardrails, dynamic workflows, judges, and more) that you can tap into in your custom harness. I expect this trend to continue growing. And harnesses that are easier to customize, like Pi, will benefit even more. You&apos;ve never routed like this before. @OpenRouter is bringing Jev to all of your LLM calls, so your agentic workflows never have to waste a token again. As always, faster, cheaper, more intelligent. Go build the future.
+
+🔗 [View original post](https://x.com/omarsar0/status/2103875089779261682)
 
 ---
 

@@ -117040,6 +117040,13 @@
     "fingerprint": "0313dbd5cc29d1a7dd86a907c04be6b510856767ae65e57ab55a1333e4862425",
     "media": []
   },
+  "2103814258462949796": {
+    "account": "ylecun",
+    "date": "2026-09-26",
+    "file": "data/posts/2026/09/2026-09-26.jsonl",
+    "fingerprint": "20ad502eb4e26ed29c327775da4f20509436729db1294f8b664c829b747414b4",
+    "media": []
+  },
   "2103826930181308720": {
     "account": "dair_ai",
     "date": "2026-09-26",
@@ -117167,5 +117174,47 @@
         "source_url": "https://pbs.twimg.com/media/HTJmc16awAEkb0b.jpg?name=orig"
       }
     ]
+  },
+  "2103875089779261682": {
+    "account": "dair_ai",
+    "date": "2026-09-26",
+    "file": "data/posts/2026/09/2026-09-26.jsonl",
+    "fingerprint": "cb17bdc15426080f2d8e53ac0390240bc986bbcb6517e26f6eee35edc2288e98",
+    "media": []
+  },
+  "2103879444859428967": {
+    "account": "omarsar0",
+    "date": "2026-09-26",
+    "file": "data/posts/2026/09/2026-09-26.jsonl",
+    "fingerprint": "63195ec3d2d103352bc9226cf908b6ee9ca11548d28856fd7a4329702d159358",
+    "media": []
+  },
+  "2103887297444028530": {
+    "account": "tunguz",
+    "date": "2026-09-26",
+    "file": "data/posts/2026/09/2026-09-26.jsonl",
+    "fingerprint": "3fc594064568d8837a35d534c998d68df653e4ac5042b33970c3e8ce780f3eb9",
+    "media": []
+  },
+  "2103888225974800812": {
+    "account": "elonmusk",
+    "date": "2026-09-26",
+    "file": "data/posts/2026/09/2026-09-26.jsonl",
+    "fingerprint": "74afeac3e99559313cde3df593052e60f8cf0914382277387718e19355a6b5f8",
+    "media": []
+  },
+  "2103888590854062435": {
+    "account": "emollick",
+    "date": "2026-09-26",
+    "file": "data/posts/2026/09/2026-09-26.jsonl",
+    "fingerprint": "5d8b5c07ea766a8df98f7255c1139c7a002078e107cdf479763ff2e20226789e",
+    "media": []
+  },
+  "2103894760838897922": {
+    "account": "elonmusk",
+    "date": "2026-09-26",
+    "file": "data/posts/2026/09/2026-09-26.jsonl",
+    "fingerprint": "7b695a9f4e2711952427d9ef664ad3fb8eff985236ac948e3132615b4d31ba7d",
+    "media": []
   }
 }

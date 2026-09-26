@@ -2,7 +2,15 @@
 
 ## 📅 September 26, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 16:39 UTC · @tunguz
+
+> But can Opus 5.5 play Crysis?
+
+🔗 [View original post](https://x.com/tunguz/status/2103887297444028530)
 
 ---
 

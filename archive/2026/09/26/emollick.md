@@ -2,7 +2,15 @@
 
 ## 📅 September 26, 2026
 
-> 6 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 16:45 UTC · @emollick
+
+> &quot;so this is fun, and exactly what i wanted, but now lets try one that actually is educational&quot; This is actually pretty impressive. It kept the constraint of multiple genres but did a nice job explaining recursion, in its programming meaning, in an interesting and accessible way. Media How do you explain recursion? This one is pretty fun. I had Claude Opus 5.5 make: &quot;A video explaining recursion, where every explanation about recursion has a radically different video style, make this self-referential &amp; clever &amp; fast moving.&quot; Nine genre shifts, one prompt...
+
+🔗 [View original post](https://x.com/emollick/status/2103888590854062435)
 
 ---
 
