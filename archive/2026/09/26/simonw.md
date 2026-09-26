@@ -2,7 +2,15 @@
 
 ## 📅 September 26, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 03:30 UTC · @simonw
+
+> &quot;The last year in the technology industry has felt like 100 years all happening at once. Our industry is destabilized in a way nobody’s experienced since the advent of the personal computer. Every limit AI runs up against collapses within a month. Everything we do with frontier models today, in a few years we’ll be doing instantaneously and for free.&quot; Today I&apos;m parting ways with https://Fly.io. It&apos;s been a privilege. I&apos;m off to tilt at a big old windmill with Kurt, again. https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/
+
+🔗 [View original post](https://x.com/simonw/status/2103688757337895282)
 
 ---
 
