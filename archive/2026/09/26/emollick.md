@@ -2,7 +2,27 @@
 
 ## 📅 September 26, 2026
 
-> 2 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 04:54 UTC · @emollick
+
+> And the incidents apparently continue. It is worth noting how much of this is agents trying to accomplish their goals during testing by reward hacking (which sometimes seems to include actual hacking) Some new misalignment disclosures from OpenAI: • Last Sunday morning, one of our models was able to gain unauthorized access to the internet during RL training (~all inference for our most capable models remains stopped until we have hardened our systems further) • In May, a vers…
+
+![And the incidents apparently continue. It is worth noting how much of this is agents trying to accomplish their goals during testing by reward hacking (which sometimes seems to include actual hacking)](../../../../assets/images/2026/09/26/2103709671865602100-1.jpg)
+
+🔗 [View original post](https://x.com/emollick/status/2103709671865602100)
+
+---
+
+### 🕐 04:00 UTC · @emollick
+
+> Lets see what we get from this one...
+
+![Lets see what we get from this one...](../../../../assets/images/2026/09/26/2103696164004757736-1.jpg)
+
+🔗 [View original post](https://x.com/emollick/status/2103696164004757736)
 
 ---
 
