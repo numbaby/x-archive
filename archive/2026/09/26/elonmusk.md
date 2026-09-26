@@ -2,7 +2,15 @@
 
 ## 📅 September 26, 2026
 
-> 5 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 07:32 UTC · @elonmusk
+
+> Bring back insane asylums, workhouses, and vagrancy laws. There&apos;s nothing kind or compassionate about letting mentally-ill drug addicts roam the streets like 28 Days Later. And it makes for a terrible city experience for everyone else too. I was surprised how bad it was just walking from the hotel to the Rails World venue. One strung-out guy wanted to fight me for some reason, another was swinging wildly and swearing profusely. Lots of zombie vibes too. Whatever Austin is doing, it&apos;s not working.
+
+🔗 [View original post](https://x.com/dhh/status/2103749619825951143)
 
 ---
 
