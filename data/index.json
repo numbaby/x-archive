@@ -116866,6 +116866,19 @@
     "fingerprint": "c8cea9fd154b974e2b70b4b8c695a274ecba77b38dc7e671ed13e7ee23cf5c3d",
     "media": []
   },
+  "2103640709840744838": {
+    "account": "elonmusk",
+    "date": "2026-09-26",
+    "file": "data/posts/2026/09/2026-09-26.jsonl",
+    "fingerprint": "2883cb73bf5a5b9892b667e8bbb8e7731dd27a4bf84d170c026a23e1ee2a5c87",
+    "media": [
+      {
+        "local_path": "assets/images/2026/09/26/2103640709840744838-1.jpg",
+        "sha256": "1f6f1d4cacfbf38c1a4070b1cca0547097cb55eba911474bf45928f72b3ba85f",
+        "source_url": "https://pbs.twimg.com/media/HTGiE57aEAA45mg.jpg?name=orig"
+      }
+    ]
+  },
   "2103641180923978031": {
     "account": "simonw",
     "date": "2026-09-26",
@@ -116879,6 +116892,19 @@
     "file": "data/posts/2026/09/2026-09-26.jsonl",
     "fingerprint": "9ee7cd48c00743d062dd9c14f4976860e2bd96a686ae2506752ea7cf90cea521",
     "media": []
+  },
+  "2103664821459685708": {
+    "account": "elonmusk",
+    "date": "2026-09-26",
+    "file": "data/posts/2026/09/2026-09-26.jsonl",
+    "fingerprint": "ec741062b00bc2e74e1d670aeaa220d7f0d8de310a0131a3786a76ac734ee767",
+    "media": [
+      {
+        "local_path": "assets/images/2026/09/26/2103664821459685708-1.jpg",
+        "sha256": "b4c5c40e081ef87bcadc0e36a41ea8b42f93990d8de88741389f9119cac190ce",
+        "source_url": "https://pbs.twimg.com/media/HTG3BCAWQAA5tYV.jpg?name=orig"
+      }
+    ]
   },
   "2103688362960019567": {
     "account": "emollick",
@@ -116921,6 +116947,19 @@
       }
     ]
   },
+  "2103703639030223033": {
+    "account": "elonmusk",
+    "date": "2026-09-26",
+    "file": "data/posts/2026/09/2026-09-26.jsonl",
+    "fingerprint": "aa9111d0282ab15a8e45f1f2315bb14925edaaed29bba196580f06127ca2bac3",
+    "media": [
+      {
+        "local_path": "assets/images/2026/09/26/2103703639030223033-1.jpg",
+        "sha256": "1dbd097fb0fad6908581128bf408fe71e16e0996a09409668e80f6391fa77726",
+        "source_url": "https://pbs.twimg.com/media/HTHbTU4WgAAZDXr.jpg?name=orig"
+      }
+    ]
+  },
   "2103709671865602100": {
     "account": "emollick",
     "date": "2026-09-26",
@@ -116933,5 +116972,12 @@
         "source_url": "https://pbs.twimg.com/media/HTHgSXCXIAACrjj.jpg?name=orig"
       }
     ]
+  },
+  "2103746441667862603": {
+    "account": "elonmusk",
+    "date": "2026-09-26",
+    "file": "data/posts/2026/09/2026-09-26.jsonl",
+    "fingerprint": "d7b2f2a094008e8e1a3c8ee8b0f0d477e747f1f3b73b6322c2071eff5bfad807",
+    "media": []
   }
 }
