@@ -2,7 +2,15 @@
 
 ## 📅 September 26, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 14:22 UTC · @dair_ai
+
+> Most of the personal agents I see today are heavily optimized to make us consume more (e.g., buy stuff online, book flights, plan a vacation, etc.). I get that every company building these has its own incentives. To be clear, nothing wrong with consumer agents. They are useful. However, I&apos;d also love to see more human-centric agents that unlock real opportunities, like starting a business, getting a job, running a company, or learning something new. Sadly, today&apos;s agents just aren&apos;t sufficiently trained and aligned for this. But I think it&apos;s worth solving. To be fair, I do recognize a few companies that are trying hard to build more human-centric AI models. And I hope they continue doing so. But who is building personal agents to solve this?
+
+🔗 [View original post](https://x.com/omarsar0/status/2103852791747764653)
 
 ---
 

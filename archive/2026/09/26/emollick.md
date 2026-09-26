@@ -2,7 +2,25 @@
 
 ## 📅 September 26, 2026
 
-> 4 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 14:32 UTC · @emollick
+
+> People keep mentioning it in the comments, but Mistral seems to have largely pivoted from creating frontier models. Their current models are also far from the frontier in open weights as well. https://www.scmp.com/news/china/diplomacy/article/3364745/mistral-paradox-europes-push-tech-sovereignty-relies-chinas-zai
+
+![People keep mentioning it in the comments, but Mistral seems to have largely pivoted from creating frontier models. Their current models are also far from the frontier in open weights as well. https:/](../../../../assets/images/2026/09/26/2103855138591129926-1.jpg)
+
+🔗 [View original post](https://x.com/emollick/status/2103855138591129926)
+
+---
+
+### 🕐 13:40 UTC · @emollick
+
+> Leaving aside the arguments over the reasons why this has happened, it is shocking that Europe does not have a single frontier AI lab, nor even a near-frontier lab nor even an effort that could likely lead to building up a frontier lab in the future.
+
+🔗 [View original post](https://x.com/emollick/status/2103842238119743660)
 
 ---
 
