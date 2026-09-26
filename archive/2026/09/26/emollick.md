@@ -2,7 +2,17 @@
 
 ## 📅 September 26, 2026
 
-> 7 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 23:38 UTC · @emollick
+
+> I only liked the classics. They don&apos;t make games like they used to. @AndyMasley OK maybe I should play some new games
+
+![I only liked the classics. They don&apos;t make games like they used to. @AndyMasley OK maybe I should play some new games](../../../../assets/images/2026/09/26/2103992616454860834-1.jpg)
+
+🔗 [View original post](https://x.com/emollick/status/2103992616454860834)
 
 ---
 

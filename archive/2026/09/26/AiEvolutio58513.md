@@ -2,7 +2,27 @@
 
 ## 📅 September 26, 2026
 
-> 6 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 22:50 UTC · @AiEvolutio58513
+
+> 6 Steps To Get Your Business Found In AI Search:
+
+![6 Steps To Get Your Business Found In AI Search:](../../../../assets/images/2026/09/26/2103980470405124444-1.jpg)
+
+🔗 [View original post](https://x.com/ecomchasedimond/status/2103980470405124444)
+
+---
+
+### 🕐 15:09 UTC · @AiEvolutio58513
+
+> ChatGPT Vs Grok Vs Gemini Vs Claude Vs Perplexity: Which one do you use the most?
+
+![ChatGPT Vs Grok Vs Gemini Vs Claude Vs Perplexity: Which one do you use the most?](../../../../assets/images/2026/09/26/2103864424276901907-1.jpg)
+
+🔗 [View original post](https://x.com/ecomchasedimond/status/2103864424276901907)
 
 ---
 

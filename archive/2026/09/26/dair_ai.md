@@ -2,7 +2,15 @@
 
 ## 📅 September 26, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 21:26 UTC · @dair_ai
+
+> I agree. Learn the fundamentals, folks! If you plan to be a solid builder using agents, this is a really important point. There is no way around it. I have recently started digging deep into evals, infra, architecture, scaling search, and things like sandboxes @dair_ai using agents, and I can tell you that it&apos;s really easy to produce absolute slop. You could be using the most advanced models today confidently and not know that everything is broken because the agents somehow got it to work through some weird hack. Agents don&apos;t have the taste of someone with proper domain expertise. And I don&apos;t think that&apos;s coming anytime soon. But something you learn in algorithms (one important fundamental subject) is that solutions can be optimal or suboptimal. In other words, many ways to transform inputs to get the same outputs. Agents don&apos;t give a crap about that and sometimes feel like they are flipping a coin. I can tell you that much. Stay learning, folks. This is the way. The AI influencers are telling you that you don&apos;t need to learn coding and engineering since Claude Code will do all the work and you just need to give it some very high-level command. Meanwhile, real builders are making important engineering decisions and using Claude Code to im…
+
+🔗 [View original post](https://x.com/omarsar0/status/2103959517742448947)
 
 ---
 

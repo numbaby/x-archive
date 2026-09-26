@@ -2,7 +2,31 @@
 
 ## 📅 September 26, 2026
 
-> 11 post(s) archived.
+> 14 post(s) archived.
+
+---
+
+### 🕐 21:31 UTC · @elonmusk
+
+> Production on the Moon &amp; Mars will accelerate by far more than double every year, until natural limits are encountered if we double the industrial production in outer-space every 12 months starting from some initial seed in 2030 then we hit Kardashev I by 2064 and Kardashev II by 2098. If we take 24 months for each doubling, we still hit Kardashev I by 2096 and Kardashev II by 2165
+
+🔗 [View original post](https://x.com/elonmusk/status/2103960796942516451)
+
+---
+
+### 🕐 21:21 UTC · @elonmusk
+
+> Grok @Bot can manage your finances Grok Bot now connects to your finances. Link your bank, card, and investment accounts with the new Finance integration, then ask Bot to help manage your spending, investments, and more.
+
+🔗 [View original post](https://x.com/elonmusk/status/2103958249922072840)
+
+---
+
+### 🕐 18:56 UTC · @elonmusk
+
+> Non tech people I know are buying Starlink for their homes because it is faster AND cheaper than cable internet here in Belgium. Cool
+
+🔗 [View original post](https://x.com/xdNiBoR/status/2103921704426774942)
 
 ---
 
