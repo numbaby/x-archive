@@ -2,7 +2,15 @@
 
 ## 📅 September 26, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 19:36 UTC · @tunguz
+
+> She&apos;s a 10, but she is 4/5 nuclear engineer. 4 out of 5 are nuclear engineers btw
+
+🔗 [View original post](https://x.com/tunguz/status/2103931735641841886)
 
 ---
 
