@@ -12,7 +12,7 @@ ROOT = Path(__file__).resolve().parent
 
 # Since it's 2026-09-26 00:00 UTC, we need posts since 2026-09-26 00:00:00 UTC
 # UPDATE THIS BEFORE EACH RUN
-CUTOFF = datetime(2026, 9, 26, 0, 0, 0, tzinfo=timezone.utc)
+CUTOFF = datetime(2026, 9, 27, 0, 0, 0, tzinfo=timezone.utc)
 
 PROFILES_URL = "https://raw.githubusercontent.com/numbaby/profile_list_on_x/main/profiles.json"
 
