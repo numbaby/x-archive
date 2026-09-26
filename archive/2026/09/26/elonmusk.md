@@ -2,7 +2,17 @@
 
 ## 📅 September 26, 2026
 
-> 10 post(s) archived.
+> 11 post(s) archived.
+
+---
+
+### 🕐 18:47 UTC · @elonmusk
+
+> A trans person in Manaus, Brazil has been arrested after allegedly biting off his stepfather&apos;s eyes, gouging the victim&apos;s eyes out and r—ping him. https://www.thesun.co.uk/news/40485308/trans-woman-stepdad-attack-brazil/?utm_medium=Social&amp;utm_campaign=sunmaintwitter&amp;utm_source=Twitter#Echobox=1790284699
+
+![A trans person in Manaus, Brazil has been arrested after allegedly biting off his stepfather&apos;s eyes, gouging the victim&apos;s eyes out and r—ping him. https://www.thesun.co.uk/news/40485308/tran](../../../../assets/images/2026/09/26/2103919465800900669-1.jpg)
+
+🔗 [View original post](https://x.com/MrAndyNgo/status/2103919465800900669)
 
 ---
 
