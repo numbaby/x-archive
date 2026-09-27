@@ -2,7 +2,17 @@
 
 ## 📅 September 27, 2026
 
-> 9 post(s) archived.
+> 10 post(s) archived.
+
+---
+
+### 🕐 14:37 UTC · @tunguz
+
+> Bro could have just waited a few years, started an AI lab, and gotten away with it all.
+
+![Bro could have just waited a few years, started an AI lab, and gotten away with it all.](../../../../assets/images/2026/09/27/2104218837357084781-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2104218837357084781)
 
 ---
 

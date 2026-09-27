@@ -2,7 +2,7 @@
 
 ## 📅 September 27, 2026
 
-> 9 post(s) archived.
+> 11 post(s) archived.
 
 ---
 
@@ -53,6 +53,22 @@
 > TL;DR: 1. The reason you are doing it at all 2. The plan, written out in full detail 3. Knowing what the tool does underneath 4. Taste, because the machine has none 5. Catching what passes every test 6. Plain sense about the real world
 
 🔗 [View original post](https://x.com/AiEvolutio58513/status/2104163654082150772)
+
+---
+
+### 🕐 10:57 UTC · @AiEvolutio58513
+
+> 5. Catching the mistake that passes every test. On his own app you sign in with one account and pay with another. His agent matched them by email address, so &quot;there wasn&apos;t a persistent user ID&quot; and it &quot;would not associate the funds&quot;. Every test passed and it was still wrong. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2104163601359736836)
+
+---
+
+### 🕐 10:57 UTC · @AiEvolutio58513
+
+> 4. Taste, because there is none of it in the machine. Karpathy opens the code it writes. &quot;sometimes I get a little bit of a heart attack&quot;. It is &quot;very bloated&quot; and &quot;really gross&quot;. What is left for you: &quot;the aesthetics, the judgment, the taste, and a little bit of oversight.&quot; Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2104163546020073812)
 
 ---
 
