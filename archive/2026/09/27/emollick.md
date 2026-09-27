@@ -2,7 +2,17 @@
 
 ## 📅 September 27, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 05:11 UTC · @emollick
+
+> I can&apos;t believe people think SimHat is made up. Would I also make up the gritty reboot in the early 2000s? And the online multiplayer version (&quot;its a brimmunity!&quot;)? And the recent exploitative mobile game?
+
+![I can&apos;t believe people think SimHat is made up. Would I also make up the gritty reboot in the early 2000s? And the online multiplayer version (&quot;its a brimmunity!&quot;)? And the recent explo](../../../../assets/images/2026/09/27/2104076472591814866-1.jpg)
+
+🔗 [View original post](https://x.com/emollick/status/2104076472591814866)
 
 ---
 
