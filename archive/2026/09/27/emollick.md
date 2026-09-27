@@ -2,7 +2,15 @@
 
 ## 📅 September 27, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 05:01 UTC · @emollick
+
+> Anyhow, it is almost like some sort of general intelligence, but made with artificial means. Very hard to know what we might call that.
+
+🔗 [View original post](https://x.com/emollick/status/2104073909960155515)
 
 ---
 

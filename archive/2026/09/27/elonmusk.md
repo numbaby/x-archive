@@ -2,7 +2,15 @@
 
 ## 📅 September 27, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 04:10 UTC · @elonmusk
+
+> Literally “Don’t worry, the AI agents are in an air-gapped sandbox. They literally can’t go anywhere.” The AI agents:
+
+🔗 [View original post](https://x.com/elonmusk/status/2104061143153053801)
 
 ---
 
