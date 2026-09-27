@@ -117843,5 +117843,25 @@
     "file": "data/posts/2026/09/2026-09-27.jsonl",
     "fingerprint": "907b5d62fd24d3a87cb37115a41f6175d482ac537ea638bd4ab8d9b5b005391f",
     "media": []
+  },
+  "2104326478766952624": {
+    "account": "emollick",
+    "date": "2026-09-27",
+    "file": "data/posts/2026/09/2026-09-27.jsonl",
+    "fingerprint": "d384948f98a9b447e8b9a5cb2e79020a2a48c14b6907bde0be5df4991c75a3de",
+    "media": []
+  },
+  "2104326522354147793": {
+    "account": "rasbt",
+    "date": "2026-09-27",
+    "file": "data/posts/2026/09/2026-09-27.jsonl",
+    "fingerprint": "ccee75db097b63962844735445c7d1192b275608f095ef659dc9ecebc701ec18",
+    "media": [
+      {
+        "local_path": "assets/images/2026/09/27/2104326522354147793-1.jpg",
+        "sha256": "15b5b38f50862677ec04bfdc2b4d227ede338e7c11b42465d74268049af8927f",
+        "source_url": "https://pbs.twimg.com/media/HTQRvZZWwAEXfS8.jpg?name=orig"
+      }
+    ]
   }
 }

@@ -2,7 +2,15 @@
 
 ## 📅 September 27, 2026
 
-> 6 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 21:45 UTC · @emollick
+
+> Qualitatively, there is now a larger gap between open &amp; closed models than there has been in awhile. Fable/Astra class models are agentic in a way pre-Fable models are not, for better or worse. None of the open models have crossed that line, yet. When they do, it will be a jump.
+
+🔗 [View original post](https://x.com/emollick/status/2104326478766952624)
 
 ---
 
