@@ -2,7 +2,7 @@
 
 ## 📅 September 27, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
 
 ---
 
@@ -11,6 +11,14 @@
 > Wow Gave Opus 5.5 donald&apos;s prompt, Midjourney, and a moodboard 12 hours later, woke up to this:
 
 🔗 [View original post](https://x.com/elonmusk/status/2104135091417215376)
+
+---
+
+### 🕐 06:29 UTC · @elonmusk
+
+> claude opus 5.5 just one-shot a music video on how to optimize CUDA kernels Media
+
+🔗 [View original post](https://x.com/elliotarledge/status/2104096029847277687)
 
 ---
 
