@@ -2,7 +2,31 @@
 
 ## 📅 September 27, 2026
 
-> 5 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 14:42 UTC · @elonmusk
+
+> 10 years ago today, @elonmusk announced his Mars plans in the form of the Interplanetary Transportation System, now known as Starship at the 2016 IAC in Guadalajara, Mexico. This was when he used the underpants gnome meme and I’ve always wondered if back then he already knew Starlink would be the key to SpaceX’s future followed by AI prospects, or was it still just rocket launch services that thought would be the money maker. PS: I was there and it was the first time I asked Elon anything at a press conference. I remember being pretty nervous. I never imagined I’d hold multi-hour conversations about rockets just a few years later. Media
+
+🔗 [View original post](https://x.com/Erdayastronaut/status/2104220100488282150)
+
+---
+
+### 🕐 14:38 UTC · @elonmusk
+
+> SpaceX&apos;s CFO says Starlink demand is unprecedented. The interesting part is who&apos;s driving it! Larry Goldberg @TeslaLarry breaks down the Goldman conference interview. Bret Johnsen reiterated a coming $100M revenue run rate and pinned the demand on AI! Think about it. People use data in bursts. Robots, robotaxis, and AI agents use it nonstop, and they need coverage everywhere. Starship is what makes it scale. Bigger payloads mean direct-to-cell, and satellites with extra solar and radiators could handle orbital compute. Throw in reported Nvidia chips and Starlink starts looking less like a pipe and more like a compute layer! For cars, that means Grok that never loses signal. $SPCX Media
+
+🔗 [View original post](https://x.com/herbertong/status/2104219006274253192)
+
+---
+
+### 🕐 14:28 UTC · @elonmusk
+
+> I gave Opus 5.5 one of my french theory analysis that got 80 million views and simply asked it to turn it into a video. This is what it came up with. 🤯🤯🤯 A lot of new stuff to illustrate, this is amazing. Media Je veux présenter mes excuses, au nom des Français, pour avoir enfanté la French Theory (qui a enfanté la pire des merdes idéologiques : le wokisme). Nous avons donné au monde Descartes, Pascal, Tocqueville. Et puis, dans les ruines intellectuelles de l&apos;après-68, nous avons donné…
+
+🔗 [View original post](https://x.com/brivael/status/2104216601864106226)
 
 ---
 

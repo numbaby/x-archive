@@ -2,7 +2,31 @@
 
 ## 📅 September 27, 2026
 
-> 10 post(s) archived.
+> 13 post(s) archived.
+
+---
+
+### 🕐 17:20 UTC · @tunguz
+
+> Conspicuous consumption is mid.
+
+🔗 [View original post](https://x.com/tunguz/status/2104259961866088886)
+
+---
+
+### 🕐 17:19 UTC · @tunguz
+
+> Dario is just a smokescreen.
+
+🔗 [View original post](https://x.com/tunguz/status/2104259718516806099)
+
+---
+
+### 🕐 15:54 UTC · @tunguz
+
+> There is a difference between being clever, being smart, and being wise, but most of you are not wise enough to know it.
+
+🔗 [View original post](https://x.com/tunguz/status/2104238143319031853)
 
 ---
 

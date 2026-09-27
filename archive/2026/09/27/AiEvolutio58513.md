@@ -2,7 +2,7 @@
 
 ## 📅 September 27, 2026
 
-> 11 post(s) archived.
+> 12 post(s) archived.
 
 ---
 
@@ -53,6 +53,14 @@
 > TL;DR: 1. The reason you are doing it at all 2. The plan, written out in full detail 3. Knowing what the tool does underneath 4. Taste, because the machine has none 5. Catching what passes every test 6. Plain sense about the real world
 
 🔗 [View original post](https://x.com/AiEvolutio58513/status/2104163654082150772)
+
+---
+
+### 🕐 10:58 UTC · @AiEvolutio58513
+
+> 6. Plain sense about the world outside the screen. Karpathy&apos;s test: &quot;I want to go to a car wash to wash my car, and it&apos;s 50 m away, should I drive or should I walk?&quot; &quot;state-of-the-art models today will tell you to walk because it&apos;s so close.&quot; You cannot walk to a car wash. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2104163642187141450)
 
 ---
 
