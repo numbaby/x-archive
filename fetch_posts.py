@@ -10,7 +10,7 @@ import xml.etree.ElementTree as ET
 
 ROOT = Path(__file__).resolve().parent
 
-# Since it's 2026-09-26 00:00 UTC, we need posts since 2026-09-26 00:00:00 UTC
+# Since it's 2026-09-27 00:00 UTC, we need posts since 2026-09-27 00:00:00 UTC
 # UPDATE THIS BEFORE EACH RUN
 CUTOFF = datetime(2026, 9, 27, 0, 0, 0, tzinfo=timezone.utc)
 
