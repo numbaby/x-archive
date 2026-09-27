@@ -2,7 +2,15 @@
 
 ## 📅 September 27, 2026
 
-> 13 post(s) archived.
+> 14 post(s) archived.
+
+---
+
+### 🕐 18:32 UTC · @tunguz
+
+> All right, I give up, ASI needs to take over. Papi Steak at Fontainebleau $1000 Beef Case features a 55oz MS9 pure blood Australian Wagyu Tomahawk with the most insane presentation ever. What do you think?
+
+🔗 [View original post](https://x.com/tunguz/status/2104277933468828067)
 
 ---
 

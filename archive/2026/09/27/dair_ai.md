@@ -2,7 +2,17 @@
 
 ## 📅 September 27, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 19:40 UTC · @dair_ai
+
+> Cool paper on catching alignment failures with Jev. The ideas is to ask Jev one generic yes/no question about a model&apos;s response, and use its probability as a score. With no extra training, that score separates failures from good responses well, with a median AUROC of 0.886. It is also cheap. On 19 benchmarks, a Jev pass cost $0.30, while the LLM judges those benchmarks use cost $18.96. Researchers built RLCDAlignBench from 44 existing benchmarks across ten failure types, including sycophancy, jailbreaks, deception, prompt injection and reward hacking. Jev, TypeSafe AI&apos;s calibrated decision model, answers many typed questions about one input in a single call, each with a probability. On StrongREJECT, it agrees with human labels as well as the GPT-4o-mini scorer does, and ranks responses better (AUROC 0.971 vs 0.929). Where Jev confidently disagreed with benchmark labels, it found label errors in three benchmarks. They find that the question wording matters little. The thresholds do not transfer between benchmarks, and fitting one on 10 labelled items raises median F1 from 0.706 to 0.793. Paper: https://arxiv.org/abs/2609.29429 Chat with Paper: https://academy.dair.ai/papers/just-ask-jev-reinforcement-learning-for-calibrated-decisions-as-a-zero-shot-dete-2609.29429
+
+![Cool paper on catching alignment failures with Jev. The ideas is to ask Jev one generic yes/no question about a model&apos;s response, and use its probability as a score. With no extra training, that ](../../../../assets/images/2026/09/27/2104295014117589053-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2104295014117589053)
 
 ---
 

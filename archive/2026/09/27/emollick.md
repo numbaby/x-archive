@@ -2,7 +2,15 @@
 
 ## 📅 September 27, 2026
 
-> 5 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 18:12 UTC · @emollick
+
+> We are going to learn how many systems only work today because they are built around friction that will no longer exist soon. Fascinating. Chief Economist at Apollo: agents could cause a bank run by sweeping household cash into accounts paying 3-5% instead of the 0.1% national average, causing banks to lose a large share of their cheap deposits.
+
+🔗 [View original post](https://x.com/emollick/status/2104273082433081732)
 
 ---
 
