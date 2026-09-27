@@ -117475,6 +117475,20 @@
     "fingerprint": "ff5f9b1b73d6aaf11dee922d2754b173c86a52b4f32ec3138ff129a0330fc729",
     "media": []
   },
+  "2104163468148703517": {
+    "account": "AiEvolutio58513",
+    "date": "2026-09-27",
+    "file": "data/posts/2026/09/2026-09-27.jsonl",
+    "fingerprint": "c3ab5fb4def7435e2443f45c63a0ef531f5b51ff0293782d233d5bbd093f594f",
+    "media": []
+  },
+  "2104163510678929624": {
+    "account": "AiEvolutio58513",
+    "date": "2026-09-27",
+    "file": "data/posts/2026/09/2026-09-27.jsonl",
+    "fingerprint": "de488f1eba210e6ff829536e394d979ff179efeb1c264ecaec8f31908ed81b70",
+    "media": []
+  },
   "2104163654082150772": {
     "account": "AiEvolutio58513",
     "date": "2026-09-27",
@@ -117487,6 +117501,95 @@
     "date": "2026-09-27",
     "file": "data/posts/2026/09/2026-09-27.jsonl",
     "fingerprint": "492b0447ada30b2ee07e885ec9063c116993d32a58c96c9139f080f342bae5b5",
+    "media": []
+  },
+  "2104188745771880840": {
+    "account": "tunguz",
+    "date": "2026-09-27",
+    "file": "data/posts/2026/09/2026-09-27.jsonl",
+    "fingerprint": "af5971a0c354ed2d7888b5251dec747e741bf0250c58dad4d6a8bf3398375c69",
+    "media": []
+  },
+  "2104193594668257639": {
+    "account": "AiEvolutio58513",
+    "date": "2026-09-27",
+    "file": "data/posts/2026/09/2026-09-27.jsonl",
+    "fingerprint": "891b5776284c0841b66caf5dd9608c12fd1040cb54caaf3a128d279f420f3deb",
+    "media": [
+      {
+        "local_path": "assets/images/2026/09/27/2104193594668257639-1.jpg",
+        "sha256": "55afd448aaa3a028e7c0966e440079b6473d4c203c250d7f5cd7e6ec66df55bd",
+        "source_url": "https://pbs.twimg.com/media/HTOY7G7aQAAMKNd.jpg?name=orig"
+      }
+    ]
+  },
+  "2104193663664333006": {
+    "account": "Letstalk246",
+    "date": "2026-09-27",
+    "file": "data/posts/2026/09/2026-09-27.jsonl",
+    "fingerprint": "495e37b0cb67302cd01e06988b80b4247a97196038cb22b2edaa5ec4c5cdec50",
+    "media": [
+      {
+        "local_path": "assets/images/2026/09/27/2104193663664333006-1.jpg",
+        "sha256": "c24bfca7563680152f64bfe55c95642fe4ec58cdf9586824c19008f3bccd86e7",
+        "source_url": "https://pbs.twimg.com/media/HTOY-jrXwAALgLD.jpg?name=orig"
+      }
+    ]
+  },
+  "2104202140176777525": {
+    "account": "tunguz",
+    "date": "2026-09-27",
+    "file": "data/posts/2026/09/2026-09-27.jsonl",
+    "fingerprint": "ded8eb056a093825921e86b2201381752e59e0b30e795a38f55f80950916a220",
+    "media": []
+  },
+  "2104202844832411802": {
+    "account": "tunguz",
+    "date": "2026-09-27",
+    "file": "data/posts/2026/09/2026-09-27.jsonl",
+    "fingerprint": "2bbe304025559e233dc1a1030257704a6465b32e920a2ec77835503e09126c69",
+    "media": []
+  },
+  "2104203324522389564": {
+    "account": "tunguz",
+    "date": "2026-09-27",
+    "file": "data/posts/2026/09/2026-09-27.jsonl",
+    "fingerprint": "130aef8bb30476a5dd7cae7b757be47158d937217682700c68b85cb4f5840c69",
+    "media": []
+  },
+  "2104208263961063619": {
+    "account": "tunguz",
+    "date": "2026-09-27",
+    "file": "data/posts/2026/09/2026-09-27.jsonl",
+    "fingerprint": "6b7f9c23ce433001b09e9bc847582dca1eb17e67dd8c34477f1a962503fbdac6",
+    "media": []
+  },
+  "2104210225154888139": {
+    "account": "AiEvolutio58513",
+    "date": "2026-09-27",
+    "file": "data/posts/2026/09/2026-09-27.jsonl",
+    "fingerprint": "b20e3781fbc6ee0e43b37fb818ced9cfdd32a1deaf1b3024e6b26bfdc81fad61",
+    "media": []
+  },
+  "2104210406189502553": {
+    "account": "AiEvolutio58513",
+    "date": "2026-09-27",
+    "file": "data/posts/2026/09/2026-09-27.jsonl",
+    "fingerprint": "203444fb25f34a6a431e5f70b8f2c74d88c61ad16ac8de49e085307e8e6e3387",
+    "media": []
+  },
+  "2104210418059350429": {
+    "account": "AiEvolutio58513",
+    "date": "2026-09-27",
+    "file": "data/posts/2026/09/2026-09-27.jsonl",
+    "fingerprint": "69cfa1355bc7af5e9d702dfad236ea08762ad4591680fd6080feef360c928275",
+    "media": []
+  },
+  "2104216922917380518": {
+    "account": "tunguz",
+    "date": "2026-09-27",
+    "file": "data/posts/2026/09/2026-09-27.jsonl",
+    "fingerprint": "676d87bc469415e53805354d616611e71350a4ce99540a5851579ca03203eb70",
     "media": []
   }
 }

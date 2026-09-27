@@ -2,7 +2,55 @@
 
 ## 📅 September 27, 2026
 
-> 3 post(s) archived.
+> 9 post(s) archived.
+
+---
+
+### 🕐 14:29 UTC · @tunguz
+
+> I’m almost done with my low-level summer brain activities. Getting ready for explosive hyperproductive Autumn. Brain connectivity is highest in the fall and lowest in the summer
+
+🔗 [View original post](https://x.com/tunguz/status/2104216922917380518)
+
+---
+
+### 🕐 13:55 UTC · @tunguz
+
+> Contrary to what you might hear from the headlines, there are areas of mathematics that have been using computers for proofs *for decades*. One of my best friends is an algebraist who has been doing it for a really long time. He has not lost his job, nor has he ever feared for his career as a mathematician. Do with this info what you want.
+
+🔗 [View original post](https://x.com/tunguz/status/2104208263961063619)
+
+---
+
+### 🕐 13:35 UTC · @tunguz
+
+> This is indeed an impressive feat, but at the danger of sounding extremely repetitive, supersymmetry has *NOTHING* to do with Physics. New on the Science Blog: Yes, Claude can do Nine Loops. Theoretical physicists predict how particles behave using formulas called scattering amplitudes. These are notoriously hard to compute, so researchers work with layers of increasingly fine corrections called “loops”—each add…
+
+🔗 [View original post](https://x.com/tunguz/status/2104203324522389564)
+
+---
+
+### 🕐 13:33 UTC · @tunguz
+
+> We’ll finally find out that nature doesn’t use backprop at all. Incredible breakthrough from MIT! 🧠⚡️ Researchers have invented a high-speed microscope capable of tracking electrical activity across an entire brain (in zebrafish) at millisecond-scale resolution. This game-changing tech could finally reveal how neural networks work together t…
+
+🔗 [View original post](https://x.com/tunguz/status/2104202844832411802)
+
+---
+
+### 🕐 13:30 UTC · @tunguz
+
+> You should fix your sleep if you care about your brain’s performance. https://x.com/ntfabiano/status/2104199195758342363
+
+🔗 [View original post](https://x.com/tunguz/status/2104202140176777525)
+
+---
+
+### 🕐 12:37 UTC · @tunguz
+
+> I agree. Inability to handle conflicts and differences has become too widespread in the US. Fewer siblings, fewer neighbors to interact with, ability to retreat into our own little online worlds, have all made it too easy to just cut people out without the need to resolve any differences. I&apos;m so over the media and experts declaring a crisis and epidemic for every social trend but the complete inability to handle conflict resolution across every demographic and segment is concerning
+
+🔗 [View original post](https://x.com/tunguz/status/2104188745771880840)
 
 ---
 
