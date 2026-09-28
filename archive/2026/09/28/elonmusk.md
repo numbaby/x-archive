@@ -2,7 +2,69 @@
 
 ## 📅 September 28, 2026
 
-> 17 post(s) archived.
+> 30 post(s) archived.
+
+---
+
+### 🕐 19:30 UTC · @elonmusk
+
+> Liftoff of Starship&apos;s first orbital flight
+
+![Liftoff of Starship&apos;s first orbital flight](../../../../assets/images/2026/09/28/2104654998034690329-1.jpg)
+
+🔗 [View original post](https://x.com/SpaceX/status/2104654998034690329)
+
+---
+
+### 🕐 19:24 UTC · @elonmusk
+
+> Starship achieved orbit on its first attempt and successfully delivered Starlink V3 satellites to space for the first time → https://spacex.com/launches/starship-flight-14 Media
+
+🔗 [View original post](https://x.com/SpaceX/status/2104653511883628569)
+
+---
+
+### 🕐 18:40 UTC · @elonmusk
+
+> SpaceX is building massive infrastructure for the future We are building the infrastructure of the future, from supercomputers to Terafab to Gigasat to a new Starbase in Louisiana
+
+🔗 [View original post](https://x.com/elonmusk/status/2104642361645003002)
+
+---
+
+### 🕐 18:33 UTC · @elonmusk
+
+> Starship landing Splashdown confirmed. Congratulations to the entire SpaceX team on the first orbital flight of Starship!
+
+🔗 [View original post](https://x.com/elonmusk/status/2104640740399976477)
+
+---
+
+### 🕐 16:45 UTC · @elonmusk
+
+> There are only two launches in history that put more payload mass in orbit than Starship Flight 14. And that’s with only 26 Starlink satellites. Future launches will carry up to 60.
+
+![There are only two launches in history that put more payload mass in orbit than Starship Flight 14. And that’s with only 26 Starlink satellites. Future launches will carry up to 60.](../../../../assets/images/2026/09/28/2104613497426301233-1.jpg)
+
+🔗 [View original post](https://x.com/ApoStructura/status/2104613497426301233)
+
+---
+
+### 🕐 15:39 UTC · @elonmusk
+
+> I set a camera really close to the launch pad to get this shot. It was a sound activated trigger since it wasn’t safe for me to stand here. That’s all 33 Raptor engines performing nominally as Starship heads to orbit for the first time.
+
+![I set a camera really close to the launch pad to get this shot. It was a sound activated trigger since it wasn’t safe for me to stand here. That’s all 33 Raptor engines performing nominally as Starshi](../../../../assets/images/2026/09/28/2104596891300253831-1.jpg)
+
+🔗 [View original post](https://x.com/AJamesMcCarthy/status/2104596891300253831)
+
+---
+
+### 🕐 14:09 UTC · @elonmusk
+
+> Congrats @SpaceX! Gorgeous launch, getting Ship to orbit and managing every step in a safe, responsible, and especially inspirational way. @NASA, along with the rest of the interested public, is excited to help where we can and for Starship missions to become routine! Starship performs its orbital insertion burn and enters orbit of Earth for the first time
+
+🔗 [View original post](https://x.com/NASAAdmin/status/2104574149800726532)
 
 ---
 
@@ -22,6 +84,38 @@
 
 ---
 
+### 🕐 13:28 UTC · @elonmusk
+
+> SpaceX&apos;s Starship rocket has successfully reached orbit and deployed its V3 Starlink satellites into orbit for the first time, officially making this Starship&apos;s first revenue-generating flight, a major milestone for the company! Congrats @SpaceX team! Incredible achievement 🚀 Media
+
+🔗 [View original post](https://x.com/SawyerMerritt/status/2104563930752319513)
+
+---
+
+### 🕐 13:25 UTC · @elonmusk
+
+> Today’s Starlink payload will add up to 26 Terabits of capacity to the constellation. Starship has begun deploying its payload of 26 @Starlink V3 satellites. This deployment sequence will take ~30 minutes
+
+🔗 [View original post](https://x.com/Starlink/status/2104563241334747537)
+
+---
+
+### 🕐 13:15 UTC · @elonmusk
+
+> Starship performs its orbital insertion burn and enters orbit of Earth for the first time Media
+
+🔗 [View original post](https://x.com/SpaceX/status/2104560708969259344)
+
+---
+
+### 🕐 12:56 UTC · @elonmusk
+
+> Super Heavy has splashed down in the Gulf of America! Media
+
+🔗 [View original post](https://x.com/SpaceX/status/2104555957569077633)
+
+---
+
 ### 🕐 12:53 UTC · @elonmusk
 
 > Starship’s Raptor engines ignite during hot-staging separation. Super Heavy boosted back towards its splashdown site in the Gulf of America Media
@@ -35,6 +129,14 @@
 > Liftoff of Starship! Media
 
 🔗 [View original post](https://x.com/SpaceX/status/2104554235924815900)
+
+---
+
+### 🕐 12:32 UTC · @elonmusk
+
+> Our approach to Starship’s first orbital mission Media
+
+🔗 [View original post](https://x.com/SpaceX/status/2104549692914950442)
 
 ---
 
@@ -61,6 +163,16 @@
 ![WE&apos;RE LIVE to watch the FIRST ORBITAL STARSHIP!!! LET&apos;S GO!!! https://youtube.com/live/LeKY53pwArw?feature=share](../../../../assets/images/2026/09/28/2104544004473856339-1.jpg)
 
 🔗 [View original post](https://x.com/Erdayastronaut/status/2104544004473856339)
+
+---
+
+### 🕐 10:34 UTC · @elonmusk
+
+> Researchers proved AI has deleted every reason universities exist. Harvard University ran a controlled experiment pitting a custom AI against their own top-tier classrooms. And the results are going to collapse the higher education bubble. They took 194 undergraduates and split them up. One group learned physics in one of Harvard’s best hands-on, active-learning physical classrooms. Group work. Instructor support. The premium university experience. The other group went home and learned the exact same material with an AI tutor. The AI didn&apos;t just win. It embarrassed the institution. Students using the AI learned more than twice as much as the students in the elite Harvard classroom. They scored 30% higher on the final assessment. And they did it in less time. Let that sink in. A piece of software sitting on a laptop outperformed a world-class faculty in one of the most elite learning environments on Earth. Universities have always justified their exorbitant tuition with two things: access to elite knowledge and the physical classroom experience. This study just proved both of those moats are gone. When software can teach you complex physics twice as well as a $60,000-a-year institution, the math of higher education breaks permanently. The AI didn&apos;t just give the students answers. It used strict pedagogical guardrails. It guided. It questioned. It forced the students to do the cognitive work. It offered perfect, one-to-one tutoring, personalized to the exact moment a student misunderstood a concept. That level of attention is mathematically impossible to scale in a physical lecture hall. For a thousand years, the university was the only place to get a premium education. Now, it’s the bottleneck. If AI can double your learning speed for a fraction of the cost, what exactly are students taking on decades of debt to pay for?
+
+![Researchers proved AI has deleted every reason universities exist. Harvard University ran a controlled experiment pitting a custom AI against their own top-tier classrooms. And the results are going t](../../../../assets/images/2026/09/28/2104519992532496810-1.jpg)
+
+🔗 [View original post](https://x.com/thesupermannx/status/2104519992532496810)
 
 ---
 

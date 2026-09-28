@@ -2,7 +2,15 @@
 
 ## 📅 September 28, 2026
 
-> 7 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 18:02 UTC · @emollick
+
+> It is also why non-coders can often accomplish unexpected things with AI: people have different limits than software, and old mental models can get in the way. Still one of the best ways to think about AI that I&apos;ve read from @emollick
+
+🔗 [View original post](https://x.com/emollick/status/2104632980635259336)
 
 ---
 

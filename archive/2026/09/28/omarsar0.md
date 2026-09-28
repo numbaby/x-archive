@@ -2,7 +2,25 @@
 
 ## 📅 September 28, 2026
 
-> 3 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 17:23 UTC · @omarsar0
+
+> This is what the future of coding looks like. Multiple AI models working in the same Codex session, with Jev routing them to tackle different parts of the task. Here, I had it build a full-stack demo app: &gt; Opus 5.5 planned it. &gt; GPT-6 Astra built the backend. &gt; Kimi K3 built the frontend. &gt; DeepSeek handled testing. &gt; GLM 5.3 Flash wrote the docs. Jev handles the switching. I never touched the model picker. 40% cheaper, 15% faster for the same build. Media This is JevRouter. 99% of Opus 5.5 and GPT-6 Astra&apos;s intelligence, for 40% of the cost. Hundreds of Jevs read your ENTIRE request and analyze every single benchmark across all models to match you with the perfect model. Enjoy 30% off all frontier models
+
+🔗 [View original post](https://x.com/omarsar0/status/2104623036133417456)
+
+---
+
+### 🕐 16:19 UTC · @omarsar0
+
+> Try Base Code here: https://base44.com/base-code
+
+![Try Base Code here: https://base44.com/base-code](../../../../assets/images/2026/09/28/2104606987275370775-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2104606987275370775)
 
 ---
 
