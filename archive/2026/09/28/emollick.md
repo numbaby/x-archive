@@ -2,7 +2,17 @@
 
 ## 📅 September 28, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 11:39 UTC · @emollick
+
+> Still no evidence of AI-driven unemployment among recent college grads, new @nberpubs paper says. &quot;Taking an agnostic approach to defining treatment timing, we find that unemployment rates did not spike in summer 2026 relative to summer months in previous years and did not rise in a significant way relative to older college graduates or young workers without a college degree. We also provide the first analysis of an expanded definition of unemployment that includes those who report &apos;wanting a job&apos; which adds nearly two percentage points to the unemployment rate of recent college graduates but we find no evidence of a statistically significant increase in summer 2026 even after adding these &apos;sidelined unemployed.&apos;&quot; https://www.nber.org/papers/w35796
+
+![Still no evidence of AI-driven unemployment among recent college grads, new @nberpubs paper says. &quot;Taking an agnostic approach to defining treatment timing, we find that unemployment rates did no](../../../../assets/images/2026/09/28/2104536553519206718-1.jpg)
+
+🔗 [View original post](https://x.com/CharlesFLehman/status/2104536553519206718)
 
 ---
 

@@ -2,7 +2,15 @@
 
 ## 📅 September 28, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 13:02 UTC · @AiEvolutio58513
+
+> Elon Musk explains why he thinks space will be the cheapest place to run AI within three years. &quot;The availability of energy is the issue. Everywhere outside of China, electrical output is more or less flat. The output of chips is growing exponentially, but the output of electricity is flat&quot; &quot;How are you going to turn the chips on? Magical power sources? Magical electricity fairies?&quot; &quot;Space is really a regulatory play. It&apos;s harder to build on land than it is in space. It&apos;s harder to scale on the ground than it is to scale in space&quot; &quot;It&apos;s always sunny in space. You don&apos;t have a day-night cycle, seasonality, clouds, or an atmosphere. The atmosphere alone results in about a 30% loss of energy&quot; &quot;Any given solar panel can do about five times more power in space than on the ground. You also avoid the cost of having batteries to carry you through the night&quot; &quot;My prediction is that it will be by far the cheapest place to put AI. It will be space in 36 months or less. Maybe 30 months&quot; &quot;The only place you can really scale is space. Once you start thinking in terms of what percentage of the Sun&apos;s power you are harnessing, you realize you have to go to space&quot; &quot;Solar cells are already farcically cheap. In China they&apos;re around 25-30 cents a watt. Now put them in space, and it&apos;s not five times cheaper, it&apos;s 10 times cheaper because you don&apos;t need any batteries&quot; &quot;The moment your cost of access to space becomes low, by far the cheapest and most scalable way to generate tokens is space. It&apos;s not even close&quot; &quot;Those who have lived in software land don&apos;t realize they&apos;re about to have a hard lesson in hardware. It&apos;s actually very difficult to build power plants&quot; Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2104557332483194971)
 
 ---
 
