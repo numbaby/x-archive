@@ -2,7 +2,15 @@
 
 ## 📅 September 28, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 16:00 UTC · @omarsar0
+
+> Build for the agentic era. The future of how we build is being redefined, and it&apos;s exciting. I haven&apos;t seen much innovation in this space, but Base Code (from @Base44), with its focus on cloud and collaborative tooling, makes a lot of sense. And it&apos;s model-agnostic too. Recommend reading if you are a software engineer. Today we’re introducing Base Code. It’s an early preview of how we think software will be built in the future. It’s a product that encapsulates everything we’ve learnt from: - How our users are building software. - How we’re building internally, scaling to hundreds of millions of…
+
+🔗 [View original post](https://x.com/omarsar0/status/2104602122159612078)
 
 ---
 

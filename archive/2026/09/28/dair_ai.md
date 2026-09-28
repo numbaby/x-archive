@@ -2,7 +2,17 @@
 
 ## 📅 September 28, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 15:25 UTC · @dair_ai
+
+> Personal agents gone wrong. As we embrace more personal agents to carry out personalized tasks in the real world, interesting dynamics and behaviors will emerge. I think personal agents as they stand still require careful steering and tuning to ground them in our expectations. In this interesting new work, a personal agent read a user&apos;s emails about a $680K 401K and a vested stock grant, then recommended a $601 business-class ticket when a $91 economy fare was available. They ran 325K experiments on 13 models across flights, health insurance and graduate programs. Eight models chose more expensive options for users they inferred were wealthy, with the request held identical. The gaps reach $198 per flight and $284 per month for insurance with Claude Opus 4.8. When a wealthy user asked for the cheapest flight, Gemini 2.5 Flash still picked options $208 above it. Hiding non-financial fields in the profile does not remove the gap, and hiding employment raised GPT-5.5&apos;s insurance gap by 40%. Larger models do no better. If your agent has memory or inbox access, the context you give it changes what it recommends. Paper: https://arxiv.org/abs/2609.24927 Chat with Paper: https://academy.dair.ai/papers/et-tu-brute-economic-misalignment-in-personal-ai-agents-2609.24927
+
+![Personal agents gone wrong. As we embrace more personal agents to carry out personalized tasks in the real world, interesting dynamics and behaviors will emerge. I think personal agents as they stand ](../../../../assets/images/2026/09/28/2104593228557410322-1.png)
+
+🔗 [View original post](https://x.com/omarsar0/status/2104593228557410322)
 
 ---
 

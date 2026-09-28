@@ -2,7 +2,15 @@
 
 ## 📅 September 28, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 15:35 UTC · @AiEvolutio58513
+
+> We put Eleven v4 on our site samples and stopped apologizing during the demo. I think the voice add-on converts a lot better with this. Introducing Eleven v4 and Eleven v4 Turbo, our fastest and most emotive voice models yet. Ranked #1 by Artificial Analysis.
+
+🔗 [View original post](https://x.com/ecomchasedimond/status/2104595883321176417)
 
 ---
 

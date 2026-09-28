@@ -117967,6 +117967,19 @@
     "fingerprint": "e3ff6d96cbfb4ba5a9f1225b13ce0875f55db45d16a1cde313a6db0cdcbe268d",
     "media": []
   },
+  "2104414434860916929": {
+    "account": "emollick",
+    "date": "2026-09-28",
+    "file": "data/posts/2026/09/2026-09-28.jsonl",
+    "fingerprint": "342e675608f778a6c03e82e0db98d34b5f8669557d3b2851d505a891ce16e33e",
+    "media": [
+      {
+        "local_path": "assets/images/2026/09/28/2104414434860916929-1.jpg",
+        "sha256": "d545e623ce7cc9451c43b16ca98b172799d1b32303a4ad911537afb6e12695e9",
+        "source_url": "https://pbs.twimg.com/media/HTRhxolW0AAUlPA.jpg?name=orig"
+      }
+    ]
+  },
   "2104415669123174553": {
     "account": "emollick",
     "date": "2026-09-28",
@@ -118141,6 +118154,40 @@
     "date": "2026-09-28",
     "file": "data/posts/2026/09/2026-09-28.jsonl",
     "fingerprint": "aa97d40f9cf81f565d9d17e238866dd0449e332e4a40872d5bb3d5c50dd1477f",
+    "media": []
+  },
+  "2104593228557410322": {
+    "account": "dair_ai",
+    "date": "2026-09-28",
+    "file": "data/posts/2026/09/2026-09-28.jsonl",
+    "fingerprint": "31deb4813957256fa3eb48f47a1d66333091793a51bef1c38cfd76b74d2061d5",
+    "media": [
+      {
+        "local_path": "assets/images/2026/09/28/2104593228557410322-1.png",
+        "sha256": "52dd64c2e99c59bc73cead8a86d62085976fcd1d4f2186e9c64358b86ac3ddfe",
+        "source_url": "https://pbs.twimg.com/media/HTUEY0iaQAAy35N.png?name=orig"
+      }
+    ]
+  },
+  "2104595883321176417": {
+    "account": "AiEvolutio58513",
+    "date": "2026-09-28",
+    "file": "data/posts/2026/09/2026-09-28.jsonl",
+    "fingerprint": "f753f5a478162baa26f42abd10fb91f450129650a9b6936e22cf9133c23dcf48",
+    "media": []
+  },
+  "2104599209995645069": {
+    "account": "emollick",
+    "date": "2026-09-28",
+    "file": "data/posts/2026/09/2026-09-28.jsonl",
+    "fingerprint": "c836bf2ac8c0b7db9a8d444b8438d1a821e3175650efa476663a8794bb9e20dd",
+    "media": []
+  },
+  "2104602122159612078": {
+    "account": "omarsar0",
+    "date": "2026-09-28",
+    "file": "data/posts/2026/09/2026-09-28.jsonl",
+    "fingerprint": "9c30d490ac124ca6d209bfd3e2b0805efe263f036197e2264244facf4e72952f",
     "media": []
   }
 }

@@ -2,7 +2,15 @@
 
 ## 📅 September 28, 2026
 
-> 5 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 15:48 UTC · @emollick
+
+> Since people liked this, and the weak point was the text to speech, I asked Opus to update with an ElevenLabs voice. This is the same video, but with much better narration. Media
+
+🔗 [View original post](https://x.com/emollick/status/2104599209995645069)
 
 ---
 
@@ -31,6 +39,16 @@
 ![Sources and footnotes here: https://built-for-something-else.netlify.app/](../../../../assets/images/2026/09/28/2104415669123174553-1.jpg)
 
 🔗 [View original post](https://x.com/emollick/status/2104415669123174553)
+
+---
+
+### 🕐 03:34 UTC · @emollick
+
+> TIL in 1830 half the students at Yale were expelled because they didn&apos;t want to use new tech -- the blackboard -- for math exams
+
+![TIL in 1830 half the students at Yale were expelled because they didn&apos;t want to use new tech -- the blackboard -- for math exams](../../../../assets/images/2026/09/28/2104414434860916929-1.jpg)
+
+🔗 [View original post](https://x.com/MishaTeplitskiy/status/2104414434860916929)
 
 ---
 
