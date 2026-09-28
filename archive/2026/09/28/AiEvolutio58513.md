@@ -2,7 +2,15 @@
 
 ## 📅 September 28, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 14:00 UTC · @AiEvolutio58513
+
+> Dario Amodei runs Anthropic with just one direct report: his chief of staff. Everything else in the exec structure runs through his sister, Anthropic President Daniela Amodei, who oversees daily operations and answers to the board. By contrast, OpenAI&apos;s Sam Altman has roughly six direct reports, and Nvidia&apos;s Jensen Huang has 60 people reporting directly to him. Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2104571968146325957)
 
 ---
 

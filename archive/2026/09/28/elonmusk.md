@@ -2,7 +2,39 @@
 
 ## 📅 September 28, 2026
 
-> 13 post(s) archived.
+> 17 post(s) archived.
+
+---
+
+### 🕐 14:02 UTC · @elonmusk
+
+> All 26 Starlink V3 operational satellites deployed and operating nominally The @Starlink team has made contact with all 26 satellites
+
+🔗 [View original post](https://x.com/elonmusk/status/2104572572067099102)
+
+---
+
+### 🕐 14:01 UTC · @elonmusk
+
+> First orbital flight of Starship successful! Starship performs its orbital insertion burn and enters orbit of Earth for the first time
+
+🔗 [View original post](https://x.com/elonmusk/status/2104572192247984493)
+
+---
+
+### 🕐 12:53 UTC · @elonmusk
+
+> Starship’s Raptor engines ignite during hot-staging separation. Super Heavy boosted back towards its splashdown site in the Gulf of America Media
+
+🔗 [View original post](https://x.com/SpaceX/status/2104555009127956836)
+
+---
+
+### 🕐 12:50 UTC · @elonmusk
+
+> Liftoff of Starship! Media
+
+🔗 [View original post](https://x.com/SpaceX/status/2104554235924815900)
 
 ---
 

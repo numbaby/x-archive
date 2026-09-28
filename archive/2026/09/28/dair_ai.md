@@ -2,7 +2,15 @@
 
 ## 📅 September 28, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 14:31 UTC · @dair_ai
+
+> I just ran a paper-research agent on an open stack and had this week&apos;s top 5 papers on agent memory in my terminal in about 10 seconds. How does it work? I used Tavily to pull the last 7 days of arXiv. NVIDIA Nemotron 3 Ultra, served on Nebius Token Factory, reads and ranks them. It&apos;s 24 lines of Python on an OpenAI-compatible API. It cost me nothing to try. You can build this too! Here is how: The new Nebius AI Builder Program gives you $400+ in credits and discounts on day one, across Token Factory, Tavily, and launch partners, plus runnable blueprints and free courses built with NVIDIA. What I like most is that every layer is swappable. Change the model or the search layer, and the rest keeps working. Walkthrough in the video. Join for free here: http://devtoolsacademy.link/elv Thanks to Nebius for collaborating on this post. Media
+
+🔗 [View original post](https://x.com/omarsar0/status/2104579712760598844)
 
 ---
 
