@@ -2,7 +2,23 @@
 
 ## 📅 September 28, 2026
 
-> 6 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 02:22 UTC · @elonmusk
+
+> Upgrades WAIT A SECOND. Why is Grok bot so fast today?? 😳
+
+🔗 [View original post](https://x.com/elonmusk/status/2104396243434651759)
+
+---
+
+### 🕐 01:46 UTC · @elonmusk
+
+> with elon, people focus too much on trying to find individual bad decisions there are extremely few decisions that matter and that are irreversible, and he continues to get those right, the others he can try again whatever bitter lesson is for ai, he discovered for free markets
+
+🔗 [View original post](https://x.com/gabriel1/status/2104387199726923986)
 
 ---
 
