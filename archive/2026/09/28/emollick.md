@@ -2,7 +2,17 @@
 
 ## 📅 September 28, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 03:39 UTC · @emollick
+
+> Sources and footnotes here: https://built-for-something-else.netlify.app/
+
+![Sources and footnotes here: https://built-for-something-else.netlify.app/](../../../../assets/images/2026/09/28/2104415669123174553-1.jpg)
+
+🔗 [View original post](https://x.com/emollick/status/2104415669123174553)
 
 ---
 
