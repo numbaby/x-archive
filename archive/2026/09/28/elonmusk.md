@@ -2,7 +2,23 @@
 
 ## 📅 September 28, 2026
 
-> 4 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 01:38 UTC · @elonmusk
+
+> Bravo @JMilei! Argentina’s monthly inflation went from 25.5% in Milei’s first month to 1.7% in August 2026. As expected when government stops printing pesos to cover the deficit. Fiscal surplus first, then prices stop sprinting. The “experts” who called this “austerity theater” now have 33 mont…
+
+🔗 [View original post](https://x.com/elonmusk/status/2104385138545365067)
+
+---
+
+### 🕐 01:24 UTC · @elonmusk
+
+> True True
+
+🔗 [View original post](https://x.com/elonmusk/status/2104381674796495229)
 
 ---
 
