@@ -2,7 +2,31 @@
 
 ## 📅 September 28, 2026
 
-> 5 post(s) archived.
+> 9 post(s) archived.
+
+---
+
+### 🕐 22:54 UTC · @omarsar0
+
+> Recommended read if you are building AI products. Title doesn’t say much. There is a lot of great insights on what drives AI distribution and how to build defensibility in a super competitive AI landscape. https://x.com/i/article/2104574050257563648
+
+🔗 [View original post](https://x.com/omarsar0/status/2104706308163420452)
+
+---
+
+### 🕐 21:43 UTC · @omarsar0
+
+> On my way to DevDay right now and on a flight but I will be sharing more notes and thoughts on this direction hopefully during the week.
+
+🔗 [View original post](https://x.com/omarsar0/status/2104688425009926473)
+
+---
+
+### 🕐 19:12 UTC · @omarsar0
+
+> Calling Higgsfield “just a wrapper” tells you surprisingly little about the economics of our business. In over 40% of cases, we get to decide which model does the work for our customers. As models become more interchangeable, the ability to move demand between them becomes a moat. If you’re mapping where value accumulates in AI, follow who owns the customer relationship. I went deeper on this with @HarryStebbings on 20VC. Higgsfield is the most untold story in tech. $1BN in ARR in 18 months. Faster than everyone other than OpenAI and Anthropic. They spend $4M a month on models. They expect this to be $100K per person per month. They have 150 people working in a content machine. They will breed mor…
+
+🔗 [View original post](https://x.com/alexmashrabov/status/2104650467833680068)
 
 ---
 
@@ -29,6 +53,16 @@
 > Build for the agentic era. The future of how we build is being redefined, and it&apos;s exciting. I haven&apos;t seen much innovation in this space, but Base Code (from @Base44), with its focus on cloud and collaborative tooling, makes a lot of sense. And it&apos;s model-agnostic too. Recommend reading if you are a software engineer. Today we’re introducing Base Code. It’s an early preview of how we think software will be built in the future. It’s a product that encapsulates everything we’ve learnt from: - How our users are building software. - How we’re building internally, scaling to hundreds of millions of…
 
 🔗 [View original post](https://x.com/omarsar0/status/2104602122159612078)
+
+---
+
+### 🕐 15:42 UTC · @omarsar0
+
+> Great paper from Salesforce AI Research on RL for multi-turn tool use. The finding is that you want to train the one call where the action changes the outcome, instead of spreading reward across the whole trajectory. (bookmark it) When reward depends on later turns, much of its variation comes from what happens downstream. Critical-State RL uses nested sampling to separate the reward variation caused by the current action from that noise, then trains only the selected call with contextual-bandit updates. On BFCL v4 missing-function tasks, training the selected turn adds about 14 points. Training the other candidate turn leaves accuracy flat or lower. Paper: https://academy.dair.ai/papers/critical-state-rl-diagnosing-trainable-states-for-multi-turn-tool-use-2609.24985
+
+![Great paper from Salesforce AI Research on RL for multi-turn tool use. The finding is that you want to train the one call where the action changes the outcome, instead of spreading reward across the w](../../../../assets/images/2026/09/28/2104597506835530112-1.jpg)
+
+🔗 [View original post](https://x.com/dair_ai/status/2104597506835530112)
 
 ---
 

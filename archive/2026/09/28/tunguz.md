@@ -2,7 +2,15 @@
 
 ## 📅 September 28, 2026
 
-> 7 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 23:18 UTC · @tunguz
+
+> Oh it’s still a sigmoid, but we may not reach the flattening stage until we are past Kardashev I. i was wrong about this
+
+🔗 [View original post](https://x.com/tunguz/status/2104712456983769121)
 
 ---
 

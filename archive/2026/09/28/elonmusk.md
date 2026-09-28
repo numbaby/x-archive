@@ -2,7 +2,35 @@
 
 ## 📅 September 28, 2026
 
-> 30 post(s) archived.
+> 34 post(s) archived.
+
+---
+
+### 🕐 23:08 UTC · @elonmusk
+
+> Now @Bot works as a team! Introducing Team Bots, shared AI teammates that learn as your team works with them. Give your Team Bot the skills, plugins, and credentials it needs for its role, then work with it in Slack or Grok Bot.
+
+🔗 [View original post](https://x.com/elonmusk/status/2104709783999729911)
+
+---
+
+### 🕐 20:07 UTC · @elonmusk
+
+> very excited to share one of my favorite new features! grok @bot is now multiplayer. make a team bot which has access to your plugins, skills, credentials, and then add it to slack with one click. it&apos;s super easy! guess what i named my bot 🤪 i love chatting with it and firing off cloud agents much more to come Introducing Team Bots, shared AI teammates that learn as your team works with them. Give your Team Bot the skills, plugins, and credentials it needs for its role, then work with it in Slack or Grok Bot.
+
+![very excited to share one of my favorite new features! grok @bot is now multiplayer. make a team bot which has access to your plugins, skills, credentials, and then add it to slack with one click. it&](../../../../assets/images/2026/09/28/2104664283808428165-1.png)
+
+🔗 [View original post](https://x.com/poteto/status/2104664283808428165)
+
+---
+
+### 🕐 20:02 UTC · @elonmusk
+
+> renaissance painting Liftoff of Starship&apos;s first orbital flight
+
+![renaissance painting Liftoff of Starship&apos;s first orbital flight](../../../../assets/images/2026/09/28/2104662991534969190-1.jpg)
+
+🔗 [View original post](https://x.com/IterIntellectus/status/2104662991534969190)
 
 ---
 
@@ -21,6 +49,14 @@
 > Starship achieved orbit on its first attempt and successfully delivered Starlink V3 satellites to space for the first time → https://spacex.com/launches/starship-flight-14 Media
 
 🔗 [View original post](https://x.com/SpaceX/status/2104653511883628569)
+
+---
+
+### 🕐 18:55 UTC · @elonmusk
+
+> in case you missed it over the weekend, grok @bot can help with your finances! combined with the other connectors available in grok bot you can build custom dashboards for your business, budgeting tools for you and your family, and even find more ways to save you money try looking through all the subs you pay for and forgot about and save and make money today with grok bot! Grok Bot now connects to your finances. Link your bank, card, and investment accounts with the new Finance integration, then ask Bot to help manage your spending, investments, and more.
+
+🔗 [View original post](https://x.com/poteto/status/2104646114427457941)
 
 ---
 

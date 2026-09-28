@@ -2,7 +2,17 @@
 
 ## 📅 September 28, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 21:18 UTC · @simonw
+
+> The most important thing about Sonnet 5.5 is that it&apos;s now the model that powers the free tier on https://claude.ai - so all of this stuff can be done by free users ChatGPT&apos;s free tier is still GPT-5.6 Luna, which is a lot less capable A thread of early experiments with Claude Sonnet 5.5. A fall foliage simulator by @_re_pete, made with Sonnet 5 vs Sonnet 5.5.
+
+![The most important thing about Sonnet 5.5 is that it&apos;s now the model that powers the free tier on https://claude.ai - so all of this stuff can be done by free users ChatGPT&apos;s free tier is st](../../../../assets/images/2026/09/23/2102854267782705648-1.png)
+
+🔗 [View original post](https://x.com/simonw/status/2104682232522944909)
 
 ---
 

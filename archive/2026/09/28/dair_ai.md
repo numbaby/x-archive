@@ -2,7 +2,15 @@
 
 ## 📅 September 28, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 21:40 UTC · @dair_ai
+
+> Lots of JevRAG variants showing up. Interesting to say the least. You can’t really make any conclusions with these scoped tests but it raises discussions and exciting directions to find optimization in current RAG and agentic systems. I have been testing a JevRAG of my own for paper exploration. So far, I have had more success with Jev for reranking and some very interesting ways to search papers combining semantic search and Jev. More on that soon. Didn&apos;t expect this 🤯 We replaced embeddings with Jev in GPT Researcher&apos;s RAG pipeline and tested both on 28 research tasks from SimpleQA and open ended research. Jev beat embeddings on every quality measure we ran: - 59% more relevant context (73% vs 46%) - Reports preferred 15 …
+
+🔗 [View original post](https://x.com/omarsar0/status/2104687674351145192)
 
 ---
 
