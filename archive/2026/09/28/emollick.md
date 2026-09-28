@@ -2,7 +2,15 @@
 
 ## 📅 September 28, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 05:44 UTC · @emollick
+
+> The thing I didn&apos;t fully realize was that it means that every smart commentator in their own field (politics, culture, etc) will need to do the same catch-up on the same AI topics while posting about it. Eternal September for discussions of AI safety &amp; consciousness &amp; jobs &amp;... No matter how much you are hearing about AI, today is the least you will ever hear about AI.
+
+🔗 [View original post](https://x.com/emollick/status/2104447068731555883)
 
 ---
 

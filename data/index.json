@@ -117979,5 +117979,25 @@
     "file": "data/posts/2026/09/2026-09-28.jsonl",
     "fingerprint": "f6d5fe28235f3c99af132a8d1655bbe2a43df3055fc25ad5d1b54d7d6370cdcd",
     "media": []
+  },
+  "2104446096411885571": {
+    "account": "_akhaliq",
+    "date": "2026-09-28",
+    "file": "data/posts/2026/09/2026-09-28.jsonl",
+    "fingerprint": "ff3be7c8b6562f7ec1612a8244fe0b95b32a9090dbb3d775618adbed6cf91070",
+    "media": [
+      {
+        "local_path": "assets/images/2026/09/28/2104446096411885571-1.jpg",
+        "sha256": "38975dd27c5bb8e20352f598983aed0338c94c451b9316c2a47c400a43f884b5",
+        "source_url": "https://pbs.twimg.com/card_img/2104445870951350272/GrgNbvUz?format=jpg&name=800x419"
+      }
+    ]
+  },
+  "2104447068731555883": {
+    "account": "emollick",
+    "date": "2026-09-28",
+    "file": "data/posts/2026/09/2026-09-28.jsonl",
+    "fingerprint": "31daac2f55c86b1277df0d8d437cb87f24d78b3f9618f0cfe3f5177a46d40d8f",
+    "media": []
   }
 }
