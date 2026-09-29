@@ -2,7 +2,23 @@
 
 ## 📅 September 28, 2026
 
-> 34 post(s) archived.
+> 37 post(s) archived.
+
+---
+
+### 🕐 23:32 UTC · @elonmusk
+
+> Not bad Grok 4.7 xHigh ranks #1 in Artificial Analysis Cyber Index It&apos;s a powerful frontier model performing at the highest level in enterprise cyber defense Outperforming Fable 5.1 Max, Opus 5.5, Astra 6, GPT-6 and other leading AI systems
+
+🔗 [View original post](https://x.com/elonmusk/status/2104715842319786148)
+
+---
+
+### 🕐 23:10 UTC · @elonmusk
+
+> Grok 4.7 is now on Amazon Bedrock Media
+
+🔗 [View original post](https://x.com/SpaceXAI/status/2104710467512058027)
 
 ---
 
@@ -11,6 +27,14 @@
 > Now @Bot works as a team! Introducing Team Bots, shared AI teammates that learn as your team works with them. Give your Team Bot the skills, plugins, and credentials it needs for its role, then work with it in Slack or Grok Bot.
 
 🔗 [View original post](https://x.com/elonmusk/status/2104709783999729911)
+
+---
+
+### 🕐 22:04 UTC · @elonmusk
+
+> Starship transiting the Sun this morning during Flight 14 — prior to this morning&apos;s mission, this has never been captured before with the world&apos;s largest and most powerful rocket. I’ve ached over this shot for years, mainly for two reasons: what does methane exhaust look like silhouetted against the Sun, and how violent are the acoustic energy waves from 33 Raptor engines on the Super Heavy booster? Well...now we have an answer. 📸 - @NASASpaceflight Media
+
+🔗 [View original post](https://x.com/_MaxQ_/status/2104693750425440487)
 
 ---
 

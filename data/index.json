@@ -118311,6 +118311,19 @@
     "fingerprint": "4c16b317d0f5b879436b4a72f9844fc6f6ba2cc816f6ade37d3bedc03b2002f5",
     "media": []
   },
+  "2104610235168014576": {
+    "account": "ylecun",
+    "date": "2026-09-28",
+    "file": "data/posts/2026/09/2026-09-28.jsonl",
+    "fingerprint": "9d252ad4f6970791d6f5e4d58330c314c7386e26307861970e4816829f721a7a",
+    "media": [
+      {
+        "local_path": "assets/images/2026/09/28/2104610235168014576-1.jpg",
+        "sha256": "78b5cf009ff3e914aaf31c4985f80aee1fb655fe9a4f47f6914b3f9b27578d71",
+        "source_url": "https://pbs.twimg.com/media/HTUT2oZWYAERROv.jpg?name=orig"
+      }
+    ]
+  },
   "2104611970284748965": {
     "account": "tunguz",
     "date": "2026-09-28",
@@ -118619,6 +118632,13 @@
     "fingerprint": "498d831e8e4c580916398800f873f1d5ab4201350e7dd084984f711796bdee99",
     "media": []
   },
+  "2104693750425440487": {
+    "account": "elonmusk",
+    "date": "2026-09-28",
+    "file": "data/posts/2026/09/2026-09-28.jsonl",
+    "fingerprint": "ea850122d0a1329724a977e88eeae3ac016094a564d9d9a19759964a3e894974",
+    "media": []
+  },
   "2104706308163420452": {
     "account": "omarsar0",
     "date": "2026-09-28",
@@ -118633,11 +118653,25 @@
     "fingerprint": "b82fd68c0c634a19009ed26fa83f2e2c33977d7d6c151aa1478a3a4706a1097a",
     "media": []
   },
+  "2104710467512058027": {
+    "account": "elonmusk",
+    "date": "2026-09-28",
+    "file": "data/posts/2026/09/2026-09-28.jsonl",
+    "fingerprint": "2443d2c0147c37c55430d33893154c02648c12103f2a78ab2efc8e45e4cb6dc3",
+    "media": []
+  },
   "2104712456983769121": {
     "account": "tunguz",
     "date": "2026-09-28",
     "file": "data/posts/2026/09/2026-09-28.jsonl",
     "fingerprint": "60716ff646412953618235145c47634b76799eae65068d98a85fa770b51b042d",
+    "media": []
+  },
+  "2104715842319786148": {
+    "account": "elonmusk",
+    "date": "2026-09-28",
+    "file": "data/posts/2026/09/2026-09-28.jsonl",
+    "fingerprint": "ed7953d0a01d5b88fb17a7926b16cc91dfec06ad6763435ea00446fcd5e5cb97",
     "media": []
   }
 }
