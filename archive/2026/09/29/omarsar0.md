@@ -2,7 +2,25 @@
 
 ## 📅 September 29, 2026
 
-> 13 post(s) archived.
+> 18 post(s) archived.
+
+---
+
+### 🕐 18:52 UTC · @omarsar0
+
+> I have so much to write about this including my own research. Will take some time in the coming days to write more extensively y thoughts. Challenging to live tweet and write in details.
+
+🔗 [View original post](https://x.com/omarsar0/status/2105007740406096187)
+
+---
+
+### 🕐 18:38 UTC · @omarsar0
+
+> Agent team patter tries to improve communication among agents and allow deep exploration.
+
+![Agent team patter tries to improve communication among agents and allow deep exploration.](../../../../assets/images/2026/09/29/2105004429615493311-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2105004429615493311)
 
 ---
 
@@ -64,6 +82,14 @@
 
 ---
 
+### 🕐 17:40 UTC · @omarsar0
+
+> Introducing OpenAI’s Dots x Higgsfield. Your always-on Higgsfield creative crew keeps working while you’re away. Check in by text, call or email, and pause the work whenever you need. Powered by GPT-6.1 Sol. Media
+
+🔗 [View original post](https://x.com/higgsfield/status/2104989726604484946)
+
+---
+
 ### 🕐 17:31 UTC · @omarsar0
 
 > You can build your own dots if you need too with the Agents API.
@@ -81,6 +107,26 @@
 ![Research progress at OpenAI.](../../../../assets/images/2026/09/29/2104986857771823178-1.jpg)
 
 🔗 [View original post](https://x.com/omarsar0/status/2104986857771823178)
+
+---
+
+### 🕐 17:19 UTC · @omarsar0
+
+> Codex &lt;&gt; dots. This is where I think this product can really make a difference. So many interesting ways to use agents that we haven’t unlocked yet.
+
+![Codex &lt;&gt; dots. This is where I think this product can really make a difference. So many interesting ways to use agents that we haven’t unlocked yet.](../../../../assets/images/2026/09/29/2104984311783113098-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2104984311783113098)
+
+---
+
+### 🕐 17:17 UTC · @omarsar0
+
+> Pluggable on Slack.
+
+![Pluggable on Slack.](../../../../assets/images/2026/09/29/2104983934740373526-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2104983934740373526)
 
 ---
 

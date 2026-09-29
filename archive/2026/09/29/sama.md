@@ -2,7 +2,7 @@
 
 ## 📅 September 29, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
 
 ---
 
@@ -29,6 +29,14 @@
 > 6.1 Sol at 1/5th of the price of Astra, and 95% cache read discount! Extremely capable model. Introducing 6.1 Sol, near Astra intelligence at one fifth of the price of Astra and 95% cache read discount. It is an absolute workhorse. Combined with ultrafast for 8X speeded available today for Astra and coming soon for 6.1 Sol.
 
 🔗 [View original post](https://x.com/sama/status/2104994395980533804)
+
+---
+
+### 🕐 17:55 UTC · @sama
+
+> Over the past 5 weeks, the team completely rewrote ChatGPT Web on top of the desktop app codebase. This was only possible with Astra, and it’s why Dots, Space, Codex Cloud, and so many more of our launches will come to web and desktop same day. Era of the megaproject begins.
+
+🔗 [View original post](https://x.com/ajambrosino/status/2104993363170861501)
 
 ---
 
