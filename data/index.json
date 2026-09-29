@@ -118700,6 +118700,13 @@
       }
     ]
   },
+  "2104745477761913009": {
+    "account": "swyx",
+    "date": "2026-09-29",
+    "file": "data/posts/2026/09/2026-09-29.jsonl",
+    "fingerprint": "20f147c99e897b139c6ad4c14876b3446b7208740a245fbf87914fadfc56dbb3",
+    "media": []
+  },
   "2104746239061586055": {
     "account": "omarsar0",
     "date": "2026-09-29",
@@ -118718,6 +118725,13 @@
     "date": "2026-09-29",
     "file": "data/posts/2026/09/2026-09-29.jsonl",
     "fingerprint": "39d5a1e5aeb7be62fa7ce63a0c7885898b4c82b3b3b2c41f38710e6fca205386",
+    "media": []
+  },
+  "2104760762090893712": {
+    "account": "tunguz",
+    "date": "2026-09-29",
+    "file": "data/posts/2026/09/2026-09-29.jsonl",
+    "fingerprint": "53a16157513802bc1162b3c8f25b316b7d884ce3e820c092194c938112d10488",
     "media": []
   }
 }
