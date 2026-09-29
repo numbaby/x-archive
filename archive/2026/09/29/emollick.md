@@ -2,7 +2,25 @@
 
 ## 📅 September 29, 2026
 
-> 3 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 16:05 UTC · @emollick
+
+> As least year&apos;s DevDay, this is what OpenAI said agents would look like. This is before OpenClaw &amp; self-organizing swarms, so this entire approach was scraped soon after: 1) AI is evolving quite quickly 2) The AI labs aren&apos;t always anticipating how fast in the products they make
+
+![As least year&apos;s DevDay, this is what OpenAI said agents would look like. This is before OpenClaw &amp; self-organizing swarms, so this entire approach was scraped soon after: 1) AI is evolving qu](../../../../assets/images/2026/09/29/2104965679971709108-1.jpg)
+
+🔗 [View original post](https://x.com/emollick/status/2104965679971709108)
+
+---
+
+### 🕐 15:59 UTC · @emollick
+
+> The impact of AI on jobs is still pretty unclear at this point. I don&apos;t find this very surprising, as employers are still figuring out individual adoption, let alone how you use AI in complex organizations. Things may start to happen faster as agents capable of real work spread. Has AI hit the labor market yet? @alexolegimas and my verdict after ~20 papers: not yet in aggregate. Unemployment and layoffs show almost nothing. But AI may already be cutting junior hiring in exposed white-collar jobs. Remote work may explain part of that decline. A 🧵
+
+🔗 [View original post](https://x.com/emollick/status/2104964210644181230)
 
 ---
 

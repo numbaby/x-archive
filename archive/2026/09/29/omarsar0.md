@@ -2,7 +2,15 @@
 
 ## 📅 September 29, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 16:16 UTC · @omarsar0
+
+> I keep saying the real upside of AI agents is giving your most technical people their time back. SeatGeek automated 50% of its IT requests in 60 days with @getserval. Its IT engineers now work inside business teams as embedded partners. Zero layoffs, and hiring this year is already ahead of all of last year. Media I was on @CNBC Squawk Box with one of our customers, @JackGretz, the CEO of @SeatGeek to talk about how they used Serval to eliminate the ticket backlog and redeploy their engineers as embedded business partners. ⚡ 50% of IT requests automated in first 60 days ⚡ 132 automations b…
+
+🔗 [View original post](https://x.com/omarsar0/status/2104968683881910573)
 
 ---
 

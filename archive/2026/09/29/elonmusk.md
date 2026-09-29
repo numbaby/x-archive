@@ -2,7 +2,23 @@
 
 ## 📅 September 29, 2026
 
-> 1 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 15:12 UTC · @elonmusk
+
+> Retail investors should be heard. And @Tesla is proud to create practical tools to empower their voice. https://www.sec.gov/rules-regulations/no-action-interpretive-exemptive-letters/division-corporation-finance-no-action/tesla-inc-092926
+
+🔗 [View original post](https://x.com/beehrhart/status/2104952344731591131)
+
+---
+
+### 🕐 03:41 UTC · @elonmusk
+
+> &quot;Everyone has ethnicity except European-descended peoples, because that would be Adolf Hitler,&quot; is not proving to be a sustainable position. It persisted as long as it did only through media gate-keeping and suppression of discussion, but the cultural reign of terror is now over.
+
+🔗 [View original post](https://x.com/xenocosmography/status/2104778683391361530)
 
 ---
 
