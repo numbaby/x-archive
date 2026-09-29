@@ -2,7 +2,27 @@
 
 ## 📅 September 29, 2026
 
-> 2 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 18:24 UTC · @swyx
+
+> for friends of @latentspacepod we are gonna be asking all your burning Dots, Sol 6.1, CUA, and Decisions API questions for @AriX and @nikunjhanda 🔜 at the gateway pavilion on a few mins, come by!
+
+![for friends of @latentspacepod we are gonna be asking all your burning Dots, Sol 6.1, CUA, and Decisions API questions for @AriX and @nikunjhanda 🔜 at the gateway pavilion on a few mins, come by!](../../../../assets/images/2026/09/29/2105000738745376769-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2105000738745376769)
+
+---
+
+### 🕐 17:20 UTC · @swyx
+
+> i have the best reply guys https://x.com/dunnwithai/status/2103676600290283614?s=46 @swyx @heavybit Here&apos;s the source for people looking for it: https://www.heavybit.com/library/article/how-to-be-a-great-panel-moderator
+
+![i have the best reply guys https://x.com/dunnwithai/status/2103676600290283614?s=46 @swyx @heavybit Here&apos;s the source for people looking for it: https://www.heavybit.com/library/article/how-to-be](../../../../assets/images/2026/09/29/2104984576703844750-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2104984576703844750)
 
 ---
 

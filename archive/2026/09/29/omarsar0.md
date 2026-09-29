@@ -2,7 +2,93 @@
 
 ## 📅 September 29, 2026
 
-> 4 post(s) archived.
+> 13 post(s) archived.
+
+---
+
+### 🕐 18:36 UTC · @omarsar0
+
+> Now let’s look at how agents can be scaled.
+
+![Now let’s look at how agents can be scaled.](../../../../assets/images/2026/09/29/2105003727644180694-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2105003727644180694)
+
+---
+
+### 🕐 18:34 UTC · @omarsar0
+
+> Keep agents on track.
+
+![Keep agents on track.](../../../../assets/images/2026/09/29/2105003408205959383-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2105003408205959383)
+
+---
+
+### 🕐 18:33 UTC · @omarsar0
+
+> Don’t over manage your agents.
+
+![Don’t over manage your agents.](../../../../assets/images/2026/09/29/2105003066307338640-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2105003066307338640)
+
+---
+
+### 🕐 18:30 UTC · @omarsar0
+
+> Agent coordinating skill. This is a nice one to test.
+
+![Agent coordinating skill. This is a nice one to test.](../../../../assets/images/2026/09/29/2105002372590407901-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2105002372590407901)
+
+---
+
+### 🕐 18:17 UTC · @omarsar0
+
+> What comes after loops? Will try to live tweet this, at least the key notes.
+
+![What comes after loops? Will try to live tweet this, at least the key notes.](../../../../assets/images/2026/09/29/2104999107131797638-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2104999107131797638)
+
+---
+
+### 🕐 18:15 UTC · @omarsar0
+
+> MCP won! I started to use Pi heavily for its customisations. This will take it to another new level of what’s possible to build with it. A pretty big change is that Pi now has MCP at the core. How is this even possible? What made us change our way? https://earendil.com/posts/you-said-no-mcp/
+
+🔗 [View original post](https://x.com/omarsar0/status/2104998601319702777)
+
+---
+
+### 🕐 17:31 UTC · @omarsar0
+
+> You can build your own dots if you need too with the Agents API.
+
+![You can build your own dots if you need too with the Agents API.](../../../../assets/images/2026/09/29/2104987398857961869-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2104987398857961869)
+
+---
+
+### 🕐 17:29 UTC · @omarsar0
+
+> Research progress at OpenAI.
+
+![Research progress at OpenAI.](../../../../assets/images/2026/09/29/2104986857771823178-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2104986857771823178)
+
+---
+
+### 🕐 16:50 UTC · @omarsar0
+
+> Once coding agents can write the whole app, deploying and running it becomes the bottleneck. InstaCloud from @insforge lets agents deploy straight to a serverless cloud that scales with traffic and down to zero when idle. Branching is great for agent workflows. An agent can copy an entire service, data included, in seconds and test changes there before touching the live app. We just raised an $8M seed round to kill AWS, GCP, and Azure. Introducing http://instacloud.com, the agent-native serverless cloud. Your team is shipping code like never before. But you&apos;re getting caught up in manual, tedious DevOps work trying to deploy it. InstaCloud provides t…
+
+🔗 [View original post](https://x.com/omarsar0/status/2104977174122156314)
 
 ---
 

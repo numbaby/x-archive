@@ -2,7 +2,17 @@
 
 ## 📅 September 29, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 17:25 UTC · @rasbt
+
+> Update: OpenAI just added a Jev clone 😆
+
+![Update: OpenAI just added a Jev clone 😆](../../../../assets/images/2026/09/29/2104985996517355691-1.jpg)
+
+🔗 [View original post](https://x.com/rasbt/status/2104985996517355691)
 
 ---
 

@@ -2,7 +2,23 @@
 
 ## 📅 September 29, 2026
 
-> 5 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 18:30 UTC · @emollick
+
+> It also has a natural analog on teams as a persistent entity with a job that you can delegate to using existing team communication tools like Slack. I expect more Clawlikes soon, though I don’t think they are the final form of this type of AI.
+
+🔗 [View original post](https://x.com/emollick/status/2105002271184687367)
+
+---
+
+### 🕐 18:23 UTC · @emollick
+
+> I only used Dots briefly before launch, so can’t offer a detailed review, but I found it to be good &amp; very much in the rapidly-expanding Clawlike category with Muse &amp; Grokbot. Using a capable model with access to your data as an assistant &amp; second opinion is remarkably useful.
+
+🔗 [View original post](https://x.com/emollick/status/2105000480569212984)
 
 ---
 
