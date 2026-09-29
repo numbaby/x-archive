@@ -2,7 +2,15 @@
 
 ## 📅 September 29, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 13:06 UTC · @emollick
+
+> In a world where cloud-based Clawlike assistants that give powerful models virtual computers are increasingly looking like the way forward for personal AI, it really does seem to suggest the choices Apple made for Siri (on-device, limited capabilities) may be the wrong direction.
+
+🔗 [View original post](https://x.com/emollick/status/2104920813111505335)
 
 ---
 
