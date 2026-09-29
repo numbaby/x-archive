@@ -2,7 +2,15 @@
 
 ## 📅 September 29, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 13:56 UTC · @AiEvolutio58513
+
+> Elon Musk talks Optimus and a possible moneyless future in his new CCTV interview: “If you think like Star Wars, where you had C-3PO and R2-D2, and they were friendly, helpful robots. Well, wouldn&apos;t it be great if everyone could have their own personal C-3PO R2-D2? But even better than that, like more productive. That could take care of elderly parents, guardian and watch over the children. Or be a teacher, like an individualized tutor to your child. And taking care of any jobs that you can think of. I think everyone would like to have a future where they can have their own personal robots. And then I think you&apos;ll see many companies where it&apos;s one person with hundreds, maybe thousands of robots. Like physical robots as well as digital robots. So the productivity of one person will be greatly amplified. And my prediction is that there will be effectively universal high income. In fact, it&apos;s not clear to me that money will even matter in the future.” Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2104933286636306657)
 
 ---
 
