@@ -2,7 +2,23 @@
 
 ## 📅 September 29, 2026
 
-> 3 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 22:22 UTC · @AiEvolutio58513
+
+> I&apos;ve built agents for two years on ElevenLabs, and v4 Turbo closes the gap between the caller finishing and the agent starting. The voice stays one character from start to finish. Eleven v4 Turbo is now available in ElevenAgents, bringing the #1 rated quality of Eleven v4 to live conversations with a median inference latency of ~100 ms. ElevenAgents can now power even more personal, empathetic customer experiences across industries.
+
+🔗 [View original post](https://x.com/ecomchasedimond/status/2105060762050068909)
+
+---
+
+### 🕐 20:51 UTC · @AiEvolutio58513
+
+> you tell it &quot;I need an email assistant&quot; and it goes and connects your gmail by itself. that&apos;s wild! https://x.com/i/article/2105018847757750272
+
+🔗 [View original post](https://x.com/ecomchasedimond/status/2105037663258726542)
 
 ---
 

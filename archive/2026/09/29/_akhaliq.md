@@ -2,7 +2,17 @@
 
 ## 📅 September 29, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 17:04 UTC · @_akhaliq
+
+> Links (3/3): 4 WorkflowEvals: https://huggingface.co/collections/typesafe/workflowevals Repo for reprodcution: https://github.com/typesafe-ai/WorkflowEvals Bonus dataset: https://huggingface.co/datasets/typesafe/evalsafe-onet Blog on anti-benchmaxxing: https://www.completeskeptic.com/p/lies-damned-lies-and-benchmarks
+
+![Links (3/3): 4 WorkflowEvals: https://huggingface.co/collections/typesafe/workflowevals Repo for reprodcution: https://github.com/typesafe-ai/WorkflowEvals Bonus dataset: https://huggingface.co/datase](../../../../assets/images/2026/09/29/2104980716673237183-1.jpg)
+
+🔗 [View original post](https://x.com/CompleteSkeptic/status/2104980716673237183)
 
 ---
 

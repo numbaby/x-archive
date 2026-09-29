@@ -2,7 +2,35 @@
 
 ## 📅 September 29, 2026
 
-> 7 post(s) archived.
+> 10 post(s) archived.
+
+---
+
+### 🕐 21:53 UTC · @emollick
+
+> https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities
+
+![https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities](../../../../assets/images/2026/09/29/2105053266899808271-1.jpg)
+
+🔗 [View original post](https://x.com/emollick/status/2105053266899808271)
+
+---
+
+### 🕐 21:49 UTC · @emollick
+
+> Leaving aside Anthropic&apos;s incentives for publishing this research, there is no doubt that open weights models will soon create the same security threats that closed source models have been demonstrating, except without guardrails. We are close. Probably good to plan accordingly.
+
+![Leaving aside Anthropic&apos;s incentives for publishing this research, there is no doubt that open weights models will soon create the same security threats that closed source models have been demons](../../../../assets/images/2026/09/29/2105052282354303358-1.jpg)
+
+🔗 [View original post](https://x.com/emollick/status/2105052282354303358)
+
+---
+
+### 🕐 21:11 UTC · @emollick
+
+> It does feel like every year OpenAI releases a variation on the same third-party ecosystem only to semi-abandon it: Plugins in 2023, GPTs and the GPT Store in 2023-2024, Apps in 2025, and now Plugins (same name, different thing than before) in 2026.
+
+🔗 [View original post](https://x.com/emollick/status/2105042717432799701)
 
 ---
 

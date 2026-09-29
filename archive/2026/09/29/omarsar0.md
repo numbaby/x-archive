@@ -2,7 +2,17 @@
 
 ## 📅 September 29, 2026
 
-> 18 post(s) archived.
+> 21 post(s) archived.
+
+---
+
+### 🕐 21:43 UTC · @omarsar0
+
+> try it here 👇 https://instacloud.com
+
+![try it here 👇 https://instacloud.com](../../../../assets/images/2026/09/29/2105050774971777173-1.png)
+
+🔗 [View original post](https://x.com/omarsar0/status/2105050774971777173)
 
 ---
 
@@ -107,6 +117,26 @@
 ![Research progress at OpenAI.](../../../../assets/images/2026/09/29/2104986857771823178-1.jpg)
 
 🔗 [View original post](https://x.com/omarsar0/status/2104986857771823178)
+
+---
+
+### 🕐 17:23 UTC · @omarsar0
+
+> Pro 500
+
+![Pro 500](../../../../assets/images/2026/09/29/2104985527242092947-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2104985527242092947)
+
+---
+
+### 🕐 17:22 UTC · @omarsar0
+
+> We also get GPT-Sol 6.1!
+
+![We also get GPT-Sol 6.1!](../../../../assets/images/2026/09/29/2104985110139548067-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2104985110139548067)
 
 ---
 

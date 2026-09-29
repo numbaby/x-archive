@@ -2,7 +2,17 @@
 
 ## 📅 September 29, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 22:09 UTC · @swyx
+
+> annual ranking of best ai podcasts just dropped hi friendsss
+
+![annual ranking of best ai podcasts just dropped hi friendsss](../../../../assets/images/2026/09/29/2105057391490498660-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2105057391490498660)
 
 ---
 

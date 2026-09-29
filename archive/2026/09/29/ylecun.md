@@ -2,7 +2,17 @@
 
 ## 📅 September 29, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 15:49 UTC · @ylecun
+
+> [1/n] Can a world model drive without training a driving policy? Introducing AD-E2E-JEPA, a JEPA-based world model for end-to-end autonomous driving. 📄: https://arxiv.org/abs/2609.34085 💻: https://github.com/HaoranZhuExplorer/AD-E2E-JEPA Joint work with @kevinghstz, Prof. @ylecun, and Prof. Anna Choromanska
+
+![[1/n] Can a world model drive without training a driving policy? Introducing AD-E2E-JEPA, a JEPA-based world model for end-to-end autonomous driving. 📄: https://arxiv.org/abs/2609.34085 💻: https://git](../../../../assets/images/2026/09/29/2104961832393855073-1.jpg)
+
+🔗 [View original post](https://x.com/2512185195Zhu/status/2104961832393855073)
 
 ---
 
