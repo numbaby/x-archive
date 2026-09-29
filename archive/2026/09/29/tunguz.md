@@ -2,7 +2,17 @@
 
 ## 📅 September 29, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 05:22 UTC · @tunguz
+
+> Grok gets me. “Please create an image of what the world would look like if I were in charge, based on my tweets. Go deep, not just the last 10 or whatever is the default. Analyze me.” Grok nailed it
+
+![Grok gets me. “Please create an image of what the world would look like if I were in charge, based on my tweets. Go deep, not just the last 10 or whatever is the default. Analyze me.” Grok nailed it](../../../../assets/images/2026/09/29/2104803910938677321-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2104803910938677321)
 
 ---
 
