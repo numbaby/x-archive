@@ -2,7 +2,25 @@
 
 ## 📅 September 30, 2026
 
-> 6 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 03:37 UTC · @elonmusk
+
+> Best way to sandbox an AI is to put it on a Delta flight – it will have no chance of accessing the Internet!
+
+🔗 [View original post](https://x.com/elonmusk/status/2105139959720014101)
+
+---
+
+### 🕐 02:25 UTC · @elonmusk
+
+> Great to meet today with @POTUS, @JDVance, @SpeakerJohnson and Administration + tech leaders. Important conversation and we signed today the White House Accord on Super Intelligence. As I shared today, Google has invested hundreds of billions in the last two years alone, with more to come, across the entire stack, to deliver benefits for America and the world. We’re working to build products that deliver real value for people and businesses, invest in local communities, and build trust in the technology. Industry also has to innovate responsibly. Google’s focused on building the right way, with appropriate testing, evaluations, red-teaming, and other safeguards against misuse and misalignment – and releasing models or products only after they’ve been thoroughly reviewed. We are committed to working with other industry leaders to establish norms and build public confidence. The White House Accord and the Joint Commitment on Frontier Responsibilities signed today is a solid basis for moving forward - it contains real tangible steps to promote safe development, while delivering the economic and scientific benefits of this technology.
+
+![Great to meet today with @POTUS, @JDVance, @SpeakerJohnson and Administration + tech leaders. Important conversation and we signed today the White House Accord on Super Intelligence. As I shared today](../../../../assets/images/2026/09/29/2105060520327786914-1.jpg)
+
+🔗 [View original post](https://x.com/sundarpichai/status/2105121763176894804)
 
 ---
 
