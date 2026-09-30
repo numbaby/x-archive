@@ -2,7 +2,17 @@
 
 ## 📅 September 30, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 07:49 UTC · @_akhaliq
+
+> SpatialClaw Rethinking Action Interface for Agentic Spatial Reasoning paper: https://huggingface.co/papers/2606.13673
+
+![SpatialClaw Rethinking Action Interface for Agentic Spatial Reasoning paper: https://huggingface.co/papers/2606.13673](../../../../assets/images/2026/09/30/2105203437680168986-1.jpg)
+
+🔗 [View original post](https://x.com/_akhaliq/status/2105203437680168986)
 
 ---
 
