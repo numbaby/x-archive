@@ -2,7 +2,17 @@
 
 ## 📅 September 30, 2026
 
-> 5 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 19:35 UTC · @AiEvolutio58513
+
+> I gave Claude and ChatGPT the same abandoned cart email prompt. One try each, no edits. Hey @grok, can you do better?
+
+![I gave Claude and ChatGPT the same abandoned cart email prompt. One try each, no edits. Hey @grok, can you do better?](../../../../assets/images/2026/09/30/2105381047185944664-1.jpg)
+
+🔗 [View original post](https://x.com/ecomchasedimond/status/2105381047185944664)
 
 ---
 

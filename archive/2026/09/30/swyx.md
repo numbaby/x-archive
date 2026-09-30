@@ -2,7 +2,17 @@
 
 ## 📅 September 30, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 22:08 UTC · @swyx
+
+> i genuinely dont do anything to optimize for apple podcasts (and actively hate spotify) so being on the top podcast list here among some industry legends and even beating @MKBHD is pretty fkin nuts
+
+![i genuinely dont do anything to optimize for apple podcasts (and actively hate spotify) so being on the top podcast list here among some industry legends and even beating @MKBHD is pretty fkin nuts](../../../../assets/images/2026/09/30/2105419486383964544-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2105419486383964544)
 
 ---
 
