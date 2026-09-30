@@ -119955,5 +119955,26 @@
     "file": "data/posts/2026/09/2026-09-30.jsonl",
     "fingerprint": "e00b8424ed56ed1cabaf53701e125ddf313290c356417017fe313164f3b6e0ce",
     "media": []
+  },
+  "2105380761495093276": {
+    "account": "_akhaliq",
+    "date": "2026-09-30",
+    "file": "data/posts/2026/09/2026-09-30.jsonl",
+    "fingerprint": "461481c460f60945e71e879d3cf2ebb3b2eba2e2c2577e6d59e2bfeecd88dd9d",
+    "media": []
+  },
+  "2105388608240677142": {
+    "account": "emollick",
+    "date": "2026-09-30",
+    "file": "data/posts/2026/09/2026-09-30.jsonl",
+    "fingerprint": "4e440ee96ee1f34d27d473cd2a61a4425732272a63cdb71b5f2dd2783f2f019b",
+    "media": []
+  },
+  "2105390624916779116": {
+    "account": "tunguz",
+    "date": "2026-09-30",
+    "file": "data/posts/2026/09/2026-09-30.jsonl",
+    "fingerprint": "b3301ccf03c82b029f0ba03b8d7dee1d930c4c9505971798ca5b3074d8138bca",
+    "media": []
   }
 }

@@ -2,7 +2,15 @@
 
 ## 📅 September 30, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 19:34 UTC · @_akhaliq
+
+> I will be at the Hugging Face Open Together event at the Midway in SF on October 16th sign up here: https://luma.com/OpenTogether Media
+
+🔗 [View original post](https://x.com/_akhaliq/status/2105380761495093276)
 
 ---
 

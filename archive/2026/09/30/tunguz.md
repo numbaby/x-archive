@@ -2,7 +2,15 @@
 
 ## 📅 September 30, 2026
 
-> 8 post(s) archived.
+> 9 post(s) archived.
+
+---
+
+### 🕐 20:13 UTC · @tunguz
+
+> 🙏🙏🙏 we&apos;re probably 6–18 months away from a world where: - obesity is basically solved - balding actually gets fixed, real hair regrowth - biological age becomes something you can push backwards - fertility stops being locked to a biological countdown clock - cancer treatment looks le…
+
+🔗 [View original post](https://x.com/tunguz/status/2105390624916779116)
 
 ---
 

@@ -2,7 +2,15 @@
 
 ## 📅 September 30, 2026
 
-> 8 post(s) archived.
+> 9 post(s) archived.
+
+---
+
+### 🕐 20:05 UTC · @emollick
+
+> And its a 3-way race again…. Introducing Gemini 4 Argon, our new frontier model, rolling out to cyber defenders starting today, and more widely as soon as possible. I am really excited by the progress we have made here. Argon is priced at $2 in and $10 out during introductory pricing!
+
+🔗 [View original post](https://x.com/emollick/status/2105388608240677142)
 
 ---
 
