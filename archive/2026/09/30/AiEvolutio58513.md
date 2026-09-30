@@ -2,7 +2,31 @@
 
 ## 📅 September 30, 2026
 
-> 2 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 17:30 UTC · @AiEvolutio58513
+
+> This is wild. I gave Opus 5.5 + Boreal-H3 one ask: make an ad for my agency. This is what it made in one shot. Opus 5.5 + Boreal-H3 is insane. You can try Boreal-H3 yourself in Creatify’s Model Playground. Media Introducing Boreal-H3 — a video model built for ads and our next step toward recursive self-improvement in video generation. A good-looking video isn’t enough. The product has to stay the same. The actor has to stay the same. The label has to be right. And the action in the brief…
+
+🔗 [View original post](https://x.com/ecomchasedimond/status/2105349525779214464)
+
+---
+
+### 🕐 15:48 UTC · @AiEvolutio58513
+
+> Looks like I just found my next side hustle. This is Kled V3. We&apos;ve solved data collection for artificial general intelligence. Any consumer dataset that can exist, can now be collected from physical reality in under 72 hours. All powered by the largest and most comprehensive data application layer on the planet. (Thread)
+
+🔗 [View original post](https://x.com/ecomchasedimond/status/2105323855925678349)
+
+---
+
+### 🕐 13:59 UTC · @AiEvolutio58513
+
+> Elon Musk says the pace of AI development leaves him dizzy, even as someone inside the field. &quot;I&apos;m in AI &amp; it still makes my head spin. When I go to bed, there&apos;ll be some big AI breakthrough. And then when I wake up, there&apos;s an AI breakthrough. And by the time it gets to lunch, there&apos;s another AI breakthrough.&quot; Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2105296382676647938)
 
 ---
 

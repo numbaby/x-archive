@@ -2,7 +2,31 @@
 
 ## 📅 September 30, 2026
 
-> 5 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 15:21 UTC · @tunguz
+
+> The only video you need to watch today. Claude 5.5 Opus responding to “AI is a normal technology” is still the best AI-created video I have ever seen
+
+🔗 [View original post](https://x.com/tunguz/status/2105317060452741132)
+
+---
+
+### 🕐 15:12 UTC · @tunguz
+
+> American mind cannot comprehend this. Europe&apos;s longest north-south road, the E45, runs 5,190 km from Arctic Norway to Sicily.
+
+🔗 [View original post](https://x.com/tunguz/status/2105314934074855550)
+
+---
+
+### 🕐 15:10 UTC · @tunguz
+
+> “Despite”? Despite the A.I. boom, Silicon Valley is shedding tech jobs.
+
+🔗 [View original post](https://x.com/tunguz/status/2105314349237858566)
 
 ---
 

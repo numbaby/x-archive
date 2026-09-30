@@ -2,7 +2,99 @@
 
 ## 📅 September 30, 2026
 
-> 8 post(s) archived.
+> 19 post(s) archived.
+
+---
+
+### 🕐 18:17 UTC · @elonmusk
+
+> My guess for real GDP growth next year is &gt;50% higher than 2026, so &gt;3.3% Today’s economic numbers: — Q2 GDP revised up to 2.2% (was 1.5%). — Core PCE 3.0% vs 3.3% expected. — ADP private jobs +90k vs ~68k expected. Growth beat. Inflation cooled. Jobs better than expected. The Trump economy is strong.
+
+🔗 [View original post](https://x.com/elonmusk/status/2105361313392476174)
+
+---
+
+### 🕐 17:50 UTC · @elonmusk
+
+> Starship Flight 14 Starship Flight 14, the first morning launch from Starbase since Flight 5
+
+🔗 [View original post](https://x.com/elonmusk/status/2105354554866864631)
+
+---
+
+### 🕐 17:47 UTC · @elonmusk
+
+> Starship will expand the aperture of physics research by placing much larger telescopes in orbit and giant ones on the Moon Starship reached orbit for the first time on Monday. One of my favorite potential use cases is launching the next generation of space telescopes faster and with far fewer constraints. Today, engineers designing the largest space telescopes face extreme mass and volume limits that…
+
+🔗 [View original post](https://x.com/elonmusk/status/2105353907799228549)
+
+---
+
+### 🕐 17:33 UTC · @elonmusk
+
+> New in @Grok @Bot What&apos;s new in Grok Bot 0:19 Team bots - create bots shared with your team members 1:10 Finances - search and manage your finances with @plaid 1:32 Voice calls - @bot can search chats during calls and gracefully handles interruptions Like this for a special bot animation on @X!
+
+🔗 [View original post](https://x.com/elonmusk/status/2105350300534210708)
+
+---
+
+### 🕐 17:25 UTC · @elonmusk
+
+> Yesterday at the White House, leaders from across our industry came together to sign the White House Accord on Super Intelligence. The principle is simple: the companies building this technology have the primary responsibility to develop and deploy it safely, and to be accountable when they fall short. The Accord reinforces that responsibility with robust internal controls, independent external evaluation, and board level oversight. Super Intelligence offers an extraordinary opportunity to advance discovery, productivity, security, health, and prosperity. The future of Super Intelligence will be shaped not only by what it can do, but by the confidence it earns. By building with ambition, rigor, and responsibility, we can help ensure this extraordinary technology expands opportunity and improves lives for generations to come.
+
+![Yesterday at the White House, leaders from across our industry came together to sign the White House Accord on Super Intelligence. The principle is simple: the companies building this technology have ](../../../../assets/images/2026/09/30/2105348324484342238-1.jpg)
+
+🔗 [View original post](https://x.com/JensenHuang/status/2105348324484342238)
+
+---
+
+### 🕐 16:50 UTC · @elonmusk
+
+> Elon Musk says SpaceX and Tesla are aiming to produce 200 gigawatts of solar per year and take it to space, where &quot;it&apos;s essentially always sunny.&quot; He says the U.S. has to scale power dramatically to compete with China, which he says has about three times America&apos;s electricity production. He also bets that every 1% increase in U.S. power usage will bring roughly a 1% increase in GDP. &quot;SpaceX is aiming together with Tesla to do 200 gigawatts of solar production per year. And if brought to space, you get the nameplate or better on the solar power, whereas if it&apos;s on the ground, you&apos;re going to get somewhere between a fifth and an eighth of the solar power generation, and you need enormous batteries.&quot; &quot;You&apos;ve got to scale energy; you&apos;ve got to scale chip production. I think we&apos;re winning on software, on anything intellectual or digital. But in the long run, we need to be able to generate enough power to compete with — I think essentially China is the biggest competitor. And China has about three times the electricity production of the United States.&quot; &quot;The average power consumption in the United States is about 500 gigawatts. So, every 5 gigawatts of incremental steady-state production is a 1% increase in the power used... I would bet anyone that a 1% increase in power usage corresponds to roughly a 1% increase in GDP. Because the intelligence per watt keeps increasing.&quot; Media
+
+🔗 [View original post](https://x.com/KanekoaTheGreat/status/2105339407301759366)
+
+---
+
+### 🕐 15:02 UTC · @elonmusk
+
+> The Bretton Woods of Super Intelligence
+
+![The Bretton Woods of Super Intelligence](../../../../assets/images/2026/09/30/2105312446949085627-1.jpg)
+
+🔗 [View original post](https://x.com/DavidSacks/status/2105312446949085627)
+
+---
+
+### 🕐 12:50 UTC · @elonmusk
+
+> Want to see inside the Tesla Semi Factory? Here is the 30 minute video of our tour hosted by Plant Manager Rob Rayl and the factory team during the Semi Rollout event! Media
+
+🔗 [View original post](https://x.com/SERobinsonJr/status/2105279153285025930)
+
+---
+
+### 🕐 11:57 UTC · @elonmusk
+
+> Holy shit, the Omani pilot stabbed his co-pilot and then put the plane into a nose dive. Almost murdered 180 people. Passengers and crew rushed the cockpit pit and overpowered him within a minute. Almost one of the deadliest terrorist attacks in history. Media This post is unavailable
+
+🔗 [View original post](https://x.com/DrewPavlou/status/2105265785052729447)
+
+---
+
+### 🕐 06:57 UTC · @elonmusk
+
+> So much of Airbnb’s success came from @jgebbia’s design brilliance. I’m delighted he brought those gifts to our government. Our country designed great buildings, but for most Americans, the front door to government is now a website. Starting today, that experience they will be beautiful, elegant, and human. Proud of you, Joe. Chief Design Officer @jgebbia officially unveils https://America.gov, the new online home for the United States of America
+
+🔗 [View original post](https://x.com/bchesky/status/2105190317997818035)
+
+---
+
+### 🕐 05:27 UTC · @elonmusk
+
+> This is too much fun. A render of how the quilted hyperbolic isotensoid Mars city structure might work. Media
+
+🔗 [View original post](https://x.com/CJHandmer/status/2105167583037329482)
 
 ---
 
