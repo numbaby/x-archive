@@ -119941,6 +119941,19 @@
     "fingerprint": "08e1603e4313c7bf40c9ba1368d3782983e3f9e3b60c779bab7ac967d66ba7f8",
     "media": []
   },
+  "2105358364478001153": {
+    "account": "elonmusk",
+    "date": "2026-09-30",
+    "file": "data/posts/2026/09/2026-09-30.jsonl",
+    "fingerprint": "1d1e89a9f883d88ff025f568d1265e351e2f9ed2124c18c4fa9fc03619f772f2",
+    "media": [
+      {
+        "local_path": "assets/images/2026/09/30/2105358364478001153-1.jpg",
+        "sha256": "72d9eed670050111a69b7a55902e2722c086a10580c38597f42ab592f802b182",
+        "source_url": "https://pbs.twimg.com/media/HTe76zWaMAA5ZFq.jpg?name=orig"
+      }
+    ]
+  },
   "2105361313392476174": {
     "account": "elonmusk",
     "date": "2026-09-30",
@@ -120068,6 +120081,13 @@
       }
     ]
   },
+  "2105413208001704363": {
+    "account": "elonmusk",
+    "date": "2026-09-30",
+    "file": "data/posts/2026/09/2026-09-30.jsonl",
+    "fingerprint": "fca9ca1ef31d70ee959460b9d250d4e5d60c6706f3cfdcb694ecd680be071140",
+    "media": []
+  },
   "2105417239432200636": {
     "account": "demishassabis",
     "date": "2026-09-30",
@@ -120106,5 +120126,40 @@
         "source_url": "https://pbs.twimg.com/media/HTfz1DObAAAiS_y.jpg?name=orig"
       }
     ]
+  },
+  "2105419977209831866": {
+    "account": "swyx",
+    "date": "2026-09-30",
+    "file": "data/posts/2026/09/2026-09-30.jsonl",
+    "fingerprint": "fc4350be86ba6a28cebf753c8e8249d3fa523918a135e17e4f2c2ad059e2e903",
+    "media": []
+  },
+  "2105425770965356697": {
+    "account": "elonmusk",
+    "date": "2026-09-30",
+    "file": "data/posts/2026/09/2026-09-30.jsonl",
+    "fingerprint": "3238d69498624acff71e175f017ac5ef6057af02c6a016d7e13993d5217456be",
+    "media": []
+  },
+  "2105430425657364973": {
+    "account": "_akhaliq",
+    "date": "2026-09-30",
+    "file": "data/posts/2026/09/2026-09-30.jsonl",
+    "fingerprint": "62b8520a5425f5f0cf33d99ec121a2210b522932af787dd08219a46c2dc66173",
+    "media": []
+  },
+  "2105431737262350346": {
+    "account": "_akhaliq",
+    "date": "2026-09-30",
+    "file": "data/posts/2026/09/2026-09-30.jsonl",
+    "fingerprint": "ea1eb522eaa63de6a5949fe7c1e1d03853a973e261920889e6ee863055d331ce",
+    "media": []
+  },
+  "2105432314633490445": {
+    "account": "_akhaliq",
+    "date": "2026-09-30",
+    "file": "data/posts/2026/09/2026-09-30.jsonl",
+    "fingerprint": "fc0182cf01f97d913d97b1b2bd512eba1849f282880a09819e3840e683d74d19",
+    "media": []
   }
 }

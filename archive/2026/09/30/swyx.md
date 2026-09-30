@@ -2,7 +2,15 @@
 
 ## 📅 September 30, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 22:10 UTC · @swyx
+
+> Agents write application code, but you still get paged at 2am when it breaks. We wanted to know whether AI could handle that part of the job too. Introducing Incident Arena: a benchmark that puts coding agents on call! Check out our paper &amp; full dataset release below! Media
+
+🔗 [View original post](https://x.com/andrezfu/status/2105419977209831866)
 
 ---
 

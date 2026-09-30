@@ -2,7 +2,23 @@
 
 ## 📅 September 30, 2026
 
-> 19 post(s) archived.
+> 22 post(s) archived.
+
+---
+
+### 🕐 22:33 UTC · @elonmusk
+
+> Accurate analysis I find it funny that some people got hung up on Starship not having gone orbital before Flight 14 when in the grand scheme of things it was completely arbitrary in terms of performance. The 19ish second burn only added about 91 m/s of velocity (a 1.2% increase in velocity) This c…
+
+🔗 [View original post](https://x.com/elonmusk/status/2105425770965356697)
+
+---
+
+### 🕐 21:43 UTC · @elonmusk
+
+> SpaceXAI has just released Grokipedia v0.3, which includes improved visuals. https://grokipedia.com Media
+
+🔗 [View original post](https://x.com/SawyerMerritt/status/2105413208001704363)
 
 ---
 
@@ -11,6 +27,16 @@
 > My guess for real GDP growth next year is &gt;50% higher than 2026, so &gt;3.3% Today’s economic numbers: — Q2 GDP revised up to 2.2% (was 1.5%). — Core PCE 3.0% vs 3.3% expected. — ADP private jobs +90k vs ~68k expected. Growth beat. Inflation cooled. Jobs better than expected. The Trump economy is strong.
 
 🔗 [View original post](https://x.com/elonmusk/status/2105361313392476174)
+
+---
+
+### 🕐 18:05 UTC · @elonmusk
+
+> 25 percent of San Francisco’s convicted pedophiles, rapists, and sex offenders live in government-funded housing. You’re paying for predators to live in the most expensive city in America.
+
+![25 percent of San Francisco’s convicted pedophiles, rapists, and sex offenders live in government-funded housing. You’re paying for predators to live in the most expensive city in America.](../../../../assets/images/2026/09/30/2105358364478001153-1.jpg)
+
+🔗 [View original post](https://x.com/christopherrufo/status/2105358364478001153)
 
 ---
 

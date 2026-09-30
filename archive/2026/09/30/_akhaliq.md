@@ -2,7 +2,31 @@
 
 ## 📅 September 30, 2026
 
-> 3 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 22:59 UTC · @_akhaliq
+
+> LongLive-Plug Once-for-All Distillation for Video Generation paper: https://huggingface.co/papers/2609.38154 Media
+
+🔗 [View original post](https://x.com/_akhaliq/status/2105432314633490445)
+
+---
+
+### 🕐 22:56 UTC · @_akhaliq
+
+> Omni-IO Skills Harnessing Your Agent Omni-Native paper: https://huggingface.co/papers/2609.31847 Media
+
+🔗 [View original post](https://x.com/_akhaliq/status/2105431737262350346)
+
+---
+
+### 🕐 22:51 UTC · @_akhaliq
+
+> LEGO-Anything Coding Agents for 3D Scene Reconstruction paper: https://huggingface.co/papers/2609.36380 Media
+
+🔗 [View original post](https://x.com/_akhaliq/status/2105430425657364973)
 
 ---
 
