@@ -119633,5 +119633,19 @@
     "file": "data/posts/2026/09/2026-09-30.jsonl",
     "fingerprint": "926575195e8fd0163bf2e1c558d4ceda721fd80c3d4349b4fa50fd68a0a822ca",
     "media": []
+  },
+  "2105148968191885319": {
+    "account": "tunguz",
+    "date": "2026-09-30",
+    "file": "data/posts/2026/09/2026-09-30.jsonl",
+    "fingerprint": "0b4c41df135729f71872a0a3e94cd0239de0584e7ed8e982f541b05d26382566",
+    "media": []
+  },
+  "2105148971975102609": {
+    "account": "demishassabis",
+    "date": "2026-09-30",
+    "file": "data/posts/2026/09/2026-09-30.jsonl",
+    "fingerprint": "a39798c599642eb9635262d88b5e3cb19aef105d2f950e9ec10d49fd76ac66a1",
+    "media": []
   }
 }
