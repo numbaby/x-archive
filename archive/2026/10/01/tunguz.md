@@ -2,7 +2,15 @@
 
 ## 📅 October 01, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 06:36 UTC · @tunguz
+
+> A million steps per month is all you need.
+
+🔗 [View original post](https://x.com/tunguz/status/2105547306863050979)
 
 ---
 
