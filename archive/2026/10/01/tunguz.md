@@ -2,7 +2,24 @@
 
 ## 📅 October 01, 2026
 
-> 12 post(s) archived.
+> 14 post(s) archived.
+
+---
+
+### 🕐 20:15 UTC · @tunguz
+
+> arXiv is finished. It can&apos;t survive the AI revolution. arXiv has updated our policy on rate limiting for all submitters. This update was made to fairly distribute moderator time &amp; support the arXiv community of staff, volunteers, readers &amp; authors. Please read our announcement to learn more: https://blog.arxiv.org/2026/10/01/updated-…
+
+🔗 [View original post](https://x.com/tunguz/status/2105753427519349079)
+
+---
+
+### 🕐 20:11 UTC · @tunguz
+
+
+![](../../../../assets/images/2026/10/01/2105752442449387941-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2105752442449387941)
 
 ---
 

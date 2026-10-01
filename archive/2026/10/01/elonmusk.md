@@ -2,7 +2,57 @@
 
 ## 📅 October 01, 2026
 
-> 26 post(s) archived.
+> 36 post(s) archived.
+
+---
+
+### 🕐 20:24 UTC · @elonmusk
+
+> Major speed improvements to @Bot feel like grok bot is fast AF now
+
+🔗 [View original post](https://x.com/elonmusk/status/2105755817555436014)
+
+---
+
+### 🕐 20:09 UTC · @elonmusk
+
+> Grok @Bot is an amazing assistant Grok Bot is now more proactive. What does that mean? Here&apos;s one example: I switched flights, but @bot noticed I didn&apos;t update my Uber reservation Bot realized, then pinged me to update the reservation *during* my connecting flight I had @starlink, so I was able to change it befor…
+
+🔗 [View original post](https://x.com/elonmusk/status/2105752064747847794)
+
+---
+
+### 🕐 20:09 UTC · @elonmusk
+
+> Plot twist: Your next flight might have better Wi-Fi than your home. @Starlink, Wi-Fi coming in 2027. 🛜✈️ https://news.flyfrontier.com/frontier-airlines-to-offer-starlink-the-fastest-wifi-in-the-sky/
+
+![Plot twist: Your next flight might have better Wi-Fi than your home. @Starlink, Wi-Fi coming in 2027. 🛜✈️ https://news.flyfrontier.com/frontier-airlines-to-offer-starlink-the-fastest-wifi-in-the-sky/](../../../../assets/images/2026/10/01/2105751861580202270-1.jpg)
+
+🔗 [View original post](https://x.com/FlyFrontier/status/2105751861580202270)
+
+---
+
+### 🕐 20:08 UTC · @elonmusk
+
+> The nation owes a debt to @JGebbia and his excellent team. They worked incredibly hard, with no compensation, to make government services work better for all Americans. 🫡 🇺🇸 Imagine seeing your work announced on the national stage by the world&apos;s most gifted speakers, like @SecRubio who introduced our new design for the U.S. Passport, in collaboration with the State Department. National Design Studio is growing! https://ndstudio.gov/jobs
+
+🔗 [View original post](https://x.com/elonmusk/status/2105751786925752511)
+
+---
+
+### 🕐 19:41 UTC · @elonmusk
+
+> @Geiger_Capital Instagram is for girls
+
+🔗 [View original post](https://x.com/elonmusk/status/2105744946141483133)
+
+---
+
+### 🕐 18:33 UTC · @elonmusk
+
+> Liftoff of Transporter-18! Media
+
+🔗 [View original post](https://x.com/SpaceX/status/2105727848199643530)
 
 ---
 
@@ -19,6 +69,14 @@
 > Try Grok @Bot! Grok Bots have been life-changing for someone like me with ADHD who has no patience for context switching / navigating slow interfaces to retrieve information We&apos;re seeing the beginnings of personal superintelligence that augments each humans to realize their full potential
 
 🔗 [View original post](https://x.com/elonmusk/status/2105719249826099666)
+
+---
+
+### 🕐 17:55 UTC · @elonmusk
+
+> All-time Supercharger energy delivered: 28.9 TWh
+
+🔗 [View original post](https://x.com/MdeZegher/status/2105718209869762593)
 
 ---
 
@@ -98,6 +156,16 @@
 
 ---
 
+### 🕐 15:09 UTC · @elonmusk
+
+> Proud that https://america.gov is powered by Grok. No more sifting through the maze of government websites to find an answer. Free, no account required, no ads. Try it, it&apos;s beautiful!
+
+![Proud that https://america.gov is powered by Grok. No more sifting through the maze of government websites to find an answer. Free, no account required, no ads. Try it, it&apos;s beautiful!](../../../../assets/images/2026/10/01/2105676589820440618-1.png)
+
+🔗 [View original post](https://x.com/veggie_eric/status/2105676589820440618)
+
+---
+
 ### 🕐 14:37 UTC · @elonmusk
 
 > Three Falcons ready to fly simultaneously Three Falcon rockets vertical at three of our launch pads in Florida and California → https://spacex.com/launches
@@ -169,6 +237,24 @@
 > For a given range of expected IRR, SpaceX is without equal in its intangibles as a public investment. In many ways, investing is about exerting what control you have today on the future. In some small way if you can nudge the future in the direction you want to see what direction would that be? Generally speaking SpaceX’s future vision is the most compelling. No company inspires me more than @SpaceX.
 
 🔗 [View original post](https://x.com/aaronburnett/status/2105595003208634383)
+
+---
+
+### 🕐 08:07 UTC · @elonmusk
+
+> SpaceX 2006 vs 2026
+
+![SpaceX 2006 vs 2026](../../../../assets/images/2026/10/01/2105570351673434425-1.jpg)
+
+🔗 [View original post](https://x.com/DimaZeniuk/status/2105570351673434425)
+
+---
+
+### 🕐 08:00 UTC · @elonmusk
+
+> when i was a teen i was a little emo, and i think it was because i felt like i didnt control anything important about my life. looking back with knowledge now, there were a nearly infinite number of higher agency paths i could have taken. my life was always more free than i knew
+
+🔗 [View original post](https://x.com/DavidSHolz/status/2105568590724501531)
 
 ---
 
