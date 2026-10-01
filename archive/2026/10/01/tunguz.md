@@ -2,7 +2,23 @@
 
 ## 📅 October 01, 2026
 
-> 14 post(s) archived.
+> 16 post(s) archived.
+
+---
+
+### 🕐 23:09 UTC · @tunguz
+
+> &quot;Winning isn’t everything; it&apos;s the only thing.&quot; - Red Sanders
+
+🔗 [View original post](https://x.com/tunguz/status/2105797354792378685)
+
+---
+
+### 🕐 22:51 UTC · @tunguz
+
+> The slow half of the year is over. The next three months will be insane. And then 2027 hits. Hard. A quarter of the year is still left. Time to make the most of it.
+
+🔗 [View original post](https://x.com/tunguz/status/2105792668060295365)
 
 ---
 
