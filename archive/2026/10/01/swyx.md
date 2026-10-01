@@ -2,7 +2,15 @@
 
 ## 📅 October 01, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 07:30 UTC · @swyx
+
+> pls support smol creators https://x.com/latentspacepod/status/2102159548366881196 Jev and the System One Model: RLCD, intelligence/$, reliable AI, &amp; the end of chat-first AI https://www.latent.space/p/jev @typesafeai CEO @CompleteSkeptic explains why AI can solve extraordinarily hard problems yet still fail to automate basic work, why Jev is built for reliable…
+
+🔗 [View original post](https://x.com/swyx/status/2105560981757931664)
 
 ---
 

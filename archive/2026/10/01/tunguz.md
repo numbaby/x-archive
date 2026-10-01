@@ -2,7 +2,35 @@
 
 ## 📅 October 01, 2026
 
-> 3 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 07:35 UTC · @tunguz
+
+> Interesting take. I’m am become increasingly adamant that civilization is real only for the middle class. I talk to billionaires, and when I hear their problems I’m like wtf, these things would not happen in high trust upper middle class suburbia. And one of my clients does a lot of criminal defen…
+
+🔗 [View original post](https://x.com/tunguz/status/2105562281987985888)
+
+---
+
+### 🕐 07:17 UTC · @tunguz
+
+> The final tally.
+
+![The final tally.](../../../../assets/images/2026/10/01/2105557788223250571-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2105557788223250571)
+
+---
+
+### 🕐 07:07 UTC · @tunguz
+
+> The final tally for the last day of September. 35k.
+
+![The final tally for the last day of September. 35k.](../../../../assets/images/2026/10/01/2105555095379460593-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2105555095379460593)
 
 ---
 
