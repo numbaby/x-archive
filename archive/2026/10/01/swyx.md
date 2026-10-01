@@ -2,7 +2,17 @@
 
 ## 📅 October 01, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 15:15 UTC · @swyx
+
+> One week until init() - the conference for builders 🔥 We have an absolutely killer lineup of speakers: @levie, @howietl, @swyx, @clairevo and more. Best of all, it&apos;s free! There&apos;s a few spots left. RSVP now: https://workos.com/init Sponsored by @Stripe @Cloudflare and @Databricks
+
+![One week until init() - the conference for builders 🔥 We have an absolutely killer lineup of speakers: @levie, @howietl, @swyx, @clairevo and more. Best of all, it&apos;s free! There&apos;s a few spot](../../../../assets/images/2026/10/01/2105678093050679699-1.jpg)
+
+🔗 [View original post](https://x.com/grinich/status/2105678093050679699)
 
 ---
 

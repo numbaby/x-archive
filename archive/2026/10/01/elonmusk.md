@@ -2,7 +2,35 @@
 
 ## 📅 October 01, 2026
 
-> 5 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 14:37 UTC · @elonmusk
+
+> Three Falcons ready to fly simultaneously Three Falcon rockets vertical at three of our launch pads in Florida and California → https://spacex.com/launches
+
+🔗 [View original post](https://x.com/elonmusk/status/2105668516259266881)
+
+---
+
+### 🕐 14:33 UTC · @elonmusk
+
+> BREAKING: After reports of Delta CEO’s remarks about Elon Musk, United and American Airlines invite customers to switch without losing status. Both airlines chose Starlink.
+
+![BREAKING: After reports of Delta CEO’s remarks about Elon Musk, United and American Airlines invite customers to switch without losing status. Both airlines chose Starlink.](../../../../assets/images/2026/10/01/2105667521747849324-1.jpg)
+
+🔗 [View original post](https://x.com/cb_doge/status/2105667521747849324)
+
+---
+
+### 🕐 14:24 UTC · @elonmusk
+
+> The Dragon supporting this mission previously flew Ax-4 to the @Space_Station
+
+![The Dragon supporting this mission previously flew Ax-4 to the @Space_Station](../../../../assets/images/2026/10/01/2105665212531536131-1.jpg)
+
+🔗 [View original post](https://x.com/SpaceX/status/2105665212531536131)
 
 ---
 

@@ -2,7 +2,15 @@
 
 ## 📅 October 01, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 15:10 UTC · @omarsar0
+
+> AI is creating new jobs, and I expect many companies to start hiring Automation Engineers. The role needs someone who understands how a team really works and can build the automations it needs. Jake explains it well in this article. At @getserval, Automation Engineers embed with IT, HR, Finance, and Legal teams and build AI agents directly inside each customer&apos;s Serval setup. https://x.com/i/article/2105490472856903680
+
+🔗 [View original post](https://x.com/omarsar0/status/2105676646959227282)
 
 ---
 
