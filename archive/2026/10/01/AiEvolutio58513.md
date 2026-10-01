@@ -2,7 +2,23 @@
 
 ## 📅 October 01, 2026
 
-> 4 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 17:33 UTC · @AiEvolutio58513
+
+> Every AI tool I use gets its output checked before it ships. Copy, code, design. Voice was the one I kept regenerating blind. @OnepinAI checks each line for clarity and pronunciation and fixes the words it gets wrong. Raw vs. Onepin on the same script: Media Your AI voice sounds human. So why can&apos;t it say your product&apos;s name? A great AI voice reads &quot;Porsche Taycan&quot; as TAY-can. Porsche says TIE-kahn. It guessed from the spelling, and nobody caught it, because nobody listens to line 1,200. Today we&apos;re launching Onepin: the production s…
+
+🔗 [View original post](https://x.com/ecomchasedimond/status/2105712612319379777)
+
+---
+
+### 🕐 15:35 UTC · @AiEvolutio58513
+
+> my first 30 discovery calls were basically practice on real customers. sorry to those people. Introducing Sessions: Interactive Avatars that coach, interview, and guide 🗣️ That means you can finally: ✔️ Have 1:1s with your entire company. ✔️ Interview 100 customers a day. ✔️ Train 1,000 sales reps at once. Think of it as a video call, but on the other side is an Avatar t…
+
+🔗 [View original post](https://x.com/ecomchasedimond/status/2105682943889023110)
 
 ---
 

@@ -2,7 +2,33 @@
 
 ## 📅 October 01, 2026
 
-> 2 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 19:08 UTC · @omarsar0
+
+> I think AI voice is missing a quality-check layer. In most apps I build, the voices already sound great. What still breaks production for me is a model reading &quot;Q3&quot;, &quot;v1.2&quot;, or a brand name wrong. It makes a huge difference in how people perceive voice agents. @OnepinAI is working to solve this. They check every line for naturalness, clarity, and pronunciation before you hear it. When a word comes out wrong, it fixes that word directly instead of regenerating the whole line. Your AI voice sounds human. So why can&apos;t it say your product&apos;s name? A great AI voice reads &quot;Porsche Taycan&quot; as TAY-can. Porsche says TIE-kahn. It guessed from the spelling, and nobody caught it, because nobody listens to line 1,200. Today we&apos;re launching Onepin: the production s…
+
+🔗 [View original post](https://x.com/omarsar0/status/2105736578673033564)
+
+---
+
+### 🕐 18:44 UTC · @omarsar0
+
+> Small models are getting really good at reasoning. It&apos;s exciting because SLMs can unlock so much at the harness layer. TwIL-LM3-Pro from @thewebAI has 3.6B parameters and runs locally on everyday computers. It scores 95.4 on BIG-Bench Hard, well ahead of Qwen3-8B at 63.7. I like their post-training recipe. They fine-tune on formal logic, merge the weights back toward the base model, and then run RL against a programmatic verifier. Logic scores go up, and general reasoning holds steady. Great to see more of this work released as open source. Half a million downloads in a month. Today, our open source family takes another step forward. Thank you for the incredible support behind our first-generation models. We’re excited to introduce TwIL-LM3-Pro. At just 3.6 billion parameters, it brings powerful reasoning to everyda…
+
+![Small models are getting really good at reasoning. It&apos;s exciting because SLMs can unlock so much at the harness layer. TwIL-LM3-Pro from @thewebAI has 3.6B parameters and runs locally on everyday](../../../../assets/images/2026/10/01/2105730500811719056-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2105730500811719056)
+
+---
+
+### 🕐 16:32 UTC · @omarsar0
+
+> I expect more AI companies to run the service themselves and sell the outcome. @arceuslegal does that for legal work. Clients send contracts over Slack, AI gathers the context, and a licensed attorney reviews every piece of work before it goes back. Contract reviews take 3 to 5 hours on average, at a flat fee agreed before the work starts. Personalization has massive implications in the business world too. I’m excited to announce that @arceuslegal is launching with $17M in funding, led by @greycroftvc, with participation from @craft_ventures, @spc, and others. As a founder, I always hated how helpless I felt working with law firms. I went through four or five different firms and so…
+
+🔗 [View original post](https://x.com/omarsar0/status/2105697296029552700)
 
 ---
 

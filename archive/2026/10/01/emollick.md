@@ -2,7 +2,15 @@
 
 ## 📅 October 01, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 17:09 UTC · @emollick
+
+> Sitting through PowerPoints has become much better since we got good AI. Sure, some people just let AI do the thinking work, but that is obvious (and they used default templates before). For people who do care, they have interesting layouts &amp; funny visual jokes &amp; good diagrams.
+
+🔗 [View original post](https://x.com/emollick/status/2105706777832767984)
 
 ---
 
