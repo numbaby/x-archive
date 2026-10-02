@@ -2,7 +2,15 @@
 
 ## 📅 October 02, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 06:35 UTC · @karpathy
+
+> Cool eval. Simply ask an LLM “Land or Water?” and give it a latitude and longitude coordinate as text. Ask 16,200 times, plot as image. The models know. From compressing the internet. results for all claudes
+
+🔗 [View original post](https://x.com/karpathy/status/2105909609487872075)
 
 ---
 

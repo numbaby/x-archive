@@ -2,7 +2,17 @@
 
 ## 📅 October 02, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 07:00 UTC · @dair_ai
+
+> New paper from Microsoft on compressing agent context at test time. If your agent gets worse as its interaction history grows, this method is worth a look. FOCUS asks which past interactions the agent&apos;s next decisions actually depend on. It keeps those units of the history and drops the others. It needs no training data or fine-tuning, so it works as a separate layer in front of closed-API models. On tool-calling, QA, web and multi-turn dialogue benchmarks, it cuts peak context by up to 48% and raises task success by up to 8.9 points compared with running on the full history. Paper: https://academy.dair.ai/papers/focus-training-free-decision-preserving-context-compression-for-llm-agents-2609.37590
+
+![New paper from Microsoft on compressing agent context at test time. If your agent gets worse as its interaction history grows, this method is worth a look. FOCUS asks which past interactions the agent](../../../../assets/images/2026/10/02/2105915729812050342-1.png)
+
+🔗 [View original post](https://x.com/dair_ai/status/2105915729812050342)
 
 ---
 
