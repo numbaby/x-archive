@@ -2,7 +2,17 @@
 
 ## 📅 October 02, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 08:00 UTC · @omarsar0
+
+> Good paper on credit assignment for agent RL. The main finding is that you want an LLM judge to choose where to check a trajectory, and the rollouts to decide how much credit that step gets. GRPO gives every token in a trajectory the same advantage, so the training signal cannot tell the decisive step from the rest. ProVer has a judge compare successful and failed rollouts and name the segment it thinks caused the difference. It then samples continuations from just before and just after that segment and uses the change in success rate as the segment&apos;s advantage. Across ALFWorld, WebShop and SearchQA, this gives relative improvements over GRPO of 9.91% for Qwen3.5-2B and 7.12% for Qwen3.5-4B. It still helps when the judge is a smaller model. Paper: https://arxiv.org/abs/2609.36178 Chat with Paper: https://academy.dair.ai/papers/targeting-pivotal-decisions-for-credit-assignment-in-agentic-reinforcement-learn-2609.36178
+
+![Good paper on credit assignment for agent RL. The main finding is that you want an LLM judge to choose where to check a trajectory, and the rollouts to decide how much credit that step gets. GRPO give](../../../../assets/images/2026/10/02/2105930871534690714-1.png)
+
+🔗 [View original post](https://x.com/omarsar0/status/2105930871534690714)
 
 ---
 

@@ -2,7 +2,15 @@
 
 ## 📅 October 02, 2026
 
-> 5 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 07:53 UTC · @elonmusk
+
+> Super Intelligence (fka AI) is now acing accounting tests &apos;More striking is how fast AI took the lead. Just eighteen months ago, the best AI models fell short of the average accountant’s ~37% score. Today, models ace those same tasks.&apos; &apos;These results are provocative. So much so that we considered not publishing them for fear of misinter…
+
+🔗 [View original post](https://x.com/elonmusk/status/2105929186556998055)
 
 ---
 
@@ -31,6 +39,14 @@
 > Side booster separation confirmed Media
 
 🔗 [View original post](https://x.com/SpaceX/status/2105870151027495393)
+
+---
+
+### 🕐 03:08 UTC · @elonmusk
+
+> For folks not understanding where we are at with AI now - if the task is verifiable, it is now solved by AI. Yes, earlier days you could argue that &apos;AI isn&apos;t that good&apos; (e.g. see first attached chart here, where GPT-4o underperformed average accountants on tasks) But now, it&apos;s a totally different story (only ~2 years later). The second chart is astounding. It took me a while to even understand it because it looks so odd. It compares manual accounting tasks to tasks complete with Opus 5.5. Basically Opus 5.5. solves all tasks almost instantly at a 100% accuracy rate, whereas a person takes a lot more time and gets a lot of things wrong. It makes the chart look entirely silly because the axes aren&apos;t even comparable. So yeah, this is where we&apos;re at. If it is verifiable, it is solved. This is just how these model architectures work now. On these detail-oriented, well-specified tasks, frontier models are now faster and more accurate than accountants, even the best one in our study.
+
+🔗 [View original post](https://x.com/mstockton/status/2105857523668451416)
 
 ---
 
