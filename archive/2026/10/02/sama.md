@@ -2,7 +2,15 @@
 
 ## 📅 October 02, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 22:19 UTC · @sama
+
+> There is some speculation about our partnership with Cerebras. Cerebras is a close partner, and we have a deep engagement pushing on the frontiers of speed.
+
+🔗 [View original post](https://x.com/sama/status/2106147184693620924)
 
 ---
 

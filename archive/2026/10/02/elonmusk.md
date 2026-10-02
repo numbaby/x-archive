@@ -2,7 +2,7 @@
 
 ## 📅 October 02, 2026
 
-> 25 post(s) archived.
+> 26 post(s) archived.
 
 ---
 
@@ -51,6 +51,16 @@
 > it’s honestly insane how much of the modern tech tree has been unlocked because of a single guy thanks to Elon we have - online payments - mass market electric cars - batteries and grid-scale energy storage - self driving cars and robotaxis - humanoid robots - advanced brain computer interfaces - next generation tunneling - reusable rockets -global satellite internet - basically the modern space industry - Moon and Mars transportation - orbital compute and space data centers - frontier AI - gigantic AI supercomputers - physical world AI and the wildest part is that these branches are now starting to merge there is a very real chance that this one guy ends up being the reason humanity reaches Kardashev II genuinely the man of the millennium
 
 🔗 [View original post](https://x.com/IterIntellectus/status/2106091420515717311)
+
+---
+
+### 🕐 18:37 UTC · @elonmusk
+
+> Not a phone in sight, just people living in the moment
+
+![Not a phone in sight, just people living in the moment](../../../../assets/images/2026/10/02/2106091333551317125-1.jpg)
+
+🔗 [View original post](https://x.com/battleangelviv/status/2106091333551317125)
 
 ---
 
