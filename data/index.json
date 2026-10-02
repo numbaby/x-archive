@@ -121049,5 +121049,31 @@
         "source_url": "https://pbs.twimg.com/media/HTlPmruXYAEsSYW.jpg?name=orig"
       }
     ]
+  },
+  "2105813399804502403": {
+    "account": "swyx",
+    "date": "2026-10-02",
+    "file": "data/posts/2026/10/2026-10-02.jsonl",
+    "fingerprint": "a7963760ce72cb7cab88a87b758150373162a9750838968af74db979f76fa40b",
+    "media": [
+      {
+        "local_path": "assets/images/2026/10/02/2105813399804502403-1.jpg",
+        "sha256": "4992f7da5e426dcfee5ad2d6e0e12b6a9dd77af490a7b3f49f6f86059ef32a43",
+        "source_url": "https://pbs.twimg.com/media/HTlaBtybEAAxr-o.jpg?name=orig"
+      }
+    ]
+  },
+  "2105819303471976479": {
+    "account": "karpathy",
+    "date": "2026-10-02",
+    "file": "data/posts/2026/10/2026-10-02.jsonl",
+    "fingerprint": "b2e391768848a2fdab8d6978ef6f9ef1339dc2bb7c96199ed0a9e4ba2383ec61",
+    "media": [
+      {
+        "local_path": "assets/images/2026/10/02/2105819303471976479-1.png",
+        "sha256": "c73fe6121c3f9124ab7e29c9d1d75a1fdf965dba85fe353ab9ff26639fdbd7a2",
+        "source_url": "https://pbs.twimg.com/media/HTlaHqgbwAAS1lv.png?name=orig"
+      }
+    ]
   }
 }
