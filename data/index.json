@@ -121297,5 +121297,25 @@
     "file": "data/posts/2026/10/2026-10-02.jsonl",
     "fingerprint": "ccda3a4e01b86478976079986b63329e19a835763158ff869a87f115d809c4ff",
     "media": []
+  },
+  "2105991263044706435": {
+    "account": "joaomdmoura",
+    "date": "2026-10-02",
+    "file": "data/posts/2026/10/2026-10-02.jsonl",
+    "fingerprint": "ff3eaa0f3fc5fe0ffc55c7fa3dbcaad2366185279b7e2e47bcd4fecee7c3a6f6",
+    "media": []
+  },
+  "2105991275627639166": {
+    "account": "joaomdmoura",
+    "date": "2026-10-02",
+    "file": "data/posts/2026/10/2026-10-02.jsonl",
+    "fingerprint": "5fee84b5c6c23cf3e62c4e7481f43c6eb71eaa6c120beeedf364537739e29a0e",
+    "media": [
+      {
+        "local_path": "assets/images/2026/09/25/2103514957786808817-1.jpg",
+        "sha256": "e7982594b01690c3ecd6aac9791ff0d74eefd94a65d761ac8351f3e62d05661c",
+        "source_url": "https://pbs.twimg.com/card_img/2103515089714241536/Inudu2lk?format=jpg&name=800x419"
+      }
+    ]
   }
 }
