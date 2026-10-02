@@ -2,7 +2,15 @@
 
 ## 📅 October 02, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 14:33 UTC · @dair_ai
+
+> Learn to build a custom harness, folks. Mods in Claude Code, DeepSeek Harness, and now Pi Durable. What do these all have in common? Increased extensibility. Builders need coding agents and harnesses to be more malleable. Say you are building a simple agentic app for your users, a personalized headless experience, a software factory, or a domain-specific harness; you will quickly find that the generic harness won&apos;t cut it. Sometimes you need a different behavior in the UI. Sometimes you just need to easily add a new feature/plugin. Or sometimes you just want to build a completely new experience, like multiplayer support. You can build it from scratch, as I recommend. I mean, it&apos;s not that hard. But if you want to hit the ground running, where do you go? Pi Durable and DeepSeek Harness seem to want to solve that problem. Users want more customization in their harnesses. And those builders who understand how to build and maintain one will win big time from this next phase of more malleable harnesses. The battle of the best harness will be very different from the first wave of generic harnesses. People of Pi: We&apos;ve shipped Pi 1.0 with Pi Durable. Go make them yours. https://earendil.com/posts/pi-1-0/
+
+🔗 [View original post](https://x.com/omarsar0/status/2106029828302373354)
 
 ---
 
