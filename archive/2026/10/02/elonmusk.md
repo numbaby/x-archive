@@ -2,7 +2,15 @@
 
 ## 📅 October 02, 2026
 
-> 7 post(s) archived.
+> 10 post(s) archived.
+
+---
+
+### 🕐 08:25 UTC · @elonmusk
+
+> Ask @Grok in XChat Your group chat just got smarter Get answers to your questions directly in XChat by asking Grok
+
+🔗 [View original post](https://x.com/elonmusk/status/2105937204044615707)
 
 ---
 
@@ -34,11 +42,29 @@
 
 ---
 
+### 🕐 04:06 UTC · @elonmusk
+
+> • SpaceX Makes History • Tesla Secures Future • Grok Team Can&apos;t Stop Cooking TIMESTAMPS 0:00 Crew Dragon ISS Mission Highlights: SpaceX Just Broke A Record With Crew Dragon Mission To ISS 3:23 Grok Team Keeps Cooking. BIG Grok Bot Updates As OpenAI Shamelessly Copies Grok Bot With ‘Dots” 12:14 Tesla Secures Its Future 17:26 Ways To Support (Want More Content? Early Access? Tesla &amp; SpaceX Valuation Model?) Media
+
+🔗 [View original post](https://x.com/stevenmarkryan/status/2105872022668718241)
+
+---
+
 ### 🕐 03:59 UTC · @elonmusk
 
 > Side booster separation confirmed Media
 
 🔗 [View original post](https://x.com/SpaceX/status/2105870151027495393)
+
+---
+
+### 🕐 03:44 UTC · @elonmusk
+
+> Today’s mission is the @NRO_gov’s first launch aboard the Falcon Heavy rocket. Falcon 9 previously launched 22 missions over nine years for the NRO
+
+![Today’s mission is the @NRO_gov’s first launch aboard the Falcon Heavy rocket. Falcon 9 previously launched 22 missions over nine years for the NRO](../../../../assets/images/2026/10/02/2105866520240832857-1.jpg)
+
+🔗 [View original post](https://x.com/SpaceX/status/2105866520240832857)
 
 ---
 
