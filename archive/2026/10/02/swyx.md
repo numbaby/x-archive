@@ -2,7 +2,15 @@
 
 ## 📅 October 02, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 00:32 UTC · @swyx
+
+> Recursive Language Models: Claude Code, Agent Swarms, Big Research Bets, &amp; the $40M AI Problem Solver https://www.latent.space/p/rlm MIT’s @a1zhang explains why Claude Code, Codex, and Pi are basically the same, how RLMs use code, context offloading, and recursive subagents to generalize across tasks, why one expert can sometimes replace a trillion-token brute-force search, what OpenAI’s 10,000-agent, 130B-output-token experiment reveals about the future of language models, and why academia’s biggest advantage is the freedom to take weird, ambitious research bets. Media
+
+🔗 [View original post](https://x.com/latentspacepod/status/2105818177674654099)
 
 ---
 
