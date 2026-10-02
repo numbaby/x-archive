@@ -2,7 +2,27 @@
 
 ## 📅 October 02, 2026
 
-> 3 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 19:28 UTC · @swyx
+
+> btw dont forget the &quot;one more thing...&quot; theyve been working on dots for a while now Introducing dots, powered by GPT-6 Astra. Remarkably capable, always-on agents built to handle everything.
+
+![btw dont forget the &quot;one more thing...&quot; theyve been working on dots for a while now Introducing dots, powered by GPT-6 Astra. Remarkably capable, always-on agents built to handle everything.](../../../../assets/images/2026/10/02/2106103958657958298-1.png)
+
+🔗 [View original post](https://x.com/swyx/status/2106103958657958298)
+
+---
+
+### 🕐 17:07 UTC · @swyx
+
+> @a1zhang sees academia as a place to take big research bets. PhD researchers might not have endless compute, but advantages are there: the freedom to explore ideas outside the mainstream and grapple with different tradeoffs can unleash new paradigms. Yesterday’s @latentspacepod w/ @swyx covered this plus kernels, harness design, multi agent systems, and more: https://www.youtube.com/watch?v=kog7mwsDqnk
+
+![@a1zhang sees academia as a place to take big research bets. PhD researchers might not have endless compute, but advantages are there: the freedom to explore ideas outside the mainstream and grapple w](../../../../assets/images/2026/10/02/2106068688851874122-1.jpg)
+
+🔗 [View original post](https://x.com/LaudeInstitute/status/2106068688851874122)
 
 ---
 

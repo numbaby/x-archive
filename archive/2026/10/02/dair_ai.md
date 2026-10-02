@@ -2,7 +2,25 @@
 
 ## 📅 October 02, 2026
 
-> 4 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 22:10 UTC · @dair_ai
+
+> Sharing some notes from OpenAI DevDay in parts. The first part matters, since it&apos;s on everyone&apos;s mind. How do you optimize for cost and performance? If you are building agentic applications today, these are 4 of the most important levers you absolutely must try: - prompt caching - reasoning effort - programmatic tool calling - batch request The OpenAI dev docs have plenty of information, but these alone are good starting points for optimizing your agentic applications. Familiarize yourself with these and measure them with evals.
+
+🔗 [View original post](https://x.com/omarsar0/status/2106144801708261390)
+
+---
+
+### 🕐 16:19 UTC · @dair_ai
+
+> Banger paper from Google Research on multi-agent proof discovery. (bookmark it) It&apos;s really interesting to see this emerging multi-agent pattern: not enforcing too much execution structure and pairing it with dedicated agents for advising and verification. I think it is generally applicable as well. Great read. Here is how it works: Cogentic runs on Gemini and works on open problems in theoretical computer science, starting from the problem statement with no expert hints. The system works in rounds, and the orchestrator decides how many provers to run in each round. Every prover gets one direction to work on, such as a specific bound or a counterexample search, plus a short briefing that a summarizer agent writes from earlier attempts and verifier feedback. Each summarizer writes its briefing independently, so provers in the same round read different summaries of the same history. Each draft goes through two adversarial verifiers. One checks the draft on its own, and the other reads all of the round&apos;s drafts side by side to catch shared mistakes. A draft is accepted only if both pass it. The agents share state through two disk documents. A record logs every attempt with the objection it failed on, and a ledger stores verified lemmas and ruled-out directions. An auditor extracts correct lemmas from rejected proofs, verifies them again independently, and adds them to the ledger. A separate process advisor reads the verification logs across rounds and updates the instructions given to provers and verifiers. The orchestrator and the advisor can&apos;t give mathematical opinions, so the provers provide all the math. It produced new results on five open problems in online learning, auction theory, and mechanism design, each checked by domain experts. Most problems took around 100 Gemini calls, and the hardest took around 1,000. Paper: https://arxiv.org/abs/2609.40324 Chat with Paper: https://academy.dair.ai/papers/cogentic-multi-agent-orchestration-for-automated-proof-discovery-2609.40324
+
+![Banger paper from Google Research on multi-agent proof discovery. (bookmark it) It&apos;s really interesting to see this emerging multi-agent pattern: not enforcing too much execution structure and pa](../../../../assets/images/2026/10/02/2106056369816420624-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2106056369816420624)
 
 ---
 

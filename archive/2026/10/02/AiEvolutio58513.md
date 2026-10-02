@@ -2,7 +2,23 @@
 
 ## 📅 October 02, 2026
 
-> 5 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 19:52 UTC · @AiEvolutio58513
+
+> 1,000,000 views. Zero customers. Media
+
+🔗 [View original post](https://x.com/ecomchasedimond/status/2106110055770972284)
+
+---
+
+### 🕐 17:07 UTC · @AiEvolutio58513
+
+> The fifth message you add costs you the first one. Toss someone one ball, and they&apos;ll catch it. Toss four more while they&apos;re holding it, and they&apos;ll usually drop all five, including the one they already caught. Marketing works the same way. An email starts with one offer, then someone adds a new arrivals block, a referral ask, and a row of social icons. By the time it goes out, the offer is buried. Homepages, landing pages, and pitch decks fill up like this too, one reasonable request at a time. Decide the one thing you want people to do before anyone starts adding. Everything else can wait for the next email, the next page, or the next ad. Say one thing. Media
+
+🔗 [View original post](https://x.com/ecomchasedimond/status/2106068463097885173)
 
 ---
 

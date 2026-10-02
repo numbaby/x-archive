@@ -2,7 +2,15 @@
 
 ## 📅 October 02, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 16:34 UTC · @omarsar0
+
+> You can&apos;t scrape a dataset that doesn&apos;t exist yet. Think about training a model on people performing a specific task, in a specific environment, from a specific camera angle. Someone has to go and capture those examples. This is what makes Kled V3 interesting. Labs can specify the data they need, and Kled can deploy collection tasks to its network of 500,000+ opt-in contributors within 72 hours. 108 configurable templates across image, video, audio, text, and annotation. Contributors capture the data on their phones, with instructions and examples of what qualifies. The opportunity here is a much tighter feedback loop: Identify where a model fails. Turn that failure into a collection task. Get new examples from the real world. Train and evaluate again. The ability to repeatedly collect the exact data a model is missing could be very powerful. This is Kled V3. We&apos;ve solved data collection for artificial general intelligence. Any consumer dataset that can exist, can now be collected from physical reality in under 72 hours. All powered by the largest and most comprehensive data application layer on the planet. (Thread)
+
+🔗 [View original post](https://x.com/omarsar0/status/2106060301917429889)
 
 ---
 
