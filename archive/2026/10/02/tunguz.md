@@ -2,7 +2,15 @@
 
 ## 📅 October 02, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 04:46 UTC · @tunguz
+
+> NB: it’s not going to be just a tool for much longer.
+
+🔗 [View original post](https://x.com/tunguz/status/2105882067347423342)
 
 ---
 
