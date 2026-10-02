@@ -2,7 +2,31 @@
 
 ## 📅 October 02, 2026
 
-> 4 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 15:40 UTC · @tunguz
+
+> They should let Claude go for a walk. I’d recommend 35,000 steps a day. The NYT article on Anthropic&apos;s campaign to sway religious scholars to view Claude as an entity with considerable moral status is both wild and very, very dark; it starts here and just gets nuttier.
+
+🔗 [View original post](https://x.com/tunguz/status/2106046789644329140)
+
+---
+
+### 🕐 15:39 UTC · @tunguz
+
+> Incredible. As a die-hard mushroom lover, I approve this message. Cancer Absolutely Hates Mushrooms. Pennsylvania State University researchers analyzed mushroom consumption on cancer risk, involving 19,500 patients. The subjects in the highest-consumption - 2/3 of an ounce of any type of mushrooms daily - had a 45% lower risk of developing canc…
+
+🔗 [View original post](https://x.com/tunguz/status/2106046470956912742)
+
+---
+
+### 🕐 15:38 UTC · @tunguz
+
+> This sounds way more lavish than it is. I’ve stayed at 5 star hotels and dined at Michelin restaurants in SF and they were underwhelming, to say the least. There really is no high-end luxury hospitality industry in SF. And most normal people, when they get proximate to those with extreme power &amp; wealth &amp; lavished with luxury &amp; attention (Michelin tasting menus, suites at the best 5 star hotel) have a very hard time fully keeping their bearings. It&apos;s an intoxicating experience &amp; one wants more.
+
+🔗 [View original post](https://x.com/tunguz/status/2106046117834268860)
 
 ---
 

@@ -2,7 +2,17 @@
 
 ## 📅 October 02, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 15:45 UTC · @dair_ai
+
+> Banger paper from NVIDIA on long running agents. A model can accept 128K tokens of context and still make more mistakes the longer it works through a task. If your agent loses its place partway through a long table or ledger, this work measures what causes it. The setup: Long-Transduction asks a model to keep reading, updating and outputting state-dependent results over thousands of outputs, and varies three factors separately. Results: Across seven open-weight models, accuracy drops 62.8% when context grows from 4K to 128K, 36.5% when only the input format changes, and 39.9% when the per-step operation gets harder. Paper: https://academy.dair.ai/papers/staying-on-task-testing-the-foundations-of-long-horizon-agent-reliability-2609.38712
+
+![Banger paper from NVIDIA on long running agents. A model can accept 128K tokens of context and still make more mistakes the longer it works through a task. If your agent loses its place partway throug](../../../../assets/images/2026/10/02/2106047824093979033-1.jpg)
+
+🔗 [View original post](https://x.com/dair_ai/status/2106047824093979033)
 
 ---
 
