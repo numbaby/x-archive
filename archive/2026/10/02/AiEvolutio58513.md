@@ -2,7 +2,15 @@
 
 ## 📅 October 02, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 13:04 UTC · @AiEvolutio58513
+
+> Dario: AI progress needs to slow down Anthropic, a week on: here comes Claude Opus 5.5 Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2106007330164998255)
 
 ---
 
