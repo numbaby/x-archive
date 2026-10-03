@@ -2,7 +2,15 @@
 
 ## 📅 October 03, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 07:32 UTC · @elonmusk
+
+> How would you like your FSD? People want FSD, so they go to https://tesla.com and pick what shape they want it in
+
+🔗 [View original post](https://x.com/elonmusk/status/2106286369018716581)
 
 ---
 
