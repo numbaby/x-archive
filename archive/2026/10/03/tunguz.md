@@ -2,7 +2,49 @@
 
 ## 📅 October 03, 2026
 
-> 9 post(s) archived.
+> 14 post(s) archived.
+
+---
+
+### 🕐 18:47 UTC · @tunguz
+
+> Hungarians are just Hungarian speaking Slavs. 🇭🇺 Hungarian DNA Distance Heatmap Closer to Austrians than to Transylvanian Hungarians. Uralic language, but genetically closest to Slovenes and Croats. max distance = 0.05
+
+🔗 [View original post](https://x.com/tunguz/status/2106456092968616278)
+
+---
+
+### 🕐 18:34 UTC · @tunguz
+
+> It was indeed a hard pill to swallow. Media
+
+🔗 [View original post](https://x.com/tunguz/status/2106452775840502128)
+
+---
+
+### 🕐 18:32 UTC · @tunguz
+
+> Sell everything and buy a cabin in the woods. Go out of debt if you have to.
+
+🔗 [View original post](https://x.com/tunguz/status/2106452303339540552)
+
+---
+
+### 🕐 17:18 UTC · @tunguz
+
+> 💯, can confirm. I spend my mornings sitting next to the person I love, looking out at the forest. Not traveling to conferences, not doing business dinners or networking events. After 45 years on this planet, can confirm, this is the best way to spend your time.
+
+![💯, can confirm. I spend my mornings sitting next to the person I love, looking out at the forest. Not traveling to conferences, not doing business dinners or networking events. After 45 years on this ](../../../../assets/images/2026/10/03/2106433765031760087-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2106433765031760087)
+
+---
+
+### 🕐 17:05 UTC · @tunguz
+
+> I’ve seen this movie play out IRL once before. You don’t want to know what comes next. lol As I said..
+
+🔗 [View original post](https://x.com/tunguz/status/2106430568519041480)
 
 ---
 
