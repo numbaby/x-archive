@@ -121803,5 +121803,18 @@
     "file": "data/posts/2026/10/2026-10-03.jsonl",
     "fingerprint": "7ccc3f6d93ad02549f9cb759e399f1e6833767fffc425704ca21e2ac59573fc3",
     "media": []
+  },
+  "2106217121109958753": {
+    "account": "tunguz",
+    "date": "2026-10-03",
+    "file": "data/posts/2026/10/2026-10-03.jsonl",
+    "fingerprint": "e9fdacb36e2732707acff6e69ebbc37a0800d9209e9f8aac7b5527190898333b",
+    "media": [
+      {
+        "local_path": "assets/images/2026/10/03/2106217121109958753-1.jpg",
+        "sha256": "42c677c149c5d40712a8ae8ed551aa6b275c487e87907e9c8b5bee6296757dc2",
+        "source_url": "https://pbs.twimg.com/media/HTrJTzmbMAA3IE1.jpg?name=orig"
+      }
+    ]
   }
 }
