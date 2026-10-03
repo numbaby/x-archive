@@ -2,7 +2,15 @@
 
 ## 📅 October 03, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 14:18 UTC · @sama
+
+> I am very uncomfortable about people trying to ascribe religious force or a surrender of human judgment to AI models, and think it is a real safety issue.
+
+🔗 [View original post](https://x.com/sama/status/2106388373221118198)
 
 ---
 

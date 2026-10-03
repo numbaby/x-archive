@@ -2,7 +2,15 @@
 
 ## 📅 October 03, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 14:02 UTC · @AiEvolutio58513
+
+> Chamath says his company&apos;s AI token bill is doubling every 45 days while output gains barely move. &quot;I sat down with my CTO today, I said how are we doing on token spend. And he said the most incredible thing, he said right now, our token costs are doubling every 45 days. I said well what is the downstream productivity? And he said maybe 5% max.&quot; &quot;So my costs are doubling every 45 days, my upside is essentially flat. He said honestly, what we&apos;re finding out is that you need to use a lot more tokens to get to this next iteration of improvement because we&apos;ve effectively already asymptoted.&quot; &quot;We&apos;re going to take a step back and try to figure out what to do. I don&apos;t know how many other companies will actually go through this reckoning now, but the point is everybody in the next three or four years will for sure go through it.&quot; &quot;I suspect that if you can get out now, you should get out now before all of that starts to seep into the water table. Because I think that&apos;s probably what allows you to get out at a huge price and raise a huge amount of money.&quot; Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2106384293882896855)
 
 ---
 

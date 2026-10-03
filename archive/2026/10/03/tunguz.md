@@ -2,7 +2,55 @@
 
 ## 📅 October 03, 2026
 
-> 3 post(s) archived.
+> 9 post(s) archived.
+
+---
+
+### 🕐 14:52 UTC · @tunguz
+
+> Great, now I need to stock up on toilet paper. 🚨Breaking. There&apos;s been a pneumonic plague outbreak at a BSL-3 lab in Siberia, Russia.🚨 &quot;Nearly 200 People Under Observation After Irkutsk Lab Worker Dies From Plague&quot; - Moscow Times This is fact, and also the inciting incident in my book BIOLOGICAL WAR: A SCENARIO, which is un…
+
+🔗 [View original post](https://x.com/tunguz/status/2106397067375714526)
+
+---
+
+### 🕐 14:52 UTC · @tunguz
+
+> oof 97 today? What the hell This is the hottest year I’ve experienced in San Diego
+
+🔗 [View original post](https://x.com/tunguz/status/2106396904427004333)
+
+---
+
+### 🕐 14:19 UTC · @tunguz
+
+> This is a great example of how far AI image generation models have progressed in just one year. One year
+
+🔗 [View original post](https://x.com/tunguz/status/2106388707175780607)
+
+---
+
+### 🕐 14:17 UTC · @tunguz
+
+> This is one of the aspects of life in Europe that I always forget about when I am away for a long time. I start reminiscing about beautiful walkable historic towns and cozy relaxed outdoor cafes, but then more often than not - especially in my neck of the continent - you are assaulted with the stench of tobacco almost everywhere. I love Monaco and France but dislike the patio smoking. It’s everywhere and it’s disgusting. Outside eating and some dude lights up a stogie or cig without a care in the world. It always amazes me how many people smoke here.
+
+🔗 [View original post](https://x.com/tunguz/status/2106388155586990089)
+
+---
+
+### 🕐 14:04 UTC · @tunguz
+
+> This is the kind of content I keep coming back to this app for.
+
+🔗 [View original post](https://x.com/tunguz/status/2106385023448518994)
+
+---
+
+### 🕐 14:01 UTC · @tunguz
+
+> Based on this segmentation of the US, Northwest is my favorite - by far! If you ever get a chance go on a road trip across that whole region. I would highly recommend it. The 14 Regions of the United States
+
+🔗 [View original post](https://x.com/tunguz/status/2106384121811570857)
 
 ---
 
