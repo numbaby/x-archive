@@ -121816,5 +121816,19 @@
         "source_url": "https://pbs.twimg.com/media/HTrJTzmbMAA3IE1.jpg?name=orig"
       }
     ]
+  },
+  "2106237721215725582": {
+    "account": "ylecun",
+    "date": "2026-10-03",
+    "file": "data/posts/2026/10/2026-10-03.jsonl",
+    "fingerprint": "eadc88e7236825da1329ca176a79d49461d05ee95cd3694efcc98ff2243445a3",
+    "media": []
+  },
+  "2106239692866019479": {
+    "account": "elonmusk",
+    "date": "2026-10-03",
+    "file": "data/posts/2026/10/2026-10-03.jsonl",
+    "fingerprint": "bd791bbeb90ba792105c38020154c55eb19aeb8030770c04acc601619f642088",
+    "media": []
   }
 }
