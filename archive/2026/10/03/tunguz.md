@@ -2,7 +2,23 @@
 
 ## 📅 October 03, 2026
 
-> 1 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 13:29 UTC · @tunguz
+
+> She is a ten, but she is one of the top women poasters on X.
+
+🔗 [View original post](https://x.com/tunguz/status/2106376196267393071)
+
+---
+
+### 🕐 13:26 UTC · @tunguz
+
+> gm A good person out of the store of goodness in his heart produces good; for from the fullness of the heart the mouth speaks.
+
+🔗 [View original post](https://x.com/tunguz/status/2106375262443323787)
 
 ---
 

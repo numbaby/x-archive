@@ -2,7 +2,15 @@
 
 ## 📅 October 03, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 12:57 UTC · @AiEvolutio58513
+
+> Leopold on how he avoids torching the fund (2024) &quot;Obviously, not blowing up is task number one and two or whatever. I think this investment firm is going to just be betting on AGI and superintelligence before the decade is out, making the bets you would make if you took that seriously.&quot; &quot;I think if that&apos;s wrong, the firm is not going to do that well.&quot; &quot;The thing you have to be able to resist is, you know, one or a couple or a few individual calls. It&apos;s like AI stagnates for a year because of the data wall, or you got the call wrong on when revenue would go up.&quot; &quot;You have to get timing right. I do think in general that the sequence of bets on the way to AGI is actually pretty critical, and something people underrate.&quot; Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2106367945047998849)
 
 ---
 
