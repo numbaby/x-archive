@@ -2,7 +2,15 @@
 
 ## 📅 October 04, 2026
 
-> 11 post(s) archived.
+> 12 post(s) archived.
+
+---
+
+### 🕐 22:29 UTC · @tunguz
+
+> I&apos;m rawdog YOLOing on the hard mode. I&apos;m not the only one.
+
+🔗 [View original post](https://x.com/tunguz/status/2106874286980190719)
 
 ---
 
