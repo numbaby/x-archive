@@ -122232,5 +122232,12 @@
     "file": "data/posts/2026/10/2026-10-03.jsonl",
     "fingerprint": "76886e7792e8ffb13d16fa25abf6a22acb5bf9ba8219a67e7bdef1341631c336",
     "media": []
+  },
+  "2106550759458533513": {
+    "account": "simonw",
+    "date": "2026-10-04",
+    "file": "data/posts/2026/10/2026-10-04.jsonl",
+    "fingerprint": "ec98dedd8cbc37aa954e2329ec114d70a474d205b15215c8bfab6bd0ff1ba2df",
+    "media": []
   }
 }
