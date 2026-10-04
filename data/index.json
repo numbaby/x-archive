@@ -122281,6 +122281,19 @@
       }
     ]
   },
+  "2106577517079626133": {
+    "account": "ylecun",
+    "date": "2026-10-04",
+    "file": "data/posts/2026/10/2026-10-04.jsonl",
+    "fingerprint": "4b23913566f08df4e1f87a7515383df33df9b2589093d10b95280e866a6f0e87",
+    "media": [
+      {
+        "local_path": "assets/images/2026/09/16/2100234069543940320-1.jpg",
+        "sha256": "18a616cc4e394d3f77b7c8799bb13290e9257f4fbe5c0a275d064290ff12d7c5",
+        "source_url": "https://pbs.twimg.com/card_img/2104806131541700608/sylfgM1k?format=jpg&name=420x420_2"
+      }
+    ]
+  },
   "2106578320313958553": {
     "account": "tunguz",
     "date": "2026-10-04",
@@ -122460,5 +122473,54 @@
         "source_url": "https://pbs.twimg.com/media/HTyBT19aUAABto1.jpg?name=orig"
       }
     ]
+  },
+  "2106730596114587756": {
+    "account": "AiEvolutio58513",
+    "date": "2026-10-04",
+    "file": "data/posts/2026/10/2026-10-04.jsonl",
+    "fingerprint": "65e0e7fafffb0bd8ef27ec7d47f3783cac5613beae2d9be09a981483d1e3719d",
+    "media": []
+  },
+  "2106745938635288791": {
+    "account": "AiEvolutio58513",
+    "date": "2026-10-04",
+    "file": "data/posts/2026/10/2026-10-04.jsonl",
+    "fingerprint": "ea38125d4414951ba06815631b6475738e3bce0c65783cbcbc011244cd20e0f9",
+    "media": []
+  },
+  "2106749383505048054": {
+    "account": "omarsar0",
+    "date": "2026-10-04",
+    "file": "data/posts/2026/10/2026-10-04.jsonl",
+    "fingerprint": "bf8cd773bc7f735e78c10a85bb3273090e9b5d30fe535cea2619a699955c2a6b",
+    "media": []
+  },
+  "2106749694630314017": {
+    "account": "elonmusk",
+    "date": "2026-10-04",
+    "file": "data/posts/2026/10/2026-10-04.jsonl",
+    "fingerprint": "9ce0fc82fdb07e377e2fef724ea821bf215c84ee2966ac0fee24e98f4af6055b",
+    "media": []
+  },
+  "2106752111874593186": {
+    "account": "omarsar0",
+    "date": "2026-10-04",
+    "file": "data/posts/2026/10/2026-10-04.jsonl",
+    "fingerprint": "9c3ead0854073c649bfd711496ac4720bf0fa55ee03c6312d6cfeeb1bc90a77f",
+    "media": []
+  },
+  "2106757368419958954": {
+    "account": "elonmusk",
+    "date": "2026-10-04",
+    "file": "data/posts/2026/10/2026-10-04.jsonl",
+    "fingerprint": "3be51bc6982533e3e388233c7449adf654fa776b6717eb6d339c89a6e7c943e8",
+    "media": []
+  },
+  "2106758102674534734": {
+    "account": "elonmusk",
+    "date": "2026-10-04",
+    "file": "data/posts/2026/10/2026-10-04.jsonl",
+    "fingerprint": "afa58a16f6a764e1f5087738285735878a8c7db897b76661416370ae91546165",
+    "media": []
   }
 }

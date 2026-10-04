@@ -2,7 +2,23 @@
 
 ## 📅 October 04, 2026
 
-> 3 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 14:23 UTC · @omarsar0
+
+> Same here. I used the terminal for a long time, and I loved it. Agents have changed all of that. I didn&apos;t imagine that that day would arrive, but I have completely moved away from the terminal. You can delegate so much more of this stuff to agents now. And today there are undeniably better interfaces for working with agents. But that experience with terminals has made me a better systems thinker, which I have used in areas like designing useful sandboxes and interesting abstractions on top of them. I was a terminal person for 15+ years. I loved Vim, knew all the shortcuts, and a black terminal made me feel like I was a cool hacker in The Matrix. But terminals assume humans operate computers directly via files, commands, processes. Agents changed all that. You just say your …
+
+🔗 [View original post](https://x.com/omarsar0/status/2106752111874593186)
+
+---
+
+### 🕐 14:12 UTC · @omarsar0
+
+> Tbc, given how much confusion in replies, coding agents still operate via CLI. For me, that&apos;s happening in the background now, rather than being the main way I directly interact with agents. I agree with Yuchen in that the terminal era is over. So many constraints with it. Codex Desktop is as good as it gets today, but even that seems not optimal in some cases. So what I have built and use is an interface that&apos;s more flexible and lets me combine focused agent sessions with high-level persistent agents that can manage all my agent sessions when the number of them gets out of control.
+
+🔗 [View original post](https://x.com/omarsar0/status/2106749383505048054)
 
 ---
 
