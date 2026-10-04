@@ -2,7 +2,39 @@
 
 ## 📅 October 04, 2026
 
-> 15 post(s) archived.
+> 22 post(s) archived.
+
+---
+
+### 🕐 15:34 UTC · @elonmusk
+
+> Yes Grok 4.7 writes great code.
+
+🔗 [View original post](https://x.com/elonmusk/status/2106769853575000431)
+
+---
+
+### 🕐 15:31 UTC · @elonmusk
+
+> Try Grok @Bot this is unreal… the SpaceXAI engineer who leads Grok Bot, Lauren Tan - shipped 2,500 PRs last month - and reviews them after they land, in the morning I took SpaceXAI&apos;s Grok Bot docs + her 1-hour livestream and turned them into a 3-page prompting blueprint: the 10-field prompt st…
+
+🔗 [View original post](https://x.com/elonmusk/status/2106769237435982129)
+
+---
+
+### 🕐 15:14 UTC · @elonmusk
+
+> Grok is now making all boring stuff for me. For Argil. For personal stuff. It’s like having a 10-person S-tier team working for me. Grok
+
+🔗 [View original post](https://x.com/brivael/status/2106764802643161266)
+
+---
+
+### 🕐 15:01 UTC · @elonmusk
+
+> Grok BREAKING: Farmersville, California, will use Grok to draft council meeting minutes The council voted 4-1 to use Grok. Drafts will be made from meeting recordings and proofread by the city clerk. The city manager praised Grok as more affordable, thorough and objective.
+
+🔗 [View original post](https://x.com/elonmusk/status/2106761668256759878)
 
 ---
 
@@ -27,6 +59,32 @@
 > &quot;Just because Ken Paxton made some bad personal decisions doesn&apos;t mean I have to put my face in a wood chipper and vote for people who have gone plumb crazy!&quot; -- @ScottJenningsKY Media
 
 🔗 [View original post](https://x.com/markfinkelstein/status/2106749694630314017)
+
+---
+
+### 🕐 14:00 UTC · @elonmusk
+
+> SpaceXAI engineer, Lauren Tan: &quot;I was a meat proxy between my agent and my browser. So I fired myself Now 10+ Chiefs of Staff run my agents 24/7 and I just check the work in the morning&quot; In 1 hour, she shows exactly how she built that dark factory with GrokBot Skills → Verification → Loops → GrokBot → Dark Factory Most engineers still babysit one agent. She fired herself from that job This talk is worth more than most $1,500 agentic engineering courses Bookmark and watch it today Then read how to hire your first team of Grok Bots in the article below ↓ Media Grok Bot could be the first thing you hire instead of prompt It can own a job, work inside your tools for hours and come back with finished work In this article, I show you how https://x.com/i/article/2105262478535847936
+
+🔗 [View original post](https://x.com/distortgeekin/status/2106746198082088970)
+
+---
+
+### 🕐 13:40 UTC · @elonmusk
+
+> Thomas, a longtime Porsche enthusiast, never imagined—“not in a million years,” as he puts it—that he would go from being a Tesla critic to a passionate Model Y owner. Today, he owns three Teslas, completely transforming the lineup in his garage. There’s a good reason Model Y has been the world’s best-selling vehicle of any kind, ICE or EV, for several years running. Watch this sports car guru explain what changed his mind and why he became such a big Model Y proponent: https://youtu.be/khBaMSoSYAk?is=la_x0ifmunex8d3h Media
+
+🔗 [View original post](https://x.com/ray4tesla/status/2106741267048669662)
+
+---
+
+### 🕐 13:24 UTC · @elonmusk
+
+> It looks like I might have underestimated Grok 4.7, this is a very good model. It just scored the highest on Frontier v4 beating GPT-6.1 Sol, Opus 5.5, and GPT-6 Astra at every effort level.
+
+![It looks like I might have underestimated Grok 4.7, this is a very good model. It just scored the highest on Frontier v4 beating GPT-6.1 Sol, Opus 5.5, and GPT-6 Astra at every effort level.](../../../../assets/images/2026/10/04/2106737322255622550-1.jpg)
+
+🔗 [View original post](https://x.com/morganlinton/status/2106737322255622550)
 
 ---
 

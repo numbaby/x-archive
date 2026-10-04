@@ -2,7 +2,23 @@
 
 ## 📅 October 04, 2026
 
-> 2 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 15:47 UTC · @tunguz
+
+> Those who can, do. Those who can’t, rename.
+
+🔗 [View original post](https://x.com/tunguz/status/2106773284037742827)
+
+---
+
+### 🕐 15:32 UTC · @tunguz
+
+> gm whatever is true, what­ever is honorable, whatever is just, whatever is pure, whatever is lovely, whatever is gracious, if there is any excellence and if there is anything worthy of praise, think about these things
+
+🔗 [View original post](https://x.com/tunguz/status/2106769312723996855)
 
 ---
 

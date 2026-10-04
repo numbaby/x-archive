@@ -2,7 +2,15 @@
 
 ## 📅 October 04, 2026
 
-> 5 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 15:38 UTC · @omarsar0
+
+> The Top AI Papers of the Week (Sep 28 - Oct 4): - JAZ - CASD - Agensh - Jev-Mem - AutoGym - Taste-Bench - Context Language Models Read on for more: https://x.com/i/article/2106769688780775424
+
+🔗 [View original post](https://x.com/dair_ai/status/2106770888054182374)
 
 ---
 
