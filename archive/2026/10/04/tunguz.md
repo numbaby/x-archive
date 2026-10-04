@@ -2,7 +2,51 @@
 
 ## 📅 October 04, 2026
 
-> 4 post(s) archived.
+> 9 post(s) archived.
+
+---
+
+### 🕐 19:06 UTC · @tunguz
+
+> organized sports for kids are bad organized sports for kids aren’t bad, don’t get me wrong but as a dad I think I’d prefer to be in the game just go to your local gym, bring your son, catch a pickup game then you get your exercise in instead of sitting on the sideline and you’ll make better memories together
+
+🔗 [View original post](https://x.com/tunguz/status/2106823395476463828)
+
+---
+
+### 🕐 19:03 UTC · @tunguz
+
+> I&apos;m 69. Noice.
+
+![I&apos;m 69. Noice.](../../../../assets/images/2026/10/04/2106822549795701207-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2106822549795701207)
+
+---
+
+### 🕐 18:15 UTC · @tunguz
+
+> The secret to American success is that kids here are taught from a very early age to embrace the entrepreneurial culture.
+
+![The secret to American success is that kids here are taught from a very early age to embrace the entrepreneurial culture.](../../../../assets/images/2026/10/04/2106810371558584767-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2106810371558584767)
+
+---
+
+### 🕐 17:24 UTC · @tunguz
+
+> Vote early, vote often, but most importantly vote for me! based on the wild success of top women posters on X, i have now built the ultimate top 50 tech posters list. https://tech50x.snytch.ai/ this list isn&apos;t biased &amp; fully driven by community. you can nominate &amp; vote for your favorite tech posters. voting ends in 7 days.
+
+🔗 [View original post](https://x.com/tunguz/status/2106797535583179080)
+
+---
+
+### 🕐 17:13 UTC · @tunguz
+
+> I need to try this out. finally started prioritizing diversity my engineering team is now one chinese claude and one indian claude. sales claude is an alcoholic the team is really coming together
+
+🔗 [View original post](https://x.com/tunguz/status/2106794934267457897)
 
 ---
 
