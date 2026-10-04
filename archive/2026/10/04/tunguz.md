@@ -2,7 +2,23 @@
 
 ## 📅 October 04, 2026
 
-> 9 post(s) archived.
+> 11 post(s) archived.
+
+---
+
+### 🕐 19:46 UTC · @tunguz
+
+> Long way to go, but we are thankfully making progress. US newborn circumcision fell to about 49% by 2022, down from 54% a decade earlier.
+
+🔗 [View original post](https://x.com/tunguz/status/2106833429971268082)
+
+---
+
+### 🕐 19:33 UTC · @tunguz
+
+> yes this is the only list &amp; the most goated list. https://tech50x.snytch.ai/
+
+🔗 [View original post](https://x.com/tunguz/status/2106830081314496872)
 
 ---
 

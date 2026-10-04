@@ -2,7 +2,17 @@
 
 ## 📅 October 04, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 19:53 UTC · @emollick
+
+> I am quite impressed with how pretty the results are. Here it is on github: https://github.com/emollick/brut
+
+![I am quite impressed with how pretty the results are. Here it is on github: https://github.com/emollick/brut](../../../../assets/images/2026/10/04/2106835114626027726-1.jpg)
+
+🔗 [View original post](https://x.com/emollick/status/2106835114626027726)
 
 ---
 
