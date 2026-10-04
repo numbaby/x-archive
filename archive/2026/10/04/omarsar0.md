@@ -2,7 +2,17 @@
 
 ## 📅 October 04, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 11:00 UTC · @omarsar0
+
+> Banger paper from Google. It&apos;s standard practice to sample several agent rollouts and trust the answers they agree on. This Google paper shows that agreement can hide shared errors, while disagreement often points to the correct alternative. VeriHarness turns the same base model into an agentic verifier with two jobs. One resolves claims where rollouts disagree by checking workspace evidence. The other challenges claims that every rollout agrees on and looks for requirements they all missed. Across five long-horizon benchmarks, it gives the best selection scores among the baselines tested. With evidence-backed revision, it adds 6.2 points over a single rollout with Gemini 3.5 Flash and 6.4 points with Claude Opus 4.8. The authors also release about 26,000 rollouts. Paper: https://arxiv.org/abs/2610.00972 Chat with Paper: https://academy.dair.ai/papers/veriharness-scaling-agentic-verification-for-long-horizon-tasks-2610.00972
+
+![Banger paper from Google. It&apos;s standard practice to sample several agent rollouts and trust the answers they agree on. This Google paper shows that agreement can hide shared errors, while disagre](../../../../assets/images/2026/10/04/2106700905051746803-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2106700905051746803)
 
 ---
 

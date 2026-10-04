@@ -2,7 +2,17 @@
 
 ## 📅 October 04, 2026
 
-> 11 post(s) archived.
+> 12 post(s) archived.
+
+---
+
+### 🕐 10:19 UTC · @elonmusk
+
+> Elon was thinking about superintelligence long before anyone in the mainstream even understood where superintelligence was heading He was deeply involved in the conversation around Nick Bostrom’s Superintelligence and even contributed to the book. Bostrom thanked him by name in the foreword Elon was already warning about the safety risks of Super Intelligence years before 2014 Then he started OpenAI in 2015 because he wanted a counterweight in advanced intelligence that would focus on benefiting humanity And now we’re entering the SI era....Elon was already thinking about this more than a decade ago, with a clear understanding of what it could eventually become He saw where this was going early, helped push the modern SI race forward, and spent years warning that intelligence beyond humans has to remain aligned with humanity Elon didn’t suddenly start thinking about SI because it became the biggest thing in technology He was thinking about it before everyone else knew what was coming And now we’re living through the future he was preparing for People keep misunderstanding this. I CONTRIBUTED to Bostrom’s Superintelligence book and he thanks me by name in the foreword. I was thinking about AI safety long before 2014.
+
+![Elon was thinking about superintelligence long before anyone in the mainstream even understood where superintelligence was heading He was deeply involved in the conversation around Nick Bostrom’s Supe](../../../../assets/images/2026/10/04/2106690605254672700-1.jpg)
+
+🔗 [View original post](https://x.com/XFreeze/status/2106690605254672700)
 
 ---
 

@@ -122268,6 +122268,19 @@
     "fingerprint": "a788e3f50ca1d175cff74c460ff01700bfec98362711c23b18b9dad9cc3853d7",
     "media": []
   },
+  "2106570979115761751": {
+    "account": "ylecun",
+    "date": "2026-10-04",
+    "file": "data/posts/2026/10/2026-10-04.jsonl",
+    "fingerprint": "3493346b65d13d0621d1eb4ba7e74ff44630d1269c6e8a4fed5c14615552dcc1",
+    "media": [
+      {
+        "local_path": "assets/images/2026/10/04/2106570979115761751-1.png",
+        "sha256": "abdb37bc1f6d571f2e362f14313d3e9f55edb443d72339c0e68ce257029d201d",
+        "source_url": "https://pbs.twimg.com/card_img/2106321546369253377/2O7ehx4R?format=png&name=800x419"
+      }
+    ]
+  },
   "2106578320313958553": {
     "account": "tunguz",
     "date": "2026-10-04",
@@ -122375,5 +122388,77 @@
     "file": "data/posts/2026/10/2026-10-04.jsonl",
     "fingerprint": "29e43bf858913b7a6cfed67f762bb259a2ad28188dffe993fb29c42187cfbac6",
     "media": []
+  },
+  "2106690605254672700": {
+    "account": "elonmusk",
+    "date": "2026-10-04",
+    "file": "data/posts/2026/10/2026-10-04.jsonl",
+    "fingerprint": "557469ed6c4c146477f1dbaa87a46efaf1486b569dc7d091ddcb6b46d8d12c76",
+    "media": [
+      {
+        "local_path": "assets/images/2026/10/04/2106690605254672700-1.jpg",
+        "sha256": "aed12f3fdf72468887d637b856f89a3ad65f32227a3ae920b295c537e6985c5b",
+        "source_url": "https://pbs.twimg.com/media/HTx2HuFbsAAVvEm.jpg?name=orig"
+      }
+    ]
+  },
+  "2106700131936723034": {
+    "account": "AiEvolutio58513",
+    "date": "2026-10-04",
+    "file": "data/posts/2026/10/2026-10-04.jsonl",
+    "fingerprint": "98a61e1fb1fcaca7615868c69ae6fd0c31b60e2290bb4765f6769fb9e31e53da",
+    "media": []
+  },
+  "2106700738038509948": {
+    "account": "Letstalk246",
+    "date": "2026-10-04",
+    "file": "data/posts/2026/10/2026-10-04.jsonl",
+    "fingerprint": "ebf262e767c7e4fbb3f49f707c9521c500145170c5c551a42334be6c4e1ca277",
+    "media": [
+      {
+        "local_path": "assets/images/2026/10/04/2106700738038509948-1.jpg",
+        "sha256": "7ae60132ce08e9ec96c727230f45b7bf52aae22d58d0c7fa6b97e7be891c038b",
+        "source_url": "https://pbs.twimg.com/media/HTyBJkhXAAASH18.jpg?name=orig"
+      }
+    ]
+  },
+  "2106700758972338673": {
+    "account": "Letstalk246",
+    "date": "2026-10-04",
+    "file": "data/posts/2026/10/2026-10-04.jsonl",
+    "fingerprint": "c66b80f5b22d6156eeb5c9d5e86bc073bd5fcb32700d2b7bcb5665ca99755477",
+    "media": [
+      {
+        "local_path": "assets/images/2026/10/04/2106700758972338673-1.jpg",
+        "sha256": "9bb2941c61de8275885fd68180c9e3954d818906883e189fd5f23b6d20afac69",
+        "source_url": "https://pbs.twimg.com/media/HTyBK3QXwAAzgc8.jpg?name=orig"
+      }
+    ]
+  },
+  "2106700905051746803": {
+    "account": "omarsar0",
+    "date": "2026-10-04",
+    "file": "data/posts/2026/10/2026-10-04.jsonl",
+    "fingerprint": "e12e3ff5ae1e2a8c6ee6063f1a92bca23898bb4fd0719ba61af30a83832cfc15",
+    "media": [
+      {
+        "local_path": "assets/images/2026/10/04/2106700905051746803-1.jpg",
+        "sha256": "f05f5e05a44d49deddb7b3773bca9f4155bd0bf35e730097e48a4f0c7e4723f1",
+        "source_url": "https://pbs.twimg.com/media/HTyBTuEasAAAdrQ.jpg?name=orig"
+      }
+    ]
+  },
+  "2106700907106943107": {
+    "account": "dair_ai",
+    "date": "2026-10-04",
+    "file": "data/posts/2026/10/2026-10-04.jsonl",
+    "fingerprint": "e95f5768101526f942384ad619fd0b36a58f80b7898dcdfae0e64b0f5cde2cd3",
+    "media": [
+      {
+        "local_path": "assets/images/2026/10/04/2106700907106943107-1.jpg",
+        "sha256": "5a56d37c35bb00b30016e78613ebc7a3c955a7a1c80f4dc3b30bd8a0d7ae72b9",
+        "source_url": "https://pbs.twimg.com/media/HTyBT19aUAABto1.jpg?name=orig"
+      }
+    ]
   }
 }
