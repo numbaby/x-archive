@@ -2,7 +2,17 @@
 
 ## 📅 October 04, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 05:37 UTC · @omarsar0
+
+> New paper from Microsoft and colleagues on evolving agent harnesses. It&apos;s a really cool idea to evolve a harness from published research. Something I have also been testing for the past couple of months. ScholarEvolve proposes harness changes based on published agent research rather than the agent&apos;s own failure logs. It splits the harness into modules for tool use, memory management, and task execution. It runs topic modeling over recent papers to identify distinct improvement strategies for each module, then implements and tests combinations. New papers can be added over time. With the model held fixed, Qwen3.5-27B goal completion on AppWorld Challenge rises from 49.6% to 63.6%, and GPT-5.4-mini on Tau2-Bench Telecom rises from 72.7% to 81.9%. Paper: https://arxiv.org/abs/2609.40169 Chat with Paper: https://academy.dair.ai/papers/learning-from-research-toward-lifelong-agent-harness-evolution-2609.40169
+
+![New paper from Microsoft and colleagues on evolving agent harnesses. It&apos;s a really cool idea to evolve a harness from published research. Something I have also been testing for the past couple of](../../../../assets/images/2026/10/04/2106619582463312315-1.png)
+
+🔗 [View original post](https://x.com/omarsar0/status/2106619582463312315)
 
 ---
 
