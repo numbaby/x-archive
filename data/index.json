@@ -122835,6 +122835,19 @@
     "fingerprint": "b835bdf7e22609941d3177cf0b22d153770a5f2befe306bba0c17b71cbfc422a",
     "media": []
   },
+  "2106900700206944349": {
+    "account": "elonmusk",
+    "date": "2026-10-05",
+    "file": "data/posts/2026/10/2026-10-05.jsonl",
+    "fingerprint": "ac4911a5d2ade0e3e8d2caef33fd5ad00af76689a06d50766fd480b5a88891f8",
+    "media": [
+      {
+        "local_path": "assets/images/2026/10/05/2106900700206944349-1.jpg",
+        "sha256": "ee22e7d0037decf827e3b13d3c558e82cb08fc7e808f92907bf6459ce6bc0701",
+        "source_url": "https://pbs.twimg.com/media/HT03BDybEAEEZ9o.jpg?name=orig"
+      }
+    ]
+  },
   "2106902948173529447": {
     "account": "dair_ai",
     "date": "2026-10-05",
@@ -122847,5 +122860,40 @@
         "source_url": "https://pbs.twimg.com/media/HT05ELAagAAHS1V.jpg?name=orig"
       }
     ]
+  },
+  "2106905035065991214": {
+    "account": "elonmusk",
+    "date": "2026-10-05",
+    "file": "data/posts/2026/10/2026-10-05.jsonl",
+    "fingerprint": "27325181246954ab22f47b4d7f242978b2a33e51c98042126bf7396c19f8e4c3",
+    "media": []
+  },
+  "2106906678293606496": {
+    "account": "elonmusk",
+    "date": "2026-10-05",
+    "file": "data/posts/2026/10/2026-10-05.jsonl",
+    "fingerprint": "71c00e5bbe3d803d721f274a30567fb0beb00ab315f7cf6767fc9c13f5cddf62",
+    "media": []
+  },
+  "2106914993526747224": {
+    "account": "emollick",
+    "date": "2026-10-05",
+    "file": "data/posts/2026/10/2026-10-05.jsonl",
+    "fingerprint": "994c317fef76f84295f0a95285e179d2d90ab7bf9af5ec9fb64d2d54d86fc0c7",
+    "media": []
+  },
+  "2106915444162535803": {
+    "account": "emollick",
+    "date": "2026-10-05",
+    "file": "data/posts/2026/10/2026-10-05.jsonl",
+    "fingerprint": "845b96a6cd99039761c34e68d3c57837f2d03529e4b8cedd511771e460633a4c",
+    "media": []
+  },
+  "2106919647392285020": {
+    "account": "tunguz",
+    "date": "2026-10-05",
+    "file": "data/posts/2026/10/2026-10-05.jsonl",
+    "fingerprint": "0069148c297b4b2fde57cbe8aea8905220c2fce36373ff80ca6a27000944b88a",
+    "media": []
   }
 }
