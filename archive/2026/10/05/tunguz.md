@@ -2,7 +2,93 @@
 
 ## 📅 October 05, 2026
 
-> 5 post(s) archived.
+> 15 post(s) archived.
+
+---
+
+### 🕐 14:38 UTC · @tunguz
+
+> oof
+
+![oof](../../../../assets/images/2026/10/05/2107118160197628261-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2107118160197628261)
+
+---
+
+### 🕐 14:14 UTC · @tunguz
+
+> Yes what if in the end, it&apos;s catholics who save us from an AI extinction event
+
+![Yes what if in the end, it&apos;s catholics who save us from an AI extinction event](../../../../assets/images/2026/10/05/2107112208308297767-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2107112208308297767)
+
+---
+
+### 🕐 14:04 UTC · @tunguz
+
+> Despite all of its faults, this is why I’m still bullish on America. I’m assembling a team
+
+🔗 [View original post](https://x.com/tunguz/status/2107109616723308574)
+
+---
+
+### 🕐 13:52 UTC · @tunguz
+
+> Oh no! How am I ever going to recover from this! @tunguz Was going to follow you but then you wrote this. Sports teach life fundamentals, you’re a nerd and don’t understand this. Sad.
+
+🔗 [View original post](https://x.com/tunguz/status/2107106678500188169)
+
+---
+
+### 🕐 13:50 UTC · @tunguz
+
+> Reposting since this has again become relevant. Questioning validity of IQ tests is a low IQ cope.
+
+🔗 [View original post](https://x.com/tunguz/status/2107106194469064850)
+
+---
+
+### 🕐 13:46 UTC · @tunguz
+
+> I am screwed, all the papers that I was on that were submitted to Nature publications have been accepted. :/ In 1992 Peter Ratcliffe received this rejection from Nature. Almost 30 years later he won the Nobel Prize for the same discovery. Don&apos;t lose faith in the things you believe in.
+
+🔗 [View original post](https://x.com/tunguz/status/2107105247802085629)
+
+---
+
+### 🕐 13:38 UTC · @tunguz
+
+> Slovenian domain name brokers right now.
+
+![Slovenian domain name brokers right now.](../../../../assets/images/2026/10/05/2107103199710900494-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2107103199710900494)
+
+---
+
+### 🕐 13:36 UTC · @tunguz
+
+> You become what you immanentize. Humanity is not a fucking bootloader.
+
+🔗 [View original post](https://x.com/tunguz/status/2107102699150098881)
+
+---
+
+### 🕐 13:35 UTC · @tunguz
+
+> This is one of the biggest problems with online ratings. If you move to a new town where you don’t know anyone, and want to get services done, you turn to online ratings only to discover that they are next to useless. I analyzed the range of ratings on booking sites and it&apos;s pretty crazy Airbnb goes just from 4.5 to 5 with a median of 5! But most others aren&apos;t better, they all range from about 4 to 5, and almost all have a median of 4.25, with not many scores outside of it! The best site in
+
+🔗 [View original post](https://x.com/tunguz/status/2107102306605150596)
+
+---
+
+### 🕐 12:30 UTC · @tunguz
+
+> Not wrong, even though I love Italian food. IMHO Balkan cuisine is way better, but like everything else from the Balkans it is the victim of poor marketing. I’ve been in Italy for almost two weeks and I still think Italian food is mid.
+
+🔗 [View original post](https://x.com/tunguz/status/2107085974752923688)
 
 ---
 

@@ -2,7 +2,23 @@
 
 ## 📅 October 05, 2026
 
-> 1 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 14:02 UTC · @AiEvolutio58513
+
+> Mark Cuban on where the next wave of jobs will come from. AI integration tailored to small and mid-sized businesses. &quot;Software is dead because everything&apos;s gonna be customized to your unique utilization. Who&apos;s gonna do it for them... And there are 33 mn companies in the US.&quot; The role is called Forward Deployed Engineer. Right now it&apos;s the hottest role in tech, and few people have even heard of it. Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2107109142221754800)
+
+---
+
+### 🕐 13:04 UTC · @AiEvolutio58513
+
+> Grok 4.7 took one simple prompt and built an interactive 3D jet engine visualizer. Start to finish, it took minutes. Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2107094529409188067)
 
 ---
 
