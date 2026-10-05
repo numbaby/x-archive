@@ -2,7 +2,33 @@
 
 ## 📅 October 05, 2026
 
-> 3 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 04:21 UTC · @emollick
+
+> The whole reset thing is really weird and only makes sense to a narrow slice of even people on Twitter. Everyone else expects to plan their usage in some sort of rational way and getting random prizes of tokens is kind of strange. Like what percent of the user base gets this? Do you ever think of all the ChatGPT pro users who aren’t on Twitter and are just completely confused at why their usage randomly resets and why they receive banked resets
+
+🔗 [View original post](https://x.com/emollick/status/2106962963362111666)
+
+---
+
+### 🕐 04:14 UTC · @emollick
+
+> I have spoken with company leaders in just the last couple of months that talk about their efforts to train people to make GPTs! I think OpenAI needs to figure out ways to bring people along where it is going, since most people are not following this stuff closely.
+
+🔗 [View original post](https://x.com/emollick/status/2106961322902745511)
+
+---
+
+### 🕐 04:03 UTC · @emollick
+
+> I can migrate my most-used GPT (going away in December) to a private &quot;plugin.&quot; But the reason I created a GPT was for other people to use it. GPTs are obviously obsolete, but I know they were a focus within companies &amp; among educators for years. This isn&apos;t a great path for them.
+
+![I can migrate my most-used GPT (going away in December) to a private &quot;plugin.&quot; But the reason I created a GPT was for other people to use it. GPTs are obviously obsolete, but I know they wer](../../../../assets/images/2026/10/05/2106958444196413670-1.png)
+
+🔗 [View original post](https://x.com/emollick/status/2106958444196413670)
 
 ---
 
