@@ -2,7 +2,57 @@
 
 ## 📅 October 05, 2026
 
-> 15 post(s) archived.
+> 21 post(s) archived.
+
+---
+
+### 🕐 16:12 UTC · @tunguz
+
+> Tennessee and Idaho are goated. Utah and North Dakota are cursed. The most popular Halloween candy in every state
+
+🔗 [View original post](https://x.com/tunguz/status/2107141843729461582)
+
+---
+
+### 🕐 15:56 UTC · @tunguz
+
+> Americans will use anything to measure things except the metric system.
+
+![Americans will use anything to measure things except the metric system.](../../../../assets/images/2026/10/05/2107137790953803872-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2107137790953803872)
+
+---
+
+### 🕐 15:44 UTC · @tunguz
+
+> Narrator: we will become dogs to ASI. In the era of ASI, dogs will be huge.
+
+🔗 [View original post](https://x.com/tunguz/status/2107134726595399875)
+
+---
+
+### 🕐 15:27 UTC · @tunguz
+
+> No. Is there anywhere in the world with a larger gap between the price you pay and the value of the urban amenities you get than in San Francisco?
+
+🔗 [View original post](https://x.com/tunguz/status/2107130474800054725)
+
+---
+
+### 🕐 15:26 UTC · @tunguz
+
+> I feel this ... Living in Europe not on vacation for 6+ months makes you realize why America is amazing.
+
+🔗 [View original post](https://x.com/tunguz/status/2107130332587966960)
+
+---
+
+### 🕐 15:24 UTC · @tunguz
+
+> Options is all you need. Money doesn’t buy happiness, but it buys options. And it’s really cool to have options.
+
+🔗 [View original post](https://x.com/tunguz/status/2107129915116294551)
 
 ---
 

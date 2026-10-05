@@ -2,7 +2,17 @@
 
 ## 📅 October 05, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 16:07 UTC · @dair_ai
+
+> Does telling your agent to plan ahead actually help? It&apos;s standard practice to add a &quot;plan ahead&quot; or &quot;think about the other players&quot; instruction to an agent&apos;s prompt. In auctions and matching markets, this Harvard-MIT paper finds that those prompts make play worse overall. The authors use settings with known optimal strategies, so they can score every choice. What helped was changing the interface. An ascending auction, which presents one safe choice at a time, reduced bid errors across four model families. Plain descriptions of the payoffs and of why truthful bidding is safe also helped. The agents&apos; stated plans did not track their choices. Interventions that improved bids left the measured reasoning quality in the plans unchanged, and some prompts improved the plans without improving bids. The takeaway here is to evaluate a scaffold on the decisions it produces. Paper: https://arxiv.org/abs/2609.36365 Chat with Paper: https://academy.dair.ai/papers/engineering-simplicity-simple-mechanism-interfaces-steer-llm-agents-2609.36365
+
+![Does telling your agent to plan ahead actually help? It&apos;s standard practice to add a &quot;plan ahead&quot; or &quot;think about the other players&quot; instruction to an agent&apos;s prompt. In ](../../../../assets/images/2026/10/05/2107140669194064288-1.png)
+
+🔗 [View original post](https://x.com/dair_ai/status/2107140669194064288)
 
 ---
 

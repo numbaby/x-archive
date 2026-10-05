@@ -2,7 +2,17 @@
 
 ## 📅 October 05, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 16:05 UTC · @AiEvolutio58513
+
+> Most brands send the exact same email to their entire list. When they say they&apos;re split testing, what they&apos;ve actually done is cut the list in half and given each half a different subject line. The hero, the copy, and the offer inside stay identical for everyone. So the test tells you which subject line got more opens, and then everyone on the list lands on the same email anyway. @getallanai changes what gets tested. It sits on top of Omnisend or Klaviyo, and your designer uploads heroes, copy, CTAs, and product blocks instead of finished emails. Allan builds a different email for each subscriber at send time, subject line included, and keeps serving more of whatever lands with each person. Now the whole email gets tested on every send, one subscriber at a time. You&apos;ll wish you started sooner, trust me: https://getallan.com/?utm_source=chase&amp;utm_medium=social
+
+![Most brands send the exact same email to their entire list. When they say they&apos;re split testing, what they&apos;ve actually done is cut the list in half and given each half a different subject li](../../../../assets/images/2026/10/05/2107140138547781911-1.jpg)
+
+🔗 [View original post](https://x.com/ecomchasedimond/status/2107140138547781911)
 
 ---
 

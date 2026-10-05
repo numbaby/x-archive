@@ -2,7 +2,23 @@
 
 ## 📅 October 05, 2026
 
-> 2 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 15:24 UTC · @omarsar0
+
+> A big milestone for AI in healthcare. @nollahealth can now use AI to prescribe acne treatment in Utah. The AI handles intake, a skin scan, assessment, prescription, and follow-up, and a clinician steps in when needed. Starting with acne makes sense to me because it is common and relatively low risk. Very excited about AI-powered personalized healthcare. I have personally benefited from AI for health, so it&apos;s awesome to see this progress. Today, Nolla Health became the first organization in the U.S. (and possibly the world) to receive regulatory approval for an AI to issue initial prescriptions. This makes Nolla the first ever actual end-to-end AI doctor.
+
+🔗 [View original post](https://x.com/omarsar0/status/2107129885000884328)
+
+---
+
+### 🕐 15:08 UTC · @omarsar0
+
+> Or just build your own. That&apos;s how you make personal agents fully yours. You can sit and wait for the next bug fix or for one of these providers to address your safety concerns, or you can start co-evolving a personal agent as needs arise. I have chosen the latter. A personal agent is something you should fully own, from the traces to memory to all outputs. So much resistance to building your own harness and agents. I understand the fear of maintaining yet another thing. But AI makes it easy to build and maintain this stuff. It&apos;s not that hard to build agents today, folks. You seriously should consider building your own solution. This is a great time to start. Start from scratch, keep it minimal, and evolve it as you go. Or you can start with an open-source solution like Pi Durable and build from there (btw, Pi Durable is crazy good for this stuff). there’s something quite awkward about all the personal agents in the current hype cycle muse, grok bot, instinct, dots, and whatever google, anthropic will come up with none of them is “mine” i’d be trusting a vendor for some of the most sensitive data about me and bet on them ha…
+
+🔗 [View original post](https://x.com/omarsar0/status/2107125751937913165)
 
 ---
 
