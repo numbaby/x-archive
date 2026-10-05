@@ -2,7 +2,15 @@
 
 ## 📅 October 05, 2026
 
-> 8 post(s) archived.
+> 9 post(s) archived.
+
+---
+
+### 🕐 06:56 UTC · @emollick
+
+> And for everyone saying it, no this is not Slack. Actual email inbox with material being moved between folders or annotated, rather than a team messaging chat. Think Superhuman, but looping in Ais.
+
+🔗 [View original post](https://x.com/emollick/status/2107001975703478329)
 
 ---
 
