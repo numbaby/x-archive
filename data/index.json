@@ -122835,6 +122835,13 @@
     "fingerprint": "b835bdf7e22609941d3177cf0b22d153770a5f2befe306bba0c17b71cbfc422a",
     "media": []
   },
+  "2106899009105526922": {
+    "account": "elonmusk",
+    "date": "2026-10-05",
+    "file": "data/posts/2026/10/2026-10-05.jsonl",
+    "fingerprint": "25dfa07b3270688cd3a60b50cb48673d7d520e966f9ee966172cc1de96425e4f",
+    "media": []
+  },
   "2106900700206944349": {
     "account": "elonmusk",
     "date": "2026-10-05",
@@ -123060,11 +123067,57 @@
     "fingerprint": "33ef780accb27994ec684b0655d65e7c2e41c3aa6802acfcd39204c62cc47670",
     "media": []
   },
+  "2107026299776532653": {
+    "account": "elonmusk",
+    "date": "2026-10-05",
+    "file": "data/posts/2026/10/2026-10-05.jsonl",
+    "fingerprint": "602965658633fa6a6dca2809fb08811fcb4bda424436a82c40944b545db2056d",
+    "media": []
+  },
   "2107029927589470636": {
     "account": "elonmusk",
     "date": "2026-10-05",
     "file": "data/posts/2026/10/2026-10-05.jsonl",
     "fingerprint": "970df44186b64fae33414f97c61443b7ef14a939ecc460a50eb1e76641fac1a6",
     "media": []
+  },
+  "2107042560581439792": {
+    "account": "Letstalk246",
+    "date": "2026-10-05",
+    "file": "data/posts/2026/10/2026-10-05.jsonl",
+    "fingerprint": "5a73b5002db5c85453e4409e579b18aa22bdf6f393ed3c3266430f7c04c89a57",
+    "media": [
+      {
+        "local_path": "assets/images/2026/10/05/2107042560581439792-1.jpg",
+        "sha256": "a1737897281e584eb140afde6b8a6dd0e1704724dc82da0d4b309aa11c96fe61",
+        "source_url": "https://pbs.twimg.com/media/HT24CXNXoAA8meQ.jpg?name=orig"
+      }
+    ]
+  },
+  "2107042584694563295": {
+    "account": "Letstalk246",
+    "date": "2026-10-05",
+    "file": "data/posts/2026/10/2026-10-05.jsonl",
+    "fingerprint": "6696c3a635a48f1c28df1e3a6378e70b1873d3e82b2dcfd2e7c89a9b3f81069d",
+    "media": [
+      {
+        "local_path": "assets/images/2026/10/05/2107042584694563295-1.jpg",
+        "sha256": "c1cd9b62628df2da51d108e0b662020547c9d1873add86f27fea709ea77529de",
+        "source_url": "https://pbs.twimg.com/media/HT24DwyWcAApoEd.jpg?name=orig"
+      }
+    ]
+  },
+  "2107042616705704103": {
+    "account": "Letstalk246",
+    "date": "2026-10-05",
+    "file": "data/posts/2026/10/2026-10-05.jsonl",
+    "fingerprint": "68e1cb5482790e241e4fb1decac9c86c2f7d5e7005026978f626cee504d7e149",
+    "media": [
+      {
+        "local_path": "assets/images/2026/10/05/2107042616705704103-1.jpg",
+        "sha256": "684e500e5334130060f1d6d6f8d884b3e67b2754262ef953ae3ca8b279ad198b",
+        "source_url": "https://pbs.twimg.com/media/HT24FnrWQAAe5Ei.jpg?name=orig"
+      }
+    ]
   }
 }
