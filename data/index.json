@@ -122997,11 +122997,60 @@
     "fingerprint": "3f4c6faaab7f3cb7ef7eae95659e631759655259c7affce371c8db43e4ec644b",
     "media": []
   },
+  "2106961326069170596": {
+    "account": "elonmusk",
+    "date": "2026-10-05",
+    "file": "data/posts/2026/10/2026-10-05.jsonl",
+    "fingerprint": "528e19fcb40891ed1a3eeda2f1978d0f38ef0177f79a156d5788e2027f2186a0",
+    "media": []
+  },
   "2106962963362111666": {
     "account": "emollick",
     "date": "2026-10-05",
     "file": "data/posts/2026/10/2026-10-05.jsonl",
     "fingerprint": "6a8514bf9415d5a3a13d613b7264841fed9f18b5277020344f4c84acd8130eb4",
+    "media": []
+  },
+  "2106977888008642611": {
+    "account": "elonmusk",
+    "date": "2026-10-05",
+    "file": "data/posts/2026/10/2026-10-05.jsonl",
+    "fingerprint": "493b9055f62379bf9827b1102e378bc09ab1c62aae7a79e7e58c787042963fdc",
+    "media": []
+  },
+  "2106978370999537965": {
+    "account": "elonmusk",
+    "date": "2026-10-05",
+    "file": "data/posts/2026/10/2026-10-05.jsonl",
+    "fingerprint": "a6e87fafa6a4fa3fd3891ef52ef867472f0a52541799ea2d66976c962eba8d61",
+    "media": []
+  },
+  "2106979185919176985": {
+    "account": "elonmusk",
+    "date": "2026-10-05",
+    "file": "data/posts/2026/10/2026-10-05.jsonl",
+    "fingerprint": "d13f06cd01ca0215f96884df8bcbcffb19892897ad1da261ec74a10c2e44c24c",
+    "media": []
+  },
+  "2106982949832774039": {
+    "account": "elonmusk",
+    "date": "2026-10-05",
+    "file": "data/posts/2026/10/2026-10-05.jsonl",
+    "fingerprint": "f1c1da0fce2058924fb6c753d16c7a93f5e9a17528135db68bf26733bf14e5dc",
+    "media": []
+  },
+  "2106993497697919431": {
+    "account": "emollick",
+    "date": "2026-10-05",
+    "file": "data/posts/2026/10/2026-10-05.jsonl",
+    "fingerprint": "e3760b842425f7addce2dab8e8864867706f1120a9b3eb4368f9cc582ca3ae22",
+    "media": []
+  },
+  "2106995773682458784": {
+    "account": "emollick",
+    "date": "2026-10-05",
+    "file": "data/posts/2026/10/2026-10-05.jsonl",
+    "fingerprint": "26eb5a51584caf242b78bc0a8a11721cc9e07819441744d77c76323d5fcdf938",
     "media": []
   }
 }

@@ -2,7 +2,23 @@
 
 ## 📅 October 05, 2026
 
-> 6 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 06:31 UTC · @emollick
+
+> Another much-needed product: an email system built for teams so that a human and autonomous agents can both access it. We need a system, with appropriate permissions, where your AIs (&amp; invited others) can work, comment to each other and bring things to your attention if needed.
+
+🔗 [View original post](https://x.com/emollick/status/2106995773682458784)
+
+---
+
+### 🕐 06:22 UTC · @emollick
+
+> I&apos;ve been complaining about some OpenAI choices tonight, so, on the plus side, I will say there is still no equivalent to GPT-6 Pro (just as there wasn&apos;t with previous Pro models). It both does really hard tasks in one shot &amp; does a surprisingly good job communicating the results
+
+🔗 [View original post](https://x.com/emollick/status/2106993497697919431)
 
 ---
 
