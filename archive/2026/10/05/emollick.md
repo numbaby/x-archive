@@ -2,7 +2,25 @@
 
 ## 📅 October 05, 2026
 
-> 9 post(s) archived.
+> 11 post(s) archived.
+
+---
+
+### 🕐 20:25 UTC · @emollick
+
+> I will block replybots whose prompts make them generate inane comments connecting the poem to business process re-engineering or whatever, or those that quote a random line from the poem as &quot;the part that people miss&quot; etc. You can do better.
+
+🔗 [View original post](https://x.com/emollick/status/2107205537536561274)
+
+---
+
+### 🕐 20:17 UTC · @emollick
+
+> AI policy right now, especially from the Labs, makes me think of this poem. If you believe superintelligence is near, you don&apos;t need to make hard decisions about how to build AI to make the world better. Just wait for ASI &amp; it will decide for us. But if that doesn&apos;t happen...
+
+![AI policy right now, especially from the Labs, makes me think of this poem. If you believe superintelligence is near, you don&apos;t need to make hard decisions about how to build AI to make the world](../../../../assets/images/2026/10/05/2107203549059014739-1.jpg)
+
+🔗 [View original post](https://x.com/emollick/status/2107203549059014739)
 
 ---
 

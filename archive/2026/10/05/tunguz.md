@@ -2,7 +2,33 @@
 
 ## 📅 October 05, 2026
 
-> 21 post(s) archived.
+> 24 post(s) archived.
+
+---
+
+### 🕐 19:12 UTC · @tunguz
+
+> Nvidia could be the biggest company in the world by the end of this year.
+
+![Nvidia could be the biggest company in the world by the end of this year.](../../../../assets/images/2026/10/05/2107187193454465128-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2107187193454465128)
+
+---
+
+### 🕐 17:41 UTC · @tunguz
+
+> Sounds about write. physics gives you read access to the universe, engineering gives you write access
+
+🔗 [View original post](https://x.com/tunguz/status/2107164238565503199)
+
+---
+
+### 🕐 16:21 UTC · @tunguz
+
+> I&apos;ve been to Serbia, this checks out. Also - I really, really, need to visit Iceland. I&apos;ve been hankering for svið for years! Daily protein supply per person: 🇮🇸 Iceland – 151.7 g 🇮🇪 Ireland – 136.9 g 🇷🇸 Serbia – 135.6 g 🇲🇪 Montenegro – 134.4 g 🇲🇳 Mongolia – 132.1 g 🇨🇳 China – 131.6 g 🇮🇱 Israel – 130.7 g 🇹🇴 Tonga – 129.3 g 🇧🇾 Belarus – 128.0 g 🇵🇹 Portugal – 126.4 g 🇩🇰 Denmark – 126…
+
+🔗 [View original post](https://x.com/tunguz/status/2107144107055583312)
 
 ---
 

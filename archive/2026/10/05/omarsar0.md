@@ -2,7 +2,41 @@
 
 ## 📅 October 05, 2026
 
-> 4 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 20:27 UTC · @omarsar0
+
+> Very good to see more competent labs training open-weight models. It seems to have strong reasoning efficiency, which I think is a big deal going forward. 3-4x better inference efficiency than rivals like GLM 5.2, positioning it as a strong Western open-weight option. Introducing Beam: a highly efficient agentic open model with 501B total parameters and 23B active. - Frontier reasoning efficiency - Advances the Western open frontier on coding &amp; agentic tasks - Trained end-to-end from scratch Full weights release this month. Learn more about Be…
+
+![Very good to see more competent labs training open-weight models. It seems to have strong reasoning efficiency, which I think is a big deal going forward. 3-4x better inference efficiency than rivals ](../../../../assets/images/2026/10/05/2107206056635953409-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2107206056635953409)
+
+---
+
+### 🕐 16:33 UTC · @omarsar0
+
+> Recommended. LLM agents love structure, so it&apos;s no surprise that a corpus improves agentic search. Banger paper from Microsoft and colleagues. If you run agents that search a large document collection, this one is worth your time. (bookmark it) They introduce CorpusMap, which resolves recurring entities across the collection in advance and gives each entity a page that links t…
+
+🔗 [View original post](https://x.com/omarsar0/status/2107147281162244491)
+
+---
+
+### 🕐 16:22 UTC · @omarsar0
+
+> Pay attention to this if you are building with agents. Simulated companies are a big deal for improving agentic products. This is because good agent evals need environments that behave like real companies. Era by Eon can generate a complete company across Salesforce, Zendesk, Slack, Jira, and other systems. Each system behaves like the real vendor, down to rate limits, pagination, and error codes. You can reset the company and rerun the same tasks after changing the model or the prompt. You can’t safely test an enterprise agent on a real company’s data. So we built a company for it to work in. Era is live today, and it’s free. It generates a complete simulated enterprise that behaves like a real one across Salesforce, Slack, Jira, Zendesk, Gong, Deel and more, a…
+
+🔗 [View original post](https://x.com/omarsar0/status/2107144368326934732)
+
+---
+
+### 🕐 15:53 UTC · @omarsar0
+
+> Higgsfield is #5 on a16z’s new consumer AI monthly revenue leaderboard. Glad we passed the research team’s due diligence. The seventh edition of our Top 100 Consumer AI Apps is here. New this time: a revenue leaderboard, alongside the usual web and mobile traffic rankings. Three years ago we published the first edition. ChatGPT was #1, Claude was unranked, and the entire category was chatbots, image…
+
+🔗 [View original post](https://x.com/alexmashrabov/status/2107137161615364195)
 
 ---
 
