@@ -2,7 +2,17 @@
 
 ## 📅 October 05, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 20:35 UTC · @dair_ai
+
+> Very good to see more competent labs training open-weight models. This Reflection&apos;s new Beam model seems to have strong reasoning efficiency, which I think is a big deal for long-running agents. 3-4x better inference efficiency than rivals like GLM 5.2, positioning it as a strong Western open-weight option. Introducing Beam: a highly efficient agentic open model with 501B total parameters and 23B active. - Frontier reasoning efficiency - Advances the Western open frontier on coding &amp; agentic tasks - Trained end-to-end from scratch Full weights release this month. Learn more about Be…
+
+![Very good to see more competent labs training open-weight models. This Reflection&apos;s new Beam model seems to have strong reasoning efficiency, which I think is a big deal for long-running agents. ](../../../../assets/images/2026/10/05/2107206056635953409-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2107208149497172474)
 
 ---
 

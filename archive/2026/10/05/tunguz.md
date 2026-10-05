@@ -2,7 +2,31 @@
 
 ## 📅 October 05, 2026
 
-> 24 post(s) archived.
+> 27 post(s) archived.
+
+---
+
+### 🕐 21:34 UTC · @tunguz
+
+> “architecture” LOL ROTFLMAO even San Francisco is expensive. No argument there. But the idea that you get little in return is absurd. Name another city this compact that combines stunning natural beauty, world-class dining, culture, entertainment, architecture, parks, and outdoor recreation. I’ll wait.
+
+🔗 [View original post](https://x.com/tunguz/status/2107222900038320442)
+
+---
+
+### 🕐 21:07 UTC · @tunguz
+
+> I’m proud of my Catholic European work ethic. the striving conversation is kind of bizarre because one of the things that distinguishes american anglo-protestant culture from european, especially catholic, cultures is the emphasis put on hard work and industry (observed by that lib @charlesmurray)
+
+🔗 [View original post](https://x.com/tunguz/status/2107216222765093276)
+
+---
+
+### 🕐 21:06 UTC · @tunguz
+
+> Another stupid healthscare debunked. I won again! A new study on Tylenol and autism has come out. It leveraged a recall in 1982 to show that the affected cohort—which saw greatly reduced Tylenol usage in utero—saw no deviation from trend in autism diagnoses down the line. Tylenol does not cause autism.
+
+🔗 [View original post](https://x.com/tunguz/status/2107215855935484309)
 
 ---
 
