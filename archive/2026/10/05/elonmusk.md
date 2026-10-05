@@ -2,7 +2,7 @@
 
 ## 📅 October 05, 2026
 
-> 12 post(s) archived.
+> 14 post(s) archived.
 
 ---
 
@@ -59,6 +59,26 @@
 > 💯😂 In order to stop Elon Musk from rigging our elections we must: -Switch to paper ballots -Enact Voter ID -Mandate citizenship verification
 
 🔗 [View original post](https://x.com/elonmusk/status/2106977888008642611)
+
+---
+
+### 🕐 05:16 UTC · @elonmusk
+
+> Elon Musk 8 years ago: “Nothing will affect the future of humanity more than digital super-intelligence.”
+
+![Elon Musk 8 years ago: “Nothing will affect the future of humanity more than digital super-intelligence.”](../../../../assets/images/2026/10/05/2106976768892768356-1.jpg)
+
+🔗 [View original post](https://x.com/cb_doge/status/2106976768892768356)
+
+---
+
+### 🕐 04:28 UTC · @elonmusk
+
+> Tesla just took the top two spots in the entire Netherlands new-car market 🇳🇱 Not just EVs...every car September registrations: • Model Y — 2,078 — #1 overall • Model 3 — 1,087 — #2 overall Tesla registered 3,165 cars in September, capturing 8.7% of the entire Dutch new-car market Model Y + Model 3 literally owned the top of the market
+
+![Tesla just took the top two spots in the entire Netherlands new-car market 🇳🇱 Not just EVs...every car September registrations: • Model Y — 2,078 — #1 overall • Model 3 — 1,087 — #2 overall Tesla regi](../../../../assets/images/2026/10/05/2106964603582161364-1.jpg)
+
+🔗 [View original post](https://x.com/XFreeze/status/2106964603582161364)
 
 ---
 
