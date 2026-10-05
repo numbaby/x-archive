@@ -2,7 +2,15 @@
 
 ## 📅 October 05, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 02:34 UTC · @emollick
+
+> I actually want personal operating systems optimized for co-working with AIs, including fine-grained ideas of security, easier ways to dynamically see &amp; understand what AIs are doing, and independent secondary &quot;audit&quot; agents that check the results of the AIs on your system whenever I see - &quot;claude/chatgpt has started debugging your browser&quot; - have to give an agent full disk and/or accessibility access I&apos;m convinced we need fundamentally better security primitives for agents to do work as us - and we are living in an awkward intermediate era.
+
+🔗 [View original post](https://x.com/emollick/status/2106936117421601110)
 
 ---
 
