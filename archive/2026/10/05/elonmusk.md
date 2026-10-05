@@ -2,7 +2,15 @@
 
 ## 📅 October 05, 2026
 
-> 8 post(s) archived.
+> 9 post(s) archived.
+
+---
+
+### 🕐 08:47 UTC · @elonmusk
+
+> USAID engaged in election interference and regime change around the world, causing massive strife Here’s a shocking statistic you may not know. USAID more than doubled its spending on Brazil as soon Bolsonaro won their 2018 election. This was not because Brazil suddenly needed twice the aid. The money was spent on projects in Brazil to undermine Bolsonaro.
+
+🔗 [View original post](https://x.com/elonmusk/status/2107029927589470636)
 
 ---
 
