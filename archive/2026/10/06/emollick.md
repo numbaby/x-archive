@@ -2,7 +2,15 @@
 
 ## 📅 October 06, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 19:12 UTC · @emollick
+
+> And I also think the positive use cases (like the evidence shows current AIs provide good health information &amp; financial advice &amp; lead to startups etc.) are also undermeasured and underdiscussed. We do need to worry about many dangers, but its worth building on successes as well
+
+🔗 [View original post](https://x.com/emollick/status/2107549520678592712)
 
 ---
 

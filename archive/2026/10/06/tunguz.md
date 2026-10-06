@@ -2,7 +2,33 @@
 
 ## 📅 October 06, 2026
 
-> 4 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 17:39 UTC · @tunguz
+
+> Academic research is the worst statusmaxxing grift ever. Fun fact about (some) AI researchers / academics: the more senior you get, the more convinced you become that every new AI idea is something you already invented 20 years ago. Or, even better: wait until something actually works and then try convincing everyone that this is exact…
+
+🔗 [View original post](https://x.com/tunguz/status/2107526193834786987)
+
+---
+
+### 🕐 15:55 UTC · @tunguz
+
+> Exactly what the Antichrist would say. goodness requires a choice. if you are too weak to do harm, there is no choice to be made. therefore you cannot be good and weak.
+
+🔗 [View original post](https://x.com/tunguz/status/2107500039140737125)
+
+---
+
+### 🕐 15:38 UTC · @tunguz
+
+> Meritocracy is good, actually.
+
+![Meritocracy is good, actually.](../../../../assets/images/2026/10/06/2107495840529232174-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2107495840529232174)
 
 ---
 

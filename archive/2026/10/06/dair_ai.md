@@ -2,7 +2,17 @@
 
 ## 📅 October 06, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 16:26 UTC · @dair_ai
+
+> Really nice paper on harness-aware distillation for small language model agents. (bookmark it) It&apos;s a super interesting distillation framework for small language model agents that are deployed with a harness. In simple terms, you run the big model with and without harness info, then train the small model on cases where its action changes. Researchers show that adding the harness to on-policy distillation raises how often the student uses harness information on ALFWorld (65.7% to 73.1%) but leaves success flat (43.1% to 43.5%). Their method, Harness-Aware Distillation, queries the same teacher with and without the harness information and trains the student to prefer the action chosen with it. A filter drops pairs whose preferred action contradicts the harness records. The method uses no task rewards or success labels. The student reaches 63.4% on unseen ALFWorld tasks, compared with 47.0% for the best baseline, and exceeds its 8B teacher. It also escapes 59.7% of stalls, while the baselines stay near the untrained student&apos;s 46.8%. Paper: https://arxiv.org/abs/2610.02858 Chat with Paper: https://academy.dair.ai/papers/harness-aware-distillation-for-small-language-model-agents-2610.02858
+
+![Really nice paper on harness-aware distillation for small language model agents. (bookmark it) It&apos;s a super interesting distillation framework for small language model agents that are deployed wi](../../../../assets/images/2026/10/06/2107507684270600394-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2107507684270600394)
 
 ---
 
