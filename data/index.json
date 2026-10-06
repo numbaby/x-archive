@@ -123557,5 +123557,18 @@
     "file": "data/posts/2026/10/2026-10-05.jsonl",
     "fingerprint": "fc8bf47558e3a5fb5476d2f7d7d6555932f713d008d05076ac174364728c7f25",
     "media": []
+  },
+  "2107264582687584567": {
+    "account": "dair_ai",
+    "date": "2026-10-06",
+    "file": "data/posts/2026/10/2026-10-06.jsonl",
+    "fingerprint": "56065454c5168a99c50e52bc9ccb1ef0352ce12c5844238dc07b6e5e4d09a0c1",
+    "media": [
+      {
+        "local_path": "assets/images/2026/10/06/2107264582687584567-1.jpg",
+        "sha256": "82b5134f753970207504eba9115d6294ed454f1c4646668304e5d6dc5db4fa02",
+        "source_url": "https://pbs.twimg.com/media/HT6B-DwaMAAM-gu.jpg?name=orig"
+      }
+    ]
   }
 }
