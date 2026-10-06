@@ -2,7 +2,17 @@
 
 ## 📅 October 06, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 06:26 UTC · @emollick
+
+> When people talk about AI easily replacing workers, I think about this ethnography of copier repair technicians in the 1990s. You see how work is complicated and improvised by workers and informal and badly documented. (But eventually technology did largely eliminate this job)
+
+![When people talk about AI easily replacing workers, I think about this ethnography of copier repair technicians in the 1990s. You see how work is complicated and improvised by workers and informal and](../../../../assets/images/2026/10/06/2107356794410377510-1.png)
+
+🔗 [View original post](https://x.com/emollick/status/2107356794410377510)
 
 ---
 
