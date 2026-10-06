@@ -123570,5 +123570,32 @@
         "source_url": "https://pbs.twimg.com/media/HT6B-DwaMAAM-gu.jpg?name=orig"
       }
     ]
+  },
+  "2107273821824622885": {
+    "account": "dair_ai",
+    "date": "2026-10-06",
+    "file": "data/posts/2026/10/2026-10-06.jsonl",
+    "fingerprint": "3cf51a254e4a8fb06f1e7aaf0864d9ff9613ba9a80522e25e27989e069b903d8",
+    "media": []
+  },
+  "2107275361822347406": {
+    "account": "swyx",
+    "date": "2026-10-06",
+    "file": "data/posts/2026/10/2026-10-06.jsonl",
+    "fingerprint": "fda89d09080d9ee29c1ff7f70391818e1cdf4ee702dc182e877452ccf3c1d653",
+    "media": [
+      {
+        "local_path": "assets/images/2026/10/06/2107275361822347406-1.jpg",
+        "sha256": "f95280e40477bd066d4aa55926fcb1a494da01b85c1ac779aed5ec2a7bd34c58",
+        "source_url": "https://pbs.twimg.com/media/HT6LK_XagAAXJgl.jpg?name=orig"
+      }
+    ]
+  },
+  "2107281172342427734": {
+    "account": "emollick",
+    "date": "2026-10-06",
+    "file": "data/posts/2026/10/2026-10-06.jsonl",
+    "fingerprint": "9078fc90fdcc852eb3f452180863f65fffb302ea4fa3c24ab53717b18f4c57ea",
+    "media": []
   }
 }

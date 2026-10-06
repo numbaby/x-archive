@@ -2,7 +2,15 @@
 
 ## 📅 October 06, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 00:56 UTC · @dair_ai
+
+> Like Jev, I believe RL will unlock several more like this, slashing the cost of critical agent operations. flow-1 is competitive in performance, but a huge cost-saver for finding failures in agent traces. RSI doesn&apos;t only apply to general intelligence. It will equally accelerate specialized intelligence. Introducing flow-1, our new model trained with RL to find errors in agent traces. It matches GPT-6-sol in trace intelligence while being 23x cheaper. It also costs 25% less to run than GPT-6-luna. flow-1 finally makes it possible to monitor and understand every agent run, without…
+
+🔗 [View original post](https://x.com/omarsar0/status/2107273821824622885)
 
 ---
 
