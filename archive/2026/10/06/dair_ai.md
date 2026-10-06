@@ -2,7 +2,17 @@
 
 ## 📅 October 06, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 14:44 UTC · @dair_ai
+
+> Banger paper from Meta AI on research agents that decide what to investigate next. (bookmark it) If you run long-horizon research agents, choosing the next investigation is hard to learn, because those decisions are rare in long traces and their effects show up several steps later. MIRA splits the agent into two. An outer meta-reasoner reads a persistent research record and writes a work order for the next investigation. A fresh executor carries out each work order. Decisions only happen at work-order boundaries, so the authors train a critic at those points to forecast remaining return, then a single actor-critic (MIRA-AC) that both values partial progress and picks the next investigation. Even without training, the split improves theorem proving and open-ended architecture research. Trained on the model&apos;s own proxy signals, MIRA-AC improves gold scores in all four autoresearch environments. Paper: https://arxiv.org/abs/2610.02525 Chat with Paper: https://academy.dair.ai/papers/learning-what-to-investigate-next-meta-reasoning-for-long-horizon-research-agent-2610.02525
+
+![Banger paper from Meta AI on research agents that decide what to investigate next. (bookmark it) If you run long-horizon research agents, choosing the next investigation is hard to learn, because thos](../../../../assets/images/2026/10/06/2107482016342233309-1.jpg)
+
+🔗 [View original post](https://x.com/dair_ai/status/2107482016342233309)
 
 ---
 

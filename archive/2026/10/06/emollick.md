@@ -2,7 +2,15 @@
 
 ## 📅 October 06, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 15:14 UTC · @emollick
+
+> I think most people who have been closely watching AI for the past few years are likely surprised by how relatively rare terrible AI incidents have been, given a billion users overall and hundreds of millions of corporate users. Doesn’t mean that will continue, but surprising.
+
+🔗 [View original post](https://x.com/emollick/status/2107489752349892677)
 
 ---
 
