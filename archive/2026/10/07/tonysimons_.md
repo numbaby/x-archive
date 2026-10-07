@@ -2,7 +2,15 @@
 
 ## 📅 October 07, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 05:48 UTC · @tonysimons_
+
+> 👀👀 What we really need is @altryne getting a plugin for what he&apos;s working on into the plugin catalog Hermes is getting a LOCAL video editor. 🪽 Not “generate me a video.” Edit MY footage. Cut. Join. Crop. Captions. Overlays. Audio sync. Loudness. Reels/TikTok checks. 42 FFmpeg editing scripts. No cloud. No API key. This demo is going to be ridiculous. 🔥
+
+🔗 [View original post](https://x.com/Teknium/status/2107709721755181408)
 
 ---
 

@@ -124414,5 +124414,25 @@
     "file": "data/posts/2026/10/2026-10-07.jsonl",
     "fingerprint": "1866b5384e9b9e0c9bf01afa18058dee26e99be4dab3888d70cd5935ede894f2",
     "media": []
+  },
+  "2107700687635464494": {
+    "account": "elonmusk",
+    "date": "2026-10-07",
+    "file": "data/posts/2026/10/2026-10-07.jsonl",
+    "fingerprint": "fb74b6d5f35c473de25a7a3994418d8d168458b70cfedfd5c8a0ec381a9da332",
+    "media": [
+      {
+        "local_path": "assets/images/2026/10/07/2107700687635464494-1.jpg",
+        "sha256": "6589099a7e2ba034520abac7de41648374582627ecd9217283c0f671080c4ea7",
+        "source_url": "https://pbs.twimg.com/media/HUAOldEbYAAWXza.jpg?name=orig"
+      }
+    ]
+  },
+  "2107709721755181408": {
+    "account": "tonysimons_",
+    "date": "2026-10-07",
+    "file": "data/posts/2026/10/2026-10-07.jsonl",
+    "fingerprint": "a76cb9d011a5f258a51200acdae8ac73e1adccb3d3fa2f2c0f98ea143f4ce85d",
+    "media": []
   }
 }
