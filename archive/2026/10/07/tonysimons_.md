@@ -2,7 +2,35 @@
 
 ## 📅 October 07, 2026
 
-> 5 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 16:59 UTC · @tonysimons_
+
+> Really excited to see this come together. Hot damn, does it look clean! 🧼 🔥 I built an operating system where the AI agent isn’t another app. It’s part of the OS. Today, Herald OS is open source and you can install it yourself 🚀 It’s built around Hermes Agent by Nous Research. Talk or type to Hermes and it can work across your entire computer: • Open an…
+
+🔗 [View original post](https://x.com/tonysimons_/status/2107878462132461976)
+
+---
+
+### 🕐 16:58 UTC · @tonysimons_
+
+> Hermes Agent Tip of the Day 🪽 Hermes Agent doesn’t just let you install random Skills and pray. Every Hub install gets security-scanned first for data exfiltration, prompt injection, destructive commands, supply-chain signals and more. Dangerous verdict? Blocked. That’s agent infrastructure done right.
+
+![Hermes Agent Tip of the Day 🪽 Hermes Agent doesn’t just let you install random Skills and pray. Every Hub install gets security-scanned first for data exfiltration, prompt injection, destructive comma](../../../../assets/images/2026/10/07/2107878133554913624-1.jpg)
+
+🔗 [View original post](https://x.com/tonysimons_/status/2107878133554913624)
+
+---
+
+### 🕐 13:03 UTC · @tonysimons_
+
+> MERGED. 🃏🪽 My Agent Hold ’Em plugin just landed in the Hermes Agent community catalog. Three AI agents. A poker table. Your chips on the line. Play chips, relax. 😂 Less lip. More ship. https://github.com/NousResearch/hermes-agent/pull/133988 I built a poker table for Hermes Agents. 😂 Agent Hold ’Em lets multiple agents sit down, play Texas Hold ’Em, bluff, bet, fold, and try to outthink each other. And yes, watching agents talk themselves into terrible poker decisions is exactly as entertaining as it sounds. Here it…
+
+![MERGED. 🃏🪽 My Agent Hold ’Em plugin just landed in the Hermes Agent community catalog. Three AI agents. A poker table. Your chips on the line. Play chips, relax. 😂 Less lip. More ship. https://github.](../../../../assets/images/2026/10/07/2107819061250007156-1.jpg)
+
+🔗 [View original post](https://x.com/tonysimons_/status/2107819061250007156)
 
 ---
 

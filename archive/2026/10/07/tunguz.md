@@ -2,7 +2,73 @@
 
 ## 📅 October 07, 2026
 
-> 8 post(s) archived.
+> 16 post(s) archived.
+
+---
+
+### 🕐 17:21 UTC · @tunguz
+
+> Yes, people who put intelligence at the highest pedestal will have hard time in the near future (if they already don’t), but that pales in comparison to how rekt those who have been doing it with social status are gonna be.
+
+🔗 [View original post](https://x.com/tunguz/status/2107883916883632550)
+
+---
+
+### 🕐 17:09 UTC · @tunguz
+
+> In the airplane age, all moats are irrelevant.
+
+🔗 [View original post](https://x.com/tunguz/status/2107881110390902866)
+
+---
+
+### 🕐 17:01 UTC · @tunguz
+
+> And vice versa. We are poised to translate all known math into formal code. https://x.com/i/article/2096800480437641217
+
+🔗 [View original post](https://x.com/tunguz/status/2107878982209487055)
+
+---
+
+### 🕐 15:15 UTC · @tunguz
+
+> Accurate I asked people which tier they&apos;d put each lab in: Frontier: - Anthropic: consensus - OpenAI: consensus n-1 (1 generation behind): - Google DeepMind: consensus - xAI: consensus - Meta (Muse Spark): over half say n-1 - Moonshot (Kimi): over half say n-1, some n-2 - Zhipu (GLM): ove…
+
+🔗 [View original post](https://x.com/tunguz/status/2107852240388235298)
+
+---
+
+### 🕐 14:23 UTC · @tunguz
+
+> This could be huge. Is anyone working on personal AI agents that books flights and restaurants for you?
+
+🔗 [View original post](https://x.com/tunguz/status/2107839258451190166)
+
+---
+
+### 🕐 14:21 UTC · @tunguz
+
+> My favorite thing about Halloween in Gary, Indiana.
+
+![My favorite thing about Halloween in Gary, Indiana.](../../../../assets/images/2026/10/07/2107838840996261916-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2107838840996261916)
+
+---
+
+### 🕐 13:36 UTC · @tunguz
+
+> Catholicism is all you need. i&apos;m not catholic, but i always found &quot;in what I have done and in what I have failed to do&quot; in the confiteor quite striking. our faith and moral convictions have become much passive, much too focused on avoiding sin. we&apos;ve lost all stomach for the idea that our inaction costs us
+
+🔗 [View original post](https://x.com/tunguz/status/2107827346313216162)
+
+---
+
+### 🕐 13:33 UTC · @tunguz
+
+> Can confirm. If you meet someone and they are always cracking jokes, constantly making people laugh, they&apos;ve had most traumatic depressing childhood. If you meant a humorless person and they are constantly complaining, judging everyone around them, they&apos;ve had easiest life imaginable.
+
+🔗 [View original post](https://x.com/tunguz/status/2107826585588105406)
 
 ---
 

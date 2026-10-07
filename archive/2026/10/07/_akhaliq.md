@@ -2,7 +2,17 @@
 
 ## 📅 October 07, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 12:48 UTC · @_akhaliq
+
+> You can now use the 360 orbit lora as a workflow within @huggingface 🔄 Thanks @_akhaliq for creating the app
+
+![You can now use the 360 orbit lora as a workflow within @huggingface 🔄 Thanks @_akhaliq for creating the app](../../../../assets/images/2026/10/07/2107815211109687551-1.jpg)
+
+🔗 [View original post](https://x.com/pabloadaw/status/2107815211109687551)
 
 ---
 

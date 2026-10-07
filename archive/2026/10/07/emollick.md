@@ -2,7 +2,17 @@
 
 ## 📅 October 07, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 17:02 UTC · @emollick
+
+> Even the underlying norms of science are going to change. Some because we can live up to them better (disinterestedness) some because they may no longer apply.
+
+![Even the underlying norms of science are going to change. Some because we can live up to them better (disinterestedness) some because they may no longer apply.](../../../../assets/images/2026/10/07/2107879269305385412-1.jpg)
+
+🔗 [View original post](https://x.com/emollick/status/2107879269305385412)
 
 ---
 

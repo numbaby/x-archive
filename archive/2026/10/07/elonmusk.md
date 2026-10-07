@@ -2,7 +2,219 @@
 
 ## 📅 October 07, 2026
 
-> 12 post(s) archived.
+> 38 post(s) archived.
+
+---
+
+### 🕐 17:35 UTC · @elonmusk
+
+> Starlink in India would enable high-speed, affordable Internet connectivity for those who can’t afford current prices or who don’t have a connection at all! ELON MUSK: “We’d love to be operating Starlink in India. That would be great.” It’s been nearly four years since Starlink applied to operate in India, and it is still waiting to launch. The government should grant the remaining approvals as soon as possible so Starlink can bring …
+
+🔗 [View original post](https://x.com/elonmusk/status/2107887475251458094)
+
+---
+
+### 🕐 16:53 UTC · @elonmusk
+
+> Media
+
+🔗 [View original post](https://x.com/elonmusk/status/2107876928162275329)
+
+---
+
+### 🕐 16:51 UTC · @elonmusk
+
+> Whatever it take for @Bot to deliver the best product experience for users Grok @bot will be insanely powerful if it’s completely model agnostic and the @SpaceXAI simply hyper-focuses on creating the greatest orchestrator AI of all time. That orchestrator AI will know what model is best at what at the best possible cost and fastest speed, and based on y…
+
+🔗 [View original post](https://x.com/elonmusk/status/2107876487454179416)
+
+---
+
+### 🕐 16:49 UTC · @elonmusk
+
+> Manual driving is like riding a horse or hand-coding in Perl and PHP. You can still do it. You just don’t have to. I&apos;m still amazed there are people who use Claude Code and Codex on the daily yet don&apos;t own a Tesla Tesla&apos;s FSD v14.3 is like Opus 5.5. It just works and it is just so good and buttery smooth Imagine Astra-level computer use, but for driving your car &quot;but I love mah car, vroom vro…
+
+🔗 [View original post](https://x.com/pduan/status/2107875970929865183)
+
+---
+
+### 🕐 16:36 UTC · @elonmusk
+
+> 💯 Talarico is very obviously just lying about what he supports in order to try and win an election. We have his voting record and things he has said. He’s hoping people don’t understand these things.
+
+🔗 [View original post](https://x.com/elonmusk/status/2107872672785084550)
+
+---
+
+### 🕐 16:36 UTC · @elonmusk
+
+> True Quebec just handed power to a party that wants out of Canada. The Parti Québécois won Monday&apos;s election, projected at 56 seats. That&apos;s a minority. Paul St-Pierre Plamondon will be premier. He&apos;s promised a referendum on leaving Canada in his first term, but not before January 20, …
+
+🔗 [View original post](https://x.com/elonmusk/status/2107872596465446922)
+
+---
+
+### 🕐 16:35 UTC · @elonmusk
+
+> 🤨 James Talarico: “We have to understand especially for white educators that these violent hierarchies, these systems, white supremacy, heteropatriarchy, economic exploitation, those things have colonized our own minds.”
+
+🔗 [View original post](https://x.com/elonmusk/status/2107872382367281252)
+
+---
+
+### 🕐 16:27 UTC · @elonmusk
+
+> And yet again. I ask my family: Did you see or hear about what is going on in the world? One answer keeps coming: NO. If you aren’t on X, i You oblivious to what is going on in the world. @KanekoaTheGreat And yet again it happens
+
+🔗 [View original post](https://x.com/TheCaptainEli/status/2107870365879795753)
+
+---
+
+### 🕐 16:06 UTC · @elonmusk
+
+> NEW: The DOJ released photos of the Tumbler Ridge school shooter&apos;s guns: a shotgun with a trans flag-colored sticker, posed before a trans flag, and a rifle with a suppressor in trans flag colors. Jesse Van Rootselaar killed eight people, six of them children aged 11 to 13. Van Rootselaar sent the photos on Discord to James Cody Bryant, who also identifies as transgender. Bryant, 30, of Bellingham, Washington, was charged yesterday with conspiracy to murder. Prosecutors say he helped plan the shooting and agreed to livestream it.
+
+![NEW: The DOJ released photos of the Tumbler Ridge school shooter&apos;s guns: a shotgun with a trans flag-colored sticker, posed before a trans flag, and a rifle with a suppressor in trans flag colors](../../../../assets/images/2026/10/07/2107865038484918365-1.jpg)
+
+🔗 [View original post](https://x.com/KanekoaTheGreat/status/2107865038484918365)
+
+---
+
+### 🕐 15:23 UTC · @elonmusk
+
+> Unfortunately, we are being blocked by certain oligarchs in order to maintain their monopolistic chokehold on the Indian people. You can guess who they are … This is a crime against the people of India! India needs @Starlink 🇮🇳 • 11,256 of India’s listed villages still lacked 4G coverage as of May 2026. • India had 1.093 billion internet subscriptions in March 2026, but only 440.87 million were rural. Rural subscription density was 48.31 per 100 people, compared with 126.80 in…
+
+🔗 [View original post](https://x.com/elonmusk/status/2107854307077034294)
+
+---
+
+### 🕐 15:21 UTC · @elonmusk
+
+> Starlink Mobile (direct-to-cell) V2 satellites are incredible. This @SpaceX constellation will enable more than 100 times the bandwidth of our current V1 system! SpaceX just got a massive FCC green light for Starlink Mobile The FCC has approved SpaceX to launch and operate up to 15,000 next-generation satellites built for direct-to-phone connectivity The new system is designed to: • Target peak speeds of up to 150 Mbps per user • Connect …
+
+🔗 [View original post](https://x.com/elonmusk/status/2107853835528274320)
+
+---
+
+### 🕐 15:18 UTC · @elonmusk
+
+> @KatieMiller Hall of Fame community note
+
+![@KatieMiller Hall of Fame community note](../../../../assets/images/2026/10/07/2107853200913203351-1.jpg)
+
+🔗 [View original post](https://x.com/NotTomBrown/status/2107853200913203351)
+
+---
+
+### 🕐 15:11 UTC · @elonmusk
+
+> @xenocosmography TITS could be funded from merch sales alone!
+
+🔗 [View original post](https://x.com/elonmusk/status/2107851234439020966)
+
+---
+
+### 🕐 15:06 UTC · @elonmusk
+
+> After many years in top machine learning organizations, with friends at frontier labs, I still consider Tesla’s ML engineers the best—the only ones I would trust with my life. Unsatisfied with theory, they scrutinize every detail until it is proven in reality. They demand real-world miles, not charts. This culture exists nowhere else. This week marks another anniversary at Tesla. I am honored to work with you all for many years to come.
+
+🔗 [View original post](https://x.com/yunta_tsai/status/2107849961299980503)
+
+---
+
+### 🕐 15:04 UTC · @elonmusk
+
+> Grok @Bot will use whatever achieves the best outcome for users. Simple questions will route to small, fast models. Questions with complex answers will route to large models. Grok goes open. Holy shit.
+
+🔗 [View original post](https://x.com/elonmusk/status/2107849623364895151)
+
+---
+
+### 🕐 15:00 UTC · @elonmusk
+
+> Dragon undocks from the Space Station Dragon separation confirmed!
+
+🔗 [View original post](https://x.com/elonmusk/status/2107848493830463815)
+
+---
+
+### 🕐 14:55 UTC · @elonmusk
+
+> Here’s the full speech of SpaceX’s Vice President of @Starlink Business Operations, Lauren Dreyer, at the 10th India Mobile Congress 2026 today. 0:21 Future at scale 0:45 Launch pad to last mile 1:15 Space AI connectivity 1:45 Starship reaches orbit 2:15 Orbital AI compute 2:45 Global Starlink coverage 3:20 Eleven thousand satellites 3:50 Closing digital divide 4:30 Airtel and Jio MOUs 5:10 Built for India rules 5:42 Twenty gateway sites 6:05 India&apos;s digital progress 6:16 Connect in minutes 6:45 Himalayan classroom 7:10 Northeast telemedicine 7:35 Disaster response 8:00 Farmers and markets 8:25 Tower backhaul 8:50 ISRO GSAT launch 9:06 Shukla and rideshares 9:35 Ready to serve India 10:00 PM Modi connectivity vision Media
+
+🔗 [View original post](https://x.com/cb_doge/status/2107847224046874764)
+
+---
+
+### 🕐 14:41 UTC · @elonmusk
+
+> 3 in 4 Norwegian Tesla owners make their next car another Tesla 🇳🇴 We love ya too
+
+![3 in 4 Norwegian Tesla owners make their next car another Tesla 🇳🇴 We love ya too](../../../../assets/images/2026/10/07/2107843860231815315-1.jpg)
+
+🔗 [View original post](https://x.com/teslaeurope/status/2107843860231815315)
+
+---
+
+### 🕐 12:58 UTC · @elonmusk
+
+> Elon Musk says he was on Twitter almost from the beginning, and his early tweets were already crazy. 😂 He originally deleted his account because everyone was tweeting about what latte they had at Starbucks.https://x.com/Alexs_jame/status/2107650055511429628/video/1 Then someone started impersonating him. So Musk decided to take Twitter back and start saying crazy things himself. “I use Twitter” the same way some people use their hair to express themselves. Honestly, the man has been consistent. Media
+
+🔗 [View original post](https://x.com/joeroganhq/status/2107817719076880818)
+
+---
+
+### 🕐 12:27 UTC · @elonmusk
+
+> BREAKING: SpaceX’s Vice President of @Starlink Business Operations, Lauren Dreyer, spoke at India Mobile Congress today, saying Starlink is ready to serve India. 🇮🇳 Starlink has already built 20 gateway sites in India with hundreds of antennas, security controls tailored to India and Indian user data kept within the country. Final government approvals are pending. She highlighted Starlink’s potential to help connect 100% of India, bringing people online in minutes. “We stand ready to serve India, as soon as India is ready!” https://x.com/ANI/status/2107734328780501192/video/1 Media
+
+🔗 [View original post](https://x.com/cb_doge/status/2107810049418793288)
+
+---
+
+### 🕐 12:13 UTC · @elonmusk
+
+> The spacecraft is executing a series of departure burns to move away from the @Space_Station. Dragon will reenter the Earth&apos;s atmosphere and splash down in ~27.5 hours off the coast of California
+
+![The spacecraft is executing a series of departure burns to move away from the @Space_Station. Dragon will reenter the Earth&apos;s atmosphere and splash down in ~27.5 hours off the coast of California](../../../../assets/images/2026/10/07/2107806557807481006-1.png)
+
+🔗 [View original post](https://x.com/SpaceX/status/2107806557807481006)
+
+---
+
+### 🕐 11:25 UTC · @elonmusk
+
+> Can’t unsee it… Elon is a creator. Bernie is a taker. Elon is a doer. Bernie is a talker. Elon is a builder. Bernie is a destroyer. Elon is a contributor. Bernie is a parasite. Elon is a producer. Bernie is a redistributor. Elon is a Capitalist. Bernie is a Communist. Etc
+
+🔗 [View original post](https://x.com/C_3C_3/status/2107794430321369353)
+
+---
+
+### 🕐 11:19 UTC · @elonmusk
+
+> Winter is coming FSD Supervised is ready Media
+
+🔗 [View original post](https://x.com/teslaeurope/status/2107792835126919431)
+
+---
+
+### 🕐 10:35 UTC · @elonmusk
+
+> BREAKING: Intel CEO Lip-Bu Tan confirms the company will continue working with Elon Musk on Terafab. He made the comments in Tokyo today, reaffirming Intel’s role as a development partner. Intel joined in April to help design, manufacture and package chips.
+
+![BREAKING: Intel CEO Lip-Bu Tan confirms the company will continue working with Elon Musk on Terafab. He made the comments in Tokyo today, reaffirming Intel’s role as a development partner. Intel joine](../../../../assets/images/2026/10/07/2107781749724086318-1.jpg)
+
+🔗 [View original post](https://x.com/cb_doge/status/2107781749724086318)
+
+---
+
+### 🕐 10:23 UTC · @elonmusk
+
+> People clearly prefer Grok Bot to Dots.
+
+![People clearly prefer Grok Bot to Dots.](../../../../assets/images/2026/10/07/2107778953494794733-1.jpg)
+
+🔗 [View original post](https://x.com/NathanLands/status/2107778953494794733)
 
 ---
 
@@ -97,6 +309,14 @@
 > Bro… after connecting all my Gmail accounts to Grok Bot, I don’t even need to open Gmail anymore. Today it cleaned up 2,000+ emails, and all I had to tell it was: “Mark these as read,” “Unsubscribe me from these mailing lists,” “Move these to trash,” or respond with whatever. I’m literally managing my inbox by texting my bot… thousands of emails cleaned up with a few simple instructions. And unsubscribing means less junk coming in tomorrow, too. This might be my favorite email hack ever. What a game changer.
 
 🔗 [View original post](https://x.com/Teslaconomics/status/2107681345178923367)
+
+---
+
+### 🕐 03:32 UTC · @elonmusk
+
+> Democrats are for open borders and couldn’t care less when American citizens are murdered by illegal aliens. Listen for yourself 👇 Media
+
+🔗 [View original post](https://x.com/ScottJenningsKY/status/2107675323672248425)
 
 ---
 
