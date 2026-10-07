@@ -124360,6 +124360,13 @@
     "fingerprint": "9c84b5080baae65bcf03b6294c172475d940faf979d69f01d658cf328665a614",
     "media": []
   },
+  "2107682560763654325": {
+    "account": "elonmusk",
+    "date": "2026-10-07",
+    "file": "data/posts/2026/10/2026-10-07.jsonl",
+    "fingerprint": "e0a8726014e1c48ef2ad291cb791ac7ca0dac100fdc1d027731717141425cfb4",
+    "media": []
+  },
   "2107687399509913967": {
     "account": "elonmusk",
     "date": "2026-10-07",
@@ -124428,11 +124435,59 @@
       }
     ]
   },
+  "2107704580016582936": {
+    "account": "elonmusk",
+    "date": "2026-10-07",
+    "file": "data/posts/2026/10/2026-10-07.jsonl",
+    "fingerprint": "31cc8bb3888bdf9c63b99c355c7ad22a3f40d7a641b3f92a8a54caf34add4c45",
+    "media": []
+  },
   "2107709721755181408": {
     "account": "tonysimons_",
     "date": "2026-10-07",
     "file": "data/posts/2026/10/2026-10-07.jsonl",
     "fingerprint": "a76cb9d011a5f258a51200acdae8ac73e1adccb3d3fa2f2c0f98ea143f4ce85d",
+    "media": []
+  },
+  "2107711125341274582": {
+    "account": "elonmusk",
+    "date": "2026-10-07",
+    "file": "data/posts/2026/10/2026-10-07.jsonl",
+    "fingerprint": "6dfcf0e9d6941086d50475cfdedfca78dc0905c898873e5a50402688f311d3db",
+    "media": []
+  },
+  "2107714585142919226": {
+    "account": "elonmusk",
+    "date": "2026-10-07",
+    "file": "data/posts/2026/10/2026-10-07.jsonl",
+    "fingerprint": "27b58b1edeee320ae630856b80dad5dd9328cf8b92dd5fe902eedc2f0f4a165a",
+    "media": [
+      {
+        "local_path": "assets/images/2026/10/07/2107714585142919226-1.jpg",
+        "sha256": "808496ba21875bab96b29b2a303e92cf2b81ebe8bc8c838a5867b9e537e60337",
+        "source_url": "https://pbs.twimg.com/media/HUAbPC7aQAACMgC.jpg?name=orig"
+      }
+    ]
+  },
+  "2107714870313676807": {
+    "account": "elonmusk",
+    "date": "2026-10-07",
+    "file": "data/posts/2026/10/2026-10-07.jsonl",
+    "fingerprint": "56cb61f040aa54515ecacbd89a77654b64425609a207c498fcfec738e5bf1eff",
+    "media": []
+  },
+  "2107719109353853062": {
+    "account": "tonysimons_",
+    "date": "2026-10-07",
+    "file": "data/posts/2026/10/2026-10-07.jsonl",
+    "fingerprint": "9c1a08b8a0e8f7ef7df604550fdae73e93881a25191bb3b5b85371e646cb0d57",
+    "media": []
+  },
+  "2107723525314494969": {
+    "account": "tonysimons_",
+    "date": "2026-10-07",
+    "file": "data/posts/2026/10/2026-10-07.jsonl",
+    "fingerprint": "68290fc2c450ed0ff19d9a76a810f1ea5a04a21ba727dc5873ac4aeadcde8611",
     "media": []
   }
 }

@@ -2,7 +2,23 @@
 
 ## 📅 October 07, 2026
 
-> 3 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 06:43 UTC · @tonysimons_
+
+> What Hermes feature do you use WAY more than you expected to? 🪽
+
+🔗 [View original post](https://x.com/tonysimons_/status/2107723525314494969)
+
+---
+
+### 🕐 06:26 UTC · @tonysimons_
+
+> Your mom called... 🪽 Tek is out here hitting &apos;em with the 1-2! 🤣👇 Friendly reminder that Hermes was never built or intended to be exclusively for the &quot;personal assistant&quot; agent that can just read your emails and nothing else. I fully intend and have plainly stated many times that I always built hermes to be the most powerful AI Agent. &quot;Normie&quot; …
+
+🔗 [View original post](https://x.com/tonysimons_/status/2107719109353853062)
 
 ---
 

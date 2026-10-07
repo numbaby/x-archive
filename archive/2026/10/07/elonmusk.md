@@ -2,7 +2,41 @@
 
 ## 📅 October 07, 2026
 
-> 7 post(s) archived.
+> 12 post(s) archived.
+
+---
+
+### 🕐 06:09 UTC · @elonmusk
+
+> 🇩🇪 Danke Schön! 🇩🇪 BREAKING: Germany’s transport minister pushes for Tesla FSD approval across Europe. Speaking today at a Tagesspiegel Background conference in Berlin, Steffen Bilger said: • He will push for Tesla FSD Supervised to reach drivers across the EU soon. • He sees potential for FSD to m…
+
+🔗 [View original post](https://x.com/elonmusk/status/2107714870313676807)
+
+---
+
+### 🕐 06:08 UTC · @elonmusk
+
+> Great to be at India Mobile Congress today. Thank you to the Government of India and @DoT_India for the opportunity to share @Starlink’s vision for India. Starlink can help reach the places where the last mile is still the hardest mile - working alongside India’s operators, government and industry. As India works through the final approvals, our message is simple: We stand ready to serve India, as soon as India is ready! 🇮🇳🛰️
+
+![Great to be at India Mobile Congress today. Thank you to the Government of India and @DoT_India for the opportunity to share @Starlink’s vision for India. Starlink can help reach the places where the ](../../../../assets/images/2026/10/07/2107714585142919226-1.jpg)
+
+🔗 [View original post](https://x.com/LaurenDreyer/status/2107714585142919226)
+
+---
+
+### 🕐 05:54 UTC · @elonmusk
+
+> Grok Bot is awesome
+
+🔗 [View original post](https://x.com/melvindvivas/status/2107711125341274582)
+
+---
+
+### 🕐 05:28 UTC · @elonmusk
+
+> Finally. https://x.com/NatConTalk/status/2107447587683045633?s=20 “We, the Jews of Israel, have a great problem with progressive Jews in the West who support immigration. It is time for us to call them out.” — @GadiTaub1 at NatCon Jerusalem.
+
+🔗 [View original post](https://x.com/xenocosmography/status/2107704580016582936)
 
 ---
 
@@ -47,6 +81,14 @@
 ![Grok Build just got one of its biggest updates yet.....a massive upgrade touching almost every part of the agent stack Compact mode gets a major upgrade, timestamps are now configurable, shell command](../../../../assets/images/2026/10/07/2107687399509913967-1.jpg)
 
 🔗 [View original post](https://x.com/XFreeze/status/2107687399509913967)
+
+---
+
+### 🕐 04:00 UTC · @elonmusk
+
+> Grok bot proactively helping every day is like having many executive assistants for each area of your life. There hasn’t been a technology that’s this well put together in a long time. I can’t wait to see what else the @SpaceXAI team is cooking 👨‍🍳 🥔
+
+🔗 [View original post](https://x.com/thecsguy/status/2107682560763654325)
 
 ---
 
