@@ -124210,5 +124210,32 @@
     "file": "data/posts/2026/10/2026-10-06.jsonl",
     "fingerprint": "44afc3f5852ad42b8d5039255f35b1f91dd1a5884537ccd8ed75c9d6ec9fce6d",
     "media": []
+  },
+  "2107622478428463393": {
+    "account": "tunguz",
+    "date": "2026-10-07",
+    "file": "data/posts/2026/10/2026-10-07.jsonl",
+    "fingerprint": "40e38714b89f4321f1b458d1e2142a55e19b480f48510b226724b1c2528ff4a7",
+    "media": []
+  },
+  "2107623610483720463": {
+    "account": "sama",
+    "date": "2026-10-07",
+    "file": "data/posts/2026/10/2026-10-07.jsonl",
+    "fingerprint": "007125979132fa7b885e3c65fc243c04b317fd18617189b6e962f366b8564e70",
+    "media": [
+      {
+        "local_path": "assets/images/2026/10/07/2107623610483720463-1.jpg",
+        "sha256": "b4081aaa13951b8ade9c52f228eecc75d8f123ee5e072cb8d8c11e6fc2063afa",
+        "source_url": "https://pbs.twimg.com/card_img/2107596513711124480/iolrIWSp?format=jpg&name=800x419"
+      }
+    ]
+  },
+  "2107630159927062921": {
+    "account": "simonw",
+    "date": "2026-10-07",
+    "file": "data/posts/2026/10/2026-10-07.jsonl",
+    "fingerprint": "b63d59facdc0d7ee67a40f7b03e9eedf7cb1e74ea930c83234d08382275e92d8",
+    "media": []
   }
 }
