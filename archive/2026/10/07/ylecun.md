@@ -2,7 +2,17 @@
 
 ## 📅 October 07, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 10:49 UTC · @ylecun
+
+> &quot;Even “normal” general-purpose technologies are initially volatile and dangerous, even those we come to think of as unalloyed goods.&quot; https://www.theargumentmag.com/p/the-nightmare-before-progress Completely agree, and appreciate @DKThomp citing us making that very point. Emphasizing AI&apos;s similarity to past general purpose technologies should put more focus on this destabilization, not less. &quot;Practically every major technological revolution has been, at least partly and briefly, an economic, social, or political catastrophe. From this reading of history, it would be odd if AI arrived without significantly destabilizing some part of our world for the worse.&quot;
+
+![&quot;Even “normal” general-purpose technologies are initially volatile and dangerous, even those we come to think of as unalloyed goods.&quot; https://www.theargumentmag.com/p/the-nightmare-before-pr](../../../../assets/images/2026/10/07/2107785375582167519-1.jpg)
+
+🔗 [View original post](https://x.com/random_walker/status/2107785375582167519)
 
 ---
 

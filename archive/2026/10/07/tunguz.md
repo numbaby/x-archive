@@ -2,7 +2,31 @@
 
 ## 📅 October 07, 2026
 
-> 5 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 12:41 UTC · @tunguz
+
+> Same I will never understand parents who can’t wait for their kids to leave the house, or grandparents who don’t really care to be involved with their grandchildren. My mother kicked me out of the house when I was 17 and she has zero relationship with my children. She also has zero de…
+
+🔗 [View original post](https://x.com/tunguz/status/2107813569157026282)
+
+---
+
+### 🕐 11:50 UTC · @tunguz
+
+> Almost all of the actually useful knowledge in the world is still tacit or hidden. Access still beats intelligence, by a very wide margin in most cases. However, at some point intelligence becomes powerful enough to reverse engineer hidden knowledge, and that’s when the real change in the world will begin.
+
+🔗 [View original post](https://x.com/tunguz/status/2107800832465064006)
+
+---
+
+### 🕐 11:31 UTC · @tunguz
+
+> Real Gary Marcus has never been tried. I wonder what @GaryMarcus thinks of this bet now. It was in a thread originated by @MCHammer that seems to be deleted, but I saved the screenshots back then.
+
+🔗 [View original post](https://x.com/tunguz/status/2107795864173617495)
 
 ---
 
