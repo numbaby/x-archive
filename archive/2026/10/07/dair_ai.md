@@ -2,7 +2,17 @@
 
 ## 📅 October 07, 2026
 
-> 7 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 19:47 UTC · @dair_ai
+
+> Useful paper on what an agent harness changes when the model stays the same. One takeaway: keep your harness prompt and tools small. In this study, that can cut costs by up to 3x without lowering accuracy. The authors ran Claude Code, mini-SWE-agent, and OpenCode with the same model on SWE-bench Verified. Claude Code and mini-SWE-agent scored within 5 points of each other on 447 tasks. Swapping the harness changed results about as much as rerunning it. On a 45-task hard set, both flipped 13% of tasks. The cost difference comes from the system prompt and tool schemas, which each harness sends again at every step. The more steps the agent takes, the more times you pay for them. Paper: https://academy.dair.ai/papers/what-does-a-harness-buy-tokens-mostly-2610.04433
+
+![Useful paper on what an agent harness changes when the model stays the same. One takeaway: keep your harness prompt and tools small. In this study, that can cut costs by up to 3x without lowering accu](../../../../assets/images/2026/10/07/2107920656788767098-1.png)
+
+🔗 [View original post](https://x.com/dair_ai/status/2107920656788767098)
 
 ---
 

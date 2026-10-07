@@ -2,7 +2,25 @@
 
 ## 📅 October 07, 2026
 
-> 8 post(s) archived.
+> 10 post(s) archived.
+
+---
+
+### 🕐 18:26 UTC · @tonysimons_
+
+> Time to get Maxx-y!  Any other later order-placers getting their new iPhones today?
+
+![Time to get Maxx-y!  Any other later order-placers getting their new iPhones today?](../../../../assets/images/2026/10/07/2107900387097469089-1.jpg)
+
+🔗 [View original post](https://x.com/tonysimons_/status/2107900387097469089)
+
+---
+
+### 🕐 18:06 UTC · @tonysimons_
+
+> I must have had early test access to Intelligent UI on my account and didn’t realize it at the time. It’s very sleek and intuitive. Also, GPT-6, YAY 🤘🏻 GPT-6 and Intelligent UI, now rolling out in ChatGPT for everyone. Intelligent UI in ChatGPT delivers fast, interactive answers that make everyday questions more visual, complex topics easier to grasp, and interactive tools for your task available on the spot.
+
+🔗 [View original post](https://x.com/tonysimons_/status/2107895372412830064)
 
 ---
 

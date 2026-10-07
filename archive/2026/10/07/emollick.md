@@ -2,7 +2,15 @@
 
 ## 📅 October 07, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 18:07 UTC · @emollick
+
+> Much of the world is based on the assumption that the future is like the past and an original meaning of “singularity” was a point where that relationship breaks. I don’t know if there will be one big Singularity, but a million little singularities across fields seems inevitable.
+
+🔗 [View original post](https://x.com/emollick/status/2107895489614250316)
 
 ---
 
