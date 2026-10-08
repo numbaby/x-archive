@@ -2,7 +2,15 @@
 
 ## 📅 October 08, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 21:20 UTC · @AiEvolutio58513
+
+> The more I use AI, the more humans I want to hire. I keep seeing people talk about AI replacing jobs. Meanwhile, I&apos;m over here trying to hire more people. I have more ideas than I can possibly execute myself. More newsletters to launch, more content to publish, and more things I want to test. And I&apos;d love to hire talented people to help make it all happen. The challenge is that what I&apos;m looking for in a hire has changed. I want marketers, copywriters, and designers who are great at what they do AND know how to use AI really well. People with good judgment, creativity, and the ability to take an idea and run with it. Finding that combination has been surprisingly difficult. A lot of the best people I&apos;ve met with those skills already work for themselves. And honestly, I get it. AI makes running your own business a lot more attractive. Here&apos;s a real example. I&apos;d happily hire someone to take ownership of my newsletters, from the initial idea to the finished email. I&apos;d love to publish more frequently. I just don&apos;t want to write every edition myself. That&apos;s actually part of why I&apos;m doing a free training on how to create a newsletter in about 10 minutes using AI. I&apos;ll walk through the exact process I&apos;d love someone on my team to know. You can sign up for free here: https://guruconference.com/lp9 I hope it helps more marketers and copywriters develop skills they can put to work immediately. And selfishly, maybe I&apos;ll meet someone I end up hiring along the way. Because I genuinely want to hire more humans. I just want to hire humans who know how to use AI.
+
+🔗 [View original post](https://x.com/ecomchasedimond/status/2108306439618097533)
 
 ---
 

@@ -2,7 +2,15 @@
 
 ## 📅 October 08, 2026
 
-> 11 post(s) archived.
+> 12 post(s) archived.
+
+---
+
+### 🕐 23:04 UTC · @tonysimons_
+
+> 48GB of RAM. Mac mini. Apple Silicon.  Now comes the fun part. 😈 I want to see what local AI can REALLY do on this thing. What’s the ONE model you’d install first? Drop names. 👇
+
+🔗 [View original post](https://x.com/tonysimons_/status/2108332725039951945)
 
 ---
 

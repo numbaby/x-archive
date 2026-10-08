@@ -2,7 +2,25 @@
 
 ## 📅 October 08, 2026
 
-> 10 post(s) archived.
+> 14 post(s) archived.
+
+---
+
+### 🕐 19:04 UTC · @ylecun
+
+> Financial data is RIPE for JEPAs... noise, non-stationarity, unknown ground truth states... yet data and evaluation is not readily available! We resolve that in our latest NeurIPS paper `Towards Financial World Modeling&apos; TLDR: invest with LeJEPA ;) 📄https://arxiv.org/abs/2610.09048 🧵⬇️
+
+![Financial data is RIPE for JEPAs... noise, non-stationarity, unknown ground truth states... yet data and evaluation is not readily available! We resolve that in our latest NeurIPS paper `Towards Finan](../../../../assets/images/2026/10/08/2108272405236097449-1.jpg)
+
+🔗 [View original post](https://x.com/randall_balestr/status/2108272405236097449)
+
+---
+
+### 🕐 18:29 UTC · @ylecun
+
+> Is it possible to provably recover individual latent variables of the true world, even without reconstruction (e.g., JEPA)? Yes, with DSReg, a simple regularization that can be applied post hoc to your pretrained model! https://dsreg.github.io/ Media
+
+🔗 [View original post](https://x.com/YujiaZheng9/status/2108263563097719146)
 
 ---
 
@@ -56,6 +74,16 @@
 
 ---
 
+### 🕐 09:33 UTC · @ylecun
+
+> Meta published a paper that might end the transformer era. For the last seven years, every major AI, ChatGPT, Claude, Gemini, has been built on the exact same architecture. Transformer. But Transformers have a massive, expensive flaw. To get smarter, they rely on an endless, brute-force supply of training data. And to remember long contexts, their compute cost explodes. We thought the only way forward was bigger GPUs and endless data centers. But, Meta proved us wrong. They published &quot;Memory Mosaics at scale,&quot; and it completely rewrites how AI processes information. Instead of the standard attention mechanism, Meta built a network of associative memories. It works less like a calculator running endless sequence equations, and more like a device storing and selectively retrieving specific key-value pairs. The results are staggering. A Memory Mosaics model trained on just 1 trillion tokens completely outperformed a traditional Transformer trained on 8 trillion tokens. Let that sink in. It beat a model trained on 8x more data. It also demonstrated superior in-context learning and the ability to solve completely new tasks with a fraction of the examples. It naturally disentangles complex problems into smaller, independent sub-tasks automatically.
+
+![Meta published a paper that might end the transformer era. For the last seven years, every major AI, ChatGPT, Claude, Gemini, has been built on the exact same architecture. Transformer. But Transforme](../../../../assets/images/2026/10/08/2108128585760596237-1.jpg)
+
+🔗 [View original post](https://x.com/CrazyShyyt/status/2108128585760596237)
+
+---
+
 ### 🕐 08:56 UTC · @ylecun
 
 > 1/ Why does predicting in latent space (JEPA, CPC, SimCLR...) work so well on messy data, with changing lighting, camera angles, and busy backgrounds? The usual answer: it can ignore nuisance. But that answer holds a conundrum. Media
@@ -69,6 +97,14 @@
 > Au contraire. C&apos;est une nouvelle ère qui s&apos;ouvre pour les mathématiques. Une ère où la démonstration formelle est largement automatisée et où l&apos;accent sera reporté sur le développement de nouveaux concepts, nouvelles abstractions, nouvelles définitions, et nouvelles conjectures. L&apos;invention du bateau a réduit l&apos;importance de la nage, mais a permis la découverte de nouvelles terres.
 
 🔗 [View original post](https://x.com/ylecun/status/2108118582856925198)
+
+---
+
+### 🕐 08:25 UTC · @ylecun
+
+> 🔥 #LeAVJEPA: A simple recipe for self-supervised learning from sound and vision 🔥 One shared encoder, trained without class labels. Dropping a modality makes audio &amp; video learn a common representation. 🧵 Media
+
+🔗 [View original post](https://x.com/arnosolin/status/2108111611768480128)
 
 ---
 

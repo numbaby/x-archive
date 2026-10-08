@@ -2,7 +2,57 @@
 
 ## 📅 October 08, 2026
 
-> 7 post(s) archived.
+> 13 post(s) archived.
+
+---
+
+### 🕐 23:08 UTC · @_akhaliq
+
+> Agent Plasticity Measuring Self-Improvement Through Experience paper: https://huggingface.co/papers/2610.08902 Media
+
+🔗 [View original post](https://x.com/_akhaliq/status/2108333776774508934)
+
+---
+
+### 🕐 23:06 UTC · @_akhaliq
+
+> Iris-3B Going Beyond the Latent with Pixel-Space Diffusion Training, Conversion and Fine-Tuning paper: https://huggingface.co/papers/2610.09450 Media
+
+🔗 [View original post](https://x.com/_akhaliq/status/2108333163768582177)
+
+---
+
+### 🕐 23:04 UTC · @_akhaliq
+
+> Native Action-Prior Learning from Videos for World Action Models paper: https://huggingface.co/papers/2610.03391 Media
+
+🔗 [View original post](https://x.com/_akhaliq/status/2108332676826694057)
+
+---
+
+### 🕐 22:54 UTC · @_akhaliq
+
+> PAMI Part Anchored Motion for Text to Human-Object Interaction Generation paper: https://huggingface.co/papers/2609.38466 Media
+
+🔗 [View original post](https://x.com/_akhaliq/status/2108330240426856643)
+
+---
+
+### 🕐 22:52 UTC · @_akhaliq
+
+> Old Ideas, Novel Problems The Instability of LLM-Based Novelty Evaluation paper: https://huggingface.co/papers/2610.02022
+
+![Old Ideas, Novel Problems The Instability of LLM-Based Novelty Evaluation paper: https://huggingface.co/papers/2610.02022](../../../../assets/images/2026/10/08/2108329708345758115-1.jpg)
+
+🔗 [View original post](https://x.com/_akhaliq/status/2108329708345758115)
+
+---
+
+### 🕐 22:45 UTC · @_akhaliq
+
+> LIFT Layout-In-Future Video Generation under Large Viewpoint Change via On-Policy Self-Distillation paper: https://huggingface.co/papers/2609.38146 Media
+
+🔗 [View original post](https://x.com/_akhaliq/status/2108328041835540628)
 
 ---
 
