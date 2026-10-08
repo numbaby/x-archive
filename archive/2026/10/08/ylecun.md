@@ -2,7 +2,15 @@
 
 ## 📅 October 08, 2026
 
-> 7 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 15:25 UTC · @ylecun
+
+> @BrianRoemmele @elonmusk The Medal of Science is for scientists. Scientists publish their works in peer-reviewed venues so they can be scrutinized, verified, and reproduced.
+
+🔗 [View original post](https://x.com/ylecun/status/2108217333504180551)
 
 ---
 

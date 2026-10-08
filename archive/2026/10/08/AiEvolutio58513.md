@@ -2,7 +2,15 @@
 
 ## 📅 October 08, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 14:03 UTC · @AiEvolutio58513
+
+> Chinese models run 112 times cheaper than Anthropic for every million tokens. Chamath broke it down on CNBC: Anthropic&apos;s &quot;barrel of intelligence&quot; runs $56, OpenAI $26, Meta $1.50, xAI and Google $1, and Chinese models $0.50. That gap amounts to the steepest commodity curve in the recorded history of technology. Oil needed 40 years to compress that way. Semiconductors needed 20. AI inference is getting there in months. The firms priced at $26 and $56 aren&apos;t careless. They&apos;re gambling that trust, safety and enterprise ties keep the markup in place long enough for their costs to fall. The timeline is the one thing they can&apos;t bet on. The $0.50 model is a working product. Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2108196490732790048)
 
 ---
 

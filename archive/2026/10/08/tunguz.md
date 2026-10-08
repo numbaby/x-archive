@@ -2,7 +2,55 @@
 
 ## 📅 October 08, 2026
 
-> 4 post(s) archived.
+> 10 post(s) archived.
+
+---
+
+### 🕐 14:29 UTC · @tunguz
+
+> The only science/tech that NYT reports on is along the lines of some trite politicized agenda that they espouse. A few years ago I tried reading it again, only to discover that they are completely insane. Top mathematician: &quot;obviously the biggest day in the history of mathematics&quot; NYT front page: Good Wine Under $30
+
+🔗 [View original post](https://x.com/tunguz/status/2108203014385451419)
+
+---
+
+### 🕐 14:26 UTC · @tunguz
+
+> Mass violence at scale is the natural, albeit not inevitable, endpoint of the “might makes right” mindset.
+
+🔗 [View original post](https://x.com/tunguz/status/2108202491552977328)
+
+---
+
+### 🕐 14:17 UTC · @tunguz
+
+> Life on a peninsula is the best. All the benefits of island life with no downside. America&apos;s largest peninsulas
+
+🔗 [View original post](https://x.com/tunguz/status/2108200195792195950)
+
+---
+
+### 🕐 14:11 UTC · @tunguz
+
+> Gary should be on the map as well. Cities that are older than the United States 🇺🇸
+
+🔗 [View original post](https://x.com/tunguz/status/2108198581396238776)
+
+---
+
+### 🕐 14:03 UTC · @tunguz
+
+> Something is gonna give.
+
+🔗 [View original post](https://x.com/tunguz/status/2108196579828199467)
+
+---
+
+### 🕐 14:00 UTC · @tunguz
+
+> Some people are dunking on this, but IMHO THIS is the way that science publications should be done. Post-publication corrections and modifications should be THE norm, not an exception. Software developers had it right all along. We need to stop treating research publications as settled scriptures. We&apos;ve updated our GitHub math repo with 6 new Lean formalizations, 19 modifications, and 3 withdrawals. The repo now has ~42% top-line results formalized. We will continue to update the repo with new formalizations and with any errata we notice. https://github.com/openai/math/blo…
+
+🔗 [View original post](https://x.com/tunguz/status/2108195905400864892)
 
 ---
 
