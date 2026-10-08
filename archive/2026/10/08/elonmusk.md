@@ -2,7 +2,39 @@
 
 ## 📅 October 08, 2026
 
-> 4 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 04:13 UTC · @elonmusk
+
+> True You don&apos;t have to wait for Grok Bot to add Claude, OpenAI, etc. You can do it now. I did Just ask your Grok Bot to connect to your AI subscriptions. How it&apos;ll do it: • Opens a terminal on its own computer • Installs the Claude Code and Codex command-line tools • You sign in to yo…
+
+🔗 [View original post](https://x.com/elonmusk/status/2108048212233785664)
+
+---
+
+### 🕐 03:34 UTC · @elonmusk
+
+> Grok @Bot is like hiring an extremely competent employee! I keep hearing the same thing from people trying Grok Bot: “I’ve tried it. But I still don’t really understand what I’m supposed to use it for.” If that’s you, give me 53 seconds. I’ll show you the mental model that makes Grok Bot click 👇🏻
+
+🔗 [View original post](https://x.com/elonmusk/status/2108038296572137792)
+
+---
+
+### 🕐 03:32 UTC · @elonmusk
+
+> Starlink connecting Bangladesh! We&apos;re now connecting millions of people in Bangladesh with Starlink Mobile! Our technology provides an additional layer of connectivity in cellular dead zones so coastal communities, remote businesses, families and travelers can stay in touch no matter where they are.
+
+🔗 [View original post](https://x.com/elonmusk/status/2108037853993439563)
+
+---
+
+### 🕐 03:27 UTC · @elonmusk
+
+> Grok @Bot gets better every day Alright I&apos;m done dude. Today changed the entire AI game again. Throwing my Mac mini in the trash. Deleting all my subs and just maxing out Grok Bot. You don&apos;t need anything else anymore. I made this video by opening Grok Bot, and spending about 15 seconds writing the following pr…
+
+🔗 [View original post](https://x.com/elonmusk/status/2108036583861485812)
 
 ---
 
