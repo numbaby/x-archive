@@ -2,7 +2,15 @@
 
 ## 📅 October 08, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 16:00 UTC · @AiEvolutio58513
+
+> Your next winning Meta ad might already be sitting in a customer call, a TikTok trend, or something a competitor just posted. The problem is, all of those signals live in different places. Now imagine giving an agent this job: “Every morning, go through our customer calls in Granola, see what’s trending on TikTok, check what our competitors are running on Meta, then give me 5 new creative ideas based on what you find.” That’s the part I find really interesting about @twin_labs. Most ad tools only know what’s happening inside your ad account. Twin can pull context from across the tools you already use, connect the dots, and turn what it finds into new ideas for your Meta campaigns. And Meta Ads is now live on Twin. Link in the tweet below. Media
+
+🔗 [View original post](https://x.com/ecomchasedimond/status/2108225940962914650)
 
 ---
 

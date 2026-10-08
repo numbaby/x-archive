@@ -125183,6 +125183,13 @@
       }
     ]
   },
+  "2107990465484353651": {
+    "account": "ylecun",
+    "date": "2026-10-08",
+    "file": "data/posts/2026/10/2026-10-08.jsonl",
+    "fingerprint": "050ad5edaa753cf2d54c9c7c7f6846ddfc3947780eba560a12f6417e4446e0e6",
+    "media": []
+  },
   "2107995612507677007": {
     "account": "tonysimons_",
     "date": "2026-10-08",
@@ -125634,6 +125641,19 @@
     "fingerprint": "4596972eee3a79067f0b36ae690e5d0218ad2d59dde9a6aa237fbfe82ae533df",
     "media": []
   },
+  "2108109229869441509": {
+    "account": "_akhaliq",
+    "date": "2026-10-08",
+    "file": "data/posts/2026/10/2026-10-08.jsonl",
+    "fingerprint": "de1e6e231e0cd11687f6c5c65f202ec54fdebd95bbaf1246d3f3afe5461fb884",
+    "media": [
+      {
+        "local_path": "assets/images/2026/10/08/2108109229869441509-1.jpg",
+        "sha256": "05b198bca5bc0a7ff19c2bb347740947ab9a70e67ebb98ec4d3e1a81b985af76",
+        "source_url": "https://pbs.twimg.com/media/HUGCK_wWcAEFP2F.jpg?name=orig"
+      }
+    ]
+  },
   "2108118582856925198": {
     "account": "ylecun",
     "date": "2026-10-08",
@@ -125749,6 +125769,13 @@
     "date": "2026-10-08",
     "file": "data/posts/2026/10/2026-10-08.jsonl",
     "fingerprint": "33b1690487d6adeb9c859b045bf8d99c171299d63b15d0fb296375c52c91de04",
+    "media": []
+  },
+  "2108167134690066900": {
+    "account": "tonysimons_",
+    "date": "2026-10-08",
+    "file": "data/posts/2026/10/2026-10-08.jsonl",
+    "fingerprint": "ed0263442bb8e52bf2f30bd5efabd88c9b0f6156e7b033dfffa991296b4e98a2",
     "media": []
   },
   "2108169587745550457": {
@@ -125956,6 +125983,13 @@
     "fingerprint": "ef98dc173b3488a1a0f512f80f6fc232d06fbe594be34a2b9ca6bd73e2207c39",
     "media": []
   },
+  "2108198535388631222": {
+    "account": "ylecun",
+    "date": "2026-10-08",
+    "file": "data/posts/2026/10/2026-10-08.jsonl",
+    "fingerprint": "08c15bd76736014a9e6ada6331f2b0b436c5c73e2f150573bbf6d78e7369f311",
+    "media": []
+  },
   "2108198581396238776": {
     "account": "tunguz",
     "date": "2026-10-08",
@@ -125990,6 +126024,19 @@
     "file": "data/posts/2026/10/2026-10-08.jsonl",
     "fingerprint": "63b3ff588fe5a3745050b5ce6913257d7a15a8b08b0fadb7886e3efe2e62cb56",
     "media": []
+  },
+  "2108210563990106331": {
+    "account": "omarsar0",
+    "date": "2026-10-08",
+    "file": "data/posts/2026/10/2026-10-08.jsonl",
+    "fingerprint": "948673a27a8630fd26c47e2c987d14e702f8bec9c92bd60885e3a2e822955b9a",
+    "media": [
+      {
+        "local_path": "assets/images/2026/10/08/2108210563990106331-1.jpg",
+        "sha256": "2eb00c262bf5e9fdd25684bd256e691e5df8c21179909f70db4076bb6d84a291",
+        "source_url": "https://pbs.twimg.com/media/HUHeVeJaUAAXfiO.jpg?name=orig"
+      }
+    ]
   },
   "2108212272317288746": {
     "account": "_akhaliq",
@@ -126044,6 +126091,20 @@
       }
     ]
   },
+  "2108219908748108068": {
+    "account": "elonmusk",
+    "date": "2026-10-08",
+    "file": "data/posts/2026/10/2026-10-08.jsonl",
+    "fingerprint": "867f6041d0485e8596e5aba3b3f6a006e906be74927c64623f153e65114944ac",
+    "media": []
+  },
+  "2108220101614850436": {
+    "account": "elonmusk",
+    "date": "2026-10-08",
+    "file": "data/posts/2026/10/2026-10-08.jsonl",
+    "fingerprint": "928541613fe47a0134a721744d613b3b3b3da5983fa946fd70da0667b4a8a130",
+    "media": []
+  },
   "2108220473695727842": {
     "account": "omarsar0",
     "date": "2026-10-08",
@@ -126070,5 +126131,340 @@
     "file": "data/posts/2026/10/2026-10-08.jsonl",
     "fingerprint": "b3e320415abfcb4727decd25b53d05158e2d6fa3a9885bceb851ef9ce7a40e2f",
     "media": []
+  },
+  "2108223408328814669": {
+    "account": "elonmusk",
+    "date": "2026-10-08",
+    "file": "data/posts/2026/10/2026-10-08.jsonl",
+    "fingerprint": "8ea835ece09f3808b74889e8962869f67b8671e2b5d7c3a60f3da8cf78b1bc0e",
+    "media": [
+      {
+        "local_path": "assets/images/2026/10/08/2108223408328814669-1.jpg",
+        "sha256": "43b76b3ddc7b19800042118cf4742c5c714fe9075a4861b5865f973da80b73bb",
+        "source_url": "https://pbs.twimg.com/media/HUHqBG0bAAEoggH.jpg?name=orig"
+      }
+    ]
+  },
+  "2108223791138734327": {
+    "account": "elonmusk",
+    "date": "2026-10-08",
+    "file": "data/posts/2026/10/2026-10-08.jsonl",
+    "fingerprint": "78406796f2e1a5bd6130965e3a582d2a250029428c60c858b6e8218bc2f64a92",
+    "media": []
+  },
+  "2108225028299034638": {
+    "account": "simonw",
+    "date": "2026-10-08",
+    "file": "data/posts/2026/10/2026-10-08.jsonl",
+    "fingerprint": "bc43fe8ab0032a5aae16559fe1b8e0a433c5473d77219bcd90af7239b90cdfa7",
+    "media": []
+  },
+  "2108225138827178306": {
+    "account": "omarsar0",
+    "date": "2026-10-08",
+    "file": "data/posts/2026/10/2026-10-08.jsonl",
+    "fingerprint": "664e429c803ebbffd41025c914adc425b59608261861aa925ef2c5c2ec320f0a",
+    "media": []
+  },
+  "2108225227339550790": {
+    "account": "elonmusk",
+    "date": "2026-10-08",
+    "file": "data/posts/2026/10/2026-10-08.jsonl",
+    "fingerprint": "4814a46f4c5874c291f9f870f9da4ebd3027994724de62056e8a7a3dbf58bacf",
+    "media": []
+  },
+  "2108225940962914650": {
+    "account": "AiEvolutio58513",
+    "date": "2026-10-08",
+    "file": "data/posts/2026/10/2026-10-08.jsonl",
+    "fingerprint": "7758a8c2f31b6aa641e767232b2fe0e6317e845c191b53ca1055359658ef70d7",
+    "media": []
+  },
+  "2108226178146263268": {
+    "account": "elonmusk",
+    "date": "2026-10-08",
+    "file": "data/posts/2026/10/2026-10-08.jsonl",
+    "fingerprint": "8501ae777150d6000c9ba9bea4b1111a22d5448e8233807d2f88301e822c8399",
+    "media": []
+  },
+  "2108226980135194825": {
+    "account": "elonmusk",
+    "date": "2026-10-08",
+    "file": "data/posts/2026/10/2026-10-08.jsonl",
+    "fingerprint": "87126b88acd52e671d591ef0a034438a2d9671d3d90cc048ca0354a04b362832",
+    "media": [
+      {
+        "local_path": "assets/images/2026/10/08/2108226980135194825-1.jpg",
+        "sha256": "fe21985bdd782dcaf0d5cfc25d0fb965ca5586c2eca22963e482026b29712ba2",
+        "source_url": "https://pbs.twimg.com/media/HUHpydobkAAD27i.jpg?name=orig"
+      }
+    ]
+  },
+  "2108227575621583195": {
+    "account": "tonysimons_",
+    "date": "2026-10-08",
+    "file": "data/posts/2026/10/2026-10-08.jsonl",
+    "fingerprint": "aa47c322f1850ee3069774f171e27a6338f9db0efa4d7583c5f76db313b78597",
+    "media": []
+  },
+  "2108229538790424935": {
+    "account": "swyx",
+    "date": "2026-10-08",
+    "file": "data/posts/2026/10/2026-10-08.jsonl",
+    "fingerprint": "4e81871091b4691a5fb0fd8fee58e4b8d528cfd8076a823f5493fa4d8bf6528e",
+    "media": []
+  },
+  "2108229693061357652": {
+    "account": "dair_ai",
+    "date": "2026-10-08",
+    "file": "data/posts/2026/10/2026-10-08.jsonl",
+    "fingerprint": "0604a639c76d2a540c1f1fa57c251366be985d7c7eb6054f56ca7699835d3851",
+    "media": [
+      {
+        "local_path": "assets/images/2026/10/08/2108229693061357652-1.jpg",
+        "sha256": "738b8966c22575e105fce6186de91e08013d722d7a272477467189bc745d8867",
+        "source_url": "https://pbs.twimg.com/media/HUHvu4QbgAAg9yA.jpg?name=orig"
+      }
+    ]
+  },
+  "2108230087237578821": {
+    "account": "elonmusk",
+    "date": "2026-10-08",
+    "file": "data/posts/2026/10/2026-10-08.jsonl",
+    "fingerprint": "22babea8eebd5dcfda33d84ecccb2ade919d728f7fdab19c23a3b927641f5e7b",
+    "media": []
+  },
+  "2108230178249847066": {
+    "account": "omarsar0",
+    "date": "2026-10-08",
+    "file": "data/posts/2026/10/2026-10-08.jsonl",
+    "fingerprint": "5361601bd3f85957815b43e6bdb61e2f64816ad70c20c1614ba383c993a268f8",
+    "media": []
+  },
+  "2108232165465186761": {
+    "account": "omarsar0",
+    "date": "2026-10-08",
+    "file": "data/posts/2026/10/2026-10-08.jsonl",
+    "fingerprint": "0d1dfe19b8c45cbe9ab144ef6f7e341eba8386d9dd16981334baea9ca95d3ca2",
+    "media": []
+  },
+  "2108232824520319175": {
+    "account": "elonmusk",
+    "date": "2026-10-08",
+    "file": "data/posts/2026/10/2026-10-08.jsonl",
+    "fingerprint": "1b1f9d06c1a521363c451047e32c4e5389687d0fa6aa5946eee0654331e1df34",
+    "media": []
+  },
+  "2108233316000313600": {
+    "account": "elonmusk",
+    "date": "2026-10-08",
+    "file": "data/posts/2026/10/2026-10-08.jsonl",
+    "fingerprint": "e5d15091e5ee09e89eba5f7eb5f9aebba05fb8471e04678bb09f3baf3fb2b5e5",
+    "media": []
+  },
+  "2108234824876220801": {
+    "account": "_akhaliq",
+    "date": "2026-10-08",
+    "file": "data/posts/2026/10/2026-10-08.jsonl",
+    "fingerprint": "8e0df6e6c8154c49e336d1a91bdbb75e88e95e3f956447eacedff8aad3bf52f7",
+    "media": []
+  },
+  "2108237497952055631": {
+    "account": "elonmusk",
+    "date": "2026-10-08",
+    "file": "data/posts/2026/10/2026-10-08.jsonl",
+    "fingerprint": "fba78ff70de439e9700ae5da1bb8b39ed204bfc0a19ab69b3e608c7d6891c872",
+    "media": []
+  },
+  "2108239214588342609": {
+    "account": "omarsar0",
+    "date": "2026-10-08",
+    "file": "data/posts/2026/10/2026-10-08.jsonl",
+    "fingerprint": "9fd1446be34e9ee5c3d3a3e631ac9b1a40e48e3ef2001f83adbc3c6b886b8083",
+    "media": []
+  },
+  "2108239902319988834": {
+    "account": "tonysimons_",
+    "date": "2026-10-08",
+    "file": "data/posts/2026/10/2026-10-08.jsonl",
+    "fingerprint": "f3f9cea4ac62bc01367652ff3f3251fa500e0590fa6df353b7ff7e05b3da5535",
+    "media": []
+  },
+  "2108242012185198612": {
+    "account": "elonmusk",
+    "date": "2026-10-08",
+    "file": "data/posts/2026/10/2026-10-08.jsonl",
+    "fingerprint": "7670844c7ba62c3d14d0ebe5cc63eaa4f73846815d588931ee16ccef6e53052d",
+    "media": []
+  },
+  "2108242362032177597": {
+    "account": "emollick",
+    "date": "2026-10-08",
+    "file": "data/posts/2026/10/2026-10-08.jsonl",
+    "fingerprint": "30122706cb210cdcc9307a7baf0336c2c03bc97a80c073fb12c090da4a70b1ae",
+    "media": [
+      {
+        "local_path": "assets/images/2026/10/08/2108242362032177597-1.jpg",
+        "sha256": "9ac7852b6f4a312568397261f467dbb1121c285314a0c9cd9a1601b8469ad956",
+        "source_url": "https://pbs.twimg.com/media/HUH67W3WIAANcEi.jpg?name=orig"
+      }
+    ]
+  },
+  "2108245674961588672": {
+    "account": "dair_ai",
+    "date": "2026-10-08",
+    "file": "data/posts/2026/10/2026-10-08.jsonl",
+    "fingerprint": "b2065e5b9a374175dff27625b0dfe9f216fe1d6f4a8fbd2819bfce20ff6ff6b4",
+    "media": []
+  },
+  "2108248166210720107": {
+    "account": "emollick",
+    "date": "2026-10-08",
+    "file": "data/posts/2026/10/2026-10-08.jsonl",
+    "fingerprint": "6b72362b2a6452e5ba9e02bf1043a775455a1367cba525bdfa588bdd18b50f70",
+    "media": [
+      {
+        "local_path": "assets/images/2026/10/08/2108248166210720107-1.png",
+        "sha256": "72319f121a4642dcfbd7b45cfcf6e186b926cb2ab886e66b860bedf76a71e697",
+        "source_url": "https://pbs.twimg.com/media/HUH_5RyX0AASAAX.png?name=orig"
+      }
+    ]
+  },
+  "2108251313645433010": {
+    "account": "_akhaliq",
+    "date": "2026-10-08",
+    "file": "data/posts/2026/10/2026-10-08.jsonl",
+    "fingerprint": "1cc28aa7f5b7ba58e91eb1cce234f00158451d81672dac72dcff8b6cf009d3a5",
+    "media": []
+  },
+  "2108251560752857474": {
+    "account": "emollick",
+    "date": "2026-10-08",
+    "file": "data/posts/2026/10/2026-10-08.jsonl",
+    "fingerprint": "9e145f69a606814e8e4d122834eb9d21a088a858c43fcc443d31dcff1772516b",
+    "media": []
+  },
+  "2108252061209088159": {
+    "account": "_akhaliq",
+    "date": "2026-10-08",
+    "file": "data/posts/2026/10/2026-10-08.jsonl",
+    "fingerprint": "05056abf284dab350161d9110c86394b0ba3639c995e83457c7f4d1e507251eb",
+    "media": []
+  },
+  "2108254023443009943": {
+    "account": "elonmusk",
+    "date": "2026-10-08",
+    "file": "data/posts/2026/10/2026-10-08.jsonl",
+    "fingerprint": "4238cf5a66d3fc7522eb56b2ade6371411e7b8d5b255cf45e61d9c39f384436b",
+    "media": []
+  },
+  "2108254399059652687": {
+    "account": "tunguz",
+    "date": "2026-10-08",
+    "file": "data/posts/2026/10/2026-10-08.jsonl",
+    "fingerprint": "c2f01a42d8ef01d969b86fd02e0a0179d874540283da367f4017ebbec9378ec3",
+    "media": []
+  },
+  "2108254661639803142": {
+    "account": "elonmusk",
+    "date": "2026-10-08",
+    "file": "data/posts/2026/10/2026-10-08.jsonl",
+    "fingerprint": "df5b77d0d9700cb8c675fd6d2c2fbadd0ee8b33e45af555b8ccd3c650604cac6",
+    "media": []
+  },
+  "2108255024124211211": {
+    "account": "elonmusk",
+    "date": "2026-10-08",
+    "file": "data/posts/2026/10/2026-10-08.jsonl",
+    "fingerprint": "60883c01189c0d1050a8a1bf698a0d10d0d277f6b652d125b31953a0084d3c45",
+    "media": []
+  },
+  "2108263053355811167": {
+    "account": "elonmusk",
+    "date": "2026-10-08",
+    "file": "data/posts/2026/10/2026-10-08.jsonl",
+    "fingerprint": "a3f8937de0324c72bf3eea072156bab4edd917b5f481e6fd68d7d481f8481a8c",
+    "media": [
+      {
+        "local_path": "assets/images/2026/10/08/2108263053355811167-1.jpg",
+        "sha256": "6e920eb4ca233093eec8fd723cdae70902472e70e438e16c911a331654a62fbc",
+        "source_url": "https://pbs.twimg.com/media/HUINSW5a0AE8xFO.jpg?name=orig"
+      }
+    ]
+  },
+  "2108265809826996227": {
+    "account": "elonmusk",
+    "date": "2026-10-08",
+    "file": "data/posts/2026/10/2026-10-08.jsonl",
+    "fingerprint": "b8a62679ace4924e02bfeb44dd376c08fdf9e3b47d11daa3db6597ec53d6e87c",
+    "media": [
+      {
+        "local_path": "assets/images/2026/10/08/2108265809826996227-1.jpg",
+        "sha256": "37efc9a58f74a91b4987fb8aa9f37dc756052fe43e467defc74abff813686f74",
+        "source_url": "https://pbs.twimg.com/media/HUIQlFzXUAA4IWH.jpg?name=orig"
+      }
+    ]
+  },
+  "2108266929203155367": {
+    "account": "elonmusk",
+    "date": "2026-10-08",
+    "file": "data/posts/2026/10/2026-10-08.jsonl",
+    "fingerprint": "2d4ef3deed590fc03f17abce9c356e67bc6c0dd241b88844e7a8f8ba92e03c44",
+    "media": []
+  },
+  "2108268485860040876": {
+    "account": "omarsar0",
+    "date": "2026-10-08",
+    "file": "data/posts/2026/10/2026-10-08.jsonl",
+    "fingerprint": "7bdf48818df79484c467932ac82708c519a1ef6d2a38fc9e6e068cd8fbbfc196",
+    "media": []
+  },
+  "2108269764590043390": {
+    "account": "tonysimons_",
+    "date": "2026-10-08",
+    "file": "data/posts/2026/10/2026-10-08.jsonl",
+    "fingerprint": "11b7631774a31c1d1275187757fbb70746e8ff8e457ee1b30c7e8daab1980859",
+    "media": []
+  },
+  "2108269794268975387": {
+    "account": "elonmusk",
+    "date": "2026-10-08",
+    "file": "data/posts/2026/10/2026-10-08.jsonl",
+    "fingerprint": "ef1f955956ffa10afb0f1154e42d01ab99356704cc80a6797f6ade193cbeb794",
+    "media": []
+  },
+  "2108270309824438588": {
+    "account": "elonmusk",
+    "date": "2026-10-08",
+    "file": "data/posts/2026/10/2026-10-08.jsonl",
+    "fingerprint": "5df6b02d1281b57c97da824e4552a558ef0510e4020e6052ba5365ad2ab4787e",
+    "media": []
+  },
+  "2108271552991252810": {
+    "account": "bcherny",
+    "date": "2026-10-08",
+    "file": "data/posts/2026/10/2026-10-08.jsonl",
+    "fingerprint": "dd72ef537f8052ca6adf3b0ab7b0e007d209f5a77d7b451db95bf19ecc5f7dec",
+    "media": []
+  },
+  "2108272088582676627": {
+    "account": "elonmusk",
+    "date": "2026-10-08",
+    "file": "data/posts/2026/10/2026-10-08.jsonl",
+    "fingerprint": "40b0bff5cc740bd4826fa5d369459fa7adbb6c1b3e6e01c7bfc52812a6c1a677",
+    "media": []
+  },
+  "2108276499615014936": {
+    "account": "dair_ai",
+    "date": "2026-10-08",
+    "file": "data/posts/2026/10/2026-10-08.jsonl",
+    "fingerprint": "4f53f19038daacab413bd9abbb04cff274138e2058c5ef2acd8479975a108990",
+    "media": [
+      {
+        "local_path": "assets/images/2026/10/08/2108276499615014936-1.jpg",
+        "sha256": "ac564e538a8115b7096915d77a7f9b6288adbe0ff934d739365dff36a25a22bf",
+        "source_url": "https://pbs.twimg.com/media/HUIaTYla0AABreq.jpg?name=orig"
+      }
+    ]
   }
 }

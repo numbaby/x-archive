@@ -2,7 +2,167 @@
 
 ## 📅 October 08, 2026
 
-> 55 post(s) archived.
+> 76 post(s) archived.
+
+---
+
+### 🕐 19:03 UTC · @elonmusk
+
+> Grok @Bot works well on your phone. Just download the app from Apple or Android. https://apps.apple.com/app/id6794501026 This feels unreal Used Grok Bot today, mostly from my phone I got more done from my phone with Grok Bot than I usually do sitting at my desk - Colab notebooks for Google EmbeddingGemma 2, D1 by LiquidAI inference - Colab notebooks for open source decision models finetunes using Q…
+
+🔗 [View original post](https://x.com/elonmusk/status/2108272088582676627)
+
+---
+
+### 🕐 18:56 UTC · @elonmusk
+
+> Grok @Bot is actually this good Grok bot propaganda hit me so hard I had to try it and you know what, it is fucking awesome
+
+🔗 [View original post](https://x.com/elonmusk/status/2108270309824438588)
+
+---
+
+### 🕐 18:54 UTC · @elonmusk
+
+> Grok 4.7 ranks first in legal matters Today we are announcing Harvey LAB-AA v1.1 in collaboration with Harvey. This updates our scoring methodology for the Legal Agent Benchmark (LAB) to add a hallucination check and require correct responses to not include material misstatements. LAB-AA v1.1&apos;s new headline metric, H…
+
+🔗 [View original post](https://x.com/elonmusk/status/2108269794268975387)
+
+---
+
+### 🕐 18:43 UTC · @elonmusk
+
+> This is why Elon Musk explains the deeper purpose of SpaceX and why making life multiplanetary is so important for the future of humanity: “The goal of SpaceX is to build the technologies necessary to make life multiplanetary” For roughly 4 billion years, life on Earth has existed without th…
+
+🔗 [View original post](https://x.com/elonmusk/status/2108266929203155367)
+
+---
+
+### 🕐 18:38 UTC · @elonmusk
+
+> SpaceX went from 8 launches in 2016 to 170 in 2025. What critics called a “subsidy scam” and a “Musk vanity project” already out-launched every other country on Earth COMBINED. Falcon is still flying and Starship is just getting started, so by the end of the decade, the rest of the planet will be a footnote on a SpaceX chart.
+
+![SpaceX went from 8 launches in 2016 to 170 in 2025. What critics called a “subsidy scam” and a “Musk vanity project” already out-launched every other country on Earth COMBINED. Falcon is still flying ](../../../../assets/images/2026/10/08/2108265809826996227-1.jpg)
+
+🔗 [View original post](https://x.com/Rothmus/status/2108265809826996227)
+
+---
+
+### 🕐 18:27 UTC · @elonmusk
+
+> Elon and Jensen. Bros being bros. 📸 Kent NISHIMURA / GettyImages
+
+![Elon and Jensen. Bros being bros. 📸 Kent NISHIMURA / GettyImages](../../../../assets/images/2026/10/08/2108263053355811167-1.jpg)
+
+🔗 [View original post](https://x.com/cb_doge/status/2108263053355811167)
+
+---
+
+### 🕐 17:55 UTC · @elonmusk
+
+> BREAKING: President Trump on Elon Musk today: “First, we honor an industrial titan, a brilliant engineer, and one of the greatest technology founders to ever live. His name is Elon Musk. Quite honestly, there’s nobody like him. Few Americans in history have done more to advance America’s national interest than Elon. In one field after another, his genius and determination have made science fiction into reality. And that is so true. Elon founded SpaceX with his life savings in 2002 and created the first privately developed liquid-fueled rocket to reach orbit in the face of vanishingly impossible odds. Nobody thought it was possible to do the things he’s doing, and in so many different ways. SpaceX saved NASA from relying on foreign nations to send our astronauts into space. And I want to congratulate SpaceX on the safe return of Crew-12 from the International Space Station just a few hours ago. Congratulations. Well, we wanted to make sure. Could you imagine if things didn’t work out so well? It would be not a very happy moment. I wonder if he’d be here. I think he might not be here. But it always works out well for Elon, right? We’re proud of you. Very proud of you. National treasure. Under Elon’s leadership, SpaceX has also developed Starship, the largest rocket in history, which is caught out of thin air for rapid reuse. And it’s the first time anyone has ever seen anything quite like it. They also created the largest-ever communication satellite network, Starlink. And in North Carolina, I will tell you personally, because I was involved, we had a hurricane, one of the great water hurricanes of all time. Delivered more water than at any time that we can remember on record. It saved hundreds of lives by calling Elon. I remember the governor said, ‘Sir, is there any way… do you know a man named Elon Musk?’ I said, ‘I happen to know him, yes.’ ‘We need Starlink because the water was so deep that many islands were created and the people had no way of getting off those islands, and they had no communication.’ And they said, ‘We cannot get anybody to help us.’ And I called up Elon, and it was like impossible to get this equipment. And he had it there in a matter of hours and saved hundreds of lives. Saved hundreds of lives in North Carolina. So, I never forgot that experience. It was a terrible time and the job he did. And he acted so fast. Everybody said they were impossible to get. So, thank you, Elon, for that very special moment. In addition, Elon created Tesla, the first successful new car manufacturer in over 75 years, producing the first commercially viable electric cars with the first consumer self-driving technology. And interestingly, when you mentioned Tesla, my uncle, Dr. John Trump, was commissioned by the United States government to do a report on Nikola Tesla. They wanted to know: was he real or not real? Was he a true genius or not? My uncle, after a fairly short period of time, determined that he was a true and great genius and that he was real in every single way. Otherwise, you’d have to change the name of the car company. You wouldn’t want to be a… See, now, if I did the report, Elon, I might say, ‘He wasn’t that good.’ But my uncle was a different kind of a person than I am. And he gave Tesla the highest report. He said he was a true, great genius. So, very nice. Through Neuralink, Elon is also restoring sight, speech, and motion to those who cannot see, talk, or move. And he turned SpaceX AI into one of the world’s leaders in superintelligence. Elon is our modern-day Thomas Edison. And, Elon, I want to congratulate you. You’re my friend in all of that, but you are a very, very special guy. Thank you very much, and congratulations, Elon. Great. Great job.” Media
+
+🔗 [View original post](https://x.com/cb_doge/status/2108255024124211211)
+
+---
+
+### 🕐 17:54 UTC · @elonmusk
+
+> .@POTUS: &quot;We honor an industrial titan, a brilliant engineer, and one of the greatest technology founders ever to live. His name is @elonmusk.&quot; Media
+
+🔗 [View original post](https://x.com/RapidResponse47/status/2108254661639803142)
+
+---
+
+### 🕐 17:51 UTC · @elonmusk
+
+> America will establish a permanent presence on the moon. 🚀🌕
+
+🔗 [View original post](https://x.com/WhiteHouse/status/2108254023443009943)
+
+---
+
+### 🕐 17:03 UTC · @elonmusk
+
+> Starlink just launched a new referral program Refer a friend to Starlink and both of you can receive $100 Available in most countries, with rewards varying by market More people get connected, and existing Starlink customers get rewarded for helping make it happen http://starlink.com/referral https://x.com/Starlink/status/2108240018598994384/video/1 Media
+
+🔗 [View original post](https://x.com/XFreeze/status/2108242012185198612)
+
+---
+
+### 🕐 16:46 UTC · @elonmusk
+
+> Try using @Bot for your hardest tasks! Grok @Bot is a miracle maker…
+
+🔗 [View original post](https://x.com/elonmusk/status/2108237497952055631)
+
+---
+
+### 🕐 16:29 UTC · @elonmusk
+
+> If you have a Grok Bot account, you can just add your @shopify connector by asking @Bot! Pro tip: you can ask @bot to add Shopify right in the comments ↓
+
+🔗 [View original post](https://x.com/elonmusk/status/2108233316000313600)
+
+---
+
+### 🕐 16:27 UTC · @elonmusk
+
+> Hire Grok @Bot to manage your @Shopify store. He will do an amazing job! Grok Bot can now help run your Shopify store. Connect Shopify, then ask it to check orders, track inventory, and keep product listings up to date.
+
+🔗 [View original post](https://x.com/elonmusk/status/2108232824520319175)
+
+---
+
+### 🕐 16:16 UTC · @elonmusk
+
+> 🚨 ELON MUSK ON STARLINK FOR RURAL INDIA Back in June 2023, Elon said he hoped to bring Starlink to India. “The Starlink internet can be incredibly helpful for remote or rural villages, where they may have no access to internet, or the internet is very expensive and slow.” More than three years later, that same problem is still there in parts of rural India. And Starlink is still waiting to serve them. https://x.com/XFreeze/status/2108229208258511331/video/1 Media
+
+🔗 [View original post](https://x.com/AsFoundX/status/2108230087237578821)
+
+---
+
+### 🕐 16:04 UTC · @elonmusk
+
+> Elon is right to demand answers. India once had more than a dozen telecom operators competing for customers. Today, Jio and Airtel account for nearly 77% of India’s wireless subscriptions. What is the harm in adding another competitor? Healthy competition encourages providers to offer better prices and service, giving consumers more choice and better value. Starlink could offer Indian households, businesses and communities another broadband option, especially in remote villages, mountains and islands where expanding existing networks is difficult. Indians deserve greater transparency, better connectivity and the freedom to choose. Let Starlink compete and let consumers decide. Starlink is licensed in over 165 countries and has spent five years complying with every single law and requirement of the government of India, so why still no license? Is Ambani the real boss of India?
+
+![Elon is right to demand answers. India once had more than a dozen telecom operators competing for customers. Today, Jio and Airtel account for nearly 77% of India’s wireless subscriptions. What is the](../../../../assets/images/2026/10/08/2108226980135194825-1.jpg)
+
+🔗 [View original post](https://x.com/cb_doge/status/2108226980135194825)
+
+---
+
+### 🕐 16:01 UTC · @elonmusk
+
+> New connectors just dropped: Connect to @grok to ask questions about your business Or connect to @bot to build a team of agents that help you run it Media
+
+🔗 [View original post](https://x.com/Shopify/status/2108226178146263268)
+
+---
+
+### 🕐 15:57 UTC · @elonmusk
+
+> 2011 🚨 ELON MUSK IN 2011 ON REUSABLE ROCKETS Elon said the key to making humanity multiplanetary is developing a fully and rapidly reusable orbit-class rocket. He explained it’s an extremely hard engineering challenge because Earth’s gravity makes it just barely possible. A bit lower…
+
+🔗 [View original post](https://x.com/elonmusk/status/2108225227339550790)
+
+---
+
+### 🕐 15:51 UTC · @elonmusk
+
+> Welcome home! Splashdown of Dragon confirmed!
+
+🔗 [View original post](https://x.com/elonmusk/status/2108223791138734327)
+
+---
+
+### 🕐 15:50 UTC · @elonmusk
+
+> It has been fascinating to use Muse, Dot, and Grok Bot all alongside each other. Makes it very clear how far in the lead Grok Bot is right now. One good example from this morning. All three are plugged into my work calendar. This morning Grok Bot messaged me, it noticed I forgot to cancel some meetings while I’m away, shared details on each meeting, asked if I wanted to cancel them. I said yes, and now it’s done. Muse and Dot this morning, crickets 🦗
+
+![It has been fascinating to use Muse, Dot, and Grok Bot all alongside each other. Makes it very clear how far in the lead Grok Bot is right now. One good example from this morning. All three are plugge](../../../../assets/images/2026/10/08/2108223408328814669-1.jpg)
+
+🔗 [View original post](https://x.com/morganlinton/status/2108223408328814669)
 
 ---
 
@@ -11,6 +171,22 @@
 > Thank you, Rahul. This is indeed troubling. Welcome to India, Elon. Wait till you discover the other guy.
 
 🔗 [View original post](https://x.com/elonmusk/status/2108221292788981881)
+
+---
+
+### 🕐 15:36 UTC · @elonmusk
+
+> Splashdown of Dragon confirmed! Media
+
+🔗 [View original post](https://x.com/SpaceX/status/2108220101614850436)
+
+---
+
+### 🕐 15:36 UTC · @elonmusk
+
+> Welcome home @NASA Crew-12 Dragon’s four main parachutes have deployed
+
+🔗 [View original post](https://x.com/NASAAdmin/status/2108219908748108068)
 
 ---
 

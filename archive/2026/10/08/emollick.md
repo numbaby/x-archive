@@ -2,7 +2,35 @@
 
 ## 📅 October 08, 2026
 
-> 3 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 17:41 UTC · @emollick
+
+> Interesting to see, given the controversy over the OpenAI release of a series of proofs and what it means for the discipline of mathematics, that at least some of the OpenAI proofs seem to have kicked off extremely rapid iterative advances from a wide community of collaborators. Validated and merged Rohan&apos;s PR. Big gain on a really difficult regime (that frankly I was stuck at). Incredible work. κ = 2⁻¹⁵ (tightened from κ = 2⁻¹⁸²) A 500 thousand fold improvement over the previous result and a 2 ^ 167 fold improvement over the original OpenAI result. This…
+
+🔗 [View original post](https://x.com/emollick/status/2108251560752857474)
+
+---
+
+### 🕐 17:28 UTC · @emollick
+
+> This document is going to be an assigned reading in college classes that cover this moment in time, there&apos;s a lot happening in a few paragraphs... https://www.ahmath.org/statements
+
+![This document is going to be an assigned reading in college classes that cover this moment in time, there&apos;s a lot happening in a few paragraphs... https://www.ahmath.org/statements](../../../../assets/images/2026/10/08/2108248166210720107-1.png)
+
+🔗 [View original post](https://x.com/emollick/status/2108248166210720107)
+
+---
+
+### 🕐 17:05 UTC · @emollick
+
+> At the very start of my grad school in 2005, I wrote paper about the original computer hacking/phreaking/BBS scene: hackers were often driven by curiosity but the tools they made were widely exploited by &quot;Script Kiddies&quot; who caused most damage &amp; chaos Anyhow, about AI hacking...
+
+![At the very start of my grad school in 2005, I wrote paper about the original computer hacking/phreaking/BBS scene: hackers were often driven by curiosity but the tools they made were widely exploited](../../../../assets/images/2026/10/08/2108242362032177597-1.jpg)
+
+🔗 [View original post](https://x.com/emollick/status/2108242362032177597)
 
 ---
 

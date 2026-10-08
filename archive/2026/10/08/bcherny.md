@@ -2,7 +2,15 @@
 
 ## 📅 October 08, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 19:01 UTC · @bcherny
+
+> Claude Dashboards and Claude Motion are in beta today. Ask Claude to turn your data into live dashboards and your ideas into animated explainers. Media
+
+🔗 [View original post](https://x.com/claudeai/status/2108271552991252810)
 
 ---
 

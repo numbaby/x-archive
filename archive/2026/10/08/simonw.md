@@ -2,7 +2,15 @@
 
 ## 📅 October 08, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 15:56 UTC · @simonw
+
+> AWS have a new open source sandbox too, must be something in the air Today we&apos;re announcing Strands Box, our open source sandbox for developers building AI agents. New blog post from me, on the Strands blog: https://strandsagents.com/blog/strands-box-the-big-picture/
+
+🔗 [View original post](https://x.com/simonw/status/2108225028299034638)
 
 ---
 

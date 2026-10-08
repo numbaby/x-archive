@@ -2,7 +2,31 @@
 
 ## 📅 October 08, 2026
 
-> 7 post(s) archived.
+> 11 post(s) archived.
+
+---
+
+### 🕐 18:54 UTC · @tonysimons_
+
+> Updates have been a been a bit slow the last week or so. I’m trying my best to change that and speed things up a bit. Coming soon: Apple Watch support! What features do you want Fleet to get next? What features would you like to see come to Hermes Fleet? 🪽
+
+🔗 [View original post](https://x.com/tonysimons_/status/2108269764590043390)
+
+---
+
+### 🕐 16:55 UTC · @tonysimons_
+
+> “Grok Bot is so easy to use. Why would anyone use Hermes Agent now?” To avoid shit like this. That’s why. Among many other reasons. Hermes is YOUR agent. 🪽 Do as YOU please. Not as the billionaires tell you to do. 👇🏻 Caught that last night after a hefty bill that Grok Bots were using Opus 5.5 and ripping through my credits… no way to turn this off or only use Grok models? I specifically do not use Anthropic models for a variety of reasons… to not be able to choose which models you want to use…
+
+🔗 [View original post](https://x.com/tonysimons_/status/2108239902319988834)
+
+---
+
+### 🕐 16:06 UTC · @tonysimons_
+
+> Finish this sentence: “I wish Hermes could just __________.”
+
+🔗 [View original post](https://x.com/tonysimons_/status/2108227575621583195)
 
 ---
 
@@ -11,6 +35,14 @@
 > 7 minutes is all you need to go from ‘zero’ to ‘Hermes Agent’. 🪽 Not a week. Not a weekend. And the homie @witcheer put together a dope video showing you exactly how easy it is. Whatcha waiting for? 🤔 I recorded a fresh Hermes Agent install on Linux, from the one-line installer to a first finished task in Hermes Desktop. Quick Setup signs in with Nous Portal, so there are no API keys to paste. 7 minutes in total.
 
 🔗 [View original post](https://x.com/tonysimons_/status/2108188701914239069)
+
+---
+
+### 🕐 12:06 UTC · @tonysimons_
+
+> 𝕏 has enough people COMPLAINING about what AI. I want to talk to the people BUILDING with it. Introducing LESS LIP, MORE SHIP.🎙️ My new interview show. Real builders. Working demos. No bullshit. And yes, we&apos;re talking about what BROKE, too. Guest applications are OPEN. 👇 https://lesslipmoreship.com/ Media
+
+🔗 [View original post](https://x.com/tonysimons_/status/2108167134690066900)
 
 ---
 

@@ -2,7 +2,7 @@
 
 ## 📅 October 08, 2026
 
-> 8 post(s) archived.
+> 10 post(s) archived.
 
 ---
 
@@ -11,6 +11,14 @@
 > @BrianRoemmele @elonmusk The Medal of Science is for scientists. Scientists publish their works in peer-reviewed venues so they can be scrutinized, verified, and reproduced.
 
 🔗 [View original post](https://x.com/ylecun/status/2108217333504180551)
+
+---
+
+### 🕐 14:11 UTC · @ylecun
+
+> The one and only Michael Jordan was interviewed last week by the French newspaper Libération. Here is an English translation. Enjoy! https://www.di.ens.fr/~fbach/MJordan_ITW_Liberation_English.html
+
+🔗 [View original post](https://x.com/BachFrancis/status/2108198535388631222)
 
 ---
 
@@ -71,5 +79,13 @@
 ![Big new paper nobody is talking about ‼️ 🌎 Robot world models now have scaling laws. Meta trained an 8B-parameter JEPA on 15,000 hours of robot video to prove it. RoboJEPA (FAIR at Meta + Mila) imagin](../../../../assets/images/2026/10/08/2108043761045348781-1.png)
 
 🔗 [View original post](https://x.com/vai_viswanathan/status/2108043761045348781)
+
+---
+
+### 🕐 00:24 UTC · @ylecun
+
+> If I told you what Republicans were actually doing right now, you wouldn&apos;t believe me — you would think I was lying, that it&apos;s actually too cruel and corrupt to be true But it&apos;s true 10 things Republicans have done in the last 10 days 🧵 Media
+
+🔗 [View original post](https://x.com/ramit/status/2107990465484353651)
 
 ---

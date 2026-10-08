@@ -2,7 +2,15 @@
 
 ## 📅 October 08, 2026
 
-> 10 post(s) archived.
+> 11 post(s) archived.
+
+---
+
+### 🕐 17:53 UTC · @tunguz
+
+> OpenAI trampling over all the “norms” of scientific publishing could be the best thing to happen to science in a century.
+
+🔗 [View original post](https://x.com/tunguz/status/2108254399059652687)
 
 ---
 

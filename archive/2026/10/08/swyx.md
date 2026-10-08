@@ -2,7 +2,15 @@
 
 ## 📅 October 08, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 16:14 UTC · @swyx
+
+> Lights. Cameras. Evals. 🎬 @swyx takes the Forge stage to break down domain-specific everything: data, models, evals, chips. Join us! Media Every serious AI team eventually builds their own data, evals, models, and maybe even chips. @swyx of @latentspacepod and @aidotengineer on why the future is domain-specific everything. Join us Nov 3 in SF: https://bit.ly/3TxgUuB
+
+🔗 [View original post](https://x.com/sophiamyang/status/2108229538790424935)
 
 ---
 
