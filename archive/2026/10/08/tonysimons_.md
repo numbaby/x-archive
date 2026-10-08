@@ -2,7 +2,15 @@
 
 ## 📅 October 08, 2026
 
-> 6 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 13:32 UTC · @tonysimons_
+
+> 7 minutes is all you need to go from ‘zero’ to ‘Hermes Agent’. 🪽 Not a week. Not a weekend. And the homie @witcheer put together a dope video showing you exactly how easy it is. Whatcha waiting for? 🤔 I recorded a fresh Hermes Agent install on Linux, from the one-line installer to a first finished task in Hermes Desktop. Quick Setup signs in with Nous Portal, so there are no API keys to paste. 7 minutes in total.
+
+🔗 [View original post](https://x.com/tonysimons_/status/2108188701914239069)
 
 ---
 

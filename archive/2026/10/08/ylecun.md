@@ -2,7 +2,7 @@
 
 ## 📅 October 08, 2026
 
-> 5 post(s) archived.
+> 7 post(s) archived.
 
 ---
 
@@ -24,6 +24,14 @@
 
 ---
 
+### 🕐 11:06 UTC · @ylecun
+
+> I find it odd watching armchair critics rush to nitpick @MistralAI’s plans or obsess over whether they’re #1 on every leaderboard. Having a team with this level of conviction building frontier models and AI infrastructure in France—and punching so far above their weight relative to hyperscaler resources—is incredible. Building in the arena is hard. Anybody who actually tries knows. We should be rooting for them, and I have huge respect for what they’re building in France 🇫🇷🇫🇷🇫🇷—keep it up!
+
+🔗 [View original post](https://x.com/clmt/status/2108151971932729658)
+
+---
+
 ### 🕐 10:43 UTC · @ylecun
 
 > Toutes les formes d&apos;IA sont de &quot;belles saloperies&quot; ? Vraiment ? Même celles qui dépistent les tumeurs dans les mammographies ? Même celles qui détectent et évitent les obstacles sur la route et sauvent des vies en réduisant les collisions de 40% ? Même celles qui aident à filtrer les spams et les tentatives d&apos;escroquerie par email, messages, ou réseaux sociaux ? Même celles qui détectent et bloquent les tentatives d&apos;influence étrangères sur le processus démocratique ? Même celles qui permettent aux non-voyant d&apos;entendre une description de leur environnement visuel ? Même celles qui connectent les cultures par la traduction automatique des langues ? Même celles qui assistent dans leurs métiers les médecins, les chercheurs, les journalistes ? Il faut toujours éviter de jeter le bébé avec l&apos;eau du bain.
@@ -37,6 +45,14 @@
 > 1/ Why does predicting in latent space (JEPA, CPC, SimCLR...) work so well on messy data, with changing lighting, camera angles, and busy backgrounds? The usual answer: it can ignore nuisance. But that answer holds a conundrum. Media
 
 🔗 [View original post](https://x.com/hisspikeness/status/2108119221255164165)
+
+---
+
+### 🕐 08:53 UTC · @ylecun
+
+> Au contraire. C&apos;est une nouvelle ère qui s&apos;ouvre pour les mathématiques. Une ère où la démonstration formelle est largement automatisée et où l&apos;accent sera reporté sur le développement de nouveaux concepts, nouvelles abstractions, nouvelles définitions, et nouvelles conjectures. L&apos;invention du bateau a réduit l&apos;importance de la nage, mais a permis la découverte de nouvelles terres.
+
+🔗 [View original post](https://x.com/ylecun/status/2108118582856925198)
 
 ---
 

@@ -2,7 +2,99 @@
 
 ## 📅 October 08, 2026
 
-> 35 post(s) archived.
+> 47 post(s) archived.
+
+---
+
+### 🕐 13:25 UTC · @elonmusk
+
+> Starlink is licensed in over 165 countries and has spent five years complying with every single law and requirement of the government of India, so why still no license? Is Ambani the real boss of India? The government is more interested in protecting the interests of crony capitalists than of citizens
+
+🔗 [View original post](https://x.com/elonmusk/status/2108187065687118261)
+
+---
+
+### 🕐 13:19 UTC · @elonmusk
+
+> Yes, they are traitors aiding an invasion and they deserve the fate of traitors Anyone facilitating the entry of these fiends into the country should be considered an accessory to their crimes, and face draconian punishment upon the restoration of patriotic government. ... https://x.com/TheSun/status/2108093785414512861?s=20
+
+🔗 [View original post](https://x.com/elonmusk/status/2108185484425863265)
+
+---
+
+### 🕐 13:14 UTC · @elonmusk
+
+> BSNL’s slogan was “Connecting India,” and Reliance famously said, “Kar Lo Duniya Mutthi Mein” (“Hold the world in your fist”). Both failed to fully deliver on that promise. Starlink can take that dream further, connecting Indians seamlessly with the world, from villages and mountains to deserts, islands and the open sea. An Indian armed with powerful internet is the dream I see, and that can be fulfilled only by @Starlink. 🇮🇳 Starlink will help the least-served in India 🇮🇳
+
+🔗 [View original post](https://x.com/nitinmeshram_/status/2108184251745362114)
+
+---
+
+### 🕐 13:08 UTC · @elonmusk
+
+> Starlink coming to KLM! 📰 News: KLM has selected SpaceX $SPCX Starlink for fleet connectivity. CEO Marjan Rintel announced today that free high-speed Wi-Fi will roll out on intercontinental flights from mid-2027, with the full fleet targeted by mid-2028. Sister airline Air France is already flying
+
+🔗 [View original post](https://x.com/elonmusk/status/2108182754969928184)
+
+---
+
+### 🕐 13:06 UTC · @elonmusk
+
+> TODAY: President Trump honors our great science and technology leaders at the White House, with the National Medal of Science and the National Medal of Technology and Innovation. 🇺🇸
+
+![TODAY: President Trump honors our great science and technology leaders at the White House, with the National Medal of Science and the National Medal of Technology and Innovation. 🇺🇸](../../../../assets/images/2026/10/08/2108182147010081143-1.jpg)
+
+🔗 [View original post](https://x.com/WhiteHouse/status/2108182147010081143)
+
+---
+
+### 🕐 13:05 UTC · @elonmusk
+
+> First time on a @united transatlantic flight equipped with free @Starlink service. The experience is INCREDIBLE. Thank you @SpaceX @elonmusk.
+
+![First time on a @united transatlantic flight equipped with free @Starlink service. The experience is INCREDIBLE. Thank you @SpaceX @elonmusk.](../../../../assets/images/2026/10/08/2108182083067887678-1.jpg)
+
+🔗 [View original post](https://x.com/robinren/status/2108182083067887678)
+
+---
+
+### 🕐 12:58 UTC · @elonmusk
+
+> People who oppose @Starlink hurt only the least-served. The wealthy or those living in large cities already have good Internet, so they don’t understand. Starlink provides Internet connectivity to the least-served, enabling self-education and prosperity by giving people access to sell their products worldwide!
+
+🔗 [View original post](https://x.com/elonmusk/status/2108180318842736942)
+
+---
+
+### 🕐 12:55 UTC · @elonmusk
+
+> Starlink provides Internet connectivity to the least-served, enabling self-education and prosperity by giving people access to sell their products worldwide! Many people still misunderstand what Starlink is actually for Starlink isn’t a replacement.....It’s a lifeline “Starlink will give access to the internet to people that either don’t have access, or where their access is extremely expensive or very bad” That is the part people kee…
+
+🔗 [View original post](https://x.com/elonmusk/status/2108179398700757378)
+
+---
+
+### 🕐 12:48 UTC · @elonmusk
+
+> 🇮🇳 Starlink will help the least-served in India 🇮🇳 . @Starlink is essential for India, and I hope it will be deployed soon. Its ability to connect directly to devices through satellites could fundamentally expand how internet connectivity is delivered. Also, we need many options, not just to have a choice, but to break the duopol…
+
+🔗 [View original post](https://x.com/elonmusk/status/2108177695271948445)
+
+---
+
+### 🕐 11:42 UTC · @elonmusk
+
+> Elon is a visionary from a long, long time. We should listen to him more about robots, money, and the woke mind virus. His future prediction accuracy is high. Media
+
+🔗 [View original post](https://x.com/brivael/status/2108161113552478336)
+
+---
+
+### 🕐 11:40 UTC · @elonmusk
+
+> Western civilization is worth defending. Media
+
+🔗 [View original post](https://x.com/StateDept/status/2108160576245441012)
 
 ---
 
@@ -37,6 +129,14 @@
 > Thank you Those who don’t want @Starlink services, forget rural India for a moment. Even in Electronic City Phase 1 in Banglore, @airtelindia and @reliancejio don’t provide broadband coverage, while mobile internet speeds are absolutely pathetic. Stop defending poor services out of blind l…
 
 🔗 [View original post](https://x.com/elonmusk/status/2108142154174402910)
+
+---
+
+### 🕐 07:49 UTC · @elonmusk
+
+> It&apos;s time to face the fact. Anyone can generate personalized music with Grok Bot. This isn&apos;t just a post for me. It&apos;s already on my playlist. Media
+
+🔗 [View original post](https://x.com/TheCaptainEli/status/2108102549517857265)
 
 ---
 
