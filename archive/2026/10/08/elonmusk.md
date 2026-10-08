@@ -2,7 +2,23 @@
 
 ## 📅 October 08, 2026
 
-> 29 post(s) archived.
+> 33 post(s) archived.
+
+---
+
+### 🕐 10:30 UTC · @elonmusk
+
+> 2003 🚨 ELON MUSK IN 2003 REVEALS SPACEX PLAN In a 2003 talk, Elon Musk laid out the exact strategy SpaceX has followed for over 20 years. He said they would start with a real, proven market: launching small to medium satellites to generate steady revenue. From there, move into human …
+
+🔗 [View original post](https://x.com/elonmusk/status/2108143108382654635)
+
+---
+
+### 🕐 10:27 UTC · @elonmusk
+
+> Thank you Those who don’t want @Starlink services, forget rural India for a moment. Even in Electronic City Phase 1 in Banglore, @airtelindia and @reliancejio don’t provide broadband coverage, while mobile internet speeds are absolutely pathetic. Stop defending poor services out of blind l…
+
+🔗 [View original post](https://x.com/elonmusk/status/2108142154174402910)
 
 ---
 
@@ -32,6 +48,14 @@
 
 ### 🕐 05:28 UTC · @elonmusk
 
+> Elon is right. Some vested interests who are happy with current crony-run telecom market don&apos;t want Starlink to become operational in India because it would break their monopoly/duopoly and give Indian consumers a fresh new choice.
+
+🔗 [View original post](https://x.com/frontierindica/status/2108066962131833003)
+
+---
+
+### 🕐 05:28 UTC · @elonmusk
+
 > Grok Imagine ASK. SI. Made by 🅶🆁🅾🅺 @grok @imagine 💫
 
 🔗 [View original post](https://x.com/elonmusk/status/2108066901679034686)
@@ -43,6 +67,16 @@
 > Seriously Amazon banning agents is the first opportunity I&apos;ve seen since Amazon was founded for a startup to create an Amazon competitor. People will want agents to buy stuff for them. It will be one of the main use cases. And they won&apos;t want to use some Amazon-supplied agent to do it.
 
 🔗 [View original post](https://x.com/elonmusk/status/2108062702778368023)
+
+---
+
+### 🕐 05:10 UTC · @elonmusk
+
+> I have built and run data centres in India for 30+ years. I have watched our Internet grow from dial-up to gigabit—and I have also watched competition get blocked. That is why @elonmusk’s comments on @Starlink struck a nerve. I helped set up GIASDEL01, the Gateway Internet Access Service that went live on 15 August 1995. Later, when NIXI was being set up, I was writing the MRTG code monitoring its network. I had argued for Internet Exchanges for years. The big telcos understood the threat: “If data-centers peer through an exchange, why would they buy as much bandwidth from us?” That commercial interest constrained what NIXI could have become. Then came exchanges like DE-CIX and Extreme IX, showing what open interconnection and competition could do. I’ve personally seen Starlink files sitting under piles of files at TCIL waiting for comments. India needs KYC. India needs security. But regulation should enable competition, not protect incumbents from it. “Ease of Doing Business” means very little on paper if powerful incumbents can make it extraordinarily difficult for a new competitor to enter the market. Imagine a school in the Himalayas getting reliable high-speed Internet. A school deep in the Northeast getting connected every day. A doctor reaching a remote village. That is what competition in connectivity can unlock. Don’t weaken security. Don’t protect yesterday’s business models. Open the pipes. @elonmusk @Starlink Source: https://www.hindustantimes.com/india-news/elon-musk-blames-starlink-roadblocks-in-india-on-monopolistic-chokeholds-101791392998055.html
+
+![I have built and run data centres in India for 30+ years. I have watched our Internet grow from dial-up to gigabit—and I have also watched competition get blocked. That is why @elonmusk’s comments on ](../../../../assets/images/2026/10/08/2108062331095908717-1.jpg)
+
+🔗 [View original post](https://x.com/TheBigGeek/status/2108062331095908717)
 
 ---
 
