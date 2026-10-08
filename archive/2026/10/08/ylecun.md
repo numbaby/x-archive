@@ -2,7 +2,15 @@
 
 ## 📅 October 08, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 10:43 UTC · @ylecun
+
+> Toutes les formes d&apos;IA sont de &quot;belles saloperies&quot; ? Vraiment ? Même celles qui dépistent les tumeurs dans les mammographies ? Même celles qui détectent et évitent les obstacles sur la route et sauvent des vies en réduisant les collisions de 40% ? Même celles qui aident à filtrer les spams et les tentatives d&apos;escroquerie par email, messages, ou réseaux sociaux ? Même celles qui détectent et bloquent les tentatives d&apos;influence étrangères sur le processus démocratique ? Même celles qui permettent aux non-voyant d&apos;entendre une description de leur environnement visuel ? Même celles qui connectent les cultures par la traduction automatique des langues ? Même celles qui assistent dans leurs métiers les médecins, les chercheurs, les journalistes ? Il faut toujours éviter de jeter le bébé avec l&apos;eau du bain.
+
+🔗 [View original post](https://x.com/ylecun/status/2108146163006287884)
 
 ---
 

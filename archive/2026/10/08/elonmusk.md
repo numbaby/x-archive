@@ -2,7 +2,25 @@
 
 ## 📅 October 08, 2026
 
-> 33 post(s) archived.
+> 35 post(s) archived.
+
+---
+
+### 🕐 10:53 UTC · @elonmusk
+
+> “Speaking at an industry conference in New Delhi on Wednesday, Lauren Dreyer, vice president of Starlink business operations, said the company has spent five years working with Indian regulators and had built its network specifically around the country’s security requirements, with “controls at every layer” and Indian user data kept within India.” https://www.bloomberg.com/news/articles/2026-10-07/musk-attacks-unnamed-indian-oligarchs-for-locking-out-starlink
+
+![“Speaking at an industry conference in New Delhi on Wednesday, Lauren Dreyer, vice president of Starlink business operations, said the company has spent five years working with Indian regulators and h](../../../../assets/images/2026/10/08/2108148774849724876-1.jpg)
+
+🔗 [View original post](https://x.com/KatieMiller/status/2108148774849724876)
+
+---
+
+### 🕐 10:36 UTC · @elonmusk
+
+> Starlink will be of great help to areas of India that have bad or no Internet and even no mobile coverage. No country has perfect coverage, including America, but Starlink can fill in the coverage gaps for those who most need it. In my village, there has been no mobile network coverage since Independence. Once, when I went home, a friend from the Supreme Court, who is now a Senior, sent me birthday wishes. I never received the message because there was no network. After I returned, the friend got angry wi…
+
+🔗 [View original post](https://x.com/elonmusk/status/2108144416175398920)
 
 ---
 
