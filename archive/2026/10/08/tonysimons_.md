@@ -2,7 +2,15 @@
 
 ## 📅 October 08, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 03:02 UTC · @tonysimons_
+
+> You get 60 seconds to show a skeptic why Hermes Agent is different. What workflow are you demoing?
+
+🔗 [View original post](https://x.com/tonysimons_/status/2108030209891209292)
 
 ---
 
