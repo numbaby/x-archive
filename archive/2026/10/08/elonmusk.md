@@ -2,7 +2,15 @@
 
 ## 📅 October 08, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 01:43 UTC · @elonmusk
+
+> Connectivity leads to prosperity Elon Musk explains why Starlink will actually increase the GDP of entire countries “If you don’t have access to the internet, or it’s too expensive or low bandwidth, you cannot access MIT lessons, you can’t access information, and you can’t sell your goods and services” Starlink …
+
+🔗 [View original post](https://x.com/elonmusk/status/2108010337165521305)
 
 ---
 

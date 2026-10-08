@@ -2,7 +2,17 @@
 
 ## 📅 October 08, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 01:39 UTC · @tonysimons_
+
+> A good Hermes skill saves you from explaining the same workflow every session. Cheat Sheet 03: find it, inspect it, install it, use it, keep it current. Read the instructions and scripts before you hand them the keys.
+
+![A good Hermes skill saves you from explaining the same workflow every session. Cheat Sheet 03: find it, inspect it, install it, use it, keep it current. Read the instructions and scripts before you ha](../../../../assets/images/2026/10/08/2108009365831909595-1.jpg)
+
+🔗 [View original post](https://x.com/tonysimons_/status/2108009365831909595)
 
 ---
 
