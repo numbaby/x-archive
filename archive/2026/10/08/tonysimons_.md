@@ -2,7 +2,17 @@
 
 ## 📅 October 08, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 05:12 UTC · @tonysimons_
+
+> 🚨 Hermes Agent is getting a connection to REAL manufacturing. 🪽 Give it a CAD file. Ask for 25 custom brackets. It can get actual 3D-printing or CNC quotes, compare production speeds, adjust quantities and hand you a checkout link. AI is leaving the chat window. 🚀
+
+![🚨 Hermes Agent is getting a connection to REAL manufacturing. 🪽 Give it a CAD file. Ask for 25 custom brackets. It can get actual 3D-printing or CNC quotes, compare production speeds, adjust quantitie](../../../../assets/images/2026/10/08/2108062883393233329-1.jpg)
+
+🔗 [View original post](https://x.com/tonysimons_/status/2108062883393233329)
 
 ---
 

@@ -2,7 +2,15 @@
 
 ## 📅 October 08, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 04:18 UTC · @tunguz
+
+> Sell everything and move into one of these counties. Go into debt if you need to. Honolulu County is 43% Asian, the highest share of any county in the US.
+
+🔗 [View original post](https://x.com/tunguz/status/2108049262487740520)
 
 ---
 
