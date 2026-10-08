@@ -2,7 +2,25 @@
 
 ## 📅 October 08, 2026
 
-> 2 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 11:43 UTC · @ylecun
+
+> It is morally wrong for some of the billion and trillion dollar AI companies that we enabled and helped build over the last two decades to (1) enforce 6 and 12 month garden leaves on the scientists we trained for them, and (2) choose not to fund education efforts like @DeepIndaba and @Khipu_AI There was a time when @nvidia and @Google weren&apos;t into AI. There was a time when the big cloud providers didn&apos;t have GPUs. There was a time before GPUs and deep learning, and AI, ... During that time professors and students created the foundation of the AI we have today.
+
+🔗 [View original post](https://x.com/NandoDF/status/2108161420223283487)
+
+---
+
+### 🕐 11:09 UTC · @ylecun
+
+> There was a time when @nvidia and @Google weren&apos;t into AI. There was a time when the big cloud providers didn&apos;t have GPUs. There was a time before GPUs and deep learning, and AI, ... During that time professors and students created the foundation of the AI we have today.
+
+![There was a time when @nvidia and @Google weren&apos;t into AI. There was a time when the big cloud providers didn&apos;t have GPUs. There was a time before GPUs and deep learning, and AI, ... During ](../../../../assets/images/2026/10/08/2108152797954740435-1.jpg)
+
+🔗 [View original post](https://x.com/NandoDF/status/2108152797954740435)
 
 ---
 
@@ -11,6 +29,14 @@
 > Toutes les formes d&apos;IA sont de &quot;belles saloperies&quot; ? Vraiment ? Même celles qui dépistent les tumeurs dans les mammographies ? Même celles qui détectent et évitent les obstacles sur la route et sauvent des vies en réduisant les collisions de 40% ? Même celles qui aident à filtrer les spams et les tentatives d&apos;escroquerie par email, messages, ou réseaux sociaux ? Même celles qui détectent et bloquent les tentatives d&apos;influence étrangères sur le processus démocratique ? Même celles qui permettent aux non-voyant d&apos;entendre une description de leur environnement visuel ? Même celles qui connectent les cultures par la traduction automatique des langues ? Même celles qui assistent dans leurs métiers les médecins, les chercheurs, les journalistes ? Il faut toujours éviter de jeter le bébé avec l&apos;eau du bain.
 
 🔗 [View original post](https://x.com/ylecun/status/2108146163006287884)
+
+---
+
+### 🕐 08:56 UTC · @ylecun
+
+> 1/ Why does predicting in latent space (JEPA, CPC, SimCLR...) work so well on messy data, with changing lighting, camera angles, and busy backgrounds? The usual answer: it can ignore nuisance. But that answer holds a conundrum. Media
+
+🔗 [View original post](https://x.com/hisspikeness/status/2108119221255164165)
 
 ---
 
