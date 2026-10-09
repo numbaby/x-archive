@@ -2,7 +2,15 @@
 
 ## 📅 October 09, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 07:41 UTC · @elonmusk
+
+> 😑 James Talarico says the violent hierarchies of the heteropatriarchy have colonized white minds https://notthebee.com/article/james-talarico-says-the-violent-hierarchies-of-the-heteropatriarchy-have-colonized-white-minds
+
+🔗 [View original post](https://x.com/elonmusk/status/2108462793112371679)
 
 ---
 
