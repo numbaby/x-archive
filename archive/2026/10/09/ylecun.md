@@ -2,7 +2,15 @@
 
 ## 📅 October 09, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 19:20 UTC · @ylecun
+
+> JEPAs can 𝐧𝐨𝐰 jointly imagine what happens and what to do next! Meet 𝐋𝐞𝐖𝐀𝐌: A JEPA for the real world with 32.3× faster planning, 19 ms per plan Improves success 28.6% → 89.7% on contact-rich manipulations But also ... 🫶 a WAM for everyone with 17M · 1 GPU · 1 hyperparameter Works on a real robot, not just a simulation !! 👉 https://le-wam.github.io/ Media
+
+🔗 [View original post](https://x.com/Minghao__Fu/status/2108638867326968196)
 
 ---
 
