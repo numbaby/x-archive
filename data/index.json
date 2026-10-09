@@ -126922,5 +126922,19 @@
         "source_url": "https://pbs.twimg.com/media/HUJmSpYbcAAGygk.png?name=orig"
       }
     ]
+  },
+  "2108366974124249368": {
+    "account": "tonysimons_",
+    "date": "2026-10-09",
+    "file": "data/posts/2026/10/2026-10-09.jsonl",
+    "fingerprint": "a685fe5b5306c762072d941b1a1c6f95343d69b04568be51e2aa3227f8204556",
+    "media": []
+  },
+  "2108379841859072028": {
+    "account": "swyx",
+    "date": "2026-10-09",
+    "file": "data/posts/2026/10/2026-10-09.jsonl",
+    "fingerprint": "fdaf010e72ab4a1e70bc2f607fc736610cfb01f0af278e25b4c7b09d2c272232",
+    "media": []
   }
 }
