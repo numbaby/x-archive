@@ -2,7 +2,27 @@
 
 ## 📅 October 09, 2026
 
-> 1 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 13:18 UTC · @simonw
+
+> Example prompt:
+
+![Example prompt:](../../../../assets/images/2026/10/09/2108547654083039700-1.png)
+
+🔗 [View original post](https://x.com/simonw/status/2108547654083039700)
+
+---
+
+### 🕐 13:16 UTC · @simonw
+
+> I built a new feature for my blog entirely by voice with Codex Desktop, while I was cooking dinner https://simonwillison.net/2026/Oct/9/built-using-my-voice/
+
+![I built a new feature for my blog entirely by voice with Codex Desktop, while I was cooking dinner https://simonwillison.net/2026/Oct/9/built-using-my-voice/](../../../../assets/images/2026/10/09/2108547065634844839-1.jpg)
+
+🔗 [View original post](https://x.com/simonw/status/2108547065634844839)
 
 ---
 

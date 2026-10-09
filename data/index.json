@@ -127118,11 +127118,57 @@
     "fingerprint": "8dece44f81293dba8b45862bb32c3b93e3e4a297a19794e9cddea232eb1fef44",
     "media": []
   },
+  "2108526656902091103": {
+    "account": "elonmusk",
+    "date": "2026-10-09",
+    "file": "data/posts/2026/10/2026-10-09.jsonl",
+    "fingerprint": "26185855074e9762ccd2d04439a05e2767012e57adb3d59c661ce3a83636c479",
+    "media": [
+      {
+        "local_path": "assets/images/2026/10/09/2108526656902091103-1.jpg",
+        "sha256": "d3d28a215a780e067688df14abd2e90e79535cc9eec063920289dafc7e17b8af",
+        "source_url": "https://pbs.twimg.com/media/HUL90YtWgAAvtsL.jpg?name=orig"
+      }
+    ]
+  },
   "2108534605326193138": {
     "account": "tonysimons_",
     "date": "2026-10-09",
     "file": "data/posts/2026/10/2026-10-09.jsonl",
     "fingerprint": "564a595cd7fbcb3eb8452d3686907271a90cfad10ac3b18326ec2d0701d0567c",
     "media": []
+  },
+  "2108542016078651691": {
+    "account": "AiEvolutio58513",
+    "date": "2026-10-09",
+    "file": "data/posts/2026/10/2026-10-09.jsonl",
+    "fingerprint": "71f648c35eb226a71e05b79df6df106949658432bb65aad6fe11fae394869b85",
+    "media": []
+  },
+  "2108547065634844839": {
+    "account": "simonw",
+    "date": "2026-10-09",
+    "file": "data/posts/2026/10/2026-10-09.jsonl",
+    "fingerprint": "486dea5a29da0687aedc28a3096fa4e71ab360db5694cced02aa3936a7920deb",
+    "media": [
+      {
+        "local_path": "assets/images/2026/10/09/2108547065634844839-1.jpg",
+        "sha256": "0f5b6e73868c83b33c33e7eac5de231a84a485270eceea891625eb0edeaac015",
+        "source_url": "https://pbs.twimg.com/card_img/2108546963394433024/HuVRdZ14?format=jpg&name=420x420_2"
+      }
+    ]
+  },
+  "2108547654083039700": {
+    "account": "simonw",
+    "date": "2026-10-09",
+    "file": "data/posts/2026/10/2026-10-09.jsonl",
+    "fingerprint": "4cd9dcf3457d586278b87275f489bb8b60f21e9fe66e9521dd639d045013d14a",
+    "media": [
+      {
+        "local_path": "assets/images/2026/10/09/2108547654083039700-1.png",
+        "sha256": "d75e3daaf406489db262b080f3cc64ec0845955b280aefb44f78b4e74533474b",
+        "source_url": "https://pbs.twimg.com/media/HUMQ6TaaIAALjU-.png?name=orig"
+      }
+    ]
   }
 }
