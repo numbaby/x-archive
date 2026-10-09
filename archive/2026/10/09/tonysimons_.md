@@ -2,7 +2,15 @@
 
 ## 📅 October 09, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 03:38 UTC · @tonysimons_
+
+> 35 BILLION parameters. Running on my desk. 🤯 Just fired up Ornith 1.5 35B locally in Hermes Agent on my 48GB Mac mini. I&apos;m ONE prompt in and already blown away by the speed. No cloud inference. No token meter ticking. I FINALLY get to experience local AI firsthand. This changes EVERYTHING. 
+
+🔗 [View original post](https://x.com/tonysimons_/status/2108401750487011339)
 
 ---
 

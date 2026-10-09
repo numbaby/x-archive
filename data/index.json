@@ -127004,5 +127004,25 @@
     "file": "data/posts/2026/10/2026-10-09.jsonl",
     "fingerprint": "87d0603ae25b1d42a306c51f67ffee5baf2395aa7d324fe52995c7335619f8fc",
     "media": []
+  },
+  "2108401750487011339": {
+    "account": "tonysimons_",
+    "date": "2026-10-09",
+    "file": "data/posts/2026/10/2026-10-09.jsonl",
+    "fingerprint": "2020ad8787948c2869508c24b8eaf7ce649d7a064c8a87d0064e408d19e6a675",
+    "media": []
+  },
+  "2108414247558316508": {
+    "account": "emollick",
+    "date": "2026-10-09",
+    "file": "data/posts/2026/10/2026-10-09.jsonl",
+    "fingerprint": "c6b576f41222136ed0cda7064217cf57e636a76603f6933e85151e743cf61119",
+    "media": [
+      {
+        "local_path": "assets/images/2026/10/09/2108414247558316508-1.jpg",
+        "sha256": "7172a71834f5da3cd6a0c1f64f4a9eecab5f91aa3cda6dde8e074060982b2391",
+        "source_url": "https://pbs.twimg.com/media/HUKUZNBWYAE9QSJ.jpg?name=orig"
+      }
+    ]
   }
 }
