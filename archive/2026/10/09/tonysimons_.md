@@ -2,7 +2,15 @@
 
 ## 📅 October 09, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 03:02 UTC · @tonysimons_
+
+> Wait. So we&apos;re building AND signing iPhone apps on LINUX now?! No macOS. No Xcode install. And they&apos;ve already got Flutter apps running on a real iPad. This is the kind of open-source shit I LOVE to see. Omarchy just keeps getting more ridiculous. 🔥 Everyone says you need a Mac to build iPhone apps. Now Flutter apps build on Linux too. @agrxculture sent three PRs to omarchy-apple-dev, and it builds and signs a Flutter iPhone app in 29 seconds. No Mac. Just Omarchy Linux. It&apos;s all open source: https://github.com/joshuaswarren…
+
+🔗 [View original post](https://x.com/tonysimons_/status/2108392586369257751)
 
 ---
 
