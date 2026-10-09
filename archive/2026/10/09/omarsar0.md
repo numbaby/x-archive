@@ -2,7 +2,25 @@
 
 ## 📅 October 09, 2026
 
-> 2 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 19:09 UTC · @omarsar0
+
+> ICYMI, I set up a Jev-powered automation to track and index all the great use cases of Jev shared on X. Great list of inspirations there. https://academy.dair.ai/resources/jev-field-notes @martin_casado @CompleteSkeptic Yup. I love it. Back to building proper software with fewer reliability problems. Jev is now core to how we build at @dair_ai. We even have a dedicated automation pulling the best Jev use cases on X, all done by Jev itself. https://academy.dair.ai/…
+
+🔗 [View original post](https://x.com/omarsar0/status/2108635937731227726)
+
+---
+
+### 🕐 16:23 UTC · @omarsar0
+
+> Build for agents, folks! Have said for a while now that models are already very &quot;smart&quot;, but need better harnesses and environments. And you don&apos;t want to do this because it&apos;s cool. The cost implications are massive here. I highly recommend reading the report and comparing how Pine Computer can help your team. I&apos;ll do some testing myself and share more soon. AI is already smart enough. Real-world tasks are still slow, expensive and unreliable, because we hand AI a computer built for humans, then wrap it in a heavy harness. AI doesn’t need to get smarter. It needs a computer built for it. Today we’re releasing Pine Computer
+
+![Build for agents, folks! Have said for a while now that models are already very &quot;smart&quot;, but need better harnesses and environments. And you don&apos;t want to do this because it&apos;s cool](../../../../assets/images/2026/10/09/2108594085921518022-1.png)
+
+🔗 [View original post](https://x.com/omarsar0/status/2108594085921518022)
 
 ---
 

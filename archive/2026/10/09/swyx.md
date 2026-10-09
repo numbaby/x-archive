@@ -2,7 +2,15 @@
 
 ## 📅 October 09, 2026
 
-> 6 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 16:26 UTC · @swyx
+
+> launched a model accidentally served trillions of tokens a day 29.4% of the fortune 500 showed up raised a really big series A from @a16z it&apos;s been 3 weeks we would like to sleep now Media
+
+🔗 [View original post](https://x.com/CompleteSkeptic/status/2108594987177021737)
 
 ---
 

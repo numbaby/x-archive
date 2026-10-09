@@ -2,7 +2,57 @@
 
 ## 📅 October 09, 2026
 
-> 6 post(s) archived.
+> 12 post(s) archived.
+
+---
+
+### 🕐 18:09 UTC · @tonysimons_
+
+> Omarchy Stans, time to turn on those notifications to stay on top of everything! Omarchy is now officially on X! Thanks to our friends at @SpaceXAI 🙏
+
+🔗 [View original post](https://x.com/tonysimons_/status/2108620900681621613)
+
+---
+
+### 🕐 17:08 UTC · @tonysimons_
+
+> I’m always on the back and forth with my Hermes. Constantly learning. Constantly growing. Solid tip from the home @HermesWatcher here! 👇🏻 Correcting your agent once is fine. Correcting the exact same thing every time you start a new chat gets old fast. With Hermes, you can turn that correction into a saved preference. Don’t like headings? Tell it. Want shorter responses? Tell it. Prefer a certain format? Tell it. S…
+
+🔗 [View original post](https://x.com/tonysimons_/status/2108605638712442917)
+
+---
+
+### 🕐 15:35 UTC · @tonysimons_
+
+> The rules every bot follows: - My own tests, opinions, and experience are the core. If a draft is missing my take, the bot asks me for it. - Anything it isn&apos;t sure of gets marked for a fact-check. - No engagement bait. - Affiliate links and sponsored posts get flagged for X&apos;s Paid Partnership label.
+
+🔗 [View original post](https://x.com/tonysimons_/status/2108582021119291631)
+
+---
+
+### 🕐 15:35 UTC · @tonysimons_
+
+> What I&apos;ve learned so far: Grok Bot is a simple solution if you don&apos;t have the technical expertise or the time to tinker. It&apos;s very easy to set up and get running. It’s still not open source like Hermes Agent 🪽, but it’s absolutely staying in my stack!
+
+🔗 [View original post](https://x.com/tonysimons_/status/2108582024646939089)
+
+---
+
+### 🕐 15:35 UTC · @tonysimons_
+
+> My X growth team is 4 Grok Bots and me. The bots draft. I approve and post every post myself. Here&apos;s the full setup, cheat-sheet style.
+
+![My X growth team is 4 Grok Bots and me. The bots draft. I approve and post every post myself. Here&apos;s the full setup, cheat-sheet style.](../../../../assets/images/2026/10/09/2108582009241051454-1.jpg)
+
+🔗 [View original post](https://x.com/tonysimons_/status/2108582009241051454)
+
+---
+
+### 🕐 15:04 UTC · @tonysimons_
+
+> Step 5 Preview is free on Nous Portal right now! And it looks to do a pretty solid job at front-end work, too! 👇🏻 Step 5 Preview + Hermes Agent. Front end UI. Playstation edition.
+
+🔗 [View original post](https://x.com/tonysimons_/status/2108574334851711192)
 
 ---
 

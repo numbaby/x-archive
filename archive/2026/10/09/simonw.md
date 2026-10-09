@@ -2,7 +2,23 @@
 
 ## 📅 October 09, 2026
 
-> 3 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 17:21 UTC · @simonw
+
+> I like Qwen3.5-35B-A3B for this, wondering what else is out there that might be a bit more recent and pack a little more of a punch
+
+🔗 [View original post](https://x.com/simonw/status/2108608837175701514)
+
+---
+
+### 🕐 17:20 UTC · @simonw
+
+> What&apos;s the best open weight Mixture-of-Experts LLM for coding that fits in less than 60GB of RAM? I think MoE might be necessary to get reasonably interactive speeds on the hardware I have access to - I want something faster than 12 tokens/second
+
+🔗 [View original post](https://x.com/simonw/status/2108608482442449261)
 
 ---
 
