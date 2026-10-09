@@ -2,7 +2,31 @@
 
 ## 📅 October 09, 2026
 
-> 1 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 14:33 UTC · @tunguz
+
+> *inverse watermelon red on the outside, green on the inside he looks like a watermelon
+
+🔗 [View original post](https://x.com/tunguz/status/2108566618116968822)
+
+---
+
+### 🕐 14:31 UTC · @tunguz
+
+> Crypto was a low math phenomenon.
+
+🔗 [View original post](https://x.com/tunguz/status/2108566126892564787)
+
+---
+
+### 🕐 14:19 UTC · @tunguz
+
+> What happens in mathematics doesn’t stay in mathematics.
+
+🔗 [View original post](https://x.com/tunguz/status/2108562947626926465)
 
 ---
 

@@ -127072,6 +127072,13 @@
     "fingerprint": "efa21790d824d8fbfd329fd7d1cb644b77cc8125ff2baf7046287f42351c8db5",
     "media": []
   },
+  "2108471489175658589": {
+    "account": "elonmusk",
+    "date": "2026-10-09",
+    "file": "data/posts/2026/10/2026-10-09.jsonl",
+    "fingerprint": "04254c97b709299c086cd8315f510fd345e71ee8f2835c7f8d5f4b2ada2aa6a8",
+    "media": []
+  },
   "2108473165072474202": {
     "account": "Letstalk246",
     "date": "2026-10-09",
@@ -127170,5 +127177,61 @@
         "source_url": "https://pbs.twimg.com/media/HUMQ6TaaIAALjU-.png?name=orig"
       }
     ]
+  },
+  "2108555641220436435": {
+    "account": "tonysimons_",
+    "date": "2026-10-09",
+    "file": "data/posts/2026/10/2026-10-09.jsonl",
+    "fingerprint": "fcb3c09db076eff2d97ae7c1f11be968dfb12db15f51abab3c1627fb504fb111",
+    "media": []
+  },
+  "2108558686398595477": {
+    "account": "AiEvolutio58513",
+    "date": "2026-10-09",
+    "file": "data/posts/2026/10/2026-10-09.jsonl",
+    "fingerprint": "93e61f056fd0c73fb8871151adbf4c0dd50c850e44b989babde2a1405010f593",
+    "media": []
+  },
+  "2108562947626926465": {
+    "account": "tunguz",
+    "date": "2026-10-09",
+    "file": "data/posts/2026/10/2026-10-09.jsonl",
+    "fingerprint": "1eb08e71c58d015b921e04a3039a7f5d489627cd7a7b5517652cb227087db820",
+    "media": []
+  },
+  "2108563331376124389": {
+    "account": "swyx",
+    "date": "2026-10-09",
+    "file": "data/posts/2026/10/2026-10-09.jsonl",
+    "fingerprint": "dea01d2359039277be35fa77046ba8ef7d9e31858f8a03a5e0557cd627ca657a",
+    "media": []
+  },
+  "2108565653682536887": {
+    "account": "omarsar0",
+    "date": "2026-10-09",
+    "file": "data/posts/2026/10/2026-10-09.jsonl",
+    "fingerprint": "66c30ad3a3a91bd76287bcbbda611dd87e1bcccf750ef9b684878a2fc72e200b",
+    "media": []
+  },
+  "2108566126892564787": {
+    "account": "tunguz",
+    "date": "2026-10-09",
+    "file": "data/posts/2026/10/2026-10-09.jsonl",
+    "fingerprint": "dcb8a1e0a9ba98ca8bfcc3f1ae96b1a5c1d40aeda596b060383734d89712996f",
+    "media": []
+  },
+  "2108566618116968822": {
+    "account": "tunguz",
+    "date": "2026-10-09",
+    "file": "data/posts/2026/10/2026-10-09.jsonl",
+    "fingerprint": "c037eef34a8b52cd980a3eca40e1b2ba18e99d8bdbc89925f6a44a5a7ec8de8c",
+    "media": []
+  },
+  "2108571905963831638": {
+    "account": "omarsar0",
+    "date": "2026-10-09",
+    "file": "data/posts/2026/10/2026-10-09.jsonl",
+    "fingerprint": "4e70e638b1151be3575bdd15e7b22864a2487656b6b404eca736abf5c9cb5a7b",
+    "media": []
   }
 }

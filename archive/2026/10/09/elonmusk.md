@@ -2,7 +2,7 @@
 
 ## 📅 October 09, 2026
 
-> 6 post(s) archived.
+> 7 post(s) archived.
 
 ---
 
@@ -13,6 +13,14 @@
 ![Why open-weight models that compress margins at the model layer are net positive for AI infra demand, exhibit 1001. An open-weight token consumes *roughly* the same amount of compute as a frontier tok](../../../../assets/images/2026/10/09/2108526656902091103-1.jpg)
 
 🔗 [View original post](https://x.com/GavinSBaker/status/2108526656902091103)
+
+---
+
+### 🕐 08:15 UTC · @elonmusk
+
+> テスラ家庭用蓄電池 Powerwall 3 は、水深0.6mまで浸水対応🐟 Media
+
+🔗 [View original post](https://x.com/teslajapan/status/2108471489175658589)
 
 ---
 

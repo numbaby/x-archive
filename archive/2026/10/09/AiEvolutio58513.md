@@ -2,7 +2,15 @@
 
 ## 📅 October 09, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 14:02 UTC · @AiEvolutio58513
+
+> Gavin Baker expects the Anthropic S-1 to scramble a lot of investors&apos; thinking: &quot;The Anthropic S-1 is going to be really important. And it&apos;s going to break a lot of people&apos;s brains. There are a lot of macro and value investors who are very confidently making these prognostications about AI with the assumption that tokens are subsidized.&quot; &quot;Anthropic is generating cash. They&apos;re profitable. Open source tokens are profitable. OpenAI, if they&apos;re not generating cash, they will be imminently. SpaceX, same thing.&quot; &quot;These macro and value investors are ignorant. They&apos;re very smart, but they&apos;re ignorant of the facts. They&apos;re making an assumption that tokens are subsidized and this is all going to collapse in some circular financing bonfire.&quot; &quot;They&apos;re just wrong. The overwhelming majority of tokens are profitable for everyone in the chain. Everyone.&quot; &quot;It&apos;s saying I&apos;m very bearish on the world economy because oil is at $500 a barrel. If oil was at $500 a barrel, that&apos;d be a good reason to be bearish. It&apos;s just not. They&apos;re just wrong. The central fact is wrong.&quot; Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2108558686398595477)
 
 ---
 

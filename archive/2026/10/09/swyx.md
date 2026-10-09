@@ -2,7 +2,15 @@
 
 ## 📅 October 09, 2026
 
-> 5 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 14:20 UTC · @swyx
+
+> most of you are unfortunately not qualified but there is somewhat a path https://x.com/adelwu_/status/2108424235341479984?s=20 wrote down mine in @Coding_Career 6 years ago and you can now get it free or on amazon https://learninpublic.org didnt intend to relaunch CC today but eh why not everyone is saying “this is me but how come i’m not getting jobs” you just gotta do this: &gt; post multiple times a day: your opinions, work, and creative projects &gt; never stop learning and improving &gt; interact with the community (in person, online) &gt; build real relationships with …
+
+🔗 [View original post](https://x.com/swyx/status/2108563331376124389)
 
 ---
 
