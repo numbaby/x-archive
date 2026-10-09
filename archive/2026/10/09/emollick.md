@@ -2,7 +2,23 @@
 
 ## 📅 October 09, 2026
 
-> 8 post(s) archived.
+> 10 post(s) archived.
+
+---
+
+### 🕐 20:31 UTC · @emollick
+
+> Just thinking that Paul Simon wrote that we were living in the &quot;days of miracle and wonder&quot; because of the availability of long-distance calls and slow motion cameras.
+
+🔗 [View original post](https://x.com/emollick/status/2108656704518762754)
+
+---
+
+### 🕐 20:22 UTC · @emollick
+
+> I see a lot of people suggesting it, but the search bar or chat window is very clearly not the interface for agentic work.
+
+🔗 [View original post](https://x.com/emollick/status/2108654415464869954)
 
 ---
 

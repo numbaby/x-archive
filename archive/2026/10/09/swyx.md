@@ -2,7 +2,17 @@
 
 ## 📅 October 09, 2026
 
-> 7 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 19:08 UTC · @swyx
+
+> To whom it may concern, I will be speaking at @aiDotEngineer next wednesday about the state of the agent harness and where it is going. They asked me to post this image so that you might feel a strong urge to buy a ticket. Thanks!
+
+![To whom it may concern, I will be speaking at @aiDotEngineer next wednesday about the state of the agent harness and where it is going. They asked me to post this image so that you might feel a strong](../../../../assets/images/2026/10/09/2108635713818312937-1.jpg)
+
+🔗 [View original post](https://x.com/jediahkatz/status/2108635713818312937)
 
 ---
 
