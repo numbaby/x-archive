@@ -2,7 +2,17 @@
 
 ## 📅 October 09, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 06:21 UTC · @emollick
+
+> Paywalled copy here: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01535-7/fulltext
+
+![Paywalled copy here: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01535-7/fulltext](../../../../assets/images/2026/10/09/2108442740778320264-1.jpg)
+
+🔗 [View original post](https://x.com/emollick/status/2108442740778320264)
 
 ---
 

@@ -127051,5 +127051,18 @@
     "file": "data/posts/2026/10/2026-10-09.jsonl",
     "fingerprint": "e2673ef266f130bddd5eaac2b444d8bdfaaeeedef17bf89885a0c31842011bcf",
     "media": []
+  },
+  "2108442740778320264": {
+    "account": "emollick",
+    "date": "2026-10-09",
+    "file": "data/posts/2026/10/2026-10-09.jsonl",
+    "fingerprint": "1b3fcbf333a44d76dca0e4ab24aa5cf9845e0de60809cc4a85ebee6e8341f4a5",
+    "media": [
+      {
+        "local_path": "assets/images/2026/10/09/2108442740778320264-1.jpg",
+        "sha256": "637c76966b0a29a737b62e325dd8f3792920daf452d5b7f2efa78df600d6fffc",
+        "source_url": "https://pbs.twimg.com/card_img/2108325267286724608/_wxNTe79?format=jpg&name=420x420_2"
+      }
+    ]
   }
 }
