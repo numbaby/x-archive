@@ -2,7 +2,37 @@
 
 ## 📅 October 09, 2026
 
-> 4 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 19:28 UTC · @omarsar0
+
+> Great feature in Codex. I have had my own composer prediction tool in my agent orchestrator for months. It&apos;s tunable and adapts to my preferences as I use it more. In fact, I use smaller models for this, like Haiku and Luna. It&apos;s a nice quality-of-life little feature that makes agents a bit more proactive and boosts productivity. Now in beta: composer predictions in Codex for Pro users. Codex can now suggest your next message based on your conversation and how you talk to it. One of the most loved new features we&apos;ve ever tested internally.
+
+![Great feature in Codex. I have had my own composer prediction tool in my agent orchestrator for months. It&apos;s tunable and adapts to my preferences as I use it more. In fact, I use smaller models f](../../../../assets/images/2026/10/09/2108640808245026896-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2108640808245026896)
+
+---
+
+### 🕐 19:18 UTC · @omarsar0
+
+> And building a custom harness with Jev and Pi https://academy.dair.ai/dashboard/resources/jev-decisions-in-a-pi-sdk-harness
+
+![And building a custom harness with Jev and Pi https://academy.dair.ai/dashboard/resources/jev-decisions-in-a-pi-sdk-harness](../../../../assets/images/2026/10/09/2108638151271231700-1.png)
+
+🔗 [View original post](https://x.com/omarsar0/status/2108638151271231700)
+
+---
+
+### 🕐 19:18 UTC · @omarsar0
+
+> More on Jev Router here: https://academy.dair.ai/dashboard/resources/jev-packaged-routing-with-pi
+
+![More on Jev Router here: https://academy.dair.ai/dashboard/resources/jev-packaged-routing-with-pi](../../../../assets/images/2026/10/09/2108638148297126065-1.png)
+
+🔗 [View original post](https://x.com/omarsar0/status/2108638148297126065)
 
 ---
 

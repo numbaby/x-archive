@@ -2,7 +2,47 @@
 
 ## 📅 October 09, 2026
 
-> 7 post(s) archived.
+> 12 post(s) archived.
+
+---
+
+### 🕐 20:15 UTC · @tunguz
+
+> When I was moving into my ML career after years in academia, I made a pragmatic decision to just focus on getting things to work, instead of learning any theory. I thought one day I might come back to fill in the gap, but at some point I realized that it was in fact largely a waste of time. You aren&apos;t bad at machine learning math. You were taught by academics who prioritized dense notation over spatial intuition. Traditional math education forces you to memorize symbols before you understand concepts.
+
+🔗 [View original post](https://x.com/tunguz/status/2108652637914796494)
+
+---
+
+### 🕐 19:49 UTC · @tunguz
+
+> American mind cannot comprehend this. Except in California. They totally get it, and then some. Never build a house in Germany. Never.
+
+🔗 [View original post](https://x.com/tunguz/status/2108645948981432715)
+
+---
+
+### 🕐 19:42 UTC · @tunguz
+
+> light cone &gt;&gt; convex hull
+
+🔗 [View original post](https://x.com/tunguz/status/2108644321977393455)
+
+---
+
+### 🕐 19:39 UTC · @tunguz
+
+> I was dunking on AI agents demos about booking flights and similar stuff, but yesterday I used Codex to add our cat to our flight, and I can confirm this was one of those qualitative life improvement things. Airlines really make this process unnecessarily difficult, and having a personal AI assistant do it for you was a great hack.
+
+🔗 [View original post](https://x.com/tunguz/status/2108643510538887384)
+
+---
+
+### 🕐 19:35 UTC · @tunguz
+
+> Very interesting. Another reason I’m glad I never took any of those stimulants. I&apos;ve always assumed stimulants make smart people sharper, but it&apos;s the opposite. In a 2023 study, people on Ritalin, modafinil and dextroamphetamine worked harder on a complex problem, but the quality of their solutions dropped. Plenty of people report feeling like their IQ drops…
+
+🔗 [View original post](https://x.com/tunguz/status/2108642410180075643)
 
 ---
 

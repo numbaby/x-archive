@@ -2,7 +2,15 @@
 
 ## 📅 October 09, 2026
 
-> 16 post(s) archived.
+> 17 post(s) archived.
+
+---
+
+### 🕐 19:54 UTC · @elonmusk
+
+> How is Grok @Bot working with your Shopify store? If you are using Grok Bot to run your Shopify store, please let us know if you have any feedback.
+
+🔗 [View original post](https://x.com/elonmusk/status/2108647297487720682)
 
 ---
 

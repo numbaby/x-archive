@@ -2,7 +2,43 @@
 
 ## 📅 October 09, 2026
 
-> 12 post(s) archived.
+> 16 post(s) archived.
+
+---
+
+### 🕐 19:40 UTC · @tonysimons_
+
+> something didn’t go right?? well ur in luck! do /undo and worry NONE! check out @tonysimons_ for more incredible tips! Hermes Agent Tip of the Day 🪽 Your AI agent just wrecked the project? HIT UNDO. Enable checkpoints: `hermes chat --checkpoints` `/rollback` → list `/rollback diff 1` → preview `/rollback 1` → restore Preserves your manual edits by default. 🤘🏻
+
+🔗 [View original post](https://x.com/HermesAgentTips/status/2108643832430571536)
+
+---
+
+### 🕐 19:25 UTC · @tonysimons_
+
+> Hermes Agent Tip of the Day 🪽 Your AI agent just wrecked the project? HIT UNDO. Enable checkpoints: `hermes chat --checkpoints` `/rollback` → list `/rollback diff 1` → preview `/rollback 1` → restore Preserves your manual edits by default. 🤘🏻
+
+![Hermes Agent Tip of the Day 🪽 Your AI agent just wrecked the project? HIT UNDO. Enable checkpoints: `hermes chat --checkpoints` `/rollback` → list `/rollback diff 1` → preview `/rollback 1` → restore ](../../../../assets/images/2026/10/09/2108639946009682343-1.jpg)
+
+🔗 [View original post](https://x.com/tonysimons_/status/2108639946009682343)
+
+---
+
+### 🕐 19:20 UTC · @tonysimons_
+
+> Was inspired. Did a thing. I blame Tony: https://x.com/PixelRainbowNFT/status/2108638163425972316 My X growth team is 4 Grok Bots and me. The bots draft. I approve and post every post myself. Here&apos;s the full setup, cheat-sheet style.
+
+🔗 [View original post](https://x.com/PixelRainbowNFT/status/2108638784598184155)
+
+---
+
+### 🕐 19:18 UTC · @tonysimons_
+
+> saw @tonysimons_ running his X growth off 4 grok bots and thought ok cool but I can&apos;t count that high.... so i rolled it into one @bot template, and added some x-algo reference magic and DM skills for myself. grab it here: https://x.ai/bot/fJoloWNDTl7ee9VwxNJxH every post goes scout &gt; hook &gt; receipts &gt; algo check. it pulls real sources, writes 2-3 hooks in my voice (not AI voice), fact checks every claim, then checks the draft against the open source x algorithm and it diffs the X-algorithm itself every week by itself. if the weights move, it rewrites its own rules. replies and quotes are worth 5x a like rn btw also reads what my followers keep asking me + sorts my DMs into important vs noise it never posts. i do. thats the whole point...only now it&apos;s smol-brain proof!
+
+![saw @tonysimons_ running his X growth off 4 grok bots and thought ok cool but I can&apos;t count that high.... so i rolled it into one @bot template, and added some x-algo reference magic and DM skill](../../../../assets/images/2026/10/09/2108638163425972316-1.jpg)
+
+🔗 [View original post](https://x.com/PixelRainbowNFT/status/2108638163425972316)
 
 ---
 

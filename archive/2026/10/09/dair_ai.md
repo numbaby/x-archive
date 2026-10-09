@@ -2,7 +2,17 @@
 
 ## 📅 October 09, 2026
 
-> 5 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 19:44 UTC · @dair_ai
+
+> NEW: Microsoft also releases its System One model, Microsoft-Decision-1. What a crazy effect Jev has had in the space. Also, a very cool application of decision-making models to power LLM judges and improve scientific discovery pipelines (e.g., screening candidate hypotheses). I&apos;ll add this model to my ever-growing list of eval runs. In my ongoing evals, consistency and more complex decision-making are two areas where I see these decision models struggle. I&apos;m also exploring a bunch of science applications at @dair_ai and will share when ready. Introducing Microsoft-Decision-1, our new model for fast decision-making. It delivers top performance on structured decision tasks, outperforming both LLMs and other decision models in latency and quality. We’re already testing it across Microsoft for everything from incident res…
+
+![NEW: Microsoft also releases its System One model, Microsoft-Decision-1. What a crazy effect Jev has had in the space. Also, a very cool application of decision-making models to power LLM judges and i](../../../../assets/images/2026/10/09/2108644675166888033-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2108644675166888033)
 
 ---
 

@@ -2,7 +2,23 @@
 
 ## 📅 October 09, 2026
 
-> 6 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 20:16 UTC · @emollick
+
+> Its reasonable for mathematicians to point out that proofs are not always the same thing as advancing mathematics. But it suggests a need for new goals for what math is trying to do Same thing will happen everywhere. 100x more PowerPoint or code is not always progress - what is?
+
+🔗 [View original post](https://x.com/emollick/status/2108652762904793360)
+
+---
+
+### 🕐 20:11 UTC · @emollick
+
+> The distillation cycle continues.
+
+🔗 [View original post](https://x.com/emollick/status/2108651646872068561)
 
 ---
 
