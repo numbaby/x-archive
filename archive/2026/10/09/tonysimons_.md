@@ -2,7 +2,15 @@
 
 ## 📅 October 09, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 05:27 UTC · @tonysimons_
+
+> What’s one thing Hermes should NEVER do automatically, no matter how smart agents get?
+
+🔗 [View original post](https://x.com/tonysimons_/status/2108429163342463472)
 
 ---
 

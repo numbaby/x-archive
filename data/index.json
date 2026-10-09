@@ -127024,5 +127024,32 @@
         "source_url": "https://pbs.twimg.com/media/HUKUZNBWYAE9QSJ.jpg?name=orig"
       }
     ]
+  },
+  "2108418217362518023": {
+    "account": "tunguz",
+    "date": "2026-10-09",
+    "file": "data/posts/2026/10/2026-10-09.jsonl",
+    "fingerprint": "253731dd8c19277761d9722f0fc16fe1b071483f0b79b0a01210ba7c57a01066",
+    "media": []
+  },
+  "2108427038562373648": {
+    "account": "ylecun",
+    "date": "2026-10-09",
+    "file": "data/posts/2026/10/2026-10-09.jsonl",
+    "fingerprint": "dfaf97c11d8476f9a4757a777b9cd51784a4beeecca0cbfff1af152917c936c3",
+    "media": [
+      {
+        "local_path": "assets/images/2026/10/09/2108427038562373648-1.jpg",
+        "sha256": "06d71afe7bc9623eae940a7626d1ceab119e755077899f7e6e1181b2d74fee24",
+        "source_url": "https://pbs.twimg.com/media/HUKjNtgXMAAP5cy.jpg?name=orig"
+      }
+    ]
+  },
+  "2108429163342463472": {
+    "account": "tonysimons_",
+    "date": "2026-10-09",
+    "file": "data/posts/2026/10/2026-10-09.jsonl",
+    "fingerprint": "e2673ef266f130bddd5eaac2b444d8bdfaaeeedef17bf89885a0c31842011bcf",
+    "media": []
   }
 }
