@@ -2,7 +2,17 @@
 
 ## 📅 October 10, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 04:45 UTC · @swyx
+
+> aie nyc tix will sell out this weekend - last call to join us to the biggest ever technical conf in New York and our first with a finance mainstage - in some ways the final unification of both my careers: from investment bank to hedgefund, from bigtech to nyc startup. cya monday! Leadership tickets for AI Engineer New York 2026 are sold out. Thank you to everyone joining us. Engineering tickets are still available for Oct 12-14. https://ai.engineer/nyc/2026#tickets
+
+![aie nyc tix will sell out this weekend - last call to join us to the biggest ever technical conf in New York and our first with a finance mainstage - in some ways the final unification of both my care](../../../../assets/images/2026/10/10/2108780918060036335-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2108780918060036335)
 
 ---
 
