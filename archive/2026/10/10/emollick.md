@@ -2,7 +2,17 @@
 
 ## 📅 October 10, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 15:21 UTC · @emollick
+
+> De-skilling myself on doing CAPTCHAS and navigating dark patterns in customer service.
+
+![De-skilling myself on doing CAPTCHAS and navigating dark patterns in customer service.](../../../../assets/images/2026/10/10/2108941060206633193-1.jpg)
+
+🔗 [View original post](https://x.com/emollick/status/2108941060206633193)
 
 ---
 
