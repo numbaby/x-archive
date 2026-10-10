@@ -2,7 +2,17 @@
 
 ## 📅 October 10, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 07:05 UTC · @swyx
+
+> Full breakdown by @swyx: https://www.latent.space/p/biohub-deepmind
+
+![Full breakdown by @swyx: https://www.latent.space/p/biohub-deepmind](../../../../assets/images/2026/10/10/2108816137781678320-1.jpg)
+
+🔗 [View original post](https://x.com/xMr_Unoriginalx/status/2108816137781678320)
 
 ---
 
