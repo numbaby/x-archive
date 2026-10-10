@@ -2,7 +2,15 @@
 
 ## 📅 October 10, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 12:57 UTC · @AiEvolutio58513
+
+> Elon Musk assembled one of the biggest AI compute clusters in the world. Yann LeCun just broke down why xAI now rents capacity to competitors rather than using it to win. Musk has driven away so much AI talent that he structurally can&apos;t recruit the people he needs. LeCun has real standing. He won the Turing Award and spent a decade running AI at Meta. When he talks about building a world-class lab, he&apos;s describing his own field. His judgment on xAI was direct. He called it a kind of failure and didn&apos;t soften the language. The reason had nothing to do with capital. The starting team departed or was dismissed. It&apos;s ambiguous which. Either way, the founders are gone. That matters most. A frontier lab is its people. Lose them and the equipment is just hardware. By March, every one of the eleven co-founders Musk brought in during 2023 had left. Scientists from DeepMind, Google and OpenAI were among them. Musk has also said that xAI wasn&apos;t built correctly at first and needed a full rebuild. So Musk holds one of the biggest compute systems ever with no clear route to victory. He rents the capacity to other firms to offset costs. The costliest setup in AI, put together by a man who can&apos;t staff it anymore. Asked point blank whether xAI is able to compete at the frontier, LeCun answered in a single word. No. Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2108904660778299415)
 
 ---
 
