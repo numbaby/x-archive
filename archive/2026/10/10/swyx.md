@@ -2,7 +2,27 @@
 
 ## 📅 October 10, 2026
 
-> 4 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 13:30 UTC · @swyx
+
+> if you didnt immediately think of counterexamples you are not exercising your own free will and independent thought while reading feedslop Lucky coincidence the labs are only successfully cracking esoteric math problems and not the problems where a solution would give the winner an asymmetric commerical advantage.
+
+![if you didnt immediately think of counterexamples you are not exercising your own free will and independent thought while reading feedslop Lucky coincidence the labs are only successfully cracking eso](../../../../assets/images/2026/10/10/2108913080893579342-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2108913080893579342)
+
+---
+
+### 🕐 13:00 UTC · @swyx
+
+> One month to go until AI Engineer Code Summit SF! Three days of technical talks, live demos and conversations with engineers building AI coding tools. November 10 to 12, San Francisco. Ticket applications and sponsorships are open. https://ai.engineer/code
+
+![One month to go until AI Engineer Code Summit SF! Three days of technical talks, live demos and conversations with engineers building AI coding tools. November 10 to 12, San Francisco. Ticket applicat](../../../../assets/images/2026/10/10/2108905391321190446-1.jpg)
+
+🔗 [View original post](https://x.com/aiDotEngineer/status/2108905391321190446)
 
 ---
 

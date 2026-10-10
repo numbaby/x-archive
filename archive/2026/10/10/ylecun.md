@@ -2,7 +2,15 @@
 
 ## 📅 October 10, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 07:52 UTC · @ylecun
+
+> @ylecun @dominik_schnaus @alex_conneau @GuillaumeLample Ran this exact experiment back in the BERT days: frozen visual encoder + frozen BERT, one linear layer between them. Worked remarkably well: https://aclanthology.org/2020.inlg-1.39.pdf And indeed Yann: FAIR&apos;s zero-shot cross-lingual alignment was my direct inspiration and intuition!
+
+🔗 [View original post](https://x.com/ThomasScialom/status/2108828084317126747)
 
 ---
 
