@@ -2,7 +2,17 @@
 
 ## 📅 October 10, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 22:15 UTC · @dair_ai
+
+> Nice paper on agent memory. It explores an effective routing mechanism for memory in agents. The overall finding is that you want a separate retrieval strategy for each type of memory instead of one embedding search over everything. The authors prove that any single retrieval strategy has an upper bound on expected precision when the memory store holds several types. MemoType classifies each memory and each query by type, retrieves memories that match the query type, and applies the strategy for that type. A new dataset, TriMEM, provides the type labels needed to train the classifier. Recall@1 improves by up to 16.18% across three datasets. Paper: https://academy.dair.ai/papers/memory-type-varies-empowering-llm-agents-for-long-term-memory-with-diverse-strat-2610.11573
+
+![Nice paper on agent memory. It explores an effective routing mechanism for memory in agents. The overall finding is that you want a separate retrieval strategy for each type of memory instead of one e](../../../../assets/images/2026/10/10/2109045065930981708-1.jpg)
+
+🔗 [View original post](https://x.com/dair_ai/status/2109045065930981708)
 
 ---
 
