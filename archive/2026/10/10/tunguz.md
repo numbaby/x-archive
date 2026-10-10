@@ -2,7 +2,33 @@
 
 ## 📅 October 10, 2026
 
-> 4 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 19:12 UTC · @tunguz
+
+> Doubt it. It would mean people from these countries were the skinniest people on earth, while East Asians would be the fattest. Unpopular opinion: The biggest reason people get fat is always wanting their food to be tasty.
+
+![Doubt it. It would mean people from these countries were the skinniest people on earth, while East Asians would be the fattest. Unpopular opinion: The biggest reason people get fat is always wanting t](../../../../assets/images/2026/10/10/2108999153644716045-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2108999153644716045)
+
+---
+
+### 🕐 19:10 UTC · @tunguz
+
+> Magnesium is all you need. This new magnesium study is insane. Healthy adults taking 2 grams of magnesium daily showed a 7.5-year reduction in cognitive brain age. The score combined working memory, episodic memory, and reaction time. Here’s the break down (1/10):
+
+🔗 [View original post](https://x.com/tunguz/status/2108998726995923378)
+
+---
+
+### 🕐 19:07 UTC · @tunguz
+
+> If a committee of human experts somehow tried to *prevent* patients from getting access to such a drug, I’m pretty sure they’d be dead within days. This is a slide from Terence Tao&apos;s &apos;Math 2.0&apos; public lecture yesterday evening at Caltech. I am highly confident that, if the cure actually worked, almost any Stage 4 cancer patient would tell you that human comprehension of its mechanism is completely irrelevant to them.
+
+🔗 [View original post](https://x.com/tunguz/status/2108997813669658915)
 
 ---
 

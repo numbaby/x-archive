@@ -2,7 +2,34 @@
 
 ## 📅 October 10, 2026
 
-> 29 post(s) archived.
+> 32 post(s) archived.
+
+---
+
+### 🕐 20:06 UTC · @elonmusk
+
+
+![](../../../../assets/images/2026/10/10/2109012639049244981-1.jpg)
+
+🔗 [View original post](https://x.com/elonmusk/status/2109012639049244981)
+
+---
+
+### 🕐 19:11 UTC · @elonmusk
+
+> BREAKING: Elon Musk just dismantled the “Starlink will be unaffordable in India” narrative pushed by Ambani’s internet shills. He confirmed that SpaceX will make pricing affordable for Indian consumers. It’s high time Indian customers had more options and the freedom to choose the service that works best for them. Starlink deserves a fair chance to compete in India. Healthy competition benefits consumers by pushing providers to offer better prices, better service and better connectivity. Elon is right to push for more choice. Let Starlink compete. Let Indians decide. The ridiculous arguments by Ambani’s army of Internet shills make no sense On the one hand, they say Starlink couldn’t possibly compete with the amazing low prices offered by Ambani’s de facto monopoly in India and then, in the same breath, they essentially claim that Starlink wo…
+
+![BREAKING: Elon Musk just dismantled the “Starlink will be unaffordable in India” narrative pushed by Ambani’s internet shills. He confirmed that SpaceX will make pricing affordable for Indian consumer](../../../../assets/images/2026/10/10/2108998905526624282-1.jpg)
+
+🔗 [View original post](https://x.com/cb_doge/status/2108998905526624282)
+
+---
+
+### 🕐 18:55 UTC · @elonmusk
+
+> The ridiculous arguments by Ambani’s army of Internet shills make no sense On the one hand, they say Starlink couldn’t possibly compete with the amazing low prices offered by Ambani’s de facto monopoly in India and then, in the same breath, they essentially claim that Starlink would be too strong of a competitor! This is absurd hypocrisy and hyperbole. The reality is that competition would greatly benefit the average citizen in India by giving them more choices, as it always does. Ambani’s profits will be lower, but he is not going out of business. And, obviously, if Starlink is too expensive in India, no one will buy it, so SpaceX will need to make pricing affordable. Something feels off with this chorus of “India’s internet is great and super cheap” … the data shows that Indian market is absolutely dominated by mobile. When they say it’s cheap and well connected factually this only applies to mobile usage. This makes sense because a tower con…
+
+🔗 [View original post](https://x.com/elonmusk/status/2108994867582095465)
 
 ---
 

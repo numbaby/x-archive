@@ -2,7 +2,15 @@
 
 ## 📅 October 10, 2026
 
-> 4 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 20:13 UTC · @tonysimons_
+
+> Nous just dropped another free model and this one is STEALTHY!! 👇🏻 Wild MISSINGNO. appeared! A coding and agentic reasoning model that is highly token efficient, free for a limited time on Nous Portal Try it out in your Hermes Agent today
+
+🔗 [View original post](https://x.com/tonysimons_/status/2109014521025102179)
 
 ---
 
@@ -19,6 +27,14 @@
 > 11 AM CT today, I&apos;m going live with Hermes Agent. 🪽 The mission: clone a SaaS product from scratch. LIVE. No source code. No docs. Just Hermes, the app, and a lot of poking around. Which SaaS should we rip off first? 👇
 
 🔗 [View original post](https://x.com/tonysimons_/status/2108910620644933702)
+
+---
+
+### 🕐 03:56 UTC · @tonysimons_
+
+> Tomorrow. 11 AM CT. My first live stream. 🪽 Reverse Engineer Everything with Hermes Agent. I&apos;m going to point it at an app. Watch it figure out how it works. Then have it make me a clone. No script. No clue what I&apos;m doing. Expect chaos. 👇 https://x.com/i/broadcasts/1vJpPNowbeMJE
+
+🔗 [View original post](https://x.com/tonysimons_/status/2108768512512848145)
 
 ---
 

@@ -2,7 +2,33 @@
 
 ## 📅 October 10, 2026
 
-> 4 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 18:08 UTC · @ylecun
+
+> Introducing RoboJEPA, the first scaling law for multiembodiment world models. We scaled JEPA predictors up to 8B params, showed scaling laws extrapolate and correlated compute scaling with planning performance. We release all checkpoints and the code. http://robojepa.github.io Media
+
+🔗 [View original post](https://x.com/artemZholus/status/2108983104178213096)
+
+---
+
+### 🕐 12:40 UTC · @ylecun
+
+> Huge pleasure to participate in this émission of Radio France Inter on AI in the great Big Bang series: https://www.radiofrance.fr/franceinter/podcasts/big-bang/big-bang-du-samedi-10-octobre-2026-4772093 @franceinter moderated by the brilliant @galfard with @NawellMadaniAct and @evdende2 (in French)
+
+![Huge pleasure to participate in this émission of Radio France Inter on AI in the great Big Bang series: https://www.radiofrance.fr/franceinter/podcasts/big-bang/big-bang-du-samedi-10-octobre-2026-4772](../../../../assets/images/2026/10/10/2108900587043438603-1.jpg)
+
+🔗 [View original post](https://x.com/KempeLab/status/2108900587043438603)
+
+---
+
+### 🕐 11:34 UTC · @ylecun
+
+> I discuss how Trump&apos;s attack on the International Criminal Court is an effort to make the world safe for American and Israeli war criminals. The European Union should invoke its blocking statute. The ICC should charge Trump and Marco Rubio with obstruction of justice. Media
+
+🔗 [View original post](https://x.com/KenRoth/status/2108883791154475119)
 
 ---
 
