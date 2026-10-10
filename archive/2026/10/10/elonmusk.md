@@ -2,7 +2,31 @@
 
 ## 📅 October 10, 2026
 
-> 32 post(s) archived.
+> 35 post(s) archived.
+
+---
+
+### 🕐 21:08 UTC · @elonmusk
+
+> @PEoperator @bot Grok will find another way to buy stuff. I just ordered LEGO and Grok bought it from the LEGO website.
+
+🔗 [View original post](https://x.com/elonmusk/status/2109028313553399947)
+
+---
+
+### 🕐 21:04 UTC · @elonmusk
+
+> To buy stuff, you can just take a picture of your credit card, drop it in the chat and Grok @Bot will scour the Internet for the best deal on the item you want and order it
+
+🔗 [View original post](https://x.com/elonmusk/status/2109027407185277123)
+
+---
+
+### 🕐 20:09 UTC · @elonmusk
+
+> Had it not been for Boris Johnson and Victoria Nuland -- who personally forced Zelensky to reject the deal Ukraine and Russia were about to sign in Istanbul in 2022 -- this horrific war that has killed more than a million and consumed much of Ukraine would have been long over. It is sickening that the USA is now lifting sanctions on Russian fuel, and transparently ridiculous to blame Ukraine for the spike in prices that obviously began with the closure of the Strait of Hormuz. Putin is murdering innocent Ukrainian civilians every day. The Ukrainians ar…
+
+🔗 [View original post](https://x.com/ggreenwald/status/2109013378027118612)
 
 ---
 
