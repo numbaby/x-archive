@@ -2,7 +2,15 @@
 
 ## 📅 October 10, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 06:46 UTC · @swyx
+
+> we actually briefly sold out of all tix today but i just released 200 overflow so yeah get on this guys aie nyc tix will sell out this weekend - last call to join us to the biggest ever technical conf in New York and our first with a finance mainstage - in some ways the final unification of both my careers: from investment bank to hedgefund, from bigtech to nyc startup. cya monday!
+
+🔗 [View original post](https://x.com/swyx/status/2108811501360320985)
 
 ---
 
