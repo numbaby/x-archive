@@ -2,7 +2,15 @@
 
 ## 📅 October 10, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 16:18 UTC · @tunguz
+
+> You only have 6 - 18 months to become the person you always wanted to be. After that you can be anything.
+
+🔗 [View original post](https://x.com/tunguz/status/2108955410635935950)
 
 ---
 
