@@ -127795,6 +127795,13 @@
       }
     ]
   },
+  "2108710581490328010": {
+    "account": "swyx",
+    "date": "2026-10-10",
+    "file": "data/posts/2026/10/2026-10-10.jsonl",
+    "fingerprint": "5289617402d9ed3bdc622aba38c3562c7de2b9ce7e2adede36aa0a5287a2fc49",
+    "media": []
+  },
   "2108715608846004414": {
     "account": "elonmusk",
     "date": "2026-10-10",
@@ -127827,6 +127834,20 @@
     "date": "2026-10-10",
     "file": "data/posts/2026/10/2026-10-10.jsonl",
     "fingerprint": "b85dcf2024a3fef2054277984f3d45f6a594b7e70056ff11e52174686a200432",
+    "media": []
+  },
+  "2108745817498538389": {
+    "account": "emollick",
+    "date": "2026-10-10",
+    "file": "data/posts/2026/10/2026-10-10.jsonl",
+    "fingerprint": "ce14cedafba9cd4e1be4c12dbee37f67360ca26f3663c61e6dc6f0fc9e4481d6",
+    "media": []
+  },
+  "2108747396025041159": {
+    "account": "emollick",
+    "date": "2026-10-10",
+    "file": "data/posts/2026/10/2026-10-10.jsonl",
+    "fingerprint": "6bd28f44d26a6a9b69b7287443a5b09111775da48429ea338e7db4e548331d5e",
     "media": []
   }
 }
