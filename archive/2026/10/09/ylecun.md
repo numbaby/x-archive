@@ -2,7 +2,7 @@
 
 ## 📅 October 09, 2026
 
-> 5 post(s) archived.
+> 6 post(s) archived.
 
 ---
 
@@ -11,6 +11,16 @@
 > JEPAs can 𝐧𝐨𝐰 jointly imagine what happens and what to do next! Meet 𝐋𝐞𝐖𝐀𝐌: A JEPA for the real world with 32.3× faster planning, 19 ms per plan Improves success 28.6% → 89.7% on contact-rich manipulations But also ... 🫶 a WAM for everyone with 17M · 1 GPU · 1 hyperparameter Works on a real robot, not just a simulation !! 👉 https://le-wam.github.io/ Media
 
 🔗 [View original post](https://x.com/Minghao__Fu/status/2108638867326968196)
+
+---
+
+### 🕐 19:03 UTC · @ylecun
+
+> Joint statement of the foreign minister of Canada, Denmark, Germany, France, Italy, Japan, The Netherlands, United Kingdom
+
+![Joint statement of the foreign minister of Canada, Denmark, Germany, France, Italy, Japan, The Netherlands, United Kingdom](../../../../assets/images/2026/10/09/2108634485566615697-1.png)
+
+🔗 [View original post](https://x.com/francediplo_EN/status/2108634485566615697)
 
 ---
 

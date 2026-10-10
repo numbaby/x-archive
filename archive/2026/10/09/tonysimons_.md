@@ -2,7 +2,15 @@
 
 ## 📅 October 09, 2026
 
-> 16 post(s) archived.
+> 17 post(s) archived.
+
+---
+
+### 🕐 23:59 UTC · @tonysimons_
+
+> Someone turned Hermes Agent into a pixel-art RPG. 🪽 Your agents are heroes. Kanban tasks are monsters. Patches and tests are attacks. Failed commands? The monsters fight BACK. It&apos;s called Hermes Quest. Read-only. It just watches your agents work and makes it ridiculous.
+
+🔗 [View original post](https://x.com/tonysimons_/status/2108709051559538744)
 
 ---
 

@@ -2,7 +2,15 @@
 
 ## 📅 October 09, 2026
 
-> 6 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 23:31 UTC · @dair_ai
+
+> Bullish on this trend of making post-training more accessible. A new post-training era is upon us. If you work on agentic RL, long-context tasks (a big focus today) are expensive, inefficient, and don&apos;t scale well. I&apos;ve been diving into RL envs and evals for long-context tasks, and I can see this being useful. In agent RL, rollouts use most of the tokens. Every turn re-reads the whole growing context, including tool outputs, files, and earlier turns. Tinker just cut the price of those tokens. Long-context prefill and sampling now cost the same as short context. This means that evaluating your trained models on long inputs also gets cheaper. Huge win here. I believe RL will keep unlocking specialized models that slash the cost of critical agent operations. Cheaper long rollouts make them more practical to build. Own your intelligence stack! Tinkerers have been busy scaling up long-context RL! We’ve made significant improvements to Tinker’s efficiency to support those, and are passing these on with price cuts up to 70%. GLM-5.3-Flash and DeepSeek-v4.1-Flash are also live for cost-efficient long-context work.
+
+🔗 [View original post](https://x.com/omarsar0/status/2108702010933424464)
 
 ---
 
