@@ -2,7 +2,15 @@
 
 ## 📅 October 11, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 12:59 UTC · @AiEvolutio58513
+
+> Terence Tao: The mathematics in modern LLMs is fundamentally uncomplicated. Building and running them relies on linear algebra, matrix operations, and basic calculus, tools an undergraduate understands. We know how these systems function. The actual mystery lies elsewhere: why they excel at some tasks and stumble at others, and why we can&apos;t foresee that. We lack solid frameworks for predicting results across different domains, so discovery remains largely experimental. A central issue is how real-world information works. Pure noise has clean mathematics, perfectly ordered data has clean mathematics, but written language sits in between, structured yet noisy. Our math for that zone is limited, like how physics struggles at the middle scale between atomic and continuous scales. This gap means we can map out the parts but can&apos;t yet clarify sudden ability jumps or make solid domain-level predictions. That inconsistency, simple design versus hard-to-anticipate results, is the core riddle. Via Brian Keating&apos;s YouTube channel. Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2109267603307086163)
 
 ---
 
