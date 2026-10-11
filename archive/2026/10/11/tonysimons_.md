@@ -2,7 +2,15 @@
 
 ## 📅 October 11, 2026
 
-> 12 post(s) archived.
+> 13 post(s) archived.
+
+---
+
+### 🕐 18:47 UTC · @tonysimons_
+
+> need to use Google subs on Hermes without the risk of getting the hammer? check out @tonysimons_ vid and notes on this! Somebody just gave Hermes Agent Google Antigravity&apos;s brains without taking away its SOUL. 🪽 Gemini 3.x. Claude 4.6. GPT-OSS. Your SOUL.md comes along, and tools still run through Hermes approvals. One-command install. Clever way to use your Gemini subscription in Hermes and NOT …
+
+🔗 [View original post](https://x.com/HermesAgentTips/status/2109355196849823969)
 
 ---
 

@@ -128768,6 +128768,13 @@
       }
     ]
   },
+  "2109343274075115924": {
+    "account": "swyx",
+    "date": "2026-10-11",
+    "file": "data/posts/2026/10/2026-10-11.jsonl",
+    "fingerprint": "fa5307136b40b78aefccd337709e1084e4483e7b56fd381ede6123f55a89170f",
+    "media": []
+  },
   "2109343800011149444": {
     "account": "omarsar0",
     "date": "2026-10-11",
@@ -128814,5 +128821,46 @@
     "file": "data/posts/2026/10/2026-10-11.jsonl",
     "fingerprint": "0ebb82d5c7cef9503533e325db8e4473f0ce9178bc71eca4d6a6a7b61b37f14e",
     "media": []
+  },
+  "2109355196849823969": {
+    "account": "tonysimons_",
+    "date": "2026-10-11",
+    "file": "data/posts/2026/10/2026-10-11.jsonl",
+    "fingerprint": "9e99d2b017783fe8979539073be08fd0ed5a772eafbc3bdbfb0c64a37c097937",
+    "media": []
+  },
+  "2109361134356582557": {
+    "account": "elonmusk",
+    "date": "2026-10-11",
+    "file": "data/posts/2026/10/2026-10-11.jsonl",
+    "fingerprint": "04c1d55cf50895e1a2f41151d997f964bef6df3fa21a5e5a85052dbcf41df1bf",
+    "media": []
+  },
+  "2109361546505966046": {
+    "account": "karpathy",
+    "date": "2026-10-11",
+    "file": "data/posts/2026/10/2026-10-11.jsonl",
+    "fingerprint": "9f6621678e629ed61484973497c4860c995c670b4aba22e6d9c417dce2de46a4",
+    "media": []
+  },
+  "2109365419937239158": {
+    "account": "swyx",
+    "date": "2026-10-11",
+    "file": "data/posts/2026/10/2026-10-11.jsonl",
+    "fingerprint": "6051b37acc9707e7ca3620a78d154c7077c7ed570b1ec97c6ffa82d4fef1ce17",
+    "media": []
+  },
+  "2109368998588535048": {
+    "account": "emollick",
+    "date": "2026-10-11",
+    "file": "data/posts/2026/10/2026-10-11.jsonl",
+    "fingerprint": "93c3dd4de67e3d21cf069ce1c022c3d934c18fbdb3a24d539d04b262e64b314e",
+    "media": [
+      {
+        "local_path": "assets/images/2026/10/11/2109368998588535048-1.jpg",
+        "sha256": "aa3b674d025cab988395c94de4f0c72681b2ec2191e6c7a7c4b39b3e103d4a11",
+        "source_url": "https://pbs.twimg.com/card_img/2108669040487251968/snfL-8Gh?format=jpg&name=800x419"
+      }
+    ]
   }
 }

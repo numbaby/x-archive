@@ -2,7 +2,17 @@
 
 ## 📅 October 11, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 19:42 UTC · @emollick
+
+> Data here: https://epoch.ai/data/arxiv
+
+![Data here: https://epoch.ai/data/arxiv](../../../../assets/images/2026/10/11/2109368998588535048-1.jpg)
+
+🔗 [View original post](https://x.com/emollick/status/2109368998588535048)
 
 ---
 
