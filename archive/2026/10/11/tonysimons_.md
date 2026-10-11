@@ -2,7 +2,15 @@
 
 ## 📅 October 11, 2026
 
-> 9 post(s) archived.
+> 10 post(s) archived.
+
+---
+
+### 🕐 17:05 UTC · @tonysimons_
+
+> I just uninstalled Hermes Agent. ✌️ FOREVER. Deleted every skill. Wiped its memory. Killed every automation. Unplugged the Mac mini. I&apos;m officially done with AI agents. Oh, by the way... None of this actually happened. I just wanted to see how many of you were about to type &quot;skill issue.&quot; Happy Sunday. 😂🪽
+
+🔗 [View original post](https://x.com/tonysimons_/status/2109329517718200690)
 
 ---
 
