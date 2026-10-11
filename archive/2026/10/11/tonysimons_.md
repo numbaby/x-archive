@@ -2,7 +2,25 @@
 
 ## 📅 October 11, 2026
 
-> 10 post(s) archived.
+> 12 post(s) archived.
+
+---
+
+### 🕐 18:03 UTC · @tonysimons_
+
+> Real talk: the only thing I&apos;m uninstalling is my patience for manual setup. If you want Hermes in your pocket, Hermes Fleet is my free iPhone app for it 👇 https://hermes-fleet.aiowa.dev
+
+![Real talk: the only thing I&apos;m uninstalling is my patience for manual setup. If you want Hermes in your pocket, Hermes Fleet is my free iPhone app for it 👇 https://hermes-fleet.aiowa.dev](../../../../assets/images/2026/10/11/2109344247350779955-1.jpg)
+
+🔗 [View original post](https://x.com/tonysimons_/status/2109344247350779955)
+
+---
+
+### 🕐 17:41 UTC · @tonysimons_
+
+> skill issue - noob, most likely I just uninstalled Hermes Agent. ✌️ FOREVER. Deleted every skill. Wiped its memory. Killed every automation. Unplugged the Mac mini. I&apos;m officially done with AI agents. Oh, by the way... None of this actually happened. I just wanted to see how many of you were about to type &quot;skil…
+
+🔗 [View original post](https://x.com/EmmyBearAI/status/2109338503062372504)
 
 ---
 

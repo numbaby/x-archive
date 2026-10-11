@@ -2,7 +2,33 @@
 
 ## 📅 October 11, 2026
 
-> 14 post(s) archived.
+> 17 post(s) archived.
+
+---
+
+### 🕐 18:24 UTC · @elonmusk
+
+> Madness Democrat Nominee for U.S. Senate in Texas James Talarico: “There&apos;s only one person who can determine a child&apos;s gender identity and that&apos;s the child.”
+
+🔗 [View original post](https://x.com/elonmusk/status/2109349433296970035)
+
+---
+
+### 🕐 18:20 UTC · @elonmusk
+
+> If this was not true, Talarico&apos;s campaign would immediately authorize the release of the records to clear him. The dispute would be over. That they don&apos;t do this means that Talarico has a record at Lindler. Talarico is done. He is not fit for the Senate. U.S. Senate candidate James Talarico did not have the flu. An Ohio mental hospital confirms he was voluntarily committed for a mental health crisis. A candidate struggling with mental illness, who lies to the American people, is not fit to be Senator.
+
+🔗 [View original post](https://x.com/kevinnbass/status/2109348554066055339)
+
+---
+
+### 🕐 17:53 UTC · @elonmusk
+
+> Jio and Airtel literally dominate the Indian mobile market TRAI&apos;s August 2026 data shows that just these two companies control more than 77% of India&apos;s mobile subscriptions Aircel, Telenor, Tata Docomo, Videocon, MTS, Reliance Communications and Loop have all disappeared as independent mobile operators Vodafone and Idea had to merge just to survive What&apos;s left is a market where two companies have enormous influence over pricing, coverage and service for hundreds of millions of Indians And now, when Starlink wants to bring another internet coverage to India where people don&apos;t really have, some stupid people sitting comfortably in cities with high-speed internet are saying, “We don&apos;t want Starlink” Who are you to make that decision for everyone else? Just because you have reliable internet doesn&apos;t mean millions of Indians living in rural and remote areas have the same luxury How can you sit in a city with fast internet and decide that people in remote villages shouldn&apos;t even have that choice? If you don&apos;t want Starlink, don&apos;t buy it. Nobody is forcing you But don&apos;t be stupid enough to think your personal preference should decide what the rest of India gets to use As Elon said to Ambani: &quot;Naturally, you would prefer to maintain your monopolistic exploitation of the great people of India&quot; Real competition puts pressure on pricing, improves consumer choice and creates opportunities to connect places that existing networks still struggle to reach India deserves more choices Let Indians decide 🇮🇳
+
+![Jio and Airtel literally dominate the Indian mobile market TRAI&apos;s August 2026 data shows that just these two companies control more than 77% of India&apos;s mobile subscriptions Aircel, Telenor, ](../../../../assets/images/2026/10/11/2109341545526886450-1.jpg)
+
+🔗 [View original post](https://x.com/XFreeze/status/2109341545526886450)
 
 ---
 

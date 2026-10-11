@@ -2,7 +2,15 @@
 
 ## 📅 October 11, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 18:02 UTC · @omarsar0
+
+> This will be a fun one. @MilksandMatcha runs DevX at Cerebras and @vivianmshen is a General Partner at YC. Two people who work deep in AI every day are now talking about what life inside Silicon Valley is really like. SOTA Wives just launched. Watch the intro below. WTF is a SOTA Wife? SOTA Wives is a podcast exploring the unfiltered side of Silicon Valley. We built it as an antidote to the performative polish of tech Twitter. Brought to you by @MilksandMatcha x @vivianmshen. Episode 1 goes live on Monday, 12th October at 9 AM PT on everywhe…
+
+🔗 [View original post](https://x.com/omarsar0/status/2109343800011149444)
 
 ---
 
