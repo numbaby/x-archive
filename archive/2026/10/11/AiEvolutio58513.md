@@ -2,7 +2,15 @@
 
 ## 📅 October 11, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 13:57 UTC · @AiEvolutio58513
+
+> Dave Portnoy spent $10,000 on an AI clone to read his audiobook aloud, and says the result was “actually scary” in how accurate it sounded. His own parents couldn’t tell it from the real thing. Audible then blocked it, so he ended up recording every word on his own. “I could only do 15 minutes [of recording a day] because it was that hard for me to read it. I hated it. I tried to get out of it. I paid $10,000 to do AI. I had this AI program for it.” “My parents couldn’t tell the difference. And it could literally just scan the book and go word-for-word.” “It was actually scary how it was dead-on. And it could have literally just done every single word in that book.” “[Audible] wouldn’t let me use it... I was told, ‘No, they don’t let you do that.’ So I had to [record the whole book myself]. I hated it. Hated it!” Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2109282152437489968)
 
 ---
 

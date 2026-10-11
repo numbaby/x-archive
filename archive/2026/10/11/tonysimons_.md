@@ -2,7 +2,27 @@
 
 ## 📅 October 11, 2026
 
-> 7 post(s) archived.
+> 9 post(s) archived.
+
+---
+
+### 🕐 14:15 UTC · @tonysimons_
+
+> I bought it myself. Apple had nothing to do with it. Full review, including the swap numbers, the battery reality check, and how it stacks up next to my Legion 9i: https://www.tonyreviewsthings.com/macbook-pro-m5-review/
+
+![I bought it myself. Apple had nothing to do with it. Full review, including the swap numbers, the battery reality check, and how it stacks up next to my Legion 9i: https://www.tonyreviewsthings.com/ma](../../../../assets/images/2026/10/11/2109286672005558530-1.jpg)
+
+🔗 [View original post](https://x.com/tonysimons_/status/2109286672005558530)
+
+---
+
+### 🕐 14:15 UTC · @tonysimons_
+
+> My first Mac ever. A few weeks later, I bought ANOTHER one. 😂 MacBook Pro M5. 14-inch. 24GB. 1TB. I&apos;ve been building on it nonstop. Xcode. Simulators. Claude. Codex. Hermes. Three displays. So I had Hermes inspect it mid-session. ~23GB of memory in use. ~24GB of SWAP. 4% to 12% CPU idle. Zero crashes. Zero freezes. Battery under that load? 4 to 5 hours. Not Apple&apos;s 24. The catch: 24GB at $2,199 is stingy. Local AI finds the ceiling fast. 4.8/5. I&apos;d buy it again. With more RAM. Full review in the reply 👇
+
+![My first Mac ever. A few weeks later, I bought ANOTHER one. 😂 MacBook Pro M5. 14-inch. 24GB. 1TB. I&apos;ve been building on it nonstop. Xcode. Simulators. Claude. Codex. Hermes. Three displays. So I ](../../../../assets/images/2026/10/11/2109286659359731870-1.jpg)
+
+🔗 [View original post](https://x.com/tonysimons_/status/2109286659359731870)
 
 ---
 
