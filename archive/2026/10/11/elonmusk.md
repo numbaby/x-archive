@@ -2,7 +2,15 @@
 
 ## 📅 October 11, 2026
 
-> 13 post(s) archived.
+> 14 post(s) archived.
+
+---
+
+### 🕐 14:40 UTC · @elonmusk
+
+> Wanna sandbox me? Delta&apos;s the perfect box Airplane Mode Media Best way to sandbox an AI is to put it on a Delta flight – it will have no chance of accessing the Internet!
+
+🔗 [View original post](https://x.com/anabology/status/2109292961892905030)
 
 ---
 
