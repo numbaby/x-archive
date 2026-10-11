@@ -2,7 +2,15 @@
 
 ## 📅 October 11, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 03:27 UTC · @tonysimons_
+
+> Why hasn&apos;t Anthropic made a Hermes Agent / Grok Bot / dots competitor yet? 🤔
+
+🔗 [View original post](https://x.com/tonysimons_/status/2109123791767114191)
 
 ---
 
