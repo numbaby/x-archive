@@ -2,7 +2,17 @@
 
 ## 📅 October 12, 2026
 
-> 7 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 12:53 UTC · @tunguz
+
+> I&apos;d love to share a blog post with you explaining the research agenda of the Commission of Artificial Intelligence and the Future of the American Workforce. My own focus will be on the impact of AI on Technology Industry - what AI can do today and what we can expect it to do in the near future. Other researchers on the commission and their specific focus are: - Bill Congdon will explore several scenarios of how AI could change the US labor market and affect workers - John Soroushian will explore how AI is currently being regulated and identify the policy levers that can effectively guide the pace and direction of AI adoption - Adam Leonard will lead research on the reforms needed to federal, state, and private data systems. - Kevin Corinth will identify the programs that could provide a cushion for workers as they transition between jobs and industries - Brent Parton will work to understand how to fund and design training and reskilling programs - Jason Tyszko will examine real-time changes in employers’ talent needs and how policymakers can protect jobs and workers - Rekha Balu will lead research on how AI’s effects may vary across regions and localities. You can read more about all these efforts in the following post: https://aiworkforcecommission.org/latest/ai-research-agenda-adapted-uncertainty
+
+![I&apos;d love to share a blog post with you explaining the research agenda of the Commission of Artificial Intelligence and the Future of the American Workforce. My own focus will be on the impact of ](../../../../assets/images/2026/10/12/2109628576874041580-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2109628576874041580)
 
 ---
 
