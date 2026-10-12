@@ -2,7 +2,33 @@
 
 ## 📅 October 12, 2026
 
-> 3 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 05:11 UTC · @tonysimons_
+
+> If you’re on macOS and want to give it a try, grab it here:  https://github.com/dedene/omacy
+
+![If you’re on macOS and want to give it a try, grab it here:  https://github.com/dedene/omacy](../../../../assets/images/2026/10/12/2109512222686752874-1.jpg)
+
+🔗 [View original post](https://x.com/tonysimons_/status/2109512222686752874)
+
+---
+
+### 🕐 05:10 UTC · @tonysimons_
+
+> The @OmarchyLinux screensaver is SO DOPE! 🔥 I just hadta throw it on my MacBook and Mac mini. GN! Media
+
+🔗 [View original post](https://x.com/tonysimons_/status/2109511978058477600)
+
+---
+
+### 🕐 04:15 UTC · @tonysimons_
+
+> Your website&apos;s got a new kind of visitor. 🤖 AI agents. And most sites aren&apos;t ready for them. @PixelRainbowNFT built a FREE Grok Bot template that tests your site in a real Safari 27 session, ranks what&apos;s broken, then writes the fix as a SKILL.md for Hermes or Claude Code. No design changes for humans. I&apos;ve got a handful of sites. I already know which one&apos;s getting this first. 👇🏻 Your website has a new visitor: AI agents. Safari 27 now lets AI drive a real browser. Most sites aren&apos;t ready for that. So I built Safari 27 MCP, a free Grok Bot template 🧵👇 https://x.ai/bot/8obMM4mRWRLf51EB2n4JV 🔍 Real-browser testing → it opens your site the way an AI agent…
+
+🔗 [View original post](https://x.com/tonysimons_/status/2109498041065750854)
 
 ---
 
