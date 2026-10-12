@@ -128882,5 +128882,26 @@
         "source_url": "https://pbs.twimg.com/media/HUY3DQrWcAAqXFk.jpg?name=orig"
       }
     ]
+  },
+  "2109448545904586837": {
+    "account": "elonmusk",
+    "date": "2026-10-12",
+    "file": "data/posts/2026/10/2026-10-12.jsonl",
+    "fingerprint": "9439807b0356a2f1c8f22b9496f526c37de34ed6311e805a91413c3badc1b256",
+    "media": []
+  },
+  "2109456873422221774": {
+    "account": "tunguz",
+    "date": "2026-10-12",
+    "file": "data/posts/2026/10/2026-10-12.jsonl",
+    "fingerprint": "52d5ee548efb01fd3909ad5a59531b6087a386c54d4254d8979a61ca40278db8",
+    "media": []
+  },
+  "2109459975474995584": {
+    "account": "elonmusk",
+    "date": "2026-10-12",
+    "file": "data/posts/2026/10/2026-10-12.jsonl",
+    "fingerprint": "3a26878016e9937472bc0c180b75802f4589e2ddb31d307ff27f12f180f70ee6",
+    "media": []
   }
 }
