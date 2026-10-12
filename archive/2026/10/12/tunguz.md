@@ -2,7 +2,39 @@
 
 ## 📅 October 12, 2026
 
-> 15 post(s) archived.
+> 19 post(s) archived.
+
+---
+
+### 🕐 17:44 UTC · @tunguz
+
+> He’s a ten but he believes AI can be aligned.
+
+🔗 [View original post](https://x.com/tunguz/status/2109701838903845086)
+
+---
+
+### 🕐 17:20 UTC · @tunguz
+
+> yes NVIDIA just dropped an open source Apache-2.0 licensed CAD kernel HAHAHAHAHAHAHAHAHAHAHA i honestly feel bad for the prop CAD bros. this week has been nonstop L&apos;s and it isn&apos;t getting better from here https://github.com/NVIDIA-Omniverse/usd-brep/tree/main
+
+🔗 [View original post](https://x.com/tunguz/status/2109695627127148766)
+
+---
+
+### 🕐 17:18 UTC · @tunguz
+
+> I’m glad that our friends in the UK are finally discovering the Castle Doctrine. I just hope they extend the principle to humans. The tiger remained inside its enclosure while the man entered it, and Yorkshire Wildlife Park has stated that the animal will not be euthanized. On 10 October 2026 a man climbed into the Amur tiger enclosure at Yorkshire Wildlife Park in England and was fatally attacked by the ti…
+
+🔗 [View original post](https://x.com/tunguz/status/2109695304979083502)
+
+---
+
+### 🕐 17:13 UTC · @tunguz
+
+> Top chud energy in this tweet. If you’re a grown-ass man who owns a cat and does yoga, you’re gay.
+
+🔗 [View original post](https://x.com/tunguz/status/2109693900340474365)
 
 ---
 

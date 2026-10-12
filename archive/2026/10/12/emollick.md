@@ -2,7 +2,23 @@
 
 ## 📅 October 12, 2026
 
-> 5 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 18:34 UTC · @emollick
+
+> Had some early access to Muse Wonder, but did not get a chance to use it a ton, yet it seems like a good model from limited test Perhaps more impressive, compare the progress since April in my drowned neogothic city twigl shader test. Very fast progress from Meta in a short time Media After playing with it a bit, Meta&apos;s Muse Spark Thinking is fine so far, but really doesn&apos;t match the current Big Three models. It also is a bit... weird. Like some strange language &amp; tone, a little loose with facts, etc. And here is how it does on the neo-gothic shader test.
+
+🔗 [View original post](https://x.com/emollick/status/2109714218014667039)
+
+---
+
+### 🕐 16:31 UTC · @emollick
+
+> If you haven’t made sure to turn on two-factor authentication on all accounts, have passwords with family in case you get voice calls asking for money, etc, now would be a good time. AI gains mean the costs of mass targeting individuals with sophisticated attacks are dropping.
+
+🔗 [View original post](https://x.com/emollick/status/2109683365045739888)
 
 ---
 

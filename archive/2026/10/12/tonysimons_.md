@@ -2,7 +2,35 @@
 
 ## 📅 October 12, 2026
 
-> 11 post(s) archived.
+> 14 post(s) archived.
+
+---
+
+### 🕐 17:52 UTC · @tonysimons_
+
+> Hermes Agent Tip of the Day 🪽 Your agent needs two Gmail accounts. What could go wrong, right? 😂 Hermes now lets you NAME them: hermes connectors connect gmail –alias work hermes connectors connect gmail –alias home Then: “Send this from work.” Save this one. 🔖
+
+![Hermes Agent Tip of the Day 🪽 Your agent needs two Gmail accounts. What could go wrong, right? 😂 Hermes now lets you NAME them: hermes connectors connect gmail –alias work hermes connectors connect gm](../../../../assets/images/2026/10/12/2109703836143362317-1.jpg)
+
+🔗 [View original post](https://x.com/tonysimons_/status/2109703836143362317)
+
+---
+
+### 🕐 16:43 UTC · @tonysimons_
+
+> Connecting apps to Hermes shouldn&apos;t be a weekend project. 🪽 60 connectors on Nous Portal right now. Canva. Notion. Slack. Discord. Shopify. Open Connectors, pick an app, follow the prompts. This is the &quot;just works&quot; layer the fleet actually needs. Connecting your apps to Hermes shouldn’t be a project of its own. 🔥 Nous Portal has currently has 60 connectors (and the list keeps growing), including Canva, Notion, Slack, Discord and Shopify. Open Connectors, choose an app and follow the prompts to link your account. You can …
+
+🔗 [View original post](https://x.com/tonysimons_/status/2109686331295039663)
+
+---
+
+### 🕐 16:04 UTC · @tonysimons_
+
+> Your agent doesn&apos;t need a bigger brain. 🧠 It needs a better TRAFFIC COP. 👮 Microsoft just dropped Decision-1, a fast routing model for deciding what runs next. This is the boring layer that makes Hermes feel less chaotic. 👇🏻 https://commandline.microsoft.com/microsoft-decision-1-model-foundry/
+
+![Your agent doesn&apos;t need a bigger brain. 🧠 It needs a better TRAFFIC COP. 👮 Microsoft just dropped Decision-1, a fast routing model for deciding what runs next. This is the boring layer that makes](../../../../assets/images/2026/10/12/2109676639038636420-1.png)
+
+🔗 [View original post](https://x.com/tonysimons_/status/2109676639038636420)
 
 ---
 

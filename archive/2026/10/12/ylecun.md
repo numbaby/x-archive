@@ -2,7 +2,25 @@
 
 ## 📅 October 12, 2026
 
-> 3 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 17:32 UTC · @ylecun
+
+> From rebuilding our foundation to pushing the frontier in 14 months 🚀
+
+![From rebuilding our foundation to pushing the frontier in 14 months 🚀](../../../../assets/images/2026/10/12/2109698705490149596-1.jpg)
+
+🔗 [View original post](https://x.com/AIatMeta/status/2109698705490149596)
+
+---
+
+### 🕐 16:13 UTC · @ylecun
+
+> Check out our new paper on getting a SOTA harness for Automated Theorem Proving! The &quot;bitterest&quot; part of our lesson, perhaps, was that we wanted to demonstrate benefits of asymmetric self-play for harnesses, and each time we could improve the baseline harness to be better. This is how we ended up with h1, a great simple baseline harness, as our bitter lesson :) The Bitter Lesson for harness design and formal math! Instead of hand-designing how an AI should prove (decompose, plan, assign agents), what if we just give a frontier model good Lean feedback and let it keep working? We built h1. TL;DR: → SOTA on formal theorem proving benchmar…
+
+🔗 [View original post](https://x.com/KempeLab/status/2109678954831376433)
 
 ---
 

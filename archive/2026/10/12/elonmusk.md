@@ -2,7 +2,77 @@
 
 ## 📅 October 12, 2026
 
-> 9 post(s) archived.
+> 17 post(s) archived.
+
+---
+
+### 🕐 17:07 UTC · @elonmusk
+
+> 😂 A new four-hour documentary on Elon Musk is so determined to expose the billionaire’s failings that it inadvertently showcases the achievements that made him the richest man in the world. Read @liel&apos;s full review of “Musk” : https://www.thefp.com/p/elon-musk-new-documentary-enemi…
+
+🔗 [View original post](https://x.com/elonmusk/status/2109692430178255016)
+
+---
+
+### 🕐 17:01 UTC · @elonmusk
+
+> When China figures out how to manufacture a product, their ability to scale is often greater than the rest of the world combined. We saw this with lithium batteries and solar, for example. SpaceX is a rare counter-example, where its mass to orbit is roughly an order of magnitude greater than the rest of the world, BUT China now does a majority of non-SpaceX mass to orbit. SpaceX is an anomaly in the matrix. Maybe RAM will be different, but RAM was a low margin commodity only ~3 years ago. LP5 and LP6 are designed to a common standard that China seems to be solving fast. Newer HBM architectures and things like an SRAM layer below logic and 3D stacking RAM on top of logic while finding a way to keep the logic cooled will be harder to solve.
+
+🔗 [View original post](https://x.com/elonmusk/status/2109690977279426846)
+
+---
+
+### 🕐 16:59 UTC · @elonmusk
+
+> Troubling I thought this one was parody… It’s real. James Talarico calling Whiteness a virus. Just a totally normal, moderate guy.
+
+🔗 [View original post](https://x.com/elonmusk/status/2109690326474440765)
+
+---
+
+### 🕐 16:23 UTC · @elonmusk
+
+> Your safety has always been priority 1 at Tesla and SpaceX Remembering when Tesla was just starting, Elon would say Safety First. For that reason you and your son are alive and many other lives will be saved.
+
+🔗 [View original post](https://x.com/elonmusk/status/2109681296616374289)
+
+---
+
+### 🕐 15:41 UTC · @elonmusk
+
+> Brace yourselves. Over the next few weeks you are going to see a wave of hatred against Elon Musk unlike anything before. A four-hour hit-piece documentary rolling out nationwide. Midterms three weeks away. Every outlet, every NGO, every “expert” panel suddenly singing from the same sheet, on the same day, with the same words. None of it is spontaneous. What you are watching is an organism. Call it international socialism, call it the managerial left, the name doesn’t matter. It is a network that spent decades quietly capturing the universities, the newsrooms, the foundations, the administrative state, every institution that was supposed to referee the game instead of playing it. For years it worked because no one with real power ever looked under the hood. Then a man who lands rockets, owns the public square and needs nobody’s permission started looking. And started showing everyone else what he found. So the organism does what every organism does when it senses a threat to its survival. It screams. Don’t mistake the noise for strength. What you are about to hear is not the roar of a system in control. It is a death cry. The louder it gets, the closer he is to the nerve. I wrote about why this happens, and why “Nazi” is always the weapon of choice 👇 https://x.com/brivael/status/2069203589692805440
+
+🔗 [View original post](https://x.com/brivael/status/2109670813406240846)
+
+---
+
+### 🕐 15:41 UTC · @elonmusk
+
+> retatrutide costs about $1/mg 3mg/week is a good enough dose for most people to not be fat. that&apos;s $156 PER YEAR! over 200M people in the US are fat giving out free reta to every fat person would only cost $31.2 billion every year meanwhile, obesity adds ~$6500 a year in medical costs and productivity loss per person basically, giving out free reta would increase the GDP by $1.3 TRILLION every year considering the increase in productivity and the time and money saved from simply not being fat, every employer would make more money by offering free ozempic to all their employees
+
+![retatrutide costs about $1/mg 3mg/week is a good enough dose for most people to not be fat. that&apos;s $156 PER YEAR! over 200M people in the US are fat giving out free reta to every fat person would](../../../../assets/images/2026/10/12/2109670804220789044-1.jpg)
+
+🔗 [View original post](https://x.com/IterIntellectus/status/2109670804220789044)
+
+---
+
+### 🕐 15:01 UTC · @elonmusk
+
+> Open standards are the foundation for AI factories that can scale from megawatts to gigawatts. At #OCPSummit26, we contributed the NVIDIA Vera Rubin NVL72 rack and compute tray designs to @OpenComputePrj through the open 3rd generation NVIDIA MGX architecture. We also announced advances across open source software, AI networking, pluggable optics, facility design standards and more, giving the industry a common foundation for next-generation AI factories. Learn more: https://nvda.ws/4hSAOsb
+
+![Open standards are the foundation for AI factories that can scale from megawatts to gigawatts. At #OCPSummit26, we contributed the NVIDIA Vera Rubin NVL72 rack and compute tray designs to @OpenCompute](../../../../assets/images/2026/10/12/2109660650423091650-1.jpg)
+
+🔗 [View original post](https://x.com/NVIDIAAIInfra/status/2109660650423091650)
+
+---
+
+### 🕐 14:08 UTC · @elonmusk
+
+> Pie chart of naturalizations in 2023. The US naturalized roughly 4x as many people as all of Asia combined.
+
+![Pie chart of naturalizations in 2023. The US naturalized roughly 4x as many people as all of Asia combined.](../../../../assets/images/2026/10/12/2109647443675508977-1.jpg)
+
+🔗 [View original post](https://x.com/arctotherium42/status/2109647443675508977)
 
 ---
 

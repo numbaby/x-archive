@@ -2,7 +2,17 @@
 
 ## 📅 October 12, 2026
 
-> 5 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 16:27 UTC · @swyx
+
+> been experimenting with a thumbnail concept for the new latent space podcast. getting 4 people to work in one thumbnail was surprisingly tricky. happy with how this turned out 👀 this podcast needed a great thumbnail new @latentspacepod episode with @CompleteSkeptic talking about Jev, System One Models, reliable AI, and the end of chat-first AI...
+
+![been experimenting with a thumbnail concept for the new latent space podcast. getting 4 people to work in one thumbnail was surprisingly tricky. happy with how this turned out 👀 this podcast needed a ](../../../../assets/images/2026/10/12/2109682338913222779-1.jpg)
+
+🔗 [View original post](https://x.com/heyalizaid/status/2109682338913222779)
 
 ---
 
