@@ -128869,5 +128869,18 @@
     "file": "data/posts/2026/10/2026-10-11.jsonl",
     "fingerprint": "335f173ff289c920e322658720a41d60e27192d3edd28d549b1ba2767914964a",
     "media": []
+  },
+  "2109434256267321395": {
+    "account": "tonysimons_",
+    "date": "2026-10-12",
+    "file": "data/posts/2026/10/2026-10-12.jsonl",
+    "fingerprint": "de7b57a670d635c510e7485c9a00b7e9065a68b035291d44ba01bff1328ddc49",
+    "media": [
+      {
+        "local_path": "assets/images/2026/10/12/2109434256267321395-1.jpg",
+        "sha256": "3e6d8aa4ce408f231b1573960275dcf6ab6e8ef1a281b6ad1f2da71928ed4087",
+        "source_url": "https://pbs.twimg.com/media/HUY3DQrWcAAqXFk.jpg?name=orig"
+      }
+    ]
   }
 }
