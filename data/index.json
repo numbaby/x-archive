@@ -128903,5 +128903,33 @@
     "file": "data/posts/2026/10/2026-10-12.jsonl",
     "fingerprint": "3a26878016e9937472bc0c180b75802f4589e2ddb31d307ff27f12f180f70ee6",
     "media": []
+  },
+  "2109469969117241696": {
+    "account": "tonysimons_",
+    "date": "2026-10-12",
+    "file": "data/posts/2026/10/2026-10-12.jsonl",
+    "fingerprint": "73f82dd9b1d20684a2b654f1c8095c4b66cfcb86fffb16b9e08245f860f88d12",
+    "media": []
+  },
+  "2109470073073385868": {
+    "account": "tonysimons_",
+    "date": "2026-10-12",
+    "file": "data/posts/2026/10/2026-10-12.jsonl",
+    "fingerprint": "0d0f1f3e457d7706804006453d740624851e79f3a797cc72eaba8c4674656f04",
+    "media": []
+  },
+  "2109472254417318335": {
+    "account": "emollick",
+    "date": "2026-10-12",
+    "file": "data/posts/2026/10/2026-10-12.jsonl",
+    "fingerprint": "49dc767e0b49f1a8d5eebd944ae1a4320589af13e5374821b2d65d530e94f352",
+    "media": []
+  },
+  "2109472567819960637": {
+    "account": "emollick",
+    "date": "2026-10-12",
+    "file": "data/posts/2026/10/2026-10-12.jsonl",
+    "fingerprint": "76296b0f529994dbf4e90ac16acc2256e458a6eae7640e7a7923d86863cf7948",
+    "media": []
   }
 }
