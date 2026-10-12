@@ -2,7 +2,23 @@
 
 ## 📅 October 12, 2026
 
-> 9 post(s) archived.
+> 11 post(s) archived.
+
+---
+
+### 🕐 15:01 UTC · @tonysimons_
+
+> &quot;Find 50 clients. Research them. Pull work emails. Draft outreach for my approval.&quot; That&apos;s not a chat trick. That&apos;s a full outreach workflow with YOU still on the send button. 🔥 Everyone is talking about Claude + Treg But I’m thinking about Hermes + Treg Imagine telling Hermes: “Find 50 potential clients in my industry, research their companies, find their work emails, and prepare personalized outreach for my approval.” Hermes handles the workflow Treg p…
+
+🔗 [View original post](https://x.com/tonysimons_/status/2109660624196354372)
+
+---
+
+### 🕐 14:20 UTC · @tonysimons_
+
+> If you aren&apos;t safari 27 / MCP optimized, do you even exist? Grokbot template below is badass. Your website&apos;s got a new kind of visitor. 🤖 AI agents. And most sites aren&apos;t ready for them. @PixelRainbowNFT built a FREE Grok Bot template that tests your site in a real Safari 27 session, ranks what&apos;s broken, then writes the fix as a SKILL.md for Hermes or Claude Code. No des…
+
+🔗 [View original post](https://x.com/PixelRainbowNFT/status/2109650347367288877)
 
 ---
 

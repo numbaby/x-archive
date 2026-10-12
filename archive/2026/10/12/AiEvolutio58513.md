@@ -2,7 +2,15 @@
 
 ## 📅 October 12, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 13:58 UTC · @AiEvolutio58513
+
+> Elon Musk has swapped his homes for an Airstream parked in Memphis so he can run xAI&apos;s giant AI build-out up close. xAI, his AI company, was bought by SpaceX earlier this year. In Memphis it is building Colossus, a huge supercomputer site meant to supply the compute that trains and runs Grok. He could stay in a luxury home. Instead, he says, he sleeps steps from the build so he can stay hands-on, and he has joked that the trailer is his palace. Gwynne Shotwell, SpaceX&apos;s president, has said he tends to sleep next to whatever he is building when he&apos;s deep in it. What&apos;s going up in Tennessee is the computing backbone of his AI plans: a massive data center and supercomputer built to make Grok and the models after it far more capable. Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2109644786890318043)
 
 ---
 

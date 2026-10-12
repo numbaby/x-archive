@@ -2,7 +2,27 @@
 
 ## 📅 October 12, 2026
 
-> 7 post(s) archived.
+> 9 post(s) archived.
+
+---
+
+### 🕐 13:04 UTC · @elonmusk
+
+> Listen to Elon!
+
+![Listen to Elon!](../../../../assets/images/2026/10/12/2109631310478360694-1.jpg)
+
+🔗 [View original post](https://x.com/GadSaad/status/2109631310478360694)
+
+---
+
+### 🕐 10:48 UTC · @elonmusk
+
+> Nearly half a million Indian schools still have no internet. This is exactly the kind of problem Starlink was built to solve According to India&apos;s Education Ministry’s UDISE+ 2025–26 data: • 1,466,682 schools nationwide • 989,191 have internet access • 477,491 still don&apos;t have internet • Only 67.4% of schools are connected That means nearly one in three schools across India still lacks internet access This is where Starlink makes a real difference For schools in remote villages and regions where laying fiber is difficult or expensive, and so they essentially end up with no internet at all, satellite internet brings teachers and students online without waiting for broadband cables to reach every classroom And Starlink has already demonstrated what this can achieve In 2025 alone, Starlink connected more than 6 million students worldwide through education initiatives India has millions of students living far beyond major cities, and connecting underserved schools would open up access to online learning, educational resources, and opportunities that were previously out of reach A child&apos;s access to knowledge should not depend on whether a broadband cable reaches their classroom This is another powerful reason to bring Starlink connectivity to more schools across India
+
+![Nearly half a million Indian schools still have no internet. This is exactly the kind of problem Starlink was built to solve According to India&apos;s Education Ministry’s UDISE+ 2025–26 data: • 1,466](../../../../assets/images/2026/10/12/2109597015126712595-1.jpg)
+
+🔗 [View original post](https://x.com/XFreeze/status/2109597015126712595)
 
 ---
 

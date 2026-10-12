@@ -2,7 +2,63 @@
 
 ## 📅 October 12, 2026
 
-> 8 post(s) archived.
+> 15 post(s) archived.
+
+---
+
+### 🕐 15:39 UTC · @tunguz
+
+> we&apos;ll literally have oss version of ALL major software products within 3 - 12 months everything is opensource if you have enough tokens
+
+🔗 [View original post](https://x.com/tunguz/status/2109670333100040456)
+
+---
+
+### 🕐 15:33 UTC · @tunguz
+
+> Yeah ...
+
+🔗 [View original post](https://x.com/tunguz/status/2109668884018069698)
+
+---
+
+### 🕐 15:33 UTC · @tunguz
+
+> Learn to plumb. software isn’t dead, but it’s certainly solved. you will not be able to find employment as a software engineer in 2028.
+
+🔗 [View original post](https://x.com/tunguz/status/2109668753017577532)
+
+---
+
+### 🕐 15:06 UTC · @tunguz
+
+> * ten months Unpopular opinion: the next ten years are your last opportunity to earn money
+
+🔗 [View original post](https://x.com/tunguz/status/2109662119155155055)
+
+---
+
+### 🕐 15:03 UTC · @tunguz
+
+> That’s why I started my business in Gary, Indiana. Want to start a business in your state? Make sure it’s in a colored area below.
+
+🔗 [View original post](https://x.com/tunguz/status/2109661254503862567)
+
+---
+
+### 🕐 15:01 UTC · @tunguz
+
+> We are so early. Walked into a busy coffee shop in NYC today to buy a coffee and I did something very autistic. Saw a guy working next to me on the free tier of ChatGPT. I got curious. I spent the next 30 minutes walking around checking out 22 laptops. 16 people were working completely by hand (I…
+
+🔗 [View original post](https://x.com/tunguz/status/2109660672556482721)
+
+---
+
+### 🕐 14:50 UTC · @tunguz
+
+> Just pay the taxes bro. @WeatherNation @douglassmackey Another victory for CA coastal commission! They’ll be red-tagged, vacated, demolished, and never allowed to be rebuilt due to permitting. Like Palisades, like Malibu. Yay!
+
+🔗 [View original post](https://x.com/tunguz/status/2109658006086426635)
 
 ---
 

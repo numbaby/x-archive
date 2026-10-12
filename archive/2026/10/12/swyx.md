@@ -2,7 +2,35 @@
 
 ## 📅 October 12, 2026
 
-> 2 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 15:22 UTC · @swyx
+
+> 3 weeks for the third 100k
+
+![3 weeks for the third 100k](../../../../assets/images/2026/10/12/2109666113155936495-1.png)
+
+🔗 [View original post](https://x.com/swyx/status/2109666113155936495)
+
+---
+
+### 🕐 15:18 UTC · @swyx
+
+> also packed room for @arizeai @seldo workshop at #aiengineerny!! https://x.com/nehallagrawal/status/2109656052035928481?s=46 AI Engineer New York officially kicking off Where Wall Street meets engineering
+
+🔗 [View original post](https://x.com/swyx/status/2109665044208226797)
+
+---
+
+### 🕐 14:21 UTC · @swyx
+
+> @cjav_dev @aiDotEngineer @ricmac @latentspacepod btw hosting karaoke night tmr at my fave nyc bar! https://luma.com/lsk
+
+![@cjav_dev @aiDotEngineer @ricmac @latentspacepod btw hosting karaoke night tmr at my fave nyc bar! https://luma.com/lsk](../../../../assets/images/2026/10/12/2109650557476487514-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2109650557476487514)
 
 ---
 

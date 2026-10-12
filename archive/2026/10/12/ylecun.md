@@ -2,7 +2,17 @@
 
 ## 📅 October 12, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 05:47 UTC · @ylecun
+
+> Join Anthony Annunziata, @ylecun and myself tomorrow, in Tokyo, the world headquarters of Industrial AI. We will talk about Digital Engineers for Physical Industry, JEPA World Models, and Industrial-AI Sovereignty—and hear from AI leaders in government and industrial enterprise. https://iiac.events/ convened by @aitomatic, in partnership with @thealliance_ai @panasonic et al.
+
+![Join Anthony Annunziata, @ylecun and myself tomorrow, in Tokyo, the world headquarters of Industrial AI. We will talk about Digital Engineers for Physical Industry, JEPA World Models, and Industrial-A](../../../../assets/images/2026/10/12/2109521342332588096-1.jpg)
+
+🔗 [View original post](https://x.com/pentagoniac/status/2109521342332588096)
 
 ---
 
