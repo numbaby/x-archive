@@ -129061,5 +129061,60 @@
     "file": "data/posts/2026/10/2026-10-12.jsonl",
     "fingerprint": "ea513c4114507c03582256e0568512785685c892d987321d63a675480c4e4ee5",
     "media": []
+  },
+  "2109615183639519736": {
+    "account": "tunguz",
+    "date": "2026-10-12",
+    "file": "data/posts/2026/10/2026-10-12.jsonl",
+    "fingerprint": "54d11a85810366544a59a6b3b2f2604d1632254d97402cb5934daf4ddc58ed82",
+    "media": [
+      {
+        "local_path": "assets/images/2026/10/12/2109615183639519736-1.jpg",
+        "sha256": "c25b6398327206a9db0ad121f7230ca1f37113b338a2990c3950466fb1ea744c",
+        "source_url": "https://pbs.twimg.com/media/HUbb02ZWkAAk-br.jpg?name=orig"
+      }
+    ]
+  },
+  "2109615927193158006": {
+    "account": "tunguz",
+    "date": "2026-10-12",
+    "file": "data/posts/2026/10/2026-10-12.jsonl",
+    "fingerprint": "5bbf6cfe06c273543791240c408d8bfb4f1af03577f48b1a58886cbe531c9ecf",
+    "media": []
+  },
+  "2109616321281323040": {
+    "account": "tonysimons_",
+    "date": "2026-10-12",
+    "file": "data/posts/2026/10/2026-10-12.jsonl",
+    "fingerprint": "be2ea363fc26d8e444ac6a2cd55761e1d300ede3e24aa32bc2e0d1f72e8f6bda",
+    "media": []
+  },
+  "2109619112385323455": {
+    "account": "tunguz",
+    "date": "2026-10-12",
+    "file": "data/posts/2026/10/2026-10-12.jsonl",
+    "fingerprint": "4fa12a5b37ef33c81509f624a8439d05d790c49a88b320da306214a62c9072ce",
+    "media": []
+  },
+  "2109621236980441277": {
+    "account": "tunguz",
+    "date": "2026-10-12",
+    "file": "data/posts/2026/10/2026-10-12.jsonl",
+    "fingerprint": "00f637a8379e81bed94e30f77dd5e34a145a6c638b8fc8a6cfa1a21b56c73b4b",
+    "media": []
+  },
+  "2109622252576604514": {
+    "account": "tunguz",
+    "date": "2026-10-12",
+    "file": "data/posts/2026/10/2026-10-12.jsonl",
+    "fingerprint": "cdc959351893a80f881a013bb2d447739967e1f6849a4feead8371be807efe69",
+    "media": []
+  },
+  "2109622458823381047": {
+    "account": "tunguz",
+    "date": "2026-10-12",
+    "file": "data/posts/2026/10/2026-10-12.jsonl",
+    "fingerprint": "5c528a642d02e20de28e1e8cb7ae11eb40b8eb8ac3191837e75dec964014089d",
+    "media": []
   }
 }

@@ -2,7 +2,15 @@
 
 ## 📅 October 12, 2026
 
-> 8 post(s) archived.
+> 9 post(s) archived.
+
+---
+
+### 🕐 12:05 UTC · @tonysimons_
+
+> 𝕏 blows my MIND. 🤯 Almost 14 MILLION impressions in under a year. On my content. I&apos;m just a guy in the Midwest who cleans toilets by day and obsesses over AI at night. (And during the day. Don&apos;t tell my boss. 😂) If you&apos;re behind even ONE of those impressions... THANK YOU. 🙏🏻 Media
+
+🔗 [View original post](https://x.com/tonysimons_/status/2109616321281323040)
 
 ---
 
