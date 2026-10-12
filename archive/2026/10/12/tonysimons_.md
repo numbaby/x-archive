@@ -2,7 +2,15 @@
 
 ## 📅 October 12, 2026
 
-> 6 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 06:45 UTC · @tonysimons_
+
+> Hermes plugins just got a real home. 🪽 Nous pulled the official ones into one place. Home Assistant. Spotify. Blender. Snyk. TouchDesigner. Memory Wiki. Claude DirectSDK. And here&apos;s the part people are gonna miss: Each one updates on its OWN. No waiting on a full Hermes release. Save this for your next setup. 👇 Hermes just got a whole lot more expandable. 🔥 Nous Research has brought its official Hermes plugins together in one place, giving users a growing collection of capabilities they can install as needed. Here&apos;s what&apos;s already available: • Home Assistant: Smart home automation • Sp…
+
+🔗 [View original post](https://x.com/tonysimons_/status/2109535790283812879)
 
 ---
 

@@ -128917,6 +128917,13 @@
     "fingerprint": "3a26878016e9937472bc0c180b75802f4589e2ddb31d307ff27f12f180f70ee6",
     "media": []
   },
+  "2109468200866074817": {
+    "account": "ylecun",
+    "date": "2026-10-12",
+    "file": "data/posts/2026/10/2026-10-12.jsonl",
+    "fingerprint": "9bb4313d838951323bb23799cbb3109b754f8ea4605294b5d3501304eeeb02af",
+    "media": []
+  },
   "2109469969117241696": {
     "account": "tonysimons_",
     "date": "2026-10-12",
@@ -129026,6 +129033,13 @@
     "date": "2026-10-12",
     "file": "data/posts/2026/10/2026-10-12.jsonl",
     "fingerprint": "b8a5ac4707c53964b737d95d11fb57b4047631630164a723ebda4fdbb0024036",
+    "media": []
+  },
+  "2109535790283812879": {
+    "account": "tonysimons_",
+    "date": "2026-10-12",
+    "file": "data/posts/2026/10/2026-10-12.jsonl",
+    "fingerprint": "532f62d2d43cb0a209f34810cbca327c2a9ef4932193d8f22bbd9edf273f5c6f",
     "media": []
   }
 }
