@@ -2,7 +2,17 @@
 
 ## 📅 October 12, 2026
 
-> 7 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 09:06 UTC · @tonysimons_
+
+> Some people use ChatGPT for quick answers. Me? I just spent 36 minutes on the phone with an orange fuzzball in a tuxedo. Forget token limits. The dotfather and I need unlimited minutes. 😂
+
+![Some people use ChatGPT for quick answers. Me? I just spent 36 minutes on the phone with an orange fuzzball in a tuxedo. Forget token limits. The dotfather and I need unlimited minutes. 😂](../../../../assets/images/2026/10/12/2109571273638748355-1.jpg)
+
+🔗 [View original post](https://x.com/tonysimons_/status/2109571273638748355)
 
 ---
 

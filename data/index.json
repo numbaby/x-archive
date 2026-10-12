@@ -129041,5 +129041,18 @@
     "file": "data/posts/2026/10/2026-10-12.jsonl",
     "fingerprint": "532f62d2d43cb0a209f34810cbca327c2a9ef4932193d8f22bbd9edf273f5c6f",
     "media": []
+  },
+  "2109571273638748355": {
+    "account": "tonysimons_",
+    "date": "2026-10-12",
+    "file": "data/posts/2026/10/2026-10-12.jsonl",
+    "fingerprint": "80cb914b15f3e289a6fd502760fcca3dbfcf80eccf56897e7c24922285ae7ae0",
+    "media": [
+      {
+        "local_path": "assets/images/2026/10/12/2109571273638748355-1.jpg",
+        "sha256": "1ab4c127ba9f7d3beec6653f0f0702c4c19bbbcbdef2f9ff5d9795016a3c529d",
+        "source_url": "https://pbs.twimg.com/tweet_video_thumb/HUZfMTPWoAEJSXy.jpg"
+      }
+    ]
   }
 }
