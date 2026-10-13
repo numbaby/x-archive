@@ -129593,5 +129593,19 @@
     "file": "data/posts/2026/10/2026-10-12.jsonl",
     "fingerprint": "4ad353effff01d47311f91e5c9b7c4c638dad413a9405645378de7c030ad2258",
     "media": []
+  },
+  "2109797444204572880": {
+    "account": "swyx",
+    "date": "2026-10-13",
+    "file": "data/posts/2026/10/2026-10-13.jsonl",
+    "fingerprint": "f7c04893572d866bb3caa6eec1dd1121704198d052c0a396774d2dd4c381b221",
+    "media": []
+  },
+  "2109803903256502307": {
+    "account": "elonmusk",
+    "date": "2026-10-13",
+    "file": "data/posts/2026/10/2026-10-13.jsonl",
+    "fingerprint": "ececdd57522796f0e5ac6e450767d5b126d4026ddc8030e03002b9ae911bb1d6",
+    "media": []
   }
 }
