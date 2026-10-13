@@ -2,7 +2,15 @@
 
 ## 📅 October 13, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 02:44 UTC · @swyx
+
+> @cjav_dev @aiDotEngineer @ricmac @latentspacepod our workshop writeup is live now! https://x.com/latentspacepod/status/2109713951604826153?s=20 At AI Engineer New York, Anthropic&apos;s @cjav_dev &amp; @HarrisonStall from @ClaudeDevs drew on lessons from Unix and Linux to explain how agents can tackle bigger projects without overwhelming developers. https://www.latent.space/p/claude-dynamic-workflows
+
+🔗 [View original post](https://x.com/swyx/status/2109837651893485844)
 
 ---
 
