@@ -2,7 +2,23 @@
 
 ## 📅 October 13, 2026
 
-> 10 post(s) archived.
+> 12 post(s) archived.
+
+---
+
+### 🕐 22:30 UTC · @tunguz
+
+> Doom with human characteristics.
+
+🔗 [View original post](https://x.com/tunguz/status/2110136154347720931)
+
+---
+
+### 🕐 22:18 UTC · @tunguz
+
+> ok, it’s official: we are all ngmi .@POTUS: &quot;It&apos;s going to all work out. You know why? It always does.&quot;
+
+🔗 [View original post](https://x.com/tunguz/status/2110132985395818915)
 
 ---
 

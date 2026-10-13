@@ -2,7 +2,17 @@
 
 ## 📅 October 13, 2026
 
-> 6 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 22:16 UTC · @_akhaliq
+
+> Fish Audio Drama 3 is here, and you can already try it on our SGLang Omni-powered Hugging Face Space! https://huggingface.co/spaces/fishaudio/Drama-3 I spent some time playing with it today. Just upload a short reference audio clip, provide its transcript, and type a completely new sentence. Drama 3 will generate that sentence in the reference voice. Naturally, I tested it with a line about Southern California. 😂 (I deeply love my home in SoCal, Irvine, close to Laguna Beach and @UCIrvine ) Huge thanks to @_akhaliq for helping us launch the Space and working with us to make the UI more intuitive. We went back and forth on the instructions and user experience, and AK was incredibly responsive and helpful throughout the process! And a massive thank-you to @FishAudio for releasing Drama 3 with open weights. I love seeing powerful speech models become something the community can actually run, experiment with, optimize, and build upon. Open weights and open inference infrastructure are a great combination. We have also prepared a full SGLang Omni cookbook covering deployment, voice cloning, streaming, multi-speaker generation, and the HTTP API. Please give our Space a try and let us know what you think. Feedback and contributions are always welcome! Cookbook: https://sgl-project.github.io/sglang-omni/cookbook/fishaudio_drama3.html GitHub: https://github.com/sgl-project/sglang-omni Also, though I&apos;ve said this several times, I have to say that we spent half a year bringing everything back to life, and I really appreciate everyone along the way. SGLang Omni team: Chenyang Zhao, Jingwen Gu, Shenggui Li, Richard Wang, Yichi Zhang, Xuesong Ye, Jiaxin Deng, Ratish P, Jiaxuan Luo, Xinyu Lu, Wenyao Gao, Ao Sun, Jintao Quaige Li, Yuhao Chen, Yuhan Zhou, Xuxiang Tian, Ruoyi Zhang, Junnan Li, Yixiao Zeng, Chenchen Hong, Huapeng Zhou, Yang Gao, Chaoye Fei, Yiyang Zh, Kang, Yitian Gong, Yuan Luo, Hao Jin, Yifei Gao, Gaokai Zhang, Lifan Shen, Hui Shen, Kejing Xia, Jinxin Li, Dongming Shen, Jun Liu, Yue Yin, Zhihao Guo, Jisen Li, Ruoyu He, Xuanyi Li, Chenye Zhu, Liang Zhen, Xiaodong Ye, Yizhi Zhen, Kaizuo Li, Chonghan Liu, Wei Guan, Zhuofeng Li FishAudio Team: Shijia Liao, Shidong Li, Xuehao Yang, Jiahua Liu $52M seed round. 15M+ users. But this is what we&apos;re most proud of yet. Introducing Drama 3: the most emotive and controllable TTS model in the world And yes, it&apos;s open-weight. You can now control how even a single word should sound, change its tone, and shift your voice mid-sente…
+
+![Fish Audio Drama 3 is here, and you can already try it on our SGLang Omni-powered Hugging Face Space! https://huggingface.co/spaces/fishaudio/Drama-3 I spent some time playing with it today. Just uplo](../../../../assets/images/2026/10/13/2110132600421675260-1.jpg)
+
+🔗 [View original post](https://x.com/GenAI_is_real/status/2110132600421675260)
 
 ---
 

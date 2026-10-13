@@ -2,7 +2,27 @@
 
 ## 📅 October 13, 2026
 
-> 5 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 21:36 UTC · @AiEvolutio58513
+
+> I&apos;m showing my exact AI newsletter workflow live on Nov 12 (free). Here&apos;s what you&apos;ll see: 1. How I collect a week of ideas in one doc 2. What I let ChatGPT draft, and what I don&apos;t 3. How Claude checks the draft, plus a real error it caught 4. Where I edit and sign off 5. How the email gets built from my last edition 6. My final check before it sends Then I&apos;ll run the copy workflow live. I&apos;m also sharing my starter prompts, brief template, build instructions, and final checklist. Same event: Amy Porterfield, Nancy Harhut, Kath Pay, and more. Free, virtual, 2 days. Free spot: link in the reply.
+
+![I&apos;m showing my exact AI newsletter workflow live on Nov 12 (free). Here&apos;s what you&apos;ll see: 1. How I collect a week of ideas in one doc 2. What I let ChatGPT draft, and what I don&apos;t](../../../../assets/images/2026/10/13/2110122644297388111-1.png)
+
+🔗 [View original post](https://x.com/ecomchasedimond/status/2110122644297388111)
+
+---
+
+### 🕐 19:48 UTC · @AiEvolutio58513
+
+> 5 AI Prompts That Make Your Emails More Money:
+
+![5 AI Prompts That Make Your Emails More Money:](../../../../assets/images/2026/10/13/2110095433242665208-1.png)
+
+🔗 [View original post](https://x.com/ecomchasedimond/status/2110095433242665208)
 
 ---
 

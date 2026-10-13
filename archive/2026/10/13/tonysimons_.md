@@ -2,7 +2,27 @@
 
 ## 📅 October 13, 2026
 
-> 13 post(s) archived.
+> 15 post(s) archived.
+
+---
+
+### 🕐 22:37 UTC · @tonysimons_
+
+> “Rebellion to tyrants is obedience to God.” 🪽
+
+![“Rebellion to tyrants is obedience to God.” 🪽](../../../../assets/images/2026/10/13/2110137967792521573-1.jpg)
+
+🔗 [View original post](https://x.com/tonysimons_/status/2110137967792521573)
+
+---
+
+### 🕐 20:07 UTC · @tonysimons_
+
+> At this point, @tonysimons isn&apos;t a username. It&apos;s an archaeological site. 💀 Almost 10 YEARS without a post. 𝕏, it&apos;s time to bring that handle out of retirement.
+
+![At this point, @tonysimons isn&apos;t a username. It&apos;s an archaeological site. 💀 Almost 10 YEARS without a post. 𝕏, it&apos;s time to bring that handle out of retirement.](../../../../assets/images/2026/10/13/2110100183241617692-1.png)
+
+🔗 [View original post](https://x.com/tonysimons_/status/2110100183241617692)
 
 ---
 
