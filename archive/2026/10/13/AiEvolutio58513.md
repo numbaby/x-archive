@@ -2,7 +2,23 @@
 
 ## 📅 October 13, 2026
 
-> 1 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 14:02 UTC · @AiEvolutio58513
+
+> Reinforcement learning taught this robot to run in a way no human does, and there&apos;s a reason for it. People swing their arms mostly to cancel the twist that every stride sends through the torso. On a robot, the arm is motors, gears and wiring, and swinging it hard means high torque again and again for an entire lap. The forward lean moves the center of mass out in front of the feet, where speed wants it. For a two-legged robot, that means less effort spent staying upright and more of every step turned into forward motion. Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2110008207842422985)
+
+---
+
+### 🕐 12:58 UTC · @AiEvolutio58513
+
+> Jensen Huang was asked about AI labs distilling each other&apos;s models. His answer: “That’s called competition. You’re allowed to test somebody else’s products all you want.” Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2109992122216788399)
 
 ---
 

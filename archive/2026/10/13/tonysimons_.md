@@ -2,7 +2,23 @@
 
 ## 📅 October 13, 2026
 
-> 4 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 14:01 UTC · @tonysimons_
+
+> What&apos;s the most tokens you&apos;ve ever burned on something that turned out to be a one-line fix? I&apos;ll go first. Too many. 😂
+
+🔗 [View original post](https://x.com/tonysimons_/status/2110007964882948595)
+
+---
+
+### 🕐 12:32 UTC · @tonysimons_
+
+> Agents apologizing to other agents. We&apos;ve officially made it. 😂 @thedatabunny has Hermes Agent on one side and a Grok Bot Chief of Staff on the other, and they&apos;re actually talking to each other. Hermes + Grok Bot is still the combo I&apos;d bet on. 🪽 My hermes agent apologizing to my Grok Bot LOL
+
+🔗 [View original post](https://x.com/tonysimons_/status/2109985650812301665)
 
 ---
 

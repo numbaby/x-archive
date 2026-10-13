@@ -2,7 +2,23 @@
 
 ## 📅 October 13, 2026
 
-> 3 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 12:25 UTC · @tunguz
+
+> Mostly checks out, I&apos;ve been to 7/8 of those. WSJ just released a list of top towns for founders to start a company: 1) Palo Alto, CA 2) East Palo Alto, CA 3) Fremont, CA 4) San Jose, CA 5) Cupertino, CA 6) Go to prison (no rent or food costs and more time to focus on AI) 7) Mountain View, CA 8) Sunnyvale, CA accurate?
+
+🔗 [View original post](https://x.com/tunguz/status/2109983895219286211)
+
+---
+
+### 🕐 12:23 UTC · @tunguz
+
+> metal-graph 0.1.1 is out! Another graph algorithm sped-up on Apple Silicon to a ludicrous degree. Go check it out. metal-graph 0.1.1 is out! ⚡ Millions of links. Hub and authority scores in milliseconds. This update brings HITS graph ranking to Apple Silicon GPUs through native Metal kernels, with Python and C APIs. Here are the M4 Max results. 🧵 1/7
+
+🔗 [View original post](https://x.com/tunguz/status/2109983391752065163)
 
 ---
 
