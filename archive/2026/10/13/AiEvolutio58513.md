@@ -2,7 +2,25 @@
 
 ## 📅 October 13, 2026
 
-> 3 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 17:45 UTC · @AiEvolutio58513
+
+> I came across a company called @ZyG_Edge doing something pretty wild: predicting whether an ecom brand with proven early success can grow 10x and become a category leader. And then executing that growth end to end. What caught my attention is the model they’ve built: with around $10K in live testing, they can assess a brand’s potential to scale. For a brand already selling $1M+ a year, that’s a pretty valuable question to answer: you know people want your product, but how big could this become, and how do you get there? First, ZyG’s AI analyzes your market, competitors, ads, reviews, pricing, and more to identify your strongest growth opportunities. That’s your ZyGnal, and it’s free. Then comes the Marketability Test. ZyG builds and tests positioning, creative, offers, and storefronts with real customers, using around $10K in media spend. And ZyG is now offering a fully funded test - $10K - to the 500 most promising brands, based on their ZyGnal. Their model uses the results - CAC, ROAS, predicted LTV, and other key metrics - to assess what your economics could look like at scale. Those findings feed into your ZyG Score, giving you a clearer picture of your breakout potential. And for brands with strong results, ZyG can then execute the growth end-to-end, from storefront optimization and creative to customer acquisition and retention. With a free ZyGnal and an opportunity for a fully-funded Marketability Test, it seems like a pretty obvious win for most brands. If your brand does $1M+ in annual online sales with a $40+ AOV, start with your free ZyGnal here: https://www.zyg.com/zyg-score?utm_source=linkedin&amp;utm_medium=influencer&amp;utm_campaign=Chase&amp;utm_term=Oct13 Media
+
+🔗 [View original post](https://x.com/ecomchasedimond/status/2110064485906145307)
+
+---
+
+### 🕐 15:58 UTC · @AiEvolutio58513
+
+> Your ESP is charging you extra for its own bugs. It just calls it priority support. Read that line item again. It&apos;s a company telling you on its own pricing page that the product breaks often enough to monetize the rescue. So help became a tier. And you find out which tier you&apos;re on at the worst possible moment. One thing I&apos;ve noticed across ecom tools: the companies confident in the product stop charging for the rescue. @omnisend puts 24/7 support on every plan, including the free one. A simple exercise before your next renewal: open your current ESP&apos;s pricing page and find the word support. If it sits inside a tier, you&apos;re not paying for software. You&apos;re paying for permission to ask a question. Omnisend answers on every plan. Go see what that looks like: https://www.omnisend.com/customer-support/?utm_source=chase
+
+![Your ESP is charging you extra for its own bugs. It just calls it priority support. Read that line item again. It&apos;s a company telling you on its own pricing page that the product breaks often eno](../../../../assets/images/2026/10/13/2110037418397335971-1.jpg)
+
+🔗 [View original post](https://x.com/ecomchasedimond/status/2110037418397335971)
 
 ---
 

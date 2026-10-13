@@ -2,7 +2,47 @@
 
 ## 📅 October 13, 2026
 
-> 5 post(s) archived.
+> 10 post(s) archived.
+
+---
+
+### 🕐 19:20 UTC · @tunguz
+
+> I’m waiting for them to isolate peptides from radioactive spiders that can give me superpowers. BREAKING: A radioactive peptide that targets cancer cells and delivers radiation to destroy them has just succeeded in a Phase 3 trial.
+
+🔗 [View original post](https://x.com/tunguz/status/2110088357770416625)
+
+---
+
+### 🕐 15:55 UTC · @tunguz
+
+> Do anything to healthmaxx over the next 8-10 years. Go into debt if you have to. Cancer will be cured with the help of superintelligence but is still 8-10 years in the future. These cures aren’t usually immediately available due to regulatory &amp; other physical-world constraints-so it’s really stupid to do risky things with your life. Also, smoking is just bad!
+
+🔗 [View original post](https://x.com/tunguz/status/2110036696406630679)
+
+---
+
+### 🕐 15:29 UTC · @tunguz
+
+> Go for a walk. Go for a walk. Go for a walk. You are one walk away from a happier day.
+
+🔗 [View original post](https://x.com/tunguz/status/2110030162851201263)
+
+---
+
+### 🕐 15:12 UTC · @tunguz
+
+> Gemini
+
+🔗 [View original post](https://x.com/tunguz/status/2110025812585947360)
+
+---
+
+### 🕐 15:02 UTC · @tunguz
+
+> I never became a real programmer, and now it seems I’ll never have to. The Singularity: 1950: Real programmers wire their own circuits. 1985: Real programmers write their own assembly. 2010: Real programmers write their own C. 2026: Real programmers write their own Python. 2027: Real programmers write their own prompts.
+
+🔗 [View original post](https://x.com/tunguz/status/2110023256044441666)
 
 ---
 

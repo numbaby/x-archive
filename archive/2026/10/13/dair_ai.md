@@ -2,7 +2,25 @@
 
 ## 📅 October 13, 2026
 
-> 2 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 19:00 UTC · @dair_ai
+
+> Learn to build custom harnesses, folks! Here is an impressive paper showing the impact of a good custom harness on long-context work. GLM-5.3-Flash goes from 4.4% to 61.1% exact match on OfficeQA Pro V2 with the same model. The authors report that the gain comes from the harness. The model-agnostic harness name is LongHarness, built for corpora of 100M tokens and more. Why it works: Standard agent harnesses keep evidence and conclusions mixed into one growing chat history. Retrieval keeps expanding without closing the actual gap, and corrections stop reaching the answer. LongHarness stores both as explicit state. Open conclusions decide what to retrieve next, and each new piece of evidence confirms or revises the conclusions that asked for it. On the same benchmark, it beats Claude Code by 12.1 points on V1 and Codex by 18.9 points on V2. https://arxiv.org/abs/2610.13075 Chat with Paper: https://academy.dair.ai/papers/longharness-advancing-agentic-reasoning-over-100m-token-corpora-via-stateful-evi-2610.13075
+
+![Learn to build custom harnesses, folks! Here is an impressive paper showing the impact of a good custom harness on long-context work. GLM-5.3-Flash goes from 4.4% to 61.1% exact match on OfficeQA Pro ](../../../../assets/images/2026/10/13/2110083302728323346-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2110083302728323346)
+
+---
+
+### 🕐 16:20 UTC · @dair_ai
+
+> This is my new favorite way to keep up with AI papers. I turn my curated papers into a 2-minute spoken technical briefing with @FishAudio Drama 3, straight from Codex. In the demo, I took one of my favorite recent NVIDIA papers and built a small skill that reads the full paper, writes the script, and sends it to the Fish Audio API with a voice I picked. What I like about Drama 3 is that you direct the delivery in plain language, like [calm news-anchor delivery] or [slight excitement]. It makes a dense technical summary easy to follow. Now I catch up on papers on the road or while exercising. Just incredible how good this is. It has the right levers I can tune to stay engaged with the audio summaries. The voice you hear in the clip is AI-generated with Drama 3. Let me know if you would like access to the skill. Media $52M seed round. 15M+ users. But this is what we&apos;re most proud of yet. Introducing Drama 3: the most emotive and controllable TTS model in the world And yes, it&apos;s open-weight. You can now control how even a single word should sound, change its tone, and shift your voice mid-sente…
+
+🔗 [View original post](https://x.com/omarsar0/status/2110043016094212546)
 
 ---
 

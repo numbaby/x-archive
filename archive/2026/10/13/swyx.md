@@ -2,7 +2,37 @@
 
 ## 📅 October 13, 2026
 
-> 12 post(s) archived.
+> 16 post(s) archived.
+
+---
+
+### 🕐 17:50 UTC · @swyx
+
+> 🆕 How to Kill Your SaaS https://youtu.be/zlD-CkLVKtU A lot of people talk about the death of SaaS but mostly in theoretical terms. We took a real $43,000/year SaaS we use and launched a global hackathon to clone it in a weekend, with both AI and REAL HUMAN evals, using any models any harness. 72 submissions, a lot of manual evals and ~100B tokens later, here are the results In this special @latentspacepod edition we share the data collected, what&apos;s still hard about killing nontrivial, midtier SaaS, and reveal the winners of the $10,000 Kill My SaaS contest with qualitative interviews!
+
+![🆕 How to Kill Your SaaS https://youtu.be/zlD-CkLVKtU A lot of people talk about the death of SaaS but mostly in theoretical terms. We took a real $43,000/year SaaS we use and launched a global hackath](../../../../assets/images/2026/10/13/2110065576764686421-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2110065576764686421)
+
+---
+
+### 🕐 16:00 UTC · @swyx
+
+> Laptops open across the room. Yesterday at AI Engineer New York, @cjav_dev + Harrison Stall of @AnthropicAI on Claude Managed Agents. Claude plans the work, then coordinates the agents. Workshop recap: https://www.latent.space/p/claude-dynamic-workflows #AIEngineerNY
+
+![Laptops open across the room. Yesterday at AI Engineer New York, @cjav_dev + Harrison Stall of @AnthropicAI on Claude Managed Agents. Claude plans the work, then coordinates the agents. Workshop recap](../../../../assets/images/2026/10/13/2110037853975859576-1.jpg)
+
+🔗 [View original post](https://x.com/aiDotEngineer/status/2110037853975859576)
+
+---
+
+### 🕐 13:33 UTC · @swyx
+
+> 🔴LIVE at AIE New York Day 2 Aaron Linsky (@linsky) and Sam Green from Bridgewater (@Bridgewater) on how they built the Vault: a repository for unstructured and structured data for ‘investor agents’. #AIENYC
+
+![🔴LIVE at AIE New York Day 2 Aaron Linsky (@linsky) and Sam Green from Bridgewater (@Bridgewater) on how they built the Vault: a repository for unstructured and structured data for ‘investor agents’. #](../../../../assets/images/2026/10/13/2110000881819431067-1.jpg)
+
+🔗 [View original post](https://x.com/NehallAgrawal/status/2110000881819431067)
 
 ---
 
@@ -31,6 +61,16 @@
 ![Live from New York: AI Engineer NYC! https://www.youtube.com/live/akEqiXFo3GM - @Bridgewater Head of Product Eng - @AnthropicAI MD FinServ - @twosigma SVP Arch - @CapitalOne Principal - @ArizeAI CPO -](../../../../assets/images/2026/10/13/2109994269800808626-1.jpg)
 
 🔗 [View original post](https://x.com/aiDotEngineer/status/2109994269800808626)
+
+---
+
+### 🕐 13:05 UTC · @swyx
+
+> haha @businessbarista opened the @aiDotEngineer day one as an MC, and just said &quot;This event is like your X timeline, on steroids in IRL&quot; 😂 Couldn&apos;t be more true! So many moots here! Day 1 - keynotes! Let&apos;s GO! I tell all my friends, apply to speak at @aiDotEngineer ! The speakers dinner and the speakers lounge are the highest density of AI talent and AI conversation anywhere in the world! Amazing first day in NY today! Excited to see the keynote tomorrow!
+
+![haha @businessbarista opened the @aiDotEngineer day one as an MC, and just said &quot;This event is like your X timeline, on steroids in IRL&quot; 😂 Couldn&apos;t be more true! So many moots here! Day](../../../../assets/images/2026/10/13/2109993822394503227-1.jpg)
+
+🔗 [View original post](https://x.com/altryne/status/2109993822394503227)
 
 ---
 
