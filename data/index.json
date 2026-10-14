@@ -130786,5 +130786,46 @@
     "file": "data/posts/2026/10/2026-10-13.jsonl",
     "fingerprint": "beba93affd5a8dbe69ce3fc1e30d158b15cc1cc30fb1d5678cbb7381db4588bd",
     "media": []
+  },
+  "2110160814178988413": {
+    "account": "tonysimons_",
+    "date": "2026-10-14",
+    "file": "data/posts/2026/10/2026-10-14.jsonl",
+    "fingerprint": "fb14e6a4d8af15ceec7cd4207e94ee961b055156e3720e682876de589ba5842c",
+    "media": []
+  },
+  "2110165335085080935": {
+    "account": "tunguz",
+    "date": "2026-10-14",
+    "file": "data/posts/2026/10/2026-10-14.jsonl",
+    "fingerprint": "4f05648aff24e1346c9b87923940c50a1aec0550ad9e7cfad845494176bd5cb3",
+    "media": []
+  },
+  "2110165986926072019": {
+    "account": "emollick",
+    "date": "2026-10-14",
+    "file": "data/posts/2026/10/2026-10-14.jsonl",
+    "fingerprint": "0c6776a33ff8636eac50e073f9484852e243123935bd117798f8ae644e514d22",
+    "media": []
+  },
+  "2110170171297927383": {
+    "account": "tunguz",
+    "date": "2026-10-14",
+    "file": "data/posts/2026/10/2026-10-14.jsonl",
+    "fingerprint": "457a403348cb5e3f1d82586e4a7fe214895a4c854f294c870aeb19aeac12d913",
+    "media": [
+      {
+        "local_path": "assets/images/2026/10/14/2110170171297927383-1.jpg",
+        "sha256": "4e0bc8404994eba9f93ff9eb95fa69f7f6024a97b4b37edf683d9203e13e2492",
+        "source_url": "https://pbs.twimg.com/media/HUjUloyXoAA-6mz.jpg?name=orig"
+      }
+    ]
+  },
+  "2110171841751097852": {
+    "account": "emollick",
+    "date": "2026-10-14",
+    "file": "data/posts/2026/10/2026-10-14.jsonl",
+    "fingerprint": "e01e05cc2e641663a587e81850b1606aefd47aa8c8dd05c0bd9cda65069f38f0",
+    "media": []
   }
 }
