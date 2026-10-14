@@ -2,7 +2,15 @@
 
 ## 📅 October 14, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 11:48 UTC · @tunguz
+
+> Can’t wait! Roadster event streaming live this Thursday at 7:55pm CST
+
+🔗 [View original post](https://x.com/tunguz/status/2110336958559903955)
 
 ---
 

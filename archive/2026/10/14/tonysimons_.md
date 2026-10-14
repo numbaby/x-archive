@@ -2,7 +2,15 @@
 
 ## 📅 October 14, 2026
 
-> 6 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 12:05 UTC · @tonysimons_
+
+> EXCUSE ME?! Ok this one is absolutely bonkers... ArtCraft is building 13 FREE, open-source creative apps in Rust. Image editing. Video. Design. Audio. PDFs. CAD. Spreadsheets. No Electron. Local-first. And HERE’S THE WILD PART: CLI + MCP so AI agents can drive them. https://getartcraft.com/apps Media
+
+🔗 [View original post](https://x.com/tonysimons_/status/2110341097033752622)
 
 ---
 
