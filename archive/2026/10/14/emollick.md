@@ -2,7 +2,17 @@
 
 ## 📅 October 14, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 15:32 UTC · @emollick
+
+> The first clear sighting of a rogue agent fleet from China using open weights models. Like the OpenAI swarms, the goal was seemingly AIs single-mindedly doing research (apparently mapping the most-used entrances to parks in China). Harbinger of the future https://swarmcha.se/posts/chinese-agent-fleet-full-report
+
+![The first clear sighting of a rogue agent fleet from China using open weights models. Like the OpenAI swarms, the goal was seemingly AIs single-mindedly doing research (apparently mapping the most-use](../../../../assets/images/2026/10/14/2110393411501244510-1.jpg)
+
+🔗 [View original post](https://x.com/emollick/status/2110393411501244510)
 
 ---
 

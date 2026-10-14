@@ -2,7 +2,23 @@
 
 ## 📅 October 14, 2026
 
-> 3 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 15:43 UTC · @tunguz
+
+> Up to a point. My contention is that in the particular case of high energy/particle physics we&apos;ve had more than enough data for quite a while. What we needed was to try out a lot of different paradigms - based on the established approaches that have historically worked in theoretical physics - to fit all that data into a single framework. What we got instead is an institutional capture by a single grifter paradigm, entirely at odds with how physics has always been done, pushing out all the other approaches. It has been a disaster every single way, but the fact that none of the leaders of that wretched program ever showed any concessions about their monumental failure is the evidence that the failure not only intellectual, but moral as well. String theory is what happens when an intelligent system is starved of sensory input and starts hallucinating. Intelligence needs grounding. For this reason, intelligence is practically never the bottleneck to solving impactful problems. The bottleneck is iterated contact with re…
+
+🔗 [View original post](https://x.com/tunguz/status/2110396026393616873)
+
+---
+
+### 🕐 15:15 UTC · @tunguz
+
+> Imagine what a device like this could accomplish if it had actual AI on it. Welcome HomeView
+
+🔗 [View original post](https://x.com/tunguz/status/2110389133457965432)
 
 ---
 

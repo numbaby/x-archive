@@ -2,7 +2,15 @@
 
 ## 📅 October 14, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 14:40 UTC · @omarsar0
+
+> Own your intelligence stack, folks! If you train or fine-tune your own models, you also need a way to prove they are yours once the weights are out in the world. Model fingerprinting does this. The Fingerprinting Leaderboard from @Sentient_found is an open benchmark for these methods. It scores each one on how much model quality it keeps, how well it survives removal attempts, and how reliably the owner can detect it. Models cost millions to train and minutes to copy. Fine-tuning and distillation can erase where they came from. Introducing the Fingerprinting Leaderboard, an open benchmark for model provenance — built so the proof lives in the weights, not the paperwork. https://fingerprint.sen…
+
+🔗 [View original post](https://x.com/omarsar0/status/2110380306062508542)
 
 ---
 

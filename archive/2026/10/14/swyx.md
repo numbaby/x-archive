@@ -2,7 +2,17 @@
 
 ## 📅 October 14, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 14:48 UTC · @swyx
+
+> beautiful essay in this morning’s newspaper from Ben - read all about it https://dev.to/dailycontext/design-for-churn-5c6h Live from @aidotengineer New York!
+
+![beautiful essay in this morning’s newspaper from Ben - read all about it https://dev.to/dailycontext/design-for-churn-5c6h Live from @aidotengineer New York!](../../../../assets/images/2026/10/14/2110382190093836568-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2110382190093836568)
 
 ---
 

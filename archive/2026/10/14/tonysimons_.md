@@ -2,7 +2,25 @@
 
 ## 📅 October 14, 2026
 
-> 9 post(s) archived.
+> 11 post(s) archived.
+
+---
+
+### 🕐 15:01 UTC · @tonysimons_
+
+> 🚨 STOP WHAT YOU ARE DOING IMMEDIATELY hermes update The Threshold Release is here! 🪽 Hermes Agent v0.22.0: The Threshold Release Changelog below
+
+🔗 [View original post](https://x.com/tonysimons_/status/2110385525584744946)
+
+---
+
+### 🕐 14:57 UTC · @tonysimons_
+
+> If you&apos;re running Hermes to drive stuff like this, I built a free iPhone app to keep an eye on it. Hermes Fleet lets you check on your agents, approve requests, and see what they&apos;re working on from your phone. Free and open source. 🪽 https://hermes-fleet.aiowa.dev
+
+![If you&apos;re running Hermes to drive stuff like this, I built a free iPhone app to keep an eye on it. Hermes Fleet lets you check on your agents, approve requests, and see what they&apos;re working ](../../../../assets/images/2026/10/11/2109344247350779955-1.jpg)
+
+🔗 [View original post](https://x.com/tonysimons_/status/2110384447497388256)
 
 ---
 
