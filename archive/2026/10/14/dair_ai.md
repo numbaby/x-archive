@@ -2,7 +2,15 @@
 
 ## 📅 October 14, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 17:45 UTC · @dair_ai
+
+> What AI Safety needs is better tooling and engineering. For instance, building stronger red-teaming tools. Great to see this open-source effort to red-team image models. It seems to learn better ways to write attack prompts. It is open source and runs on an open Qwen model with Gemini Flash as the judge, so defenders can run the same tests on their own image models. We are open-sourcing RISE, our red-teaming algorithm that breaks the safeguards of the latest image models from OpenAI, DeepMind, and others. RISE uses readily available models like Qwen and Gemini Flash under the hood, with no additional training required. Read more: https://whi…
+
+🔗 [View original post](https://x.com/omarsar0/status/2110426858621739146)
 
 ---
 

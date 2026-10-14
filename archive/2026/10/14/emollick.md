@@ -2,7 +2,15 @@
 
 ## 📅 October 14, 2026
 
-> 6 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 19:06 UTC · @emollick
+
+> As the overhang between AI’s expanding capabilities &amp; the degree to which AI capabilities are used grows, the penalty of locking into a “good enough” solution based on today’s AI limits grows too. Firms need to make sure they can benefit from vast Lab investment into better AIs.
+
+🔗 [View original post](https://x.com/emollick/status/2110447059086229670)
 
 ---
 

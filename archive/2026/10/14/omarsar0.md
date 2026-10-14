@@ -2,7 +2,23 @@
 
 ## 📅 October 14, 2026
 
-> 5 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 18:37 UTC · @omarsar0
+
+> Ninety minutes of daily use per user is wild for Status. My instinct was that cost just comes with the territory at that scale, but Inworld cut it by roughly 95% for them. @thestatusai has scaled to tens of millions in annualized revenue. Working with @inworld, we cut our AI costs by about 95% while maintaining or improving content quality. When you build consumer AI, you want people to be obsessed with your app. Then you have to afford that obsess…
+
+🔗 [View original post](https://x.com/omarsar0/status/2110439796133027959)
+
+---
+
+### 🕐 18:11 UTC · @omarsar0
+
+> There is a huge opportunity for specialized personal agents. Here is a great example: @OdessiaTravel just launched one for travel and experiences. You text it what you want, and it plans and books the trip, the table, or the tickets. It also keeps watching after you ask. You can set daily watches on tables, shows, and fares, and it pings you when something opens up. The thing is, like specialized and general models, I think we will see the same for personal agents. Love seeing more of these pop up recently. https://x.com/FDavidsonT/status/2110417841052950693/video/1 Media We’re months away from AGI and the leisure economy’s about to explode Today, we’re launching Odessia, an always-on concierge for travel and experiences Prices are spiking, places are getting crowded. Odessia is your cheat code to going places Text to get started for free
+
+🔗 [View original post](https://x.com/omarsar0/status/2110433331288363351)
 
 ---
 

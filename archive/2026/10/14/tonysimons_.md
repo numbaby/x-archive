@@ -2,7 +2,35 @@
 
 ## 📅 October 14, 2026
 
-> 12 post(s) archived.
+> 15 post(s) archived.
+
+---
+
+### 🕐 20:03 UTC · @tonysimons_
+
+> https://github.com/ARahim3/DigUp
+
+![https://github.com/ARahim3/DigUp](../../../../assets/images/2026/10/14/2110461612440347075-1.jpg)
+
+🔗 [View original post](https://x.com/tonysimons_/status/2110461612440347075)
+
+---
+
+### 🕐 20:03 UTC · @tonysimons_
+
+> Spotlight, but it understands what&apos;s IN your files. 🔥 DigUp lets you search your computer for &quot;where they talked about sleep&quot; and it jumps to that moment in a recording. Photos. PDFs. Videos. Even code. 100% on-device. Free and open source. 3.5K stars in under a week.
+
+🔗 [View original post](https://x.com/tonysimons_/status/2110461570258276444)
+
+---
+
+### 🕐 16:59 UTC · @tonysimons_
+
+> If you&apos;re running Hermes Agent, I built a free iPhone app to keep an eye on it. Hermes Fleet lets you check on your agents, approve requests, and see what they&apos;re working on from your phone. Free and open source. 🪽 @HermesFleet https://hermes-fleet.aiowa.dev
+
+![If you&apos;re running Hermes Agent, I built a free iPhone app to keep an eye on it. Hermes Fleet lets you check on your agents, approve requests, and see what they&apos;re working on from your phone.](../../../../assets/images/2026/10/11/2109344247350779955-1.jpg)
+
+🔗 [View original post](https://x.com/tonysimons_/status/2110415317763825989)
 
 ---
 

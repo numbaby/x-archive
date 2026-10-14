@@ -2,7 +2,23 @@
 
 ## 📅 October 14, 2026
 
-> 21 post(s) archived.
+> 23 post(s) archived.
+
+---
+
+### 🕐 18:33 UTC · @elonmusk
+
+> Try Grok Voice Introducing Grok Voice 3.0, the world’s most intelligent speech-to-speech model. It excels at resolving customer calls, responds in under a second, and costs less than other frontier models.
+
+🔗 [View original post](https://x.com/elonmusk/status/2110438877274259488)
+
+---
+
+### 🕐 16:54 UTC · @elonmusk
+
+> Cool grok bot pretty much replaced dots and muse for running my business... here is why : insanely simple to set up, a MASSIVE plugin library, generous usage. here&apos;s everything i use and what it costs: required ($165/mo + whop&apos;s cut per sale) &gt; money → whop plugin &gt; site → vercel + gi…
+
+🔗 [View original post](https://x.com/elonmusk/status/2110413877024526603)
 
 ---
 
