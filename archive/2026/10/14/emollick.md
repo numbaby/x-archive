@@ -2,7 +2,15 @@
 
 ## 📅 October 14, 2026
 
-> 5 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 15:52 UTC · @emollick
+
+> I really don’t understand the point of the AI slopcomments flooding my posts. At least on LinkedIn they are pushing fake expertise to make their posters look good (it doesn’t, but whatever). But what is gained by dozens of anonymous bots making similar replies to posts like this? The first clear sighting of a rogue agent fleet from China using open weights models. Like the OpenAI swarms, the goal was seemingly AIs single-mindedly doing research (apparently mapping the most-used entrances to parks in China). Harbinger of the future https://swarmcha.se/post…
+
+🔗 [View original post](https://x.com/emollick/status/2110398339690999832)
 
 ---
 

@@ -2,7 +2,31 @@
 
 ## 📅 October 14, 2026
 
-> 2 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 16:16 UTC · @omarsar0
+
+> Another great application of System One models. I think much of what we call hallucination in web agents comes from misreading the page. When a page is flattened to text, a small ✗ in a pricing table disappears, and the agent answers incorrectly with full confidence. Expand Fetch reads the rendered page, returns the underlying data as clean JSON, and keeps a replay of exactly what your agent saw. Introducing Expand Fetch, a new way to scrape and crawl the web. Your agent has never seen the web. No wonder it gets basic questions wrong. Traditional Markdown APIs lose critical details. So we trained two System one models to change that: Iris, a vision model that sees pages l…
+
+🔗 [View original post](https://x.com/omarsar0/status/2110404504118071742)
+
+---
+
+### 🕐 15:55 UTC · @omarsar0
+
+> Agents will do more and more of their work inside systems of record, so those systems need to be built for them. Attio&apos;s new hybrid architecture is one of the cleaner approaches I&apos;ve seen. Agents can query all of Attio&apos;s data in SQL, and the business logic, policies, and compliance rules still apply behind every query. The release also adds data connectors, support for hundreds of millions of records, and Activities in beta. In the age of agents, systems of record have never mattered more. They’ve also never been less prepared for what’s coming. Today, we’re announcing @attio&apos;s hybrid architecture, with the controls of application software at the scale of infrastructure. To agents, Attio looks like a…
+
+🔗 [View original post](https://x.com/omarsar0/status/2110399073794584839)
+
+---
+
+### 🕐 15:46 UTC · @omarsar0
+
+> Multiplayer AI is what powers successful businesses today. It enables self-improving businesses in which human and personalized agents collaborate. @zenzap_chat puts people and AI agents in the same group chat. Each agent connects only to the tools it needs, a human approves key steps, and the team&apos;s conversations build a shared company brain over time. AI is everywhere, but walk into almost any company and work hasn’t changed Meet @Zenzap_chat, the Multiplayer AI platform. Now, people and proactive AI agents are in the same group chats, automating workflows with shared context across business tools and teams Everyone can bring …
+
+🔗 [View original post](https://x.com/omarsar0/status/2110396808203784410)
 
 ---
 

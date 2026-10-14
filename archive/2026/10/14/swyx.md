@@ -2,7 +2,7 @@
 
 ## 📅 October 14, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
 
 ---
 
@@ -13,6 +13,14 @@
 ![beautiful essay in this morning’s newspaper from Ben - read all about it https://dev.to/dailycontext/design-for-churn-5c6h Live from @aidotengineer New York!](../../../../assets/images/2026/10/14/2110382190093836568-1.jpg)
 
 🔗 [View original post](https://x.com/swyx/status/2110382190093836568)
+
+---
+
+### 🕐 14:30 UTC · @swyx
+
+> https://x.com/i/article/2110115006419292160
+
+🔗 [View original post](https://x.com/bernhardsson/status/2110377648572563831)
 
 ---
 

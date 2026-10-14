@@ -2,7 +2,15 @@
 
 ## 📅 October 14, 2026
 
-> 11 post(s) archived.
+> 12 post(s) archived.
+
+---
+
+### 🕐 15:56 UTC · @tonysimons_
+
+> Real question: what&apos;s the smallest local model you&apos;d trust to run an agent loop overnight while you sleep? Not benchmarks. Actually trust.
+
+🔗 [View original post](https://x.com/tonysimons_/status/2110399477274354103)
 
 ---
 

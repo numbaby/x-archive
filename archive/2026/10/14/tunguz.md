@@ -2,7 +2,31 @@
 
 ## 📅 October 14, 2026
 
-> 5 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 16:46 UTC · @tunguz
+
+> People who will be the happiest in the future will be those who are experiencing the greatest positive discrepancy between what they have access to and what their childhood aspirations were. My childhood self in Hungary would be astonished by the world today. Libraries in our pockets. The greatest minds a click away. AI tutors explaining anything in seconds. Human knowledge is within reach to the curious. What a time to be a learner. Never take it for granted.
+
+🔗 [View original post](https://x.com/tunguz/status/2110412058265346556)
+
+---
+
+### 🕐 16:41 UTC · @tunguz
+
+> Yes. It&apos;s not looking good.
+
+🔗 [View original post](https://x.com/tunguz/status/2110410748702736827)
+
+---
+
+### 🕐 16:39 UTC · @tunguz
+
+> Now I know what I&apos;m getting for Christmas. ASML’s official sizzle reel for its $400m+ EUV machine goes hard
+
+🔗 [View original post](https://x.com/tunguz/status/2110410213907988929)
 
 ---
 
