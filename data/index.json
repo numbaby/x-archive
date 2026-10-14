@@ -130868,6 +130868,19 @@
     "fingerprint": "19f013f21cc43a12341c070d9369ff3fe05a589bb06a10d5defe1a3dc680e958",
     "media": []
   },
+  "2110185298726408303": {
+    "account": "ylecun",
+    "date": "2026-10-14",
+    "file": "data/posts/2026/10/2026-10-14.jsonl",
+    "fingerprint": "42c3bc7856af6ae48d41affdd39509f5cc043589683e9082cbc5526072ae77af",
+    "media": [
+      {
+        "local_path": "assets/images/2026/10/14/2110185298726408303-1.jpg",
+        "sha256": "3bb06631d0e582c0c282528856f0a0213c6a23e96127bddaf123b939cd3b2995",
+        "source_url": "https://pbs.twimg.com/card_img/2110054485129142274/pc0gnC-6?format=jpg&name=800x419"
+      }
+    ]
+  },
   "2110192382096679248": {
     "account": "elonmusk",
     "date": "2026-10-14",
