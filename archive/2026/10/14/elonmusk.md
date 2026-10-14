@@ -2,7 +2,15 @@
 
 ## 📅 October 14, 2026
 
-> 9 post(s) archived.
+> 10 post(s) archived.
+
+---
+
+### 🕐 13:09 UTC · @elonmusk
+
+> Grok Imagine can now generate amazing custom music directly for your videos... and it&apos;s incredibly easy to use 🎵 Here&apos;s how to add music: 1. Generate your video in Grok Imagine 2. Click the music icon at the top 3. Select “+ Add music” 4. Describe the music you want....mood, tempo, instruments, vocals or no vocals, or simply write your own prompt 5. Click Generate 6. Preview your generated music 7. Select the section that fits your video 8. Click Apply And the best part is that your generated music is automatically saved to your library, so you can reuse it in future videos too Video generation and custom soundtracks in the same workflow Grok Imagine is now an incredibly powerful tool for creators Media
+
+🔗 [View original post](https://x.com/XFreeze/status/2110357411878027658)
 
 ---
 

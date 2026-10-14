@@ -2,7 +2,15 @@
 
 ## 📅 October 14, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 13:01 UTC · @AiEvolutio58513
+
+> Anthropic CEO Dario Amodei on why he isn&apos;t sold on open source models: “open source is kind of a distraction you still can’t really see what’s happening inside the model, so it’s not truly “free.” Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2110355254059675702)
 
 ---
 
