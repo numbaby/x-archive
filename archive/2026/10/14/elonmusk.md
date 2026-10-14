@@ -2,7 +2,15 @@
 
 ## 📅 October 14, 2026
 
-> 10 post(s) archived.
+> 11 post(s) archived.
+
+---
+
+### 🕐 13:29 UTC · @elonmusk
+
+> Most people think Grok Bot is just a chat window. It&apos;s not. Each bot has its own computer, with its own browser, email inbox and desktop. When I ask it to do something, it goes off and does it. I made a video explaining how it actually works 👇
+
+🔗 [View original post](https://x.com/debs_obrien/status/2110362370342363207)
 
 ---
 

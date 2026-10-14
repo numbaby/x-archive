@@ -2,7 +2,25 @@
 
 ## 📅 October 14, 2026
 
-> 7 post(s) archived.
+> 9 post(s) archived.
+
+---
+
+### 🕐 14:32 UTC · @tonysimons_
+
+> How do you run SEVERAL Hermes agents without them stepping on each other? @witcheer just dropped the clearest answer I&apos;ve seen. Profiles vs separate installs. Subagents vs Kanban tasks. How handoffs actually work. Group chat without bot loops. Save this one. 🪽 several Hermes agents working together: (1) a profile or a separate install for a specialist agent? a profile. each one is an independent Hermes agent with its own config, API keys, memory, sessions and skills. give it a description when you create it, so the Kanban orchestrator …
+
+🔗 [View original post](https://x.com/tonysimons_/status/2110378140576915738)
+
+---
+
+### 🕐 14:30 UTC · @tonysimons_
+
+> Installed. Nice one. Hermes Desktop just got a GitHub-style HEATMAP for AI usage. 🪽 Sessions. Tokens. Models. Tools. Skills. And the new Hermes Activity v0.2.0 can also show provider-reported usage from Codex, OpenCode, CommandCode, and Ollama. This one&apos;s DEFINITELY staying installed. 🔥
+
+![Installed. Nice one. Hermes Desktop just got a GitHub-style HEATMAP for AI usage. 🪽 Sessions. Tokens. Models. Tools. Skills. And the new Hermes Activity v0.2.0 can also show provider-reported usage fr](../../../../assets/images/2026/10/14/2110377713261576324-1.jpg)
+
+🔗 [View original post](https://x.com/MikaelDewabrata/status/2110377713261576324)
 
 ---
 

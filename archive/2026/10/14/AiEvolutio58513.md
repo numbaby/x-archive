@@ -2,7 +2,15 @@
 
 ## 📅 October 14, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 13:58 UTC · @AiEvolutio58513
+
+> Google CEO Sundar Pichai was asked about Sam Altman, Elon Musk, Mark Zuckerberg and Satya Nadella. Only one of them got this kind of praise: &quot;I spent time with Elon maybe two weeks ago... his ability to will future technologies into existence, I think it&apos;s just unparalleled.&quot; Think reusable rockets, Starlink, Neuralink and Grok. Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2110369574353064390)
 
 ---
 
