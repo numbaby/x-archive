@@ -2,7 +2,15 @@
 
 ## 📅 October 14, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 02:20 UTC · @swyx
+
+> this is what talent density means at @aidotengineer - @SydneyScouts runs speakers at AIE!! Media When I tell you @swyx is a theater kid at heart, this is what I mean! Pipes!
+
+🔗 [View original post](https://x.com/swyx/status/2110194074573586607)
 
 ---
 
