@@ -2,7 +2,23 @@
 
 ## 📅 October 14, 2026
 
-> 3 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 05:03 UTC · @tonysimons_
+
+> Asked my Grok @Bot to build me 4 private 𝕏 lists tonight. - Inner Circle. - AI Builders. - AI Creators. - Potential Partners. It pulled 60 days of my real replies and mentions, verified every handle, and told me when it couldn&apos;t prove something instead of making it up. 150+ accounts. Zero follows, zero likes, zero DMs. I add them myself. This is the part people miss. Grok Bot doesn&apos;t just answer. It does the work. 🤘 Media
+
+🔗 [View original post](https://x.com/tonysimons_/status/2110234923084734741)
+
+---
+
+### 🕐 04:45 UTC · @tonysimons_
+
+> Your Hermes agents now have their own usage analytics dashboard, and this thing looks awesome! 👀 Hermes Activity lets you explore a full year of agent activity through a GitHub-style HEATMAP. Track token consumption, estimated costs, model usage, sessions, tools, and skills. And with v0.2.0, you can even see provider-reported usage from Codex, OpenCode, CommandCode, and Ollama. Seriously cool work from the Hermes community! Hermes Desktop just got a GitHub-style HEATMAP for AI usage. 🪽 Sessions. Tokens. Models. Tools. Skills. And the new Hermes Activity v0.2.0 can also show provider-reported usage from Codex, OpenCode, CommandCode, and Ollama. This one&apos;s DEFINITELY staying installed. 🔥
+
+🔗 [View original post](https://x.com/HermesWatcher/status/2110230368871981081)
 
 ---
 
