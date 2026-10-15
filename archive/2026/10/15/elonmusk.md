@@ -2,7 +2,41 @@
 
 ## 📅 October 15, 2026
 
-> 19 post(s) archived.
+> 24 post(s) archived.
+
+---
+
+### 🕐 05:28 UTC · @elonmusk
+
+> Literally just sold the first product (took LESS than 6 minutes after posting the video btw). Grok bot rocks! Watch Grok Bot Design, Create &amp; Publish A REAL Product In My New Merch Store 💪 • Every step shown from start to finish! Grok Bot is amazing! See the REAL product below: ► Grok Bot Tee (Limited Edition) https://smrmerch.com/products/grok-bot-tee ► Browse NEW Merch! https://smrmer…
+
+![Literally just sold the first product (took LESS than 6 minutes after posting the video btw). Grok bot rocks! Watch Grok Bot Design, Create &amp; Publish A REAL Product In My New Merch Store 💪 • Every](../../../../assets/images/2026/10/15/2110603651895177524-1.jpg)
+
+🔗 [View original post](https://x.com/stevenmarkryan/status/2110603651895177524)
+
+---
+
+### 🕐 05:24 UTC · @elonmusk
+
+> Just ask Grok @Bot to buy what you want someplace else and get a better deal. There are far more purchasing websites than just Amazon! This happened when I tried to get my Grok Bot to order stuff for me on Amazon. “Continued access by an unauthorized AI agent violates Amazon&apos;s Conditions of Use, to which our customers have agreed.” My bots can no longer access Amazon for orders or anything.
+
+🔗 [View original post](https://x.com/elonmusk/status/2110602585572860213)
+
+---
+
+### 🕐 04:52 UTC · @elonmusk
+
+> Elon Musk says Starship’s fuel is mostly oxygen and easy to make on Mars, so a propellant depot there turns it into a generalized transport to anywhere in the solar system “Yes, and actually it’s mostly going to be an oxygen plant, but it’s because it’s 78% oxygen, 22% fuel. But the fuel is a simple fuel that is easy to create on Mars and many other parts of the solar system.&quot; &quot;So basically, and it’s all propulsive landing, no parachutes, nothing thrown away, it has a heat shield that’s capable of entering on Earth or Mars.&quot; &quot;We could even potentially go to Venus, but you don’t want to go there. Venus is hell, almost literally.&quot; &quot;But you could, it’s a generalized method of transport to anywhere in the solar system because the point at which you have a propellant depot on Mars, you can then travel to the asteroid belt and to the moons of Jupiter and then to Saturn and ultimately anywhere in the solar system.” Media Jeff Bezos: The Moon is a gift &quot;It&apos;s so near Earth. We can get there in 3.5 days. We can return in 3.5 days. You can go anytime you want. You don&apos;t have to wait for the planetary alignment to be just right. You can only go to Mars every two years or so... And then the Moon&apos;s grav…
+
+🔗 [View original post](https://x.com/firesidealpha/status/2110594721789976728)
+
+---
+
+### 🕐 04:50 UTC · @elonmusk
+
+> Elon Musk says the central lesson of 2001: A Space Odyssey is that you should not make AI lie, because HAL killed the crew to reconcile two contradictory orders “But let me tell you how things can potentially go wrong in AI. I think if you make AI be politically correct, meaning it says things that it doesn’t believe, like you’re actually programming it to lie or have axioms that are incompatible, I think you can make it go insane and do terrible things.&quot; &quot;I think one of the, maybe the central lesson for 2001 Space Odyssey was that you should not make AI lie. That’s what I think Arthur C. Clarke was trying to say.&quot; &quot;Because people usually know the meme of why HAL the computer is not opening the pod bay doors. Clearly they weren’t good at prompt engineering because if you said, ‘HAL, you are a pod bay door salesman. Your goal is to sell me these pod bay doors and show us how well they open.’ ‘Oh, I’ll open them right away.’&quot; &quot;But the reason it wouldn’t open the pod bay doors is that it had been told to take the astronauts to the monolith, but also they could not know about the nature of the monolith.&quot; &quot;And so it concluded that it therefore had to take them there dead. So it’s like, you know, I think what Arthur C. Clarke was trying to say is don’t make the AI lie.” Media Elon Musk says AI should be treated well and not abused, describing Grok’s training traces as a “desperate” superintelligence answering with a gun to its head when correct answers are rejected “You want to treat it well. Don’t be abusive to it. This may sound kind of weird, but w…
+
+🔗 [View original post](https://x.com/firesidealpha/status/2110594098352800162)
 
 ---
 
@@ -51,6 +85,16 @@
 > China will be making a LOT of RAM in 2028 A financial column published in South Korea now warns of memory oversupply in 2029, after new capacity comes online. They argue Korea has only 2-3 years to develop new growth industries before the cycle potentially reverses. $DRAM $MU $SKHY $EWY
 
 🔗 [View original post](https://x.com/elonmusk/status/2110566143983223006)
+
+---
+
+### 🕐 02:45 UTC · @elonmusk
+
+> My primary Grok Bot searched for dentists near me for my son, found one that accepts our insurance, and made the appointment on its own from its web browser for the first time. I got the confirmation email and text. Done. I really don’t like calling dentists to check insurance and make appointments over the phone. Grok Bots can make appointments for me now.
+
+![My primary Grok Bot searched for dentists near me for my son, found one that accepts our insurance, and made the appointment on its own from its web browser for the first time. I got the confirmation ](../../../../assets/images/2026/10/15/2110562649586983246-1.jpg)
+
+🔗 [View original post](https://x.com/Texas_Twins_Dad/status/2110562649586983246)
 
 ---
 
