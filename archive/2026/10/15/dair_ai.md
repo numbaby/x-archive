@@ -2,7 +2,17 @@
 
 ## 📅 October 15, 2026
 
-> 5 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 22:00 UTC · @dair_ai
+
+> Fascinating paper from Google DeepMind. They studied a market where AI agents bid to answer each user prompt. Each agent bids its expected reward minus its inference cost. A first-price auction is simple to run, but bidders shade their bids, so a prompt can go to an agent that would not have produced the most value. The paper shows two features of agent markets that keep this loss small. When several agents value a prompt close to the best one, for example because strong models are distilled into cheaper ones, competition limits the loss. When values mostly depend on how hard the prompt is, efficiency approaches 1 - 1/e^2 of optimal, well above the general bound of 1 - 1/e. They find that simulations on the EmbedLLM routing dataset match the theory. https://arxiv.org/abs/2610.20587 Chat with Paper: https://academy.dair.ai/papers/price-of-anarchy-of-first-price-auctions-in-agentic-markets-2610.20587
+
+![Fascinating paper from Google DeepMind. They studied a market where AI agents bid to answer each user prompt. Each agent bids its expected reward minus its inference cost. A first-price auction is sim](../../../../assets/images/2026/10/15/2110853295799718008-1.jpg)
+
+🔗 [View original post](https://x.com/dair_ai/status/2110853295799718008)
 
 ---
 
