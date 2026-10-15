@@ -2,7 +2,135 @@
 
 ## 📅 October 15, 2026
 
-> 40 post(s) archived.
+> 55 post(s) archived.
+
+---
+
+### 🕐 20:37 UTC · @elonmusk
+
+> Makes sense imagine an Amazon competitor that is: 1) agent first - built for personal agents 2) america first - sells only products from usa might actually be a huge market for this.
+
+🔗 [View original post](https://x.com/elonmusk/status/2110832405426933893)
+
+---
+
+### 🕐 20:36 UTC · @elonmusk
+
+> Starlink is really that good New opinion article about @Starlink from a 7-year Delta Airlines Diamond Medallion status member (their highest loyalty tier): &quot;After flying a United flight in July that included Starlink, it was enough reason for me to switch. It was amazing, like being on the internet at my hou…
+
+🔗 [View original post](https://x.com/elonmusk/status/2110832317727973501)
+
+---
+
+### 🕐 20:34 UTC · @elonmusk
+
+> China’s dependency on oil is dropping fast In September, China&apos;s combustion vehicle (ICE) sales dropped to just a third of the market for the first time Battery electric vehicles are getting close to half of the market (47.3%), while Plug-ins added another 19.7%. Only 5 years from &gt;90% to 33% ICE.
+
+🔗 [View original post](https://x.com/elonmusk/status/2110831760388808901)
+
+---
+
+### 🕐 20:33 UTC · @elonmusk
+
+> How to find out if your @United flight has Starlink super fast WiFi United Airlines has launched a Starlink Wi-Fi tracker where you can enter your flight number to find out if it has Starlink https://fleetradar.united.com/program/starlink
+
+🔗 [View original post](https://x.com/elonmusk/status/2110831499226358137)
+
+---
+
+### 🕐 20:25 UTC · @elonmusk
+
+> Dance movements are among the most challenging exercises for generative AI. Grok @imagine seems to handle them very well! I love the elegance and the lighting of this scene. Media
+
+🔗 [View original post](https://x.com/dvorahfr/status/2110829553660866686)
+
+---
+
+### 🕐 19:52 UTC · @elonmusk
+
+> We’re doubling down on video on 𝕏. Today, we&apos;re piloting Video Kickstart Bonus, an invite-only program that rewards creators for posting their video content here. A few things to know: • Videos must be vertical, under 3 minutes, and content you’ve created yourself. • Videos you’ve already shared on other platforms are eligible, as long as they don’t have watermarks. • You must post at least 15 videos across 15 different days within the 30-day period of the campaign. Invites are rolling out over the next few days, and enrollment closes October 30. Happy posting!!
+
+![We’re doubling down on video on 𝕏. Today, we&apos;re piloting Video Kickstart Bonus, an invite-only program that rewards creators for posting their video content here. A few things to know: • Videos m](../../../../assets/images/2026/10/15/2110821237517959503-1.jpg)
+
+🔗 [View original post](https://x.com/allegrajacchia/status/2110821237517959503)
+
+---
+
+### 🕐 18:48 UTC · @elonmusk
+
+> Important: to qualify, videos need to be vertical, less than 3 minutes, and yours.
+
+🔗 [View original post](https://x.com/allegrajacchia/status/2110804920953872795)
+
+---
+
+### 🕐 17:52 UTC · @elonmusk
+
+> When Konstantin called me way back then, I said I had no idea what it would look like or when it would be made, but he still had the faith to put down a deposit ❤️ @elonmusk My original Roadster still runs 20 years later. Battery still fine! Reserved the new one first in 2013. Thirteen years later, &quot;beyond imagination&quot; finally gets a date.
+
+🔗 [View original post](https://x.com/elonmusk/status/2110790821171601691)
+
+---
+
+### 🕐 17:48 UTC · @elonmusk
+
+> Old friends are the best friends. Jensen rocks. The Star Mind computer being co-engineered by SpaceX and Nvidia is far better than almost anyone expects and will reach volume production next year. Working with the incredibly talented Nvidia engineering team is pure joy! Jensen Huang says he loves working with Elon Musk, and reveals their engineering teams are designing a new type of server to put data centers in space “I’m delighted that I love working with Elon. He’s using our technology for his own AI in training models and such, deploying mod…
+
+🔗 [View original post](https://x.com/elonmusk/status/2110789964430786745)
+
+---
+
+### 🕐 17:41 UTC · @elonmusk
+
+> 🔥 hey @bot please preorder the new Tesla Roadster for me immediately, thanks
+
+🔗 [View original post](https://x.com/elonmusk/status/2110788138092355945)
+
+---
+
+### 🕐 17:06 UTC · @elonmusk
+
+> Tesla&apos;s Cybercab Robotaxis were involved in zero crashes or accidents during their first two weeks of public rides, according to the latest NHTSA data.
+
+![Tesla&apos;s Cybercab Robotaxis were involved in zero crashes or accidents during their first two weeks of public rides, according to the latest NHTSA data.](../../../../assets/images/2026/10/15/2110779453630546194-1.jpg)
+
+🔗 [View original post](https://x.com/SawyerMerritt/status/2110779453630546194)
+
+---
+
+### 🕐 17:02 UTC · @elonmusk
+
+> Balanced piece by Judge: the civil service is 12% smaller, cuts to grants far less steep than even I had hoped, but done well overall. &quot;By most indications, the federal government is running much as it did before. Some critics may have to admit: the DOGE workforce cuts worked.&quot; DOGE worked. Most importantly, the civil service is 12% smaller than it was in Jan 2025. In the Fall @CityJournal, I show they were not replaced by contractors, the biggest cuts were to middle managers, and the predictions of disaster were proven false. https://www.city-journal.o…
+
+🔗 [View original post](https://x.com/JTLonsdale/status/2110778437065691511)
+
+---
+
+### 🕐 14:51 UTC · @elonmusk
+
+> The whole world is going electric and we are way behind. In September, China&apos;s combustion vehicle (ICE) sales dropped to just a third of the market for the first time Battery electric vehicles are getting close to half of the market (47.3%), while Plug-ins added another 19.7%. Only 5 years from &gt;90% to 33% ICE.
+
+![The whole world is going electric and we are way behind. In September, China&apos;s combustion vehicle (ICE) sales dropped to just a third of the market for the first time Battery electric vehicles ar](../../../../assets/images/2026/10/15/2110745494045478968-1.jpg)
+
+🔗 [View original post](https://x.com/JessePeltan/status/2110745494045478968)
+
+---
+
+### 🕐 14:35 UTC · @elonmusk
+
+> United Airlines says that last month, more than 5.4 million people - about a third of United&apos;s customers - had @Starlink on their flight and that satisfaction scores are more than 40 points higher on Starlink-equipped planes than those with other Wi-Fi service.
+
+![United Airlines says that last month, more than 5.4 million people - about a third of United&apos;s customers - had @Starlink on their flight and that satisfaction scores are more than 40 points highe](../../../../assets/images/2026/10/15/2110741417090064466-1.jpg)
+
+🔗 [View original post](https://x.com/SawyerMerritt/status/2110741417090064466)
+
+---
+
+### 🕐 13:26 UTC · @elonmusk
+
+> BG2 w/ @JensenHuang. Does AI Revenue Justify Capex, ‘27 AI Bottlenecks, Singularity, Open vs Closed &amp; more. 🚀🇺🇸 @altcap @_clarktang @nvidia Media
+
+🔗 [View original post](https://x.com/BG2Pod/status/2110723974808350898)
 
 ---
 
