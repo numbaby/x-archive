@@ -2,7 +2,23 @@
 
 ## 📅 October 15, 2026
 
-> 24 post(s) archived.
+> 29 post(s) archived.
+
+---
+
+### 🕐 06:30 UTC · @elonmusk
+
+> Early days of OpenAI Jensen Huang once admitted that when NVIDIA unveiled its first AI supercomputer, nobody wanted it. Not a single purchase order. Except for Elon Musk. &quot;He goes, &apos;You know what? I have a company that could really use this.&apos;&quot; But then came the twist: it was a nonprofit😂😂 The machi…
+
+🔗 [View original post](https://x.com/elonmusk/status/2110619230161035670)
+
+---
+
+### 🕐 05:57 UTC · @elonmusk
+
+> This works well. If Grok @Bot makes a mistake with a purchase or leaks your card (never happened yet), SpaceX will make you whole. Grok @bot booked a flight for me today the entire process was really really easy…..I send a photo of my credit card and it did the entire process…. Tbh, last time I booked, the website was way too confusing…. It’s not an easy website, and Grok Bot did perfectly well and booked a …
+
+🔗 [View original post](https://x.com/elonmusk/status/2110610960474079445)
 
 ---
 
@@ -37,6 +53,14 @@
 > Elon Musk says the central lesson of 2001: A Space Odyssey is that you should not make AI lie, because HAL killed the crew to reconcile two contradictory orders “But let me tell you how things can potentially go wrong in AI. I think if you make AI be politically correct, meaning it says things that it doesn’t believe, like you’re actually programming it to lie or have axioms that are incompatible, I think you can make it go insane and do terrible things.&quot; &quot;I think one of the, maybe the central lesson for 2001 Space Odyssey was that you should not make AI lie. That’s what I think Arthur C. Clarke was trying to say.&quot; &quot;Because people usually know the meme of why HAL the computer is not opening the pod bay doors. Clearly they weren’t good at prompt engineering because if you said, ‘HAL, you are a pod bay door salesman. Your goal is to sell me these pod bay doors and show us how well they open.’ ‘Oh, I’ll open them right away.’&quot; &quot;But the reason it wouldn’t open the pod bay doors is that it had been told to take the astronauts to the monolith, but also they could not know about the nature of the monolith.&quot; &quot;And so it concluded that it therefore had to take them there dead. So it’s like, you know, I think what Arthur C. Clarke was trying to say is don’t make the AI lie.” Media Elon Musk says AI should be treated well and not abused, describing Grok’s training traces as a “desperate” superintelligence answering with a gun to its head when correct answers are rejected “You want to treat it well. Don’t be abusive to it. This may sound kind of weird, but w…
 
 🔗 [View original post](https://x.com/firesidealpha/status/2110594098352800162)
+
+---
+
+### 🕐 04:45 UTC · @elonmusk
+
+> My 2022 Model 3 has become my second office, and Grok @bot is my co-pilot. On my drive to work, I just talk: &quot;Any Tesla news from Korea today?&quot; &quot;Make the chart for tonight&apos;s post.&quot; &quot;What&apos;s on my calendar?&quot; By the time I park, the news is summarized, the graphic is ready in my style, and my day is organized. I don&apos;t do tasks anymore. I just talk while I drive.
+
+🔗 [View original post](https://x.com/Tslachan/status/2110592828485369963)
 
 ---
 
@@ -85,6 +109,16 @@
 > China will be making a LOT of RAM in 2028 A financial column published in South Korea now warns of memory oversupply in 2029, after new capacity comes online. They argue Korea has only 2-3 years to develop new growth industries before the cycle potentially reverses. $DRAM $MU $SKHY $EWY
 
 🔗 [View original post](https://x.com/elonmusk/status/2110566143983223006)
+
+---
+
+### 🕐 02:47 UTC · @elonmusk
+
+> Facts by #JoeHansenFacts Why are Starlink&apos;s space lasers such a big deal? Without lasers, a satellite has to send your data straight back down to a ground station it can see. No ground station in range, no internet. Starlink skips that step. 1. Each V2 Mini satellite carries 3 lasers that talk directly to other satellites. 2. More than 24,000 of these lasers are up there now, forming one mesh around the planet. 3. Each link runs at up to 200 Gbps. SpaceX says hardware next year moves that to 400. 4. Data can hop from satellite to satellite until it finds a ground station, even on the other side of an ocean. That&apos;s why it works on a cruise ship in the middle of the Pacific, and why it kept working in Spain and Portugal when the whole power grid went down in April 2025. Smarter laser routing also cut 30 to 40 ms of latency in Asia and Africa in 2025.
+
+![Facts by #JoeHansenFacts Why are Starlink&apos;s space lasers such a big deal? Without lasers, a satellite has to send your data straight back down to a ground station it can see. No ground station in](../../../../assets/images/2026/10/15/2110563058917560373-1.jpg)
+
+🔗 [View original post](https://x.com/joehansen/status/2110563058917560373)
 
 ---
 
@@ -199,5 +233,15 @@
 > Cybercab experience is legit! Wow! Didn’t quite understand until riding it around today for first time
 
 🔗 [View original post](https://x.com/EmmetPeppers/status/2110528036906918036)
+
+---
+
+### 🕐 00:04 UTC · @elonmusk
+
+> Great illustration of why @grok @bot is winning me over. Phil&apos;s post reminded me how much effort I&apos;ve put into trying to connect my Apple apps to other assistants My Grok Bot just... did it Time to cook something for all us Apple walled garden residents @grok @bot
+
+![Great illustration of why @grok @bot is winning me over. Phil&apos;s post reminded me how much effort I&apos;ve put into trying to connect my Apple apps to other assistants My Grok Bot just... did it ](../../../../assets/images/2026/10/15/2110522167205175446-1.jpg)
+
+🔗 [View original post](https://x.com/madebydia/status/2110522167205175446)
 
 ---
