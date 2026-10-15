@@ -2,7 +2,15 @@
 
 ## 📅 October 14, 2026
 
-> 8 post(s) archived.
+> 9 post(s) archived.
+
+---
+
+### 🕐 21:01 UTC · @_akhaliq
+
+> More good news for Fish Audio Drama 3! 🎉 Thanks to @_akhaliq for the INT4 quantization and his incredible support, SGLang Omni now officially supports Drama 3 INT4! The quantized checkpoint reduces engine weight memory from 37.0 GB to 20.8 GB, with comparable voice-cloning quality in our Seed-TTS EN evaluation. Making powerful speech models more accessible and affordable to serve is exactly what we love working on. We&apos;ve also been working closely with the @huggingface team to expand our Drama 3 Space with a completely redesigned UI. Even more excitingly, the Space will soon run Drama 3 on SGLang Omni, powered by an H200 generously sponsored by Hugging Face! We&apos;re truly grateful for the recognition, trust, and support. Huge thanks again to AK, the Hugging Face team, and @FishAudio for making the model available with open weights. This is what a healthy open AI ecosystem looks like: model builders, inference engineers, and platform teams working together to make great models accessible to everyone. More optimizations coming soon! 🚀 PR: https://github.com/sgl-project/sglang-omni/pull/2806 Space: https://huggingface.co/spaces/fishaudio/Drama-3 Media $52M seed round. 15M+ users. But this is what we&apos;re most proud of yet. Introducing Drama 3: the most emotive and controllable TTS model in the world And yes, it&apos;s open-weight. You can now control how even a single word should sound, change its tone, and shift your voice mid-sente…
+
+🔗 [View original post](https://x.com/GenAI_is_real/status/2110476147712782745)
 
 ---
 

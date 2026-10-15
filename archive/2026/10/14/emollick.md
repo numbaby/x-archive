@@ -2,7 +2,31 @@
 
 ## 📅 October 14, 2026
 
-> 7 post(s) archived.
+> 10 post(s) archived.
+
+---
+
+### 🕐 21:06 UTC · @emollick
+
+> Really feel bad for people named Al (with an l) nowadays, especially given the prevalence of sans serif fonts.
+
+🔗 [View original post](https://x.com/emollick/status/2110477466674630843)
+
+---
+
+### 🕐 20:53 UTC · @emollick
+
+> A lot is now up for grabs and uncertain. Will AI be used to create an explosion of new ideas and approaches as @TimSweeneyEpic is arguing? Will it hollow out the industry further? Who wins? What happens to IP? Will there even be an industry as we know it? Its a moment of ferment
+
+🔗 [View original post](https://x.com/emollick/status/2110474066671149367)
+
+---
+
+### 🕐 20:51 UTC · @emollick
+
+> AI transforming the game industry: The Last Masterpiece of the human-only era of game design (GTA 6) is coming. Major studios are going to accelerate with AI. Anon devs &amp; communities doing insane mashups. And indies are stuck with anti-AI customers Other industries will follow, We have a huge pivot underway here at Epic, moving developers around to retool for maximum AI acceleration. The aim isn&apos;t to do the same stuff with fewer people, but to enable everyone here to build MORE and BETTER stuff, and to bring the benefits to all teams using Unreal.
+
+🔗 [View original post](https://x.com/emollick/status/2110473584317513936)
 
 ---
 

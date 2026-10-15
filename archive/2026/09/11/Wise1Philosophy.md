@@ -2,7 +2,157 @@
 
 ## 📅 September 11, 2026
 
-> 83 post(s) archived.
+> 101 post(s) archived.
+
+---
+
+### 🕐 20:12 UTC · @Wise1Philosophy
+
+> Okay, this is actually pretty smart. Instinct (http://mail.instinct.com) now gets its own email address. So instead of asking you to send something, check something or follow up, it can handle the conversation itself. Need to return an order? Chase a quote? Ask a restaurant something? Forward it over and let the agent handle the back-and-forth 👀↓ Media We’re giving Instinct access to more tools. Starting today, your Instinct will have its own email address. This is the first step towards enabling your Instinct to own and run its own accounts. Most everyday tasks flow through your email: creating accounts, confirming bookings, c…
+
+🔗 [View original post](https://x.com/DataChaz/status/2098505032312242578)
+
+---
+
+### 🕐 20:00 UTC · @Wise1Philosophy
+
+> Your blood sugar is aging you faster than smoking and junk food. It ruins sleep, fat loss, reduces nitric oxide, and drives fatty liver. Here&apos;s the simple fix: 1. Don&apos;t walk 10,000 steps
+
+🔗 [View original post](https://x.com/HeyKimChong/status/2098501844205211648)
+
+---
+
+### 🕐 19:33 UTC · @Wise1Philosophy
+
+> LOCAL INFERENCE JUST GOT A MASSIVE UPGRADE @atomic_chat_hq did it again 💥 They’ve made DeepSeek V4.1 Flash much more practical to run on Blackwell by squeezing the 552B MoE model into NVFP4. The result? lower inference costs without giving up the model’s core capabilities. You still get a 1M context window and native visual understanding, while retaining 98% agreement on agentic dialogue. That makes this a super strong fit for local agentic workflows. Grab the weights on @huggingface 🤗 (link in 🧵↓) Run DeepSeek V4.1 Flash NVFP4 locally 🐳 We made an NVFP4 build of DeepSeek&apos;s v4.1 flash model with @NVIDIAAI&apos;s ModelOpt recipe, every routed expert re-encoded bit-exactly for Blackwell&apos;s FP4 tensor cores and measured on 4x B200 NVFP4 build 👇 https://huggingface.co/collections/A…
+
+![LOCAL INFERENCE JUST GOT A MASSIVE UPGRADE @atomic_chat_hq did it again 💥 They’ve made DeepSeek V4.1 Flash much more practical to run on Blackwell by squeezing the 552B MoE model into NVFP4. The resul](../../../../assets/images/2026/09/11/2098495210326045090-1.jpg)
+
+🔗 [View original post](https://x.com/DataChaz/status/2098495210326045090)
+
+---
+
+### 🕐 19:20 UTC · @Wise1Philosophy
+
+> Neurologists have a name for the shortfall that mimics early dementia, strips the insulation off your nerves, and hides behind a normal lab result for years. The 5 signs they check before calling it ageing: 1. Tingling or numbness in your hands and feet Media
+
+🔗 [View original post](https://x.com/JasperKasparov/status/2098491813749510223)
+
+---
+
+### 🕐 18:40 UTC · @Wise1Philosophy
+
+> A cardiologist shocked me when he said: &quot;You age because your body stops making Nitric Oxide. Without it, blood pressure rises, erections fail, and Alzheimer&apos;s happens.&quot; Here&apos;s the 5-step protocol to boost it naturally: 1. Stop using mouthwash
+
+🔗 [View original post](https://x.com/ClaraBrooksjz/status/2098481702868042169)
+
+---
+
+### 🕐 18:00 UTC · @Wise1Philosophy
+
+> Heart attack = blood sugar. Heart attack = insulin resistance. Heart attack = No.1 killer worldwide. 5 simple rules to protect your heart: 1. Don&apos;t go pee at 3 AM
+
+🔗 [View original post](https://x.com/LiveandAlive_/status/2098471658621431916)
+
+---
+
+### 🕐 17:38 UTC · @Wise1Philosophy
+
+> The GPT-6 Astra vs GPT-5.6 Sol comparison is interesting because progress isn’t uniform across discovery. TRACES breaks that down across six dimensions, giving @OpenAI a useful lens for where models improve and where challenges remain. @tianqiao_chen A generational leap, but not on every dimension. Yesterday we put the TRACES board up. Here is the first comparison worth pulling out of it. GPT-6-astra @OpenAI tops the board but that is not the interesting part. Against GPT-5.6-sol, same harness, 140 agent episodes, it gains on…
+
+🔗 [View original post](https://x.com/alex_prompter/status/2098466104544751855)
+
+---
+
+### 🕐 17:33 UTC · @Wise1Philosophy
+
+> The interesting shift isn’t “AI can make videos now.” We already know that. The interesting shift is having a workflow that takes you from an idea all the way to a controllable, editable film. GPT Image 2.5 is coming to CapCut PC, where it will be available through Design Studio and AI Image. #GPTImage25 #CapCutPC Media
+
+🔗 [View original post](https://x.com/thetripathi58/status/2098465089775083873)
+
+---
+
+### 🕐 17:33 UTC · @Wise1Philosophy
+
+> I think the biggest change here is where the filmmaking process starts. Instead of opening a video generator with a blank prompt, start by building the visual language of the story first. GPT Image 2.5 is coming to CapCut, where it will be available through Design Studio and AI Image. Use it to turn an idea into a visual storyboard. Then bring that storyboard into CapCut PC’s multi-track timeline and use AI Video with Seedance 2.5 to generate the first full version. Once the video exists, AI Edit lets you keep working on it. Change a scene. Adjust the pacing. Improve the audio. Refine the details. The first generation gives you the film. The editing gives you control over what the film becomes. #GPTImage25 #CapCutPC #AIVideo #Seedance25 Media
+
+🔗 [View original post](https://x.com/AIPandaX/status/2098465088466510048)
+
+---
+
+### 🕐 17:33 UTC · @Wise1Philosophy
+
+> 12 basic manners I am teaching my 3 and 5 year old. Not for school. For life. Because we are not raising kids. We are raising adults... 👇 🧵
+
+![12 basic manners I am teaching my 3 and 5 year old. Not for school. For life. Because we are not raising kids. We are raising adults... 👇 🧵](../../../../assets/images/2026/09/11/2098464901274714554-1.jpg)
+
+🔗 [View original post](https://x.com/scotti_brooks/status/2098464901274714554)
+
+---
+
+### 🕐 17:31 UTC · @Wise1Philosophy
+
+> Punishment That Destroys Children &quot;10 Discipline Methods Parents Need to Rethink.. 👇🧵
+
+![Punishment That Destroys Children &quot;10 Discipline Methods Parents Need to Rethink.. 👇🧵](../../../../assets/images/2026/09/11/2098464547732607309-1.jpg)
+
+🔗 [View original post](https://x.com/Manifest_Lord/status/2098464547732607309)
+
+---
+
+### 🕐 17:29 UTC · @Wise1Philosophy
+
+> footwear of the future🤯 check this out Media
+
+🔗 [View original post](https://x.com/daveydefi/status/2098463945896124692)
+
+---
+
+### 🕐 17:16 UTC · @Wise1Philosophy
+
+> China just built a drone that shrinks itself mid flight. A team at Zhejiang University designed it in the shape of a ring, and a servo motor pulls the frame in by about 31.4% so it can squeeze through tight gaps. The hole in the middle also works as a grabber, so it can carry objects without any robotic arm or claw. https://x.com/spaceandtech_/status/2097294337503830459/video/1 Media
+
+🔗 [View original post](https://x.com/TheAIColonyRD/status/2098460750087930226)
+
+---
+
+### 🕐 17:02 UTC · @Wise1Philosophy
+
+> The real shift with AI agents isn’t just making individual assistants smarter, it’s giving them a place to actually collaborate. Hyperagent Workspaces brings humans and agents into one shared environment with shared skills, memory, and the ability to delegate work across the team. That feels much closer to how useful agent teams should operate. If your agents are just personal helpers, you are still the bottleneck. We just introduced Workspaces: a new way for agents and humans to work together with shared skills and memories. Agents need the freedom to operate like real members of your team, invoking other agents and hu…
+
+🔗 [View original post](https://x.com/heyalexmoore/status/2098457280098529513)
+
+---
+
+### 🕐 17:02 UTC · @Wise1Philosophy
+
+> AI is getting crazier! Media
+
+🔗 [View original post](https://x.com/AIHighlight/status/2098457087764558143)
+
+---
+
+### 🕐 16:35 UTC · @Wise1Philosophy
+
+> I asked ChatGPT to apply for hundreds of jobs for me. I went to sleep and woke up to 12 interview calls within 24 hours. Here are the 5 prompts I used:
+
+🔗 [View original post](https://x.com/AriaWestcott/status/2098450458436063463)
+
+---
+
+### 🕐 16:18 UTC · @Wise1Philosophy
+
+> Made a poster in Dreamina and then tried something I hadn&apos;t thought of before: Turns out GPT-6 Astra + Dreamina Seedance 2.5 is an actual pipeline. What if I could just get the layers back? So I sent the generated poster to GPT-6 Astra and had Astra call Photoshop to break the image into separate editable layers. Now the background, typography, subject and graphic elements can all be edited independently. Dreamina&apos;s competitive pricing makes the concept-generation part pretty easy to iterate on too. AI makes the first draft. Photoshop takes it from there. #Dreamina #DreaminaPartner Media
+
+🔗 [View original post](https://x.com/aibytekat/status/2098446080207974858)
+
+---
+
+### 🕐 16:06 UTC · @Wise1Philosophy
+
+> Apple has heightened the competition, Huawei Mate XT 2&apos;s screen and camera is finally here. Media
+
+🔗 [View original post](https://x.com/FutureStacked/status/2098443081246810434)
 
 ---
 

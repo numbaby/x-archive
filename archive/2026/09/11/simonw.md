@@ -2,7 +2,15 @@
 
 ## 📅 September 11, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 17:49 UTC · @simonw
+
+> &quot;Production code written by Claude should have a higher bar than if it was written by a human&quot; 💯 Hey ████, I think there is room for both. 1. Prototypes and other throw-away code can be treated as totally black box. If you’re going to throw it away anyway, and if the blast radius of it breaking is low, it doesn’t need to be perfect. 2. Production code written by Claude shoul…
+
+🔗 [View original post](https://x.com/simonw/status/2098468950871032095)
 
 ---
 

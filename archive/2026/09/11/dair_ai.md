@@ -2,7 +2,25 @@
 
 ## 📅 September 11, 2026
 
-> 2 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 21:30 UTC · @dair_ai
+
+> Agents API is a bigger deal than it seems. OpenAI&apos;s bet on making the Codex harness open-source could pay off big time here. This harness-as-a-service idea hasn&apos;t hit mainstream yet, but some of the most serious builders are already adopting it to unlock new types of services. Codex being open-source means that many other models (open or closed) are already extremely knowledgeable about the Codex harness. As more services adopt these new agentic architectures, you&apos;ll want the compounding effect that comes with that transparency and openness. Today we&apos;re launching the Agents API, a brand new way to build Agents in the cloud, backed by the Codex harness. Bring along all your favorite tools and connectors, connect it to any sandbox, and let Astra cook. Can&apos;t wait to see what you whip up 👨‍🍳 https://openai.com/index/in…
+
+![Agents API is a bigger deal than it seems. OpenAI&apos;s bet on making the Codex harness open-source could pay off big time here. This harness-as-a-service idea hasn&apos;t hit mainstream yet, but som](../../../../assets/images/2026/09/11/2098524621439914375-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2098524621439914375)
+
+---
+
+### 🕐 16:58 UTC · @dair_ai
+
+> Build and own your harness, folks. Very few people understand the magic behind customizing and optimizing an agent harness for your work. You can start seeing incredible results quickly, even with a minimal harness. Just better code, better outputs, better costs, better writing, and so on. As an example, I see way too many people complain that they are tired of their out-of-the-box agent harness producing verbose outputs. If you built a harness, that&apos;s easier to fix with a system prompt optimized for you. This is why Pi is getting insane adoption these days. You want to control your harness. I agree that it&apos;s hard to optimize where things stand, but self-improving algorithms will make it easier to learn from trajectories. And if you use local models, you can tune all of that end-to-end (through a co-evolution of the harness and the models) as you work with them. Look into open-source projects like Eve, Exo, and Prime Agent, and you will see what I mean. OK. It&apos;s time to rethink this. I&apos;ve spend the last several weeks working on a harness that tightly constrains the agents to work the way that I want them to work. I set up all kinds of gates, and tests, and tools, and protocols, and ... And while I was heads-down getting that to …
+
+🔗 [View original post](https://x.com/omarsar0/status/2098456262379745663)
 
 ---
 

@@ -2,7 +2,41 @@
 
 ## 📅 October 15, 2026
 
-> 9 post(s) archived.
+> 13 post(s) archived.
+
+---
+
+### 🕐 17:27 UTC · @tunguz
+
+> Ohohoho Muse Spark Open -- weights releasing today -- runs great on new Mac Studios thanks to work with @johnternus and Apple.
+
+🔗 [View original post](https://x.com/tunguz/status/2110784519087272270)
+
+---
+
+### 🕐 17:08 UTC · @tunguz
+
+> Universe is unitary
+
+🔗 [View original post](https://x.com/tunguz/status/2110779738130088106)
+
+---
+
+### 🕐 17:01 UTC · @tunguz
+
+> All right, time has finally come for me to read the most important book that I’ve never read.
+
+![All right, time has finally come for me to read the most important book that I’ve never read.](../../../../assets/images/2026/10/15/2110778027000930437-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2110778027000930437)
+
+---
+
+### 🕐 16:51 UTC · @tunguz
+
+> That&apos;s it, I am going full steam ahead with organic mushroom farming. Mushrooms cut dementia risk by ~75%, eliminating benefit of vegetables. The highest levels of ergothioneine, only found in mushrooms, dropped the risk of Alzhiemer&apos;s / non-Alzheimer&apos;s dementias. Even if there was a low vegetable intake, it didn&apos;t matter as long as ergothioneine i…
+
+🔗 [View original post](https://x.com/tunguz/status/2110775493008179566)
 
 ---
 

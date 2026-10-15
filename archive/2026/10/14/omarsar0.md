@@ -2,7 +2,7 @@
 
 ## 📅 October 14, 2026
 
-> 7 post(s) archived.
+> 8 post(s) archived.
 
 ---
 
@@ -11,6 +11,14 @@
 > Ninety minutes of daily use per user is wild for Status. My instinct was that cost just comes with the territory at that scale, but Inworld cut it by roughly 95% for them. @thestatusai has scaled to tens of millions in annualized revenue. Working with @inworld, we cut our AI costs by about 95% while maintaining or improving content quality. When you build consumer AI, you want people to be obsessed with your app. Then you have to afford that obsess…
 
 🔗 [View original post](https://x.com/omarsar0/status/2110439796133027959)
+
+---
+
+### 🕐 18:25 UTC · @omarsar0
+
+> Most tech companies treat YouTube like a dumping ground for long corporate webinars. I sat down with @theoscarowen (creative director behind campaigns for Gymshark, L&apos;Oreal, Dua Lipa and many more) on @Distributionpod to break down how tech companies can actually hijack the modern media playbook. 00:00 Intro 00:53 Why Tech Is Following the B2C Content Playbook 06:13 Ranking the Platforms 17:17 Hijacking AEO &amp; LLMs Through YouTube 25:41 The Metrics YouTube Videos Live &amp; Die By 30:44 How to Actually A/B Test Thumbnails &amp; Titles 33:04 Starting a YouTube Channel at $10K, $100K &amp; $1M 38:26 higgsfield&apos;s Filmmaker Play 52:27 The Two-Funnel Strategy Media
+
+🔗 [View original post](https://x.com/ZargaryanArthur/status/2110436966777143800)
 
 ---
 

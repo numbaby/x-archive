@@ -2,7 +2,15 @@
 
 ## 📅 October 14, 2026
 
-> 23 post(s) archived.
+> 25 post(s) archived.
+
+---
+
+### 🕐 21:32 UTC · @elonmusk
+
+> Grok Voice 3.0 is now the world’s leading conversational voice model SpaceXAI’s Grok Voice 3.0 is the new leading Speech to Speech model, debuting at #1 on the Artificial Analysis Speech to Speech Index at 86.9, while also being competitive on latency Grok Voice 3.0 is @SpaceXSI &apos;s successor to Grok Voice 2.0, a Speech to Speech model available th…
+
+🔗 [View original post](https://x.com/elonmusk/status/2110483960312799675)
 
 ---
 
@@ -11,6 +19,16 @@
 > Try Grok Voice Introducing Grok Voice 3.0, the world’s most intelligent speech-to-speech model. It excels at resolving customer calls, responds in under a second, and costs less than other frontier models.
 
 🔗 [View original post](https://x.com/elonmusk/status/2110438877274259488)
+
+---
+
+### 🕐 18:29 UTC · @elonmusk
+
+> Grok Voice is one of our fastest growing segments on API. Exciting to see companies switching to Grok from providers like ElevenLabs, seeing better naturalness across languages and lower cost. We just dropped Grok Voice 3.0, which is back at #1 on the AA Speech to Speech Index. Don&apos;t sleep on Grok!
+
+![Grok Voice is one of our fastest growing segments on API. Exciting to see companies switching to Grok from providers like ElevenLabs, seeing better naturalness across languages and lower cost. We just](../../../../assets/images/2026/10/14/2110437888106414133-1.jpg)
+
+🔗 [View original post](https://x.com/veggie_eric/status/2110437888106414133)
 
 ---
 

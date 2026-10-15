@@ -2,7 +2,7 @@
 
 ## 📅 October 09, 2026
 
-> 7 post(s) archived.
+> 8 post(s) archived.
 
 ---
 
@@ -31,6 +31,16 @@
 ![Step 5 Preview from @StepFun_ai hit #1 on OpenRouter Trending, a day after launch. It&apos;s available in Kilo Code, Cline, Hermes Agent, and OpenCode. Keep your workflow and just switch models. I&apo](../../../../assets/images/2026/10/09/2108609487338631207-1.jpg)
 
 🔗 [View original post](https://x.com/omarsar0/status/2108609487338631207)
+
+---
+
+### 🕐 15:59 UTC · @dair_ai
+
+> Banger paper from Meta Superintelligence Labs on user simulators for agent training. Agent RL setups usually let an assistant LLM play the user, so the simulated user is too cooperative and too explicit. A fixed GPT-5.5 agent finds tau-bench tasks easier with these users than with real people. This work trains MIMESIS, a 9B user simulator, on human conversations and 13 behavior patterns observed in real users. It beats Claude Opus 5 on behavioral fidelity by 13.4 points. Agents trained against it outperform agents trained against GPT-5.5 under all nine user simulators they never saw. They find that adding a coaching step that turns the simulator&apos;s private reasoning into feedback adds further gains. Paper: https://academy.dair.ai/papers/mimesis-learning-user-simulators-as-training-environments-for-interactive-agents-2610.09484
+
+![Banger paper from Meta Superintelligence Labs on user simulators for agent training. Agent RL setups usually let an assistant LLM play the user, so the simulated user is too cooperative and too explic](../../../../assets/images/2026/10/09/2108588052914598084-1.jpg)
+
+🔗 [View original post](https://x.com/dair_ai/status/2108588052914598084)
 
 ---
 

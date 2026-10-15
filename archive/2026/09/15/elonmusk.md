@@ -2,7 +2,23 @@
 
 ## 📅 September 15, 2026
 
-> 15 post(s) archived.
+> 17 post(s) archived.
+
+---
+
+### 🕐 16:38 UTC · @elonmusk
+
+> ❤️ John Foppe was born without arms &amp; has been driving Teslas for over 7 years. FSD Supervised lets him navigate the road without conventional steering – commuting to his non-profit job &amp; visiting his daughter over 500 miles away
+
+🔗 [View original post](https://x.com/elonmusk/status/2099900766597132335)
+
+---
+
+### 🕐 14:45 UTC · @elonmusk
+
+> Ever wake up and want to build a company? I&apos;m building one today with @poteto &amp; @roshan_s https://x.com/i/broadcasts/1AxRnZbVpjaxl?s=20
+
+🔗 [View original post](https://x.com/mattyp/status/2099872162203250967)
 
 ---
 

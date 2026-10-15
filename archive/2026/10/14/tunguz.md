@@ -2,7 +2,39 @@
 
 ## 📅 October 14, 2026
 
-> 15 post(s) archived.
+> 19 post(s) archived.
+
+---
+
+### 🕐 21:47 UTC · @tunguz
+
+> Croatia, any day. You get one week in Europe, all expenses paid. But you must choose one: -A coastal town in Croatia. -A medieval village in Tuscany. -An old fishing village in Portugal. -A mountain cabin in Switzerland. Which are you taking?
+
+🔗 [View original post](https://x.com/tunguz/status/2110487745319817232)
+
+---
+
+### 🕐 20:40 UTC · @tunguz
+
+> in other words, we are all going to die. doom confirmed. there are far far fewer good hills to die on than there are would be martyrs
+
+🔗 [View original post](https://x.com/tunguz/status/2110470936168439834)
+
+---
+
+### 🕐 20:27 UTC · @tunguz
+
+> looks very post economic Point in the AI cycle where parts of San Francisco are transforming into some combination of Nashville and LA.
+
+🔗 [View original post](https://x.com/tunguz/status/2110467636140064985)
+
+---
+
+### 🕐 20:26 UTC · @tunguz
+
+> if you are a billionaire reading this - ping me one of my good friends has a large billionaire patron who sponsors his content &amp; is largely hands off. this means he doesn’t have to run specific sponsors or ads on his platform that feel unnatural &amp; disruptive. from a strict creator monetization + livability perspective this see…
+
+🔗 [View original post](https://x.com/tunguz/status/2110467212850958539)
 
 ---
 

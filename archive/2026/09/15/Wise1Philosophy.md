@@ -2,7 +2,453 @@
 
 ## 📅 September 15, 2026
 
-> 105 post(s) archived.
+> 158 post(s) archived.
+
+---
+
+### 🕐 17:06 UTC · @Wise1Philosophy
+
+> okay wait, I need to sit with this for a sec. the same model is driving a car, flying a drone, walking a humanoid and playing a game. this isn&apos;t four different AIs stitched together. it is just one that already understands how the world works, given a few hours to figure out the controls. wild when it clicks that Odyssey-3 learned how the world works, then figured out each system&apos;s controls with just a few hours of task-specific data. the @odysseyml preview they put up today is worth a watch. Media Today we’re unveiling Odyssey-3, a big step forward for foundation world models. It can control robots, power humanoids, drive cars (on the roads of India!), train AIs, pilot drones, and even play video games. We can’t wait to see what intelligent systems it enables.
+
+🔗 [View original post](https://x.com/thetripathi58/status/2099907771726794975)
+
+---
+
+### 🕐 17:00 UTC · @Wise1Philosophy
+
+> robots usually learn by seeing the same task over and over. humans don’t. • learn how the world works • build an intuition for it • apply it somewhere new Odyssey-3 is pushing toward that approach, using only a few hours of experiential data for new physical tasks. Media Today we’re unveiling Odyssey-3, a big step forward for foundation world models. It can control robots, power humanoids, drive cars (on the roads of India!), train AIs, pilot drones, and even play video games. We can’t wait to see what intelligent systems it enables.
+
+🔗 [View original post](https://x.com/AIStackLabX/status/2099906307767910637)
+
+---
+
+### 🕐 16:58 UTC · @Wise1Philosophy
+
+> Stop losing hours to video editing. Poolday learned how to do it. It studies your style, grabs your assets, produces the whole video, and quality checks its own work. You describe what you want. The AI handles start to finish. Everyone gets access now. We raised $11M to make video editors obsolete. Not the humans, the tools. Think about the hours you lose searching for assets, moving clips frame by frame, fixing animations, checking exports, and redoing the same edits over and over. Poolday handles the entire video production p…
+
+🔗 [View original post](https://x.com/AIHighlight/status/2099905661836439596)
+
+---
+
+### 🕐 16:56 UTC · @Wise1Philosophy
+
+> One prompt generates your entire video. Poolday spent $11M to automate the parts of editing that waste the most time: asset hunts, clip shuffling, animation fixes, export checks, and redoing the same edits over and over. Your style locked in. Your assets ready. Videos ship instantly. We raised $11M to make video editors obsolete. Not the humans, the tools. Think about the hours you lose searching for assets, moving clips frame by frame, fixing animations, checking exports, and redoing the same edits over and over. Poolday handles the entire video production p…
+
+🔗 [View original post](https://x.com/FutureStacked/status/2099905321032355959)
+
+---
+
+### 🕐 16:55 UTC · @Wise1Philosophy
+
+> The video editing industry just got disrupted. Poolday doesn&apos;t replace editors yet. It replaces the 6 hours of setup, searching, frame-by-frame fixes, and redo loops. Plug in your brand style. Give it a prompt. Watch AI build the full video while you focus on what actually matters. We raised $11M to make video editors obsolete. Not the humans, the tools. Think about the hours you lose searching for assets, moving clips frame by frame, fixing animations, checking exports, and redoing the same edits over and over. Poolday handles the entire video production p…
+
+🔗 [View original post](https://x.com/AriaWestcott/status/2099904881754595412)
+
+---
+
+### 🕐 16:53 UTC · @Wise1Philosophy
+
+> 🚨 ASÍ SUELE EMPEZAR MI BÚSQUEDA DE UN MODELO DE IA PARA UN NUEVO PROYECTO: Abro varias pestañas. Veo demos impresionantes. Leo que cinco modelos diferentes son &quot;los mejores&quot;. Y después de todo eso, todavía no sé cuál debería probar para lo que necesito crear hoy. Por eso estuve explorando OpenArt Arena.
+
+![🚨 ASÍ SUELE EMPEZAR MI BÚSQUEDA DE UN MODELO DE IA PARA UN NUEVO PROYECTO: Abro varias pestañas. Veo demos impresionantes. Leo que cinco modelos diferentes son &quot;los mejores&quot;. Y después de to](../../../../assets/images/2026/09/15/2099904479701459415-1.png)
+
+🔗 [View original post](https://x.com/Marco_Exito/status/2099904479701459415)
+
+---
+
+### 🕐 16:53 UTC · @Wise1Philosophy
+
+> $11M bet that AI can replace frame-by-frame video editing. Poolday automates everything humans hate: searching assets, moving clips, fixing timing, running QA. One prompt. Full video. 100M+ edits already shipped. The first 50 people can test it today. We raised $11M to make video editors obsolete. Not the humans, the tools. Think about the hours you lose searching for assets, moving clips frame by frame, fixing animations, checking exports, and redoing the same edits over and over. Poolday handles the entire video production p…
+
+🔗 [View original post](https://x.com/AIFrontliner/status/2099904372201173310)
+
+---
+
+### 🕐 16:53 UTC · @Wise1Philosophy
+
+> the interesting part of Odyssey-3 isn’t the robot demos. it’s the idea behind them. • one world model • one understanding of physics • different systems • different tasks humanoids. cars. drones. robot arms. video games. that’s a very different path for physical AI. Media Today we’re unveiling Odyssey-3, a big step forward for foundation world models. It can control robots, power humanoids, drive cars (on the roads of India!), train AIs, pilot drones, and even play video games. We can’t wait to see what intelligent systems it enables.
+
+🔗 [View original post](https://x.com/Diptish09/status/2099904361539526658)
+
+---
+
+### 🕐 16:51 UTC · @Wise1Philosophy
+
+> Breaking: Your video editor just became an AI agent. Poolday raised $11M to handle the worst part of video production: the boring stuff. It learns your style, uses your assets, and builds finished videos from a single prompt. The editor job just changed forever. We raised $11M to make video editors obsolete. Not the humans, the tools. Think about the hours you lose searching for assets, moving clips frame by frame, fixing animations, checking exports, and redoing the same edits over and over. Poolday handles the entire video production p…
+
+🔗 [View original post](https://x.com/TheAIColony/status/2099904025466466400)
+
+---
+
+### 🕐 16:51 UTC · @Wise1Philosophy
+
+> The day has come guys... &quot;Shopify stores are now officially better than Amazon&quot; 💀 Finally no more filtering for things after I search. Now I can just filter *by typing*... “I want a black shirt size M under $60. Today, I&apos;m excited to announce a huge leap forward for search Now Shopify stores have *more powerful search than Amazon* By adding AI Autocomplete to their search, users can filter by typing, which increases sales significantly by helping people find what they want faster. Just b…
+
+🔗 [View original post](https://x.com/alex_prompter/status/2099903883631878299)
+
+---
+
+### 🕐 16:50 UTC · @Wise1Philosophy
+
+> Most AI video tools start by generating pretty much everything from scratch. That’s not always what brands need. Most of the time you already have the good stuff: → Real product footage → Assets → Brand components You just need a faster way to turn it into a video. That’s what I like about Poolday. It works more like an AI video editor: footage, adding transitions &amp; captions, &amp; helping QA the final video!! But the best part is that everything stays editable layer by layer. Want to change one caption, clip, or visual? Edit that layer. No need to regenerate the entire video. http://poolday.ai We raised $11M to make video editors obsolete. Not the humans, the tools. Think about the hours you lose searching for assets, moving clips frame by frame, fixing animations, checking exports, and redoing the same edits over and over. Poolday handles the entire video production p…
+
+🔗 [View original post](https://x.com/sufyanmaan/status/2099903762471027020)
+
+---
+
+### 🕐 16:49 UTC · @Wise1Philosophy
+
+> Imagine paying to get a customer into your store... then refusing to point them to the right aisle. That&apos;s how I&apos;ve always felt searching. So naturally I gasped when I saw AI Autocomplete now lets Shopify shoppers type anything they want and instantly filters. Giving the people what they want! Today, I&apos;m excited to announce a huge leap forward for search Now Shopify stores have *more powerful search than Amazon* By adding AI Autocomplete to their search, users can filter by typing, which increases sales significantly by helping people find what they want faster. Just b…
+
+🔗 [View original post](https://x.com/alex_verem/status/2099903403170099280)
+
+---
+
+### 🕐 16:47 UTC · @Wise1Philosophy
+
+> It was always inevitable, but the day is here: &quot;Shopify stores are now officially better than Amazon&quot; AI Autocomplete makes Shopify store search more powerful than old school search, still used by Amazon and the rest of the industry 🔥 Today, I&apos;m excited to announce a huge leap forward for search Now Shopify stores have *more powerful search than Amazon* By adding AI Autocomplete to their search, users can filter by typing, which increases sales significantly by helping people find what they want faster. Just b…
+
+🔗 [View original post](https://x.com/free_ai_guides/status/2099902827225121072)
+
+---
+
+### 🕐 16:46 UTC · @Wise1Philosophy
+
+> Someone is going to build a high-ticket CRO agency entirely around upgrading search architecture for mid-market brands. Seems like most online stores are still running search UX from 2014: Static keyword matching 0-result pages on common phrasing Endless dropdown filters Zero context awareness Having an AI layer like AI Autocomplete predict intent while typing turns a basic input box into an active guided search. Turning dead search sessions into completed checkouts is one of the highest-ROI fixes an ecom brand can make right now. Today, I&apos;m excited to announce a huge leap forward for search Now Shopify stores have *more powerful search than Amazon* By adding AI Autocomplete to their search, users can filter by typing, which increases sales significantly by helping people find what they want faster. Just b…
+
+🔗 [View original post](https://x.com/alexgroberman/status/2099902759634104673)
+
+---
+
+### 🕐 16:45 UTC · @Wise1Philosophy
+
+> While the world is bickering over extinction, Shopify has quietly passed Amazon. Now stores can add AI Autocomplete to their search, unlocking the most powerful search experience we&apos;ve seen. No pacing happening in Shopify land 💀💀💀 Today, I&apos;m excited to announce a huge leap forward for search Now Shopify stores have *more powerful search than Amazon* By adding AI Autocomplete to their search, users can filter by typing, which increases sales significantly by helping people find what they want faster. Just b…
+
+🔗 [View original post](https://x.com/claudeskills101/status/2099902339440107979)
+
+---
+
+### 🕐 16:43 UTC · @Wise1Philosophy
+
+> Stop asking which AI model is best. OpenArt Arena just proved the real question is which model is best for your next project. Creative professionals tested leading models on film, ads, animation, motion design, and video editing. The winner depends entirely on what you&apos;re building. Today we’re launching OpenArt Arena, the global leaderboard for creative intelligence. Every AI model claims to be the best. But best at what? We brought together creative professionals to evaluate the world’s leading AI models blindly, across the work creators actually care abou…
+
+![Stop asking which AI model is best. OpenArt Arena just proved the real question is which model is best for your next project. Creative professionals tested leading models on film, ads, animation, moti](../../../../assets/images/2026/09/15/2099901898312610284-1.jpg)
+
+🔗 [View original post](https://x.com/AIHighlight/status/2099901898312610284)
+
+---
+
+### 🕐 16:42 UTC · @Wise1Philosophy
+
+> 🚨 SI OCULTARAN EL NOMBRE Y EL LOGO DE TUS MODELOS DE IA FAVORITOS, ¿SEGUIRÍAS ELIGIENDO SUS RESULTADOS? Es fácil dejarse llevar por un lanzamiento, una marca o una demo viral. Pero cuando estoy creando algo para un proyecto real, lo que necesito saber es mucho más simple: ¿qué resultado funciona mejor para este trabajo? OpenArt Arena intenta responder esa pregunta de una forma interesante. 👀
+
+![🚨 SI OCULTARAN EL NOMBRE Y EL LOGO DE TUS MODELOS DE IA FAVORITOS, ¿SEGUIRÍAS ELIGIENDO SUS RESULTADOS? Es fácil dejarse llevar por un lanzamiento, una marca o una demo viral. Pero cuando estoy creand](../../../../assets/images/2026/09/15/2099901780553576736-1.png)
+
+🔗 [View original post](https://x.com/Alex_Inspira/status/2099901780553576736)
+
+---
+
+### 🕐 16:41 UTC · @Wise1Philosophy
+
+> Every AI claims dominance but OpenArt Arena cut through the noise. Creative professionals evaluated leading models blindly on real creative work: film, ads, animation, motion design, video editing. The verdict crushes the myth of one universal winner and gives you something better: clarity on what actually works for your craft. Today we’re launching OpenArt Arena, the global leaderboard for creative intelligence. Every AI model claims to be the best. But best at what? We brought together creative professionals to evaluate the world’s leading AI models blindly, across the work creators actually care abou…
+
+![Every AI claims dominance but OpenArt Arena cut through the noise. Creative professionals evaluated leading models blindly on real creative work: film, ads, animation, motion design, video editing. Th](../../../../assets/images/2026/09/15/2099901393813295423-1.jpg)
+
+🔗 [View original post](https://x.com/AriaWestcott/status/2099901393813295423)
+
+---
+
+### 🕐 16:39 UTC · @Wise1Philosophy
+
+> The benchmark that changes everything just dropped. Real creators tested leading AI models across the disciplines that matter most: film, ads, animation, motion design, video editing. The takeaway is brutal but practical: there&apos;s no best model, only the right model for what you&apos;re creating next. Today we’re launching OpenArt Arena, the global leaderboard for creative intelligence. Every AI model claims to be the best. But best at what? We brought together creative professionals to evaluate the world’s leading AI models blindly, across the work creators actually care abou…
+
+![The benchmark that changes everything just dropped. Real creators tested leading AI models across the disciplines that matter most: film, ads, animation, motion design, video editing. The takeaway is ](../../../../assets/images/2026/09/15/2099900973682504031-1.jpg)
+
+🔗 [View original post](https://x.com/FutureStacked/status/2099900973682504031)
+
+---
+
+### 🕐 16:39 UTC · @Wise1Philosophy
+
+> Robot police force just went live in China. Humanoid robots, robot dogs, autonomous dronesall deployed on streets in Bantian, patrolling autonomously, detecting threats, searching for missing people. Robotics just became operational reality. Media
+
+🔗 [View original post](https://x.com/TheAIColonyRD/status/2099900931038912756)
+
+---
+
+### 🕐 16:36 UTC · @Wise1Philosophy
+
+> Creative professionals just ranked every major AI model blindly and the results broke the narrative. There&apos;s no single best model. The one that wins is the one built for what you&apos;re actually making: film, ads, animation, or motion design. Today we’re launching OpenArt Arena, the global leaderboard for creative intelligence. Every AI model claims to be the best. But best at what? We brought together creative professionals to evaluate the world’s leading AI models blindly, across the work creators actually care abou…
+
+![Creative professionals just ranked every major AI model blindly and the results broke the narrative. There&apos;s no single best model. The one that wins is the one built for what you&apos;re actually](../../../../assets/images/2026/09/15/2099900973682504031-1.jpg)
+
+🔗 [View original post](https://x.com/TheAIColony/status/2099900271287476438)
+
+---
+
+### 🕐 16:34 UTC · @Wise1Philosophy
+
+> OpenArt Arena just launched the benchmark creatives have been waiting for. They had real creators evaluate leading AI models across actual creative work with zero bias. The truth? Best is relative. It depends on whether you&apos;re shooting film, ads, animation, or motion design. Today we’re launching OpenArt Arena, the global leaderboard for creative intelligence. Every AI model claims to be the best. But best at what? We brought together creative professionals to evaluate the world’s leading AI models blindly, across the work creators actually care abou…
+
+![OpenArt Arena just launched the benchmark creatives have been waiting for. They had real creators evaluate leading AI models across actual creative work with zero bias. The truth? Best is relative. It](../../../../assets/images/2026/09/15/2099899711410913389-1.jpg)
+
+🔗 [View original post](https://x.com/AIFrontliner/status/2099899711410913389)
+
+---
+
+### 🕐 16:29 UTC · @Wise1Philosophy
+
+> Esto hacía mucha falta. Cada semana sale un nuevo modelo de vídeo diciendo que es “el mejor”. Pero cuando vas a crear algo de verdad descubres que uno funciona mejor para escenas cinematográficas, otro para animación, otro para anuncios y otro para edición. OpenArt Arena intenta poner orden en todo ese caos. Comparaciones a ciegas, evaluadas por profesionales creativos y separadas por casos de uso reales. Media Today we’re launching OpenArt Arena, the global leaderboard for creative intelligence. Every AI model claims to be the best. But best at what? We brought together creative professionals to evaluate the world’s leading AI models blindly, across the work creators actually care abou…
+
+🔗 [View original post](https://x.com/MiguelMaestroIA/status/2099898342373204212)
+
+---
+
+### 🕐 16:27 UTC · @Wise1Philosophy
+
+> There&apos;s something different about telling AI “edit this” when it can actually operate the editor. With GPT-6 Astra, I can provide footage and describe the edit I want. Astra then controls CapCut PC to organize the clips, build the sequence, add captions, transitions and audio. The result isn&apos;t a mysterious AI output. It&apos;s a project I can open and keep editing. That makes the workflow feel much more transparent: AI builds. I inspect. I refine. Maybe that&apos;s the future of AI-assisted editing. #GPT6Astra #CapCutPC #AIVideo #Seedance25 Media
+
+🔗 [View original post](https://x.com/Damn_coder/status/2099897845172351440)
+
+---
+
+### 🕐 16:25 UTC · @Wise1Philosophy
+
+> HOW TO RAISE YOUR VIBRATION &amp; attract better experiences.. 👇 🧵
+
+🔗 [View original post](https://x.com/MindPatternHQ/status/2099897306325921875)
+
+---
+
+### 🕐 16:22 UTC · @Wise1Philosophy
+
+> “Change one caption” should never mean “roll the dice on the entire video again.” That’s a ridiculous revision process. Poolday keeps the output editable, layer by layer. Point at the element you want changed and edit that piece. For anyone used to working with agents, this matters: the first draft is easy to celebrate. The fifth revision is where you find out whether the thing is actually useful. We raised $11M to make video editors obsolete. Not the humans, the tools. Think about the hours you lose searching for assets, moving clips frame by frame, fixing animations, checking exports, and redoing the same edits over and over. Poolday handles the entire video production p…
+
+🔗 [View original post](https://x.com/claudeskills101/status/2099896562742649248)
+
+---
+
+### 🕐 16:22 UTC · @Wise1Philosophy
+
+> PARENTS, IF YOUR TODDLER IS TURNING 2 SOON, BRACE YOURSELF AND READ THESE 12 THINGS. 1. They need you far more than they&apos;ll ever need you again... 👇
+
+🔗 [View original post](https://x.com/scotti_brooks/status/2099896523786240101)
+
+---
+
+### 🕐 16:20 UTC · @Wise1Philosophy
+
+> You recorded a 90-minute podcast. Now comes the part that eats your week. Clean the audio. Find the good bits. Cut a trailer. Caption the clips. Poolday’s pitch: upload the episode and get the cleaned full version, a trailer and eight captioned clips back. I’d use it for the backlog first. There could be a month of posts sitting in recordings you’ve already paid to make. We raised $11M to make video editors obsolete. Not the humans, the tools. Think about the hours you lose searching for assets, moving clips frame by frame, fixing animations, checking exports, and redoing the same edits over and over. Poolday handles the entire video production p…
+
+🔗 [View original post](https://x.com/free_ai_guides/status/2099896120251957277)
+
+---
+
+### 🕐 16:20 UTC · @Wise1Philosophy
+
+> 7 signs you&apos;re taking parenting too seriously... And it may be making parenting harder than it needs to be... 👇 🧵
+
+![7 signs you&apos;re taking parenting too seriously... And it may be making parenting harder than it needs to be... 👇 🧵](../../../../assets/images/2026/09/15/2099896052321300710-1.jpg)
+
+🔗 [View original post](https://x.com/Manifest_Lord/status/2099896052321300710)
+
+---
+
+### 🕐 16:18 UTC · @Wise1Philosophy
+
+> $5k audit in 40 seconds is CRAZY 👏 save this before it gets buried: pletor 2.0 is live and it&apos;s the first AI tool that actually knows your brand before you explain it → paste your website → it encodes products, voice, visuals, guidelines → every agent you build taps into it → update once, updates everywhere gave i…
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2099895644672376840)
+
+---
+
+### 🕐 16:17 UTC · @Wise1Philosophy
+
+> at this point we can say ai videos are getting out of hand. this is a good one Media
+
+🔗 [View original post](https://x.com/daveydefi/status/2099895447535911121)
+
+---
+
+### 🕐 16:16 UTC · @Wise1Philosophy
+
+> Your product ships daily. Your demo video is from six months ago. That’s an embarrassing gap for a company selling innovation. Poolday can connect to GitHub and turn shipped features into on-brand launch videos using your real UI. The interesting part is the trigger: shipping the feature kicks off making the video. A release shouldn’t need a second project just to explain what changed. We raised $11M to make video editors obsolete. Not the humans, the tools. Think about the hours you lose searching for assets, moving clips frame by frame, fixing animations, checking exports, and redoing the same edits over and over. Poolday handles the entire video production p…
+
+🔗 [View original post](https://x.com/alex_verem/status/2099895158154125740)
+
+---
+
+### 🕐 16:14 UTC · @Wise1Philosophy
+
+> AI video has a dirty little secret: you’re still doing the editing. Generate a clip. Fix it. Find music. Add captions. Stitch everything together. Congratulations. You’ve become the AI’s unpaid intern. Poolday takes your actual footage and handles the cut, transitions, music and captions, then checks its own work. Getting from “here are my files” to “here’s the finished video” is the part worth automating. We raised $11M to make video editors obsolete. Not the humans, the tools. Think about the hours you lose searching for assets, moving clips frame by frame, fixing animations, checking exports, and redoing the same edits over and over. Poolday handles the entire video production p…
+
+🔗 [View original post](https://x.com/alex_prompter/status/2099894554983792872)
+
+---
+
+### 🕐 16:09 UTC · @Wise1Philosophy
+
+> imo the wild part is Astra directing other tools this well :) GPT-6 Astra use cases keep getting crazier People are finishing playable games, robot demos, and 3D pipelines in hours. Here are 8 from the last few days:
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2099893463151980677)
+
+---
+
+### 🕐 16:04 UTC · @Wise1Philosophy
+
+> Most AI video tools give you synthetic clips that look completely off-brand. Poolday works more like an actual video editor. You give it your real footage, Figma assets, and brand components, and it cuts, transitions, captions, and QA&apos;s the whole thing. My favorite part: everything stays fully editable layer by layer. If you want to change one element, you just tweak that layer without having to regenerate the whole video. http://poolday.ai We raised $11M to make video editors obsolete. Not the humans, the tools. Think about the hours you lose searching for assets, moving clips frame by frame, fixing animations, checking exports, and redoing the same edits over and over. Poolday handles the entire video production p…
+
+🔗 [View original post](https://x.com/ecomchasedimond/status/2099892139689906440)
+
+---
+
+### 🕐 15:58 UTC · @Wise1Philosophy
+
+> the most underrated enterprise AI account on this app: A PE firm reached out to us last month to get them out of a consulting engagement. Six figures spent on AI consulting across seven portfolio companies, and all they had to show for it was a team chat subscription. They needed real EBITDA impact by December to underwrite their 202…
+
+🔗 [View original post](https://x.com/alex_verem/status/2099890688070475959)
+
+---
+
+### 🕐 15:54 UTC · @Wise1Philosophy
+
+> I used to blame the emails when a welcome flow underperformed. Open rates, subject lines, offer structure. I&apos;d rework the whole sequence before looking anywhere else. Then I started noticing a pattern across audits. The brands with the best welcome flow revenue all had one thing in common: better subscribers entering the flow. The popup was doing the heavy lifting before the first email ever goes out. If your popup collects junk leads, even perfect emails won&apos;t save the flow. Most popup tools optimize for submissions. Alia optimizes for what happens after: revenue, conversion rate, and subscriber quality. HexClad made the switch to @AliaPopups, doubled their email opt-in rate, and saw a 68% lift in flow revenue. Same emails. The key was getting better subscribers to enter the sequence. 4,500+ Shopify stores use Alia to turn their popups into a revenue channel. Check it out via my link below, and you’ll get a special 30-day free trial: https://app.aliapopups.com/refer/EQX7Y4
+
+![I used to blame the emails when a welcome flow underperformed. Open rates, subject lines, offer structure. I&apos;d rework the whole sequence before looking anywhere else. Then I started noticing a pa](../../../../assets/images/2026/09/15/2099889674869494101-1.jpg)
+
+🔗 [View original post](https://x.com/ecomchasedimond/status/2099889674869494101)
+
+---
+
+### 🕐 15:54 UTC · @Wise1Philosophy
+
+> SCREENS ARE NO LONGER STATIC @shourya0714 and the @flamappofficial team just secured a $40M Series B to make spatial interfaces the default 🙌 the numbers back it up: → 100 plus enterprise clients → 15 patents locked down → @QEDInvestors leading the round watch this space 👀 announcing @flamappofficial&apos;s $40M Series B led by @QEDInvestors with @iamsrk @rtpvc @RMartinChavez @oliveur joining the rocketship its time to break free 🚀
+
+🔗 [View original post](https://x.com/DataChaz/status/2099889663586476174)
+
+---
+
+### 🕐 15:51 UTC · @Wise1Philosophy
+
+> YOUR MACBOOK HAS A HIDDEN FOLDER THAT&apos;S EATING 50GB OF YOUR STORAGE. Apple never tells you what&apos;s in it. Here are 4 steps to clear it for free:👇
+
+🔗 [View original post](https://x.com/Kevincreates77/status/2099888881265172858)
+
+---
+
+### 🕐 15:46 UTC · @Wise1Philosophy
+
+> I bought three cheap ashwagandhas before I read a single label. None of them said KSM-66 and none of them did anything. Six weeks on the standardised extract and I stopped waking at 3am with my heart going. The ashwagandha I use (#ad): https://lvnta.com/lv_yDcVS1MrLzASyOKhtz
+
+🔗 [View original post](https://x.com/Rose_MaryIRL/status/2099887501402091702)
+
+---
+
+### 🕐 15:46 UTC · @Wise1Philosophy
+
+> Heart attack = blood sugar. Heart attack = insulin resistance. Heart attack = No.1 killer worldwide. 5 simple rules to protect your heart: 1. Don&apos;t go pee at 3 AM
+
+🔗 [View original post](https://x.com/Rose_MaryIRL/status/2099887465620459938)
+
+---
+
+### 🕐 15:42 UTC · @Wise1Philosophy
+
+> STOP PAYING FOR AI COURSES. The companies building AI are teaching it for free. Here are 10 resources that can take you from beginner to job-ready:
+
+🔗 [View original post](https://x.com/AIHighlight/status/2099886700386296228)
+
+---
+
+### 🕐 15:42 UTC · @Wise1Philosophy
+
+> You can easily earn $7,936 per month if you have: 1. Internet 2. Mobile 3. 1 hour per day I will teach you how. Get my step-by-step guide 100% FREE for today. Like and comment “Send” and I’ll DM it to you. Must follow me to get DM. FREE for the next 48 hours only.
+
+![You can easily earn $7,936 per month if you have: 1. Internet 2. Mobile 3. 1 hour per day I will teach you how. Get my step-by-step guide 100% FREE for today. Like and comment “Send” and I’ll DM it to](../../../../assets/images/2026/09/15/2099886657944375330-1.png)
+
+🔗 [View original post](https://x.com/jaysmith_ai/status/2099886657944375330)
+
+---
+
+### 🕐 15:37 UTC · @Wise1Philosophy
+
+> realizing this free 5 minute article is worth more than every SEO course ever sold: Media https://x.com/i/article/2095839932980043776
+
+🔗 [View original post](https://x.com/bloggersarvesh/status/2099885256266612919)
+
+---
+
+### 🕐 15:33 UTC · @Wise1Philosophy
+
+> http://Fin.com bought seven companies with a $20M seed. Seven deals in 12 months, per Nabeel Alamgir&apos;s post quoted here, is a strange pace for a company that came out of stealth this week, until you look at what it is actually building. The hard part of cross-border money is the last mile, turning a stablecoin or a wire into money that lands in a local bank account in Dhaka or Lahore within minutes, with the licenses, banking relationships and payout rails each country demands. Each of those endpoints is slow, relationship-heavy work to build. That reading makes the deal count look a lot less strange. Fin says it now pays out in 30+ countries across 40+ currencies, and acquiring your way into a market tends to run faster than its licensing queue. The pitch is invisible plumbing behind fintech apps, payroll platforms and, per Fortune, prediction markets, which is how the post can claim you&apos;ve probably used Fin already. The piece I&apos;d watch is what happens after the deals close. Seven acquisitions usually means seven compliance setups and seven sets of bank relationships, and folding that into one settlement layer is where payments roll-ups get expensive. If the settlement in minutes at 0.01 to 0.3% that Fin advertises holds across all of those corridors, the coverage gets hard to copy. The last hop is where cross-border payments gets decided from here, the moment money lands in a real local account on time and at a price the sender barely notices. Whoever owns the most of those endpoints sets the terms for everyone routing money into South Asia, Africa and the Middle East. https://Fin.com. $20M Raised. 7 M&amp;A’s completed in 12 months. Investors include Expa, Coinbase Ventures, and Tenet Fund. 825 million users impacted. You have probably used us already. We help your favorite fintechs move money to the rest of the world.
+
+🔗 [View original post](https://x.com/aakashgupta/status/2099884312590221814)
+
+---
+
+### 🕐 15:33 UTC · @Wise1Philosophy
+
+> China just unveiled autonomous robotic fish for underwater surveillance. They swim like real fish. But they’re robots. Media
+
+🔗 [View original post](https://x.com/TheAIColony/status/2099884255211827218)
+
+---
+
+### 🕐 15:32 UTC · @Wise1Philosophy
+
+> A PE firm reached out to us last month to get them out of a consulting engagement. Six figures spent on AI consulting across seven portfolio companies, and all they had to show for it was a team chat subscription. They needed real EBITDA impact by December to underwrite their 2027 exits. Instead, they had a bloated 150-hour discovery deck and a dev vendor billing extra &quot;AI productivity&quot; fees with zero boost in shipping speed. PE funds are buying AI advice far faster than that advice turns into working software. Across portfolio companies, the same four gaps consistently show up between legacy consulting promises and actual engineering needs: 1. Verifiable Proof vs. Slide Decks Consultancies spend weeks on interviews to sell a maturity assessment. We spend week one building a &apos;golden set&apos;, which includes 20 to 60 real operational cases with pre-agreed correct outputs. Grant Thornton found only 9% of PE leaders can prove their AI works to a buyer within 90 days. A golden set is definitive proof. An assessment is just a slide deck promising it. 2. Production Infrastructure vs. Abstract Roadmaps Instead of selling &apos;phased journeys&apos;, we stand up a live foundation directly inside the portco&apos;s Azure tenant within three weeks. We lock down read-only data access, strip PII/PHI, and set hard per-seat cost caps. The client owns everything from day one. If we leave, nothing breaks. 3. Lean Automation Pods vs. Billable Headcount Traditional firms add $350-an-hour bodies to grow the account. We deploy a lean $17K/month, month-to-month pod: one senior engineer, automated AI development harnesses, and a fractional architect. As our harness handles more of the load, our human footprint shrinks over time instead of growing. 4. Internal Ownership vs. Vendor Lock-In Unscrupulous vendors keep client setups obscure to protect billing. We embed the portco&apos;s product owner from day one, deliver a 90-day self-sufficiency plan, and leave telemetry running. True success means the portco ships its own updates without calling us. By deploying a reusable harness in the first portco, we can roll directly into the next company in weeks rather than months. Consultancies sell funds a vision of where AI could take them. We ship the first working agent and let the CFO decide if the vision was real.
+
+🔗 [View original post](https://x.com/mardehaym/status/2099884175318823100)
+
+---
+
+### 🕐 15:31 UTC · @Wise1Philosophy
+
+> &gt; be nabeel &gt; leave bangladesh at 14, alone &gt; land in new york, don&apos;t speak the language well &gt; start as a busboy at a burger joint &gt; notice the ordering system is broken &gt; fix it, get promoted to cmo &gt; quit, build your own company &gt; raise $22m &gt; forbes 30 under 30 at 25 &gt; could coast forever &gt; don&apos;t &gt; pivot into the hardest, most boring, most necessary problem in finance &gt; build the rails so money can actually get to dhaka and karachi in minutes instead of days &gt; the same route you took at 14, except now it&apos;s the money&apos;s turn to move fast https://Fin.com. $20M Raised. 7 M&amp;A’s completed in 12 months. Investors include Expa, Coinbase Ventures, and Tenet Fund. 825 million users impacted. You have probably used us already. We help your favorite fintechs move money to the rest of the world.
+
+🔗 [View original post](https://x.com/viipin8/status/2099883814885482821)
+
+---
+
+### 🕐 15:22 UTC · @Wise1Philosophy
+
+> finally someone making graphs feel actually useful You dumped everything into your Claude Code folder. Here&apos;s how to (actually) set up a graph in four steps: Full walkthrough here → https://charliehills.substack.com/p/graph-engineering-claude-code I ignored graphs for months (context, loop, and now this). It was the thing standin…
+
+🔗 [View original post](https://x.com/Wise1Philosophy/status/2099881473356583043)
+
+---
+
+### 🕐 15:21 UTC · @Wise1Philosophy
+
+> best account on X if you want enterprise AI without the hype: The difference between an AI consultancy and a hands-on implementation firm is simple. One sells a long transformation. The other ships work, gets first numbers on the board, and iterates from real metrics. That is the better path: implement, measure, adjust, move. Not a year-lon…
+
+🔗 [View original post](https://x.com/alex_prompter/status/2099881206842048802)
+
+---
+
+### 🕐 15:16 UTC · @Wise1Philosophy
+
+> We&apos;re approaching the end of the “more features = better device” era. A phone with 20 more features sounds impressive. but people don&apos;t need 20 more things to do. They need fewer things to think about. That&apos;s where Moonphase Flip changes the equation. With an always-on E-ink display, the information you need can simply be there when you flip it open instead of making you hunt through apps and screens for it. And if the device understands context, it doesn&apos;t need to expose every capability to the user. It can quietly handle the complexity underneath. Which means the best hardware might actually become simpler on the surface while becoming much more intelligent underneath. That&apos;s a fascinating reversal. More intelligence. Less interaction. Less screen time. And a much simpler experience. Meet Moonphase Flip: a low-distraction AI screen on the back of your phone that keeps track of your to-dos and takes actions before you ask. Threads below 🧵 Explore more: https://hellomoonphase.com/s/17e982
+
+![We&apos;re approaching the end of the “more features = better device” era. A phone with 20 more features sounds impressive. but people don&apos;t need 20 more things to do. They need fewer things to t](../../../../assets/images/2026/09/15/2099880076385145256-1.jpg)
+
+🔗 [View original post](https://x.com/ZabihullahAtal/status/2099880076385145256)
+
+---
+
+### 🕐 15:09 UTC · @Wise1Philosophy
+
+> 🚨Apple has officially released iOS 27 for all users! This is the biggest iOS update. Here are 9 new features you shouldn’t miss: ↓
+
+🔗 [View original post](https://x.com/AIFrontliner/status/2099878163715133486)
+
+---
+
+### 🕐 15:01 UTC · @Wise1Philosophy
+
+> A urologist shocked me when he said: &quot;You age because your body stops making testosterone. Without it, your muscle goes, your drive goes, and your belly grows.&quot; Here&apos;s the 5-step protocol to rebuild it naturally: 1. Stop cutting the FAT out of breakfast
+
+🔗 [View original post](https://x.com/RafaelNasriX/status/2099876202190454821)
 
 ---
 
