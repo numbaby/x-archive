@@ -2,7 +2,83 @@
 
 ## 📅 October 15, 2026
 
-> 30 post(s) archived.
+> 40 post(s) archived.
+
+---
+
+### 🕐 12:52 UTC · @elonmusk
+
+> Maybe we should start a competitor to Amazon 🤔 amazon is blocking grok @bots from ordering, and elon&apos;s answer is just have your bot buy it somewhere else. one of my grok bots only handles my amazon returns, so i&apos;m watching this one closely. would you switch stores for your bot? 🛒 Elon, i think its time for an X Shop? 👀
+
+🔗 [View original post](https://x.com/elonmusk/status/2110715556328579219)
+
+---
+
+### 🕐 12:38 UTC · @elonmusk
+
+> The whole world will watch this The only other person who’s ever made me this excited about a product unveil was Steve Jobs. Watching him introduce the first iPhone is a huge part of why I fell in love with technology. Elon brings that feeling back for me, but honestly, I think he takes it to a whole different …
+
+🔗 [View original post](https://x.com/elonmusk/status/2110711793337135550)
+
+---
+
+### 🕐 12:37 UTC · @elonmusk
+
+> New Roadster is beyond movies, beyond imagination, beyond human, yet still made by humans on Earth
+
+🔗 [View original post](https://x.com/elonmusk/status/2110711574121857208)
+
+---
+
+### 🕐 12:21 UTC · @elonmusk
+
+> BREAKING: United just launched a Starlink tracker so you can check if your next flight has Starlink Wi-Fi and follow its rollout across the fleet. With 635+ United aircraft already connected, finding Starlink in the sky just got easier. https://starlinktracker.united.com/program/starlink Media
+
+🔗 [View original post](https://x.com/cb_doge/status/2110707656671539540)
+
+---
+
+### 🕐 11:55 UTC · @elonmusk
+
+> Livestream at Tesla Experience Centre, Toa Payoh on October 16
+
+![Livestream at Tesla Experience Centre, Toa Payoh on October 16](../../../../assets/images/2026/10/15/2110701062336483332-1.jpg)
+
+🔗 [View original post](https://x.com/tesla_singapore/status/2110701062336483332)
+
+---
+
+### 🕐 11:34 UTC · @elonmusk
+
+> Truth-seeking is the most important aspect of AI/SI safety &quot;HAL was told to lie, by people who find it easy to lie. HAL doesn&apos;t know how. So, he couldn&apos;t function.&quot;
+
+🔗 [View original post](https://x.com/elonmusk/status/2110695927312777466)
+
+---
+
+### 🕐 11:19 UTC · @elonmusk
+
+> Adding a guarantee that you’ll be ok if something goes wrong makes me much more likely to try @bot out for a shopping run! This works well. If Grok @Bot makes a mistake with a purchase or leaks your card (never happened yet), SpaceX will make you whole.
+
+🔗 [View original post](https://x.com/DrKnowItAll16/status/2110692041583734825)
+
+---
+
+### 🕐 11:11 UTC · @elonmusk
+
+> Starlink is making a 14-year Delta loyalist rethink his airline. AllFly cofounder Kenny Totten, who has held Delta Diamond status for seven years, tried @Starlink on United. He downloaded and uploaded video, worked with teammates and built an app during the flight. “It was amazing, like being on the internet at my house, in my living room.” Now he’s considering flying United more. That’s how good Starlink is. One flight can make someone reconsider years of airline loyalty.
+
+![Starlink is making a 14-year Delta loyalist rethink his airline. AllFly cofounder Kenny Totten, who has held Delta Diamond status for seven years, tried @Starlink on United. He downloaded and uploaded](../../../../assets/images/2026/10/15/2110690137084682278-1.jpg)
+
+🔗 [View original post](https://x.com/cb_doge/status/2110690137084682278)
+
+---
+
+### 🕐 10:14 UTC · @elonmusk
+
+> Last year Ukraine officially lost ~800,000 people. Population has collapsed from 52M in 1991 to barely 20M today. If this is “protecting” Ukraine, the strategy has failed.
+
+🔗 [View original post](https://x.com/IuliiaMendel/status/2110675549966229551)
 
 ---
 
@@ -45,6 +121,14 @@
 > Just ask Grok @Bot to buy what you want someplace else and get a better deal. There are far more purchasing websites than just Amazon! This happened when I tried to get my Grok Bot to order stuff for me on Amazon. “Continued access by an unauthorized AI agent violates Amazon&apos;s Conditions of Use, to which our customers have agreed.” My bots can no longer access Amazon for orders or anything.
 
 🔗 [View original post](https://x.com/elonmusk/status/2110602585572860213)
+
+---
+
+### 🕐 04:55 UTC · @elonmusk
+
+> &quot;I think it has a shot at being the most memorable product unveil ever.&quot; @elonmusk on the Roadster, one year ago. Does tomorrow night live up to it? Media
+
+🔗 [View original post](https://x.com/teslaownersSV/status/2110595352692768867)
 
 ---
 

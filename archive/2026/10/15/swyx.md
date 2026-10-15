@@ -2,7 +2,17 @@
 
 ## 📅 October 15, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 13:46 UTC · @swyx
+
+> be @aiDotEngineer fanboy miss conference in NYC eight-hour livestream x2 surely i&apos;ll watch it later never watch it let your agent watch it skim the summaries instead learn something realize @swyx already published transcripts https://aie-nyc-2026.vercel.app
+
+![be @aiDotEngineer fanboy miss conference in NYC eight-hour livestream x2 surely i&apos;ll watch it later never watch it let your agent watch it skim the summaries instead learn something realize @swyx](../../../../assets/images/2026/10/15/2110728978726052158-1.jpg)
+
+🔗 [View original post](https://x.com/nibzard/status/2110728978726052158)
 
 ---
 

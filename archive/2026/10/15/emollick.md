@@ -2,7 +2,47 @@
 
 ## 📅 October 15, 2026
 
-> 6 post(s) archived.
+> 11 post(s) archived.
+
+---
+
+### 🕐 15:21 UTC · @emollick
+
+> It also requires you to trust the orchestrator model more than ever, since it is the only thing that can track all of the tasks. Which means you need to use AI to both find problems with AI and to troubleshoot problems you find.
+
+🔗 [View original post](https://x.com/emollick/status/2110752819363909822)
+
+---
+
+### 🕐 15:19 UTC · @emollick
+
+> It used to be that you could look at the CoT from a request and get a sense of where the model was going, but with tons of agents calling other agents, and CoTs that run to thousands of pages for even simple agentic tasks, that is no longer possible.
+
+🔗 [View original post](https://x.com/emollick/status/2110752342907781539)
+
+---
+
+### 🕐 15:13 UTC · @emollick
+
+> The sudden collapse of the value of CoT (even summarized CoT) in the agentic era changes working with AI. Effectively steering AIs and getting any sort of observability now requires you to ask for interim outputs &amp; tests, and to use AI help to troubleshoot problems you find.
+
+🔗 [View original post](https://x.com/emollick/status/2110751021454811549)
+
+---
+
+### 🕐 14:40 UTC · @emollick
+
+> What will they call the foundations for physics, economics, biology…? (Mostly joking, for now) We want to support the mathematics community in turning progress in AI into deeper human understanding and new discoveries. To support that goal, we are contributing $5 million to a new Simons Foundation initiative to help mathematicians examine, understand, and build on results …
+
+🔗 [View original post](https://x.com/emollick/status/2110742724814983351)
+
+---
+
+### 🕐 13:51 UTC · @emollick
+
+> A big Google strength in AI has always been finding interesting uses for the models they have. They pioneered deep research, podcasting-from-information and all of NotebookLM etc. With Gemini 4, haven’t seen any similar product innovation at launch, more following the trends.
+
+🔗 [View original post](https://x.com/emollick/status/2110730356643287439)
 
 ---
 
