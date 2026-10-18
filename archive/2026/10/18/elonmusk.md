@@ -2,7 +2,65 @@
 
 ## 📅 October 18, 2026
 
-> 12 post(s) archived.
+> 19 post(s) archived.
+
+---
+
+### 🕐 15:31 UTC · @elonmusk
+
+> 𝕏 is seeing all-time high usage 𝕏 keeps growing 𝕏 recorded 13.43 BILLION website visits in Q3 2026, up from 12.67 billion in Q2, per Similarweb • 13.43B total visits • +6% quarter-over-quarter growth • +760M additional visits in a single quarter 𝕏 continues to grow as it evolves into much more than a social …
+
+🔗 [View original post](https://x.com/elonmusk/status/2111842588126818619)
+
+---
+
+### 🕐 15:16 UTC · @elonmusk
+
+> The new Tesla Roadster accelerates faster than a fighter jet taking off from an aircraft carrier The new Tesla Roadster produces more thrust than an F-16 fighter jet at military power Roadster Thrust augment: &gt;80 kN (~18,000 lbf) F-16 with F100-PW-229: ~79.2 kN (~17,800 lbf) without afterburner Tesla packed enough cold-gas thrust into a car that exceeds the non-afterburning …
+
+🔗 [View original post](https://x.com/elonmusk/status/2111838943016833235)
+
+---
+
+### 🕐 15:09 UTC · @elonmusk
+
+> Starlink 💫 ❤️ Starlink became a lifeline when a sailor suffered a stroke with no mobile signal. ♥️ Elliot Russo was aboard his yacht in a remote Indonesian lagoon, when he lost movement on one side and struggled to speak. There was no mobile coverage. Their Starlink connection let them contact…
+
+🔗 [View original post](https://x.com/elonmusk/status/2111837147842191690)
+
+---
+
+### 🕐 14:33 UTC · @elonmusk
+
+> Elon Musk on suicidal empathy: When compassion for criminals outweighs compassion for their victims, something has gone terribly wrong Why are repeat violent offenders being released back onto the streets, often without bail, while innocent people are left to suffer the consequences? https://x.com/XFreeze/status/2003520636073967854/video/1 Media
+
+🔗 [View original post](https://x.com/XFreeze/status/2111827906368520235)
+
+---
+
+### 🕐 13:14 UTC · @elonmusk
+
+> Families say Tesla FSD is changing lives for their family members in their 80s and 90s. ♥️ A 90-year-old man now owns a Model Y after his children recommended it. His neighbor, who works in healthcare, says FSD will help him stay independent. Other families shared remarkable stories in the comments: • One said their 92-year-old neighbor bought a Tesla the day after trying FSD. • Another said their 87-year-old father uses FSD to get almost everywhere, adding: “Great that this gives him additional mobility at his age.” • A third said their 83-year-old father loves his Model Y and uses FSD for nearly all his driving, helping him attend his grandchildren’s events and enjoy dinners with friends. “It really is transformational.” For these families, Tesla’s technology means more opportunities to get out, see loved ones and enjoy everyday life. That is what makes FSD’s progress so exciting.
+
+![Families say Tesla FSD is changing lives for their family members in their 80s and 90s. ♥️ A 90-year-old man now owns a Model Y after his children recommended it. His neighbor, who works in healthcare](../../../../assets/images/2026/10/18/2111808071009968197-1.jpg)
+
+🔗 [View original post](https://x.com/cb_doge/status/2111808071009968197)
+
+---
+
+### 🕐 08:22 UTC · @elonmusk
+
+> You&apos;ve probably seen the video. A young Frenchwoman in Paris, in tears, begging looters to stop. &quot;Why are you doing this? That&apos;s not what we stand for.&quot; Some accounts are mocking her. &quot;She voted for it.&quot; I won&apos;t. Because what you see on her face is not stupidity. It&apos;s a disease that has infected the entire West, and it has a name: suicidal empathy. The term comes from Gad Saad, an evolutionary behavioral scientist at Concordia University in Montreal. A man who fled the Lebanese civil war as a child, and who knows what it looks like when a society falls apart. His new book, Suicidal Empathy: Dying to Be Kind, is the follow-up to The Parasitic Mind. Here is the thesis, and why it concerns every one of us. Empathy is one of the best things about us. It evolved for a reason: to care for our children, our kin, our tribe. It was calibrated for a world where the people you felt for were the people around you, and where empathy always came paired with its counterweight: the instinct to protect your own and to recognize a threat. Suicidal empathy is what happens when that mechanism misfires. When it fires at the wrong targets, in the wrong amounts, with no brake. When we feel more for the criminal than for his victim. More for the stranger who breaks the rules than for the citizen who follows them. More for how compassionate we look than for what our compassion actually produces. Where does it come from? Four layers. First, biology. Empathy is a spotlight, as the psychologist Paul Bloom put it. It lights up the one face in front of you and leaves everything else in the dark. The crying migrant on the boat is visible. The thousands of future victims of a broken system are statistics. A spotlight is a terrible tool for running a country. Second, our own civilization. The West is the civilization that put the victim at the center of its morality. Christianity taught us to care for the stranger, the poor, the weak. It was one of the greatest moral revolutions in history. But cut off from its other half, justice, responsibility, the duty to protect your own, it turns into something else. Third, ideology. In The Parasitic Mind, Saad described idea pathogens, ideas that hijack our reasoning. Suicidal empathy is the emotional counterpart: an ideology that hijacks our compassion. It sorts the world into oppressors and victims, then demands unlimited empathy for whoever ranks as the victim, whatever they do. Fourth, status. In the age of social media, empathy has become a display. Posting &quot;refugees welcome&quot; costs nothing and earns applause. The bill goes to someone else: the working class, the suburbs, the women walking home at night. The results are everywhere. Criminals treated as victims of society. Sexual assaults by migrants met with lenient sentences. Self-defense branded as aggression. Borders treated as cruelty. Saad&apos;s conclusion is simple: a society dies when it would rather display infinite tolerance than use its survival instinct. Now the part I&apos;ll add myself, and that few people dare to say. On average, women score higher than men on measures of empathy. It&apos;s one of the most consistent findings in psychology, across cultures, and it makes perfect evolutionary sense: for most of human history, the survival of children depended on it. It&apos;s a strength. But it means an ideology that weaponizes empathy will hit women harder. And the data shows it: in country after country, young women have moved sharply to the left of young men, especially on immigration. This is where men have a responsibility. Not to mock. Not to lecture. Not to say &quot;she deserved it.&quot; Empathy has always needed a counterweight, and that counterweight was the protective instinct: the one that draws lines, says no, and stands between the threat and the people it loves. Men abandoned that role. They were told it was toxic, and many believed it. So they stayed silent at the dinner table, at work, with their partners, sisters, daughters and friends. That has to end. Men have to have this conversation, honestly and with respect: compassion that cannot say no is not compassion. It&apos;s surrender. And the first to pay for it are women. Many women already understand this better than anyone. Some of the bravest voices in this fight are women, precisely because they are the first to feel the danger in the street. A civilization rests on a balance: compassion and strength, openness and borders, mercy and justice. When one side swallows the other, the foundations crack. What we are watching in Europe is what happens when empathy has no counterweight left. Look at that young woman again. She isn&apos;t the enemy. She&apos;s what this ideology made of a generation that was told kindness would be enough. Our job is to make sure she&apos;s the last generation that has to learn it this way. She voted for it. She welcomed them. Faced with the encore, she begs them to stop. In her heart she knows they will not. Everything she believed. That they were French like her, fighting for the same cause. That the ones who warned her were full of hate. That she would be safe. I…
+
+🔗 [View original post](https://x.com/brivael/status/2111734645020586474)
+
+---
+
+### 🕐 05:01 UTC · @elonmusk
+
+> Optimus and Cybercab will be the vast majority of Tesla’s value. The only things that will scale to incredible size (K2 and beyond) economically are super intelligence, robots, solar power and mass to space. And, of course, if you have the first two, the rest will follow. But Roadster is super cool, so we’re doing it anyway.
+
+🔗 [View original post](https://x.com/elonmusk/status/2111683964721037767)
 
 ---
 
