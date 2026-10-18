@@ -2,7 +2,15 @@
 
 ## 📅 October 18, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 14:03 UTC · @AiEvolutio58513
+
+> One person walked through a house with a phone, scanned the whole thing and put it online. Now anyone, anywhere, can tour it inside a browser tab. No app, no headset, no agent, no booking. One click and you&apos;re in. Every room, from every angle, down to the shadows, and it looks like a photo. The math: - Realtor commission on a $500k house: $15,000 - Cost of the scan: about $200 - Touring 50 homes: a single evening - The file: smaller than a TikTok The tech is called 3D Gaussian Splatting. Instead of the polygons games are built from, it uses millions of tiny glowing points of color and depth. AI rebuilds the real space from your photos, and it still runs on a phone. Freelancers are already selling scans for $300 to $800 each to realtors, Airbnb hosts, venues, car dealers and museums. Fully open source, built on PlayCanvas. Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2111820410690175101)
 
 ---
 
