@@ -2,7 +2,15 @@
 
 ## 📅 October 18, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 09:28 UTC · @swyx
+
+> If you loved our jev pod with @completeskeptic and are in the react/js/frontend community (especially if i&apos;ve seen your work before), hit me up and i can refer you in to typesafe Hello Software Engineers, I lead TypeSafe AI Model Capabilities team. We are hiring. Here are a few qualities we are looking for: • strong plus for people who resonate with the title &quot;Experience Engineers&quot;: mobile engineers, full stack engineers, or even (virtual) reality enginee…
+
+🔗 [View original post](https://x.com/swyx/status/2111751323389731265)
 
 ---
 
