@@ -2,7 +2,15 @@
 
 ## 📅 October 18, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 16:35 UTC · @emollick
+
+> This doesn’t seem to be a very robust strategy in the era of AIs that can use your computer on your behalf. notice.. &gt; Delta is blocking AI agents from booking flights &gt; JPMorgan Chase and Charles Schwab block agents from accessing accounts &gt; Yelp requires paid data licensing for agents &gt; Amazon has blocked Grok bot and other shopping agents. the internet is starting to block AI agents…
+
+🔗 [View original post](https://x.com/emollick/status/2111858791939772731)
 
 ---
 

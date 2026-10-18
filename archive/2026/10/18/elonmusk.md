@@ -2,7 +2,47 @@
 
 ## 📅 October 18, 2026
 
-> 19 post(s) archived.
+> 25 post(s) archived.
+
+---
+
+### 🕐 17:50 UTC · @elonmusk
+
+> Try Grok @Bot Bro… it actually worked. I sent one text to my Grok @bot asking it to order the Ollyball Keepy Uppy, the indoor ball from Shark Tank. And now it’s sitting on my doorstep. I didn’t open a single website. I just told it what I wanted, and it literally took care of the rest. Watchin…
+
+🔗 [View original post](https://x.com/elonmusk/status/2111877649513529345)
+
+---
+
+### 🕐 17:10 UTC · @elonmusk
+
+> Grok @Bot can call restaurants by phone and book you a table “HUNNY MY GROK BOT CALLED OUR FAVORITE ITALIAN RESTAURANT AND MADE US RESERVATIONS” I built a Grok Bot whose only job is to pick up the phone and book you a table at restaurant. Literally make the call in a beautiful Grok voice. It is absolutely amazing! And it’s free. Try it: ht…
+
+🔗 [View original post](https://x.com/elonmusk/status/2111867437238853726)
+
+---
+
+### 🕐 17:02 UTC · @elonmusk
+
+> True, even SpaceX’s competitor’s FUTURE plans are behind Starship 🤣🤣 Ok so yeah... $SPCX has no competition. None. And that&apos;s today, before Starship becomes their mainstream rocket. Starship widens the moat *considerably* more. The competition is so far behind, they may as well be on another planet. Even the competitor&apos;s future plans are behind!
+
+🔗 [View original post](https://x.com/elonmusk/status/2111865541472190881)
+
+---
+
+### 🕐 17:00 UTC · @elonmusk
+
+> Talarico hates Texas James Talarico, in his own words: &quot;God is non-binary.&quot; &quot;In fact, there are six&quot; biological sexes. What he calls women: &quot;neighbors with a uterus.&quot; Parents who deny a child&apos;s gender identity: &quot;abusive for sure.&quot; Early voting starts tomorrow, Texas.
+
+🔗 [View original post](https://x.com/elonmusk/status/2111864930815402428)
+
+---
+
+### 🕐 15:37 UTC · @elonmusk
+
+> I have my banking connected to @bot. It was a seamless process to connect and it now audits my credit card, tracks refunds and returns, and alerts me when the bill is due. My favorite is when bot tells me a trial period moves into a full price subscription. The future is now. We’ll probably be able to add credit cards to Grok Bot in the future Will you add one?
+
+🔗 [View original post](https://x.com/KatieMiller/status/2111844205714673717)
 
 ---
 
@@ -69,6 +109,16 @@
 > World Still LOSING It Over Tesla&apos;s Flying Roadster SOURCE: ◆ https://www.youtube.com/watch?v=GwffNnmuqfk Media
 
 🔗 [View original post](https://x.com/stevenmarkryan/status/2111680157064855604)
+
+---
+
+### 🕐 04:28 UTC · @elonmusk
+
+> China is building around 69 power semiconductor fabs (under construction, planned, or ramping) across 58 suppliers 15 are planned, 29 are under construction, and 25 are ramping up production This is a really interesting chart. I attended the TrendForce San Francisco roadshow yesterday, and this chart got me thinking about a lot of things. China is now expected to localize more than half, or close to half, of most equipment categories, excluding lithography and track.…
+
+![China is building around 69 power semiconductor fabs (under construction, planned, or ramping) across 58 suppliers 15 are planned, 29 are under construction, and 25 are ramping up production This is a](../../../../assets/images/2026/10/18/2111675690051588271-1.jpg)
+
+🔗 [View original post](https://x.com/zephyr_z9/status/2111675690051588271)
 
 ---
 
