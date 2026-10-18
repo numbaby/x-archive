@@ -2,7 +2,23 @@
 
 ## 📅 October 18, 2026
 
-> 4 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 23:21 UTC · @tunguz
+
+> From around now and for roughly the next six months life in Florida is absolutely glorious.
+
+🔗 [View original post](https://x.com/tunguz/status/2111960837082509477)
+
+---
+
+### 🕐 23:00 UTC · @tunguz
+
+> The problem with space cowboys socialism is that you eventually run out of retail investor money.
+
+🔗 [View original post](https://x.com/tunguz/status/2111955542889595227)
 
 ---
 

@@ -2,7 +2,15 @@
 
 ## 📅 October 18, 2026
 
-> 6 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 22:50 UTC · @swyx
+
+> @asmirkn @swyx @CompleteSkeptic It’s worth mentioning that we are charting new territories for our model capability team - creating a new kind of role that doesn’t exist yet elsewhere. We need solid coders that have “taste”. Day to day you will be studying the capabilities of the model and working on data. 🙂
+
+🔗 [View original post](https://x.com/hackgoofer/status/2111952970565013743)
 
 ---
 
@@ -39,6 +47,14 @@
 > If you loved our jev pod with @completeskeptic and are in the react/js/frontend community (especially if i&apos;ve seen your work before), hit me up and i can refer you in to typesafe Hello Software Engineers, I lead TypeSafe AI Model Capabilities team. We are hiring. Here are a few qualities we are looking for: • strong plus for people who resonate with the title &quot;Experience Engineers&quot;: mobile engineers, full stack engineers, or even (virtual) reality enginee…
 
 🔗 [View original post](https://x.com/swyx/status/2111751323389731265)
+
+---
+
+### 🕐 04:59 UTC · @swyx
+
+> Just found out about recency bias. Maybe the most important bias ever
+
+🔗 [View original post](https://x.com/endliste/status/2111683506346901833)
 
 ---
 
