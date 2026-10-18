@@ -2,7 +2,31 @@
 
 ## 📅 October 18, 2026
 
-> 3 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 21:00 UTC · @emollick
+
+> Given the acceleration Anthropic is reporting in coding, it is amazing that you still cannot change your email address in Claude and the official advice is that if you need to change your email the only way to do that is delete your account.
+
+🔗 [View original post](https://x.com/emollick/status/2111925398548193574)
+
+---
+
+### 🕐 18:17 UTC · @emollick
+
+> Developers are going to be a small part of total token usage over time, as the internal stats on usage at OpenAI and Anthropic both show. And for long-running high value tasks in areas where verification is harder, the benefits for higher &quot;intelligence&quot; models are quite large. OpenAI, Anthropic and other leading AI labs face a growing challenge: Better models aren&apos;t necessarily attracting more usage. A 10-point intelligence advantage now earns just 20% more developer traffic, down from nearly 69% in late 2025. Full story: https://thein.fo/4hGJ9jY
+
+🔗 [View original post](https://x.com/emollick/status/2111884340955062274)
+
+---
+
+### 🕐 18:11 UTC · @emollick
+
+> You don&apos;t want to give today&apos;s agents access to control your bank account, by the way, given how little we know about agentic security &amp; prompt injection. But coming up with a secure way to work with agents is probably going to better for everyone in the long run than just a ban
+
+🔗 [View original post](https://x.com/emollick/status/2111882951835222215)
 
 ---
 

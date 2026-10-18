@@ -2,7 +2,35 @@
 
 ## 📅 October 18, 2026
 
-> 3 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 21:51 UTC · @swyx
+
+> @benthompson also @ritakozlov i am slowly converting our broadway group to be #nothingbutNET fans (people! sign up for my next show https://partiful.com/e/e0ePVVLYt7Rn8l75q98y -&gt; preview here https://x.com/swyx/status/2043217991589102027) this one is EVEN MORE HIGH PRODUCTION VALUE WTF late night low TAM tweet: did a Broadway solo song for the first time in ~18 years! only fumbled lyrics once!
+
+![@benthompson also @ritakozlov i am slowly converting our broadway group to be #nothingbutNET fans (people! sign up for my next show https://partiful.com/e/e0ePVVLYt7Rn8l75q98y -&gt; preview here https](../../../../assets/images/2026/10/18/2111938337607172591-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2111938337607172591)
+
+---
+
+### 🕐 20:18 UTC · @swyx
+
+> @benthompson back when i was still on the essaygrind https://x.com/swyx/status/1445044267508850695 🆕 post: Eating the Cloud from Outside In How do you compete with 3 clouds 50x your size? While they play Chess, @Cloudflare plays Go. https://www.swyx.io/cloudflare-go/
+
+🔗 [View original post](https://x.com/swyx/status/2111914898313920787)
+
+---
+
+### 🕐 20:18 UTC · @swyx
+
+> i believe this essay i wrote 5 years ago is the closest i&apos;ve ever come to @benthompson level of &quot;nailing it&quot; Amused that AWS just unilaterally cancelled Cloudflare&apos;s Reinvent booth. There are always signs when someone finally realizes they&apos;re losing. Guess we&apos;ll just attend and throw the most fun side events without paying Amazon! Reply if you want an invite.
+
+![i believe this essay i wrote 5 years ago is the closest i&apos;ve ever come to @benthompson level of &quot;nailing it&quot; Amused that AWS just unilaterally cancelled Cloudflare&apos;s Reinvent booth](../../../../assets/images/2026/10/18/2111914776217747673-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2111914776217747673)
 
 ---
 
