@@ -2,7 +2,15 @@
 
 ## 📅 October 18, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 13:04 UTC · @AiEvolutio58513
+
+> Chamath gave Claude Dario Amodei&apos;s own essays and asked it for a psychological profile of the Anthropic CEO. Anyone invested in frontier AI should read what it said. Claude found a pattern. Dario doesn&apos;t trust rival labs. Or authoritarian states. He doesn&apos;t trust markets to share the gains fairly, institutions to act quickly enough, and, after Mythos, the government to use power in the open. That is a long list of people who can&apos;t be trusted. The list of people who can is very short, and it keeps narrowing to those who think the way he does, playing by rules he helped write. Claude&apos;s label for it was not megalomania. It was &quot;epistemic exceptionalism&quot;: the calm, defensible belief that anyone who disagrees must have made a mistake. The giveaway was one word. When the Mythos situation fell apart, Anthropic called it a misunderstanding, which assumes everyone would agree with him if they only understood. David Sacks summed it up on the All-In podcast: they think AI is extremely dangerous and that only they are good enough to control it. That isn&apos;t a safety framework. It&apos;s a monopoly that comes with its own philosophy. Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2111805573327093813)
 
 ---
 
