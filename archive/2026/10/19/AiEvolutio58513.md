@@ -2,7 +2,17 @@
 
 ## 📅 October 19, 2026
 
-> 5 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 18:19 UTC · @AiEvolutio58513
+
+> How To Check Your Gmail Compliance Before Black Friday:
+
+![How To Check Your Gmail Compliance Before Black Friday:](../../../../assets/images/2026/10/19/2112247231038578913-1.png)
+
+🔗 [View original post](https://x.com/ecomchasedimond/status/2112247231038578913)
 
 ---
 

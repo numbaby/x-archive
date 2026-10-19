@@ -2,7 +2,15 @@
 
 ## 📅 October 19, 2026
 
-> 10 post(s) archived.
+> 11 post(s) archived.
+
+---
+
+### 🕐 18:54 UTC · @omarsar0
+
+> LLMs were just the beginning. Bullish on world models, and I think they are the next frontier in AI. Amazing to see a dedicated world model for engineering this early. SKY-001 against GPT-6 Astra matches accuracy on 3D construction at about 150x lower cost per sample. On BIM, it runs over 100x faster. Media Introducing SKY-001, the first Engineering World Model. On CAD and BIM tasks, it beats GPT-6 Astra and every frontier model we tested: -&gt; 51-125x faster - &gt; 150-210x cheaper -&gt; Higher IOU than all frontier models SKY-001 lets you dream a physical object before you build it. 18 mo…
+
+🔗 [View original post](https://x.com/omarsar0/status/2112256058358157440)
 
 ---
 

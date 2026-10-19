@@ -2,7 +2,17 @@
 
 ## 📅 October 19, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 18:27 UTC · @_akhaliq
+
+> BizBench Unveiling Hidden Challenges in Deploying Long-Horizon Agents for Real-World Business paper: https://huggingface.co/papers/2610.20424
+
+![BizBench Unveiling Hidden Challenges in Deploying Long-Horizon Agents for Real-World Business paper: https://huggingface.co/papers/2610.20424](../../../../assets/images/2026/10/19/2112249207969235093-1.jpg)
+
+🔗 [View original post](https://x.com/_akhaliq/status/2112249207969235093)
 
 ---
 
