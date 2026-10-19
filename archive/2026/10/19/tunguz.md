@@ -2,7 +2,33 @@
 
 ## 📅 October 19, 2026
 
-> 4 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 14:30 UTC · @tunguz
+
+> cursed
+
+🔗 [View original post](https://x.com/tunguz/status/2112189757346263177)
+
+---
+
+### 🕐 14:18 UTC · @tunguz
+
+> Bad marketers want to sell you their own dream. Good marketers want to sell you your own.
+
+🔗 [View original post](https://x.com/tunguz/status/2112186724466016582)
+
+---
+
+### 🕐 14:02 UTC · @tunguz
+
+> Here are the speedups for M1 Ultra:
+
+![Here are the speedups for M1 Ultra:](../../../../assets/images/2026/10/19/2112182649070772476-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2112182649070772476)
 
 ---
 

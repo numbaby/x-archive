@@ -2,7 +2,17 @@
 
 ## 📅 October 19, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 14:01 UTC · @swyx
+
+> &quot;O Infallible one, why do the people not heed the sign we tap?&quot; &quot;My dear Parth, each believes he is the first to wish for an end to chat. On X we are cursed with the eternal September of the Thoughtless Mind.&quot; &quot;But O Govinda, they yearn for what lies beyond it, and cast their votes by the thousands. Surely the people&apos;s wants must be made.&quot; *a wan smile* “O son of Kunti, observe what they applaud, and what they return to. They desire the end of chat as they desire the end of desire. They desire to leave X as they return in ever greater numbers. They will announce it many times. You shall learn, as they do not, that the chief desire of the people of X is not the truth, but the new.” is chat the final form of agent ui? please share why
+
+![&quot;O Infallible one, why do the people not heed the sign we tap?&quot; &quot;My dear Parth, each believes he is the first to wish for an end to chat. On X we are cursed with the eternal September o](../../../../assets/images/2026/10/19/2112182228977348963-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2112182228977348963)
 
 ---
 

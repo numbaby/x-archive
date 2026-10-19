@@ -2,7 +2,15 @@
 
 ## 📅 October 19, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 14:02 UTC · @AiEvolutio58513
+
+> Satya Nadella explains why Microsoft&apos;s biggest AI problem isn&apos;t chips, it&apos;s power: &quot;You may actually have a bunch of chips sitting in inventory that I can&apos;t plug in. In fact, that is my problem today.&quot; &quot;It&apos;s not a supply issue of chips. It&apos;s actually the fact that I don&apos;t have warm shells to plug into.&quot; What he means: 1. &quot;The biggest issue we are now having is not a compute glut, but it&apos;s a power and it&apos;s sort of the ability to get the builds done fast enough close to power.&quot; 2. Warm shells are powered data center buildings. Microsoft has the GPUs. It doesn&apos;t have enough places to switch them on. 3. Even he couldn&apos;t call demand: &quot;We just were not that good at being able to project out what the demand would really look like.&quot; Sam Altman, sitting next to him, added the warning: &quot;Some people are going to get really burned like has happened in every other tech infrastructure cycle.&quot; The AI race is now a race for electricity and buildings, not just chips. Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2112182539477737629)
 
 ---
 
