@@ -136055,6 +136055,19 @@
     "fingerprint": "51a338f224fb0d8c229ce839db8bf7f35969da8fd952e31ee495a1fcb43902da",
     "media": []
   },
+  "2112276851355693315": {
+    "account": "swyx",
+    "date": "2026-10-19",
+    "file": "data/posts/2026/10/2026-10-19.jsonl",
+    "fingerprint": "8763612e04c56f352aebcbae99f6bb263967aa41df0d73ca29d56b567400e9b5",
+    "media": [
+      {
+        "local_path": "assets/images/2026/10/19/2112276851355693315-1.jpg",
+        "sha256": "1bc0644b3cc60b206af60edcc0122c571745b6562f696eb31ba75e2c0de47d22",
+        "source_url": "https://pbs.twimg.com/media/HVBPHSjWcAAHoHt.jpg?name=orig"
+      }
+    ]
+  },
   "2112279124551328018": {
     "account": "dair_ai",
     "date": "2026-10-19",
@@ -136065,6 +136078,40 @@
         "local_path": "assets/images/2026/10/19/2112279124551328018-1.jpg",
         "sha256": "fed72b8a80c2bd8c60e0ee11ab09404052c1527fffd88a850f8f4f94f5ac007a",
         "source_url": "https://pbs.twimg.com/media/HVBSqzXbgAAUBn_.jpg?name=orig"
+      }
+    ]
+  },
+  "2112289593286352976": {
+    "account": "emollick",
+    "date": "2026-10-19",
+    "file": "data/posts/2026/10/2026-10-19.jsonl",
+    "fingerprint": "2a4a2caa88142131123d74f05e7e385f42282ffe5ac6c3151cee84dd49eec28c",
+    "media": []
+  },
+  "2112291003537502393": {
+    "account": "emollick",
+    "date": "2026-10-19",
+    "file": "data/posts/2026/10/2026-10-19.jsonl",
+    "fingerprint": "7374adbebd875c91963ca16fd45ea4b1c09743f16a9860ffa226398db1c9a518",
+    "media": []
+  },
+  "2112293785472225568": {
+    "account": "elonmusk",
+    "date": "2026-10-19",
+    "file": "data/posts/2026/10/2026-10-19.jsonl",
+    "fingerprint": "0e637d9b36cec53efccacdb5e8e439c97f6739942cb64719a5689ddef2a25409",
+    "media": []
+  },
+  "2112295238664696237": {
+    "account": "omarsar0",
+    "date": "2026-10-19",
+    "file": "data/posts/2026/10/2026-10-19.jsonl",
+    "fingerprint": "1083698360c88294e38640e425d34a301ea369da2f48dd5d29d6f517ffcba8e6",
+    "media": [
+      {
+        "local_path": "assets/images/2026/10/19/2112295238664696237-1.jpg",
+        "sha256": "f7fedd9742d1d97456a3f5ba69d65214fada06fd1fff62d741466a12c03c4a58",
+        "source_url": "https://pbs.twimg.com/media/HVBhUxnaMAA4KFj.jpg?name=orig"
       }
     ]
   }

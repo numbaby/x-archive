@@ -2,7 +2,23 @@
 
 ## 📅 October 19, 2026
 
-> 5 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 21:13 UTC · @emollick
+
+> There are many more options for multiplayer, but they require serious experimental with organizational form, requiring more effort than just adding AI to existing chat, but also making them into a better strategic moat rather than a generic capability.
+
+🔗 [View original post](https://x.com/emollick/status/2112291003537502393)
+
+---
+
+### 🕐 21:07 UTC · @emollick
+
+> Multiplayer AI needs to move past the group chat phase. Chats are chaotic, everyone sees everything (creating social &amp; management issues), and they&apos;re bad for long projects. Worse, they keep AI trapped inside existing teams, when its real promise is working &amp; helping across them.
+
+🔗 [View original post](https://x.com/emollick/status/2112289593286352976)
 
 ---
 

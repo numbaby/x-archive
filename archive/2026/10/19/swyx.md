@@ -2,7 +2,17 @@
 
 ## 📅 October 19, 2026
 
-> 5 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 20:17 UTC · @swyx
+
+> First AIE Code Summit speakers: @poteto, Principal Engineer @ SpaceX @steve_yegge, Engineer, Writer, Advisor @zachbruggeman, Principal Software Engineer @ Ramp Nov 10-12, SF. Come hang out with us. Apply at https://ai.engineer/code
+
+![First AIE Code Summit speakers: @poteto, Principal Engineer @ SpaceX @steve_yegge, Engineer, Writer, Advisor @zachbruggeman, Principal Software Engineer @ Ramp Nov 10-12, SF. Come hang out with us. Ap](../../../../assets/images/2026/10/19/2112276851355693315-1.jpg)
+
+🔗 [View original post](https://x.com/aiDotEngineer/status/2112276851355693315)
 
 ---
 

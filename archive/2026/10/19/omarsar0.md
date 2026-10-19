@@ -2,7 +2,17 @@
 
 ## 📅 October 19, 2026
 
-> 11 post(s) archived.
+> 12 post(s) archived.
+
+---
+
+### 🕐 21:30 UTC · @omarsar0
+
+> Recursive self-improvement is one of the most discussed ideas in AI right now. I am particularly interested in how it applies to science. I saw this really cool new paper with neat ideas, especially on hypothesis generation. A good read. Specifically, they propose DiscoveryRSI, which applies RSI to scientific hypothesis generation in four life-science domains. Its 27B model produced hypotheses that match research published after its training cutoff 6.3% of the time, compared with 2.5% for GPT-6 and 2.3% for Claude Opus 5. The system grows trees of hypotheses with multi-agent evolutionary search and turns the chosen investigations into executable tasks. After each run, it assigns credit to the hypotheses that contributed, replays the research harness to find productive strategies and repeated failures, and applies accepted improvements to new investigations. Automated hypothesis quality rose from 4.86 to 5.39 after two rounds, with the largest gains in falsifiability. https://arxiv.org/abs/2610.23839 Chat with Paper: https://academy.dair.ai/papers/discoveryrsi-recursively-learning-to-discover-valuable-hypotheses-2610.23839
+
+![Recursive self-improvement is one of the most discussed ideas in AI right now. I am particularly interested in how it applies to science. I saw this really cool new paper with neat ideas, especially o](../../../../assets/images/2026/10/19/2112295238664696237-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2112295238664696237)
 
 ---
 
