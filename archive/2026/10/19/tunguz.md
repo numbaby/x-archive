@@ -2,7 +2,23 @@
 
 ## 📅 October 19, 2026
 
-> 1 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 12:24 UTC · @tunguz
+
+> Nous sommes cuits! Media
+
+🔗 [View original post](https://x.com/tunguz/status/2112158047288324135)
+
+---
+
+### 🕐 12:19 UTC · @tunguz
+
+> Just don’t pay the taxes bro.
+
+🔗 [View original post](https://x.com/tunguz/status/2112156802922266935)
 
 ---
 
