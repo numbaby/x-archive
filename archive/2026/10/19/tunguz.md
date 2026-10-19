@@ -2,7 +2,23 @@
 
 ## 📅 October 19, 2026
 
-> 7 post(s) archived.
+> 9 post(s) archived.
+
+---
+
+### 🕐 15:37 UTC · @tunguz
+
+> I am most people. most people are not psychologically ready for the possibility of a permanent underclass
+
+🔗 [View original post](https://x.com/tunguz/status/2112206562618179830)
+
+---
+
+### 🕐 15:26 UTC · @tunguz
+
+> This has nothing to do with remote work, this has everything to do with how far our other ways of living/socializing have atrophied BECAUSE WE HAD MADE CAREERS AND OFFICES THE ONLY WAYS PEOPLE KNOW HOW TO DO THOSE THINGS!!! My strongest “vibes not evidence” belief is that remote work is a cancer that’s making (most) people miserable even though it seems better in the short term.
+
+🔗 [View original post](https://x.com/tunguz/status/2112203705915228352)
 
 ---
 
