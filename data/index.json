@@ -135527,5 +135527,26 @@
     "file": "data/posts/2026/10/2026-10-18.jsonl",
     "fingerprint": "2ed321ae472f342cbe80e1b3fbcb87d4cb2db6fb5cddf409d7ac9273b830163e",
     "media": []
+  },
+  "2111971887811342582": {
+    "account": "swyx",
+    "date": "2026-10-19",
+    "file": "data/posts/2026/10/2026-10-19.jsonl",
+    "fingerprint": "b825568787985b46ed94cc4cf22f36c84689224836a208e2a6b6bfd7c312c7a4",
+    "media": []
+  },
+  "2111976359677346115": {
+    "account": "dair_ai",
+    "date": "2026-10-19",
+    "file": "data/posts/2026/10/2026-10-19.jsonl",
+    "fingerprint": "d451227d084a8f9dbef06836ac2d3d518940f261d114d296793e3042015de50f",
+    "media": []
+  },
+  "2111976568927162713": {
+    "account": "omarsar0",
+    "date": "2026-10-19",
+    "file": "data/posts/2026/10/2026-10-19.jsonl",
+    "fingerprint": "3cb44a6e542d25bc3813f8bde7a07d6d0c8f90c15c812f9bf4115932c934b514",
+    "media": []
   }
 }
