@@ -2,7 +2,17 @@
 
 ## 📅 October 19, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 16:32 UTC · @AiEvolutio58513
+
+> Every group chat has a trip that’s been “happening soon” for three years. @wabi is an AI assistant you use together to find dates, build the itinerary, and book flights. As the unofficial travel agent, I’d love to see that trip finally make it out of the group chat. Wabi 2.0 is live! personal agents are one person, one chat. but the parts of life that matter run on more than one person Wabi is an agent you use together. you talk to it, it does stuff, builds the apps you need, and anyone can join the thread - your partner, your best friend, t…
+
+![Every group chat has a trip that’s been “happening soon” for three years. @wabi is an AI assistant you use together to find dates, build the itinerary, and book flights. As the unofficial travel agent](../../../../assets/images/2026/10/19/2112220243930354049-1.jpg)
+
+🔗 [View original post](https://x.com/ecomchasedimond/status/2112220243930354049)
 
 ---
 

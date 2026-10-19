@@ -2,7 +2,17 @@
 
 ## 📅 October 19, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 15:53 UTC · @emollick
+
+> My book comes out tomorrow, so this is the last day to qualify for the pre-order bonus: a fun 10 minute AI voice interview that gives you personalized prompts, ideas, &amp; readings based on ideas from the book You can order &amp; claim the pre-order bonus here: https://co-existence.ai/
+
+![My book comes out tomorrow, so this is the last day to qualify for the pre-order bonus: a fun 10 minute AI voice interview that gives you personalized prompts, ideas, &amp; readings based on ideas fro](../../../../assets/images/2026/10/13/2109999604775387249-1.jpg)
+
+🔗 [View original post](https://x.com/emollick/status/2112210597571862980)
 
 ---
 

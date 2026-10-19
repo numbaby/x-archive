@@ -2,7 +2,39 @@
 
 ## 📅 October 19, 2026
 
-> 9 post(s) archived.
+> 13 post(s) archived.
+
+---
+
+### 🕐 17:01 UTC · @tunguz
+
+> If you are into moats, pivot to straits.
+
+🔗 [View original post](https://x.com/tunguz/status/2112227630753665206)
+
+---
+
+### 🕐 16:56 UTC · @tunguz
+
+> Rules without means of enforcing them are worse than useless. They invite brazen disregard and contempt for the rule giver.
+
+🔗 [View original post](https://x.com/tunguz/status/2112226403446100127)
+
+---
+
+### 🕐 16:21 UTC · @tunguz
+
+> I refuse to believe that Matt is so willfully ignorant about all of this. https://x.com/tunguz/status/2110778027000930437?s=20 All right, time has finally come for me to read the most important book that I’ve never read.
+
+🔗 [View original post](https://x.com/tunguz/status/2112217471994269876)
+
+---
+
+### 🕐 16:17 UTC · @tunguz
+
+> Life tip: don&apos;t take advice from a misanthrope on how to socialize.
+
+🔗 [View original post](https://x.com/tunguz/status/2112216566737838217)
 
 ---
 

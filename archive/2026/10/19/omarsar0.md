@@ -2,7 +2,43 @@
 
 ## 📅 October 19, 2026
 
-> 6 post(s) archived.
+> 10 post(s) archived.
+
+---
+
+### 🕐 17:17 UTC · @omarsar0
+
+> Very excited for this. Ed’s point about compute access in the era of agents is spot on. Plus, AI infrastructure needs changes to meet the demands of agentic engineering. Agents may need GPUs for inference and CPUs to run code in the same workflow (e.g., co-evolution of model and harnesses). I want rental options that fit those changing needs. Follow @edsgoode and @shadeformai this week for cool launches around this. The compute market has been a wild ride in 2026. Prices have skyrocketed, minimum contract durations have tripled, and near term capacity is few and far between. At the same time, agents are becoming a primary user of compute themselves, and not just GPU compute. It’s clear that …
+
+🔗 [View original post](https://x.com/omarsar0/status/2112231670560530556)
+
+---
+
+### 🕐 17:17 UTC · @omarsar0
+
+> Follow for more here: https://shadeform.ai/launch-week-2026
+
+![Follow for more here: https://shadeform.ai/launch-week-2026](../../../../assets/images/2026/10/19/2112231672909320304-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2112231672909320304)
+
+---
+
+### 🕐 16:55 UTC · @omarsar0
+
+> Banger paper from Google DeepMind on open-ended math discovery with agents. This is one of the early, exciting works I have seen on autonomous AI-powered discoveries. (bookmark it) A Gemini-based agent found and formally verified new acceleration rules for eleven unresolved Turing machines in BB(6), the current frontier of the Busy Beaver problem. Busy Beaver is uncomputable, so no fixed list of problems exists. The agent has to pick machines, spot patterns in their execution traces, and propose compact rules that summarize many steps at once. Each proposed rule then goes through informal reasoning and a Lean proof. Only proved rules are kept, so the result does not depend on trusting the model&apos;s reasoning. The authors provisionally call these machines Cryptids. Their runs from a blank tape now have exact, compact descriptions, but whether they halt is still open. This is a good example of an agent producing new, formally checked mathematical results on problems it chose itself. https://arxiv.org/abs/2610.22603 Chat with Paper: https://academy.dair.ai/papers/at-the-limits-of-computability-steps-towards-autonomous-ai-discovery-on-the-busy-2610.22603
+
+![Banger paper from Google DeepMind on open-ended math discovery with agents. This is one of the early, exciting works I have seen on autonomous AI-powered discoveries. (bookmark it) A Gemini-based agen](../../../../assets/images/2026/10/19/2112226024419365210-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2112226024419365210)
+
+---
+
+### 🕐 16:07 UTC · @omarsar0
+
+> Viggle&apos;s JST-2 comes with a PINOC MCP server, so one prompt to Claude Code can make the characters, animate them from text, and put the scene together. Characters and motion share one skeleton, so there&apos;s no retargeting step for the agent to choke on halfway through. Would love to see someone build a small game start to finish this way. Media Today we are releasing JST-2, the world&apos;s first full-stack physics-native world foundation model. Many world models learn in pixel/video space. We went back to first principles and built the entire model stack in 3D. Generate a 3D scene in seconds and expand it in real time. Crea…
+
+🔗 [View original post](https://x.com/omarsar0/status/2112213994228297994)
 
 ---
 
