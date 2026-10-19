@@ -2,7 +2,15 @@
 
 ## 📅 October 19, 2026
 
-> 7 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 22:31 UTC · @emollick
+
+> Media There&apos;s nothing people deep in AI psychosis love more than a dashboard
+
+🔗 [View original post](https://x.com/emollick/status/2112310600806072387)
 
 ---
 

@@ -2,7 +2,15 @@
 
 ## 📅 October 19, 2026
 
-> 13 post(s) archived.
+> 14 post(s) archived.
+
+---
+
+### 🕐 22:45 UTC · @tunguz
+
+> My favorite thing about AI taking all the jobs will be we&apos;ll finally not be able to treat careerism as a quasi civic religion that it is right now.
+
+🔗 [View original post](https://x.com/tunguz/status/2112314269400260642)
 
 ---
 
