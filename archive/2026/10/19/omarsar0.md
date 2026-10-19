@@ -2,7 +2,15 @@
 
 ## 📅 October 19, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 12:52 UTC · @omarsar0
+
+> Generally, good advice here. Systems thinking is at the top of my list too. That’s how you interact and build effectively with agents today, by thinking of the subparts of the system. I would add understanding how to measure outcomes and build evals. It comes with experience but it’s something you want to apply early on. If you are not objectively measuring what you build it’s hard to know if you are making real progress. Use agents to help you get started but always look at the data and traces. I often get emails from junior engineers asking me what to do. Here&apos;s what I just wrote to one of them
+
+🔗 [View original post](https://x.com/omarsar0/status/2112164960574779508)
 
 ---
 

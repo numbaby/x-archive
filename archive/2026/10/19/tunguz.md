@@ -2,7 +2,15 @@
 
 ## 📅 October 19, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 12:57 UTC · @tunguz
+
+> We just released mlx-geospatial: accelerated geospatial computing for Apple Silicon. It&apos;s open source under MIT and available on PyPI: pip install mlx-geospatial We are releasing mlx-geospatial: a Python library for fast geospatial work on Apple silicon, built on MLX. It handles point-in-polygon queries, spatial joins, distances and nearest neighbors. A few results from pre-release benchmarks on an M4 Max: 1/9
+
+🔗 [View original post](https://x.com/tunguz/status/2112166306707587462)
 
 ---
 

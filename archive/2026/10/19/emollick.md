@@ -2,7 +2,17 @@
 
 ## 📅 October 19, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 12:53 UTC · @emollick
+
+> Writing good STATA code was very important for my academic career. It looks like that skill is largely becoming obsolete. (Also take this is as a notice to academics who still think of AI in terms of chatbots, not agents, that a lot has changed in a year) https://cepr.org/voxeu/columns/letting-ai-agents-write-econometric-code
+
+![Writing good STATA code was very important for my academic career. It looks like that skill is largely becoming obsolete. (Also take this is as a notice to academics who still think of AI in terms of ](../../../../assets/images/2026/10/19/2112165213202157907-1.jpg)
+
+🔗 [View original post](https://x.com/emollick/status/2112165213202157907)
 
 ---
 

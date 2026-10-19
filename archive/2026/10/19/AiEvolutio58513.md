@@ -2,7 +2,15 @@
 
 ## 📅 October 19, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 12:57 UTC · @AiEvolutio58513
+
+> Sam Altman says the whole industry got ahead of itself on AI timelines, even accounting for how powerful this tech is. &quot;I thought when we got to GPT-4, there was going to be much more disruption in software right away.&quot; &quot;I was wrong about the speed.&quot; &quot;The economy just has so much inertia. People keep doing the same things and buying from the same companies.&quot; &quot;AI is one of the most incredible technologies humanity has ever invented, but society and the economy will adapt more slowly.&quot; &quot;Changing behavior is just much harder than tech nerds realize.&quot; Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2112166153393160675)
 
 ---
 
