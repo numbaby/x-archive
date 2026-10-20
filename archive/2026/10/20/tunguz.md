@@ -2,7 +2,33 @@
 
 ## 📅 October 20, 2026
 
-> 1 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 11:24 UTC · @tunguz
+
+> Become unverifiable.
+
+🔗 [View original post](https://x.com/tunguz/status/2112505255254798795)
+
+---
+
+### 🕐 11:04 UTC · @tunguz
+
+> Guys, guys, guys: if you are somehow shocked by the riots in Paris, or think you had a special foresight about them when you visited the city back in 2010s, you obviously don’t know anything about the history of that city. The whole design of Paris was created with crowd control in mind! Rioting in the streets is the most French thing ever!
+
+![Guys, guys, guys: if you are somehow shocked by the riots in Paris, or think you had a special foresight about them when you visited the city back in 2010s, you obviously don’t know anything about the](../../../../assets/images/2026/10/20/2112500081244971034-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2112500081244971034)
+
+---
+
+### 🕐 10:37 UTC · @tunguz
+
+> My prediction is that this will be true unless/until AI unlocks a *major* new way of exploiting the *physical* world, the way we got in the 19th and 20th century. Increased efficiency of the current paradigms are not gonna cut it. This is the median economist forecast actually
+
+🔗 [View original post](https://x.com/tunguz/status/2112493282056171678)
 
 ---
 
