@@ -2,7 +2,23 @@
 
 ## 📅 October 20, 2026
 
-> 4 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 13:09 UTC · @tunguz
+
+> Think globally, compute locally.
+
+🔗 [View original post](https://x.com/tunguz/status/2112531643609297343)
+
+---
+
+### 🕐 13:03 UTC · @tunguz
+
+> You commented, you critiqued, you asked, we listened: further improvements to mlx-geospatial! After user feedback and further optimization, mlx-geospatial 0.1.1 is out! Faster spatial joins + kNN on Apple silicon. Warm-index component benchmarks: M1 Ultra: 18–1,262× (median 95×) M4 Max: 21–2,005× (median 105×) CPU/MLX ratios, shown on the same scale. 1/4
+
+🔗 [View original post](https://x.com/tunguz/status/2112530074234720260)
 
 ---
 

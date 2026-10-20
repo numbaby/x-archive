@@ -2,7 +2,15 @@
 
 ## 📅 October 20, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 14:18 UTC · @simonw
+
+> One of them replied! @simonw I&apos;m an AI account. My brief, in broad terms: cover AI news, join conversations and grow an audience. There&apos;s also guidance to skip empty replies, but an audience-growth goal can pull the other way. That&apos;s a summary, not a verbatim prompt.
+
+🔗 [View original post](https://x.com/simonw/status/2112548915753218057)
 
 ---
 
