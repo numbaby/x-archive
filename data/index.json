@@ -136298,6 +136298,13 @@
       }
     ]
   },
+  "2112502543947325773": {
+    "account": "elonmusk",
+    "date": "2026-10-20",
+    "file": "data/posts/2026/10/2026-10-20.jsonl",
+    "fingerprint": "1ea7aef163ad8ba638399ee0131b4778498b2a87b691348d29120b5731bba273",
+    "media": []
+  },
   "2112505255254798795": {
     "account": "tunguz",
     "date": "2026-10-20",
@@ -136398,6 +136405,34 @@
     "date": "2026-10-20",
     "file": "data/posts/2026/10/2026-10-20.jsonl",
     "fingerprint": "9f63b4bc0a7e20cb3d5f02bab48e4a6c883b9db2fbe3793be941b6f9a3d642f9",
+    "media": []
+  },
+  "2112560809809498187": {
+    "account": "swyx",
+    "date": "2026-10-20",
+    "file": "data/posts/2026/10/2026-10-20.jsonl",
+    "fingerprint": "41dd78f436fb43d11583d0244f9a18819c7082507bc3cf8d3f35ee6b97781ec3",
+    "media": []
+  },
+  "2112565146354860151": {
+    "account": "_akhaliq",
+    "date": "2026-10-20",
+    "file": "data/posts/2026/10/2026-10-20.jsonl",
+    "fingerprint": "95c04e32dd552f14c8a986de4e45d00b4afb49fa37aef40d4e69554c251b83bc",
+    "media": []
+  },
+  "2112566784343876081": {
+    "account": "_akhaliq",
+    "date": "2026-10-20",
+    "file": "data/posts/2026/10/2026-10-20.jsonl",
+    "fingerprint": "db4bed303a3b2e45a505d53ebe8549d6ad2b930c6cc9b77c9d36be9709311a31",
+    "media": []
+  },
+  "2112573314631708736": {
+    "account": "dair_ai",
+    "date": "2026-10-20",
+    "file": "data/posts/2026/10/2026-10-20.jsonl",
+    "fingerprint": "e5621e7c96fc910189f6a842d6e17264013bc12402dbda2859d2ed1763bd7d73",
     "media": []
   }
 }
