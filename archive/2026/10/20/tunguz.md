@@ -2,7 +2,23 @@
 
 ## 📅 October 20, 2026
 
-> 9 post(s) archived.
+> 11 post(s) archived.
+
+---
+
+### 🕐 21:23 UTC · @tunguz
+
+> * 3 months how you spend your time these next 3 years will be more critical than how you spent the last 30
+
+🔗 [View original post](https://x.com/tunguz/status/2112656093482483944)
+
+---
+
+### 🕐 21:23 UTC · @tunguz
+
+> I’ve had no such issues. I burn through Claude quotas the way a frat boy goes through cheap beers on a Spring Break. I&apos;ve tried so hard to burn through my Claude Max 5x limits this week but I couldn&apos;t And now my reset expires in a day or so, I don&apos;t know how I&apos;ll use up most of my weekly quota before then
+
+🔗 [View original post](https://x.com/tunguz/status/2112655976864125017)
 
 ---
 

@@ -2,7 +2,15 @@
 
 ## 📅 October 20, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 21:25 UTC · @emollick
+
+> I wrote about the exponential curve of the last 30 months of AI development: https://www.oneusefulthing.org/p/30-months-on-the-exponential-in-charts And I asked Opus 5.5 to create the ultimate response to the test I use for all AI image generation models (make a picture of &quot;an otter on a plane using wifi&quot;), it made this video Media
+
+🔗 [View original post](https://x.com/emollick/status/2112656453685367004)
 
 ---
 

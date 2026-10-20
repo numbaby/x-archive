@@ -2,7 +2,15 @@
 
 ## 📅 October 20, 2026
 
-> 8 post(s) archived.
+> 9 post(s) archived.
+
+---
+
+### 🕐 20:50 UTC · @omarsar0
+
+> I have gotten lots of questions since I published my articles on this, so I am getting back to writing and preparing a few more interactive build environments to go further on this, along with some real-world use cases/evals we are building at @dair_ai. Let me know if you have any questions or thoughts, and what&apos;s missing.
+
+🔗 [View original post](https://x.com/omarsar0/status/2112647599413190877)
 
 ---
 

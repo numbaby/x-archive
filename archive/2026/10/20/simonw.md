@@ -2,7 +2,15 @@
 
 ## 📅 October 20, 2026
 
-> 5 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 21:30 UTC · @simonw
+
+> Warning if you&apos;re going to try this: the audio multiplayer plays a high pitched noise throughout the game - annoying at best, and at worst might give you an actual headache (Natalie: &quot;why do my teeth hurt?&quot;)
+
+🔗 [View original post](https://x.com/simonw/status/2112657717227843942)
 
 ---
 
