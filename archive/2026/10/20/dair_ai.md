@@ -2,7 +2,25 @@
 
 ## 📅 October 20, 2026
 
-> 5 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 19:48 UTC · @dair_ai
+
+> Learn to build evals, folks. Highly recommended reading on using decision models for evals. From our internal evals, System One models like Jev are a great fit for LLM Judges. If you want to go beyond Hamel&apos;s great write-up, I&apos;ve also put together a few resources on applying decision models to LLM judges. (bookmark it) 1) Jev-as-a-Judge for Agent Evaluations - https://academy.dair.ai/dashboard/resources/jev-as-a-judge 2) Jev-as-a-Judge: Evaluating Agents with a Decision Model - https://academy.dair.ai/labs/jev-as-a-judge-for-agent-evals Bonus paper I would recommend, with a few other ideas that combine System One and System Two models: Jev-as-a-Judge paper - https://arxiv.org/abs/2609.26550 New blog post 🎉: How To Use Decision Models For Evals In this post, we show you how to choose a decision model for your task, tune its threshold (don&apos;t assume the 0.5 default is good!), and interpret its scores. Lots of cool interactive charts here. https://x.com/i/article/21125…
+
+🔗 [View original post](https://x.com/omarsar0/status/2112632133357346889)
+
+---
+
+### 🕐 18:59 UTC · @dair_ai
+
+> Interesting work from Anthropic. They reframe MLP neurons as a stronger basis for interpretability than commonly assumed. It is standard practice to study circuits with transcoders, because individual MLP neurons are considered too polysemantic to interpret. They find that many active transcoder features in late layers are close copies of single MLP neurons. They measure this across 13 open-source transcoders. These neuron-aligned features are also the only ones with a stable link to the underlying MLP. The other features change more between training runs, don&apos;t match the MLP&apos;s Jacobian, and move less from their random initialization. That makes MLP neurons a stronger starting point for interpretability than usually assumed. It also means the non-neuron transcoder features need better validation before they are used to explain model behavior. https://arxiv.org/abs/2610.24521 Chat with Paper: https://academy.dair.ai/papers/comparing-sparsified-mlps-and-transcoders-many-transcoder-features-are-neurons-i-2610.24521
+
+![Interesting work from Anthropic. They reframe MLP neurons as a stronger basis for interpretability than commonly assumed. It is standard practice to study circuits with transcoders, because individual](../../../../assets/images/2026/10/20/2112619619865579572-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2112619619865579572)
 
 ---
 

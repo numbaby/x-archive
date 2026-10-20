@@ -2,7 +2,39 @@
 
 ## 📅 October 20, 2026
 
-> 15 post(s) archived.
+> 25 post(s) archived.
+
+---
+
+### 🕐 17:56 UTC · @elonmusk
+
+> “Lack of electricity” is an oversimplification. Everything is hard about bringing massive compute online at extremely high speed. If there was twice as much time, this would be relatively easy, but there is not. Former $GOOGL employee on why data center capacity and electricity are the real bottlenecks, not GPU production itself, and how unreliable some of the neoclouds are ($AMZN, $GOOGL, $MSFT, $NVDA): 1. According to the expert, open-source models are closing the gap with frontier mod…
+
+🔗 [View original post](https://x.com/elonmusk/status/2112603906723487744)
+
+---
+
+### 🕐 17:44 UTC · @elonmusk
+
+> Johann Sebastian Bach is the Shakespeare of music. Best there ever was.
+
+🔗 [View original post](https://x.com/elonmusk/status/2112600761762717997)
+
+---
+
+### 🕐 17:16 UTC · @elonmusk
+
+> The fate of Texas and America is at stake. Vote for @KenPaxtonTX today. Today is a great day to vote early in person for @KenPaxtonTX in Texas.
+
+🔗 [View original post](https://x.com/elonmusk/status/2112593866461216942)
+
+---
+
+### 🕐 17:14 UTC · @elonmusk
+
+> Objectively, the “Great Replacement” has already occurred 🇧🇪 Brussels 1955: 95% native Belgian background 2025: 21% native Belgian background 🇬🇧 London 1955: 97% native British background 2025: 36% native British background 🇳🇱 Amsterdam 1955: 98% native Dutch background 2025: 40% native Dutch background 🇩🇪 Berlin 1955: 98% nativ…
+
+🔗 [View original post](https://x.com/elonmusk/status/2112593187139416244)
 
 ---
 
@@ -11,6 +43,14 @@
 > True Before you go to vote, remember what is at stake. James Talarico will be a 100% reliable vote for Chuck Schumer. He will re-open our borders, take away your Second Amendment rights, and end Texas&apos; oil industry. He will fight for taxpayer funded abortion through birth and trans su…
 
 🔗 [View original post](https://x.com/elonmusk/status/2112591749562724532)
+
+---
+
+### 🕐 17:02 UTC · @elonmusk
+
+> Invest in things that do things that are measured in wattage and tonnage… BREAKING: Elon Musk says money will become irrelevant and future currency will be measured in power, mass and energy. “I think currency will be measured in fundamental physics metrics like, you know, power, like wattage and tonnage, mass and energy.”
+
+🔗 [View original post](https://x.com/aaronburnett/status/2112590391396737064)
 
 ---
 
@@ -51,6 +91,48 @@
 > Nice! Elon Musk in his new interview on “suicidal empathy” “I think you don’t want to have misguided empathy. I agree with Gad Saad’s philosophy here. And suicidal empathy is, you know, that’s his term. You ideally want people to be default trusted, not default distrusted. And you want…
 
 🔗 [View original post](https://x.com/GadSaad/status/2112584138075279552)
+
+---
+
+### 🕐 16:34 UTC · @elonmusk
+
+> Video call Watch live as SpaceX discusses our Q3 2026 earnings at 3:30pm CT today → https://x.com/i/broadcasts/1PKqrNbLZbPGb
+
+🔗 [View original post](https://x.com/elonmusk/status/2112583304738210216)
+
+---
+
+### 🕐 15:00 UTC · @elonmusk
+
+> Watch live as SpaceX discusses our Q3 2026 earnings at 3:30pm CT today → https://x.com/i/broadcasts/1PKqrNbLZbPGb
+
+🔗 [View original post](https://x.com/SpaceX/status/2112559638579499258)
+
+---
+
+### 🕐 14:30 UTC · @elonmusk
+
+> Elon Musk in new interview with Walter Isaacson on the wealth he&apos;s created: &quot;A fundamental misunderstanding of economics arises because of conflating resource allocation and consumption; I&apos;ve created. My so-called wealth is simply a percentage ownership in SpaceX and Tesla. And this is going to be taxed quite heavily, and there&apos;s not some magical way to avoid taxes. If there were I would know about it. At the end of the day, this will get whittled down, and a few generations from now, if money still matters, which I don&apos;t think it will, my descendants would have a tiny fraction of what I have.&quot; Media
+
+🔗 [View original post](https://x.com/SawyerMerritt/status/2112551927649018058)
+
+---
+
+### 🕐 14:08 UTC · @elonmusk
+
+> Grok Bot has dramatically improved my efficiency: 1) books my flights 2) buys movie tickets 3) alerts and reads through key news 4) coordinates play dates with friends 5) does my invoices 6) pays my bills Grok Bot&apos;s daily active users continue to grow, reaching a new peak on October 17.
+
+🔗 [View original post](https://x.com/KatieMiller/status/2112546590237831459)
+
+---
+
+### 🕐 14:01 UTC · @elonmusk
+
+> The Grok Bot wave. Massive growth in just a few days. Why? It is the easiest most accessible agent platform thus built, and it keeps getting better, I am not guessing, I have been using agent systems before we had LLMs and today I can use any bot, but I find @Grok @Bot to be the best on all my test points. It has not retreated from anything I threw at it. But that’s only half of it. The suggestions are great and unlike any other platform. The chart is a wave and I say catch it…
+
+![The Grok Bot wave. Massive growth in just a few days. Why? It is the easiest most accessible agent platform thus built, and it keeps getting better, I am not guessing, I have been using agent systems ](../../../../assets/images/2026/10/20/2112544697139036236-1.jpg)
+
+🔗 [View original post](https://x.com/BrianRoemmele/status/2112544697139036236)
 
 ---
 

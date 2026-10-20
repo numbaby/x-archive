@@ -2,7 +2,23 @@
 
 ## 📅 October 20, 2026
 
-> 6 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 17:45 UTC · @omarsar0
+
+> This isn&apos;t going to get 1K+ likes, but if you take the time to read it, it will probably give you more useful things to think about than all these vague &quot;harness is dead&quot; posts from people who don&apos;t actually understand the space and haven&apos;t built much. But I am open to being proven wrong. I just need to see evidence.
+
+🔗 [View original post](https://x.com/omarsar0/status/2112600999953371619)
+
+---
+
+### 🕐 17:12 UTC · @omarsar0
+
+> Fast inference is becoming increasingly important for agents. As proactive, always-on agents rise and demand for multi-agent systems for complex tasks grows, heterogeneous compute matters. @general_compute is solving a critical problem here, and this @positron_ai partnership makes a lot of sense. Our heterogeneous cloud just got better. We&apos;re announcing a cluster scale deployment of @positron_ai as our next partner. We believe demand for fast inference will outstrip supply for the next decade. Our bet on Positron is another step towards getting fast inference for opensour…
+
+🔗 [View original post](https://x.com/omarsar0/status/2112592876781633793)
 
 ---
 

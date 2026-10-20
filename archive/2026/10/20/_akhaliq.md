@@ -2,7 +2,17 @@
 
 ## 📅 October 20, 2026
 
-> 6 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 18:20 UTC · @_akhaliq
+
+> 👻 It&apos;s time to play with Ornith-1.5-122B on HF 🤗 Thanks @_akhaliq and @huggingface for the support!!! 🔗 https://huggingface.co/spaces/ornith-ai/Ornith-1.5-122B Aloha!🌺 Meet Ornith-1.5-122B: No Tradeoff Between Strong and Fast Stronger. Faster. Leaner. Ornith-1.5-122B delivers frontier-level capabilities with exceptional inference efficiency. With superior instruction following, stronger task decomposition, and deeper understanding of r…
+
+![👻 It&apos;s time to play with Ornith-1.5-122B on HF 🤗 Thanks @_akhaliq and @huggingface for the support!!! 🔗 https://huggingface.co/spaces/ornith-ai/Ornith-1.5-122B Aloha!🌺 Meet Ornith-1.5-122B: No Tr](../../../../assets/images/2026/10/20/2112609820117442995-1.jpg)
+
+🔗 [View original post](https://x.com/ornith_/status/2112609820117442995)
 
 ---
 

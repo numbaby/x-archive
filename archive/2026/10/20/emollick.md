@@ -2,7 +2,15 @@
 
 ## 📅 October 20, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 18:04 UTC · @emollick
+
+> This was a great conversation! New pod: &apos;YOU&apos;RE NOT AGI-PILLED ENOUGH&apos; I asked @emollick to tell me what I&apos;m getting wrong about AI. We also talked about: - why so many experts keep underrating the rate of progress for model capabilities - why so many experts keep *overrating* how rapidly powerful AI will chan…
+
+🔗 [View original post](https://x.com/emollick/status/2112606017972515005)
 
 ---
 
