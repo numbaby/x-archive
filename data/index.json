@@ -136161,5 +136161,19 @@
     "file": "data/posts/2026/10/2026-10-19.jsonl",
     "fingerprint": "3f9e6c9c58c57082c3f49d3f24b75cfecc889b73937719b7f2fc38a3be55ca15",
     "media": []
+  },
+  "2112348601255125059": {
+    "account": "elonmusk",
+    "date": "2026-10-20",
+    "file": "data/posts/2026/10/2026-10-20.jsonl",
+    "fingerprint": "1447d9d8694a60426daef2b465f9750d3b91c6303e34eac301e760f798bf2a6e",
+    "media": []
+  },
+  "2112351834547376490": {
+    "account": "tunguz",
+    "date": "2026-10-20",
+    "file": "data/posts/2026/10/2026-10-20.jsonl",
+    "fingerprint": "a9475ee463e8c5a1d15c656f453aa5da0e7987e9a5cb822495908d51b96997e5",
+    "media": []
   }
 }
