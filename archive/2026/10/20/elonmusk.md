@@ -2,7 +2,7 @@
 
 ## 📅 October 20, 2026
 
-> 6 post(s) archived.
+> 7 post(s) archived.
 
 ---
 
@@ -45,6 +45,14 @@
 > Have to give the EU regulators credit where it’s due for making all Apple products use USB-C
 
 🔗 [View original post](https://x.com/elonmusk/status/2112348601255125059)
+
+---
+
+### 🕐 00:10 UTC · @elonmusk
+
+> James Talarico wants to: -Dismantle Capitalism -Raise Taxes -Defund the police -Abolish prisons -Get rid of oil and gas jobs And he’s trying to convince Texas he’s a moderate? Vote for Ken Paxton. Media
+
+🔗 [View original post](https://x.com/america/status/2112335573725917396)
 
 ---
 

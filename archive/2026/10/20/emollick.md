@@ -2,7 +2,15 @@
 
 ## 📅 October 20, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 05:25 UTC · @emollick
+
+> Its not a new idea, but the lack of giant eccentric monumental architecture in Silicon Valley is a shame. You have lots of weird people with too much money, and yet only one place at the level of a solid midwestern oddball tourist attraction, and that was started in the 1880s.
+
+🔗 [View original post](https://x.com/emollick/status/2112415001730601333)
 
 ---
 
