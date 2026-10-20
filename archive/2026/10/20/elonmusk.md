@@ -2,7 +2,55 @@
 
 ## 📅 October 20, 2026
 
-> 8 post(s) archived.
+> 15 post(s) archived.
+
+---
+
+### 🕐 17:08 UTC · @elonmusk
+
+> True Before you go to vote, remember what is at stake. James Talarico will be a 100% reliable vote for Chuck Schumer. He will re-open our borders, take away your Second Amendment rights, and end Texas&apos; oil industry. He will fight for taxpayer funded abortion through birth and trans su…
+
+🔗 [View original post](https://x.com/elonmusk/status/2112591749562724532)
+
+---
+
+### 🕐 17:02 UTC · @elonmusk
+
+> The value of Terafab’s output will place it in the top 20 of country GDP in a single building According to Korean media, Elon Musk&apos;s Terafab is now talking to almost EVERY Korean chip supplier it can find. Until now, the only known Korean suppliers were HPSP and Hanmi Semiconductor. Now TheElec reports that Tesla and SpaceX are in talks across nearly every category Korean…
+
+🔗 [View original post](https://x.com/elonmusk/status/2112590295334277253)
+
+---
+
+### 🕐 16:58 UTC · @elonmusk
+
+> Wow, massive numbers for UK &amp; Spain! 🌍 European countries that added the most migrants (2000–2024) 1. 🇬🇧 United Kingdom: +7.1M 2. 🇪🇸 Spain: +6.8M 3. 🇩🇪 Germany: +6.4M 4. 🇹🇷 Türkiye: +5.8M 5. 🇮🇹 Italy: +4.4M 6. 🇫🇷 France: +3.0M 7. 🇦🇹 Austria: +1.4M 8. 🇳🇱 Netherlands: +1.4M 9. 🇨🇭 Switzerland: +1.3M …
+
+🔗 [View original post](https://x.com/elonmusk/status/2112589222855217167)
+
+---
+
+### 🕐 16:57 UTC · @elonmusk
+
+> Big Grok @Bot update What&apos;s new in Grok Bot 00:00 New chat cards 00:31 Speed 00:53 Draft edits 01:08 Email aliases 01:33 X DMs 01:55 Tag @bot 02:31 Connectors 02:48 Voice calls 03:27 Notifications 03:56 Invites and Android Assistant 04:19 Access lists, unread, routines, sign-in This team ships!
+
+🔗 [View original post](https://x.com/elonmusk/status/2112589019380875714)
+
+---
+
+### 🕐 16:56 UTC · @elonmusk
+
+> Grok @Bot upgrades Grok Bot 0.71.2 is out, and this is a very huge upgrade You can now send files up to 250 MB, and videos up to 1 GB. Full-length clips, raw footage, long recordings, big reports and heavy PDFs can go straight to Grok Bot without compressing, trimming or splitting anything first Yo…
+
+🔗 [View original post](https://x.com/elonmusk/status/2112588854691594371)
+
+---
+
+### 🕐 16:38 UTC · @elonmusk
+
+> Nice! Elon Musk in his new interview on “suicidal empathy” “I think you don’t want to have misguided empathy. I agree with Gad Saad’s philosophy here. And suicidal empathy is, you know, that’s his term. You ideally want people to be default trusted, not default distrusted. And you want…
+
+🔗 [View original post](https://x.com/GadSaad/status/2112584138075279552)
 
 ---
 
@@ -35,6 +83,14 @@
 > Rewriting the 𝕏 Android app was also a big deal. It was really bad for such a long time.
 
 🔗 [View original post](https://x.com/elonmusk/status/2112396145137946819)
+
+---
+
+### 🕐 04:04 UTC · @elonmusk
+
+> If they&apos;re replaced by immigrants they go extinct anyway, just in a way that&apos;s far uglier. https://x.com/spectator/status/2112176976077222336?s=20 &apos;Because Japan doesn&apos;t want immigrants they&apos;re going to become extinct.&apos; Author Camilla Cavendish, whose book Generation Maybe examines the reasons birth rates are falling, explains why there is a clock in a university in Japan that is counting down the years until the country ru…
+
+🔗 [View original post](https://x.com/xenocosmography/status/2112394417948819714)
 
 ---
 

@@ -2,7 +2,31 @@
 
 ## 📅 October 20, 2026
 
-> 6 post(s) archived.
+> 9 post(s) archived.
+
+---
+
+### 🕐 16:40 UTC · @tunguz
+
+> My whole work life now revolves around strategically guessing when each one of the AI labs will drop their next reset.
+
+🔗 [View original post](https://x.com/tunguz/status/2112584764154646739)
+
+---
+
+### 🕐 16:05 UTC · @tunguz
+
+> I was speaking some fake French sounding nonsense, and my youngest told me that I sounded like a &quot;grumpy frog.&quot;
+
+🔗 [View original post](https://x.com/tunguz/status/2112575973036048399)
+
+---
+
+### 🕐 15:51 UTC · @tunguz
+
+> Happy Fable 5.5 day to those who celebrate.
+
+🔗 [View original post](https://x.com/tunguz/status/2112572542288306268)
 
 ---
 
