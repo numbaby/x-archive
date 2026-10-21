@@ -2,7 +2,17 @@
 
 ## 📅 October 21, 2026
 
-> 5 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 10:14 UTC · @swyx
+
+> btw at 100k views in 24hrs, @jediahkatz&apos;s talk is an early candidate to be THE breakout talk of aie nyc the bar is set very high for @poteto&apos;s keynote at AIE CODE next month hahaha Inside Grok Bot: is the agent harness dead? @jediahkatz of @SpaceXSI explains why smarter models let Cursor remove prompts and guardrails, and why Grok Bot is adding them back. Watch his AI Engineer New York talk: https://www.youtube.com/watch?v=7Y4sbZgBdnc
+
+![btw at 100k views in 24hrs, @jediahkatz&apos;s talk is an early candidate to be THE breakout talk of aie nyc the bar is set very high for @poteto&apos;s keynote at AIE CODE next month hahaha Inside Gr](../../../../assets/images/2026/10/21/2112849969640259611-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2112849969640259611)
 
 ---
 

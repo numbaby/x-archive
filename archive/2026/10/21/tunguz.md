@@ -2,7 +2,15 @@
 
 ## 📅 October 21, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 10:12 UTC · @tunguz
+
+> There are no moats in higher dimensions.
+
+🔗 [View original post](https://x.com/tunguz/status/2112849534942413086)
 
 ---
 

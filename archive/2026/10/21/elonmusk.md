@@ -2,7 +2,15 @@
 
 ## 📅 October 21, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 08:58 UTC · @elonmusk
+
+> How is this acceptable or legal? Retaliation for political speech should be prohibited by law. JUST IN: House Democrats say Elon Musk is on their &quot;list of targets&quot; if they win the midterms
+
+🔗 [View original post](https://x.com/beffjezos/status/2112830928422842725)
 
 ---
 
