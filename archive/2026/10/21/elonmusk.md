@@ -2,7 +2,79 @@
 
 ## 📅 October 21, 2026
 
-> 7 post(s) archived.
+> 16 post(s) archived.
+
+---
+
+### 🕐 15:51 UTC · @elonmusk
+
+> There is something deeply wrong with Talarico
+
+🔗 [View original post](https://x.com/elonmusk/status/2112934688557818190)
+
+---
+
+### 🕐 15:50 UTC · @elonmusk
+
+> Try this @RampCapitalLLC @bot Do it both conventionally and with Grok @Bot, then compare. Actually, it’s worth showing Grok last year’s tax returns and see if it finds opportunities for improvement. There may be refunds you’re owed.
+
+🔗 [View original post](https://x.com/elonmusk/status/2112934500170600679)
+
+---
+
+### 🕐 15:47 UTC · @elonmusk
+
+> As Thatcher said, the problem with socialism is that eventually they run out of other people’s money to take and they come for you Of course it’s net negative
+
+🔗 [View original post](https://x.com/elonmusk/status/2112933813647258079)
+
+---
+
+### 🕐 15:40 UTC · @elonmusk
+
+> Try Grok @Bot grok bot is by far my most used personal assistant. Apple level product design and seamlessness
+
+🔗 [View original post](https://x.com/elonmusk/status/2112932127901987225)
+
+---
+
+### 🕐 15:38 UTC · @elonmusk
+
+> Some fools still think the legacy news is real. Amazing.
+
+🔗 [View original post](https://x.com/elonmusk/status/2112931457786081428)
+
+---
+
+### 🕐 15:37 UTC · @elonmusk
+
+> https://x.com/i/article/2112926705618751488
+
+🔗 [View original post](https://x.com/PeterDiamandis/status/2112931331722055779)
+
+---
+
+### 🕐 15:19 UTC · @elonmusk
+
+> @Wambscapital @bot For sure @bot and it’s not even close
+
+🔗 [View original post](https://x.com/RampCapitalLLC/status/2112926807074705746)
+
+---
+
+### 🕐 14:49 UTC · @elonmusk
+
+> We need to increase what people can afford, help them participate in the wealth being created, and preserve their confidence during this global technological transition.
+
+🔗 [View original post](https://x.com/PeterDiamandis/status/2112919318123987135)
+
+---
+
+### 🕐 11:50 UTC · @elonmusk
+
+> Elon Musk was once a moderate Democrat who supported Barack Obama. He even stood in line for six hours just to shake Obama&apos;s hand when he was running for president. In 2010, President Obama visited SpaceX at Cape Canaveral, where Elon personally showed him around. But years later, Elon could no longer support the Democrats, because they had become “the party of division and hate.” He eventually shifted his support to the Republicans. Now, House Democrats are preparing to make Elon Musk a major target of congressional investigations if they regain control of the House in the midterms. Also in previous years, Tesla stores, vehicles, and Superchargers were targeted by arson, vandalism, and gunfire. Political disagreements are never an excuse for violence. These are crimes, not legitimate forms of protest. It&apos;s remarkable how much the relationship between Elon Musk and the Democratic Party has changed. https://x.com/iam_smx/status/1899861421715849225/video/1 Media House Democrats have indicated that Elon Musk would be a top target for congressional investigations and increased oversight if they regain control of the House in the upcoming midterm elections. These people are crazy!
+
+🔗 [View original post](https://x.com/iam_smx/status/2112874127170183176)
 
 ---
 

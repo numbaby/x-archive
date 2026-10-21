@@ -2,7 +2,15 @@
 
 ## 📅 October 21, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 15:39 UTC · @omarsar0
+
+> Beyond agent harnesses, I believe agent interfaces are an important direction for the development of self-evolving agents. This is connected to the idea of building for agents. You can pack so much into a good harness and interface that agents understand well. Think about the efficiencies you get. Costs you can reduce. More importantly, this lets agents work more effectively and reliably with interfaces that make sense for the task at hand. With Artifacts, we&apos;ve already seen huge gains in productivity. It&apos;s a more natural interface for humans and agents to collaborate. We&apos;ll discover more of these interfaces over time, and agents will be able to build them on the fly, iterate on them, and evolve as needs arise. Excited about this emerging trend. Banger paper on evolving agent interfaces. Pay close attention to this new trend if you build with agents. Like optimizing harnesses, it&apos;s remarkable what you can achieve with agents that have access to better interfaces. Computer-use agents usually act through interfaces that pe…
+
+🔗 [View original post](https://x.com/omarsar0/status/2112931809142939998)
 
 ---
 
