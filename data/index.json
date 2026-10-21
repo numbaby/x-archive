@@ -136901,6 +136901,13 @@
     "fingerprint": "90e4003d038b958982909aa22065761a11d1ac5d086d3f93d2737fcd6252366a",
     "media": []
   },
+  "2112710372280914137": {
+    "account": "elonmusk",
+    "date": "2026-10-21",
+    "file": "data/posts/2026/10/2026-10-21.jsonl",
+    "fingerprint": "1a95f83b6fb33c374afa1e2910df47af5954eed017f3d74e3ca3aa2a53db2602",
+    "media": []
+  },
   "2112728082042015769": {
     "account": "dair_ai",
     "date": "2026-10-21",
@@ -136926,6 +136933,13 @@
         "source_url": "https://pbs.twimg.com/media/HVHsI4uagAAOdve.jpg?name=orig"
       }
     ]
+  },
+  "2112736030302617699": {
+    "account": "elonmusk",
+    "date": "2026-10-21",
+    "file": "data/posts/2026/10/2026-10-21.jsonl",
+    "fingerprint": "9c69c1f83a56847698c32aa1ec09d949b4668bc3da37079d78107c650b5c8d8b",
+    "media": []
   },
   "2112764130197451209": {
     "account": "swyx",
