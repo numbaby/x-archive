@@ -136879,5 +136879,19 @@
     "file": "data/posts/2026/10/2026-10-20.jsonl",
     "fingerprint": "ba00202b119786996c4af554a8ce3bed0f07ab159d0a0c11ef2ee5720dd09f5f",
     "media": []
+  },
+  "2112702171695227004": {
+    "account": "tunguz",
+    "date": "2026-10-21",
+    "file": "data/posts/2026/10/2026-10-21.jsonl",
+    "fingerprint": "141b74006e3ce14c7a523f616212c3f86a25059b72aeb085f171e344ad913c13",
+    "media": []
+  },
+  "2112705114469175645": {
+    "account": "tunguz",
+    "date": "2026-10-21",
+    "file": "data/posts/2026/10/2026-10-21.jsonl",
+    "fingerprint": "b529e05f786807a9aa89850e83f40758e8172dd42a50a25b8cb8f380b9615b38",
+    "media": []
   }
 }
