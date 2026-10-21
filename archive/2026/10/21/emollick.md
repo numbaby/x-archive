@@ -2,7 +2,23 @@
 
 ## 📅 October 21, 2026
 
-> 3 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 18:04 UTC · @emollick
+
+> This is an interesting question because the answer is not obvious. Which, by the way, does not mean AI coding tools are not leading to massive improvements, but, as research keeps showing, the bottlenecks to product improvements are often elsewhere. What is a piece of normal software that has improved the most because of its its developers using AI extensively? (Claude code doesn&apos;t count)
+
+🔗 [View original post](https://x.com/emollick/status/2112968222538686592)
+
+---
+
+### 🕐 16:07 UTC · @emollick
+
+> It spontaneously chose to use an ElevenLabs clone of my voice as the speaker for the initial typing scene. (The clone was pre-existing, but I did not suggest using it)
+
+🔗 [View original post](https://x.com/emollick/status/2112938901346345394)
 
 ---
 

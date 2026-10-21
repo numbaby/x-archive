@@ -2,7 +2,27 @@
 
 ## 📅 October 21, 2026
 
-> 4 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 22:28 UTC · @dair_ai
+
+> Recommended reading and a super-interesting benchmark for measuring continual learning capabilities through memory. Agent memory is largely unsolved. As agents advance in capabilities like long-horizon work, it&apos;s unclear which models or harnesses work best, or which memory systems and types to use. Opus 5.5 at the top is not a surprise. But it&apos;s exciting that open-weight models like GLM-5.3 perform so well on memory generation. My big question is how this (better memory systems and persistent agent capabilities) translates into more performant, efficient RSI agents and harnesses. Introducing FrontierMemory: a new way to evaluate agent memory through downstream task performance. While existing memory benchmarks focus on recall (saturated via agentic search), FrontierMemory focuses on how agents learn from experience.
+
+![Recommended reading and a super-interesting benchmark for measuring continual learning capabilities through memory. Agent memory is largely unsolved. As agents advance in capabilities like long-horizo](../../../../assets/images/2026/10/21/2113034713774363040-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2113034713774363040)
+
+---
+
+### 🕐 18:04 UTC · @dair_ai
+
+> We love papers that go deeper down the stack. This is a good example that shifts from agentic context engineering to agentic cache engineering. They also apply recursive self-improvement to cache policies to further reduce cost by 7.1% over expert design. Specifically, this work focuses on KV cache management in long-running agents. When an agent summarizes or trims its history, the prefix change invalidates the cache after it, and the retained context must be prefilled again. Cache engineering gives the agent two operations on its own KV cache. One removes entries from future attention, and the other shifts the positions of the keys that remain. The trajectory text stays unchanged. This essentially provides a programmable interface for agents to define and refine their own cache engineering strategies. A rolling drop of old tool responses scores 1.7 points higher and costs 27.7% less than threshold-triggered summarization. Their AKV serving engine adds up to 1.2x throughput and 1.5x faster P95 latency. https://arxiv.org/abs/2610.28577 Chat with Paper: https://academy.dair.ai/papers/cache-engineering-for-agents-2610.28577
+
+![We love papers that go deeper down the stack. This is a good example that shifts from agentic context engineering to agentic cache engineering. They also apply recursive self-improvement to cache poli](../../../../assets/images/2026/10/21/2112968165680640143-1.png)
+
+🔗 [View original post](https://x.com/dair_ai/status/2112968165680640143)
 
 ---
 

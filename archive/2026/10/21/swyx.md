@@ -2,7 +2,51 @@
 
 ## 📅 October 21, 2026
 
-> 6 post(s) archived.
+> 11 post(s) archived.
+
+---
+
+### 🕐 21:11 UTC · @swyx
+
+> ok we are doing another high taste testers on the elizabeth holmes documentary: YOU CAN SEE EVERYTHING this Saturday in SF - who is in and has Hot Takes about the best movie of the year? 🆕 show: HIGH TASTE TESTERS We convene top Al power users to compare what actually works-and what falls apart once you start using it.@davis7, @benhylak, @dexhorthy, @allisonology, @altryne and @swyx give you unfiltered takes on @OpenAl DevDay, Dots vs Muse vs GrokBot vs Instinct…
+
+🔗 [View original post](https://x.com/swyx/status/2113015355878850909)
+
+---
+
+### 🕐 20:59 UTC · @swyx
+
+> https://x.com/transitive_bs/status/2113007529508970780 @swyx @trq212 @_catwu the link: https://www.latent.space/p/claude-mods
+
+![https://x.com/transitive_bs/status/2113007529508970780 @swyx @trq212 @_catwu the link: https://www.latent.space/p/claude-mods](../../../../assets/images/2026/10/21/2113012423892611493-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2113012423892611493)
+
+---
+
+### 🕐 20:24 UTC · @swyx
+
+> When we framed @trq212&apos;s pod about Claude Code&apos;s Next Era, we meant it. we took some directive from @_catwu and did a proper deep dive on the new Claude Mods and highilghted our faves and what you should try now. in the same way that LLMs had that evolution from specific -&gt; foundation -&gt; specific, CC is much more of a malleable, general purpose hardened harness that has &quot;pretrained&quot; on quadrillions of tokens of learning that you can now repurpose for any domain specific harness! thanks to @ricmac and @daniel_mac8 for working on our latest product dive. if you have stuff you&apos;d like us to test and write up, we&apos;re open to chat at business@latent.space There&apos;s not enough buzz around Claude Mods. Read this Claude Mods article if you want to: - Understand Claude Mods basics - Install and use the most useful mods today - Ponder where the agent-human interface will go For @latentspacepod.
+
+![When we framed @trq212&apos;s pod about Claude Code&apos;s Next Era, we meant it. we took some directive from @_catwu and did a proper deep dive on the new Claude Mods and highilghted our faves and wh](../../../../assets/images/2026/10/21/2113003628835553559-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2113003628835553559)
+
+---
+
+### 🕐 19:40 UTC · @swyx
+
+> highly recommend everyone to have private alt accounts*. the x web is bad at account switching, but on mobile it is frictionless. its basically the same &quot;group chat but its ok if you dont read everything&quot; experience but for your mutuals. tips - assume everything is public, screenshotting is real, dont be stupid. this is not the &quot;i shit talk people behind their back&quot;, the right attitude is &quot;this isnt high signal enough for my main account but i&apos;m 1) taking notes for self, 2) have a throwaway thought, 3) i&apos;m happy to chat about it&quot; - give mutuals critical feedback that they might appreciate. &quot;praise in public, criticise in private&quot;. because its not public, they know you actually do mean well - link/replyguy your alt for people to discover periodicially in case they dont know you have one * i like it so much that i call this the &quot;insta/finsta&quot; pattern - every social network should by default give people a public profile and a private one by default. tbd on the third account, the &quot;botsta&quot;.
+
+🔗 [View original post](https://x.com/swyx/status/2112992347890106650)
+
+---
+
+### 🕐 17:36 UTC · @swyx
+
+> this one also blowing up, one talk two W’s https://x.com/theturingpost/status/2112939226765439398?s=46 @swyx @jediahkatz @poteto love this talk, as you know it inspired me to record https://www.youtube.com/watch?v=pEHfZUrahGc&amp;t=6s
+
+🔗 [View original post](https://x.com/swyx/status/2112961323550335062)
 
 ---
 

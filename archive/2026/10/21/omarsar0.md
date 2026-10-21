@@ -2,7 +2,33 @@
 
 ## 📅 October 21, 2026
 
-> 3 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 20:41 UTC · @omarsar0
+
+> Anthropic just destroyed all proactive agent startups. That&apos;s what you&apos;ll see on your timeline. That couldn&apos;t be further from the truth. Personal agents, unlike other agent types, will exist in different flavors and personalities. It&apos;s nice that Claude Duet runs on Opus 5.5. Unlike other agent types, people will really think carefully about which personal agent to pick. Here, people think more carefully about trust, personality, intent understanding, continual learning, etc. The best personal agent is the one you can trust, not just the fastest one that gets the work done effectively. But I think people will use multiple personal agents for different types of tasks/work. I think we are about to see an explosion of vertical personal agents. Which one do I use? I am still testing a bunch of them (dots, Muse, and Grok Bot). But I have actually just built my own with Pi Durable. I like mine better because it is hyper-personalized to how I use personal agents. We’re opening a research preview of Claude Duet, a new app where Claude works as a proactive agent. It comes to you with what needs your attention, completes tasks you ask of it, keeps working when you step away, and checks with you before it acts on your behalf.
+
+🔗 [View original post](https://x.com/omarsar0/status/2113007827736572035)
+
+---
+
+### 🕐 18:21 UTC · @omarsar0
+
+> Goodbye, context engineering; hello, cache engineering. Jokes aside, this paper takes an interesting approach to the problem. We love papers that go deeper down the stack. This is a good example that shifts from agentic context engineering to agentic cache engineering. They also apply recursive self-improvement to cache policies to further reduce cost by 7.1% over expert design. Specifically, this work …
+
+🔗 [View original post](https://x.com/omarsar0/status/2112972476955107610)
+
+---
+
+### 🕐 16:43 UTC · @omarsar0
+
+> Bullish on automated AI research. Early signs of self-improving AI, no doubt. Flint is the first model from @recursive_si. Their Eureka Machine contributed to nearly every part of the stack, from data and training recipes to the inference kernels, and the team built it from scratch in under four months! It is a 40B MoE with 2.5B active parameters and open weights under Apache 2.0. It runs at 125+ tokens/s on an M4 Pro MacBook Pro at short contexts. Highly recommend checking it out. We will be testing this in our internal autoresearch evals. Introducing Flint, @Recursive_SI’s first model: a fast local coding model built with our automated research system, the Eureka Machine. • Best-in-class fast local coding • Up to 2x faster than comparable models: 125+ tokens/sec on a MacBook Pro, 150+ on RTX Spark • Built from scr…
+
+![Bullish on automated AI research. Early signs of self-improving AI, no doubt. Flint is the first model from @recursive_si. Their Eureka Machine contributed to nearly every part of the stack, from data](../../../../assets/images/2026/10/21/2112947912137122135-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2112947912137122135)
 
 ---
 
