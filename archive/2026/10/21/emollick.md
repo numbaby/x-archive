@@ -2,7 +2,23 @@
 
 ## 📅 October 21, 2026
 
-> 1 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 14:47 UTC · @emollick
+
+> Companies I talk to are struggling with the rate of patches they need to do thanks to AI defenses finding issues before the inevitable wave of incoming cyberattacks by other AIs. Now consumers are going to have the same experience of getting everything updated often &amp; fast. OpenAI models helped researchers—operating as part of our Patch the Planet initiative—discover critical security flaws in PHP, an open-source programming language used to run an estimated 70% of websites. Over the past two months, we led a coalition of maintainers, researchers, a…
+
+🔗 [View original post](https://x.com/emollick/status/2112918582598459644)
+
+---
+
+### 🕐 14:41 UTC · @emollick
+
+> Maybe, finally, voice interfaces in AI apps will kill the monstrosity that is the open office. Or just make them a lot worse as you. (Thread of research on the problems of open offices below) The background noise in open offices, in multiple experiments, decreases the ability to do analytical work, increase bugs in software, and decrease the ability to find bugs. Open floor plans are just a bad idea for any solo work.
+
+🔗 [View original post](https://x.com/emollick/status/2112917311107842130)
 
 ---
 

@@ -2,7 +2,25 @@
 
 ## 📅 October 21, 2026
 
-> 2 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 14:31 UTC · @dair_ai
+
+> Banger paper on evolving agent interfaces. Pay close attention to this new trend if you build with agents. Like optimizing harnesses, it&apos;s remarkable what you can achieve with agents that have access to better interfaces. Computer-use agents usually act through interfaces that people design by hand, so an agent may type a spreadsheet cell by cell when one line of code would do. Simular&apos;s Agent S4 has a meta-agent that builds those interfaces instead. It reads the task agent&apos;s trajectories, with no success labels, and writes new tools and notes on when to use them. With the evolved interfaces, an open 27B model reaches 21.3% on OSWorld V2, 3.8 times that of the same model with hand-built interfaces. That is above GPT-5.5 (13.0%) and Claude Opus 4.8 (20.6%), at about 4.3% and 1.5% of their cost. Population-based selection keeps the interface repositories that do best on validation tasks the meta-agent never sees, so the changes carry over to new tasks. On ScienceBoard, the evolved interfaces raise success from 41.4% to 58.6% with the same model. The code is open source. https://arxiv.org/abs/2610.28601 Chat with Paper: https://academy.dair.ai/papers/evolving-agent-interfaces-2610.28601
+
+![Banger paper on evolving agent interfaces. Pay close attention to this new trend if you build with agents. Like optimizing harnesses, it&apos;s remarkable what you can achieve with agents that have ac](../../../../assets/images/2026/10/21/2112914561590546695-1.jpg)
+
+🔗 [View original post](https://x.com/dair_ai/status/2112914561590546695)
+
+---
+
+### 🕐 14:21 UTC · @dair_ai
+
+> Brilliant paper from Google on leveraging object-oriented design for self-evolving agent harnesses. Build specialized harnesses, folks. This is a banger paper from Google Cloud AI Research on self-evolving agent harnesses. (bookmark it) They introduce OO-Harness, which raises AutomationBench from 61.6% to 77.4% with the same Gemini 3.5 Flash executor. It also beats Meta-Harness…
+
+🔗 [View original post](https://x.com/dair_ai/status/2112912142722855336)
 
 ---
 

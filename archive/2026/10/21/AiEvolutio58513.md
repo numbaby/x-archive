@@ -2,7 +2,15 @@
 
 ## 📅 October 21, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 14:02 UTC · @AiEvolutio58513
+
+> &gt; be Andrej Karpathy &gt; building neural nets before the term AI caught on &gt; joins OpenAI. helps train GPT. &gt; becomes Tesla&apos;s head of AI &gt; teaches everyone how LLMs really work. for free. &gt; leaves Tesla. starts a YouTube channel instead &gt; hits 1M subscribers. still free. &gt; drops an offhand observation about LLM coding habits &gt; points out 4 problems nobody had flagged &gt; a developer distills it into one CLAUDE.md file &gt; 84,000 stars in days &gt; no dependencies. no cost. &gt; Karpathy never wrote the repo &gt; he just said what was true &gt; the one who sees the problem clearly &gt; doesn&apos;t always have to build the fix &gt; sometimes a single tweet does the job Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2112907289099489440)
 
 ---
 
