@@ -2,7 +2,35 @@
 
 ## 📅 October 22, 2026
 
-> 1 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 20:06 UTC · @emollick
+
+> Very useful prompt for Codex with computer use.
+
+![Very useful prompt for Codex with computer use.](../../../../assets/images/2026/10/22/2113361252173091114-1.jpg)
+
+🔗 [View original post](https://x.com/emollick/status/2113361252173091114)
+
+---
+
+### 🕐 17:47 UTC · @emollick
+
+> To be clear, it doesn’t take the AI 17 weeks to do 17 weeks of human equivalent work (and success rates are higher than 50% as well). And the study I pulled that from found it cost something like $241 in tokens to replicate the 17 weeks of human engineering work.
+
+🔗 [View original post](https://x.com/emollick/status/2113326345682092263)
+
+---
+
+### 🕐 17:36 UTC · @emollick
+
+> When my first AI book was published in 2024, the best AI could do 4 minutes of human work with a 50% chance of success When I turned in the draft of Co-Existence earlier this year, it was 17 hours When it was published two days ago, AI could do 17 weeks https://open.substack.com/pub/oneusefulthing/p/30-months-on-the-exponential-in-charts?r=i5f7&amp;utm_medium=ios
+
+![When my first AI book was published in 2024, the best AI could do 4 minutes of human work with a 50% chance of success When I turned in the draft of Co-Existence earlier this year, it was 17 hours Whe](../../../../assets/images/2026/10/22/2113323645284344215-1.jpg)
+
+🔗 [View original post](https://x.com/emollick/status/2113323645284344215)
 
 ---
 

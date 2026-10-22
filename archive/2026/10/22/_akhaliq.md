@@ -2,7 +2,23 @@
 
 ## 📅 October 22, 2026
 
-> 7 post(s) archived.
+> 11 post(s) archived.
+
+---
+
+### 🕐 20:01 UTC · @_akhaliq
+
+> You know us as your creative asset toolkit. Now meet @_MonoDesk, a whole new app from our team, built to handle the boring bits of creative work. Less time on proposals, chasing approvals and sending invoices. More time on the creative side of your business. Media
+
+🔗 [View original post](https://x.com/envato/status/2113359997593649193)
+
+---
+
+### 🕐 19:16 UTC · @_akhaliq
+
+> Introducing Canva Craft 🚀 Extraordinary image generation is now available to everyone, powered by our first frontier model built specifically for design. With Craft, Canva is now the world&apos;s second most advanced AI lab for image generation on @DesignArena&apos;s global leaderboard. See what it can do 👇 Media
+
+🔗 [View original post](https://x.com/canva/status/2113348707223753165)
 
 ---
 
@@ -40,6 +56,16 @@
 
 ---
 
+### 🕐 15:12 UTC · @_akhaliq
+
+> Comparing multiple models has never been this easy, thanks to gr.Workflow👇 We used ML Intern to distill FLUX.3 Image Klein&apos;s 9B prompt upsampler into 0.8B and 2B models. Short prompt in → full prompt + bounding boxes out. The 0.8B can even run on a CPU. Links in reply.
+
+![Comparing multiple models has never been this easy, thanks to gr.Workflow👇 We used ML Intern to distill FLUX.3 Image Klein&apos;s 9B prompt upsampler into 0.8B and 2B models. Short prompt in → full pr](../../../../assets/images/2026/10/22/2113287503977595122-1.jpg)
+
+🔗 [View original post](https://x.com/Gradio/status/2113287503977595122)
+
+---
+
 ### 🕐 14:44 UTC · @_akhaliq
 
 > Looking Ahead Modeling Future Evolution in Autoregressive Video Generation paper: https://huggingface.co/papers/2610.29989 Media
@@ -65,5 +91,13 @@
 ![StreamEval: The first benchmark for interactive streaming video generation It evaluates 37 models across 5 tasks with 300 scripted test cases, revealing that reliable request execution remains a centr](../../../../assets/images/2026/10/22/2113243173606826159-1.jpg)
 
 🔗 [View original post](https://x.com/HuggingPapers/status/2113243173606826159)
+
+---
+
+### 🕐 08:14 UTC · @_akhaliq
+
+> AKV: Cache Engineering for Agents A new serving system that lets LLM agents directly manage their KV cache — dropping unused history and repositioning retained keys without rewriting or re-prefilling. Reduces average cost by 27.7% while improving task accuracy by 1.7 points. Media
+
+🔗 [View original post](https://x.com/HuggingPapers/status/2113182114099151346)
 
 ---

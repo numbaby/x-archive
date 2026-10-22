@@ -2,7 +2,17 @@
 
 ## 📅 October 22, 2026
 
-> 8 post(s) archived.
+> 9 post(s) archived.
+
+---
+
+### 🕐 19:57 UTC · @swyx
+
+> imo this is the right attitude - dont blame AI for finding the bugs, just fucking lock in on clearing all the bugs asap https://www.latent.space/p/ainews-openais-patch-the-planet-program The folks at @latentspacepod with the perfect take, as usual:
+
+![imo this is the right attitude - dont blame AI for finding the bugs, just fucking lock in on clearing all the bugs asap https://www.latent.space/p/ainews-openais-patch-the-planet-program The folks at ](../../../../assets/images/2026/10/22/2113359027682050352-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2113359027682050352)
 
 ---
 

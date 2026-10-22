@@ -2,7 +2,25 @@
 
 ## 📅 October 22, 2026
 
-> 5 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 19:37 UTC · @omarsar0
+
+> Design Arena: https://x.com/DesignArena/status/2113349031762268476?s=20 Canva Craft, the first ever image model by @canva, takes the #4 spot on DesignArena&apos;s Image leaderboard. This makes Canva the #2 Image Lab after @OpenAI! Notably, it wins most often on photorealistic product and object shots, setting up studio-style lighting and detailed material…
+
+🔗 [View original post](https://x.com/omarsar0/status/2113353954574631090)
+
+---
+
+### 🕐 19:32 UTC · @omarsar0
+
+> Let&apos;s go!!! Extremely bullish on specialized models. And Canva just entered the frontier image model race. Craft is Canva&apos;s first image model for design, built by their Canva Research team. It can plan the composition before it renders anything. We use Canva at our company, so it&apos;s exciting to see where this goes, given their expertise. Introducing Canva Craft 🚀 Extraordinary image generation is now available to everyone, powered by our first frontier model built specifically for design. With Craft, Canva is now the world&apos;s second most advanced AI lab for image generation on @DesignArena&apos;s global leaderboard. S…
+
+![Let&apos;s go!!! Extremely bullish on specialized models. And Canva just entered the frontier image model race. Craft is Canva&apos;s first image model for design, built by their Canva Research team. ](../../../../assets/images/2026/10/22/2113352933874041325-1.png)
+
+🔗 [View original post](https://x.com/omarsar0/status/2113352933874041325)
 
 ---
 
@@ -41,6 +59,14 @@
 > Recommended reading. I&apos;ve been testing decision models such as Jev and Drex Max for research tasks (e.g., paper classification). Just published our initial exploratory work on it. Drex Max is a strong fit for our use cases, and we are already planning production efforts around it. Multimodal decision models also open up a whole range of exciting areas. We&apos;ll share more results and resources soon. https://x.com/i/article/2113280256119312384
 
 🔗 [View original post](https://x.com/omarsar0/status/2113297633737691572)
+
+---
+
+### 🕐 15:48 UTC · @omarsar0
+
+> https://x.com/i/article/2113280256119312384
+
+🔗 [View original post](https://x.com/omarsar0/status/2113296402289676594)
 
 ---
 

@@ -2,7 +2,15 @@
 
 ## 📅 October 22, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 19:47 UTC · @simonw
+
+> Spotted a familiar creature at 00:45s in this new music video for FREEDOM by De Staad https://www.youtube.com/watch?v=hKO4pQtIXow Media
+
+🔗 [View original post](https://x.com/simonw/status/2113356466770121166)
 
 ---
 

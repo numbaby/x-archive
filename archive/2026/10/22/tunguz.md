@@ -2,7 +2,57 @@
 
 ## 📅 October 22, 2026
 
-> 11 post(s) archived.
+> 17 post(s) archived.
+
+---
+
+### 🕐 21:10 UTC · @tunguz
+
+> Orcs have left for Valinor.
+
+🔗 [View original post](https://x.com/tunguz/status/2113377587908972942)
+
+---
+
+### 🕐 20:54 UTC · @tunguz
+
+> 18 months to fix the cyber. 🚨 Anthropic&apos;s deputy security chief warns: “as bad as things have gotten in the past 4 days, they are going to get a lot worse…” BRACE FOR IMPACT.⁠
+
+🔗 [View original post](https://x.com/tunguz/status/2113373467546710361)
+
+---
+
+### 🕐 20:19 UTC · @tunguz
+
+> Yes 4
+
+![Yes 4](../../../../assets/images/2026/10/22/2113364652197609541-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2113364652197609541)
+
+---
+
+### 🕐 19:50 UTC · @tunguz
+
+> And after that the world will change every few days. The next few weeks will change the world
+
+🔗 [View original post](https://x.com/tunguz/status/2113357448425717976)
+
+---
+
+### 🕐 19:47 UTC · @tunguz
+
+> Oh you are a cybersecurity researcher? Name five previously undisclosed zero-day exploits.
+
+🔗 [View original post](https://x.com/tunguz/status/2113356488332714092)
+
+---
+
+### 🕐 17:36 UTC · @tunguz
+
+> If you ever feel cornered, add a dimension or two to your problem.
+
+🔗 [View original post](https://x.com/tunguz/status/2113323648845062223)
 
 ---
 
