@@ -2,7 +2,23 @@
 
 ## 📅 October 22, 2026
 
-> 9 post(s) archived.
+> 11 post(s) archived.
+
+---
+
+### 🕐 21:47 UTC · @swyx
+
+> Deep stuff on @latentspacepod about GPU markets, why sandboxes are having a moment, and what&apos;s next for Modal. Thanks for having me!! Last week, @bernhardsson (Founder &amp; CEO, @modal) announced a $750M Series D. I sat down with him the prior week to discuss a ton of stuff about the business. We got into: -why 2027 might finally be the year of non-Nvidia chips -why open-source models made fine-tuning a lot less n…
+
+🔗 [View original post](https://x.com/bernhardsson/status/2113386790023291203)
+
+---
+
+### 🕐 20:37 UTC · @swyx
+
+> Last week, @bernhardsson (Founder &amp; CEO, @modal) announced a $750M Series D. I sat down with him the prior week to discuss a ton of stuff about the business. We got into: -why 2027 might finally be the year of non-Nvidia chips -why open-source models made fine-tuning a lot less necessary -how Modal&apos;s team grew 4x in a year and could hit ~700 people next year -why the frontier labs have the same business model as music artists and much, much, more… Enjoy! Timestamps: 0:00 What @modal does 1:25 From Spotify to building Modal 4:19 Founding before the generative AI boom 7:43 First customers and fundraising 10:00 Building for inference and autoscaling 13:21 Where Modal gets GPU capacity 15:39 Renting vs. owning infrastructure 19:45 The risk of GPU prices falling 24:18 Is AI demand infinite? 26:12 Alternatives to @nvidia 28:25 What Modal can learn from neoclouds 30:26 GPUs as an asset class 31:55 Modal’s products: functions and sandboxes 36:03 The case for smaller training workloads 41:21 How agent sandboxes are changing 46:48 @AnthropicAI and sandbox security 49:29 Using agents to test security 52:51 Developer experience in the age of agents 57:45 What Modal’s forward-deployed engineers do 59:55 Modal’s approach to product management 1:03:29 Optional code reviews and engineering culture 1:05:56 Cloud, on-prem and bring-your-own-cloud 1:09:25 Capacity, fundraising and growth 1:13:07 Scaling the team 1:17:28 Erik’s tweets: ephemeral sandboxes 1:18:31 The problem with rectangular GPU contracts 1:21:20 Inference providers vs. model builders 1:23:25 Where models improve next Media
+
+🔗 [View original post](https://x.com/realbasilchatha/status/2113369200228253882)
 
 ---
 

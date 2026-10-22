@@ -2,7 +2,7 @@
 
 ## 📅 October 22, 2026
 
-> 28 post(s) archived.
+> 29 post(s) archived.
 
 ---
 
@@ -11,6 +11,16 @@
 > True Most people use Grok Bot like a chatbot! But it has its own computer and keeps working while you&apos;re away! 8 things you can hand off to it today: 1. Tag @bot under any post on X 2. Handle your X DMs 3. Connect Coinbase, Robinhood or eToro 4. Run daily briefings and reminders 5. Co…
 
 🔗 [View original post](https://x.com/elonmusk/status/2113333198134354083)
+
+---
+
+### 🕐 18:13 UTC · @elonmusk
+
+> Grok Bot can now use your 1Password account. Approve the logins you want to share, and your Bot signs in for you. This new integration is rolling out to users over the next few days.
+
+![Grok Bot can now use your 1Password account. Approve the logins you want to share, and your Bot signs in for you. This new integration is rolling out to users over the next few days.](../../../../assets/images/2026/10/22/2113332983226831339-1.jpg)
+
+🔗 [View original post](https://x.com/bot/status/2113332983226831339)
 
 ---
 

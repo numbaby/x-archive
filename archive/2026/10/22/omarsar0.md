@@ -2,7 +2,15 @@
 
 ## 📅 October 22, 2026
 
-> 8 post(s) archived.
+> 9 post(s) archived.
+
+---
+
+### 🕐 22:13 UTC · @omarsar0
+
+> Crazy how good this is. I like the idea of making AI more collaborative. Kylon Annotations made this short clip of me. The paper stacks are accurate. 😅 It&apos;s very collaborative and lets a team analyze, annotate, and remix a video together. Media Copying is easy. Making it yours is hard. Meet Kylon Annotations: analyze, annotate and remix to add your team&apos;s taste together. Drop a video below and @kylon_ai , we&apos;ll remix for you.
+
+🔗 [View original post](https://x.com/omarsar0/status/2113393347347763403)
 
 ---
 
