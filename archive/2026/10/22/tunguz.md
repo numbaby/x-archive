@@ -2,7 +2,31 @@
 
 ## 📅 October 22, 2026
 
-> 8 post(s) archived.
+> 11 post(s) archived.
+
+---
+
+### 🕐 17:22 UTC · @tunguz
+
+> Real Macedonia has never been tried.
+
+🔗 [View original post](https://x.com/tunguz/status/2113320065361686903)
+
+---
+
+### 🕐 17:12 UTC · @tunguz
+
+> Got it!
+
+🔗 [View original post](https://x.com/tunguz/status/2113317702584455366)
+
+---
+
+### 🕐 16:47 UTC · @tunguz
+
+> Any moment now ... Lands tomorrow before 10am PST.
+
+🔗 [View original post](https://x.com/tunguz/status/2113311201195118806)
 
 ---
 

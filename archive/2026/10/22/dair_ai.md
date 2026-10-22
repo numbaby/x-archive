@@ -2,7 +2,17 @@
 
 ## 📅 October 22, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 17:01 UTC · @dair_ai
+
+> Brilliant paper on interpretable AI-text detection from Google DeepMind and UPenn. The strongest AI-text detectors are fine-tuned classifiers that give no reason for a flag, and the readable stylometric alternatives are much less accurate. That gap matters when a flag affects a peer review, an admission, or a student. This work trains sparse autoencoders on a detector&apos;s residual stream, labels each feature automatically, and keeps only features whose descriptions pass a fidelity check. A small classifier is then trained on those features alone. The kept features correspond to specific linguistic markers of AI-generated text. The interpretable classifier also outperforms both the original neural detector and the stylometric baselines on out-of-distribution text. Accepted at EMNLP 2026, with code and models released. https://arxiv.org/abs/2610.30006 Chat with Paper: https://academy.dair.ai/papers/building-auditable-ai-text-detectors-with-sparse-autoencoders-2610.30006
+
+![Brilliant paper on interpretable AI-text detection from Google DeepMind and UPenn. The strongest AI-text detectors are fine-tuned classifiers that give no reason for a flag, and the readable stylometr](../../../../assets/images/2026/10/22/2113314716995162507-1.jpg)
+
+🔗 [View original post](https://x.com/dair_ai/status/2113314716995162507)
 
 ---
 
