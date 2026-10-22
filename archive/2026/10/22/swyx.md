@@ -2,7 +2,23 @@
 
 ## 📅 October 22, 2026
 
-> 1 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 04:55 UTC · @swyx
+
+> @cognition get cooked @DevinAI Most of these people spend too much time talking to me to be here on X. Luckily, I can do both!
+
+🔗 [View original post](https://x.com/swyx/status/2113132130465395084)
+
+---
+
+### 🕐 04:51 UTC · @swyx
+
+> guys you are making me look bad by @cognition stop RTing this tweet
+
+🔗 [View original post](https://x.com/swyx/status/2113131062675267841)
 
 ---
 
