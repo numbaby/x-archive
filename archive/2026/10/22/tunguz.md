@@ -2,7 +2,15 @@
 
 ## 📅 October 22, 2026
 
-> 7 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 15:10 UTC · @tunguz
+
+> I like this. A lot. Introducing Locals: an Apple Silicon engine that runs local LLMs up to 3x faster. It is built with a single mission: to free you from cloud providers and run frontier-class models locally without needing massive compute resources. It’s simple. Run our engine, and your coding harn…
+
+🔗 [View original post](https://x.com/tunguz/status/2113286793378369831)
 
 ---
 
