@@ -2,7 +2,15 @@
 
 ## 📅 October 22, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 15:54 UTC · @dair_ai
+
+> Learn how we use decision models for research tasks such as paper classification and curation. https://x.com/i/article/2113280256119312384
+
+🔗 [View original post](https://x.com/dair_ai/status/2113297877762207781)
 
 ---
 

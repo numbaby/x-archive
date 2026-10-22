@@ -2,7 +2,53 @@
 
 ## 📅 October 22, 2026
 
-> 12 post(s) archived.
+> 18 post(s) archived.
+
+---
+
+### 🕐 15:18 UTC · @elonmusk
+
+> Yup Hillary wants the Supreme Court expanded to 13 Justices -- but not until &quot;Democrats are in power.&quot; Because it&apos;s all about making the court less partisan and has nothing to do with entrenching Democrat power, of course.
+
+🔗 [View original post](https://x.com/elonmusk/status/2113288958738366650)
+
+---
+
+### 🕐 14:50 UTC · @elonmusk
+
+> Estimated metric tons of useful payload delivered to orbit in Year-to-Date 2026 by Rocket Lab, Firefly, Blue Origin, Stoke Space, and Relativity combined... ... versus useful payload SpaceX put in orbit on only September 28, 2026. 👀 Chart courtesy: @Grok $SPCX
+
+![Estimated metric tons of useful payload delivered to orbit in Year-to-Date 2026 by Rocket Lab, Firefly, Blue Origin, Stoke Space, and Relativity combined... ... versus useful payload SpaceX put in orb](../../../../assets/images/2026/10/22/2113281788072149401-1.jpg)
+
+🔗 [View original post](https://x.com/ICannot_Enough/status/2113281788072149401)
+
+---
+
+### 🕐 14:24 UTC · @elonmusk
+
+> How many Americans actually just straight-up starve to death? In the latest data, from 2024, there were 22 cases. And not even one of them was about poverty making it unaffordable to obtain food. How many Americans live paycheck-to-paycheck? How many are starving? The answer to both questions is--despite what you might have heard from the news media--not many. Link: https://www.cremieux.xyz/p/how-many-americans-live-paycheck
+
+![How many Americans actually just straight-up starve to death? In the latest data, from 2024, there were 22 cases. And not even one of them was about poverty making it unaffordable to obtain food. How ](../../../../assets/images/2026/10/22/2113275220551451037-1.jpg)
+
+🔗 [View original post](https://x.com/cremieuxrecueil/status/2113275220551451037)
+
+---
+
+### 🕐 13:47 UTC · @elonmusk
+
+> Today is a great day to vote early in person for @KenPaxtonTX. If Texas falls, there is no future for our country.
+
+🔗 [View original post](https://x.com/ScottPresler/status/2113265992667148580)
+
+---
+
+### 🕐 10:38 UTC · @elonmusk
+
+> Grok Bot is now on X Chat
+
+![Grok Bot is now on X Chat](../../../../assets/images/2026/10/22/2113218324809269398-1.jpg)
+
+🔗 [View original post](https://x.com/techdevnotes/status/2113218324809269398)
 
 ---
 
@@ -37,6 +83,14 @@
 > From what I can tell from my exposure to it, the Japanese voice on this platform is the most blessed and wholesome signal in world media. 🩷🇯🇵
 
 🔗 [View original post](https://x.com/xenocosmography/status/2113203265341165866)
+
+---
+
+### 🕐 09:05 UTC · @elonmusk
+
+> Mercedes sold its Tesla stake for $780 million. that same 4 percent is worth about $56 billion today. in the clip below Musk explains how Mercedes ended up there. the US government gave Tesla almost $500 million, and he is asked directly whether that loan saved the company. he says no. what saved it was a $50 million check from Daimler in May 2009. all of Tesla was worth $550 million then. &quot;they were the only ones. there was no other company, no other entity of any kind from which we could get investments.&quot; Tesla repaid the government&apos;s $500 million with interest and a prepayment penalty, ten years early. he sent a thank you note with it. &quot;i don&apos;t like having a lot of debt. the taxpayers supported Tesla, we ought to repay them as soon as we can.&quot; Mercedes turned $50 million into $780 million and walked away in 2014. so was that a great investment - or the most expensive mistake in car industry history? Media
+
+🔗 [View original post](https://x.com/Di_Krass_/status/2113194901341085989)
 
 ---
 

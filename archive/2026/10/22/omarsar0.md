@@ -2,7 +2,15 @@
 
 ## 📅 October 22, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 15:53 UTC · @omarsar0
+
+> Recommended reading. I&apos;ve been testing decision models such as Jev and Drex Max for research tasks (e.g., paper classification). Just published our initial exploratory work on it. Drex Max is a strong fit for our use cases, and we are already planning production efforts around it. Multimodal decision models also open up a whole range of exciting areas. We&apos;ll share more results and resources soon. https://x.com/i/article/2113280256119312384
+
+🔗 [View original post](https://x.com/omarsar0/status/2113297633737691572)
 
 ---
 
