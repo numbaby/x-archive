@@ -2,7 +2,17 @@
 
 ## 📅 October 22, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 13:50 UTC · @swyx
+
+> THIS THING CAN LIFT A CAR?? Unitree Introducing: H2-X Kung Fu Legend Guardian🤖 Powerful performance to serve and guard you, with a maximum endurance of approximately 8 hours. Please use the robot safely and in a friendly manner.
+
+![THIS THING CAN LIFT A CAR?? Unitree Introducing: H2-X Kung Fu Legend Guardian🤖 Powerful performance to serve and guard you, with a maximum endurance of approximately 8 hours. Please use the robot safe](../../../../assets/images/2026/10/22/2113266623260004422-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2113266623260004422)
 
 ---
 

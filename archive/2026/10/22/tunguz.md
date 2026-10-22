@@ -2,7 +2,23 @@
 
 ## 📅 October 22, 2026
 
-> 5 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 12:52 UTC · @tunguz
+
+> Updated version of metal-graph is out! Install it simply on your Mac and let me know what you think. python3 -m pip install --upgrade metal-graph==0.1.2 We are releasing an improved version of metal-graph library, 0.1.2. We&apos;ve made some substantial changes to the underlying algorithms, which has resulted in significant speedups in our testing. This is still a very early experimental release, and we need to implement a lot more te…
+
+🔗 [View original post](https://x.com/tunguz/status/2113252038540734912)
+
+---
+
+### 🕐 12:13 UTC · @tunguz
+
+> This is why we need to unplug the internet. Dario Altman
+
+🔗 [View original post](https://x.com/tunguz/status/2113242444204822969)
 
 ---
 
