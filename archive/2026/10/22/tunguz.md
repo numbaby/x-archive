@@ -2,7 +2,23 @@
 
 ## 📅 October 22, 2026
 
-> 3 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 11:22 UTC · @tunguz
+
+> Hedge fund? You mean our gardening expenses?
+
+🔗 [View original post](https://x.com/tunguz/status/2113229565204074744)
+
+---
+
+### 🕐 10:58 UTC · @tunguz
+
+> Not foolproof. I once asked a girl for a date, and she was all like “MM-DD-YYYY or DD-MM-YYYY?” I keep hearing stories that validate this piece of advice. Say the word &quot;date&quot;.
+
+🔗 [View original post](https://x.com/tunguz/status/2113223495488581772)
 
 ---
 
