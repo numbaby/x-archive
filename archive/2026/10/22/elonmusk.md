@@ -2,7 +2,33 @@
 
 ## 📅 October 22, 2026
 
-> 9 post(s) archived.
+> 12 post(s) archived.
+
+---
+
+### 🕐 10:13 UTC · @elonmusk
+
+> How it started vs how it’s going Seven years ago, Starhopper barely left the ground. Today, Starship has reached space Media
+
+🔗 [View original post](https://x.com/XFreeze/status/2113212166497357963)
+
+---
+
+### 🕐 10:07 UTC · @elonmusk
+
+> True Margaret Thatcher explained this perfectly back in 1983 The government doesn&apos;t have money of its own. Every time politicians promise to spend more, someone has to pay for it And people somehow still think it&apos;s someone else&apos;s money “There is no such thing as public money. There is…
+
+🔗 [View original post](https://x.com/elonmusk/status/2113210745710162001)
+
+---
+
+### 🕐 09:57 UTC · @elonmusk
+
+> 🚨 TEXAS: President Trump just dropped his FULL endorsement slate, and every one of these Patriots needs your vote. Ken Paxton for U.S. Senate. Greg Abbott for Governor. Dan Patrick for Lieutenant Governor. Mayes Middleton for Attorney General. And 30 America First fighters for Congress, all the way down the ballot. Early voting is open RIGHT NOW and runs through Friday, October 30. Election Day is November 3. The Democrats are pouring money in because they think Texas is up for grabs. Prove them wrong. Vote straight Republican. Keep Texas RED. 🇺🇸
+
+![🚨 TEXAS: President Trump just dropped his FULL endorsement slate, and every one of these Patriots needs your vote. Ken Paxton for U.S. Senate. Greg Abbott for Governor. Dan Patrick for Lieutenant Gove](../../../../assets/images/2026/10/22/2113208193631301855-1.png)
+
+🔗 [View original post](https://x.com/GuntherEagleman/status/2113208193631301855)
 
 ---
 
