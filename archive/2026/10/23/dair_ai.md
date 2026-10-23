@@ -2,7 +2,17 @@
 
 ## 📅 October 23, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 18:46 UTC · @dair_ai
+
+> Banger paper from Google Cloud AI Research on agents doing professional engineering work. (bookmark it) For professional engineering deliverables, the best agent configuration averages 50.6%, using 27M tokens and 63 minutes per task. They introduce a benchmark called PLE (Physical-Engineering&apos;s Last Exam). It has 85 tasks across electrical, civil, structural, and mechanical engineering. Solving a task means producing a billable deliverable, such as a design package a licensed reviewer would sign off on, from a multi-format project corpus with physics and building-code requirements. Some tasks are written end to end by practicing engineers. Others start from an engineer&apos;s problem statement, and an adversarial Creator-Solver agent pipeline builds the project environment, grader, and reference deliverables before experts validate them and make them harder. Frontier models were tested under seven public agent harnesses. Most existing engineering benchmarks are textbook QA or toy design problems that leading agents already saturate. https://arxiv.org/abs/2610.30537 Chat with Paper: https://academy.dair.ai/papers/ple-physical-engineerings-last-exam-2610.30537
+
+![Banger paper from Google Cloud AI Research on agents doing professional engineering work. (bookmark it) For professional engineering deliverables, the best agent configuration averages 50.6%, using 27](../../../../assets/images/2026/10/23/2113703509548040295-1.jpg)
+
+🔗 [View original post](https://x.com/dair_ai/status/2113703509548040295)
 
 ---
 
