@@ -2,7 +2,17 @@
 
 ## 📅 October 23, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 19:45 UTC · @simonw
+
+> More notes on Kimi K3.1 - this one is I big deal, first time an open weights (well, soon-to-be open weights) model has competed this credibly with the current frontier https://simonwillison.net/2026/Oct/23/kimi-k31-pro/
+
+![More notes on Kimi K3.1 - this one is I big deal, first time an open weights (well, soon-to-be open weights) model has competed this credibly with the current frontier https://simonwillison.net/2026/O](../../../../assets/images/2026/10/23/2113718487529267593-1.jpg)
+
+🔗 [View original post](https://x.com/simonw/status/2113718487529267593)
 
 ---
 

@@ -2,7 +2,27 @@
 
 ## 📅 October 23, 2026
 
-> 5 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 19:43 UTC · @swyx
+
+> @goodalexander average day working with @goodalexander :
+
+![@goodalexander average day working with @goodalexander :](../../../../assets/images/2026/10/23/2113718063669592307-1.png)
+
+🔗 [View original post](https://x.com/swyx/status/2113718063669592307)
+
+---
+
+### 🕐 19:40 UTC · @swyx
+
+> *taps sign* read your own emails your apps send out. particularly if they are being vibecoded. real humans still care and do read them. going viral email before // after
+
+![*taps sign* read your own emails your apps send out. particularly if they are being vibecoded. real humans still care and do read them. going viral email before // after](../../../../assets/images/2026/10/23/2113717251543367880-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2113717251543367880)
 
 ---
 

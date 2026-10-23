@@ -2,7 +2,15 @@
 
 ## 📅 October 23, 2026
 
-> 29 post(s) archived.
+> 31 post(s) archived.
+
+---
+
+### 🕐 18:02 UTC · @elonmusk
+
+> The Economist has been anti-human for the past few decades. It is no longer worthy of respect. In its 1998 Christmas Special Edition, the Economist ran an article about the &quot;Voluntary Human Extinction Movement.&quot; Festive. The article itself treated the movement with irony, but it&apos;s a real thing that some people want to stop reproducing and die for the &quot;good of the earth.&quot;
+
+🔗 [View original post](https://x.com/elonmusk/status/2113692448300097708)
 
 ---
 
@@ -99,6 +107,14 @@
 > Hitler was a far left socialist. Literally in the name of his party! It&apos;s been months that I keep saying Hitler was far left. Every time, thousands of clowns show up in my replies to give me history lessons. So I made a video to answer all these low IQ takes at once. Topic closed. Next.
 
 🔗 [View original post](https://x.com/elonmusk/status/2113672397446381585)
+
+---
+
+### 🕐 16:23 UTC · @elonmusk
+
+> There are children starving and Bernie Sanders is giving $1 million to some Muslim in Michigan? Does Bernie hate starving children? Does he hate poor people and homeless people? Think of what that money could have done! JUST IN: Bernie Sanders personally contributes $1 million to Abdul El-Sayed&apos;s Michigan Senate campaign.
+
+🔗 [View original post](https://x.com/alx/status/2113667593173147777)
 
 ---
 
