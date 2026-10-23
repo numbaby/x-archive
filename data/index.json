@@ -138651,6 +138651,19 @@
       }
     ]
   },
+  "2113534296858480927": {
+    "account": "_akhaliq",
+    "date": "2026-10-23",
+    "file": "data/posts/2026/10/2026-10-23.jsonl",
+    "fingerprint": "8b024d8819ebbfd4f5c67d9d74c4471933b050bd409b45da492131476e3a7fd4",
+    "media": [
+      {
+        "local_path": "assets/images/2026/10/23/2113534296858480927-1.jpg",
+        "sha256": "9ec114270b7654ed0520882cd7c52444c88f203d040cfad642bb9e6de431c710",
+        "source_url": "https://pbs.twimg.com/media/HVSOfEpaAAEielk.jpg?name=orig"
+      }
+    ]
+  },
   "2113574524897685738": {
     "account": "tunguz",
     "date": "2026-10-23",
@@ -138690,6 +138703,33 @@
     "date": "2026-10-23",
     "file": "data/posts/2026/10/2026-10-23.jsonl",
     "fingerprint": "0af4d6277a2cdf034aba208156c7ee923f0b9fa8fcc455347940f5dbbbb2bb1b",
+    "media": []
+  },
+  "2113599180778164649": {
+    "account": "tunguz",
+    "date": "2026-10-23",
+    "file": "data/posts/2026/10/2026-10-23.jsonl",
+    "fingerprint": "8677d816331ed6965b3dc8a78c82123435244250d00a6a63b468bbfae88d241b",
+    "media": []
+  },
+  "2113616495293145469": {
+    "account": "AiEvolutio58513",
+    "date": "2026-10-23",
+    "file": "data/posts/2026/10/2026-10-23.jsonl",
+    "fingerprint": "cd0544946e97b1eedc316e3f00349beabfebc7a5f4382cea8a894140ba42135f",
+    "media": [
+      {
+        "local_path": "assets/images/2026/10/23/2113616495293145469-1.jpg",
+        "sha256": "020fb99aea06fb550ab294243faf597c25d3fdf3fd3f5fccfe5ef5ec88b00ddc",
+        "source_url": "https://pbs.twimg.com/media/HVUTAIsbEAAkHb5.jpg?name=orig"
+      }
+    ]
+  },
+  "2113619201269383614": {
+    "account": "tunguz",
+    "date": "2026-10-23",
+    "file": "data/posts/2026/10/2026-10-23.jsonl",
+    "fingerprint": "fa6567ef58ffbe51c47d85c7033de5536b525066a155bddc5276d300788a2a54",
     "media": []
   }
 }

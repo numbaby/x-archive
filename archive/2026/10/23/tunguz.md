@@ -2,7 +2,23 @@
 
 ## 📅 October 23, 2026
 
-> 6 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 13:11 UTC · @tunguz
+
+> The future is starting to feel more and more like the future. Apple extremely restricted eGPUs on Apple Silicon. Until now. I plugged an AMD Radeon RX 7600 into a MacBook Pro over Thunderbolt. On Omarchy I got the driver loaded, Vulkan up, and llama.cpp running Qwen2.5-7B on the card. An AMD GPU on a Mac. Intel and NVIDIA GPUs next.
+
+🔗 [View original post](https://x.com/tunguz/status/2113619201269383614)
+
+---
+
+### 🕐 11:51 UTC · @tunguz
+
+> Real Internet has never been tried.
+
+🔗 [View original post](https://x.com/tunguz/status/2113599180778164649)
 
 ---
 
