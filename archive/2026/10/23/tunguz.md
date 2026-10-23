@@ -2,7 +2,23 @@
 
 ## 📅 October 23, 2026
 
-> 8 post(s) archived.
+> 10 post(s) archived.
+
+---
+
+### 🕐 13:56 UTC · @tunguz
+
+> Peer review has always been crap, but never more than now. Massive. New Harvard study finds that AI-written paper reviews now beat the best human peer reviews on every measure the authors tested. Peer review is slow and often misses errors. Earlier studies concluded AI should only assist human reviewers, not replace them. They used 134 r…
+
+🔗 [View original post](https://x.com/tunguz/status/2113630731847209299)
+
+---
+
+### 🕐 13:54 UTC · @tunguz
+
+> That’s crazy. But it’s starting to look like everything is downstream from metabolism. Personality traits show up in the gut microbiome.
+
+🔗 [View original post](https://x.com/tunguz/status/2113630055515697620)
 
 ---
 

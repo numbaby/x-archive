@@ -2,7 +2,15 @@
 
 ## 📅 October 23, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 14:01 UTC · @AiEvolutio58513
+
+> Elon Musk breaks down the Cybercab&apos;s economics: twenty cents a mile to operate. Thirty to forty with taxes included. And yes, it&apos;ll be yours for under $30,000. “I think the cost of autonomous transport will be so low that you can think of it like individualized mass transit. The average cost of a city bus per mile, not the ticket price, because that is subsidized, is about a dollar a mile. The operating cost of Cybercab will be around 20 cents a mile. Including taxes and everything else, probably 30 or 40 cents a mile. Yes, you will be able to buy one. We expect the cost to be below $30,000. I think there’ll be an interesting business model where, let’s say, somebody is an Uber or Lyft driver today, they could actually manage a fleet of cars, maybe 10 or 20 cars, and take care of them like a shepherd tends their flock. I think that would be pretty cool. And I think it’s going to be a glorious future.” Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2113631860681269302)
 
 ---
 

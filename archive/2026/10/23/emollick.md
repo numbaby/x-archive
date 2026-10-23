@@ -2,7 +2,15 @@
 
 ## 📅 October 23, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 13:40 UTC · @emollick
+
+> The inventor of the term &quot;prompt injection&quot; suspects (as do I) that this may not be as large a problem in new models. This matches our tests suggesting that you can&apos;t simply prompt inject a request for higher grades in a paper, anymore. @nateberkopec I&apos;m cautiously starting to suspect it may not be a problem with today&apos;s strongest models - Anthropic in particular are very confident about their ability to avoid prompt injections - but it&apos;s still a real concern for cheaper, weaker models
+
+🔗 [View original post](https://x.com/emollick/status/2113626577623826515)
 
 ---
 
