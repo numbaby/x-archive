@@ -138576,5 +138576,31 @@
         "source_url": "https://pbs.twimg.com/media/HVSK9uNXYAENnj7.jpg?name=orig"
       }
     ]
+  },
+  "2113483068174692831": {
+    "account": "emollick",
+    "date": "2026-10-23",
+    "file": "data/posts/2026/10/2026-10-23.jsonl",
+    "fingerprint": "baeb7e9835d7e7d17c5b8cc815ca07ef2026eb9b046ae91494dba08e66d0e2ad",
+    "media": [
+      {
+        "local_path": "assets/images/2026/10/23/2113483068174692831-1.png",
+        "sha256": "c25babb226c1055032634e0d97527096d6eb49fb1307693b326f3cb4d6c3eca9",
+        "source_url": "https://pbs.twimg.com/media/HVSZLTTWIAAvpHM.png?name=orig"
+      }
+    ]
+  },
+  "2113483765917929536": {
+    "account": "emollick",
+    "date": "2026-10-23",
+    "file": "data/posts/2026/10/2026-10-23.jsonl",
+    "fingerprint": "65c2439d00f73b6ada96d4930c44539b178da7c6935c2018ff6165a84b572495",
+    "media": [
+      {
+        "local_path": "assets/images/2026/10/23/2113483765917929536-1.png",
+        "sha256": "2b2df09364b78108ebb017c6934e65b1b58f632904fb98d3317a6ad20c102956",
+        "source_url": "https://pbs.twimg.com/card_img/2113427037163851776/sfxyvu6M?format=png&name=800x419"
+      }
+    ]
   }
 }

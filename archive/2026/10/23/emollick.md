@@ -2,7 +2,27 @@
 
 ## 📅 October 23, 2026
 
-> 1 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 04:12 UTC · @emollick
+
+> This is not going to be the only area in which AIs beat humans... Paper: https://gking.harvard.edu/peerless/
+
+![This is not going to be the only area in which AIs beat humans... Paper: https://gking.harvard.edu/peerless/](../../../../assets/images/2026/10/23/2113483765917929536-1.png)
+
+🔗 [View original post](https://x.com/emollick/status/2113483765917929536)
+
+---
+
+### 🕐 04:10 UTC · @emollick
+
+> By every measure, Opus 4.8 beats human experts as peer reviewers in a study of 124 Harvard social science papers covering a range from statistical analyses to formal models to qualitative work. As academics, we need to figure out how to adapt the practice of science to AI, fast.
+
+![By every measure, Opus 4.8 beats human experts as peer reviewers in a study of 124 Harvard social science papers covering a range from statistical analyses to formal models to qualitative work. As aca](../../../../assets/images/2026/10/23/2113483068174692831-1.png)
+
+🔗 [View original post](https://x.com/emollick/status/2113483068174692831)
 
 ---
 
