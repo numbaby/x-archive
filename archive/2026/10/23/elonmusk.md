@@ -2,7 +2,31 @@
 
 ## 📅 October 23, 2026
 
-> 9 post(s) archived.
+> 12 post(s) archived.
+
+---
+
+### 🕐 16:42 UTC · @elonmusk
+
+> Hitler was a far left socialist. Literally in the name of his party! It&apos;s been months that I keep saying Hitler was far left. Every time, thousands of clowns show up in my replies to give me history lessons. So I made a video to answer all these low IQ takes at once. Topic closed. Next.
+
+🔗 [View original post](https://x.com/elonmusk/status/2113672397446381585)
+
+---
+
+### 🕐 15:50 UTC · @elonmusk
+
+> 🔥 LMAO! James Talarico just got called out TO HIS FACE for whining about Elon Musk donating to Ken Paxton, while HE&apos;S being bankrolled by Epstein-linked billionaire Reid Hoffman And of course Talafreako is EVADING 🤣 This dude is a total fraud. Media
+
+🔗 [View original post](https://x.com/nicksortor/status/2113659255823749264)
+
+---
+
+### 🕐 15:38 UTC · @elonmusk
+
+> Try Grok @Bot I didn’t expect I’d be so impressed by Grok Bot. People told me to use it and I had low expectations, but been the most useful tool in the past week. I have few bots, from learning Japanese, librarian, community building assistant to AI animation intern. A favorite AI tool atm
+
+🔗 [View original post](https://x.com/elonmusk/status/2113656412694073647)
 
 ---
 

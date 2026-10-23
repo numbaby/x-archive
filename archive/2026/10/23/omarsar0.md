@@ -2,7 +2,15 @@
 
 ## 📅 October 23, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 15:48 UTC · @omarsar0
+
+> Own your intelligence stack, folks! We really don&apos;t have good solutions to make owning intelligence approachable. Tools are all scattered and inaccessible. This is one of the first serious attempts I&apos;ve seen. Mubit continually improves your product and company intelligence via agent traces. They even released an open model. Do check them out. We started Mubit in Aberdeen. No network, no lab, nobody knew us. We just wanted AI systems that actually work. Today we work with some of the best companies and engineers in the world. And the thing we kept seeing: you and your competitor run the same AI. It should be yours. 🧵 …
+
+🔗 [View original post](https://x.com/omarsar0/status/2113658815241437446)
 
 ---
 
