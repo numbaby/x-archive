@@ -2,7 +2,23 @@
 
 ## 📅 October 23, 2026
 
-> 4 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 17:25 UTC · @emollick
+
+> This does not require the companies to train on the data of their customers, which they insist they do not do (and could not do legally in most cases), but merely a recognition that there is more money in competing directly in finance than giving that capability to others.
+
+🔗 [View original post](https://x.com/emollick/status/2113683254176031213)
+
+---
+
+### 🕐 17:19 UTC · @emollick
+
+> As the gap between the internal models at the AI labs and the ones they release grow (due to safety concerns &amp; research advantages), it will be increasingly tempting for OpenAI &amp; Anthropic to exploit that advantage directly by entering new markets, especially in finance &amp; biotech
+
+🔗 [View original post](https://x.com/emollick/status/2113681838611087572)
 
 ---
 

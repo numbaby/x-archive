@@ -2,7 +2,15 @@
 
 ## 📅 October 23, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 17:35 UTC · @swyx
+
+> just casually having the most musically inclined people come in every Thursday night and play tunes Media
+
+🔗 [View original post](https://x.com/NehallAgrawal/status/2113685692706611535)
 
 ---
 

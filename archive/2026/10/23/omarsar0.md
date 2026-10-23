@@ -2,7 +2,23 @@
 
 ## 📅 October 23, 2026
 
-> 2 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 17:25 UTC · @omarsar0
+
+> BTW, RAG was never really dead. As we scale agents into long-horizon tasks that require persistence and different retrieval formats, we&apos;ll need to revisit all of this. You only really know now if something stands the test of time when you test it at scale. Early RAG predictions were made when agents operated at small scale. We are starting to see a more promising direction for agents at scale with personal and more automated multi-agent systems. I expect to see a lot more research here.
+
+🔗 [View original post](https://x.com/omarsar0/status/2113683289500238254)
+
+---
+
+### 🕐 17:10 UTC · @omarsar0
+
+> Recommended leaderboard to track voice AI. They just added five new languages to the Voice Arena TTS leaderboard. ElevenLabs models rank #1 on all five. I have started integrating voice agents into some of our applications, and I think they&apos;re quickly becoming one of the most important ways to build, research, and learn with agents. But language support matters much more in voice than in other modalities. So @voicearena_ai is a nice way to track the progress. Introducing five new languages on the Voice Arena TTS leaderboard. Models from @ElevenLabs rank #1 on all five of the new Voice Arena TTS leaderboards: French 🇫🇷, German 🇩🇪, Bahasa 🇮🇩, Tagalog 🇵🇭 and Indian English 🇮🇳. Eleven v4 Turbo takes the top position on four of t…
+
+🔗 [View original post](https://x.com/omarsar0/status/2113679592556777534)
 
 ---
 

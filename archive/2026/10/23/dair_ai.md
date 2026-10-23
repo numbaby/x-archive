@@ -2,7 +2,17 @@
 
 ## 📅 October 23, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 16:50 UTC · @dair_ai
+
+> Really digging this new arc of specialized RL models. Bullish on this effort to understand and unlock collective intelligence. Highly recommend checking out the technical report. RLCR is just one of the latest efforts to train LLMs as agent organizations. Why is this a big deal, and why is it necessary? Coordination and organization are important primitives as we move into agentic long-horizon work. Agents should natively support these capabilities, which is mostly done through harnesses today. So far, multi-agent systems and how they coordinate are not well understood. This Avalon-M1-Mini model attempts to study this more closely. I think this could help us understand and discover efficient, safe ways to build effective multi-agent systems for domain-specific problems. Check out how they improve results with an eight-hire organization. Promising results. The safety risks are also worth a closer look. This is small-scale, but as they scale, I am particularly curious about whether optimal and novel organizational designs (hierarchical and coordination strategies) will emerge. I&apos;ll take a closer look at this approach and how it applies to automated research. I think there is so much to unlock there. Congrats to my former colleague, @rosstaylor90, and his team. Truly cracked 👏 Introducing Reinforcement Learning from Collective Rewards (RLCR). RLCR is a recipe that trains language models as agent organisations, which share a message board and workspace. We use it to train Avalon-M1-Mini (120B) and study its behaviour. We find a number of interesting res…
+
+![Really digging this new arc of specialized RL models. Bullish on this effort to understand and unlock collective intelligence. Highly recommend checking out the technical report. RLCR is just one of t](../../../../assets/images/2026/10/23/2113674408564859198-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2113674408564859198)
 
 ---
 
