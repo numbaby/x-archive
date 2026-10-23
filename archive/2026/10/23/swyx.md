@@ -2,7 +2,15 @@
 
 ## 📅 October 23, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 15:22 UTC · @swyx
+
+> art. https://x.com/korigero/status/2113337096345981124?s=20 Scott Wu vs. the models
+
+🔗 [View original post](https://x.com/swyx/status/2113652235611820164)
 
 ---
 

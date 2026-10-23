@@ -2,7 +2,25 @@
 
 ## 📅 October 23, 2026
 
-> 10 post(s) archived.
+> 12 post(s) archived.
+
+---
+
+### 🕐 15:23 UTC · @tunguz
+
+> Remember it like it was yesterday.
+
+![Remember it like it was yesterday.](../../../../assets/images/2026/10/23/2113652554316063121-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2113652554316063121)
+
+---
+
+### 🕐 14:33 UTC · @tunguz
+
+> If your strategy for the future depends on trying to persuade human institutions to radically change, you are ngmi.
+
+🔗 [View original post](https://x.com/tunguz/status/2113639841363579225)
 
 ---
 
