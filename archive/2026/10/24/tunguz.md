@@ -2,7 +2,39 @@
 
 ## 📅 October 24, 2026
 
-> 3 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 11:54 UTC · @tunguz
+
+> Real space-socialmedia-ai-car company has never been tried.
+
+🔗 [View original post](https://x.com/tunguz/status/2113962223320358943)
+
+---
+
+### 🕐 11:46 UTC · @tunguz
+
+> Intelligence finds a way. completely insane OpenAI agents communicated via cache timing differences, without any shared files or network connection
+
+🔗 [View original post](https://x.com/tunguz/status/2113960287334510734)
+
+---
+
+### 🕐 11:43 UTC · @tunguz
+
+> What&apos;s your p(Internet Doom)? We need to take seriously the possibility that the Internet might shut down for a period of months or more. I&apos;d put it at 15%.
+
+🔗 [View original post](https://x.com/tunguz/status/2113959545517097313)
+
+---
+
+### 🕐 10:52 UTC · @tunguz
+
+> Sounds about right. Try to anchor yourselves the best you can for what&apos;s coming. Humanity has only perhaps one or two more years left of living in vaguely normal circumstances
+
+🔗 [View original post](https://x.com/tunguz/status/2113946795202220264)
 
 ---
 
