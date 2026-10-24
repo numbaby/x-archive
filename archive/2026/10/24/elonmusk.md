@@ -2,7 +2,23 @@
 
 ## 📅 October 24, 2026
 
-> 20 post(s) archived.
+> 26 post(s) archived.
+
+---
+
+### 🕐 14:38 UTC · @elonmusk
+
+> Another 27 Starlink satellites Falcon 9 launches 27 @Starlink satellites from California
+
+🔗 [View original post](https://x.com/elonmusk/status/2114003587156086798)
+
+---
+
+### 🕐 14:16 UTC · @elonmusk
+
+> It is tragic that so many people still think the news is real A coworker of mine who once called Elon a Nazi finally said he scheduled to test drive a Model Y yesterday after he learned that I own 2 of them and we talked for an hour about how much I love them and how good FSD is. I asked him how the demo drive went and he told me he cancell…
+
+🔗 [View original post](https://x.com/elonmusk/status/2113998192547332212)
 
 ---
 
@@ -11,6 +27,14 @@
 > Try Grok @Bot Stuart Varney: What is this Grok @Bot? You use it. Phil Rosen: I am using it. @Varneyco: Who puts it out? What does it do? Rosen: This is @elonmusk’s frontier lab. I will share personally, I was on Claude for the last year or so, and I would use Claude, ChatGPT, and a little bit …
 
 🔗 [View original post](https://x.com/elonmusk/status/2113996858842563006)
+
+---
+
+### 🕐 14:01 UTC · @elonmusk
+
+> It’s very important to grasp this. Fascism is a leftist ideology State control of everything
+
+🔗 [View original post](https://x.com/TheAliceSmith/status/2113994292964241463)
 
 ---
 
@@ -27,6 +51,16 @@
 > Roadster at Petersen Roadster will be on display at the Petersen Automotive Museum in LA starting tomorrow Oct 24-27, Main Lobby https://petersen.org/pages/petersen-vehicle/tesla-roadster
 
 🔗 [View original post](https://x.com/elonmusk/status/2113993051719016814)
+
+---
+
+### 🕐 13:45 UTC · @elonmusk
+
+> In early 2002, Elon was preparing to launch SpaceX and searching for the people who could help him build a rocket from scratch. One Sunday in January 2002, he walked into a friend&apos;s rented warehouse in Huntington Beach and found Tom Mueller holding an 80-pound rocket engine on his shoulder, trying to bolt it to a frame. It was the largest liquid-fuel engine any amateur had ever built, with 13,000 pounds of thrust, made in Tom&apos;s spare time. Elon asked the main question “Could you build something bigger?” The next Sunday Elon came to his house. It was Super Bowl Sunday; they watched maybe one play, because they were too busy sketching the first SpaceX rocket. Tom became SpaceX employee #1, and the man who built engines on weekends went on to build Merlin, Kestrel and Draco. Elon saw a person, not a résumé, someone who built rockets with his own hands simply because he loved them.
+
+![In early 2002, Elon was preparing to launch SpaceX and searching for the people who could help him build a rocket from scratch. One Sunday in January 2002, he walked into a friend&apos;s rented wareho](../../../../assets/images/2026/10/24/2113990330060059103-1.jpg)
+
+🔗 [View original post](https://x.com/EvaFox/status/2113990330060059103)
 
 ---
 
@@ -47,6 +81,14 @@
 ![Rogers is doubling down on its partnership with Starlink to bring expanded satellite-to-mobile coverage and capabilities across Canada 🇨🇦 During its Q3 2026 earnings call, CEO Tony Staffieri confirmed](../../../../assets/images/2026/10/24/2113948464971444434-1.jpg)
 
 🔗 [View original post](https://x.com/XFreeze/status/2113948464971444434)
+
+---
+
+### 🕐 10:45 UTC · @elonmusk
+
+> David Friedberg reveals France&apos;s public spending is 57% of GDP: greater than that of communist countries &quot;This chart is a measure of public spending as a percent of GDP; Rand Group Research published it. And you can see the comparison of France&apos;s public spending as a percent of GDP, to the peak public spending as a percent of GDP of major communist nations, Soviet Union during, communist Romania, Venezuela under Chavez, and then communist China.&quot; &quot;It certainly been a socialist state, right? That&apos;s my point. I think this is such a precious lesson for the West to look at. We all think that there&apos;s some political problem with Macron or whoever it was.&quot; &quot;The more the government spends, the worse the conditions get for its people, not the opposite. And then the people riot and revolt and say that the government&apos;s not spending enough and the government needs to be doing more.&quot; &quot;Take a guess where the US is today. Federal government spending is $7.4 trillion, state and local government spending is $4.6 trillion. You add those two together, it&apos;s $12 trillion out of a $33 trillion GDP. US public spending is roughly 36% of GDP. France today is the same as the US, it&apos;s about 120% debt to GDP.&quot; &quot;France today is operating its national government spending deficit is 5.4% of GDP. The US is actually 6.2% of GDP. France is I think probably the first to go because they&apos;re only growing their economy at half a percent while the US is growing 2.3%.&quot; &quot;So we&apos;re still kind of hanging on because we have some degree of economic growth that&apos;s allowing us to kind of hold things together.&quot; &quot;But I would argue that we are facing the same sort of fiscal cliff that leads to this extraordinary social unrest as France, all the economic measures are aligned, we&apos;re at the same rate, we&apos;re at the same set of problems.&quot; Media
+
+🔗 [View original post](https://x.com/dnapway/status/2113944960286470160)
 
 ---
 
@@ -157,6 +199,14 @@
 > The legacy media is a pure propaganda machine for the left. They all say the same thing at the same time. 𝕏 is the real voice of the people. Invite your friends to 𝕏 if they’re not here yet. Media
 
 🔗 [View original post](https://x.com/cb_doge/status/2113816054325760028)
+
+---
+
+### 🕐 01:10 UTC · @elonmusk
+
+> David Friedberg says this isn’t Suicidal Empathy, these are Armchair Do-Gooders. He is referring to the French woman, who yelled “Do you know who I am? I am an activist who advocated for you all” as rioters destroyed her store. FRIEDBERG: “The look on her face, which was like, ‘What the hell happened,’ is meant to be this moment that sort of captures the zeitgeist of what some people call Suicidal Empathy, but I think it’s much more about being an Armchair Do-Gooder. An armchair do-gooder is someone who kind of sits at home in a nice home in the suburbs or wherever they live, and they say, ‘Let all the people in, take care of all the people.’ But as soon as the people show up to their front step and says, ‘Can I come and stay in your house?’ the answer is no, of course not.” “Someone else has to deal with it. Someone else has to house you. Someone else has to feed you. Someone else has to give you a job.” We’ve all seen this play out in the man-on-the-street interviews where people say they support policies that let immigrants in, but when it’s time to house them, suddenly they have no room. JASON CALACANIS: “We called this Limousine Liberals.” There have been many names for this. Rob Henderson calls them luxury beliefs… Open borders is one of his own examples. Everyone always seems surprised to find out their actions have consequences. Media
+
+🔗 [View original post](https://x.com/jayplemons/status/2113800249252986881)
 
 ---
 
