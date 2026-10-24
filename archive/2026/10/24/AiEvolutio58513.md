@@ -2,7 +2,15 @@
 
 ## 📅 October 24, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 12:59 UTC · @AiEvolutio58513
+
+> Every company spending $100 billion on AI data centers is betting against this one sentence from Satya Nadella: &quot;We are one sort of innovation away from the entire regime changing.&quot; He&apos;s watched the rules change four times already: 1. Pre-training scale 2. Post-training 3. Reasoning 4. RL Each shift made the last advantage worth less. The next one, he says, could be &quot;a new model architecture that could even be more efficient in its performance.&quot; If that lands, the biggest cluster isn&apos;t the moat. The best idea is. Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2113978584876646805)
 
 ---
 
