@@ -139192,5 +139192,12 @@
         "source_url": "https://pbs.twimg.com/card_img/2113718529933586432/i8QL1kIm?format=jpg&name=420x420_2"
       }
     ]
+  },
+  "2113782869927645674": {
+    "account": "tunguz",
+    "date": "2026-10-24",
+    "file": "data/posts/2026/10/2026-10-24.jsonl",
+    "fingerprint": "697569d010a2b020facb2956ebe2bb2bc0b2c02064d97fc1824545e938f4ae3f",
+    "media": []
   }
 }
