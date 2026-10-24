@@ -2,7 +2,25 @@
 
 ## 📅 October 24, 2026
 
-> 3 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 05:07 UTC · @elonmusk
+
+> @Rothmus Those who are opposed to corporations and favor government do not realize that government is simply the largest, most monopolistic corporation of all and it has a monopoly on violence.
+
+🔗 [View original post](https://x.com/elonmusk/status/2113859987248472215)
+
+---
+
+### 🕐 04:21 UTC · @elonmusk
+
+> He is starting to believe
+
+![He is starting to believe](../../../../assets/images/2026/10/24/2113848359437938888-1.jpg)
+
+🔗 [View original post](https://x.com/kevinnbass/status/2113848359437938888)
 
 ---
 
