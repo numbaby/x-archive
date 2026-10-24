@@ -2,7 +2,59 @@
 
 ## 📅 October 24, 2026
 
-> 14 post(s) archived.
+> 20 post(s) archived.
+
+---
+
+### 🕐 14:11 UTC · @elonmusk
+
+> Try Grok @Bot Stuart Varney: What is this Grok @Bot? You use it. Phil Rosen: I am using it. @Varneyco: Who puts it out? What does it do? Rosen: This is @elonmusk’s frontier lab. I will share personally, I was on Claude for the last year or so, and I would use Claude, ChatGPT, and a little bit …
+
+🔗 [View original post](https://x.com/elonmusk/status/2113996858842563006)
+
+---
+
+### 🕐 13:58 UTC · @elonmusk
+
+> True From 1900 to 1910, 76% of immigrants to America remigrated to their home countries. From 1910 to 1920, it was 97%. There was major political conflict over the disruption immigrants caused. But we had no welfare state. Over time, we kept the best who assimilated. Remigration is hi…
+
+🔗 [View original post](https://x.com/elonmusk/status/2113993492418683207)
+
+---
+
+### 🕐 13:56 UTC · @elonmusk
+
+> Roadster at Petersen Roadster will be on display at the Petersen Automotive Museum in LA starting tomorrow Oct 24-27, Main Lobby https://petersen.org/pages/petersen-vehicle/tesla-roadster
+
+🔗 [View original post](https://x.com/elonmusk/status/2113993051719016814)
+
+---
+
+### 🕐 12:41 UTC · @elonmusk
+
+> BREAKING: Oaxaca’s state government in Mexico has delivered 67 Starlink dishes to expand internet access for students. 🇲🇽 The dishes were handed over in Santiago Matatlán. This will enable every high school campus in the network to have internet access.
+
+![BREAKING: Oaxaca’s state government in Mexico has delivered 67 Starlink dishes to expand internet access for students. 🇲🇽 The dishes were handed over in Santiago Matatlán. This will enable every high ](../../../../assets/images/2026/10/24/2113974148485808323-1.jpg)
+
+🔗 [View original post](https://x.com/cb_doge/status/2113974148485808323)
+
+---
+
+### 🕐 10:59 UTC · @elonmusk
+
+> Rogers is doubling down on its partnership with Starlink to bring expanded satellite-to-mobile coverage and capabilities across Canada 🇨🇦 During its Q3 2026 earnings call, CEO Tony Staffieri confirmed that Rogers is deepening its collaboration with SpaceX “We’re proactively deepening our collaboration with Starlink on sat-to-mobile connectivity” Rogers intends to lead Canada in satellite-to-mobile connectivity as the partnership expands coverage and capabilities, particularly in remote and underserved areas where traditional cell towers cannot reach
+
+![Rogers is doubling down on its partnership with Starlink to bring expanded satellite-to-mobile coverage and capabilities across Canada 🇨🇦 During its Q3 2026 earnings call, CEO Tony Staffieri confirmed](../../../../assets/images/2026/10/24/2113948464971444434-1.jpg)
+
+🔗 [View original post](https://x.com/XFreeze/status/2113948464971444434)
+
+---
+
+### 🕐 10:19 UTC · @elonmusk
+
+> How was Hitler a leftist? Collectivism. Statism. Command economy. High government debt and spending. High confiscatory taxes on targeted groups. Identity politics. Anti free speech. Pro gun control. “Everything is political” - art, sport, journalism, education. Hitler was a far left socialist. Literally in the name of his party!
+
+🔗 [View original post](https://x.com/TheAliceSmith/status/2113938477071114361)
 
 ---
 
