@@ -139560,6 +139560,13 @@
     "fingerprint": "95c2c4cb30660dfeb585fe3362fe5b483417cc25110b9ffae818ee5e07d933d4",
     "media": []
   },
+  "2114001582719369281": {
+    "account": "omarsar0",
+    "date": "2026-10-24",
+    "file": "data/posts/2026/10/2026-10-24.jsonl",
+    "fingerprint": "2fee01ff981429396f7e75258404475c5e493b271d110cbf3bd95b01fd5e6ef3",
+    "media": []
+  },
   "2114001653879672877": {
     "account": "emollick",
     "date": "2026-10-24",
@@ -139579,6 +139586,20 @@
     "date": "2026-10-24",
     "file": "data/posts/2026/10/2026-10-24.jsonl",
     "fingerprint": "1d2c8633156dd6b5756f71e56501967acfd96945a9e41cc69a449e4aefcb95cc",
+    "media": []
+  },
+  "2114025513542992318": {
+    "account": "tunguz",
+    "date": "2026-10-24",
+    "file": "data/posts/2026/10/2026-10-24.jsonl",
+    "fingerprint": "c7aefe7aa7c28de85747cfb77d35b7abc2899956324f917492bd710e5ef182b2",
+    "media": []
+  },
+  "2114026169813414022": {
+    "account": "elonmusk",
+    "date": "2026-10-24",
+    "file": "data/posts/2026/10/2026-10-24.jsonl",
+    "fingerprint": "7ebaf05172dd1337f020fde7a71ea0e02aec854ce26e5bfd247ee3641894cd15",
     "media": []
   }
 }

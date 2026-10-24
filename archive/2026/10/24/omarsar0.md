@@ -2,7 +2,15 @@
 
 ## 📅 October 24, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 14:30 UTC · @omarsar0
+
+> @jensenhuang and NVIDIA just invested in Higgsfield We turn competition at the foundation layer into compounding advantage for our customers. Every advance at the frontier expands what Higgsfield can deliver The moat is ownership of demand, and we clearly own one. Jensen Huang: “… the founders of Higgsfield are visionary in the work that they do … but these are some of the brightest people in the world.” We&apos;re grateful to Jensen and the teams at NVIDIA and TCV for believing in us. Both companies have joined Higgsfield as investors in our S…
+
+🔗 [View original post](https://x.com/alexmashrabov/status/2114001582719369281)
 
 ---
 

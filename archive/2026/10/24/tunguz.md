@@ -2,7 +2,15 @@
 
 ## 📅 October 24, 2026
 
-> 7 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 16:05 UTC · @tunguz
+
+> Maybe the real UBI were the BS jobs all along. @tunguz I unironically believe bullshit jobs survive even AI.
+
+🔗 [View original post](https://x.com/tunguz/status/2114025513542992318)
 
 ---
 
