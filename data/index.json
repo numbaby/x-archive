@@ -139227,5 +139227,32 @@
     "file": "data/posts/2026/10/2026-10-24.jsonl",
     "fingerprint": "dd989ffed986748962c29926588a1cd660877913a428aa3b36ab434edbb9245f",
     "media": []
+  },
+  "2113796183688982771": {
+    "account": "elonmusk",
+    "date": "2026-10-24",
+    "file": "data/posts/2026/10/2026-10-24.jsonl",
+    "fingerprint": "72b94eb2dce6d2e67f13521f6fb9d2672ec6baa28331108920895245e6f231a5",
+    "media": []
+  },
+  "2113796285207552407": {
+    "account": "elonmusk",
+    "date": "2026-10-24",
+    "file": "data/posts/2026/10/2026-10-24.jsonl",
+    "fingerprint": "cc59c002026e722fa02e21da89df5d2c11edbca2918238311cd6e5099096cda4",
+    "media": []
+  },
+  "2113811349281345578": {
+    "account": "swyx",
+    "date": "2026-10-24",
+    "file": "data/posts/2026/10/2026-10-24.jsonl",
+    "fingerprint": "d44123b59ba245bc695ba0a1da7e294adb8a8b858d4809d6e133c7cb4bf5a578",
+    "media": [
+      {
+        "local_path": "assets/images/2026/10/24/2113811349281345578-1.jpg",
+        "sha256": "f9156cb57399dea5e01f74dff4c10dc8daf0f43417a8aba828c44af5d35b224b",
+        "source_url": "https://pbs.twimg.com/media/HVXEOAQaMAACHCN.jpg?name=orig"
+      }
+    ]
   }
 }
