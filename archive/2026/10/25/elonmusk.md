@@ -2,7 +2,31 @@
 
 ## 📅 October 25, 2026
 
-> 14 post(s) archived.
+> 18 post(s) archived.
+
+---
+
+### 🕐 06:30 UTC · @elonmusk
+
+> Try @Starlink for awesome Internet everywhere! @GuntherEagleman @grok I just set up @Starlink in 15 minutes. Literally laid it in my backyard. Saying goodbye to the scrappy Spectrum service feels so good!
+
+🔗 [View original post](https://x.com/elonmusk/status/2114243303994486876)
+
+---
+
+### 🕐 06:29 UTC · @elonmusk
+
+> Cool Everyone said &quot;Hey Grok&quot; was impossible on iPhone. Even Grok said Apple keeps wake words for Siri only. So I kept digging, and I found a way. Now I just say &quot;Hey Grok&quot; and Grok Bot voice chat opens. No extra apps, no cost, all built into iOS. How to set it up: 1. Make sure your G…
+
+🔗 [View original post](https://x.com/elonmusk/status/2114242922006897145)
+
+---
+
+### 🕐 06:12 UTC · @elonmusk
+
+> This is indeed one of the main reasons that Starlink must remain a civilian operation. It can be used for infrastructure that is military, but it cannot be used for unequivocally offensive strikes that make it fair game to be struck back. An adversary blowing up Starlink satellites would create a domino effect of destruction that would generate a vast field of debris making space unusable.
+
+🔗 [View original post](https://x.com/elonmusk/status/2114238688284520949)
 
 ---
 
@@ -43,6 +67,14 @@
 > We’re adding long press on like to send someone $1 via 𝕏 Money
 
 🔗 [View original post](https://x.com/elonmusk/status/2114184998651822094)
+
+---
+
+### 🕐 02:10 UTC · @elonmusk
+
+> The more I look at the economics of AI infrastructure, the more bullish I become on SpaceX. David Sacks shared some fascinating numbers on All-In: - SpaceX: ~$50B in monetization per GW, with roughly a 1-year payback. - CoreWeave: ~$20B per GW, with roughly a 2.5-year payback. These are estimates, but the difference is enormous. A big reason is how the two companies structure their contracts. CoreWeave relies heavily on long-term commitments to finance its infrastructure. SpaceX has the balance sheet and access to capital to operate with much shorter contracts, giving it exposure to today’s significantly higher compute pricing. That flexibility is worth a LOT in a supply-constrained market. And consider what happens when you’re recovering your capital in roughly a year. You can reinvest that money into additional compute, bring more capacity online, and potentially accelerate growth without relying as heavily on external financing. Now consider SpaceX is targeting ~13 GW of operational compute capacity by the end of 2027. The economics at scale could be extraordinary if they execute. I’ve been extremely bullish on SpaceX for years, but the AI infrastructure opportunity has become a much bigger part of the investment thesis. Media This is a fuller list of the limitations of supercomputer buildout. If anything is missing, however seemingly trivial, the compute doesn’t work.
+
+🔗 [View original post](https://x.com/Timboo/status/2114177757227712690)
 
 ---
 
