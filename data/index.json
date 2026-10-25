@@ -139709,5 +139709,12 @@
         "source_url": "https://pbs.twimg.com/card_img/2114169468410572800/wQBF0ZhY?format=png&name=800x419"
       }
     ]
+  },
+  "2114184998651822094": {
+    "account": "elonmusk",
+    "date": "2026-10-25",
+    "file": "data/posts/2026/10/2026-10-25.jsonl",
+    "fingerprint": "84369de82ffb17db49a035db9ea73ce0d9fb305c0615cc255805b76839f0e1fa",
+    "media": []
   }
 }
