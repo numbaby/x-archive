@@ -2,7 +2,15 @@
 
 ## 📅 October 25, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 07:49 UTC · @swyx
+
+> i need 12 more likes to ratio @ArfurRock whos got it
+
+🔗 [View original post](https://x.com/swyx/status/2114263159355904426)
 
 ---
 
