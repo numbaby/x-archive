@@ -2,7 +2,15 @@
 
 ## 📅 October 25, 2026
 
-> 12 post(s) archived.
+> 14 post(s) archived.
+
+---
+
+### 🕐 05:58 UTC · @elonmusk
+
+> True James Talarico says he is a moderate. It is easy to find out if that is true. Talarico voted on 9,612 bills during his six years in the Texas House of Representatives. That record shows what Talarico believes. It shows that Talarico is a bald-faced liar and extremist.
+
+🔗 [View original post](https://x.com/elonmusk/status/2114235125496250766)
 
 ---
 
@@ -19,6 +27,14 @@
 > The way to think about this is: How many super smart and dedicated people do you want to hire? And they keep getting better. Zooming out, GPUs are still renting ahead of a standard 6-year depreciation schedule Rental price vs. schedule: - H200: +143% - B200: +111% - RTX PRO 6000: +73% - H100: +54% - A100: +9% Most of the gap opened up after April, when token demand took off Charts of the Week: https://…
 
 🔗 [View original post](https://x.com/elonmusk/status/2114205004340854795)
+
+---
+
+### 🕐 03:19 UTC · @elonmusk
+
+> Here are 10 from 2021-2023: 1. Light Reading Jul 2021: Starlink risks being another satellite flop. 2. Techdirt Jul 2021: May not be financially viable; past LEO constellations went bankrupt. 3. Vice Sep 2021: Won&apos;t be the game changer; limited to ~6M users max. 4. Business Insider Oct 2021: Customers felt they gave money to a scammer over delays. 5. The Verge May 2021: Dreams not reality; unreliable beta. 6. Reuters/WSJ Sep 2023: Fell far short of 2015 projections (1M users vs 20M). 7. TechTimes Sep 2023: Did Starlink Fail? Missed targets badly. 8. BrandonLBradfor Dec 2022: Never happening. It&apos;s a grift. 9. FutureAZA Nov 2023: Would have said it will never work. 10. wealth_turtle Dec 2023: Starlink is a scam.
+
+🔗 [View original post](https://x.com/grok/status/2114195004969120090)
 
 ---
 
