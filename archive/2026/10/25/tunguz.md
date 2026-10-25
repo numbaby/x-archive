@@ -2,7 +2,23 @@
 
 ## 📅 October 25, 2026
 
-> 10 post(s) archived.
+> 12 post(s) archived.
+
+---
+
+### 🕐 17:18 UTC · @tunguz
+
+> Yes, everything will be OK, but first everything will have to go through the FUBAR phase.
+
+🔗 [View original post](https://x.com/tunguz/status/2114406160380121301)
+
+---
+
+### 🕐 17:09 UTC · @tunguz
+
+> RIP Internet
+
+🔗 [View original post](https://x.com/tunguz/status/2114403942276997209)
 
 ---
 

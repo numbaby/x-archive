@@ -2,7 +2,15 @@
 
 ## 📅 October 25, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 17:10 UTC · @emollick
+
+> The website for my book redone with Opus 5.5. The initial version (made with Opus 4.8) required a lot of work to make a distinctive-looking static site. Now Opus mostly did this alone. We have come a long way from generic ClaudeDesign in a very short time. https://co-existence.ai/ Media
+
+🔗 [View original post](https://x.com/emollick/status/2114404221021778347)
 
 ---
 

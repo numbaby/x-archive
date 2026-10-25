@@ -2,7 +2,85 @@
 
 ## 📅 October 25, 2026
 
-> 32 post(s) archived.
+> 41 post(s) archived.
+
+---
+
+### 🕐 20:57 UTC · @elonmusk
+
+> Talarico is a FAR LEFT extremist 🚨 CAUGHT: James Talarico got hit with a Daily Wire hidden camera, and he admitted his TRANSGENDER policies have NOT changed. Just days after telling Fox News he would oppose biological males in girls’ sports when safety or fairness is at risk, he told a supposed supporter the op…
+
+🔗 [View original post](https://x.com/elonmusk/status/2114461409811816467)
+
+---
+
+### 🕐 20:32 UTC · @elonmusk
+
+> No ID is required to vote in New York State or California This morning I voted in NYC. No ID. No lines. Very quick.
+
+🔗 [View original post](https://x.com/elonmusk/status/2114455152136745221)
+
+---
+
+### 🕐 19:44 UTC · @elonmusk
+
+> And still it continues … Elon Musk’s message today is the same one he shared 3 years ago. He wants peace and an end to the killing. “The reason I proposed some sort of peace a year ago was because I predicted pretty much exactly what would happen, which is a lot of people dying for basically almost no ch…
+
+🔗 [View original post](https://x.com/elonmusk/status/2114442930891206870)
+
+---
+
+### 🕐 19:15 UTC · @elonmusk
+
+> Starlink’s Acceptable Use Policy explicitly prohibits remotely controlling drones. Zelensky himself acknowledged using Starlink for mid-range strikes. Elon is right: Ukraine’s military violated those terms by using the Starlink system for offensive drone strikes.
+
+![Starlink’s Acceptable Use Policy explicitly prohibits remotely controlling drones. Zelensky himself acknowledged using Starlink for mid-range strikes. Elon is right: Ukraine’s military violated those ](../../../../assets/images/2026/10/25/2114435612858356011-1.jpg)
+
+🔗 [View original post](https://x.com/cb_doge/status/2114435612858356011)
+
+---
+
+### 🕐 18:58 UTC · @elonmusk
+
+> May the bloodthirsty warmongers, who push for a war that never ends, burn in hell! Elon Musk warned about the Ukraine war years ago, and it&apos;s absolutely tragic how accurately he predicted the devastating cost of human lives from this conflict Back in October 2022, Elon didn&apos;t just call for peace. He actually proposed a peace plan involving UN-supervised votes i…
+
+🔗 [View original post](https://x.com/elonmusk/status/2114431411994386599)
+
+---
+
+### 🕐 18:51 UTC · @elonmusk
+
+> On hidden camera in September, James Talarico said: &quot;The way I fought for trans kids in the legislature is how I will fight for them in the U.S. Senate. And my position hasn&apos;t changed.&quot; Here&apos;s how he fought. Talarico voted NO on: ❌ Keeping boys out of girls&apos; sports ❌ Banning puberty blockers and hormones for minors ❌ Keeping men out of women&apos;s college sports ❌ Banning sexual performances in front of kids ❌ Insurance coverage for detransition care ❌ Defining male and female in state law ❌ Not treating it as abuse when parents don&apos;t affirm a child&apos;s gender ❌ Recording biological sex in medical records ❌ Banning gender identity lessons in K-12 ❌ Keeping men out of women&apos;s restrooms Ten votes. Ten NOs. Early voting ends Oct. 30. Go vote, Texas.
+
+![On hidden camera in September, James Talarico said: &quot;The way I fought for trans kids in the legislature is how I will fight for them in the U.S. Senate. And my position hasn&apos;t changed.&quot;](../../../../assets/images/2026/10/25/2114429762278215689-1.jpg)
+
+🔗 [View original post](https://x.com/KanekoaTheGreat/status/2114429762278215689)
+
+---
+
+### 🕐 17:49 UTC · @elonmusk
+
+> This update to Grok Bot with integrated calling is spectacular! I have dozens of clients and myself that use this daily with an external MPC. But with version 0.77 we will have this integrated! Grok Bot get better just about daily! Look for a whole slew of Grok Bots I will release that will make calls. Some never seen before. Stuff only Grok Bot can do. Grok @Bot can now call someone or a business for you, make a request on your behalf, take notes on the response and send you a note summarizing the conversation!
+
+🔗 [View original post](https://x.com/BrianRoemmele/status/2114414165704270261)
+
+---
+
+### 🕐 17:16 UTC · @elonmusk
+
+> Elon Musk warned about this before. He was right then, and he’s right today. Ukraine needs a new leader. The flower of Ukrainian and Russian youth is being lost to war. It’s time to stop the killing.
+
+![Elon Musk warned about this before. He was right then, and he’s right today. Ukraine needs a new leader. The flower of Ukrainian and Russian youth is being lost to war. It’s time to stop the killing.](../../../../assets/images/2026/10/25/2114405828610633776-1.jpg)
+
+🔗 [View original post](https://x.com/cb_doge/status/2114405828610633776)
+
+---
+
+### 🕐 16:20 UTC · @elonmusk
+
+> James Talarico now wants Texans to believe he&apos;s changed his radical views on transgender issues. His Texas House record says otherwise. Talarico voted NO on: ❌ Keeping boys out of girls&apos; sports ❌ Banning puberty blockers and hormones for minors ❌ Keeping men out of women&apos;s college sports ❌ Banning sexual performances in front of kids ❌ Insurance coverage for detransition care ❌ Defining male and female in state law ❌ Not treating it as abuse when parents don&apos;t affirm a child&apos;s gender ❌ Recording biological sex in medical records ❌ Banning gender identity lessons in K-12 ❌ Keeping men out of women&apos;s restrooms On hidden camera in September, he said: &quot;The way I fought for trans kids in the legislature is how I will fight for them in the U.S. Senate. And my position hasn&apos;t changed.&quot; Ten votes. Ten NOs. Early voting ends Oct. 30. Go vote, Texas. Media
+
+🔗 [View original post](https://x.com/KanekoaTheGreat/status/2114391670502679039)
 
 ---
 
