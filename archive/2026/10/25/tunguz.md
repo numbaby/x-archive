@@ -2,7 +2,15 @@
 
 ## 📅 October 25, 2026
 
-> 9 post(s) archived.
+> 10 post(s) archived.
+
+---
+
+### 🕐 16:24 UTC · @tunguz
+
+> Everything that is hackable will be hacked, and everything is hackable.
+
+🔗 [View original post](https://x.com/tunguz/status/2114392673318777253)
 
 ---
 
