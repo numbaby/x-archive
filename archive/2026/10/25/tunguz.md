@@ -2,7 +2,39 @@
 
 ## 📅 October 25, 2026
 
-> 5 post(s) archived.
+> 9 post(s) archived.
+
+---
+
+### 🕐 14:34 UTC · @tunguz
+
+> Has anyone tried to REA FSD?
+
+🔗 [View original post](https://x.com/tunguz/status/2114364908523622586)
+
+---
+
+### 🕐 13:51 UTC · @tunguz
+
+> Product idea: smoke detector that doesn’t start beeping LOUDLY in the middle of the night when its battery runs low.
+
+🔗 [View original post](https://x.com/tunguz/status/2114354084551819280)
+
+---
+
+### 🕐 13:38 UTC · @tunguz
+
+> If you think that big corporations never listen to their customers, then how foo you explain Samsung?
+
+🔗 [View original post](https://x.com/tunguz/status/2114350766689333419)
+
+---
+
+### 🕐 13:36 UTC · @tunguz
+
+> You always have more options than you think. Especially when you are told that you don&apos;t.
+
+🔗 [View original post](https://x.com/tunguz/status/2114350512627974561)
 
 ---
 
