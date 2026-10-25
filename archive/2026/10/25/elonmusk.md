@@ -2,7 +2,23 @@
 
 ## 📅 October 25, 2026
 
-> 10 post(s) archived.
+> 12 post(s) archived.
+
+---
+
+### 🕐 04:02 UTC · @elonmusk
+
+> Back to the Moon LIVE: @NASAAdmin and agency leaders are sharing the latest updates on next year&apos;s Artemis III mission and our plans to return astronauts to the surface of the Moon by 2028. https://x.com/i/broadcasts/1RJZzBdZYQgJB
+
+🔗 [View original post](https://x.com/elonmusk/status/2114205997350690837)
+
+---
+
+### 🕐 03:58 UTC · @elonmusk
+
+> The way to think about this is: How many super smart and dedicated people do you want to hire? And they keep getting better. Zooming out, GPUs are still renting ahead of a standard 6-year depreciation schedule Rental price vs. schedule: - H200: +143% - B200: +111% - RTX PRO 6000: +73% - H100: +54% - A100: +9% Most of the gap opened up after April, when token demand took off Charts of the Week: https://…
+
+🔗 [View original post](https://x.com/elonmusk/status/2114205004340854795)
 
 ---
 

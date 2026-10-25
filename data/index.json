@@ -139716,5 +139716,19 @@
     "file": "data/posts/2026/10/2026-10-25.jsonl",
     "fingerprint": "84369de82ffb17db49a035db9ea73ce0d9fb305c0615cc255805b76839f0e1fa",
     "media": []
+  },
+  "2114205004340854795": {
+    "account": "elonmusk",
+    "date": "2026-10-25",
+    "file": "data/posts/2026/10/2026-10-25.jsonl",
+    "fingerprint": "0181a243b44d8b55921969d73f7396cb817a7d7297a7b062d5cb8e42f0c83479",
+    "media": []
+  },
+  "2114205997350690837": {
+    "account": "elonmusk",
+    "date": "2026-10-25",
+    "file": "data/posts/2026/10/2026-10-25.jsonl",
+    "fingerprint": "6f8f0b6e1b3f8a2acce0b481057420f3d5e0e0bf8c35722e5b5b6e27a348c95b",
+    "media": []
   }
 }
