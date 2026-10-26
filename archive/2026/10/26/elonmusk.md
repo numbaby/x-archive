@@ -2,7 +2,15 @@
 
 ## 📅 October 26, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 00:26 UTC · @elonmusk
+
+> Starship Flight 15 static fire Full duration 33-engine static fire for the Super Heavy booster preparing for Flight 15
+
+🔗 [View original post](https://x.com/elonmusk/status/2114513919566033266)
 
 ---
 
