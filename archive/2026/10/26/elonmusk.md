@@ -2,7 +2,41 @@
 
 ## 📅 October 26, 2026
 
-> 36 post(s) archived.
+> 41 post(s) archived.
+
+---
+
+### 🕐 23:01 UTC · @elonmusk
+
+> 🎯😂 Waymo vs Tesla solving autonomy
+
+🔗 [View original post](https://x.com/elonmusk/status/2114854940711833669)
+
+---
+
+### 🕐 22:42 UTC · @elonmusk
+
+> True If, by the way, the same situation that just happened in Brazil had happened but with the parties switched -- if Bolsonaro had won last night&apos;s election and then a pro-Bolsonaro judge sent the Federal Police to seize Lula&apos;s passport and bar him from leaving the country -- every m…
+
+🔗 [View original post](https://x.com/elonmusk/status/2114850248132821462)
+
+---
+
+### 🕐 22:34 UTC · @elonmusk
+
+> Everyday is zero-day these days
+
+🔗 [View original post](https://x.com/elonmusk/status/2114848066767630417)
+
+---
+
+### 🕐 21:12 UTC · @elonmusk
+
+> I was already on SuperGrok Heavy, Grok’s top plan, and I still kept getting: “You’re out of Bot usage.” So today I upgraded to Ultra, the TOP tier of 𝕏 Subscriptions. Before this, I was paying for SuperGrok Heavy and 𝕏 Premium+ separately. And I run a whole team of Grok Bots every day… a chief of staff, research, email, money, travel, sports and my kid’s schedule. These bots literally have become part of how I run my life. Moving everything onto one plan just made sense. The 𝕏 Subscription brings Grok, Grok Bot, Cursor and 𝕏 Premium together, with one bill and a shared pool of Grok usage. If you’re choosing a plan, here’s the breakdown: 1/ FREE — $0 The basics, with limited usage. 2/ PLUS — $8/month Grok Chat, Voice, Imagine and Build, Cursor with Grok models, plus the checkmark and fewer ads on 𝕏. But no Grok Bot. 3/ PREMIUM — $30/month 4x the usage of Plus. This is where Grok Bot starts. You also get the latest Grok models, faster Chat, AI video, Cursor cloud agents and automations, and full 𝕏 Premium+ benefits, including ad-free scrolling on most surfaces. 4/ SUPER — $100/month 15x the usage of Plus. Everything in Premium, plus priority model access during busy periods. 5/ ULTRA — $200/month 50x the usage of Plus. Everything in Super, plus earliest access to new products and models. My upgrade screen also lists the most powerful Chat models and the fastest responses and generations. Ultra also has a $2,000/year option, paid upfront, which works out to about $167/month fyi. A few things to know: • Included usage resets weekly. • You can buy extra credits if you run out. • Models like Claude and GPT in Cursor are billed separately. • Switching cancels eligible linked plans and refunds unused time. App-store subscriptions have exceptions, so check those separately. • The switch is permanent and can’t be undone. Having Grok Bot is like hiring an incredibly competent chief of staff… really that’s exactly how it feels. If you’re getting started with Grok Bot, Premium is where I’d honestly start. But for me, running a whole team of bots every day, Ultra makes sense. Excited to be upgraded to Ultra 𝕏 Subscription!
+
+![I was already on SuperGrok Heavy, Grok’s top plan, and I still kept getting: “You’re out of Bot usage.” So today I upgraded to Ultra, the TOP tier of 𝕏 Subscriptions. Before this, I was paying for Sup](../../../../assets/images/2026/10/26/2114827425289036116-1.jpg)
+
+🔗 [View original post](https://x.com/Teslaconomics/status/2114827425289036116)
 
 ---
 
@@ -115,6 +149,14 @@
 > What are most important things to improve about Grok @Bot? Btw, make sure you’ve tried Bot recently, as over 100 features &amp; fixes are released every week! Grok Bot leaves Meta Muse in the dust. It&apos;s not even close!! 🚀 Grok Bot features Muse doesn&apos;t match: • Tag @bot on X and it handles your X DMs • Connects to your iPhone, Alarms included • Coinbase, Robinhood and eToro built in • Apps for Windows, Linux, Mac, iOS and Android • A …
 
 🔗 [View original post](https://x.com/elonmusk/status/2114751739026985329)
+
+---
+
+### 🕐 15:24 UTC · @elonmusk
+
+> The full video is now live on @YouTube! A big thank you to @larsmoravy, @EricETesla, and the rest of the Tesla team for taking the time to walk us through the Cybercab and share the engineering, design, and technology behind it. Media
+
+🔗 [View original post](https://x.com/live_munro/status/2114739987271073944)
 
 ---
 

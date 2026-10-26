@@ -2,7 +2,7 @@
 
 ## 📅 October 26, 2026
 
-> 5 post(s) archived.
+> 6 post(s) archived.
 
 ---
 
@@ -53,5 +53,15 @@
 ![HiSTEVE 1.0 Harnessing Human-Interface VLA Agents for Open-World Games paper: https://huggingface.co/papers/2610.31162](../../../../assets/images/2026/10/26/2114730217562665324-1.jpg)
 
 🔗 [View original post](https://x.com/_akhaliq/status/2114730217562665324)
+
+---
+
+### 🕐 13:51 UTC · @_akhaliq
+
+> Papers with Code is now open-source! Apache 2.0-license. Let&apos;s collaboratively make the best paper interface! https://github.com/huggingface/paperswithcode
+
+![Papers with Code is now open-source! Apache 2.0-license. Let&apos;s collaboratively make the best paper interface! https://github.com/huggingface/paperswithcode](../../../../assets/images/2026/10/26/2114716435050115306-1.jpg)
+
+🔗 [View original post](https://x.com/NielsRogge/status/2114716435050115306)
 
 ---
