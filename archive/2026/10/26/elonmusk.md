@@ -2,7 +2,23 @@
 
 ## 📅 October 26, 2026
 
-> 10 post(s) archived.
+> 12 post(s) archived.
+
+---
+
+### 🕐 13:16 UTC · @elonmusk
+
+> Starlink coming to EasyJet easyJet has just announced that it will be installing SpaceX&apos;s @Starlink on its fleet. Installations will start in first half of 2027 across the airline’s modern A320, A320neo and A321neo fleet, with the rollout expected to be completed by early 2028. &quot;easyJet’s investment in onb…
+
+🔗 [View original post](https://x.com/elonmusk/status/2114707637506117956)
+
+---
+
+### 🕐 12:54 UTC · @elonmusk
+
+> It’s been a memorable 4 years Four years ago today, Elon Musk bought Twitter. Liberals lost their minds because they knew they were losing control of their ability to shape the narrative. Today, X is the #1 source of news in the world and it’s the legacy &quot;news&quot; media on life support.
+
+🔗 [View original post](https://x.com/elonmusk/status/2114702264510390753)
 
 ---
 

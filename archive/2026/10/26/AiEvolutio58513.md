@@ -2,7 +2,15 @@
 
 ## 📅 October 26, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 13:00 UTC · @AiEvolutio58513
+
+> Mark Cuban became a billionaire in Yahoo stock in 1999. Here&apos;s the move that kept him one: &quot;There&apos;s a good chance, because this stock market is so highly priced, that the whole thing could crash. Don&apos;t be greedy.&quot; What he did: 1. Yahoo bought http://Broadcast.com for stock. He didn&apos;t just hold it and hope. 2. He built a collar: sold some of the upside, bought puts on the downside. 3. Three months later, internet stocks cratered. It was called one of the top 10 Wall Street trades of all time. His partner&apos;s rule: &quot;Pigs get fat, hogs get slaughtered.&quot; &quot;All I had to do was protect it and not get greedy, and I&apos;d be set for the rest of my life.&quot; Worth remembering in every AI boom. Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2114703673456841049)
 
 ---
 
