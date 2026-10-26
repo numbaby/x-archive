@@ -2,7 +2,15 @@
 
 ## 📅 October 26, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 13:59 UTC · @AiEvolutio58513
+
+> Elon Musk says that in less than 20 years, &quot;working at all will be optional like a hobby pretty much.&quot; &quot;People can play this back in 20 years and say look, Elon made this ridiculous prediction and it&apos;s not true, but I think it will turn out to be true that in less than 20 years, maybe even as little as, I don&apos;t know, 10 or 15 years, the advancements in AI and robotics will bring us to the point where working is optional.&quot; His comparison: &quot;You can grow your own vegetables in your garden or you could go to the store and buy vegetables.&quot; Work becomes the garden. What he expects instead of a paycheck: 1. &quot;I think it will be universal high income.&quot; 2. &quot;I think it won&apos;t be the case that you have to be in a city for a job.&quot; 3. &quot;If you can think of it, you can have it.&quot; He told Nikhil Kamath he&apos;s confident: &quot;if AI and robotics continue to advance, which they are advancing very rapidly, like I said, working will be optional.&quot; Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2114718518164013204)
 
 ---
 
