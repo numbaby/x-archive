@@ -2,7 +2,15 @@
 
 ## 📅 October 26, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 01:37 UTC · @tunguz
+
+> You either die a hero, or live long enough to become another neocloud.
+
+🔗 [View original post](https://x.com/tunguz/status/2114531916615463363)
 
 ---
 
