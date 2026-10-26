@@ -2,7 +2,15 @@
 
 ## 📅 October 26, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 16:29 UTC · @tunguz
+
+> .@AnthropicAI just filed to go public. Its S-1 is over 400 pages long. I used Opus 5.5 to generate a short explanatory video with all the highlights. Here is everything you need to know in under 5 minutes: - Revenue: $41M in 2023, $16.3B in H1 2026 - $80.7B H1 net loss, mostly non-cash - Founders control 50.1% of votes; a trust picks 4 of 7 directors - Risks: compute commitments, safety, a Department of War fight Media
+
+🔗 [View original post](https://x.com/tunguz/status/2114756330997055501)
 
 ---
 

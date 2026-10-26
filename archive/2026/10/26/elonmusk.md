@@ -2,7 +2,41 @@
 
 ## 📅 October 26, 2026
 
-> 16 post(s) archived.
+> 22 post(s) archived.
+
+---
+
+### 🕐 16:31 UTC · @elonmusk
+
+> Soon Moon I took about 50,000 photos through a 14&quot; telescope last night to produce this: A hyper-detailed photo of the full moon. The fidelity of the photo was great enough to allow me to greatly enhance the color, revealing a hidden world of geological diversity.
+
+🔗 [View original post](https://x.com/elonmusk/status/2114756811689447712)
+
+---
+
+### 🕐 16:11 UTC · @elonmusk
+
+> What are most important things to improve about Grok @Bot? Btw, make sure you’ve tried Bot recently, as over 100 features &amp; fixes are released every week! Grok Bot leaves Meta Muse in the dust. It&apos;s not even close!! 🚀 Grok Bot features Muse doesn&apos;t match: • Tag @bot on X and it handles your X DMs • Connects to your iPhone, Alarms included • Coinbase, Robinhood and eToro built in • Apps for Windows, Linux, Mac, iOS and Android • A …
+
+🔗 [View original post](https://x.com/elonmusk/status/2114751739026985329)
+
+---
+
+### 🕐 15:12 UTC · @elonmusk
+
+> The Economist put the chart on a log scale. I wonder why they did that? Here it is on a normal one. Dear @piersmorgan, let me know if this figure proves helpful.
+
+![The Economist put the chart on a log scale. I wonder why they did that? Here it is on a normal one. Dear @piersmorgan, let me know if this figure proves helpful.](../../../../assets/images/2026/10/26/2114736974812655729-1.jpg)
+
+🔗 [View original post](https://x.com/JohnLeFevre/status/2114736974812655729)
+
+---
+
+### 🕐 15:03 UTC · @elonmusk
+
+> They used LOG SCALE instead of linear to hide how extreme the differences really are… I can’t believe The Economist put this out… Rape and sexual assault by nationality: Afghanistan - 7x the British rate Middle East - 4x the British rate North Africa - 4x the British rate Sub Sahara - 3x the British rate
+
+🔗 [View original post](https://x.com/Geiger_Capital/status/2114734659158376650)
 
 ---
 
@@ -11,6 +45,14 @@
 > Math doesn’t add up Round 1: 🏆Bolsonaro: 56.1 million votes Lula: 53.9 million votes Round 2: 🏆Lula: 64.1 million votes (+10.2M) Bolsonaro: 59.8 million votes (+3.7M) To give you an idea of how unlikely this is: all the eliminated candidates from round 1 got 9.33M VOTES COMBINED
 
 🔗 [View original post](https://x.com/elonmusk/status/2114717848518144177)
+
+---
+
+### 🕐 13:50 UTC · @elonmusk
+
+> Not many people know that Elon Musk’s roots go back to the American Midwest. His grandfather, Joshua Haldeman, was born in Minnesota, and his mother, Maye, was born in Canada before the family packed up and moved to South Africa when she was still a little girl. Even Elon’s name, which so many people assume is exotic, is a family name. He was named after his great-grandfather, John Elon Haldeman, who around 1900 was a school superintendent and a part-time sheriff in Minnesota. So, yeah, the most futuristic name in the world actually came from a small-town lawman more than a century ago 🤷🏼‍♀️😄 https://x.com/EvaFox/status/2056970796111724601/video/1 Media
+
+🔗 [View original post](https://x.com/EvaFox/status/2114716323540250903)
 
 ---
 
@@ -59,6 +101,14 @@
 > So beautiful hello, world
 
 🔗 [View original post](https://x.com/elonmusk/status/2114612551787147343)
+
+---
+
+### 🕐 03:29 UTC · @elonmusk
+
+> Michael Dell calls Elon Musk the &quot;most demanding customer there is,&quot; and says Musk rewarded Dell with more business after the Colossus build DELL: “So it shouldn’t be too surprising that we’re also number one in AI infrastructure.” MIMS: “Dell did half of the servers in the Colossus One AI supercomputer for SpaceX. And you did it really fast, right? I think that was a record fast build. It was like six weeks or something.” DELL: “Elon is probably the most demanding customer. No, he’s definitely the most demanding customer there is.” MIMS: “Yeah? Was there a bonus involved? Get this done in six weeks and…” DELL: “I don’t know that there was a bonus involved, but they have rewarded us with additional business because we’ve done a great job. And that’s pretty much the pattern.” Media Elon Musk explains how to build AI satellites on the moon from lunar silicon and aluminum, and says 500 to 1,000 terawatts a year cannot be launched from Earth “Well, the lunar soil is 20% silicon or something like that. So you can mine the silicon on the moon, refine it, and cre…
+
+🔗 [View original post](https://x.com/firesidealpha/status/2114560100295921758)
 
 ---
 
