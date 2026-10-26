@@ -2,7 +2,79 @@
 
 ## 📅 October 26, 2026
 
-> 22 post(s) archived.
+> 33 post(s) archived.
+
+---
+
+### 🕐 17:38 UTC · @elonmusk
+
+> Bravo to the smaller countries in Europe for moving fastest! Tesla FSD Supervised (now named Tesla Assisted Driving in Europe) has officially been approved in Latvia, marking the 10th European country. Countries in Europe that have approved it so far: • Belgium • Netherlands • Denmark • Lithuania • Estonia • Slovenia • Czechia • Croatia • …
+
+🔗 [View original post](https://x.com/elonmusk/status/2114773746510946544)
+
+---
+
+### 🕐 17:36 UTC · @elonmusk
+
+> Try using @Starlink for your home or business 50 airlines and counting. 🚀 There’s no stopping @Starlink
+
+🔗 [View original post](https://x.com/elonmusk/status/2114773137640554754)
+
+---
+
+### 🕐 17:35 UTC · @elonmusk
+
+> Grok @Bot is like hiring an incredibly competent chief of staff I&apos;ve gone full Grokbot. It checks email, DMs, mentions, and LinkedIn every hour. It flags anything interesting, drafts replies, and tosses the other 99%. It literally feels like having a personal secretary 🤯 And 2 days in I&apos;m like how did I live without this 😂
+
+🔗 [View original post](https://x.com/elonmusk/status/2114772843997351993)
+
+---
+
+### 🕐 17:33 UTC · @elonmusk
+
+> Supervised FSD approved in Latvia! 🇱🇻 Now approved in Latvia 🇱🇻 Rollout begins soon
+
+🔗 [View original post](https://x.com/elonmusk/status/2114772404463337693)
+
+---
+
+### 🕐 17:04 UTC · @elonmusk
+
+> Remember when using the wrong pronoun got people canceled? That was dumb. If Elon Musk hadn&apos;t bought Twitter and fought back against the insanity of the last few years, the West would be much further down a path of self-destruction, self-hatred, and moral corruption ​• Pronouns treated like sacred scripture • State propaganda rebranded as &quot;truth&quot; and “…
+
+🔗 [View original post](https://x.com/elonmusk/status/2114765150431682772)
+
+---
+
+### 🕐 17:02 UTC · @elonmusk
+
+> Interesting question The major question in Brazil… At exactly 5pm, a code is supposed to be entered that closes and locks the voting machines. Once a machine is locked, it can’t accept any more votes. It’s irreversible. The Supreme Court extension was relayed a few minutes after polls were supposed t…
+
+🔗 [View original post](https://x.com/elonmusk/status/2114764520552051185)
+
+---
+
+### 🕐 17:00 UTC · @elonmusk
+
+> It means entire countries and cultures will go extinct forever fertility rates are so abstract that people struggle to understand the scale of the catastrophe we’re experiencing. take 1.14 children per woman (italy and japan) if that continues, each generation is roughly half the size of the one before it start with 100 people in a generatio…
+
+🔗 [View original post](https://x.com/elonmusk/status/2114764208399421635)
+
+---
+
+### 🕐 16:54 UTC · @elonmusk
+
+> True Lula packed Brazil’s Supreme Court with his own lawyer and justice minister and had them lock his rival up for 27 years. Back in 2023, after taking power, he named Cristiano Zanin and Flávio Dino to the court. In 2025 both voted to convict Jair Bolsonaro of a coup plot and hand h…
+
+🔗 [View original post](https://x.com/elonmusk/status/2114762534372917746)
+
+---
+
+### 🕐 16:48 UTC · @elonmusk
+
+> Talarico will vote to take away your children and transition them TALARICO: “What would Jesus do if he visited the Texas legislature? I think he would tell us: ‘Blessed are the trans children.’”
+
+🔗 [View original post](https://x.com/elonmusk/status/2114761043809378685)
 
 ---
 
@@ -40,6 +112,14 @@
 
 ---
 
+### 🕐 14:25 UTC · @elonmusk
+
+> Four years ago Elon Musk purchased Twitter and made it into the X we have now. I have been online since 1979 and there is no better place than X. This is my home and I have an immense amount of gratitude for the people that build it and the people that have made it their home. Thank you @elonmusk deep gratitude. And it sinked in… Media
+
+🔗 [View original post](https://x.com/BrianRoemmele/status/2114725164940423405)
+
+---
+
 ### 🕐 13:56 UTC · @elonmusk
 
 > Math doesn’t add up Round 1: 🏆Bolsonaro: 56.1 million votes Lula: 53.9 million votes Round 2: 🏆Lula: 64.1 million votes (+10.2M) Bolsonaro: 59.8 million votes (+3.7M) To give you an idea of how unlikely this is: all the eliminated candidates from round 1 got 9.33M VOTES COMBINED
@@ -69,6 +149,16 @@
 > I swear it’s just a coincidence 😂 Houston, we have liftoff Bigger service area now live
 
 🔗 [View original post](https://x.com/elonmusk/status/2114714943417110693)
+
+---
+
+### 🕐 13:43 UTC · @elonmusk
+
+> An estimated 80% of polling stations were closed when they extended the hours. 213 cities that voted Flávio in the 1st round, voted Lula in the 2nd. 10,282,707 more votes. Soros celebrates. Make of this information what you will.
+
+![An estimated 80% of polling stations were closed when they extended the hours. 213 cities that voted Flávio in the 1st round, voted Lula in the 2nd. 10,282,707 more votes. Soros celebrates. Make of th](../../../../assets/images/2026/10/26/2114714453530878121-1.jpg)
+
+🔗 [View original post](https://x.com/TRobinsonNewEra/status/2114714453530878121)
 
 ---
 

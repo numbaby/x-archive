@@ -2,7 +2,15 @@
 
 ## 📅 October 26, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 17:12 UTC · @AiEvolutio58513
+
+> We&apos;re a media company with a single editor, and we have a ton of needs. Right now, our editor edits, then clips, then writes copy, then makes thumbnails. The clips often ship late because we only have one person. The cool thing about Riverside Agents is that they would draft the rough cut and the clips and hand them to our editor, and nothing goes live till our editor signs off on it. Our editor stays in the director&apos;s chair, just stops doing every grunt pass. Excited for our team to use this so we can finally ship on time. Meet Riverside Agents, the first AI production team built only for video. Producer preps the session, Editor creates the full edit, Clipper cuts the best moments, and Marketer gets it live. They’re experts at video and know how to take your content to the next level. You call the…
+
+🔗 [View original post](https://x.com/ecomchasedimond/status/2114767015084970471)
 
 ---
 

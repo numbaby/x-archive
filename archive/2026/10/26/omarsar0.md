@@ -2,7 +2,15 @@
 
 ## 📅 October 26, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 17:28 UTC · @omarsar0
+
+> Highly recommended read if you work with coding agents. My general rule of thumb is to get out of the agents&apos; way as much as I can. My top tips from the list: - Run as many evals as you can; always be constantly measuring, especially on agents&apos; use of knowledge. - Run as many automations as you can and allow agents to do more proactive work; it&apos;s a good way to constantly test and push your agents further. This can even unlock new use cases along the way. I use complex automation to see what breaks, and it helps me find interesting new applications. My automations constantly evolve. - Scale agents to do more tasks (either in parallel, batch, etc.) and regularly find out what tools/knowledge they&apos;re missing. This is how you really optimize workflows with agents and stay ahead. Yes, a few things will break, but that&apos;s for the best, as you can always improve it. The benefit is that you constantly find weak areas to improve and unlock new productivity tricks along the way. But don&apos;t blindly do it. Always measure and stay skeptical, but trust that the agent can figure out a lot with the right tools and permissions. Your job is to give it the right tools, context, and knowledge to scale. But how can you know what to give it if you don&apos;t actually try to scale anything? Overall, just be more ambitious in every task you give your agents and get out of the way as much as you can. Finally summarized what I&apos;ve been sending to friends in DMs https://x.com/i/article/2114385531811319808
+
+🔗 [View original post](https://x.com/omarsar0/status/2114771202057068657)
 
 ---
 

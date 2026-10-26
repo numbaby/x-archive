@@ -2,7 +2,15 @@
 
 ## 📅 October 26, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 17:05 UTC · @tunguz
+
+> mlx-stump is here: GPU-accelerated time-series pattern discovery and anomaly detection for Apple Silicon, built with MLX and a STUMPY-compatible API. Available as a pip install and an open source repo. Go check it out! Introducing mlx-stump: GPU-accelerated matrix profiles for Apple Silicon, built with MLX and a STUMPY-compatible API. Find recurring patterns and anomalies in time series using your Mac’s GPU. 🧵 1/5
+
+🔗 [View original post](https://x.com/tunguz/status/2114765452777861473)
 
 ---
 
