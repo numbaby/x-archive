@@ -2,7 +2,26 @@
 
 ## 📅 October 27, 2026
 
-> 14 post(s) archived.
+> 16 post(s) archived.
+
+---
+
+### 🕐 20:13 UTC · @tunguz
+
+> Seal of approval
+
+![Seal of approval](../../../../assets/images/2026/10/27/2115174962877395416-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2115174962877395416)
+
+---
+
+### 🕐 20:12 UTC · @tunguz
+
+
+![](../../../../assets/images/2026/10/27/2115174899744383057-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2115174899744383057)
 
 ---
 
