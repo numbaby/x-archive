@@ -2,7 +2,15 @@
 
 ## 📅 October 27, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 02:16 UTC · @tunguz
+
+> You are not dumb, you just don&apos;t have access to the best models.
+
+🔗 [View original post](https://x.com/tunguz/status/2114904088701706462)
 
 ---
 
