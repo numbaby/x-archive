@@ -2,7 +2,23 @@
 
 ## 📅 October 27, 2026
 
-> 1 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 04:50 UTC · @emollick
+
+> I realize this is because thinking traces have gotten too long (and too proprietary) but the solution of hiding them almost entirely so the AI just does &quot;magic&quot; feels like a failure of imagination and a move towards a default of disintermediation that is worth effort challenging.
+
+🔗 [View original post](https://x.com/emollick/status/2114942688281911345)
+
+---
+
+### 🕐 04:47 UTC · @emollick
+
+> The end of detailed summarized thinking traces for Claude and ChatGPT (likely both anti-distillation &amp; for UX) has made being a human in the loop challenging. It pushes us towards automation, rather than augmentation, as it has become much harder to weigh in on in-process AI work
+
+🔗 [View original post](https://x.com/emollick/status/2114942007533515261)
 
 ---
 

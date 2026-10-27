@@ -140874,6 +140874,13 @@
     "fingerprint": "ef94c44bf0d9c5711379dff965f1811643e0bbf540609d07ba5892ad34bc962a",
     "media": []
   },
+  "2114897771001974921": {
+    "account": "elonmusk",
+    "date": "2026-10-27",
+    "file": "data/posts/2026/10/2026-10-27.jsonl",
+    "fingerprint": "c41cda09cee813a43a2749365586497489385ae6abf2c68ff412cc535b616763",
+    "media": []
+  },
   "2114904088701706462": {
     "account": "tunguz",
     "date": "2026-10-27",
@@ -140915,11 +140922,45 @@
     "fingerprint": "541ebb6c717635cd61e6a37db42979466baa05fd7373c709750331368789bf06",
     "media": []
   },
+  "2114935735430119764": {
+    "account": "elonmusk",
+    "date": "2026-10-27",
+    "file": "data/posts/2026/10/2026-10-27.jsonl",
+    "fingerprint": "4f40825c2bfa95318de94d5bc9bf8ab3167a56be863df8ea38da892ecb486be7",
+    "media": [
+      {
+        "local_path": "assets/images/2026/10/27/2114935735430119764-1.jpg",
+        "sha256": "b57873d03d376ef481fe7032f3c983e7e32959e9b128a3645c7e54e07d93ce8e",
+        "source_url": "https://pbs.twimg.com/media/HVnC18ZXUAAsVnC.jpg?name=orig"
+      }
+    ]
+  },
   "2114936152205697247": {
     "account": "elonmusk",
     "date": "2026-10-27",
     "file": "data/posts/2026/10/2026-10-27.jsonl",
     "fingerprint": "8d541ea4957f80edbb495e16a179f13b0ceaec31df91e04a69ee02225ba047b0",
+    "media": []
+  },
+  "2114942007533515261": {
+    "account": "emollick",
+    "date": "2026-10-27",
+    "file": "data/posts/2026/10/2026-10-27.jsonl",
+    "fingerprint": "8c1537141201ade47112b61b15303c6f322f9fb9977a55b2ae8201d051422762",
+    "media": []
+  },
+  "2114942688281911345": {
+    "account": "emollick",
+    "date": "2026-10-27",
+    "file": "data/posts/2026/10/2026-10-27.jsonl",
+    "fingerprint": "4a2cb6f53723fbf1e6cc9a9e1eac693dcd291d73a709b38b96bb52cd6744fafb",
+    "media": []
+  },
+  "2114944426271441127": {
+    "account": "elonmusk",
+    "date": "2026-10-27",
+    "file": "data/posts/2026/10/2026-10-27.jsonl",
+    "fingerprint": "a0373e93051eb91bc9b3a9b68ff5fe1721179cc29095504a474313e4aaef894e",
     "media": []
   }
 }
