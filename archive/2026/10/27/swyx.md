@@ -2,7 +2,17 @@
 
 ## 📅 October 27, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 14:35 UTC · @swyx
+
+> at spacex ipo everyone was posting their cursor bag fumble. kid stuff. my turn. i estimate this was a $500m bag fumble lol. and very probably wouldve been on claude code early (bc i&apos;ve been a typescript cli maintainer). fml. will you buy $ANT stock at a $2T valuation?
+
+![at spacex ipo everyone was posting their cursor bag fumble. kid stuff. my turn. i estimate this was a $500m bag fumble lol. and very probably wouldve been on claude code early (bc i&apos;ve been a typ](../../../../assets/images/2026/10/27/2115089887959359988-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2115089887959359988)
 
 ---
 

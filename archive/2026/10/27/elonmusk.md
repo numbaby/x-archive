@@ -2,7 +2,39 @@
 
 ## 📅 October 27, 2026
 
-> 11 post(s) archived.
+> 17 post(s) archived.
+
+---
+
+### 🕐 14:46 UTC · @elonmusk
+
+> Starlink Brasil 🇧🇷 Starlink Mobile is now live in Brazil with @vivobr! 50M customers can use apps and messaging in cellular dead zones — with 7M phones already connected. This is the first nationwide service to cover the entire country. The next-gen service - Starlink Mobile V2 - will make sure all…
+
+🔗 [View original post](https://x.com/elonmusk/status/2115092766275543266)
+
+---
+
+### 🕐 14:12 UTC · @elonmusk
+
+> BREAKING: United Airlines is adding @Starlink to ~3 aircraft a day, its CEO just announced. Already on 48% of United&apos;s flights, Starlink is set to reach 50% next week. Media
+
+🔗 [View original post](https://x.com/cb_doge/status/2115084179750936866)
+
+---
+
+### 🕐 13:00 UTC · @elonmusk
+
+> SUPERCUT: Five minutes of insanity from Democrat James Talarico in his own words. He has shown us exactly why he does not belong in the U.S. Senate. Vote for Ken Paxton. Share this with your friends in Texas. Media
+
+🔗 [View original post](https://x.com/america/status/2115065994318348370)
+
+---
+
+### 🕐 07:14 UTC · @elonmusk
+
+> Watch Falcon 9 launch 27 @Starlink satellites to orbit from California https://x.com/i/broadcasts/1mGPaZgYgLDJN
+
+🔗 [View original post](https://x.com/SpaceX/status/2114979142638960965)
 
 ---
 
@@ -72,6 +104,14 @@
 
 ---
 
+### 🕐 03:03 UTC · @elonmusk
+
+> Elon Musk: &quot;At its heart, wokeness is divisive, exclusionary, and hateful. It basically gives mean people a shield to be mean and cruel, armored in false virtue.&quot; There&apos;s really nothing more I could add to that. Media
+
+🔗 [View original post](https://x.com/DefiantLs/status/2114915740293771772)
+
+---
+
 ### 🕐 01:51 UTC · @elonmusk
 
 > I see how some people can watch flashy robot demos on the timeline and think with a shiver that the robot apocalypse is around the corner, but reality check: There is no robot in the world that can change the batteries in a jack-o-lantern. If you have a robot friendly door handle it might be able to walk outside, pick it up, and carry it back inside. The robot could open the drawer with your batteries in it, but then things get tough. Opening the package of AA batteries? Extracting a precision screwdriver from its case? Unscrewing four tiny screws that require a hard press and twist? Popping batteries out of the case? Yes, you could build and train a specialist robot to do that today, but there is a very long way to go to replace the full range of human capabilities. Near term doomer scenarios should stop at “secretly controlling humanity” instead of “wiping humanity out” 😀
@@ -93,5 +133,13 @@
 > In free nations, we investigate crimes to see who is guilty of them. In communist tyrannies, they investigate men to see what they can be punished for. INVESTIGATE ELON MUSK.
 
 🔗 [View original post](https://x.com/Devon_Eriksen_/status/2114890314280292819)
+
+---
+
+### 🕐 01:13 UTC · @elonmusk
+
+> There are at least 20,000 non-citizens on the California voter rolls. Congressman Duarte lost by 187 votes. Congresswoman Michelle Steel lost by 653 votes. This is a constitutional crisis. The thing they said doesn&apos;t happen is happening again. There is a minimum of 20,000 noncitizens on California voter rolls. Pass the SAVE AMERICA ACT and secure our elections.
+
+🔗 [View original post](https://x.com/ScottPresler/status/2114888252171637223)
 
 ---

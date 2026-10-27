@@ -2,7 +2,23 @@
 
 ## 📅 October 27, 2026
 
-> 5 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 15:06 UTC · @tunguz
+
+> The Wrppening
+
+🔗 [View original post](https://x.com/tunguz/status/2115097804846809431)
+
+---
+
+### 🕐 14:10 UTC · @tunguz
+
+> Big if true. Something big is coming soon. Actually, something BIG is coming. Actually, the BIGGEST.
+
+🔗 [View original post](https://x.com/tunguz/status/2115083693958054246)
 
 ---
 
