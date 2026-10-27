@@ -2,7 +2,17 @@
 
 ## 📅 October 27, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 13:01 UTC · @emollick
+
+> This never gets old (&amp; also shows how hard forecasting AI is even for AI) “Hey Claude Fable &amp; GPT-6 Astra, Without looking anything up, when do you think we will solve the Exponential Time Hypothesis?” (I only show part of the answers for space)
+
+![This never gets old (&amp; also shows how hard forecasting AI is even for AI) “Hey Claude Fable &amp; GPT-6 Astra, Without looking anything up, when do you think we will solve the Exponential Time Hyp](../../../../assets/images/2026/10/27/2115066250938192118-1.jpg)
+
+🔗 [View original post](https://x.com/emollick/status/2115066250938192118)
 
 ---
 
