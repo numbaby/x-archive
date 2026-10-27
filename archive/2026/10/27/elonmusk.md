@@ -2,7 +2,15 @@
 
 ## 📅 October 27, 2026
 
-> 9 post(s) archived.
+> 10 post(s) archived.
+
+---
+
+### 🕐 06:26 UTC · @elonmusk
+
+> He’s right UNDERCOVER: GAVIN NEWSOM SAYS THE DSA IS &quot;GOING TO BE DOMINANT&quot; AND &quot;MAINSTREAM&quot; IN THE DEMOCRATIC PARTY! &quot;The DSA, the energy and the desire and demand for bold change, not incremental change, is very much going to be dominant. I mean, that&apos;s going to be a mainstream Democratic …
+
+🔗 [View original post](https://x.com/elonmusk/status/2114967042952687676)
 
 ---
 
