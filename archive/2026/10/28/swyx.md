@@ -2,7 +2,15 @@
 
 ## 📅 October 28, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 15:31 UTC · @swyx
+
+> Happy anniversary to Ligma/Johnson 2026 Happy anniversary to Ligma/Johnson 2022 (proud to now work in the Cerebral Arena with @0interestrates)
+
+🔗 [View original post](https://x.com/swyx/status/2115466368963190937)
 
 ---
 

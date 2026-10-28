@@ -2,7 +2,23 @@
 
 ## 📅 October 28, 2026
 
-> 21 post(s) archived.
+> 25 post(s) archived.
+
+---
+
+### 🕐 15:52 UTC · @elonmusk
+
+> They do Vote like children’s lives depend on it. Because they do.
+
+🔗 [View original post](https://x.com/elonmusk/status/2115471764960735355)
+
+---
+
+### 🕐 15:12 UTC · @elonmusk
+
+> Legacy media will never run this list, so I will. 2018, Flint, Michigan: Elon funded filtration systems for schools with unsafe water. Over $480K. 2018, Thailand: SpaceX engineers built a mini-submarine within days to help rescue a boys&apos; soccer team trapped in a flooded cave. 2020, COVID: He sourced and delivered ventilators and supplies to hospitals for free. 2021: He gave Tesla shares worth about $5.7 billion to charity. 2021: He funded a $100M XPRIZE for carbon removal, one of the largest incentive prizes ever. 2022: Starlink kept Ukrainians connected when their networks went down. 2022, Tonga: Starlink helped reconnect the island after a volcano cut its undersea cable. Wildfires, hurricanes, earthquakes: Starlink terminals keep showing up for rescuers and families. And the biggest one, the one that&apos;s easy to miss: he&apos;s spent his fortune and 20+ years building clean energy, safer cars, and a future for humanity among the stars. They call him a villain. The record says otherwise.
+
+🔗 [View original post](https://x.com/TheCaptainEli/status/2115461633522757829)
 
 ---
 
@@ -19,6 +35,24 @@
 > At Tesla, we even care about the chipmunks 98-Year-Old Man Buys His First Self-Driving Tesla Model Y And Is Blown Away “I&apos;ve been driving it probably 2-3 months, and it&apos;s not made an error in its driving. In fact, the other day it stopped - a chipmunk was crossing the road, and there was no other traffic, and it did not r…
 
 🔗 [View original post](https://x.com/elonmusk/status/2115447957843821013)
+
+---
+
+### 🕐 13:31 UTC · @elonmusk
+
+> Grok Bot can do a lot more than chat!! 🤖 Starting tomorrow: 30 days, 30 real Grok Bot use cases. A different field every day, from students to traders. New one daily at 10 AM PT. Follow and turn on notifications!! 🔔 What do you think?
+
+![Grok Bot can do a lot more than chat!! 🤖 Starting tomorrow: 30 days, 30 real Grok Bot use cases. A different field every day, from students to traders. New one daily at 10 AM PT. Follow and turn on no](../../../../assets/images/2026/10/28/2115436409788248346-1.jpg)
+
+🔗 [View original post](https://x.com/nima_owji/status/2115436409788248346)
+
+---
+
+### 🕐 12:54 UTC · @elonmusk
+
+> Driving my @Tesla model Y home from pickup, first ever ride, this car is absolutely amazing. @elonmusk your team has produced a masterpiece, FSD is incredible🙌🏻 Media
+
+🔗 [View original post](https://x.com/BuckSexton/status/2115426953582760314)
 
 ---
 

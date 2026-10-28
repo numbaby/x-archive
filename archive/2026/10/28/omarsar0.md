@@ -2,7 +2,23 @@
 
 ## 📅 October 28, 2026
 
-> 4 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 15:43 UTC · @omarsar0
+
+> Super interesting way to shop with AI. Dalet hyper-personalizes the shopping experience by creating a feed of lifelike AI-generated images. The products in each image are real. And users can tap to buy them. Discovery is a way better fit for generative media than another chat box. The team comes from Google, Runway, and MIT. Congrats on their raise. We raised a $7M pre-seed to make shopping fun again. @daletlabs generates media just for you: like walking into a mall built around your taste. And you can buy everything in-app. Built by researchers from Google, Runway and MIT. Backed by @lightspeedvp and amazing angels.
+
+🔗 [View original post](https://x.com/omarsar0/status/2115469422198464948)
+
+---
+
+### 🕐 15:25 UTC · @omarsar0
+
+> Will share my results on how it&apos;s doing on my research tasks later in the week: https://x.com/omarsar0/status/2113296402289676594?a=szWX5mtXhy6OseFFW5A&amp;s=20 https://x.com/i/article/2113280256119312384
+
+🔗 [View original post](https://x.com/omarsar0/status/2115464874595656166)
 
 ---
 

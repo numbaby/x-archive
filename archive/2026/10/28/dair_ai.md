@@ -2,7 +2,27 @@
 
 ## 📅 October 28, 2026
 
-> 4 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 16:02 UTC · @dair_ai
+
+> Super interesting paper from Google DeepMind and Stanford. They find that if you put a picture of a red heart in the context, Claude Opus 4.7 and GPT-5.4 write recursive code 100% of the time. They found this on inorder binary tree traversal, a problem with equally valid recursive and iterative solutions. A yellow checkmark pushes Gemini 3.1 Pro to recursion in 90% of samples. The effect matches or comes close to telling the model directly to use recursion. Text captions of the same symbol steer much less, and random or naturalistic images steer less still. The models cannot explain it. Their interpretations of the symbol and their thinking traces do not match what they do. For GPT-5.4, 74.7% of traces give the wrong reason. When models send images to each other, they pick shapes that they and humans find intuitive, and those shapes often fail to steer the other model. If your agents read screenshots or images, those inputs can change behavior in ways the reasoning trace will not show. https://arxiv.org/abs/2610.36449 Chat with Paper: https://academy.dair.ai/papers/a-heart-means-recursion-exploring-visual-meaning-and-communication-in-vlms-2610.36449
+
+![Super interesting paper from Google DeepMind and Stanford. They find that if you put a picture of a red heart in the context, Claude Opus 4.7 and GPT-5.4 write recursive code 100% of the time. They fo](../../../../assets/images/2026/10/28/2115474180078789094-1.jpg)
+
+🔗 [View original post](https://x.com/dair_ai/status/2115474180078789094)
+
+---
+
+### 🕐 15:25 UTC · @dair_ai
+
+> Great upgrade to Drex Max. Drex Max 1.1 is Nace&apos;s new decision model, with better out-of-distribution generalization. It&apos;s multimodal and has a 262K context window. I&apos;ve been testing Drex Max on research tasks, so I am curious to test out its better generalization to new tasks. Nace reports 70.8 on the Decision Index (up from 67.6 for Drex Max) and a median latency of 172 ms. Drex Max 1.1 is live 🦖 SOTA decision model with significantly improved out-of-distribution generalization - Multimodal - 262k context window - $0.03 / 1M input tokens (50% launch discount) Grab your API key: https://console.nace.ai
+
+![Great upgrade to Drex Max. Drex Max 1.1 is Nace&apos;s new decision model, with better out-of-distribution generalization. It&apos;s multimodal and has a 262K context window. I&apos;ve been testing Dr](../../../../assets/images/2026/10/28/2115464870887850329-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2115464870887850329)
 
 ---
 

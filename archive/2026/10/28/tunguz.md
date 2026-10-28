@@ -2,7 +2,31 @@
 
 ## 📅 October 28, 2026
 
-> 9 post(s) archived.
+> 12 post(s) archived.
+
+---
+
+### 🕐 15:17 UTC · @tunguz
+
+> Pfft, those are rookie numbers. My office desk is becoming a data center
+
+🔗 [View original post](https://x.com/tunguz/status/2115462964820025833)
+
+---
+
+### 🕐 15:02 UTC · @tunguz
+
+> oh boi
+
+🔗 [View original post](https://x.com/tunguz/status/2115459306992582891)
+
+---
+
+### 🕐 15:02 UTC · @tunguz
+
+> This is awesome! I can&apos;t wait for the option of being able to get AI to automatically choose the best settings based on what it&apos;s seeing. 我他妈又弄一个新活，你的哈苏现在可以使用 GPT 了，控制对焦，快门，甚至唠闲嗑都可以我真的笑晕了。 多亏了@openai，@fedesarquis 这是你要的哈苏接入 GPT 吗哈哈哈哈哈哈哈哈哈哈哈哈 将会开源到我的 git 中https://github.com/radium-wang/Hasselblad-X-System-CIM-Firmware-Research-Feature-Extensions
+
+🔗 [View original post](https://x.com/tunguz/status/2115459108564287731)
 
 ---
 
