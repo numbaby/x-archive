@@ -2,7 +2,17 @@
 
 ## 📅 October 28, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 14:33 UTC · @omarsar0
+
+> GitHub: https://github.com/OpenBMB/MiniCPM-OCR Hugging Face: MiniCPM-OCR 1.0：https://huggingface.co/openbmb/MiniCPM-OCR-1.0 MiniCPM-OCR Jev：https://huggingface.co/openbmb/MiniCPM-OCR-Jev
+
+![GitHub: https://github.com/OpenBMB/MiniCPM-OCR Hugging Face: MiniCPM-OCR 1.0：https://huggingface.co/openbmb/MiniCPM-OCR-1.0 MiniCPM-OCR Jev：https://huggingface.co/openbmb/MiniCPM-OCR-Jev](../../../../assets/images/2026/10/28/2115451835108802685-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2115451835108802685)
 
 ---
 

@@ -2,7 +2,32 @@
 
 ## 📅 October 28, 2026
 
-> 17 post(s) archived.
+> 21 post(s) archived.
+
+---
+
+### 🕐 14:30 UTC · @elonmusk
+
+> True FSD could literally free up OVER $1.5 trillion/yr... WHY isn&apos;t anyone talking about this?? If Lawmakers were serious about serving the people, they would start focusing on how to speed up FSD adoption. The Data: Fatal &amp; serious crashes cost the U.S. almost $2 trillion per year in…
+
+🔗 [View original post](https://x.com/elonmusk/status/2115451044423668045)
+
+---
+
+### 🕐 14:17 UTC · @elonmusk
+
+> At Tesla, we even care about the chipmunks 98-Year-Old Man Buys His First Self-Driving Tesla Model Y And Is Blown Away “I&apos;ve been driving it probably 2-3 months, and it&apos;s not made an error in its driving. In fact, the other day it stopped - a chipmunk was crossing the road, and there was no other traffic, and it did not r…
+
+🔗 [View original post](https://x.com/elonmusk/status/2115447957843821013)
+
+---
+
+### 🕐 11:48 UTC · @elonmusk
+
+
+![](../../../../assets/images/2026/10/28/2115410477971026426-1.jpg)
+
+🔗 [View original post](https://x.com/cb_doge/status/2115410477971026426)
 
 ---
 
@@ -131,6 +156,14 @@
 > What the Democrats are willing to do with power is terrifying. We saw it during Covid, when parents were investigated under the Patriot Act for showing up to schools board meetings and Catholics were spied upon for going to traditional Latin mass. If you bought a MAGA hat you went on a list. Now, Democrats are calling for Show Trials. When you go to the polls next week—remember Democrats want complete control with no room for dissent. Media
 
 🔗 [View original post](https://x.com/Eric_Schmitt/status/2115244242301792497)
+
+---
+
+### 🕐 00:45 UTC · @elonmusk
+
+> One of the victims of the Zizian trans death cult was their elderly landlord. They bashed him on the head and then attacked him with knives and a sword. With barely any strength left, he managed to shoot them, killing one. That deceased Zizian was honored in a U.S. Senate resolution about the &quot;epidemic of violence toward transgender people.&quot; It was introduced by Democratic U.S. Sen. Mazie Hirono and other Democrats. https://x.com/BrandonStraka/status/2115156576591925268/video/1
+
+🔗 [View original post](https://x.com/MrAndyNgo/status/2115243411506885114)
 
 ---
 

@@ -2,7 +2,23 @@
 
 ## 📅 October 28, 2026
 
-> 2 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 14:32 UTC · @dair_ai
+
+> Decision models can also improve your OCR pipelines. You can also use Jev-like models for verification. Here is a great example of this: MiniCPM-OCR from OpenBMB and ModelBest pairs a small open document parser with a second model that scores the reliability of the OCR output. The parser has only 1.3B parameters. It handles Chinese and English documents, including scans, photos, curved pages, and tilted inputs, and it supports key information extraction. The second model, MiniCPM-OCR Jev, checks extracted text, formulas, and tables. It also works on outputs from other OCR models, so you can run it on top of the parser you already use. More details below. Agents now read PDFs, invoices, and papers all day. One bad table extraction carries into every step that follows. A simple setup looks like this. &gt; Parse the document with MiniCPM-OCR &gt; Score the extracted text, formulas, and tables with Jev &gt; Send low-scoring output to a human or a correction step Jev estimates reliability. It doesn&apos;t fix errors itself. The weights are open, with a fine-tuning framework and inference support for llama.cpp, vLLM, SGLang, and Ollama. There are also Agent Skills integrations. If you build document agents, test the parser and Jev together on your hardest pages, like dense tables, formulas, and phone photos. Media
+
+🔗 [View original post](https://x.com/omarsar0/status/2115451743848759562)
+
+---
+
+### 🕐 14:24 UTC · @dair_ai
+
+> Recommended paper on episodic memory for multi-agent systems. Great paper from Amazon and colleagues on self-improving multi-agent systems. Episodic memory for agents is so underrated. But I am starting to see lots of good applications as frontier models improve. This paper is the latest example. They built a system that has three parts, al…
+
+🔗 [View original post](https://x.com/dair_ai/status/2115449730285089218)
 
 ---
 
