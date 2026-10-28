@@ -2,7 +2,23 @@
 
 ## 📅 October 28, 2026
 
-> 8 post(s) archived.
+> 10 post(s) archived.
+
+---
+
+### 🕐 07:33 UTC · @elonmusk
+
+> I saw the worst of you And I still chose you Media
+
+🔗 [View original post](https://x.com/elonmusk/status/2115346075666325755)
+
+---
+
+### 🕐 06:58 UTC · @elonmusk
+
+> Starlink When @Starlink became a lifeline for a mother and her baby in rural Colombia. Karina, 24, was facing a high-risk pregnancy after previously losing a baby. Reaching town from her remote community could take two days on horseback. A visiting doctor brought a portable Starlink termi…
+
+🔗 [View original post](https://x.com/elonmusk/status/2115337497760936079)
 
 ---
 
