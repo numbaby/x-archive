@@ -141596,5 +141596,25 @@
         "source_url": "https://pbs.twimg.com/media/HVqeA5ea4AA8z9Q.jpg?name=orig"
       }
     ]
+  },
+  "2115232581230760260": {
+    "account": "demishassabis",
+    "date": "2026-10-28",
+    "file": "data/posts/2026/10/2026-10-28.jsonl",
+    "fingerprint": "2a0a2cbd0c6b33e48d9c46ff4045128892ed3a093e4f6e06fe485a4f846722c8",
+    "media": [
+      {
+        "local_path": "assets/images/2026/10/28/2115232581230760260-1.jpg",
+        "sha256": "cc5f0bbf1bdb8dde378ce31f19230455c59fc9422e115373ba6a2be7dac032a7",
+        "source_url": "https://pbs.twimg.com/card_img/2115213551216525312/ypmctNn-?format=jpg&name=800x419"
+      }
+    ]
+  },
+  "2115233666481766571": {
+    "account": "omarsar0",
+    "date": "2026-10-28",
+    "file": "data/posts/2026/10/2026-10-28.jsonl",
+    "fingerprint": "49de337309472f98b6d377ab757844f49f4aea983dd0653dc0c1e107785f743e",
+    "media": []
   }
 }
