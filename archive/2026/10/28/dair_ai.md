@@ -2,7 +2,17 @@
 
 ## 📅 October 28, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 13:45 UTC · @dair_ai
+
+> Banger report from Google. They just released EmbeddingGemma 2, an open 744M multimodal embedding model. It beats specialist models and models 2 to 12 times larger across seven benchmark suites covering text, code, images, video, documents, and audio. Text, images, audio, video, and mixed inputs all go into one vector space. Each modality has its own encoder feeding into a shared backbone, so you can load only what you need. Text-only runs at 271M parameters, vision-language at 439M, and audio-language at 577M. It scores 61.36 on MTEB Multilingual v2 and 68.46 on MTEB English v2. The int4 version loses about 0.4 points on MTEB Multilingual. You can also lower the vision token budget and truncate the embedding dimensions. For agent memory and retrieval over mixed media, this small open model is a great on-device option. https://arxiv.org/abs/2610.37364 Chat with Paper: https://academy.dair.ai/papers/embeddinggemma-2-unified-and-efficient-multimodal-representations-2610.37364
+
+![Banger report from Google. They just released EmbeddingGemma 2, an open 744M multimodal embedding model. It beats specialist models and models 2 to 12 times larger across seven benchmark suites coveri](../../../../assets/images/2026/10/28/2115439702572716129-1.jpg)
+
+🔗 [View original post](https://x.com/dair_ai/status/2115439702572716129)
 
 ---
 

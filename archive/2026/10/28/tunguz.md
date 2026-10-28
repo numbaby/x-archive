@@ -2,7 +2,15 @@
 
 ## 📅 October 28, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 13:06 UTC · @tunguz
+
+> Inat is all you need.
+
+🔗 [View original post](https://x.com/tunguz/status/2115430061411344689)
 
 ---
 
