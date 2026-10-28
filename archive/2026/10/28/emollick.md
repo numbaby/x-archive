@@ -2,7 +2,17 @@
 
 ## 📅 October 28, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 12:25 UTC · @emollick
+
+> There has been a bunch of really interesting experiments with activating individual neurons in open AI models, locking them into particular personas. Here historian @ResObscura tries the same trick with a model trained only on data before 1930, and the results are delightful. Inspired by @Sauers_ and @jfonsecarivera and other fun recent work with personas in AI models, I built a partial neuron atlas for Talkie-1930, the historical language model created by @status_effects and @AlecRad. Here&apos;s the link: https://talkieneurons.vercel.app
+
+![There has been a bunch of really interesting experiments with activating individual neurons in open AI models, locking them into particular personas. Here historian @ResObscura tries the same trick wi](../../../../assets/images/2026/10/28/2115419671877062710-1.jpg)
+
+🔗 [View original post](https://x.com/emollick/status/2115419671877062710)
 
 ---
 
