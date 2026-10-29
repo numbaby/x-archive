@@ -142213,6 +142213,13 @@
       }
     ]
   },
+  "2115720560994836862": {
+    "account": "elonmusk",
+    "date": "2026-10-29",
+    "file": "data/posts/2026/10/2026-10-29.jsonl",
+    "fingerprint": "38b2625d5f23a83f03f795b0a184c3024fd83f8444ca3cc61271683d05f52d32",
+    "media": []
+  },
   "2115724348329697295": {
     "account": "tunguz",
     "date": "2026-10-29",
@@ -142239,6 +142246,20 @@
     "date": "2026-10-29",
     "file": "data/posts/2026/10/2026-10-29.jsonl",
     "fingerprint": "3da6435aca05d6309181dcd3402a30f583ce7f13c00b7d0abb5f163ed57e8a49",
+    "media": []
+  },
+  "2115791684131033488": {
+    "account": "AiEvolutio58513",
+    "date": "2026-10-29",
+    "file": "data/posts/2026/10/2026-10-29.jsonl",
+    "fingerprint": "2ba4b102c392a133622c9eb91aed191f23742e7f979efab5970e8e678edd67d0",
+    "media": []
+  },
+  "2115804938031010057": {
+    "account": "AiEvolutio58513",
+    "date": "2026-10-29",
+    "file": "data/posts/2026/10/2026-10-29.jsonl",
+    "fingerprint": "2029ba5153266939c84c929e7784c328bea49962b7c9c1c52742d7f8e266ec6f",
     "media": []
   }
 }

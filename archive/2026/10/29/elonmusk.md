@@ -2,7 +2,15 @@
 
 ## 📅 October 29, 2026
 
-> 14 post(s) archived.
+> 15 post(s) archived.
+
+---
+
+### 🕐 08:21 UTC · @elonmusk
+
+> Very positive and constructive conversation with @elonmusk today. Italy is looking with great interest at the opportunities offered by assisted driving technologies, with a focus on innovation and road safety, and supports a swift EU approval of Tesla Assisted Driving. Thanks for the exchange, Elon!
+
+🔗 [View original post](https://x.com/matteosalvinimi/status/2115720560994836862)
 
 ---
 
