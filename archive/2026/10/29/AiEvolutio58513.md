@@ -2,7 +2,17 @@
 
 ## 📅 October 29, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 15:39 UTC · @AiEvolutio58513
+
+> A shopper can close your pop-up and still be interested in buying. They might want to: - Read reviews. - Compare products. - Check sizing. Once they’ve had time to look around, they may be more open to signing up. That’s where @AliaPopups Smart Triggering comes in. It looks at how people browse your site to decide who should see your popup again and when to show it during the same visit. The message, design, and offer stay the same. Alia adjusts the timing. Alia’s Smart Triggering can capture up to 40% more signups. And with BFCM around the corner, those extra signups matter. The more shoppers you capture now, the more time you have to build relationships with them before your promotions go live. You can introduce them to your products, learn what they&apos;re interested in, and bring them back when it&apos;s time to buy. That&apos;s especially valuable during BFCM, when ad costs rise, and competition for shoppers gets tougher. Reaching people already on your email and SMS lists is more cost-effective than paying to acquire that traffic again. So if you haven&apos;t looked at your onsite acquisition strategy ahead of BFCM, now&apos;s the time. Every visitor who leaves without signing up is a missed opportunity to grow your owned audience. My link gets you a special 30-day free trial of Alia so you can try Smart Triggering before BFCM: https://hubs.la/Q04y08-G0
+
+![A shopper can close your pop-up and still be interested in buying. They might want to: - Read reviews. - Compare products. - Check sizing. Once they’ve had time to look around, they may be more open t](../../../../assets/images/2026/10/29/2115830990983897150-1.jpg)
+
+🔗 [View original post](https://x.com/ecomchasedimond/status/2115830990983897150)
 
 ---
 

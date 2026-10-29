@@ -2,7 +2,17 @@
 
 ## 📅 October 29, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 11:56 UTC · @swyx
+
+> we sat down with @swyx to discuss how the agentic database space evolving also covered: ◆ developer marketing &amp; memes ◆ product-led sales ◆ why we acquired Turso ◆ early days and Hacker News watch the full interview on @latentspacepod : https://www.youtube.com/watch?v=zHG6sAss_kE
+
+![we sat down with @swyx to discuss how the agentic database space evolving also covered: ◆ developer marketing &amp; memes ◆ product-led sales ◆ why we acquired Turso ◆ early days and Hacker News watch](../../../../assets/images/2026/10/29/2115774790682448310-1.jpg)
+
+🔗 [View original post](https://x.com/kiwicopple/status/2115774790682448310)
 
 ---
 

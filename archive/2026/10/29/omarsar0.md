@@ -2,7 +2,23 @@
 
 ## 📅 October 29, 2026
 
-> 2 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 16:31 UTC · @omarsar0
+
+> Keeping coding agents aligned gets harder as you scale them. They drift rapidly. Throwing more intelligence at it won&apos;t solve anything either. Really like the direction @serroai is taking here. It captures plan changes, checks with the responsible person, and updates the relevant agents. As we delegate more work, keeping everyone and agents efficiently coordinating becomes a much bigger engineering problem. Your coding agents are fast now. The problem? They can move just as fast in the wrong direction. Miss one update, and they can spend days building the wrong thing - costing you tokens and engineering time. That&apos;s why devs are still glued to their monitors. Meet Serro: the Agenti…
+
+🔗 [View original post](https://x.com/omarsar0/status/2115843888212590999)
+
+---
+
+### 🕐 15:57 UTC · @omarsar0
+
+> We need to rethink agent infrastructure. Companies are quickly moving from chatbots to autonomous agents that do real work across their systems. The infrastructure under those agents hasn&apos;t caught up. @mintive is building that layer, focusing on governance, efficiency, and security. Agents get their own identities and permissions, traces are logged properly, and teams get token budgets to set clear limits. Every AI agent at work runs with the access of whoever set it up. That’s why security keeps saying no. Today we’re launching @mintive: every agent gets its own identity and permissions, the same way every employee does. We’ve raised $11M, with @cowboyvc leading our latest round.
+
+🔗 [View original post](https://x.com/omarsar0/status/2115835388975554671)
 
 ---
 

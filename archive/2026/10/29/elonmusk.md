@@ -2,7 +2,23 @@
 
 ## 📅 October 29, 2026
 
-> 24 post(s) archived.
+> 26 post(s) archived.
+
+---
+
+### 🕐 15:19 UTC · @elonmusk
+
+> Our civilization would be winning wondrously if we are exploring the galaxy with Von Neumann probes by 2100! Larry Page might be right. He has correctly predicted many things. Microsoft&apos;s Mustafa Suleyman reveals Larry Page told him at SpaceX that by the end of the century he’d be exploring the galaxies at the head of a von Neumann probe “Yeah, I remember in 2015 being in the canteen at SpaceX.” “And we had our first meeting of the Ethics and Safety B…
+
+🔗 [View original post](https://x.com/elonmusk/status/2115825787647496203)
+
+---
+
+### 🕐 15:08 UTC · @elonmusk
+
+> Interesting I am excited to be an investor in trade(xyz) as they partner with ICE to bring 24/7 perpetual futures on Hyperliquid to the United States. As a market participant, I am looking forward to to using their innovative product to enhance my investment process.
+
+🔗 [View original post](https://x.com/elonmusk/status/2115823011399938182)
 
 ---
 
