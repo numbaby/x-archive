@@ -2,7 +2,39 @@
 
 ## 📅 October 29, 2026
 
-> 12 post(s) archived.
+> 16 post(s) archived.
+
+---
+
+### 🕐 18:18 UTC · @tunguz
+
+> Or - hear me out - it could turbocharge all of those! Just imagine the kinds of superconspiracy theories that a superintelligent entity could come up with! AI could push back against public irrationality like conspiracy theories, fake news, &amp; medical quackery. Whereas social media optimize for sheer engagement (clicks, likes, &amp; reposts), AI is sold as a useful product that aids decision-making in the real world. For all the problem…
+
+🔗 [View original post](https://x.com/tunguz/status/2115870923341643836)
+
+---
+
+### 🕐 18:06 UTC · @tunguz
+
+> I have not been this busy in years, and the worst/best thing is that I don&apos;t see any respite in site. It&apos;s both exciting and overwhelming.
+
+🔗 [View original post](https://x.com/tunguz/status/2115867931074576642)
+
+---
+
+### 🕐 17:53 UTC · @tunguz
+
+> I actually think they were planning on releasing the next big model much sooner than they are doing it and were planning lower usage all along in order to keep cost under control, but then something (a lot of things) happened, so they pushed the next release back a while, hence all the resets and now this. I swear they planned this from the beginning using an unreleased model, because this is next-level slick-willie reverse-uno-card customer relations and mind tricks. Like, utterly diabolical. And I love it.
+
+🔗 [View original post](https://x.com/tunguz/status/2115864729734316352)
+
+---
+
+### 🕐 17:50 UTC · @tunguz
+
+> You are rate limited. I am retard limited. We are not the same.
+
+🔗 [View original post](https://x.com/tunguz/status/2115863809067720842)
 
 ---
 

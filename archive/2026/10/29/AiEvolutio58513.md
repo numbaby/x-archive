@@ -2,7 +2,23 @@
 
 ## 📅 October 29, 2026
 
-> 3 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 17:20 UTC · @AiEvolutio58513
+
+> https://x.com/i/article/2115836242516692992
+
+🔗 [View original post](https://x.com/aaronjcort/status/2115856194095255991)
+
+---
+
+### 🕐 15:51 UTC · @AiEvolutio58513
+
+> @supabase never marketed to agents. It built for great engineers, and agents wanted the same things. Opening keynote at Un_prompted: @AntWilson with @Michael_Robinsn on the stopwatch test and the day Lovable looked like a DDoS attack. Full recap with takeaways: https://www.craftventures.com/articles/agents-follow-your-best-builders-ant-wilson-and-michael-robinson-on-how-supabase-is-winning-the-agent-era Media
+
+🔗 [View original post](https://x.com/unpromptedcraft/status/2115833945015349511)
 
 ---
 

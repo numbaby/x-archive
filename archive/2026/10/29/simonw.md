@@ -2,7 +2,17 @@
 
 ## 📅 October 29, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 17:29 UTC · @simonw
+
+> Wrote some more notes on this on my blog https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/
+
+![Wrote some more notes on this on my blog https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/](../../../../assets/images/2026/10/29/2115858560823538152-1.jpg)
+
+🔗 [View original post](https://x.com/simonw/status/2115858560823538152)
 
 ---
 

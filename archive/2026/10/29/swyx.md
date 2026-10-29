@@ -2,7 +2,15 @@
 
 ## 📅 October 29, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 17:29 UTC · @swyx
+
+> fuck my actual life https://x.com/himanshustwts/status/2115711258196574210 anthropic is generational wealth creation machine and its more interesting even 2026 joiners are getting 8-digit payouts
+
+🔗 [View original post](https://x.com/swyx/status/2115858499238498456)
 
 ---
 

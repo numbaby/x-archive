@@ -2,7 +2,15 @@
 
 ## 📅 October 29, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 18:25 UTC · @omarsar0
+
+> Nice to see conversation data that isn&apos;t decades-old telephone audio. Conversation is mostly timing. This is the first dataset release I&apos;ve seen that&apos;s really built around that. The &apos;this is only the start&apos; part of the thread on @voicearena_ai&apos;s Joy caught my eye. 10x and 100x of this would be a lot. Really good work from this team. Drop 1/15: Introducing Joy, a dual-channel conversational dataset. Real, unscripted conversations between two people, each on their own track. Built to teach voice models how people actually talk: when to listen, when to jump in, when to say “hmm”. 100,000 hours. 50,000 speakers…
+
+🔗 [View original post](https://x.com/omarsar0/status/2115872561116688459)
 
 ---
 
