@@ -2,7 +2,15 @@
 
 ## 📅 October 29, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 14:32 UTC · @omarsar0
+
+> Bullish on specialized agents. Frontier intelligence will further accelerate this. Check out this Snaptrude Agent for building design as an example. It takes a brief and builds a detailed building model. It then adds the structure, plumbing, and wiring, and drafts the drawings builders work from. Today we&apos;re launching @snaptrude Agent, the most advanced agent for building design. It does real design work with you, from a site to a construction-ready LOD 400 model with structure, MEP and drawings. Then can go back to your existing software with your families intact. About…
+
+🔗 [View original post](https://x.com/omarsar0/status/2115813923664371782)
 
 ---
 

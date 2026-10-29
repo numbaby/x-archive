@@ -2,7 +2,47 @@
 
 ## 📅 October 29, 2026
 
-> 5 post(s) archived.
+> 10 post(s) archived.
+
+---
+
+### 🕐 14:45 UTC · @tunguz
+
+> And here we are, just sitting around waiting for crumbs from the tables of giants.
+
+🔗 [View original post](https://x.com/tunguz/status/2115817418178351508)
+
+---
+
+### 🕐 14:44 UTC · @tunguz
+
+> RSI achieved internally.
+
+🔗 [View original post](https://x.com/tunguz/status/2115816948433146230)
+
+---
+
+### 🕐 14:23 UTC · @tunguz
+
+> Reciprocity is a two-way street.
+
+🔗 [View original post](https://x.com/tunguz/status/2115811734900678806)
+
+---
+
+### 🕐 13:39 UTC · @tunguz
+
+> Every day on this app. Prepare for something retarded!
+
+🔗 [View original post](https://x.com/tunguz/status/2115800714282959339)
+
+---
+
+### 🕐 13:03 UTC · @tunguz
+
+> Become one with your agents.
+
+🔗 [View original post](https://x.com/tunguz/status/2115791535627244013)
 
 ---
 

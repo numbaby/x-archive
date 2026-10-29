@@ -2,7 +2,69 @@
 
 ## 📅 October 29, 2026
 
-> 15 post(s) archived.
+> 24 post(s) archived.
+
+---
+
+### 🕐 14:13 UTC · @elonmusk
+
+> After SpaceX&apos;s very first Falcon 1 rocket failed in March 2006, the team was exhausted and heartbroken. Elon Musk instead of only pushing harder, spent more than $100,000 to book a private Zero-G flight, so his engineers could finally float weightless and get a real taste of the spaceflight they were working so hard to make possible. Many of them had joined SpaceX dreaming of becoming astronauts one day, and I love that in one of the hardest moments for the young company, Elon reminded them why they had started in the first place. Elon understood that people building the future also need to feel it, even if only for a few seconds at a time.
+
+![After SpaceX&apos;s very first Falcon 1 rocket failed in March 2006, the team was exhausted and heartbroken. Elon Musk instead of only pushing harder, spent more than $100,000 to book a private Zero-G](../../../../assets/images/2026/10/29/2115809135652401343-1.jpg)
+
+🔗 [View original post](https://x.com/EvaFox/status/2115809135652401343)
+
+---
+
+### 🕐 13:46 UTC · @elonmusk
+
+> BREAKING: Medan City Government in Indonesia has announced plans to use @Starlink for flood emergencies. 🇮🇩 The move follows floods that affected 85,000 people and disrupted communications. Starlink can help keep rescue teams connected when lives are at risk. Media
+
+🔗 [View original post](https://x.com/cb_doge/status/2115802530898907234)
+
+---
+
+### 🕐 13:35 UTC · @elonmusk
+
+> NEW UNDERCOVER INVESTIGATION: I spent several months investigating a nationwide network of advocacy organizations and medical providers helping families continue medically transitioning their children in defiance of state laws. My investigation centers on Campaign for Southern Equality (CSE), an LGBT advocacy nonprofit that connects families with cooperating medical providers across the country. CSE has distributed over $1 million in travel grants to more than 1,200 families, plus another $1 million to partner organizations, including funding for medical appointments. With CSE&apos;s knowledge, providers in its referral network told me the ways that they circumvent state restrictions on gender-transition treatments for minors. Some discussed using alternative diagnosis codes, such as “endocrine disorder,” to facilitate prescriptions or insurance coverage. Others described mailing medications directly to families&apos; homes or sending prescriptions to pharmacies in states where these interventions are banned. Providers also discussed conducting virtual appointments with patients in those states. Others required patients to cross state lines for telehealth but did not appear to have a reliable method for verifying their physical location. My primary undercover scenario involved an 11-year-old girl in Tennessee who had only recently begun identifying as nonbinary, with no long history of gender-related distress. The providers I shared this scenario with seemed eager to treat her. Many indicated that puberty blockers could be prescribed after an initial evaluation lasting just one to several hours. My investigation uncovered practices that may violate state and federal laws and pose medical risks to children living hundreds or thousands of miles from their treating physicians. Read my full @CityJournal investigation: https://www.city-journal.org/article/pediatric-gender-transition-treatments-bans
+
+![NEW UNDERCOVER INVESTIGATION: I spent several months investigating a nationwide network of advocacy organizations and medical providers helping families continue medically transitioning their children](../../../../assets/images/2026/10/29/2115799582445605190-1.jpg)
+
+🔗 [View original post](https://x.com/buttonslives/status/2115799582445605190)
+
+---
+
+### 🕐 12:01 UTC · @elonmusk
+
+> Elon Musk: &quot;The fundamental weakness of Western civilization is empathy… We&apos;ve got civilizational su*cidal empathy going on.&quot; &quot;I believe in empathy… but you need to have empathy for civilization as a whole, and not commit to a civilizational su*cide.&quot; Media
+
+🔗 [View original post](https://x.com/ResisttheMS/status/2115775907952517190)
+
+---
+
+### 🕐 11:42 UTC · @elonmusk
+
+> How can @MIT and President Kornbluth sit back and allow Kristin Knouse to remain on the MIT faculty when she has been found by a jury of her peers to have falsely accused him of rape, and intentionally destroyed his life and career with the help of co-conspirators in the MIT administration? How does this not violate MIT’s code of conduct? How can one continue to trust the research she produces? Why has MIT not immediately launched a formal investigation to reconsider the removal of @DMSabatini’s tenure and Knouse’s continued inclusion on the faculty? The evidence from the case is now in the public record. It is a straightforward process for MIT to review the facts. Justice must be served. Female MIT scientist climbed into famed professor&apos;s bed and &apos;aggressively&apos; demanded sex... before making #MeToo allegation that almost ruined him after he dumped her https://www.dailymail.com/news/article-16245499/david-sabatini-kristin-knouse-mit-metoo.html
+
+🔗 [View original post](https://x.com/BillAckman/status/2115771252539261083)
+
+---
+
+### 🕐 10:33 UTC · @elonmusk
+
+> Elon Musk presenting about SpaceX rockets in 2008. No slides. No notes. No PowerPoint. No teleprompter. Just his vision, his memory, the message he wants to convey, and his brain operating in its rawest form. And nearly two decades later, he still does the same way Media
+
+🔗 [View original post](https://x.com/iam_smx/status/2115753906366300532)
+
+---
+
+### 🕐 08:35 UTC · @elonmusk
+
+> As of October 26, Grok Bot has grown in DAUs for 16 consecutive days, its longest growth streak to date.
+
+![As of October 26, Grok Bot has grown in DAUs for 16 consecutive days, its longest growth streak to date.](../../../../assets/images/2026/10/29/2115724259691471150-1.png)
+
+🔗 [View original post](https://x.com/Similarweb/status/2115724259691471150)
 
 ---
 
@@ -11,6 +73,16 @@
 > Very positive and constructive conversation with @elonmusk today. Italy is looking with great interest at the opportunities offered by assisted driving technologies, with a focus on innovation and road safety, and supports a swift EU approval of Tesla Assisted Driving. Thanks for the exchange, Elon!
 
 🔗 [View original post](https://x.com/matteosalvinimi/status/2115720560994836862)
+
+---
+
+### 🕐 06:08 UTC · @elonmusk
+
+> @elonmusk @m_goes_distance True 😂
+
+![@elonmusk @m_goes_distance True 😂](../../../../assets/images/2026/10/29/2115687168697880921-1.jpg)
+
+🔗 [View original post](https://x.com/AdamLowisz/status/2115687168697880921)
 
 ---
 
@@ -101,6 +173,16 @@
 > True Notice how the headlines work. A Toyota crashes: &quot;Driver injured in crash.&quot; A Ford crashes: &quot;Two cars collide on highway.&quot; A BMW crashes: &quot;Accident on Route 1.&quot; A Tesla crashes: &quot;TESLA crashes.&quot; Not the driver. Not &quot;a car.&quot; The brand, in the headline, every single time. Millions…
 
 🔗 [View original post](https://x.com/elonmusk/status/2115624652454154559)
+
+---
+
+### 🕐 01:55 UTC · @elonmusk
+
+> This is so incredibly lame. And every Princeton freshman was required to sit through this during orientation.
+
+![This is so incredibly lame. And every Princeton freshman was required to sit through this during orientation.](../../../../assets/images/2026/10/29/2115623405223628929-1.jpg)
+
+🔗 [View original post](https://x.com/sfmcguire79/status/2115623405223628929)
 
 ---
 
