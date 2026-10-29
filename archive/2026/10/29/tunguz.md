@@ -2,7 +2,31 @@
 
 ## 📅 October 29, 2026
 
-> 2 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 11:36 UTC · @tunguz
+
+> If we ever get it. Fable 5.5 is going to set the new industry standard.
+
+🔗 [View original post](https://x.com/tunguz/status/2115769749330354433)
+
+---
+
+### 🕐 11:36 UTC · @tunguz
+
+> There is a happy medium where you could have been just technical enough to be able to maximally benefit from the current AI explosion, without having wasted too much time and energy on becoming over invested in skills with limited shelf life. very weird thing happening rn technical people are sad, they think their skills are now useless non-technical people are desperately wishing they were more technical so they could use agents better
+
+🔗 [View original post](https://x.com/tunguz/status/2115769619696824809)
+
+---
+
+### 🕐 11:32 UTC · @tunguz
+
+> I guess no big model launches in October after all. 😕 Anthropics Fable 5.5 has 2 release dates, it’s either coming November 3rd of November 10th. I would learn more towards november 10th. Reuters reported Anthropic investor marketing during the week of November 9
+
+🔗 [View original post](https://x.com/tunguz/status/2115768640754594227)
 
 ---
 
