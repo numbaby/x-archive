@@ -2,7 +2,15 @@
 
 ## 📅 October 30, 2026
 
-> 6 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 20:50 UTC · @omarsar0
+
+> The thing is, the models are so good and aware of harnesses (at least at a high level) that you can build a good minimal one in a couple of hours. While they are aware, they are not great at the customization you need in a harness. That requires your input and maintenance efforts.
+
+🔗 [View original post](https://x.com/omarsar0/status/2116271459878224369)
 
 ---
 

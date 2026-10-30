@@ -2,7 +2,15 @@
 
 ## 📅 October 30, 2026
 
-> 7 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 20:37 UTC · @dair_ai
+
+> Build your own harness, folks! Stop complaining about companies modifying harnesses however they want. It&apos;s theirs, not yours! Instead, build your own. This isn&apos;t just about implementation disagreements; as models get more capable, the harness will keep adding constraints (some so subtle that not even the brightest will catch them). I hate that idea. It&apos;s a terrible position for a user. I prefer building my own and controlling what I can unlock with it and the models that power it. Guardrails, capabilities, behaviors, efficiencies, patches, and constraints are not things you want to offload and wait for others to build for you. They&apos;re integral to how you produce value with agent harnesses. As long as models need harnesses, you need full control over them. That&apos;s why many full-stack AI companies are developing their own harnesses. Another reason why you wanna use your own harness and not one where companies change what you can or can’t do at will.
+
+🔗 [View original post](https://x.com/omarsar0/status/2116268301013717291)
 
 ---
 

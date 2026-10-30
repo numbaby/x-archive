@@ -2,7 +2,129 @@
 
 ## 📅 October 30, 2026
 
-> 73 post(s) archived.
+> 90 post(s) archived.
+
+---
+
+### 🕐 23:09 UTC · @elonmusk
+
+> Cool grok bot can now see what&apos;s on your phone and answer anything about it just hold the action button and ask what you need: &gt; ask anything about the video you&apos;re watching &gt; tell it to build what you saw in a reel for your business &gt; ask it to break down the article you&apos;re reading …
+
+🔗 [View original post](https://x.com/elonmusk/status/2116306579779731464)
+
+---
+
+### 🕐 23:06 UTC · @elonmusk
+
+> Think of Grok @Bot as a work colleague Something I&apos;ve noticed that makes working with grok bot more delightful: it actually feels like you&apos;re talking to a coworker. Shorter sentences, less BS and fluff.
+
+🔗 [View original post](https://x.com/elonmusk/status/2116305829381263528)
+
+---
+
+### 🕐 22:29 UTC · @elonmusk
+
+> Eli Lilly has some banger drugs coming out! I’ll take that bet.
+
+🔗 [View original post](https://x.com/elonmusk/status/2116296438942765394)
+
+---
+
+### 🕐 22:27 UTC · @elonmusk
+
+> Yes People ought to think more about who wrote the software that&apos;s running in their head (sigh). It probably wasn&apos;t them -- Elon Musk
+
+🔗 [View original post](https://x.com/elonmusk/status/2116296050168508726)
+
+---
+
+### 🕐 22:11 UTC · @elonmusk
+
+> Cool ❤️ Robert and I are thrilled that our gift of over 2 million shares of SpaceX stock will be distributed to children’s Trump accounts in December! Our initial gift (shares transferring to escrow as we speak) will go to 11 to 17-year-olds who live in zip codes with median family
+
+🔗 [View original post](https://x.com/elonmusk/status/2116291813732495578)
+
+---
+
+### 🕐 22:09 UTC · @elonmusk
+
+> True BREAKING: Cathie Wood says SpaceX is severely undervalued. SpaceX brings together AI, robotics and energy storage. But traditional space, cloud and AI analysts work separately, making it harder to understand how these technologies strengthen one another. Wood says firms are now …
+
+🔗 [View original post](https://x.com/elonmusk/status/2116291315432587740)
+
+---
+
+### 🕐 22:03 UTC · @elonmusk
+
+> You can now find out if any reach limitations have been applied to your account Under the Hood now shows you which posts received a visibility-limiting label, making it easier to see what’s affected: https://x.com/i/jf/under_the_hood This was a top request — thanks for the feedback. You’ll see the specific posts listed when fewer than 5% of your posts durin…
+
+🔗 [View original post](https://x.com/elonmusk/status/2116289989914787912)
+
+---
+
+### 🕐 21:55 UTC · @elonmusk
+
+> Even F1 champions love Tesla self-driving Even the world&apos;s best drivers like being driven
+
+🔗 [View original post](https://x.com/elonmusk/status/2116287873918140737)
+
+---
+
+### 🕐 21:36 UTC · @elonmusk
+
+> PS - we’re hiring exceptional people if you want to come join the SpaceXSI rocket ship https://x.com/i/article/2115892265050882048
+
+🔗 [View original post](https://x.com/forwarddeploy/status/2116283109478137946)
+
+---
+
+### 🕐 21:04 UTC · @elonmusk
+
+> ngl i still think about this BREAKING: Google just proved AI data centers in space actually work Project Suncatcher&apos;s first satellite, built with @planet and launched on a SpaceX rocket with 4 TPUs on board, verified the physics: Google sent a prompt from Earth, a TPU in orbit ran Gemma inference, and the f…
+
+![ngl i still think about this BREAKING: Google just proved AI data centers in space actually work Project Suncatcher&apos;s first satellite, built with @planet and launched on a SpaceX rocket with 4 TP](../../../../assets/images/2026/10/30/2116275089931170257-1.jpg)
+
+🔗 [View original post](https://x.com/distributedkv/status/2116275089931170257)
+
+---
+
+### 🕐 20:43 UTC · @elonmusk
+
+> If you have a Tesla and haven&apos;t tried FSD in the last year, you need to try it again. Free month trial with this link. (i don&apos;t care about the referal credit, I&apos;m posting this as a PSA because FSD is so awesome. ) https://tesla.com/get-app/referral?code=julia56863
+
+🔗 [View original post](https://x.com/jhong/status/2116269882530750938)
+
+---
+
+### 🕐 20:17 UTC · @elonmusk
+
+> My favorite things about this: - You can see which of your posts have a visibility-limiting label, and decide if you think it&apos;s fair - You can even see if a legal (eg government) demand is limiting one of your posts, and in which country!! Continuing to deliver unprecedented transparency to the people 💪 Under the Hood now shows you which posts received a visibility-limiting label, making it easier to see what’s affected: https://x.com/i/jf/under_the_hood This was a top request — thanks for the feedback. You’ll see the specific posts listed when fewer than 5% of your posts durin…
+
+🔗 [View original post](https://x.com/kcoleman/status/2116263135484989645)
+
+---
+
+### 🕐 19:56 UTC · @elonmusk
+
+> Western civilization is going backwards. Canada is just one example. The bigger question is why. The American midterms are less than a week away. Go vote and help save your country. Broken Country is a documentary no one wants you to see. Watch it. Think for yourself. Watch here : https://brokencountry.com Media
+
+🔗 [View original post](https://x.com/UpdatingOnRome/status/2116257900075360385)
+
+---
+
+### 🕐 19:31 UTC · @elonmusk
+
+> If you’re a Texan who doesn’t vote for Paxton because your “conscience won’t allow it,” think about the fact that Talarico will ok mutilating children &amp; the killing of babies in the womb. So put your brain on, and vote for the guy who doesn’t attack your kids. New - Senate and Governor poll - Texas 🔴 Ken Paxton 49% 🔵 James Talarico 48% Governor 🔴 Greg Abbott 52% 🔵 Gina Hinojosa 46% Quantus Insights - LV - 10/28
+
+🔗 [View original post](https://x.com/heckyessica/status/2116251629372747982)
+
+---
+
+### 🕐 19:13 UTC · @elonmusk
+
+> BREAKING: Google just proved AI data centers in space actually work Project Suncatcher&apos;s first satellite, built with @planet and launched on a SpaceX rocket with 4 TPUs on board, verified the physics: Google sent a prompt from Earth, a TPU in orbit ran Gemma inference, and the full answer was beamed back down. SpaceX is launching its StarMind satellites with NVIDIA GPUs on Starship in late 2027. Kardashev Type II civilization INCOMING Media
+
+🔗 [View original post](https://x.com/ns123abc/status/2116247027335966934)
 
 ---
 
@@ -30,6 +152,14 @@
 
 ---
 
+### 🕐 17:23 UTC · @elonmusk
+
+> Our TPUs just phoned home... from space. ICYMI, on October 1, we sent four TPUs into orbit to test whether our AI hardware could operate in space. The initial goal was to see if our chips could turn on, process a prompt, and transmit a response back to Earth. This week, we got our answer. ✨ This milestone brings us one step closer to understanding if space-based compute is possible. We’re sending two more TPU-equipped satellites to orbit in 2027 for our next milestone. Watch this space 👀 and learn more about the first milestone of our long-term moonshot with Project Suncatcher ↓ Media
+
+🔗 [View original post](https://x.com/NewsFromGoogle/status/2116219345215074538)
+
+---
+
 ### 🕐 17:19 UTC · @elonmusk
 
 > The Democrat Party is racist against Asians and Whites When Virginia schools were 50% Asian, the state said they were “overrepresented,” not diverse enough, and needed to be “rebalanced” for equity. Now the governor is saying that a cabinet that is 75% black is “the most diverse”. The double standard is exhausting.
@@ -43,6 +173,16 @@
 > Cool A ‘hello world’ milestone for Project Suncatcher 🚀 After launching our prototype satellite a few weeks ago, we’ve now successfully sent a command up to orbit, booted up the TPU, ran the prompt, and received our first complete response back on earth - a haiku!
 
 🔗 [View original post](https://x.com/elonmusk/status/2116215659214561518)
+
+---
+
+### 🕐 17:00 UTC · @elonmusk
+
+> A new poll has found that Republican Ken Paxton has moved past Democrat James Talarico as the race for U.S. Senate enters its final days. https://www.fox7austin.com/news/paxton-slips-past-talarico-latest-poll-senate-race-enters-final-days?taid=6ae4cd1a25edfb00016e5316&amp;utm_campaign=trueanthem&amp;utm_medium=trueanthem&amp;utm_source=twitter
+
+![A new poll has found that Republican Ken Paxton has moved past Democrat James Talarico as the race for U.S. Senate enters its final days. https://www.fox7austin.com/news/paxton-slips-past-talarico-lat](../../../../assets/images/2026/10/30/2116213584132792721-1.jpg)
+
+🔗 [View original post](https://x.com/fox7austin/status/2116213584132792721)
 
 ---
 

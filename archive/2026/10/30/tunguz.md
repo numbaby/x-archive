@@ -2,7 +2,39 @@
 
 ## 📅 October 30, 2026
 
-> 18 post(s) archived.
+> 22 post(s) archived.
+
+---
+
+### 🕐 23:25 UTC · @tunguz
+
+> Made with ChatGPT 6.7. There are many futures. Which do you want to build?
+
+🔗 [View original post](https://x.com/tunguz/status/2116310669863813205)
+
+---
+
+### 🕐 22:37 UTC · @tunguz
+
+> You are dating AI models. I am training AI models. We are not the same. Today we’re launching the first AI modeling agency 💅 right inside Glif. Cast hundreds of real AI models, drop your product, idea or brief and let Glif create super compelling content for you end to end. If you still think AI models aren’t ready for real work, watch this 👇
+
+🔗 [View original post](https://x.com/tunguz/status/2116298464036327851)
+
+---
+
+### 🕐 20:50 UTC · @tunguz
+
+> I really really hope so. There’s a really really good chance OpenAI is releasing a super powerful model next week.
+
+🔗 [View original post](https://x.com/tunguz/status/2116271666246332741)
+
+---
+
+### 🕐 20:50 UTC · @tunguz
+
+> Cartel boss calls local meth labs inefficient. BREAKING: OpenAI CEO Sam Altman says having RAM in personal computers is an inefficient use of the world’s limited DRAM supply, arguing it would be better allocated to data centers, per Tom’s Hardware
+
+🔗 [View original post](https://x.com/tunguz/status/2116271596897714601)
 
 ---
 

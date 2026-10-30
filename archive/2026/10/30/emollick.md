@@ -2,7 +2,15 @@
 
 ## 📅 October 30, 2026
 
-> 10 post(s) archived.
+> 11 post(s) archived.
+
+---
+
+### 🕐 21:35 UTC · @emollick
+
+> OpenAI kills a lot of its products Sora lasted 6 months, Agent Builder 8 months, Group Chat 8 months, Atlas 9 months... Most of the time (Sora excepted?) their own product became obsolete within months, in case you think they are immune to misjudging the exponential themselves as predicted
+
+🔗 [View original post](https://x.com/emollick/status/2116282885112205365)
 
 ---
 
