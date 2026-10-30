@@ -2,7 +2,17 @@
 
 ## 📅 October 30, 2026
 
-> 6 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 19:23 UTC · @_akhaliq
+
+> Check out @_akhaliq Turbo LoRAs: 2-step drafts, 4-step generation, and 8-step HD variants for ComfyUI + Diffusers ⚡ Love seeing what’s possible with Pika H3 Flex 🩵 https://huggingface.co/akhaliq/Pika-H3-Flex-Turbo-LoRA
+
+![Check out @_akhaliq Turbo LoRAs: 2-step drafts, 4-step generation, and 8-step HD variants for ComfyUI + Diffusers ⚡ Love seeing what’s possible with Pika H3 Flex 🩵 https://huggingface.co/akhaliq/Pika-](../../../../assets/images/2026/10/30/2116249727557939596-1.jpg)
+
+🔗 [View original post](https://x.com/chenlin_meng/status/2116249727557939596)
 
 ---
 
