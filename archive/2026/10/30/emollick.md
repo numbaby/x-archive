@@ -2,7 +2,25 @@
 
 ## 📅 October 30, 2026
 
-> 7 post(s) archived.
+> 9 post(s) archived.
+
+---
+
+### 🕐 15:38 UTC · @emollick
+
+> Good point from the very human Simon https://x.com/simonw/status/2116037687912357965?a=SY-ZesXraUVtjTqrQZk&amp;s=20 @vishal8shah @emollick A &quot;good&quot; comment with AI is still a bad comment, because any time I spend thinking about and replying to it is wasted when there isn&apos;t another human at the other end of that effort
+
+🔗 [View original post](https://x.com/emollick/status/2116193007741616556)
+
+---
+
+### 🕐 15:06 UTC · @emollick
+
+> I was interviewed in Vox about my new book, and a question on the meaning of work let me discuss something I have been thinking a lot about, comparing the logic of industrialization to the logic of craft: &quot;You’re a hand-weaver in a world of power looms.&quot; https://www.vox.com/technology/508032/ai-jobs-ethan-mollick-co-existence
+
+![I was interviewed in Vox about my new book, and a question on the meaning of work let me discuss something I have been thinking a lot about, comparing the logic of industrialization to the logic of cr](../../../../assets/images/2026/10/30/2116185059749147116-1.jpg)
+
+🔗 [View original post](https://x.com/emollick/status/2116185059749147116)
 
 ---
 

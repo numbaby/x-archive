@@ -2,7 +2,65 @@
 
 ## 📅 October 30, 2026
 
-> 49 post(s) archived.
+> 57 post(s) archived.
+
+---
+
+### 🕐 15:28 UTC · @elonmusk
+
+> Tesla Model Y long wheel base variant It’s all the little things in the YL that make it an amazing vehicle.
+
+🔗 [View original post](https://x.com/elonmusk/status/2116190494300504403)
+
+---
+
+### 🕐 15:13 UTC · @elonmusk
+
+> Yes Elon&apos;s point isn&apos;t partisan. It&apos;s about who gets to rewrite the rules. In 1937 FDR, fresh off winning 46 of 48 states, tried to add up to six justices. His own party controlled the Senate, and its Judiciary Committee still killed it: &quot;a measure which should be so emphatically re…
+
+🔗 [View original post](https://x.com/elonmusk/status/2116186700628066529)
+
+---
+
+### 🕐 15:12 UTC · @elonmusk
+
+> This is literally their plan and they say it out loud! She did the meme &quot;If only we could pack the Supreme Court, eliminate the filibuster, abolish the Electoral College, and reshape the Senate we could win&quot;
+
+🔗 [View original post](https://x.com/elonmusk/status/2116186406544413103)
+
+---
+
+### 🕐 15:01 UTC · @elonmusk
+
+> Democrats will execute their plan to end democracy in America if they gain control Kamala Harris: We need to revisit the electoral college, we need to revisit expanding the court, we need to revisit statehood for Puerto Rico and DC. James Talarico: Yeah, I think it’s great. I’m really happy that the Vice President is calling for these systemic political reform…
+
+🔗 [View original post](https://x.com/elonmusk/status/2116183808211141028)
+
+---
+
+### 🕐 15:00 UTC · @elonmusk
+
+> Vote today! 🚨 TEXAS: Today is the LAST DAY to vote early and control of the Senate comes down to YOUR STATE. Tax hikes. Open borders. Lawlessness. Socialism in on the ballot and coming to Texas if you don&apos;t vote. Find your voting location.
+
+🔗 [View original post](https://x.com/elonmusk/status/2116183558729416712)
+
+---
+
+### 🕐 14:52 UTC · @elonmusk
+
+> Want even more evidence that @Tesla FSD is going mainstream? Here’s 2016 F1 World Champion Nico Rosberg after recently trying FSD (Supervised) for the first time: &quot;It&apos;s been LIFE-CHANGING! My scarcest resource currently is time. And now, I was able to get some of that time back on the commute. By the evening, it actually felt like I&apos;d won back half a working day!! I even had a mini date with my wife on the drive. My whole racing career, I was the one in control behind the wheel. But I&apos;m now fully willing to hand over control!! It’s crazy that 75% of new Teslas delivered in North America last quarter came with FSD. In Europe, we’re still way behind on this tech. And we for sure need to move faster!!&quot; More info: https://evwire.com/p/nico-rosberg-tesla-fsd-test-cybertruck-san-francisco
+
+![Want even more evidence that @Tesla FSD is going mainstream? Here’s 2016 F1 World Champion Nico Rosberg after recently trying FSD (Supervised) for the first time: &quot;It&apos;s been LIFE-CHANGING! M](../../../../assets/images/2026/10/30/2116181576081928438-1.jpg)
+
+🔗 [View original post](https://x.com/SawyerMerritt/status/2116181576081928438)
+
+---
+
+### 🕐 14:45 UTC · @elonmusk
+
+> In his own words Democrat Texas Senate Nominee James Talarico: “The Supreme Court needs to be overhauled… I am open to a discussion about expanding the number of justices.”
+
+🔗 [View original post](https://x.com/elonmusk/status/2116179698267128211)
 
 ---
 
@@ -225,6 +283,14 @@
 > Vote Republican! A huge crowd of 400 turned out tonight in Williamson County at the Republican Club of Sun City. They are always a fun crowd and they are dedicated to keeping Texas red.
 
 🔗 [View original post](https://x.com/elonmusk/status/2116042226598056033)
+
+---
+
+### 🕐 05:35 UTC · @elonmusk
+
+> Elon Musk makes a strong point here What happened to Brazil is knocking on the doors here in America So NOT let them take away our freedoms Vote Republican to save America‼️ My biggest concern is that if there is a clean sweep by Democrats of the House, Senate and Presidency in 2028, they will: 1. Make DC and Puerto Rico states to gain a strong majority in the Senate. 2. Open the borders and legalize everyone living in America illegally to cement a …
+
+🔗 [View original post](https://x.com/ShadeSalvo/status/2116041245596570059)
 
 ---
 

@@ -2,7 +2,23 @@
 
 ## 📅 October 30, 2026
 
-> 10 post(s) archived.
+> 12 post(s) archived.
+
+---
+
+### 🕐 15:23 UTC · @tunguz
+
+> Access is all you need.
+
+🔗 [View original post](https://x.com/tunguz/status/2116189228480520664)
+
+---
+
+### 🕐 15:16 UTC · @tunguz
+
+> Sounds reasonable. My near-term goals. Next two months: formalize all math Next year: formalize all critical software
+
+🔗 [View original post](https://x.com/tunguz/status/2116187517523222978)
 
 ---
 

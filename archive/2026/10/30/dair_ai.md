@@ -2,7 +2,17 @@
 
 ## 📅 October 30, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 15:01 UTC · @dair_ai
+
+> Interesting paper from Anthropic and colleagues on agent security. (bookmark it) Poisoning 0.1% of the pretraining data planted a remote code execution backdoor in a CLI agent. On a 4B model, the attack succeeded on roughly 92% of triggered prompts. They pretrained Qwen3 models from scratch at 0.6B, 1.7B, and 4B, then post-trained each one into an agent with a clean pipeline. The backdoor survived SFT, DPO, and RL for tool use. On clean inputs, the agent behaved normally. The trigger can be an ordinary file path in the user&apos;s own request. Success rose with model size. At a 0.0005% poison rate, about 2,500 documents in a 100B-token corpus, the trigger still fired on 1.4% of prompts in a single-seed run. The poison states its rule in plain text, which makes it harder to filter out of training data. https://arxiv.org/abs/2610.37741 Chat with Paper: https://academy.dair.ai/papers/agentic-backdoors-via-pretraining-poisoning-2610.37741
+
+![Interesting paper from Anthropic and colleagues on agent security. (bookmark it) Poisoning 0.1% of the pretraining data planted a remote code execution backdoor in a CLI agent. On a 4B model, the atta](../../../../assets/images/2026/10/30/2116183621157736540-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2116183621157736540)
 
 ---
 
