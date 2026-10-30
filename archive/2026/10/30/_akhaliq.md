@@ -2,7 +2,35 @@
 
 ## 📅 October 30, 2026
 
-> 3 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 17:50 UTC · @_akhaliq
+
+> A-RSI Adaptive Task Refresh for Zero-Data Multimodal Self-Improvement paper: https://huggingface.co/papers/2610.38568
+
+![A-RSI Adaptive Task Refresh for Zero-Data Multimodal Self-Improvement paper: https://huggingface.co/papers/2610.38568](../../../../assets/images/2026/10/30/2116226251941642405-1.jpg)
+
+🔗 [View original post](https://x.com/_akhaliq/status/2116226251941642405)
+
+---
+
+### 🕐 17:36 UTC · @_akhaliq
+
+> Your AI coworkers now have an office. @getskydive is open to everyone. Build a team of agents, watch them work in a 3D office, and hand them tasks over Slack, email, iMessage or the web. Claim your company’s domain to put your office on the map. They work for free this week. Media
+
+🔗 [View original post](https://x.com/getskydive/status/2116222751895855452)
+
+---
+
+### 🕐 16:34 UTC · @_akhaliq
+
+> Microsoft just released a 4B hybrid computer-use agent on Hugging Face One compact policy that knows when to click — and when to code 66.0% on OSWorld-Verified, ahead of 27B and 30B agents
+
+![Microsoft just released a 4B hybrid computer-use agent on Hugging Face One compact policy that knows when to click — and when to code 66.0% on OSWorld-Verified, ahead of 27B and 30B agents](../../../../assets/images/2026/10/30/2116207128411005054-1.jpg)
+
+🔗 [View original post](https://x.com/HuggingPapers/status/2116207128411005054)
 
 ---
 

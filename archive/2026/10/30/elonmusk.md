@@ -2,7 +2,47 @@
 
 ## 📅 October 30, 2026
 
-> 62 post(s) archived.
+> 73 post(s) archived.
+
+---
+
+### 🕐 18:56 UTC · @elonmusk
+
+> Talarico would abolish democracy in America and institute permanent one-party rule! James Talarico in his own words: On the Filibuster: “We should abolish the filibuster in the U.S. Senate…” On the Supreme Court: “The Supreme Court needs to be overhauled…I’m open to a discussion about expanding the number of justices.” On illegal aliens: “I think we should have…
+
+🔗 [View original post](https://x.com/elonmusk/status/2116242885376974965)
+
+---
+
+### 🕐 18:54 UTC · @elonmusk
+
+> Good video about @Neuralink Cleo Abram (15M followers across all platforms) just released a new video about @neuralink. She visited the company&apos;s Austin HQ. &quot;This is Neuralink’s Next-Gen R1 surgical robot. Its main job is to put a computer chip into people&apos;s brains, and this is the first time they&apos;re unvei…
+
+🔗 [View original post](https://x.com/elonmusk/status/2116242462582989090)
+
+---
+
+### 🕐 18:47 UTC · @elonmusk
+
+> This would be the end of democracy in America James Talarico wants to end the filibuster, is open to packing the Supreme Court, and backs a pathway to citizenship for millions. In his own words: “We should abolish the filibuster in the U.S. Senate…” “I’m open to a discussion about expanding the number of justices.” “I think…
+
+🔗 [View original post](https://x.com/elonmusk/status/2116240704393351411)
+
+---
+
+### 🕐 17:19 UTC · @elonmusk
+
+> The Democrat Party is racist against Asians and Whites When Virginia schools were 50% Asian, the state said they were “overrepresented,” not diverse enough, and needed to be “rebalanced” for equity. Now the governor is saying that a cabinet that is 75% black is “the most diverse”. The double standard is exhausting.
+
+🔗 [View original post](https://x.com/elonmusk/status/2116218370362122746)
+
+---
+
+### 🕐 17:08 UTC · @elonmusk
+
+> Cool A ‘hello world’ milestone for Project Suncatcher 🚀 After launching our prototype satellite a few weeks ago, we’ve now successfully sent a command up to orbit, booted up the TPU, ran the prompt, and received our first complete response back on earth - a haiku!
+
+🔗 [View original post](https://x.com/elonmusk/status/2116215659214561518)
 
 ---
 
@@ -54,6 +94,14 @@
 
 ---
 
+### 🕐 15:07 UTC · @elonmusk
+
+> This is a reminder that it’s the LAST DAY of early, in-person voting in Texas. @KenPaxtonTX
+
+🔗 [View original post](https://x.com/ScottPresler/status/2116185225655201967)
+
+---
+
 ### 🕐 15:01 UTC · @elonmusk
 
 > Democrats will execute their plan to end democracy in America if they gain control Kamala Harris: We need to revisit the electoral college, we need to revisit expanding the court, we need to revisit statehood for Puerto Rico and DC. James Talarico: Yeah, I think it’s great. I’m really happy that the Vice President is calling for these systemic political reform…
@@ -67,6 +115,14 @@
 > Vote today! 🚨 TEXAS: Today is the LAST DAY to vote early and control of the Senate comes down to YOUR STATE. Tax hikes. Open borders. Lawlessness. Socialism in on the ballot and coming to Texas if you don&apos;t vote. Find your voting location.
 
 🔗 [View original post](https://x.com/elonmusk/status/2116183558729416712)
+
+---
+
+### 🕐 15:00 UTC · @elonmusk
+
+> The left thinks you’ve gotten involved in Politics out of a craving for power When in reality it seems like what you actually want is to ensure we maintain the balance of power into the future Trying to entrench one side is very different than trying to maintain balance between two sides This is deeply misunderstood
+
+🔗 [View original post](https://x.com/shaunmmaguire/status/2116183511522783530)
 
 ---
 
@@ -101,6 +157,16 @@
 > If Democrats sweep the House, Senate and Presidency in 2028, there will not be any meaningful elections ever again Democrats want to cement one-party rule forever and make democracy meaningless, just like they did in California Except this time it&apos;s every state, and there&apos;s no place left to move That would be the end of America as it used to be Vote Republican. 51 senators in 2029 stops it https://x.com/XFreeze/status/2010441542658662758/video/1 Media
 
 🔗 [View original post](https://x.com/XFreeze/status/2116170880619524236)
+
+---
+
+### 🕐 14:07 UTC · @elonmusk
+
+> Ilhan Omar&apos;s Ex-Husband, Rumored to Be Her Brother, Says He&apos;s Gay https://www.tmz.com/2026/10/30/ilhan-omar-alleged-brother-ex-husband-gay/
+
+![Ilhan Omar&apos;s Ex-Husband, Rumored to Be Her Brother, Says He&apos;s Gay https://www.tmz.com/2026/10/30/ilhan-omar-alleged-brother-ex-husband-gay/](../../../../assets/images/2026/10/30/2116170223594119410-1.jpg)
+
+🔗 [View original post](https://x.com/TMZ/status/2116170223594119410)
 
 ---
 
@@ -254,6 +320,16 @@
 
 ---
 
+### 🕐 07:58 UTC · @elonmusk
+
+> Well, now I am a free man and the dust is starting to settle I can now be FULLY transparent without repercussion. @GlobalAffairs, aka, @elonmusk picked up the legal tab for my court proceedings these past few months. This was only possible due to the relentless hard work of @ezralevant of @RebelNewsOnline who not only brought @laoisedebrun on board with Padraig Langsch, but pressed X legal department to pursue my case in the interests of Free Speech. Waking up a free man after two years of daily persecution is a strange but liberating feeling. I will continue to promote http://www.irishfreespeech.com for the cases of @RossLahive1 and Hugh Fagan who are facing Lawfare outside of X&apos;s remit and require funding so Laoise and Padraig can clear their names too. Today, Irish citizen journalist Kirk Loco was acquitted at Bray District Court of a criminal charge under Ireland&apos;s &quot;Coco&apos;s Law.&quot; X is proud to have funded Kirk&apos;s defense. Kirk&apos;s alleged offense was a single post on X relaying a teenage girl&apos;s account of a migrant man exposing h…
+
+![Well, now I am a free man and the dust is starting to settle I can now be FULLY transparent without repercussion. @GlobalAffairs, aka, @elonmusk picked up the legal tab for my court proceedings these ](../../../../assets/images/2026/10/30/2116077196179656963-1.jpg)
+
+🔗 [View original post](https://x.com/Polito_loco/status/2116077196179656963)
+
+---
+
 ### 🕐 07:27 UTC · @elonmusk
 
 > @elonmusk All of this. Plus: A government fully weaponized to investigate, prosecute and destroy its political opposition. Whether they actually committed a crime will be irrelevant. Kara Swisher adds DOGE&apos;s &quot;Big Balls&quot; to the Democrat target list. &quot;They could just pick a few people. To me, that&apos;s the way you go. You pick like a Hegseth, a Musk, and I don&apos;t know, Big Balls.&quot; &quot;Rather than go for Trump, go for everybody.&quot; &quot;Make it so broad that exhausts people…
@@ -275,6 +351,14 @@
 > @elonmusk Believe them when they say it. Obama: End the filibuster and make Washington DC and Puerto Rico states. You are crazy if you don’t believe Democrats will do it if they get the chance.
 
 🔗 [View original post](https://x.com/mazemoore/status/2116058550393020892)
+
+---
+
+### 🕐 06:43 UTC · @elonmusk
+
+> Obama: End the filibuster and make Washington DC and Puerto Rico states. You are crazy if you don’t believe Democrats will do it if they get the chance. Media
+
+🔗 [View original post](https://x.com/mazemoore/status/2116058288240431599)
 
 ---
 
@@ -381,6 +465,14 @@
 > It’s great @Bot My first week using Grokbot I&apos;m blown away. Tonight I got tickets for a concert with the kids with 70 punk bands and told Grokbot to build a Youtube playlist of the top songs to send the kids. It took me 30 seconds 🤯 Moreover, doing it by hand would have taken so long I wouldn&apos;…
 
 🔗 [View original post](https://x.com/elonmusk/status/2116027121545904387)
+
+---
+
+### 🕐 04:38 UTC · @elonmusk
+
+> “Diversity” (as that term is used here) just means “no white guys” Hi, black guy here! This is actually the literal opposite of diversity 😂😂😂😂
+
+🔗 [View original post](https://x.com/BasedMikeLee/status/2116026819141132404)
 
 ---
 

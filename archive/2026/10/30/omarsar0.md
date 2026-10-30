@@ -2,7 +2,15 @@
 
 ## 📅 October 30, 2026
 
-> 5 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 17:54 UTC · @omarsar0
+
+> There is something interesting about engaging with agents this way. As agent teams scale and coordination improves, managing agents gets harder. We moved from chat to agent sessions. So what&apos;s next? I anticipate more dynamic interfaces like what Skydive is doing with the 3D office. I think they are onto something huge here. Watch this space. Your AI coworkers now have an office. @getskydive is open to everyone. Build a team of agents, watch them work in a 3D office, and hand them tasks over Slack, email, iMessage or the web. Claim your company’s domain to put your office on the map. They work for free this week.
+
+🔗 [View original post](https://x.com/omarsar0/status/2116227218854564219)
 
 ---
 

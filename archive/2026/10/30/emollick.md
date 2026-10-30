@@ -2,7 +2,15 @@
 
 ## 📅 October 30, 2026
 
-> 9 post(s) archived.
+> 10 post(s) archived.
+
+---
+
+### 🕐 18:52 UTC · @emollick
+
+> Sadly, I think the answer is no. Join some private Discords with real humans and hold the line there. reddit basically one of the last places i search for human results and now google is shredding that. does the open web even exist in ten years?
+
+🔗 [View original post](https://x.com/emollick/status/2116241785647231160)
 
 ---
 

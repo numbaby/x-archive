@@ -2,7 +2,58 @@
 
 ## 📅 October 30, 2026
 
-> 12 post(s) archived.
+> 18 post(s) archived.
+
+---
+
+### 🕐 17:40 UTC · @tunguz
+
+> Boys and girls. Girls only want one thing and it&apos;s:
+
+🔗 [View original post](https://x.com/tunguz/status/2116223645940928836)
+
+---
+
+### 🕐 17:39 UTC · @tunguz
+
+> Look they too are jumping on the bandwagon of renaming things without any substantive underlying change. We’re renaming our Max plans: Max 5x → Max Max 20x → Ultra Max is still $100/month, and Ultra is still $200. If you’re a subscriber, there’s nothing you need to do. We’re also removing the 5-hour limit for verified Ultra accounts, starting today with most existing subscribers. N…
+
+🔗 [View original post](https://x.com/tunguz/status/2116223414587302279)
+
+---
+
+### 🕐 17:37 UTC · @tunguz
+
+> I can do 99% in one month with unlimited tokens. This is INSANE. Cisco’s president Jeetu Patel has given a 27-year-old engineer unlimited AI tokens to try to rewrite 98% of the company’s legacy code within 24 months, Fortune reports. Padmanabhan Krishnamurthy thinks he can do it with a two-person team. He has just four weeks t…
+
+🔗 [View original post](https://x.com/tunguz/status/2116223084848111748)
+
+---
+
+### 🕐 17:24 UTC · @tunguz
+
+
+![](../../../../assets/images/2026/10/30/2116219606528635258-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2116219606528635258)
+
+---
+
+### 🕐 17:12 UTC · @tunguz
+
+> He&apos;s a four but he is a trillionaire.
+
+🔗 [View original post](https://x.com/tunguz/status/2116216802250494026)
+
+---
+
+### 🕐 17:09 UTC · @tunguz
+
+> Be careful trick-or-treating this year.
+
+![Be careful trick-or-treating this year.](../../../../assets/images/2026/10/30/2116215914408415729-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2116215914408415729)
 
 ---
 

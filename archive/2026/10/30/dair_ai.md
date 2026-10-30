@@ -2,7 +2,23 @@
 
 ## 📅 October 30, 2026
 
-> 5 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 18:37 UTC · @dair_ai
+
+> The next breakthrough in voice AI might not be another model taking the #1 spot. It might be a better understanding of what we should be measuring. Voice Arena is pushing that conversation forward. Drop 2/15 Are we actually measuring the things we ultimately want our voice AI models to achieve? The best AI voices are becoming hard to tell apart. From each other. Not from humans. 🚀 Introducing Turing TTS: an evaluation that measures how often human listeners mistake AI-gen…
+
+🔗 [View original post](https://x.com/omarsar0/status/2116237986530783355)
+
+---
+
+### 🕐 17:32 UTC · @dair_ai
+
+> Highly recommended read. Stop focusing on using LLMs to help you write better code. Instead, focus on enabling the LLM to write better code faster. I agree that skills like orchestration and systems thinking matter more than ever. I&apos;d also add understanding how to constantly measure the effectiveness of those LLMs, automations, and workflows through rigorous evals. Here is Proton CTO&apos;s AI manifesto, that I obtained multiple copies of https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/
+
+🔗 [View original post](https://x.com/omarsar0/status/2116221766599078033)
 
 ---
 
