@@ -2,7 +2,31 @@
 
 ## 📅 October 30, 2026
 
-> 7 post(s) archived.
+> 10 post(s) archived.
+
+---
+
+### 🕐 12:01 UTC · @tunguz
+
+> Yes Take a moment to live in this moment. As in the next 10 years your life will change, your friends, family etc… lives will all change. Within the next 10 years, super intelligence and robots will be automating everything, making everything better and cheaper. There’s something sp…
+
+🔗 [View original post](https://x.com/tunguz/status/2116138447098323382)
+
+---
+
+### 🕐 12:01 UTC · @tunguz
+
+> le chaton cest moi Mistral is... BACK?! They&apos;ve just released what might be the absolute best open weights model for coding - Better than Kimi/DeepSeek/GLM on terminal bench 4 - 1st on cognition&apos;s private frontiercode 2.0 - Fewer tokens per task than others Already available on Hugging Face and vi…
+
+🔗 [View original post](https://x.com/tunguz/status/2116138329217372436)
+
+---
+
+### 🕐 11:59 UTC · @tunguz
+
+> It’s one big group chat and you are not part of it. It’s pretty crazy that 96% of Nobel prize winners are from the same academic family
+
+🔗 [View original post](https://x.com/tunguz/status/2116137852962779337)
 
 ---
 

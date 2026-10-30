@@ -2,7 +2,23 @@
 
 ## 📅 October 30, 2026
 
-> 5 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 13:31 UTC · @emollick
+
+> This is right, but I&apos;d add that the distance between what someone who is working at the frontier with AI uses AI for and what AI can actually do today is growing even wider! We don&apos;t really understand the full capability of today&apos;s systems when properly harnessed &amp; applied. It’s almost incomprehensible how wide the distance is between someone who’s working at the frontier with AI and basically everyone else right now. The crazy thing is these lines are not converging, but only growing farther apart. If the curve of AI progress had leveled off, it w…
+
+🔗 [View original post](https://x.com/emollick/status/2116161095073431906)
+
+---
+
+### 🕐 12:58 UTC · @emollick
+
+> One thing we don’t have a good measure of is the gap between the capability of the best internal models at the labs and the best released model to the public. I suspect it has been growing quite a bit over the course of the last year, especially after the temporary Fable ban.
+
+🔗 [View original post](https://x.com/emollick/status/2116152813570969993)
 
 ---
 

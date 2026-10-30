@@ -2,7 +2,81 @@
 
 ## 📅 October 30, 2026
 
-> 24 post(s) archived.
+> 34 post(s) archived.
+
+---
+
+### 🕐 13:33 UTC · @elonmusk
+
+> Yes @elonmusk @ResethO Vote like your country depends on it… Because it does.
+
+🔗 [View original post](https://x.com/elonmusk/status/2116161635438248169)
+
+---
+
+### 🕐 13:30 UTC · @elonmusk
+
+> California became a one-party state In 1986, Ronald Reagan allowed ~1.4m illegal immigrants in California to become citizens 1988 was the last time California voted Republican, ever. Elon&apos;s caution about opening borders and creating voting pathways is *the literal playbook* and has already been done once If politi…
+
+🔗 [View original post](https://x.com/elonmusk/status/2116160860599226657)
+
+---
+
+### 🕐 13:14 UTC · @elonmusk
+
+> BREAKING: Starlink helped rescue a Swedish sailor stranded off South Africa’s coast. 🇿🇦 The solo sailor’s 12-metre yacht developed mechanical problems 8 nautical miles off St Lucia, with strong winds forecast. He used Starlink to contact the Ocean Sailing Association of South Africa, which alerted NSRI rescuers. Their rescue boat towed his yacht through strong south-westerly winds to safety in Richards Bay, accompanied by two other yachts. Starlink connected him to help when he needed it most. ♥️
+
+![BREAKING: Starlink helped rescue a Swedish sailor stranded off South Africa’s coast. 🇿🇦 The solo sailor’s 12-metre yacht developed mechanical problems 8 nautical miles off St Lucia, with strong winds ](../../../../assets/images/2026/10/30/2116156673907892687-1.jpg)
+
+🔗 [View original post](https://x.com/cb_doge/status/2116156673907892687)
+
+---
+
+### 🕐 13:02 UTC · @elonmusk
+
+> Everybody needs to read this to understand the democrats plan. We are two elections away from democrats total take over. This would be game over for our constitutional republic as we know it. I don’t want to live in a one party state for the rest of my life, do you? Vote Republican! #VoteRedToSaveAmerica
+
+🔗 [View original post](https://x.com/Sassafrass_84/status/2116153698044793191)
+
+---
+
+### 🕐 12:59 UTC · @elonmusk
+
+> Exactly this. You may not love Republicans but they aren’t here to destroy the country as we know it. Vote accordingly… My biggest concern is that if there is a clean sweep by Democrats of the House, Senate and Presidency in 2028, they will: 1. Make DC and Puerto Rico states to gain a strong majority in the Senate. 2. Open the borders and legalize everyone living in America illegally to cement a …
+
+🔗 [View original post](https://x.com/RubinReport/status/2116152899403444684)
+
+---
+
+### 🕐 12:22 UTC · @elonmusk
+
+> 🎯🎯 this is why sitting out this midterm to “stick it to Trump” is dangerous and idiotic. My biggest concern is that if there is a clean sweep by Democrats of the House, Senate and Presidency in 2028, they will: 1. Make DC and Puerto Rico states to gain a strong majority in the Senate. 2. Open the borders and legalize everyone living in America illegally to cement a …
+
+🔗 [View original post](https://x.com/the_jefferymead/status/2116143771561918585)
+
+---
+
+### 🕐 07:27 UTC · @elonmusk
+
+> @elonmusk All of this. Plus: A government fully weaponized to investigate, prosecute and destroy its political opposition. Whether they actually committed a crime will be irrelevant. Kara Swisher adds DOGE&apos;s &quot;Big Balls&quot; to the Democrat target list. &quot;They could just pick a few people. To me, that&apos;s the way you go. You pick like a Hegseth, a Musk, and I don&apos;t know, Big Balls.&quot; &quot;Rather than go for Trump, go for everybody.&quot; &quot;Make it so broad that exhausts people…
+
+🔗 [View original post](https://x.com/WesternLensman/status/2116069367435968980)
+
+---
+
+### 🕐 06:46 UTC · @elonmusk
+
+> @elonmusk Yes, this is accurate. Democrats have already said that if they control a majority in the Senate, they will nuke the filibuster. Republicans must keep control of the Senate this November.
+
+🔗 [View original post](https://x.com/ScottPresler/status/2116059080531820585)
+
+---
+
+### 🕐 06:44 UTC · @elonmusk
+
+> @elonmusk Believe them when they say it. Obama: End the filibuster and make Washington DC and Puerto Rico states. You are crazy if you don’t believe Democrats will do it if they get the chance.
+
+🔗 [View original post](https://x.com/mazemoore/status/2116058550393020892)
 
 ---
 
@@ -43,6 +117,14 @@
 > Vote Republican! A huge crowd of 400 turned out tonight in Williamson County at the Republican Club of Sun City. They are always a fun crowd and they are dedicated to keeping Texas red.
 
 🔗 [View original post](https://x.com/elonmusk/status/2116042226598056033)
+
+---
+
+### 🕐 05:34 UTC · @elonmusk
+
+> @elonmusk This is exactly what they intend to do, they’re saying it out loud at this point.
+
+🔗 [View original post](https://x.com/alx/status/2116040913084620837)
 
 ---
 
