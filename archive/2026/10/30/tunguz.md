@@ -2,7 +2,23 @@
 
 ## 📅 October 30, 2026
 
-> 5 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 10:57 UTC · @tunguz
+
+> Yup, it&apos;s the new form of performative busywork. There’s 100% a kind of mania you can get into with coding agents, where it feels like you’re getting a lot done and working all the time but nothing is really happening. I think it&apos;s often a form of avoidance of something else in life.
+
+🔗 [View original post](https://x.com/tunguz/status/2116122251535737241)
+
+---
+
+### 🕐 10:32 UTC · @tunguz
+
+> Catastrophe p*rn posting will continue until morale improves. I’m here to stop the fear mongering &quot;Everyone is getting hacked&quot; is mostly one event. Binance hot wallets were drained starting 4:24 PM ET. The impact was around $6.3B (one of the largest heists in history) with -$3B frozen on-chain, and Binance says it will cover all losses. Re…
+
+🔗 [View original post](https://x.com/tunguz/status/2116115967210111343)
 
 ---
 
