@@ -2,7 +2,17 @@
 
 ## 📅 October 30, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 16:24 UTC · @dair_ai
+
+> Regarding autoresearch agents, this question has attracted a lot of attention. Do research agents have taste? This has attracted massive interest because autoresearch agents could unlock major discoveries. This study gave six frontier models seven recent NLP papers, then ran every experiment they proposed, including the ones they ranked last. Of 415 experiments, 194 were judged sound, valuable, and new. Only 73 were also beyond the seed paper and non-obvious. The rankings added little. First choices beat a random pick, but they were not shown to beat the experiment written first. Forecasts beat a base rate, but they were not measurably better than a fresh instance of the same model that read only the paper and registrations. They tested with teams of agents, which cost more, with no clear improvement in proposal quality. https://arxiv.org/abs/2610.40488 Chat with Paper: https://academy.dair.ai/papers/rtaste-do-research-agents-have-taste-evaluating-early-stage-research-judgment-2610.40488
+
+![Regarding autoresearch agents, this question has attracted a lot of attention. Do research agents have taste? This has attracted massive interest because autoresearch agents could unlock major discove](../../../../assets/images/2026/10/30/2116204488562528713-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2116204488562528713)
 
 ---
 

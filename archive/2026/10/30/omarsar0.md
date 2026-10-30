@@ -2,7 +2,15 @@
 
 ## 📅 October 30, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 16:08 UTC · @omarsar0
+
+> Love this direction for AI interfaces. Subvocal just launched glasses that read your speech muscles and turn silent mouthing into text. They report more than 200 words per minute. I already dictate a lot of my agent instructions. The problem is that you can&apos;t do that in an office or on a plane. This could fix it. We’ve raised $1.3M from YC &amp; Afore Capital so you never have to type or speak again. Typing is slow. Talking into your computer is awkward. Subvocal fixes both Our glasses give you the speed of speech without you making a sound or touching a keyboard. It tracks your internal spe…
+
+🔗 [View original post](https://x.com/omarsar0/status/2116200618910261328)
 
 ---
 

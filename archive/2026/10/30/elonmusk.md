@@ -2,7 +2,31 @@
 
 ## 📅 October 30, 2026
 
-> 57 post(s) archived.
+> 62 post(s) archived.
+
+---
+
+### 🕐 16:11 UTC · @elonmusk
+
+> I miss Larry Page Steve Jurvetson once told Elon Musk a story he had never heard before. At a Google event, Larry Page turned to Jurvetson out of the blue and wondered aloud how much money he had. After mentioning a number, Page said that if he were hit by a bus that day, he should leave all of i…
+
+🔗 [View original post](https://x.com/elonmusk/status/2116201375613018416)
+
+---
+
+### 🕐 15:53 UTC · @elonmusk
+
+> Every word is James Talarico’s. “…many more than two biological sexes. In fact, there are six.” “If you deny your child’s gender identity… it’s abusive for sure.” “There’s only one person who can determine a child’s gender identity, and that’s the child.” “I want to acknowledge that our trans community needs abortion care too.” “…the bill that would have denied gender-affirming health care to trans children… All these ideologies stem from this Christofascism movement.” “The way I fought for trans kids in the legislature is how I will fight for the U.S. Senate, and my position hasn’t changed.” “God is non-binary.” “Neighbors with a uterus.” “Prophetic voices like Jesus have helped me reckon with my own whiteness.” “It’s always rich to me that defund the police is considered off limits…” “Prison is violence.” “Tear down this secret police force.” Assault weapons ban? “Absolutely.” Send this to 10 Texas voters and tell them to go vote today! Media
+
+🔗 [View original post](https://x.com/KanekoaTheGreat/status/2116196691108155658)
+
+---
+
+### 🕐 15:35 UTC · @elonmusk
+
+> Democrats are openly saying that if they get power, they will: ✅Mass amnesty (30M+ new voters) ✅End the filibuster, pack SCOTUS ✅Eliminate the Electoral College ✅End social media free speech ✅Add 2 blue states (DC &amp; PR) ✅MAGA arrests, de-banking ✅National ban on voter ID They&apos;re admitting to this OUT LOUD, and you want to sit home &amp; let them assume power?
+
+🔗 [View original post](https://x.com/EndWokeness/status/2116192296139948503)
 
 ---
 
@@ -61,6 +85,14 @@
 > In his own words Democrat Texas Senate Nominee James Talarico: “The Supreme Court needs to be overhauled… I am open to a discussion about expanding the number of justices.”
 
 🔗 [View original post](https://x.com/elonmusk/status/2116179698267128211)
+
+---
+
+### 🕐 14:18 UTC · @elonmusk
+
+> If Democrats ever get the House, Senate and White House again, they&apos;ll make DC and Puerto Rico states and legalize everyone here illegally. Then they never lose another election. That&apos;s their whole plan. Vote like your life depends on it My biggest concern is that if there is a clean sweep by Democrats of the House, Senate and Presidency in 2028, they will: 1. Make DC and Puerto Rico states to gain a strong majority in the Senate. 2. Open the borders and legalize everyone living in America illegally to cement a …
+
+🔗 [View original post](https://x.com/ksorbs/status/2116172967197483285)
 
 ---
 
@@ -373,6 +405,16 @@
 > Our second product is called Blindsight and it will, as the name suggests, enable even those who are completely blind or have never seen to see. It is ready from an engineering standpoint. Just waiting on regulatory approval. Neuralink’s first product is called Telepathy. It enables high-speed communication with computers or humans simply by thinking. Output bandwidth will vastly exceed the fastest human speech or typing in a few years. Read that sentence again.
 
 🔗 [View original post](https://x.com/elonmusk/status/2116019939056513218)
+
+---
+
+### 🕐 04:08 UTC · @elonmusk
+
+> &quot;I am a citizen of the United States and have only that passport. No matter what happens, I will fight for and die in America.&quot; Elon Musk
+
+![&quot;I am a citizen of the United States and have only that passport. No matter what happens, I will fight for and die in America.&quot; Elon Musk](../../../../assets/images/2026/10/30/2116019298317844562-1.jpg)
+
+🔗 [View original post](https://x.com/teslaownersSV/status/2116019298317844562)
 
 ---
 
