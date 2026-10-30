@@ -2,7 +2,15 @@
 
 ## 📅 October 30, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 13:47 UTC · @_akhaliq
+
+> Look Only When Needed Certificate-Guided Visual Routing for Efficient Diffusion VLMs paper: https://huggingface.co/papers/2610.36671 Media
+
+🔗 [View original post](https://x.com/_akhaliq/status/2116165005129507300)
 
 ---
 

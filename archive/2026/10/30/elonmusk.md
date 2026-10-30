@@ -2,7 +2,55 @@
 
 ## 📅 October 30, 2026
 
-> 34 post(s) archived.
+> 49 post(s) archived.
+
+---
+
+### 🕐 14:10 UTC · @elonmusk
+
+> If Democrats sweep the House, Senate and Presidency in 2028, there will not be any meaningful elections ever again Democrats want to cement one-party rule forever and make democracy meaningless, just like they did in California Except this time it&apos;s every state, and there&apos;s no place left to move That would be the end of America as it used to be Vote Republican. 51 senators in 2029 stops it https://x.com/XFreeze/status/2010441542658662758/video/1 Media
+
+🔗 [View original post](https://x.com/XFreeze/status/2116170880619524236)
+
+---
+
+### 🕐 13:58 UTC · @elonmusk
+
+> My friends - go and vote. The risk on our beautiful democracy is not where the media want you to think it is! My biggest concern is that if there is a clean sweep by Democrats of the House, Senate and Presidency in 2028, they will: 1. Make DC and Puerto Rico states to gain a strong majority in the Senate. 2. Open the borders and legalize everyone living in America illegally to cement a …
+
+🔗 [View original post](https://x.com/p_ferragu/status/2116167981952610543)
+
+---
+
+### 🕐 13:50 UTC · @elonmusk
+
+> The Democrats intend to cement one-party rule forever and make “democracy” meaningless, as they have done in California James Talarico supports all of these positions and Kamala Harris intends on making them her 2028 platform along with abolishing the Electoral College and nuking the filibuster. Democrats are telling us their plan out loud. Vote like the future of America depends on it, because i…
+
+🔗 [View original post](https://x.com/elonmusk/status/2116165938525741496)
+
+---
+
+### 🕐 13:47 UTC · @elonmusk
+
+> SpaceX is “the single most undervalued opportunity on the planet,” says Keith Fitz-Gerald. He says he wants to invest in optimism and the betterment of humanity, and singles out Elon Musk’s SpaceX as a company helping shape a better future. Media
+
+🔗 [View original post](https://x.com/cb_doge/status/2116165106891653444)
+
+---
+
+### 🕐 13:44 UTC · @elonmusk
+
+> Four years ago … And that is exactly what happened In the past I voted Democrat, because they were (mostly) the kindness party. But they have become the party of division &amp; hate, so I can no longer support them and will vote Republican. Now, watch their dirty tricks campaign against me unfold … 🍿
+
+🔗 [View original post](https://x.com/elonmusk/status/2116164353481462158)
+
+---
+
+### 🕐 13:35 UTC · @elonmusk
+
+> Vote ❤️🇺🇸 My biggest concern is that if there is a clean sweep by Democrats of the House, Senate and Presidency in 2028, they will: 1. Make DC and Puerto Rico states to gain a strong majority in the Senate. 2. Open the borders and legalize everyone living in America illegally to cement a …
+
+🔗 [View original post](https://x.com/mayemusk/status/2116162003496509620)
 
 ---
 
@@ -19,6 +67,32 @@
 > California became a one-party state In 1986, Ronald Reagan allowed ~1.4m illegal immigrants in California to become citizens 1988 was the last time California voted Republican, ever. Elon&apos;s caution about opening borders and creating voting pathways is *the literal playbook* and has already been done once If politi…
 
 🔗 [View original post](https://x.com/elonmusk/status/2116160860599226657)
+
+---
+
+### 🕐 13:26 UTC · @elonmusk
+
+> BREAKING: South Sudan’s Western Equatoria government has announced plans to install @Starlink along the DRC border to strengthen Ebola prevention. At Nabiapai’s screening centre, it would help health workers share information and coordinate responses to protect local communities.
+
+![BREAKING: South Sudan’s Western Equatoria government has announced plans to install @Starlink along the DRC border to strengthen Ebola prevention. At Nabiapai’s screening centre, it would help health ](../../../../assets/images/2026/10/30/2116159760596619516-1.jpg)
+
+🔗 [View original post](https://x.com/cb_doge/status/2116159760596619516)
+
+---
+
+### 🕐 13:23 UTC · @elonmusk
+
+> FINAL TEXAS POLL: Ken Paxton leads James Talarico 49.4% to 48.4%! This race is razor-thin, and the radical Democrats are pouring everything into turning Texas blue. Do NOT sit this one out. Get out, bring 10 friends, and VOTE RED! Keep Texas RED! 🇺🇸🔴
+
+🔗 [View original post](https://x.com/RyanAFournier/status/2116159023049293983)
+
+---
+
+### 🕐 13:17 UTC · @elonmusk
+
+> ELON IS RIGHT My biggest concern is that if there is a clean sweep by Democrats of the House, Senate and Presidency in 2028, they will: 1. Make DC and Puerto Rico states to gain a strong majority in the Senate. 2. Open the borders and legalize everyone living in America illegally to cement a …
+
+🔗 [View original post](https://x.com/w_terrence/status/2116157671086965227)
 
 ---
 
@@ -53,6 +127,40 @@
 > 🎯🎯 this is why sitting out this midterm to “stick it to Trump” is dangerous and idiotic. My biggest concern is that if there is a clean sweep by Democrats of the House, Senate and Presidency in 2028, they will: 1. Make DC and Puerto Rico states to gain a strong majority in the Senate. 2. Open the borders and legalize everyone living in America illegally to cement a …
 
 🔗 [View original post](https://x.com/the_jefferymead/status/2116143771561918585)
+
+---
+
+### 🕐 12:03 UTC · @elonmusk
+
+> New - Senate and Governor poll - Texas 🔴 Ken Paxton 49% 🔵 James Talarico 48% Governor 🔴 Greg Abbott 52% 🔵 Gina Hinojosa 46% Quantus Insights - LV - 10/28
+
+![New - Senate and Governor poll - Texas 🔴 Ken Paxton 49% 🔵 James Talarico 48% Governor 🔴 Greg Abbott 52% 🔵 Gina Hinojosa 46% Quantus Insights - LV - 10/28](../../../../assets/images/2026/10/30/2116138907343417681-1.jpg)
+
+🔗 [View original post](https://x.com/PpollingNumbers/status/2116138907343417681)
+
+---
+
+### 🕐 12:02 UTC · @elonmusk
+
+> YES. This is exactly what they will do. They’ve said as much for years. Statehood for DC &amp; Puerto Rico. Blanket amnesty. Court packing. Permanent one-party rule. Vote Republican. Everything else is secondary. My biggest concern is that if there is a clean sweep by Democrats of the House, Senate and Presidency in 2028, they will: 1. Make DC and Puerto Rico states to gain a strong majority in the Senate. 2. Open the borders and legalize everyone living in America illegally to cement a …
+
+🔗 [View original post](https://x.com/NancyMace/status/2116138687486714047)
+
+---
+
+### 🕐 11:17 UTC · @elonmusk
+
+> Please Read This My biggest concern is that if there is a clean sweep by Democrats of the House, Senate and Presidency in 2028, they will: 1. Make DC and Puerto Rico states to gain a strong majority in the Senate. 2. Open the borders and legalize everyone living in America illegally to cement a …
+
+🔗 [View original post](https://x.com/dbongino/status/2116127405601693985)
+
+---
+
+### 🕐 10:30 UTC · @elonmusk
+
+> The most important post in the history of X right here 👇🏻👇🏻👇🏻 My biggest concern is that if there is a clean sweep by Democrats of the House, Senate and Presidency in 2028, they will: 1. Make DC and Puerto Rico states to gain a strong majority in the Senate. 2. Open the borders and legalize everyone living in America illegally to cement a …
+
+🔗 [View original post](https://x.com/bennyjohnson/status/2116115505149047027)
 
 ---
 
@@ -226,6 +334,14 @@
 
 ---
 
+### 🕐 03:46 UTC · @elonmusk
+
+> I didn’t receive my ballot in Afghanistan and vowed to never let it happen again! So I’m driving 1600 miles in 2 days to make my vote for @KenPaxtonTX, US Senate. To vote for @SessionsTX17, US House. Don’t sit this one out- not voting is the same as voting for everything you hate.
+
+🔗 [View original post](https://x.com/RealJasonNelson/status/2116013747890466951)
+
+---
+
 ### 🕐 03:31 UTC · @elonmusk
 
 > Vice President JD Vance: “Texas is not becoming California, it’s going to stay Texas.” Media
@@ -271,6 +387,14 @@
 > Tomorrow is the last day of early voting in Texas. Vote for @KenPaxtonTX! We need strong turnout on these last 2 days of early voting in Texas for @KenPaxtonTX. Tomorrow is the last day to vote early.
 
 🔗 [View original post](https://x.com/elonmusk/status/2116002744586920092)
+
+---
+
+### 🕐 02:13 UTC · @elonmusk
+
+> How can you love America and vote for a democrat? How can you call yourself a republican and vote for democrat Please do not let these people fool you Let me be very clear. Anyone supporting a Democrat is NOT MAGA or a real Republican! You cannot make this stuff up! Annie Andrews is bragging about getting conservative support Her campaign ad features THREE former South Carolina governors, including TWO who lost their reelectio…
+
+🔗 [View original post](https://x.com/w_terrence/status/2115990535701983287)
 
 ---
 

@@ -2,7 +2,17 @@
 
 ## 📅 October 30, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 14:42 UTC · @dair_ai
+
+> Great report from NVIDIA. They report that Nemotron 3.5 Super reaches 51.78% on SWE-bench Pro. That beats Nemotron 3 Ultra with about 4.6x fewer active parameters. Super has 120B parameters with 12B active, and it handles text, images, and video. Lightning is a 30B text model with 3B active. The technical report covers every stage of training. Super gets mid-training on agentic software engineering, then supervised fine-tuning, RL, and multi-teacher on-policy distillation. Serving numbers are also included. The stack reaches up to 4,856 output tokens/s/GPU on GB200 while holding at least 50 tokens/s/user. NVFP4 quantization recovers 99.62% median accuracy relative to BF16. https://arxiv.org/abs/2610.38095 Chat with Paper: https://academy.dair.ai/papers/nemotron-3-5-super-and-lightning-open-efficient-mixture-of-experts-hybrid-mamba-2610.38095
+
+![Great report from NVIDIA. They report that Nemotron 3.5 Super reaches 51.78% on SWE-bench Pro. That beats Nemotron 3 Ultra with about 4.6x fewer active parameters. Super has 120B parameters with 12B a](../../../../assets/images/2026/10/30/2116178819271032975-1.jpg)
+
+🔗 [View original post](https://x.com/dair_ai/status/2116178819271032975)
 
 ---
 

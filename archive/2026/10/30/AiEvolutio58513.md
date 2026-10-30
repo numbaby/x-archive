@@ -2,7 +2,15 @@
 
 ## 📅 October 30, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 13:59 UTC · @AiEvolutio58513
+
+> Marc Andreessen says the gap between what AI-native startups and incumbents think AI can do is the widest he&apos;s ever seen: &quot;The AI-native early stage startups have just a completely different view on what they can do with AI than the typical incumbents in almost any industry, almost without exception.&quot; &quot;AI is just racing ahead in capability even week by week... There are going to be a lot of industries that are really up for grabs in a fundamentally more profound way than maybe has been the case in the past.&quot; &quot;The founders are gonna have a level of superpowers coming from the use of these tools and these technologies that they just simply haven&apos;t had in the past... Had I had Astra and Netscape in 1994, like, oh my God. Like, Ben, what would you and I have been able to do at Netscape?&quot; &quot;Those entrepreneurs are gonna color way outside the lines. We already see this. They&apos;re not gonna think of themselves as like, &apos;I&apos;m just a software company,&apos; or, &apos;I&apos;m just a hardware company,&apos; or even, &apos;I&apos;m just an AI company.&apos;&quot; Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2116168029415624941)
 
 ---
 
