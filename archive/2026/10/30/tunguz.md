@@ -2,7 +2,15 @@
 
 ## 📅 October 30, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 10:08 UTC · @tunguz
+
+> This is wild. Totally impractical, but wild. 🟠 RESULTS: I ran a 1 trillion parameter model on my 64GB M5 Pro Mac mini. Le Chonk by @MistralAI (Mistral Large 4, 1T total, 52B active), using @UnslothAI’s 1-bit quant. That’s 233GB of weights on a machine with 64GB of memory, so it streamed straight off the SSD. I guessed 2-4…
+
+🔗 [View original post](https://x.com/tunguz/status/2116109989806772684)
 
 ---
 
