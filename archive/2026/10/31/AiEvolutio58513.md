@@ -2,7 +2,15 @@
 
 ## 📅 October 31, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 12:57 UTC · @AiEvolutio58513
+
+> Palantir CEO Alex Karp on Michael Burry: “As far as I can tell, the two companies he’s shorting are the ones making all the money. The idea that Chips and Ontology is what you want to short is— batshit crazy.” Burry, the investor who called the 2008 crash, had bet against Nvidia and Palantir. Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2116514796011208953)
 
 ---
 
