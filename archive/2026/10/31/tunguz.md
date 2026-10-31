@@ -2,7 +2,23 @@
 
 ## 📅 October 31, 2026
 
-> 3 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 13:48 UTC · @tunguz
+
+> 100% convinced now that they had nerfed Astra for research all of October.
+
+🔗 [View original post](https://x.com/tunguz/status/2116527623194964270)
+
+---
+
+### 🕐 13:47 UTC · @tunguz
+
+> TFW you spend all of your Astra weekly token credits working on a research project that has already been solved in literature. 🤬
+
+🔗 [View original post](https://x.com/tunguz/status/2116527365400789057)
 
 ---
 

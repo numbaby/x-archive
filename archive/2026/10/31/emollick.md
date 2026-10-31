@@ -2,7 +2,15 @@
 
 ## 📅 October 31, 2026
 
-> 5 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 13:43 UTC · @emollick
+
+> The market for software migration from legacy systems has been limited to $30B a year or so because migration is very expensive and maintenance is easier. Talking to older firms, there is a real backlog of scoped cheaper migration projects being unlocked by AI surprisingly fast
+
+🔗 [View original post](https://x.com/emollick/status/2116526543346483419)
 
 ---
 

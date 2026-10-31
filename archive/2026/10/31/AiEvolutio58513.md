@@ -2,7 +2,15 @@
 
 ## 📅 October 31, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 13:59 UTC · @AiEvolutio58513
+
+> Jeff Bezos explains why even the people building AI keep getting surprised by it: &quot;Large language models in their current form are not inventions, they&apos;re discoveries.&quot; &quot;The telescope was an invention, but looking through it at Jupiter, knowing that it had moons was a discovery.&quot; &quot;We know exactly what happens with a 787. It&apos;s an engineered object.&quot; &quot;Large language models are much more like discoveries. We&apos;re constantly getting surprised by their capabilities.&quot; Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2116530418187112833)
 
 ---
 
