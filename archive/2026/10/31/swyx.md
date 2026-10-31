@@ -2,7 +2,25 @@
 
 ## 📅 October 31, 2026
 
-> 3 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 14:53 UTC · @swyx
+
+> direct clip: https://www.youtube.com/watch?v=MRQTlwcW-aQ
+
+![direct clip: https://www.youtube.com/watch?v=MRQTlwcW-aQ](../../../../assets/images/2026/10/31/2116544052267205093-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2116544052267205093)
+
+---
+
+### 🕐 14:06 UTC · @swyx
+
+> Alex Lieberman reveals the problem with selling enterprise AI like software: “there is so much nuance and so much inertia and so many systems you have to wrangle and people you have to wrangle.” “every software company is basically building up a team of FDEs because there’s just this convergence happening of services and software when every company wants all this nuance that was not traditionally expected from software.” “how will they be able to do this at software margins if everyone expects a one-of-one solution?” For software we could simply build it once and sell it multiple times... But with AI, AI buyers want completely custom solutions rather than adapting to software. Every new customer needs custom work, so vendors send FDEs to build bespoke operations. These increase costs, thereby decreasing profit margins... But rather than building each automation completely from scratch, processes can be standardized so that it can quickly be deployed onto multiple enterprises while staying custom. This can simply be implemented by changing the deployment steps: 1) Standardization Consolidate the workflows to complete a task into one process 2) Match Look for companies that do it the same way 3) Build Once Make a single solution that fits the group of companies 4) Tailor Add custom work only for the specific parts that belong to one company This way the deployment for the next customer doesn&apos;t start from scratch... The work was already built while the last part may change, it still feels custom but is cheaper and faster to deliver. Media
+
+🔗 [View original post](https://x.com/theahmedkaiz/status/2116532260560150961)
 
 ---
 

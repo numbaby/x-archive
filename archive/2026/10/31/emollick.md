@@ -2,7 +2,17 @@
 
 ## 📅 October 31, 2026
 
-> 6 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 14:25 UTC · @emollick
+
+> For Halloween, I asked Opus 5.5 to suggest a spooky project based on my existing work, and it came up with the idea of the ghost census. Pick a location and see how many people died within a 100 meters of it through all of history up to a century ago. https://ghost-census.netlify.app/
+
+![For Halloween, I asked Opus 5.5 to suggest a spooky project based on my existing work, and it came up with the idea of the ghost census. Pick a location and see how many people died within a 100 meter](../../../../assets/images/2026/10/31/2116537058433081669-1.jpg)
+
+🔗 [View original post](https://x.com/emollick/status/2116537058433081669)
 
 ---
 

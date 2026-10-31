@@ -2,7 +2,15 @@
 
 ## 📅 October 31, 2026
 
-> 5 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 14:46 UTC · @tunguz
+
+> Doing a lot of postmortem on various projects I&apos;ve unsuccessfully worked on over the past month. The more I dig into it, the worse it looks.
+
+🔗 [View original post](https://x.com/tunguz/status/2116542408599154725)
 
 ---
 
