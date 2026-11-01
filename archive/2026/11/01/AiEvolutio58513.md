@@ -2,7 +2,15 @@
 
 ## 📅 November 01, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 13:04 UTC · @AiEvolutio58513
+
+> Jensen Huang says the AI doomers are about to cause a shortage of the very jobs they say AI will kill: &quot;If we scare everybody out of doing software engineering jobs because it&apos;s going to kill every software engineering job, and we don&apos;t have any software engineers as a result of that, we&apos;re doing a disservice to the United States.&quot; &quot;We misunderstand the difference between a job and a task.&quot; &quot;The job of a radiologist is patient care. The task is to read a scan.&quot; Ten years ago the same people told students not to become radiologists. Today the US is short of them. Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2116878958851703070)
 
 ---
 
