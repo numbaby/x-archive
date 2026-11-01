@@ -144602,6 +144602,19 @@
       }
     ]
   },
+  "2116880048456081875": {
+    "account": "Letstalk246",
+    "date": "2026-11-01",
+    "file": "data/posts/2026/11/2026-11-01.jsonl",
+    "fingerprint": "231030a0e70eebef7d7e0b160be0d1e19485a42e30fd2dc07e9b477202ce49f7",
+    "media": [
+      {
+        "local_path": "assets/images/2026/11/01/2116880048456081875-1.jpg",
+        "sha256": "dd9e9b8cd03edc890bfd7f0ffbf1f5878f7ad6411dc70339dd9087a5bf32bb9a",
+        "source_url": "https://pbs.twimg.com/media/HWCrLvyXYAAsjCs.jpg?name=orig"
+      }
+    ]
+  },
   "2116880652389728748": {
     "account": "elonmusk",
     "date": "2026-11-01",
@@ -144628,6 +144641,46 @@
     "date": "2026-11-01",
     "file": "data/posts/2026/11/2026-11-01.jsonl",
     "fingerprint": "a75118127773e5644da9353ab92331104934070f6e2db7d42e8e4675865092c1",
+    "media": []
+  },
+  "2116897917109731481": {
+    "account": "Letstalk246",
+    "date": "2026-11-01",
+    "file": "data/posts/2026/11/2026-11-01.jsonl",
+    "fingerprint": "eda77fc5e54206ba97a33fec563cae882d16fae4a0ece5873f2862039d03937f",
+    "media": [
+      {
+        "local_path": "assets/images/2026/11/01/2116897917109731481-1.jpg",
+        "sha256": "01edd836ed19afad6060f4c367e8093b9b3e603e83e02ed11592ecf7bfe05904",
+        "source_url": "https://pbs.twimg.com/media/HWC7b5RXUAAkQBr.jpg?name=orig"
+      }
+    ]
+  },
+  "2116905564680687831": {
+    "account": "emollick",
+    "date": "2026-11-01",
+    "file": "data/posts/2026/11/2026-11-01.jsonl",
+    "fingerprint": "07418746685ec32abd1dfd84961040e7e3ea35fa7401d03f3bfd1be19c88f57a",
+    "media": []
+  },
+  "2116907715683319897": {
+    "account": "emollick",
+    "date": "2026-11-01",
+    "file": "data/posts/2026/11/2026-11-01.jsonl",
+    "fingerprint": "dc9e3ccac2904989389ab2f43a11b2b438fda5037b7627e43a5aae420701e704",
+    "media": [
+      {
+        "local_path": "assets/images/2026/11/01/2116907715683319897-1.jpg",
+        "sha256": "e447be3f2f644d28dba0c3e643170279eb10bf43ee93fb81c9905e9f215b7e0e",
+        "source_url": "https://pbs.twimg.com/media/HWDEWRNW4AAwfDF.jpg?name=orig"
+      }
+    ]
+  },
+  "2116915149546389960": {
+    "account": "emollick",
+    "date": "2026-11-01",
+    "file": "data/posts/2026/11/2026-11-01.jsonl",
+    "fingerprint": "789b1c2b00a0209c5e5b69595128e6165343ddb3f9a5f7da41f0de36893b7854",
     "media": []
   }
 }

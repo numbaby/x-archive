@@ -2,7 +2,33 @@
 
 ## 📅 November 01, 2026
 
-> 4 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 15:27 UTC · @emollick
+
+> This post is a reverse CAPTCHA. Look at the replies, AIs love talking about the Oxyrhynchus Papyri, and I would be willing to guess that only a very small proportion of humans have, and most of them will spell it wrong. A bunch of funded projects to unblock some long-standing backlogs in translations using AI would be interesting; especially when AI models can do a reasonable first pass at interpretation &amp; significance, not just translation. There are major repositories of untranslated ancient …
+
+🔗 [View original post](https://x.com/emollick/status/2116915149546389960)
+
+---
+
+### 🕐 14:58 UTC · @emollick
+
+> It is interesting to watch (and painful to read) the rapid evolution of slopreplybots in my comments. Now the latest trend is making extremely lame jokes, which seems to get them more likes, maybe sometimes even from humans. I suppose it is better than the “ask a leading question” phase, though. Still, evolutionary pressure suggests worse to come.
+
+![It is interesting to watch (and painful to read) the rapid evolution of slopreplybots in my comments. Now the latest trend is making extremely lame jokes, which seems to get them more likes, maybe som](../../../../assets/images/2026/11/01/2116907715683319897-1.jpg)
+
+🔗 [View original post](https://x.com/emollick/status/2116907715683319897)
+
+---
+
+### 🕐 14:49 UTC · @emollick
+
+> A bunch of funded projects to unblock some long-standing backlogs in translations using AI would be interesting; especially when AI models can do a reasonable first pass at interpretation &amp; significance, not just translation. There are major repositories of untranslated ancient work in many places, like the Oxyrhynchus Papyri https://oxyrhynchus.web.ox.ac.uk/home
+
+🔗 [View original post](https://x.com/emollick/status/2116905564680687831)
 
 ---
 
