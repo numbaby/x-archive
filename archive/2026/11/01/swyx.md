@@ -2,7 +2,15 @@
 
 ## 📅 November 01, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 06:39 UTC · @swyx
+
+> @karpathy https://hackertube.org/ url
+
+🔗 [View original post](https://x.com/swyx/status/2116782055665402157)
 
 ---
 
