@@ -2,7 +2,23 @@
 
 ## 📅 November 01, 2026
 
-> 2 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 05:58 UTC · @emollick
+
+> There is also Max Thinking on Codex and Work, which is different than Pro Mode, and sometimes requires you to enable in a menu. It is the highest thinking mode you can get in Codex and Work that isn&apos;t biased towards launching lots of agents but it is still not as good as Pro.
+
+🔗 [View original post](https://x.com/emollick/status/2116771903268348127)
+
+---
+
+### 🕐 05:54 UTC · @emollick
+
+> Confusingly, you can only access Pro mode in the Chat interface. What appears to be the highest thinking mode in the Codex and ChatGPT Work interface is called Ultra, and it does something entirely different (spawning lots of agents to solve a problem).
+
+🔗 [View original post](https://x.com/emollick/status/2116770904940388827)
 
 ---
 
