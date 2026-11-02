@@ -2,7 +2,15 @@
 
 ## 📅 November 02, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 01:24 UTC · @omarsar0
+
+> This little project does take me back to the days when we were building Papers with Code. We were so obsessed with finding the paper gems through various signals but one of the signals that mattered the most imo is whether people were discussing the paper at all.
+
+🔗 [View original post](https://x.com/omarsar0/status/2117065370318369017)
 
 ---
 
