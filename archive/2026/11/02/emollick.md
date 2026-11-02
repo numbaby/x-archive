@@ -2,7 +2,15 @@
 
 ## 📅 November 02, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 06:33 UTC · @emollick
+
+> Again, @SemiAnalysis_ is doing something valuable here &amp; you can see why benchmarks of expert-level work are incredibly hard to pull off. I think this is quite useful at a time where so many other major benchmarks (ARC-AGI, GDPval, METR Long Tasks) are completely saturated.
+
+🔗 [View original post](https://x.com/emollick/status/2117143076443746659)
 
 ---
 
