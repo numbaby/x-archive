@@ -2,7 +2,24 @@
 
 ## 📅 November 04, 2026
 
-> 8 post(s) archived.
+> 10 post(s) archived.
+
+---
+
+### 🕐 14:37 UTC · @elonmusk
+
+
+![](../../../../assets/images/2026/11/04/2117989734492537245-1.jpg)
+
+🔗 [View original post](https://x.com/elonmusk/status/2117989734492537245)
+
+---
+
+### 🕐 14:36 UTC · @elonmusk
+
+> Qualcomm’s technology is excellent SpaceX selected Qualcomm Dragonwing to accelerate @Starlink Mobile’s nationwide terrestrial 5G network. Together with @elonmusk and the @SpaceX team, we’re excited to build world-leading cellular infrastructure and a path to AI-native 6G. 🤜🤛
+
+🔗 [View original post](https://x.com/elonmusk/status/2117989292144525474)
 
 ---
 

@@ -2,7 +2,17 @@
 
 ## 📅 November 04, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 14:40 UTC · @dair_ai
+
+> Great new paper on recursive self-improvement. Self-improving AI is one of the most discussed ideas right now. This paper explores training a model to run LLM post-training itself. (bookmark it) The team built RSI-Craft, a pipeline that turns research papers into executable training environments, including datasets, metrics, and evaluation code. After filtering for reliability and difficulty, 281 post-training tasks remain. Frontier models solved them under an improved harness, and the filtered trajectories were used to fine-tune Qwen models. The 9B version gains 8.74 points. RSI-Dojo-35B-A3B gains 16.87 points on PostTrainBench and reaches 29.95, similar to GLM-5.2 and GPT 5.5. https://arxiv.org/abs/2611.03698 Chat with Paper: https://academy.dair.ai/papers/training-llm-agents-to-automate-llm-post-training-with-rsi-dojo-2611.03698
+
+![Great new paper on recursive self-improvement. Self-improving AI is one of the most discussed ideas right now. This paper explores training a model to run LLM post-training itself. (bookmark it) The t](../../../../assets/images/2026/11/04/2117990256297513364-1.png)
+
+🔗 [View original post](https://x.com/dair_ai/status/2117990256297513364)
 
 ---
 
