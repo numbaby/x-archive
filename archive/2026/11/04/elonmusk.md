@@ -2,7 +2,31 @@
 
 ## 📅 November 04, 2026
 
-> 10 post(s) archived.
+> 16 post(s) archived.
+
+---
+
+### 🕐 15:04 UTC · @elonmusk
+
+> At last there will be one network with good signal everywhere! Starlink Mobile is building the first fully-integrated US nationwide satellite and terrestrial network that will keep people connected on their phones no matter where they are. Our 5G base stations will leverage @Qualcomm chips to accelerate deployment, starting in 2027 🛰️📱
+
+🔗 [View original post](https://x.com/elonmusk/status/2117996293188718856)
+
+---
+
+### 🕐 15:02 UTC · @elonmusk
+
+> Free new dish for all early Starlink customers Starlink is formally rolling out free dish upgrades for its earliest customers. “Eligible customers who were among the first to connect with Starlink, and who are still using a first-generation kit can receive a new Standard kit at no cost. Customers will be provided with a free…
+
+🔗 [View original post](https://x.com/elonmusk/status/2117995905525907769)
+
+---
+
+### 🕐 15:00 UTC · @elonmusk
+
+> Grok @Bot will research purchase ideas, bring back a selection, order them, track the purchases and return anything you don’t want Buying things with @bot just got better
+
+🔗 [View original post](https://x.com/elonmusk/status/2117995339320070525)
 
 ---
 
@@ -20,6 +44,32 @@
 > Qualcomm’s technology is excellent SpaceX selected Qualcomm Dragonwing to accelerate @Starlink Mobile’s nationwide terrestrial 5G network. Together with @elonmusk and the @SpaceX team, we’re excited to build world-leading cellular infrastructure and a path to AI-native 6G. 🤜🤛
 
 🔗 [View original post](https://x.com/elonmusk/status/2117989292144525474)
+
+---
+
+### 🕐 14:23 UTC · @elonmusk
+
+> Excited to build Starlink Mobile with @Qualcomm ! Starlink Mobile is building the first fully-integrated US nationwide satellite and terrestrial network that will keep people connected on their phones no matter where they are. Our 5G base stations will leverage @Qualcomm chips to accelerate deployment, starting in 2027 🛰️📱
+
+🔗 [View original post](https://x.com/michaelnicollsx/status/2117986093178265833)
+
+---
+
+### 🕐 13:14 UTC · @elonmusk
+
+> BREAKING: Norway’s government secures @Starlink access for its military, police and security agencies under a satellite communications deal worth up to NOK 450 million. 🇳🇴 The agreement covers: • Norwegian Armed Forces • Police • Police Security Service (PST) • National Security Authority (NSM) Norway’s military already has 180 active Starlink subscriptions for email, internet access and personnel welfare. Awarded to Marlink, a Norway-based satellite communications provider, the agreement includes several satellite networks and specifically requires access to Starlink.
+
+![BREAKING: Norway’s government secures @Starlink access for its military, police and security agencies under a satellite communications deal worth up to NOK 450 million. 🇳🇴 The agreement covers: • Norw](../../../../assets/images/2026/11/04/2117968783784673696-1.jpg)
+
+🔗 [View original post](https://x.com/cb_doge/status/2117968783784673696)
+
+---
+
+### 🕐 13:10 UTC · @elonmusk
+
+> This is 100% real 😂 SpaceXSI is running an ad on a different platform about how to use Grok Bot to buy a local home services business featuring... Never mind… just watch it yourself. My head is spinning. Media
+
+🔗 [View original post](https://x.com/SMB_Attorney/status/2117967638911435077)
 
 ---
 

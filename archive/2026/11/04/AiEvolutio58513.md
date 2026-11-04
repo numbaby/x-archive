@@ -2,7 +2,25 @@
 
 ## 📅 November 04, 2026
 
-> 3 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 15:13 UTC · @AiEvolutio58513
+
+> Ask most people what AI does in email, and you’ll get “writes subject lines.” It’s 8 separate jobs, and writing is the least interesting one on the list. Segment building, send time optimization, predictive analytics, product recommendations, form capture, brand and design automation. @omnisend went and scored 7 platforms against all 8, which is more work than I’ve seen anyone else put into this question. It’s the clearest map I’ve found of what AI actually does in email right now, and what’s still just a line on a pricing page nobody has shipped yet. Definitely worth 5 minutes to make sure you&apos;re on top of your own AI strategy: https://www.omnisend.com/blog/ai-email-marketing-tools/
+
+![Ask most people what AI does in email, and you’ll get “writes subject lines.” It’s 8 separate jobs, and writing is the least interesting one on the list. Segment building, send time optimization, pred](../../../../assets/images/2026/11/04/2117998578039931079-1.jpg)
+
+🔗 [View original post](https://x.com/ecomchasedimond/status/2117998578039931079)
+
+---
+
+### 🕐 15:00 UTC · @AiEvolutio58513
+
+> Pixar founder Ed Catmull explains the question nobody at Disney thought to ask: &quot;No one at Disney thought to ask why.&quot; Disney&apos;s contract with Pixar gave it a full view of Pixar&apos;s business. Disney could see Pixar pulling ahead. Nobody stopped to ask why. Then Bob Iger became CEO. &quot;He walked up our walkway to the building alone. No assistant. No entourage.&quot; &quot;From the people at Pixar, the fact that he came alone was very impressive.&quot; &quot;He was there to learn.&quot; Catmull says that visit is when Iger realized he had to buy Pixar. The data was in Disney&apos;s hands for years. It took one CEO showing up alone and curious to act on it. Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2117995485168550203)
 
 ---
 
