@@ -2,7 +2,15 @@
 
 ## 📅 November 04, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 12:58 UTC · @AiEvolutio58513
+
+> Gavin Baker explains Elon Musk&apos;s real superpower: &quot;Elon has always made investors money. He treats it like a sacred covenant.&quot; &quot;Because he&apos;s made people money for now 20 years, he has a superpower. And that is he can essentially raise as much capital as he wants whenever he wants.&quot; The method? &quot;Just never being greedy on valuation.&quot; SpaceX compounded in the low 30s percent a year for about a decade. Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2117964650474246535)
 
 ---
 
