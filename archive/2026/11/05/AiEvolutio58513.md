@@ -2,7 +2,15 @@
 
 ## 📅 November 05, 2026
 
-> 11 post(s) archived.
+> 12 post(s) archived.
+
+---
+
+### 🕐 19:05 UTC · @AiEvolutio58513
+
+> Your Black Friday sale shouldn&apos;t be the first time someone hears about your product. TikTok Shop Black Friday &amp; Cyber Monday runs November 11-30, 2026. U.S. sellers: register now and prepare before launch. Paid partnership with TikTok Shop.
+
+🔗 [View original post](https://x.com/ecomchasedimond/status/2118419457190297993)
 
 ---
 

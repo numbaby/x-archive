@@ -2,7 +2,49 @@
 
 ## 📅 November 05, 2026
 
-> 14 post(s) archived.
+> 19 post(s) archived.
+
+---
+
+### 🕐 19:51 UTC · @elonmusk
+
+> Interesting The governor-elect of Texas, Gina Hinojosa, has explicitly said that all currently permitted datacenters in Texas will be allowed to finish construction. This essentially covers all of the 2027 and likely well into 2028. She is going to pass laws that ensure that all *newly* per…
+
+🔗 [View original post](https://x.com/elonmusk/status/2118431051253239889)
+
+---
+
+### 🕐 19:36 UTC · @elonmusk
+
+> Had coffee with a right-leaning friend who works as a general contractor. He said his daily life was mostly the same between the last two years of the Biden term and the first two years of the Trump term, with one exception: it now costs $230 to fill his truck with diesel.
+
+🔗 [View original post](https://x.com/christopherrufo/status/2118427196033548626)
+
+---
+
+### 🕐 18:59 UTC · @elonmusk
+
+> The irony of all the attacks on @elonmusk over DOGE is that cutting government spending and regulation is the solution to the cost-of-living crisis Prices went up so much because the government spent trillions in 2020 and 2021 and the Fed printed the money to pay for it And the things getting more expensive the fastest are the most regulated: housing, healthcare, and education TVs, software, cellphones, and toys got cheaper Elon Musk and DOGE would have made life more affordable for Americans if they were allowed to cut spending and get rid of unnecessary regulations
+
+![The irony of all the attacks on @elonmusk over DOGE is that cutting government spending and regulation is the solution to the cost-of-living crisis Prices went up so much because the government spent ](../../../../assets/images/2026/11/05/2118417820434497681-1.jpg)
+
+🔗 [View original post](https://x.com/KanekoaTheGreat/status/2118417820434497681)
+
+---
+
+### 🕐 18:37 UTC · @elonmusk
+
+> Riley Trettel (Energy &amp; Data Center Development at SpaceX) in yesterdays Cochise Data Center meeting. He claims the project will deliver up to: - 40% off residential power bills for Sulphur Springs members, for the life of the project - $53 million a year to the SSVEC Foundation, for education and the community - $190 million a year in extra capital for Sulphur Springs, for projects or back to members - $200 million a year for AEPCO and its members. About $100 million of that for Sulphur Springs - $3.6 billion in new power lines, paid by SpaceX and given to the co-op. The co-op takes on no debt - $30 to $100 million a year in new property tax, and a 20% cut in everyone else&apos;s county property taxes - $250 million, one time, in sales tax. He said it could pay off the jail bond and fund the sheriff, fire districts, and the hospital - $50 billion invested in the project - 1,000 permanent jobs and 5,000 construction jobs - No industrial water. Water for staff and maintenance about equal to 20–30 homes a year - No gas turbines and no power plant on the site. The computers buy power from the co-op grid - Dark-sky lighting, pointed at the ground - Cooling equipment more than 1,500 feet from any neighboring property line or public road This project is clearly extremely positive for the area. Media The next SpaceX datacenter will be in Cochise Arizona. ~6 GW spread over 9 buildings. &gt; No industrial water use. &gt; No gas turbines and no on-site power generation. &gt; ~3 miles away from the nearest homes
+
+🔗 [View original post](https://x.com/xdNiBoR/status/2118412345789579392)
+
+---
+
+### 🕐 17:51 UTC · @elonmusk
+
+> In Iain M. Banks&apos;s books, the Culture solves envy—a crux of humanity—by letting every citizen experience what they have not yet via tremendous compute (a world where citizens have no token limit). Citizens quickly realize envy is pointless, as different life experiences mix good and bad; the grass of others is not any greener.
+
+🔗 [View original post](https://x.com/yunta_tsai/status/2118400877027635609)
 
 ---
 

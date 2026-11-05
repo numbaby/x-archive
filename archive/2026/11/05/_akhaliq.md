@@ -2,7 +2,15 @@
 
 ## 📅 November 05, 2026
 
-> 5 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 19:47 UTC · @_akhaliq
+
+> YOUR data deserves YOUR own, private model. Now, let @HuggingFace&apos;s ML Intern build it for you. Connect your data, files, mcps. And call it from Slack. Media
+
+🔗 [View original post](https://x.com/abidlabs/status/2118429900134871418)
 
 ---
 

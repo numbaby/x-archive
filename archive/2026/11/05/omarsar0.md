@@ -2,7 +2,15 @@
 
 ## 📅 November 05, 2026
 
-> 5 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 19:29 UTC · @omarsar0
+
+> AI gets much more useful when it shows up where the work already lives. A lot of that work still sits in email. Viktor now has his own email address. Cc him on a team thread or forward him the work, and he does it right there in the thread. Just email viktor@viktor.com to get started. @viktor_com Starting today, anyone with an email address can have their own AI employee. Free to start. @viktor_com started in Slack. Now Viktor has an email address, so billions of people can reach it. Just email viktor@viktor.com to get started. Put Viktor on cc to book a meeting. Or forw…
+
+🔗 [View original post](https://x.com/omarsar0/status/2118425494941044915)
 
 ---
 
