@@ -2,7 +2,15 @@
 
 ## 📅 November 05, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 15:19 UTC · @dair_ai
+
+> Highly recommended paper for understanding what it takes to build RSI foundation model systems. Banger paper on RSI with foundation model systems. (bookmark it) Seriously, I highly recommend this paper if you want to start experimenting with RSI in your own company. Lots of great insights and tips. They propose Recursa, which raises DeepSeek-V4.1-Flash from 30.0% to 55.0% …
+
+🔗 [View original post](https://x.com/dair_ai/status/2118362454141100189)
 
 ---
 

@@ -2,7 +2,51 @@
 
 ## 📅 November 05, 2026
 
-> 3 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 15:33 UTC · @AiEvolutio58513
+
+> What surprised me most about emailing Viktor: he replies only to people already on the thread and never sends cold emails. I can cc him without worrying. Just email viktor@viktor.com @viktor_com Paid Partnership Starting today, anyone with an email address can have their own AI employee. Free to start. @viktor_com started in Slack. Now Viktor has an email address, so billions of people can reach it. Just email viktor@viktor.com to get started. Put Viktor on cc to book a meeting. Or forw…
+
+🔗 [View original post](https://x.com/ecomchasedimond/status/2118366136433811612)
+
+---
+
+### 🕐 15:22 UTC · @AiEvolutio58513
+
+> If you save useful research and rarely revisit it, Recall is worth exploring. Ambi is opening access in stages. Use my invitation link below to request access. Once you have access, you can start a 7-day free trial. Its first hardware is planned for early 2027. Try it: https://ambi.ai/i/USZYTU?utm_source=linkedin&amp;utm_medium=kol&amp;utm_campaign=launch_1012&amp;utm_content=AIEvolution_thread #ad #ambi #AmbiLaunch
+
+![If you save useful research and rarely revisit it, Recall is worth exploring. Ambi is opening access in stages. Use my invitation link below to request access. Once you have access, you can start a 7-](../../../../assets/images/2026/11/05/2118363398169903610-1.png)
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2118363398169903610)
+
+---
+
+### 🕐 15:22 UTC · @AiEvolutio58513
+
+> Say I&apos;m working on a newsletter about AI agents. If I&apos;d shared a launch breakdown with Ambi last week, Recall could bring it back with a note explaining why it fits today&apos;s topic. That&apos;s when I&apos;d actually want to see it again.
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2118363396601163900)
+
+---
+
+### 🕐 15:22 UTC · @AiEvolutio58513
+
+> I save AI articles, launches, and threads throughout the week. When it&apos;s time to write my newsletter, too many are buried in bookmarks. @hello_ambi has a Routine called Recall that can resurface links you share with it when they&apos;re relevant.
+
+![I save AI articles, launches, and threads throughout the week. When it&apos;s time to write my newsletter, too many are buried in bookmarks. @hello_ambi has a Routine called Recall that can resurface ](../../../../assets/images/2026/11/05/2118363390460735940-1.jpg)
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2118363390460735940)
+
+---
+
+### 🕐 14:58 UTC · @AiEvolutio58513
+
+> Elon Musk reveals he flew to Moscow to buy real nuclear missiles before SpaceX existed: &quot;I went to Russia in like 2001 and 2002 to buy ICBMs, which is an adventure. You go and meet with Russian high command and say, I&apos;d like to buy some ICBMs.&quot; The plan wasn&apos;t what it sounds like: &quot;Not to nuke anyone, but as a result of arms reduction talks, they had to destroy a bunch of their big nuclear missiles. So I was like, well, how about we take two of those, minus the nuke, add an additional upper stage for Mars.&quot; The Russians had other ideas: &quot;It was kind of trippy, being in Moscow in 2001, negotiating with the Russian military to buy ICBMs. And they kept raising the price on me, which is the opposite of what a negotiation should do.&quot; He came home without the missiles and started SpaceX to build the rockets himself. Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2118357242714128444)
 
 ---
 

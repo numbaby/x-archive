@@ -2,7 +2,15 @@
 
 ## 📅 November 05, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 15:03 UTC · @tunguz
+
+> Here is an easy way to stop stressing over all of your problems in life: just ignore them and hope they go away on their own.
+
+🔗 [View original post](https://x.com/tunguz/status/2118358455232737785)
 
 ---
 
