@@ -2,7 +2,15 @@
 
 ## 📅 November 05, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 02:33 UTC · @swyx
+
+> announced on aie channel. so hyped https://x.com/aiDotEngineer/status/2118048131052933313 Three days at AIE CODE: Nov 10: Fighting Slop in Software Factories. Talks + workshops. Nov 11: System One models making smart software. Nov 12: Raising Ambition, including Grand Rewrites. San Francisco. Nov 10 requires the workshop add-on. Schedule: https://ai.engineer/code/202…
+
+🔗 [View original post](https://x.com/swyx/status/2118169736563589350)
 
 ---
 
