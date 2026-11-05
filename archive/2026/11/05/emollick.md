@@ -2,7 +2,25 @@
 
 ## 📅 November 05, 2026
 
-> 4 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 22:11 UTC · @emollick
+
+> I think its technically five billionaire-funded magazines, though I believe all have editorial independence: the City Journal (Paul Singer&apos;s Foundation), Baffler (Soros Open Society), Poetry (Ruth Lily Endowment), Noema (Berggruen Institute) and Works in Progress (Stripe).
+
+![I think its technically five billionaire-funded magazines, though I believe all have editorial independence: the City Journal (Paul Singer&apos;s Foundation), Baffler (Soros Open Society), Poetry (Rut](../../../../assets/images/2026/11/05/2118466236094759237-1.jpg)
+
+🔗 [View original post](https://x.com/emollick/status/2118466236094759237)
+
+---
+
+### 🕐 22:01 UTC · @emollick
+
+> Erik is one of the economists who has been watching the impact of AI on the economy most closely, even before generative AI... Evidence is growing that we’re turning the corner on productivity. US productivity grew at a 3.6% annual rate this past quarter. That’s more than double the 1.5% average from 2007-2019. The new numbers put me further ahead for my bet with Bob Gordon about productivity growth in …
+
+🔗 [View original post](https://x.com/emollick/status/2118463680295944665)
 
 ---
 

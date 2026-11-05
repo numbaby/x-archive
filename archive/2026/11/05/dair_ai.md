@@ -2,7 +2,15 @@
 
 ## 📅 November 05, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 21:30 UTC · @dair_ai
+
+> I am bullish on this vision. I&apos;ve been using smaller models on my local machine to scale my agent teams. Powerful small reasoning models running locally can unlock all kinds of workflows, such as AI R&amp;D and custom harness optimization. Love what this team is building. Do check out their new open 8B model and the new Mac app. @thewebAI app is officially live for everyone. Expert AI running on your laptop. The more powerful your device, the more it can do. Download the app: https://webai.com
+
+🔗 [View original post](https://x.com/omarsar0/status/2118455825513468238)
 
 ---
 
