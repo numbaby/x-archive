@@ -2,7 +2,15 @@
 
 ## 📅 November 05, 2026
 
-> 6 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 20:24 UTC · @omarsar0
+
+> A model being great at US English says little about how it ranks in other languages like Brazilian Portuguese. These benchmark efforts matter a lot for voice. The per-use-case benchmark is also ideal for properly measuring voice agents&apos; effectiveness and robustness in certain languages. Drop 3/15: Introducing the Speech Recognition Benchmark on @voicearena_ai. One benchmark for every use case of speech recognition, in every language. Tested on real conversations. Dataset 1 is live: the Monsoon Conversational ASR Test Set, two-person conversations in 5 languages…
+
+🔗 [View original post](https://x.com/omarsar0/status/2118439419787030983)
 
 ---
 

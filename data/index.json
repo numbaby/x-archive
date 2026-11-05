@@ -145611,6 +145611,19 @@
     "fingerprint": "84e8dff9f9bb1332f73f5a0b691655fa59f2e3ed3d949318884674b15054bac8",
     "media": []
   },
+  "2118176199746965741": {
+    "account": "elonmusk",
+    "date": "2026-11-05",
+    "file": "data/posts/2026/11/2026-11-05.jsonl",
+    "fingerprint": "3a43dc071b9a04b3f1b5bf68e3d2474036190a9a3f90f29ac12486db8e1a955a",
+    "media": [
+      {
+        "local_path": "assets/images/2026/11/05/2118176199746965741-1.jpg",
+        "sha256": "88e9fe13d8e5ee602a06837f71b2339d2fdc9694cc320b2300e1c9e55cea606b",
+        "source_url": "https://pbs.twimg.com/media/HWVF_8KbgAAkbc9.jpg?name=orig"
+      }
+    ]
+  },
   "2118177969000825152": {
     "account": "swyx",
     "date": "2026-11-05",
@@ -145948,6 +145961,13 @@
         "source_url": "https://pbs.twimg.com/media/HWXama6a0AAVtN0.jpg?name=orig"
       }
     ]
+  },
+  "2118341564262973607": {
+    "account": "elonmusk",
+    "date": "2026-11-05",
+    "file": "data/posts/2026/11/2026-11-05.jsonl",
+    "fingerprint": "b58c6f4e550812019b59f55596f7ea9ca52797b04cb57b33e7d26fb81ae8004d",
+    "media": []
   },
   "2118344119978451150": {
     "account": "_akhaliq",
@@ -146352,6 +146372,20 @@
     "fingerprint": "9d28835bd0df8d02f77d89d5c291d8a0f8066bb9eca02b3c003b3830ed1eeb23",
     "media": []
   },
+  "2118423712017854485": {
+    "account": "tunguz",
+    "date": "2026-11-05",
+    "file": "data/posts/2026/11/2026-11-05.jsonl",
+    "fingerprint": "34f877cc9ae64490946ca1384f987c7a6b13abf8d949b692f352a27d56bf4e10",
+    "media": []
+  },
+  "2118425003444040158": {
+    "account": "tunguz",
+    "date": "2026-11-05",
+    "file": "data/posts/2026/11/2026-11-05.jsonl",
+    "fingerprint": "c172c12527855976bd596510f6912eb40ed391855cb609d229d021ebb8401b0b",
+    "media": []
+  },
   "2118425494941044915": {
     "account": "omarsar0",
     "date": "2026-11-05",
@@ -146378,6 +146412,13 @@
     "date": "2026-11-05",
     "file": "data/posts/2026/11/2026-11-05.jsonl",
     "fingerprint": "00adc99082d70a7f29ad32cc830a1baefd440833fbf7c417a0aeaa8385ec5e89",
+    "media": []
+  },
+  "2118439419787030983": {
+    "account": "omarsar0",
+    "date": "2026-11-05",
+    "file": "data/posts/2026/11/2026-11-05.jsonl",
+    "fingerprint": "0030e278181b46a96cd75b9a8be1635e1a468c9d16ea3b12207da1190c81c561",
     "media": []
   }
 }

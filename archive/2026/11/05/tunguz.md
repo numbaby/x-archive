@@ -2,7 +2,23 @@
 
 ## 📅 November 05, 2026
 
-> 7 post(s) archived.
+> 9 post(s) archived.
+
+---
+
+### 🕐 19:27 UTC · @tunguz
+
+> I am old enough to remember when I used to look forward to going to the mailbox because there was always a *slim chance* that I might get a personalized handwritten letter.
+
+🔗 [View original post](https://x.com/tunguz/status/2118425003444040158)
+
+---
+
+### 🕐 19:22 UTC · @tunguz
+
+> Organic mushroom farming looking increasingly appealing as a career pivot.
+
+🔗 [View original post](https://x.com/tunguz/status/2118423712017854485)
 
 ---
 
