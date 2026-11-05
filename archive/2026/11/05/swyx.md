@@ -2,7 +2,25 @@
 
 ## 📅 November 05, 2026
 
-> 6 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 07:58 UTC · @swyx
+
+> https://x.com/lily_gpupoor/status/2118223980398276867?s=46 AIE Shanghai @swyx is happening now, Nov 5-6! Spicy take: AIE &gt;&gt;&gt; OpenAI Dev Day for me, cuz it has the best and most fun AI builder community. Make sure to check out @ryolu_’s talk. His keynote at Cursor Compile was my all-time favorite!
+
+🔗 [View original post](https://x.com/swyx/status/2118251501214896570)
+
+---
+
+### 🕐 07:39 UTC · @swyx
+
+> absolutely tearing up seeing AIE Shanghai kick off and SUCH INCREDIBLE EXECUTION from @StandupPartners. the first AIE in China is actually happening!!! and its a packed room and a hot schedule featuring @ryolu_ , @Microsoft, @MiniMax_AI , @theworldlabs, @HeyGen , @ExaAILabs , @openclaw , @StepFun_ai , @liquidai , @youdotcom , @DynaRobotics , @baseten, @Meta , @OptiverGlobal , @ManusAI and more. not livestreamed because Reasons but you can bet we&apos;ll be posting up some videos and takes Look at this turnout at @aiDotEngineer Shanghai Day 1! Featuring the one the only @ryolu_ 當我們什麼都能做，還知道自己想做什麼嗎？🥹 好真誠的分享
+
+![absolutely tearing up seeing AIE Shanghai kick off and SUCH INCREDIBLE EXECUTION from @StandupPartners. the first AIE in China is actually happening!!! and its a packed room and a hot schedule featuri](../../../../assets/images/2026/11/05/2118246851136909731-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2118246851136909731)
 
 ---
 
