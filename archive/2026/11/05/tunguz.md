@@ -2,7 +2,15 @@
 
 ## 📅 November 05, 2026
 
-> 6 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 17:50 UTC · @tunguz
+
+> Gary is next level. Today‘s work office
+
+🔗 [View original post](https://x.com/tunguz/status/2118400654444015741)
 
 ---
 

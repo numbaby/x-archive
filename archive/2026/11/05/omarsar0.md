@@ -2,7 +2,15 @@
 
 ## 📅 November 05, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 17:19 UTC · @omarsar0
+
+> Can AI agents do scientific research on their own? Science&apos;s Last Exam is a new benchmark measure this. It&apos;s built from real research tasks across nine scientific fields. It tests whether an agent can form hypotheses, plan protocols, run scientific code and software, and read what happens in experiment videos. Researchers from more than 30 institutions wrote and reviewed the tasks. On the initial leaderboard, the strongest agent configuration (Claude Opus 5 in Claude Code) reaches a composite score of 37.5 out of 100. On the end-to-end research track, every model scores 0. I’m incredibly proud to share what we’ve been building at the AItonomy Foundation: Science’s Last Exam (SLE). 🧪✨ Can AI do science? Instead of Q&amp;A, we give agents actual research goals and real-world tools (lab data, software), then grade them against hidden expert checks. Deep…
+
+🔗 [View original post](https://x.com/omarsar0/status/2118392657651057140)
 
 ---
 

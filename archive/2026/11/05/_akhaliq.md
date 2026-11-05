@@ -2,7 +2,33 @@
 
 ## 📅 November 05, 2026
 
-> 2 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 17:51 UTC · @_akhaliq
+
+> From Pixels to Actions Towards Native Vision-Language-Action Policies paper: https://huggingface.co/papers/2611.06918 Media
+
+🔗 [View original post](https://x.com/_akhaliq/status/2118400919637508576)
+
+---
+
+### 🕐 17:36 UTC · @_akhaliq
+
+> Starting today, every engineer who joins Serval begins with a weeklong, $10,000 paid vacation. We’re building the next generational company. We need generational talent to see it through. Our mission has always been to empower people across every team to turn their understanding of a problem into working, trustworthy automations. Making that function inside the largest enterprises takes world-class engineering. That’s what you’d be joining us to do. There are foundational decisions still to make, and the engineers making them will shape the future of how big we can build this company. We want you to arrive rested and ready to do the best work of your life. So your first week is a chance to get away. And if a @getserval employee refers you, both you and that employee receive $30,000, on top of the vacation. Come build with us: https://www.serval.com/careers Media https://x.com/i/article/2118375976992227328
+
+🔗 [View original post](https://x.com/AlexAtServal/status/2118396934566097349)
+
+---
+
+### 🕐 16:14 UTC · @_akhaliq
+
+> Turns Matter for Streaming Video RL TurnWise is a new turn-level GRPO framework that gives each decision in a streaming conversation its own credit, improving when to answer vs. keep watching. It outperforms prior RL methods on three streaming benchmarks.
+
+![Turns Matter for Streaming Video RL TurnWise is a new turn-level GRPO framework that gives each decision in a streaming conversation its own credit, improving when to answer vs. keep watching. It outp](../../../../assets/images/2026/11/05/2118376431721799824-1.jpg)
+
+🔗 [View original post](https://x.com/HuggingPapers/status/2118376431721799824)
 
 ---
 

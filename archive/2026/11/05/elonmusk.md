@@ -2,7 +2,39 @@
 
 ## 📅 November 05, 2026
 
-> 9 post(s) archived.
+> 14 post(s) archived.
+
+---
+
+### 🕐 17:49 UTC · @elonmusk
+
+> Interesting Here is a quadrant chart using CNN’s exit poll. It shows what issues hurt Republicans, by how many voters called each issue crucial and how they voted. Cost of living (49%, D+34), corruption (55%, D+28), &amp; Iran (34%, D+46) made people vote D. Only immigration (36%, R+15) helped …
+
+🔗 [View original post](https://x.com/elonmusk/status/2118400203158163638)
+
+---
+
+### 🕐 17:16 UTC · @elonmusk
+
+> True slavery was basically universal throughout human history. every race practiced it, every race was enslaved what&apos;s extraordinary about Britain is that it abolished slavery and then sent its navy across the world to stop the slave trade somehow we turned one of the civilizations t…
+
+🔗 [View original post](https://x.com/elonmusk/status/2118392015226544617)
+
+---
+
+### 🕐 17:11 UTC · @elonmusk
+
+> Banks arguably has the best vision for the future In Ian Banks&apos; Culture books, the Culture is a civilization of compute abundance. Each General System Vehicle is a loose sandbox environment practicing different ideologies, and citizens freely move between ships to experience different lifestyles. Want communal life? There&apos;s a s…
+
+🔗 [View original post](https://x.com/elonmusk/status/2118390792490541103)
+
+---
+
+### 🕐 17:04 UTC · @elonmusk
+
+> True I’m all for championing excellence over mediocrity, but it is a mistake to imply that academic achievement is the only measure of it. Jocks and prom queens aren’t the antithesis of merit and striving, and in some ways, their arenas are more “real” than academic curriculums. Figh…
+
+🔗 [View original post](https://x.com/elonmusk/status/2118388941267317134)
 
 ---
 
@@ -35,6 +67,16 @@
 > Qualcomm CEO Cristiano Amon on partnership with @SpaceX “It’s a great partnership with SpaceX for next-generation infrastructure. We’re very proud of this announcement. I think it’s also great from a United States technology leadership standpoint. It’s probably one of the largest network buildouts.” Media
 
 🔗 [View original post](https://x.com/cb_doge/status/2118363397775561023)
+
+---
+
+### 🕐 14:58 UTC · @elonmusk
+
+> The only investment advice you need to live by to get through any storm that comes your way $TSLA
+
+![The only investment advice you need to live by to get through any storm that comes your way $TSLA](../../../../assets/images/2026/11/05/2118357376525119788-1.jpg)
+
+🔗 [View original post](https://x.com/Teslaconomics/status/2118357376525119788)
 
 ---
 
