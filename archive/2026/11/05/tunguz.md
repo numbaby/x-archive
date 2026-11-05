@@ -2,7 +2,73 @@
 
 ## 📅 November 05, 2026
 
-> 9 post(s) archived.
+> 17 post(s) archived.
+
+---
+
+### 🕐 23:27 UTC · @tunguz
+
+> It&apos;s time. Startup idea: a non-totalitarian version of Palantir. Who’s building this?
+
+🔗 [View original post](https://x.com/tunguz/status/2118485414722060469)
+
+---
+
+### 🕐 23:22 UTC · @tunguz
+
+> We are never gonna be in the world with no situations to monitor again, aren&apos;t we?
+
+🔗 [View original post](https://x.com/tunguz/status/2118484202337231171)
+
+---
+
+### 🕐 22:57 UTC · @tunguz
+
+> All of the world’s wisdom is just distilled survivorship bias.
+
+🔗 [View original post](https://x.com/tunguz/status/2118477949426868281)
+
+---
+
+### 🕐 22:53 UTC · @tunguz
+
+> That’s how long it takes me to walk to our neighborhood pool. This is where I’m from. I used to bike west to east coast in under 11 minutes!
+
+🔗 [View original post](https://x.com/tunguz/status/2118476721670246861)
+
+---
+
+### 🕐 22:19 UTC · @tunguz
+
+> Bummer Oh no https://x.com/Salon/status/2118429398068084743?a=kMysuxUin_XQiz-Pk4Q&amp;s=20
+
+🔗 [View original post](https://x.com/tunguz/status/2118468257698975770)
+
+---
+
+### 🕐 22:18 UTC · @tunguz
+
+> It’s really happening. And we are still super early. 10% annual rate increase next year. Evidence is growing that we’re turning the corner on productivity. US productivity grew at a 3.6% annual rate this past quarter. That’s more than double the 1.5% average from 2007-2019. The new numbers put me further ahead for my bet with Bob Gordon about productivity growth in …
+
+🔗 [View original post](https://x.com/tunguz/status/2118468099519426859)
+
+---
+
+### 🕐 22:11 UTC · @tunguz
+
+> It’s Texmati time.
+
+![It’s Texmati time.](../../../../assets/images/2026/11/05/2118466205560553962-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2118466205560553962)
+
+---
+
+### 🕐 22:08 UTC · @tunguz
+
+> Oh well … They better give us some cool new models tomorrow. I am out of weekly usage on all my models, and I don&apos;t want to use my banked resets. Saving those for some really big stuff.
+
+🔗 [View original post](https://x.com/tunguz/status/2118465513726656928)
 
 ---
 

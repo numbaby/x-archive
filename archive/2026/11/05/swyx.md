@@ -2,7 +2,41 @@
 
 ## 📅 November 05, 2026
 
-> 30 post(s) archived.
+> 34 post(s) archived.
+
+---
+
+### 🕐 23:20 UTC · @swyx
+
+> tagging certified theater ai kids @DynamicWebPaige
+
+🔗 [View original post](https://x.com/swyx/status/2118483528203833418)
+
+---
+
+### 🕐 23:09 UTC · @swyx
+
+> use SHAWN for $5 off
+
+🔗 [View original post](https://x.com/swyx/status/2118480792221622661)
+
+---
+
+### 🕐 22:37 UTC · @swyx
+
+> [non tech, non work post] Some of you know I have a side gig singing Broadway musicals. Proud to announce we&apos;re back next week (right after AIE CODE)! http://bow.show Nov 14 3pm/7pm shows left (Nov 13 sold out) ft. our favorite songs from: - Tick Tick Boom - Hamilton - Grease - Rent - The Greatest Showman - Hadestown - Dear Evan Hansen - The Prom - Company - Kinky Boots - The Lightning Thief - Heathers - Next to Normal If you ever wanted to hear me and my friends sing live with full cast, choreo, costume, and live band (millions of views reposted by the official @HamiltonMusical channel) join us next saturday! k bye Media Media late night low TAM tweet: did a Broadway solo song for the first time in ~18 years! only fumbled lyrics once!
+
+🔗 [View original post](https://x.com/swyx/status/2118472770002792902)
+
+---
+
+### 🕐 22:25 UTC · @swyx
+
+> Excited to attend @aiDotEngineer next week! Who’s going to be there? 👀 if you are going and in need for good coffee, I might be up for hosting a cafe date nearby✨☕️
+
+![Excited to attend @aiDotEngineer next week! Who’s going to be there? 👀 if you are going and in need for good coffee, I might be up for hosting a cafe date nearby✨☕️](../../../../assets/images/2026/11/05/2118469737835618513-1.jpg)
+
+🔗 [View original post](https://x.com/ekang426/status/2118469737835618513)
 
 ---
 
