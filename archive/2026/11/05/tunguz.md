@@ -2,7 +2,15 @@
 
 ## 📅 November 05, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 12:53 UTC · @tunguz
+
+> Inference going local. We are very excited to announce this : agents can optimize whole inference engines for MacBooks.
+
+🔗 [View original post](https://x.com/tunguz/status/2118325873132912923)
 
 ---
 

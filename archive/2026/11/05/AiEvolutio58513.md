@@ -2,7 +2,15 @@
 
 ## 📅 November 05, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 13:01 UTC · @AiEvolutio58513
+
+> Chamath says Anthropic needs at least $200 billion just to survive the next correction: &quot;They need, in my estimate, at least $200 billion. If you want to be super safe, a quarter-trillion gets the job done.&quot; &quot;$150 billion at $1.5 trillion is not enough. $200 billion barely gets them a few gigawatts. That is the bottom-line math if Anthropic is going to go through and survive an eventual correction.&quot; Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2118327799606034727)
 
 ---
 
