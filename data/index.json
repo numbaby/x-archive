@@ -145687,6 +145687,13 @@
     "fingerprint": "e84fb60a6d6b826d7cd94c180500cedbb48f374886710529f429ff2c97331ce2",
     "media": []
   },
+  "2118301931852738730": {
+    "account": "elonmusk",
+    "date": "2026-11-05",
+    "file": "data/posts/2026/11/2026-11-05.jsonl",
+    "fingerprint": "1514e1a1243124d6b7e822db5785e356e8aca01265f05550c92fe15400e29ab5",
+    "media": []
+  },
   "2118325873132912923": {
     "account": "tunguz",
     "date": "2026-11-05",
@@ -145726,5 +145733,26 @@
         "source_url": "https://pbs.twimg.com/media/HWXama6a0AAVtN0.jpg?name=orig"
       }
     ]
+  },
+  "2118349172168695917": {
+    "account": "tunguz",
+    "date": "2026-11-05",
+    "file": "data/posts/2026/11/2026-11-05.jsonl",
+    "fingerprint": "50325a6e5cbbebf8c652c75ec061fc9df2549b9c4d29e7b75ee08853682180f9",
+    "media": []
+  },
+  "2118353084887777381": {
+    "account": "dair_ai",
+    "date": "2026-11-05",
+    "file": "data/posts/2026/11/2026-11-05.jsonl",
+    "fingerprint": "50c156dba7071382a70147822194ffbd7f67be720dc598c0b30276b7c0b18fdd",
+    "media": []
+  },
+  "2118354883929665664": {
+    "account": "omarsar0",
+    "date": "2026-11-05",
+    "file": "data/posts/2026/11/2026-11-05.jsonl",
+    "fingerprint": "0a15b27e8b34662373c9e120934c5450aa6ce0c05a1bd5fcc48856437b7f1b29",
+    "media": []
   }
 }

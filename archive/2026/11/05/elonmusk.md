@@ -2,7 +2,15 @@
 
 ## 📅 November 05, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 11:18 UTC · @elonmusk
+
+> In hindsight, it was a mistake for SpaceX to send them thousands of free Starlink dishes and millions of dollars a month in free service at the beginning of the war. What started as internet access for civilians became the backbone for autonomous killing drones. And now if they don’t support military use, they get skewered for it in the press. Ukrainian President Zelensky on Elon Musk: &quot;Having so much power concentrated in the hands of a very rich person is dangerous. Concentrating power in the hands of one person who doesn&apos;t have much money is also dangerous. That is the whole point of the separation of powers: makin…
+
+🔗 [View original post](https://x.com/wholemars/status/2118301931852738730)
 
 ---
 

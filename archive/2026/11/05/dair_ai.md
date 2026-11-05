@@ -2,7 +2,15 @@
 
 ## 📅 November 05, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 14:41 UTC · @dair_ai
+
+> Own your intelligence stack, folks! We&apos;ve reached the point where it&apos;s simply not possible to do reliable groundbreaking AI research (using autoresearch loops) with GPT or Claude. I constantly get hammered with inaccurate refusals. This is sad! They should at least spend time fixing their classifiers. But over the last year, I&apos;ve learned to build my own thing and own more of the intelligence stack. My advice: never lock yourself into any of these vendors if you really care about your business and customers. Imagine trying to stay at the frontier and depending on these models. You simply won&apos;t be able to. They&apos;ll refuse requests (at the model and harness layer), and that will hurt you profoundly. If you run a small research lab, or even plan to do minimal research (we all should be trying to) in the future (with RSI pipelines) for your business, you need to get this part right. Many companies have already realized this and have started building their own intelligence stack. From the harness to training and serving their own models. It&apos;s not easy, but it is the way. It&apos;s very clear to me that open-source models are truly the only path forward.
+
+🔗 [View original post](https://x.com/omarsar0/status/2118353084887777381)
 
 ---
 
