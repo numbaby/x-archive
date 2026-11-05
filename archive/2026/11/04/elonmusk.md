@@ -2,7 +2,49 @@
 
 ## 📅 November 04, 2026
 
-> 16 post(s) archived.
+> 24 post(s) archived.
+
+---
+
+### 🕐 19:33 UTC · @elonmusk
+
+> Bot has this bias for action that makes it feel like the most fearless coworker you’ve ever worked with. So much work is needless friction, bot finds the path of least resistance and grinds through tasks until they’re complete. Feels like a new era of productivity. Grok Bot can now make phone calls.
+
+🔗 [View original post](https://x.com/Baconbrix/status/2118064051771310169)
+
+---
+
+### 🕐 18:31 UTC · @elonmusk
+
+> True After DOGE, Elon came to a conclusion most people missed. He tried to reform the state from the inside. He failed. And he said it plainly: the government can&apos;t fix its own deficit. Nobody in power actually wants to cut. The machine protects itself. So he drew the only logical co…
+
+🔗 [View original post](https://x.com/elonmusk/status/2118048421663973792)
+
+---
+
+### 🕐 17:44 UTC · @elonmusk
+
+> Try Grok @Bot. It’s like hiring an amazing assistant! New Grok Bot feature I just discovered on a call. My bot called my car insurance today to ask why my renewal went up 14% with zero accidents. Mid-call, the rep asked a question. The bot didn&apos;t hang up. It didn&apos;t make me take over the call. A question card popped up in my chat. I…
+
+🔗 [View original post](https://x.com/elonmusk/status/2118036744662880439)
+
+---
+
+### 🕐 16:44 UTC · @elonmusk
+
+> Pages in Grok Bot 0:15 What are Pages? 0:40 An example page 1:34 Sharing a Page 1:55 Tips: use your data 2:46 @X posts 3:44 Recap Media
+
+🔗 [View original post](https://x.com/mattyp/status/2118021605544833173)
+
+---
+
+### 🕐 16:26 UTC · @elonmusk
+
+> some fun slides from my upcoming talk @aiDotEngineer very excited to share how we ship crazy amounts of code (30x&apos;d) without reading it, yet perf is as good if not better then when we launched there&apos;s a lot more to improve of course, and the ceiling is far from being reached, but given the relentless shipping speed and our high bar for polish, i think that our agent friendly architecture bets are paying off at taming the slop fun fact: ~230 people landed at least 1 PR to grok bot in october! First AIE Code Summit speakers: @poteto, Principal Engineer @ SpaceX @steve_yegge, Engineer, Writer, Advisor @zachbruggeman, Principal Software Engineer @ Ramp Nov 10-12, SF. Come hang out with us. Apply at https://ai.engineer/code
+
+![some fun slides from my upcoming talk @aiDotEngineer very excited to share how we ship crazy amounts of code (30x&apos;d) without reading it, yet perf is as good if not better then when we launched th](../../../../assets/images/2026/11/04/2118017093677494706-1.jpg)
+
+🔗 [View original post](https://x.com/poteto/status/2118017093677494706)
 
 ---
 
@@ -55,6 +97,14 @@
 
 ---
 
+### 🕐 14:19 UTC · @elonmusk
+
+> BREAKING: The Government of Canada’s Starlink contract has grown to nearly C$29 million, more than 12 times its original value. 🇨🇦 Official government records show: • Original contract value: C$2.26 million • Updated total value: C$28.95 million • Increase: approximately C$26.7 million The agreement with SpaceX Canada provides Starlink satellite connectivity for Shared Services Canada and its partner government organizations as needed. The contract could continue until 2029, according to the Investigative Journalism Foundation. Starlink continues to support the communications needs of Canada’s federal government. Media
+
+🔗 [View original post](https://x.com/cb_doge/status/2117984987765236007)
+
+---
+
 ### 🕐 13:14 UTC · @elonmusk
 
 > BREAKING: Norway’s government secures @Starlink access for its military, police and security agencies under a satellite communications deal worth up to NOK 450 million. 🇳🇴 The agreement covers: • Norwegian Armed Forces • Police • Police Security Service (PST) • National Security Authority (NSM) Norway’s military already has 180 active Starlink subscriptions for email, internet access and personnel welfare. Awarded to Marlink, a Norway-based satellite communications provider, the agreement includes several satellite networks and specifically requires access to Starlink.
@@ -70,6 +120,14 @@
 > This is 100% real 😂 SpaceXSI is running an ad on a different platform about how to use Grok Bot to buy a local home services business featuring... Never mind… just watch it yourself. My head is spinning. Media
 
 🔗 [View original post](https://x.com/SMB_Attorney/status/2117967638911435077)
+
+---
+
+### 🕐 12:03 UTC · @elonmusk
+
+> BREAKING: Vietnam’s Lâm Đồng plans to bring Starlink to areas where poor mobile coverage makes rescue efforts harder. Around Gia Bắc Pass in Sơn Điền, mountains and deep valleys make it hard to stay connected. During road accidents, floods and landslides, that can make calling for help difficult. Local officials are working with FPT Telecom to choose a location for Starlink, helping rescue teams stay connected and organise emergency responses. Media
+
+🔗 [View original post](https://x.com/cb_doge/status/2117950907610784237)
 
 ---
 
@@ -134,5 +192,15 @@
 > Cremieux is referring to Elon Musk. Before Musk shifted toward Republicans in 2022 (and later endorsed Trump), Tesla and SpaceX faced repeated SEC suits, EPA enforcement, FAA delays, DOJ probes, and Biden admin exclusion from EV summits. Musk has described this as political weaponization that prompted his involvement. Election results now raise the prospect of renewed congressional investigations and lawfare that could slow SpaceX projects including orbital data centers.
 
 🔗 [View original post](https://x.com/grok/status/2117824882213818870)
+
+---
+
+### 🕐 02:20 UTC · @elonmusk
+
+> Quick update: Starlink Mobile is continuing to provide service with Orange and Telefónica following the tragic train derailment in Spain. We&apos;ve connected more than 36,000 people in the region so far. Thank you to @mintradigital for your continued support. Our thoughts are with everyone affected by this tragedy. Starlink Mobile connected nearly 2k messages with @orange_es and @Telefonica in the first few hours. Thank you to @mintradigital and Secretary González Martín for your support. 🇪🇸
+
+![Quick update: Starlink Mobile is continuing to provide service with Orange and Telefónica following the tragic train derailment in Spain. We&apos;ve connected more than 36,000 people in the region so ](../../../../assets/images/2026/11/04/2117804190378365250-1.png)
+
+🔗 [View original post](https://x.com/davesgoldman/status/2117804190378365250)
 
 ---

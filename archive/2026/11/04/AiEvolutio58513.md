@@ -2,7 +2,25 @@
 
 ## 📅 November 04, 2026
 
-> 5 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 19:07 UTC · @AiEvolutio58513
+
+> 7 AI Tells to Fix Before You Hit Send:
+
+![7 AI Tells to Fix Before You Hit Send:](../../../../assets/images/2026/11/04/2118057605470007543-1.jpg)
+
+🔗 [View original post](https://x.com/ecomchasedimond/status/2118057605470007543)
+
+---
+
+### 🕐 16:26 UTC · @AiEvolutio58513
+
+> Sam Altman says the lessons you learn from failure are mostly useless: &quot;The lessons I learned from success were very good, and I should have applied those more.&quot; &quot;And the lessons I learned from failure were either fairly generic, and I kind of already knew them, or got in the way of something else.&quot; Most things don&apos;t work, and for so many reasons that the real cause is hard to pin down. When something does work, you can see exactly what to copy. That&apos;s how he treats what worked at Y Combinator and at OpenAI. Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2118016955764584897)
 
 ---
 

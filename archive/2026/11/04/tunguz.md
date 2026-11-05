@@ -2,7 +2,52 @@
 
 ## 📅 November 04, 2026
 
-> 1 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 20:39 UTC · @tunguz
+
+> I hope the trials will be televised.
+
+🔗 [View original post](https://x.com/tunguz/status/2118080733914829127)
+
+---
+
+### 🕐 20:18 UTC · @tunguz
+
+
+![](../../../../assets/images/2026/11/04/2118075316736495856-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2118075316736495856)
+
+---
+
+### 🕐 18:42 UTC · @tunguz
+
+> Those greedy local AI fanatics. 🤬😡
+
+![Those greedy local AI fanatics. 🤬😡](../../../../assets/images/2026/11/04/2118051184779076026-1.png)
+
+🔗 [View original post](https://x.com/tunguz/status/2118051184779076026)
+
+---
+
+### 🕐 17:58 UTC · @tunguz
+
+> 🤝
+
+![🤝](../../../../assets/images/2026/11/04/2118040241101754681-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2118040241101754681)
+
+---
+
+### 🕐 17:51 UTC · @tunguz
+
+> Three of my favorite things: 1. XGBoost 2. Gary, Indiana 3. Yes
+
+🔗 [View original post](https://x.com/tunguz/status/2118038489828929808)
 
 ---
 

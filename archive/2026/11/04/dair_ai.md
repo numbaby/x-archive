@@ -2,7 +2,15 @@
 
 ## 📅 November 04, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 18:42 UTC · @dair_ai
+
+> Another great open-source model release. TwIL-8B shows strong results on coding, instruction-following, and math benchmarks. I&apos;m bullish on small models we can run locally and on our own hardware. As we unlock efficient intelligence and capabilities, smaller models will play a significant role in more complex agentic workflows like scientific discovery and software factories. Modest intelligence is arriving faster than most people realize. Today, we&apos;re open-sourcing TwIL-8B. Just 8.8 billion parameters, yet approaching frontier-model scores on several difficult benchmarks: • 93% of frontier performance on coding • 92% on instruction following • 90% o…
+
+🔗 [View original post](https://x.com/omarsar0/status/2118051377704296536)
 
 ---
 

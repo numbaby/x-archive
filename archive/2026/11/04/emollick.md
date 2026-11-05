@@ -2,7 +2,17 @@
 
 ## 📅 November 04, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 16:08 UTC · @emollick
+
+> AI semiotics: cool paper suggests that AIs are strongly impacted by visual symbols in ways they do not always recognize in their own chains-of-thought. The way they react to those symbols is very different than how a human might interpret them as well. https://arxiv.org/pdf/2610.36449v1
+
+![AI semiotics: cool paper suggests that AIs are strongly impacted by visual symbols in ways they do not always recognize in their own chains-of-thought. The way they react to those symbols is very diff](../../../../assets/images/2026/11/04/2118012530215854477-1.png)
+
+🔗 [View original post](https://x.com/emollick/status/2118012530215854477)
 
 ---
 
