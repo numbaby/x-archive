@@ -2,7 +2,15 @@
 
 ## 📅 November 05, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 05:08 UTC · @swyx
+
+> uhhh what, 3x faster 5x cheaper but evals SAME ON FRONTIERCODE 2 this is distillation without tradeoffs. i think @thinkymachines inkling is one of the most underrated base models in the world. expect to see a TON more of these esp on US pretrained models Introducing SWE-2 Flash, our new fast &amp; efficient coding model. On leading evals, it outperforms all American open-weight models, even ones 3x larger. To balance transparency and cyber risks, we are building a program to securely share the weights with partners &amp; researchers.
+
+🔗 [View original post](https://x.com/swyx/status/2118208851506036989)
 
 ---
 
