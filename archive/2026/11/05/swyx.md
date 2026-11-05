@@ -2,7 +2,17 @@
 
 ## 📅 November 05, 2026
 
-> 28 post(s) archived.
+> 30 post(s) archived.
+
+---
+
+### 🕐 18:30 UTC · @swyx
+
+> My chat with @swyx on software factories is live. We walk through the full factory stack: https://www.youtube.com/watch?v=LL0YmIyBKSU
+
+![My chat with @swyx on software factories is live. We walk through the full factory stack: https://www.youtube.com/watch?v=LL0YmIyBKSU](../../../../assets/images/2026/11/05/2118410609234772114-1.jpg)
+
+🔗 [View original post](https://x.com/zachlloydtweets/status/2118410609234772114)
 
 ---
 
@@ -27,6 +37,14 @@
 > we&apos;re recording an AAv5 pod with @_micah_h and @grmcameron today and this reminds me why you basically need @ArtificialAnlys AA-* rebuilds of every single eval because you -CANNOT- trust labs not to intentionally or accidentally benchmaxx, you need a few trusted third parties to basically redo the entire eval in spirit but not in letter, to have a quick sniff test that model claims hold up under minor perturbations (eg starting from &quot;randomizing order in multiple choice questions&quot; to coming up with completely new problems that superficially look different but actually test the same underlying logic and reasoning steps). not enough people are reading bench traces like this 👇 and the systematic way to catch this benchmaxxing is basically to have altbenches for everything Kimi K3.1 recalls instructions it was never given on Terminal Bench. They match the hidden tests. K3.1 while solving: &quot;Instructions likely distilled pitfalls from previous agents.&quot; 🤯 When we edit a task to contradict them, K3.1 refuses the new instructions and fails. Other mode…
 
 🔗 [View original post](https://x.com/swyx/status/2118400768957202439)
+
+---
+
+### 🕐 15:53 UTC · @swyx
+
+> very important talk from today‘s AIE shanghai. thank you for the live translation and subtitles. So here it is — @ryolu_ &apos;s talk at @aiDotEngineer 2026 Shanghai. I shot it handheld on a Xiaomi 15 Ultra, so there&apos;s some shake; I fixed as much of it as I could in CapCut. Handheld footage just isn&apos;t going to be sharp or steady. Still, it&apos;s the best talk I saw on day 1 of AIE —…
+
+🔗 [View original post](https://x.com/helloiamleonie/status/2118371223809982492)
 
 ---
 

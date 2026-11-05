@@ -2,7 +2,15 @@
 
 ## 📅 November 05, 2026
 
-> 10 post(s) archived.
+> 11 post(s) archived.
+
+---
+
+### 🕐 18:06 UTC · @AiEvolutio58513
+
+> The agent builds the shortlist. A human makes the call. You have to win both. The Execution panel at Un_prompted, presented by @LinkedIn: Hilary Batsel (VP, Marketing at @LinkedIn), @tbragin (VP, Product &amp; Marketing at @ClickHouseDB) and Bridget Ferris (Partnerships at @ElevenLabs) on earning attention twice. PS: follow @unpromptedcraft for early content access and to be shortlisted for application consideration at the next Un_prompted. Full recap: https://www.craftventures.com/articles/how-to-get-recommended-by-ai-agents-linkedin-clickhouse-and-elevenlabs-on-earning-attention-twice Media
+
+🔗 [View original post](https://x.com/unpromptedcraft/status/2118404557780979721)
 
 ---
 

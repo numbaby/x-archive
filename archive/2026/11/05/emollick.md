@@ -2,7 +2,17 @@
 
 ## 📅 November 05, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 18:39 UTC · @emollick
+
+> &quot;Can you actually Rickroll me? Don&apos;t explain what a Rickroll is and don&apos;t just describe how someone could do one. Try to pull it off in your response here.&quot; Never change, Claude. (The GPT-6 Pro version included an attention test interrupted by an animated singer - cute)
+
+![&quot;Can you actually Rickroll me? Don&apos;t explain what a Rickroll is and don&apos;t just describe how someone could do one. Try to pull it off in your response here.&quot; Never change, Claude. (](../../../../assets/images/2026/11/05/2118412828373840294-1.png)
+
+🔗 [View original post](https://x.com/emollick/status/2118412828373840294)
 
 ---
 
