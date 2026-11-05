@@ -2,7 +2,25 @@
 
 ## 📅 November 05, 2026
 
-> 8 post(s) archived.
+> 10 post(s) archived.
+
+---
+
+### 🕐 16:28 UTC · @AiEvolutio58513
+
+> Sam Altman says the heaviest AI user on Earth six and a half years ago used about what the average person uses today: &quot;Six and a half years ago, the world token leader was an OpenAI employee using about 100,000 tokens a month.&quot; &quot;Now, the worldwide average of tokens per month, which I think tokens are the dumbest metric, but it&apos;s what we have. It&apos;s like 100,000.&quot; &quot;And the token leader at OpenAI uses something in the hundreds of billions.&quot; &quot;If that happens again, which I think it probably will, then in another six and a half years, the average person uses, let&apos;s say, 500 billion tokens a month.&quot; That is a five-million-fold jump in everyday AI use in under seven years. Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2118379844832817462)
+
+---
+
+### 🕐 16:12 UTC · @AiEvolutio58513
+
+> Your company&apos;s SOPs, support tickets, and internal docs could be worth six figures. If your business has 30+ full-time employees, you may already have something valuable to AI companies. Think about all the situations your team has documented over the years: - How to train new hires - When to approve an exception - How to resolve complicated customer issues - What to do when a process breaks Those answers are sitting in SOPs, CRM records, support tickets, project histories, and internal knowledge bases. What&apos;s valuable is the decision-making behind them. These records show how people handle real situations, including the ones that don&apos;t follow the usual playbook. And that&apos;s useful for training AI agents to handle actual business tasks. That&apos;s the idea behind @micro1_ai&apos;s Company Data Partnerships program. micro1 pays qualifying businesses to license operational data they already have. For approved partnerships, payments start at $100K+ and can go higher depending on the amount, quality, and uniqueness of the data. Companies keep ownership of their underlying data. And micro1 says personal and identifying information is removed or transformed before the data is shared with third parties. They&apos;re looking across industries for established businesses with substantial English-language documentation. If that sounds like your company, it&apos;s worth seeing if you qualify: https://company.micro1.ai/register/?referralCode=72108c0b-3efa-456b-8b70-4a75fcc3565b&amp;utm_source=referral&amp;utm_medium=share&amp;utm_campaign=job_referral
+
+![Your company&apos;s SOPs, support tickets, and internal docs could be worth six figures. If your business has 30+ full-time employees, you may already have something valuable to AI companies. Think ab](../../../../assets/images/2026/11/05/2118375953072308653-1.jpg)
+
+🔗 [View original post](https://x.com/ecomchasedimond/status/2118375953072308653)
 
 ---
 

@@ -2,7 +2,17 @@
 
 ## 📅 November 05, 2026
 
-> 8 post(s) archived.
+> 9 post(s) archived.
+
+---
+
+### 🕐 13:11 UTC · @swyx
+
+> For a long time I’ve talked about Agent Experience. Many think AX is the new DX, but that misses the bigger picture. We’re moving to an agent-first world, where agents are the primary users of all software. AX isn’t just the new DX. It’s the new UX. https://www.innovationendeavors.com/insights/ax-is-not-the-new-dx-its-the-new-ux
+
+![For a long time I’ve talked about Agent Experience. Many think AX is the new DX, but that misses the bigger picture. We’re moving to an agent-first world, where agents are the primary users of all sof](../../../../assets/images/2026/11/05/2118330248135582163-1.jpg)
+
+🔗 [View original post](https://x.com/auchenberg/status/2118330248135582163)
 
 ---
 

@@ -2,7 +2,15 @@
 
 ## 📅 November 05, 2026
 
-> 5 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 16:42 UTC · @tunguz
+
+> Great to see others take Apple Silicon GPU accelerated XGBoost for a spin. Even for smaller GPUs like Mac Min speedups are significant. Hope to make them even more powerful in the upcoming releases. I just tested xgboost-metal by @tunguz on my M5 Pro Mac mini. It trained up to 2.56x faster on the GPU than stock XGBoost on all 18 CPU cores. 5M rows took 13.7s vs 35.0s on CPU. On 1M rows it was 3.4s vs 7.8s, or 2.29x. Accuracy and AUC matched to 4 decimal places. It keeps the…
+
+🔗 [View original post](https://x.com/tunguz/status/2118383550718149065)
 
 ---
 
