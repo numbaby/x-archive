@@ -145611,5 +145611,25 @@
     "file": "data/posts/2026/11/2026-11-05.jsonl",
     "fingerprint": "d11d12c7106b227b9a67c18228fa99f184f602f22eb8ebc819cb9f81a5afea1d",
     "media": []
+  },
+  "2118214299391057973": {
+    "account": "elonmusk",
+    "date": "2026-11-05",
+    "file": "data/posts/2026/11/2026-11-05.jsonl",
+    "fingerprint": "b7d5a519f15cec9bf9f82e8b9202f6e3d3265facd6e9db18a44c195990e0075e",
+    "media": []
+  },
+  "2118223980398276867": {
+    "account": "swyx",
+    "date": "2026-11-05",
+    "file": "data/posts/2026/11/2026-11-05.jsonl",
+    "fingerprint": "e1be1dd85bdbace0290de225ddc72e776e3ba093525bb9039c6c7fd202e8001d",
+    "media": [
+      {
+        "local_path": "assets/images/2026/11/05/2118223980398276867-1.jpg",
+        "sha256": "ee7ad75c12fe9a62e2fc74a419788b884b6982cee19c5af992e32717f9fbcdfc",
+        "source_url": "https://pbs.twimg.com/media/HWVwdqBbEAIxXkN.jpg?name=orig"
+      }
+    ]
   }
 }

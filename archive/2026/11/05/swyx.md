@@ -2,7 +2,17 @@
 
 ## 📅 November 05, 2026
 
-> 5 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 06:08 UTC · @swyx
+
+> AIE Shanghai @swyx is happening now, Nov 5-6! Spicy take: AIE &gt;&gt;&gt; OpenAI Dev Day for me, cuz it has the best and most fun AI builder community. Make sure to check out @ryolu_’s talk. His keynote at Cursor Compile was my all-time favorite! ⚡ Behind Latent Space: from AI Substack to the first @aiDotEngineer in China 🇨🇳 https://www.youtube.com/watch?v=QmDLDy3ZSNE This time @Ninggao88 of Linkloud turns the mic around: asking @swyx how LS started, why “AI Engineering&quot; needed a name, and what’s different about the bu…
+
+![AIE Shanghai @swyx is happening now, Nov 5-6! Spicy take: AIE &gt;&gt;&gt; OpenAI Dev Day for me, cuz it has the best and most fun AI builder community. Make sure to check out @ryolu_’s talk. His keyn](../../../../assets/images/2026/11/05/2118223980398276867-1.jpg)
+
+🔗 [View original post](https://x.com/lily_gpupoor/status/2118223980398276867)
 
 ---
 
