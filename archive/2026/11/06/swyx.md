@@ -2,7 +2,17 @@
 
 ## 📅 November 06, 2026
 
-> 8 post(s) archived.
+> 9 post(s) archived.
+
+---
+
+### 🕐 09:50 UTC · @swyx
+
+> ok this is just ridiculous Introducing Inkling 2 Small. Scoring 31 on the AA Intelligence Index, it&apos;s a big jump over its predecessor. Inkling 2 Small is available for fine-tuning and inference on Tinker today, with full weight release planned soon. https://thinkingmachines.ai/news/inkling-2-small
+
+![ok this is just ridiculous Introducing Inkling 2 Small. Scoring 31 on the AA Intelligence Index, it&apos;s a big jump over its predecessor. Inkling 2 Small is available for fine-tuning and inference o](../../../../assets/images/2026/11/06/2118642061515936142-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2118642061515936142)
 
 ---
 

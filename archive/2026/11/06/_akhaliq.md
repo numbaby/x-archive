@@ -2,7 +2,17 @@
 
 ## 📅 November 06, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 09:26 UTC · @_akhaliq
+
+> TailSteer Trajectory-Tail Steering for Drift-Resistant Multi-turn Image Editing paper: https://huggingface.co/papers/2611.06741 app: https://huggingface.co/spaces/akhaliq/endless-edit-tailsteer
+
+![TailSteer Trajectory-Tail Steering for Drift-Resistant Multi-turn Image Editing paper: https://huggingface.co/papers/2611.06741 app: https://huggingface.co/spaces/akhaliq/endless-edit-tailsteer](../../../../assets/images/2026/11/06/2118636009311404525-1.jpg)
+
+🔗 [View original post](https://x.com/_akhaliq/status/2118636009311404525)
 
 ---
 
