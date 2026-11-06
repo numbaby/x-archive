@@ -2,7 +2,31 @@
 
 ## 📅 November 06, 2026
 
-> 16 post(s) archived.
+> 19 post(s) archived.
+
+---
+
+### 🕐 16:12 UTC · @tunguz
+
+> Time to invest heavily into Harwood, ND. The results are in and data centers lost 46 of 47 ballot initiatives in the midterms. We should expect to see those failures met by even larger-scale bans when new governors, Congressmen, and state officials take office.
+
+🔗 [View original post](https://x.com/tunguz/status/2118738254153359756)
+
+---
+
+### 🕐 16:08 UTC · @tunguz
+
+> Or you could just work from home and be able to take a proper nap in your home office without anyone bothering you. Japan is living in 2096
+
+🔗 [View original post](https://x.com/tunguz/status/2118737362993946664)
+
+---
+
+### 🕐 16:07 UTC · @tunguz
+
+> I never tip baristas. barista says “i like your jacket!” right before the tip promp comes up on screen 🧐
+
+🔗 [View original post](https://x.com/tunguz/status/2118736943236387231)
 
 ---
 

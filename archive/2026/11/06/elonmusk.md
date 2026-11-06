@@ -2,7 +2,51 @@
 
 ## 📅 November 06, 2026
 
-> 30 post(s) archived.
+> 36 post(s) archived.
+
+---
+
+### 🕐 16:16 UTC · @elonmusk
+
+> Tesla self-driving gives mobility to seniors Larry is 98 years old, and he bought a Tesla Model Y because of Full Self-Driving. His first car was a 1931 Ford Model A. After 80 years behind the wheel, he says driving with Tesla FSD feels more relaxing. He even took his Model Y on a road trip to Colorado and called the drive…
+
+🔗 [View original post](https://x.com/elonmusk/status/2118739371939803498)
+
+---
+
+### 🕐 16:11 UTC · @elonmusk
+
+> Tesla remains South Korea&apos;s #1 best-selling imported car brand for the NINTH consecutive month 🇰🇷 October 2026 registrations: • Tesla: 9,165 • Mercedes-Benz: 6,744 • BMW: 5,633 Tesla outsold Mercedes-Benz by 2,421 vehicles and BMW by 3,532 And the Model Y Premium dominated the imported-model rankings with 5,501 registrations on its own Tesla&apos;s October sales more than DOUBLED year-over-year, surging 110.7% Once, German luxury brands dominated South Korea&apos;s imported car market Now Tesla is leading it
+
+![Tesla remains South Korea&apos;s #1 best-selling imported car brand for the NINTH consecutive month 🇰🇷 October 2026 registrations: • Tesla: 9,165 • Mercedes-Benz: 6,744 • BMW: 5,633 Tesla outsold Merc](../../../../assets/images/2026/11/06/2118738155654513112-1.jpg)
+
+🔗 [View original post](https://x.com/XFreeze/status/2118738155654513112)
+
+---
+
+### 🕐 16:10 UTC · @elonmusk
+
+> Exactly 😂 Tesla has no government contracts and President Trump ended federal incentives for electric vehicles. SpaceX contracts with the government are BOTH the best product AND the lowest price! Moreover government revenue will be less than 10% of SpaceX revenue this quarter and less then 5% a year from now. Happy to cancel any that the government doesn’t want. Just say the word! Elon please send this January 1: Dear Senate &amp; House Democrats, Many of you criticize my companies receiving federal contracts. I hereby offer to cancel. Please publish a list of each contract to cancel with any required agency consent, and we will cancel promptly.
+
+🔗 [View original post](https://x.com/elonmusk/status/2118737725964837353)
+
+---
+
+### 🕐 16:04 UTC · @elonmusk
+
+> Starlink saves lives Starlink helped save six lives in the Atlantic. The Estonian yacht Cekritito was taking on water off Spain. Captain Madis Rallmann used Starlink to send a distress message to volunteer rescuers in Estonia. They passed it to maritime authorities, and a Spanish Coast Guard helicop…
+
+🔗 [View original post](https://x.com/elonmusk/status/2118736224110444999)
+
+---
+
+### 🕐 15:59 UTC · @elonmusk
+
+> We are living in SpaceX century If they successfully catch booster **and** ship in a week, we are officially in a different era as a species SpaceX will attempt to catch both the Super Heavy booster and Starship on the upcoming flight. If both are successful, it will mark the first time that all parts of an orbital rocket return to Earth intact. This is the critical breakthrough needed to make life multiplanetary.
+
+![We are living in SpaceX century If they successfully catch booster **and** ship in a week, we are officially in a different era as a species SpaceX will attempt to catch both the Super Heavy booster a](../../../../assets/images/2026/11/06/2118735000988418139-1.jpg)
+
+🔗 [View original post](https://x.com/ArthurMacwaters/status/2118735000988418139)
 
 ---
 
@@ -35,6 +79,16 @@
 > More than a dozen flight tests and years of development, with countless hours worked by SpaceX engineers and technicians, all come down to this: the first orbital Starship launch carrying advanced Starlink satellites bound for space. Watch “Go For Orbit” and experience the moments behind flying the most ambitious Starship mission yet Media
 
 🔗 [View original post](https://x.com/SpaceX/status/2118719281038770389)
+
+---
+
+### 🕐 12:52 UTC · @elonmusk
+
+> The Godfathers of Superintelligence It all began right here, and now they&apos;re taking Superintelligence into orbit, to an entirely new level
+
+![The Godfathers of Superintelligence It all began right here, and now they&apos;re taking Superintelligence into orbit, to an entirely new level](../../../../assets/images/2026/11/06/2118688066651214236-1.jpg)
+
+🔗 [View original post](https://x.com/XFreeze/status/2118688066651214236)
 
 ---
 

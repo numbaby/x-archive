@@ -2,7 +2,25 @@
 
 ## 📅 November 06, 2026
 
-> 4 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 16:32 UTC · @AiEvolutio58513
+
+> Elon Musk stops in the middle of an interview about AI risk to check his phone. At the start, he&apos;d warned the reporters: &quot;I might occasionally just stop and check for any emergencies coming through.&quot; Then he looks down, goes quiet, and gets up. His only explanation: &quot;I have Bolero stuck in my head.&quot; Even mid-interview, he never fully stops watching what&apos;s happening at his companies. Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2118743250760778028)
+
+---
+
+### 🕐 16:15 UTC · @AiEvolutio58513
+
+> “Is all this AI stuff coming for my job?” A retention manager asked me that over lunch a few weeks back, half-joking. She runs email for a couple of DTC brands. My honest answer surprised her a bit. Because most of her week is spent on production. Briefing the same email again, chasing the hero, checking links, moving a send because the product page slipped. The strategy part (the bit she’s actually paid for) gets whatever’s left on Friday afternoon. With something like @getallanai, that whole layer shrinks. You stock a library once, it assembles a different email per subscriber at send time, and it learns what lands with who. It’ll generate the creative too if you want it to. What’s left on her plate is the stuff only she can do. What the offer should be. Who’s worth talking to this month. What the brand is actually saying to people. She went quiet for a second and said: “So I’d just be doing the strategy.” Yeah… That’s the pitch. The part that disappears is the part nobody enjoyed anyway. It sits on top of Omnisend or Klaviyo, so nothing moves. Free for 30 days, and the trial includes the creative. Start free and start focusing on the part of your job that moves the needle. → https://getallan.com/
+
+![“Is all this AI stuff coming for my job?” A retention manager asked me that over lunch a few weeks back, half-joking. She runs email for a couple of DTC brands. My honest answer surprised her a bit. B](../../../../assets/images/2026/11/06/2118739168046317645-1.jpg)
+
+🔗 [View original post](https://x.com/ecomchasedimond/status/2118739168046317645)
 
 ---
 
