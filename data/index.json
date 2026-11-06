@@ -145843,6 +145843,19 @@
       }
     ]
   },
+  "2118259913764049202": {
+    "account": "swyx",
+    "date": "2026-11-05",
+    "file": "data/posts/2026/11/2026-11-05.jsonl",
+    "fingerprint": "19942eac1c959d44c6afe334eb44d92be23f458ae527cce26cf08ccdf7097f43",
+    "media": [
+      {
+        "local_path": "assets/images/2026/11/05/2118259913764049202-1.jpg",
+        "sha256": "bb7bad0bff465805f1d80e87298b0d3a85c774fb3c8f17b8f93fdffa0fd3c51e",
+        "source_url": "https://pbs.twimg.com/media/HWVsOIpbcAAcqnE.jpg?name=orig"
+      }
+    ]
+  },
   "2118265218283589925": {
     "account": "swyx",
     "date": "2026-11-05",
@@ -146562,6 +146575,13 @@
     "fingerprint": "67a4c6e27bd1372b7821b5874d151b3406174e30dd5b02c757a4c725da45d866",
     "media": []
   },
+  "2118478787566588009": {
+    "account": "demishassabis",
+    "date": "2026-11-05",
+    "file": "data/posts/2026/11/2026-11-05.jsonl",
+    "fingerprint": "f32e0a1de580603f31bb0c2a3899f13dce9f61fef9a3e3c8cb4e2104ecf4c06f",
+    "media": []
+  },
   "2118480792221622661": {
     "account": "swyx",
     "date": "2026-11-05",
@@ -146615,6 +146635,20 @@
     "date": "2026-11-06",
     "file": "data/posts/2026/11/2026-11-06.jsonl",
     "fingerprint": "e1bee50c3dbe9d1b8eb7fc1ad46443632c4083683ef473362ecf699c9b693df0",
+    "media": []
+  },
+  "2118509905141453040": {
+    "account": "tunguz",
+    "date": "2026-11-06",
+    "file": "data/posts/2026/11/2026-11-06.jsonl",
+    "fingerprint": "bccad2b75fb8e3a555b7137efd9eb840a2571d8c40a0a04aa5e2aca8fdae8a28",
+    "media": []
+  },
+  "2118512013228077063": {
+    "account": "swyx",
+    "date": "2026-11-06",
+    "file": "data/posts/2026/11/2026-11-06.jsonl",
+    "fingerprint": "4f3e5d3ac7ed8ff3f399d4992d6d5089b48c36acdab34b35fdabcf86134a23cb",
     "media": []
   }
 }

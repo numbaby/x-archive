@@ -2,7 +2,7 @@
 
 ## 📅 November 05, 2026
 
-> 35 post(s) archived.
+> 36 post(s) archived.
 
 ---
 
@@ -137,6 +137,16 @@
 ![在 aie 上演“解救”大斌行动，哈哈哈[破涕为笑]](../../../../assets/images/2026/11/05/2118265218283589925-1.jpg)
 
 🔗 [View original post](https://x.com/ameliax111/status/2118265218283589925)
+
+---
+
+### 🕐 08:31 UTC · @swyx
+
+> Giving out stickers + shirts at our booth at @aiDotEngineer China. Come say hi! 👋🏼🇨🇳 @daytonaio
+
+![Giving out stickers + shirts at our booth at @aiDotEngineer China. Come say hi! 👋🏼🇨🇳 @daytonaio](../../../../assets/images/2026/11/05/2118259913764049202-1.jpg)
+
+🔗 [View original post](https://x.com/joshuacirjak/status/2118259913764049202)
 
 ---
 

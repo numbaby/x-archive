@@ -2,7 +2,15 @@
 
 ## 📅 November 06, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 01:04 UTC · @tunguz
+
+> If you are trying to get some important point across about AI in particular these days, I would like to *STRONGLY* urge you not to do it in form of a really long form literary essay.
+
+🔗 [View original post](https://x.com/tunguz/status/2118509905141453040)
 
 ---
 

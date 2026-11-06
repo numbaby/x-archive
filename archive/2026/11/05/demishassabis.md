@@ -2,7 +2,15 @@
 
 ## 📅 November 05, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 23:01 UTC · @demishassabis
+
+> We just redesigned the Antigravity app to be much more sleek and delightful to use! Hope you all enjoy it. More to come in a couple hours 👀
+
+🔗 [View original post](https://x.com/_mohansolo/status/2118478787566588009)
 
 ---
 
