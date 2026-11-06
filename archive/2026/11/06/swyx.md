@@ -2,7 +2,15 @@
 
 ## 📅 November 06, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 03:15 UTC · @swyx
+
+> for those who want a GREAT scout experience i cannot recommend highly enough @brittwalker_ who has been thru thick and thin with me and is honestly sharper than me on many things, always learn lots talking to her https://x.com/andrew__reed/status/2118461875520467220?s=46 I still like working with CRV
+
+🔗 [View original post](https://x.com/swyx/status/2118542845556691411)
 
 ---
 

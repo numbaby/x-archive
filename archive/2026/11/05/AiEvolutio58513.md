@@ -2,7 +2,7 @@
 
 ## 📅 November 05, 2026
 
-> 13 post(s) archived.
+> 14 post(s) archived.
 
 ---
 
@@ -83,6 +83,14 @@
 ![I save AI articles, launches, and threads throughout the week. When it&apos;s time to write my newsletter, too many are buried in bookmarks. @hello_ambi has a Routine called Recall that can resurface ](../../../../assets/images/2026/11/05/2118363390460735940-1.jpg)
 
 🔗 [View original post](https://x.com/AiEvolutio58513/status/2118363390460735940)
+
+---
+
+### 🕐 15:22 UTC · @AiEvolutio58513
+
+> A Routine is a standing instruction. You tell Ambi how to handle something once, and it can repeat that work on a schedule or when a condition is met. Here&apos;s how Recall puts that idea to use:
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2118363392226509139)
 
 ---
 
