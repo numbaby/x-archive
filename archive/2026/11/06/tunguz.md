@@ -2,7 +2,31 @@
 
 ## 📅 November 06, 2026
 
-> 10 post(s) archived.
+> 13 post(s) archived.
+
+---
+
+### 🕐 14:51 UTC · @tunguz
+
+> Root access to base reality is all you need.
+
+🔗 [View original post](https://x.com/tunguz/status/2118717853138321677)
+
+---
+
+### 🕐 14:45 UTC · @tunguz
+
+> The era of overpromising and underdelivering with virtually no consequences is coming to an end.
+
+🔗 [View original post](https://x.com/tunguz/status/2118716518070706392)
+
+---
+
+### 🕐 14:05 UTC · @tunguz
+
+> I wish, but I highly doubt it. They seldom if ever release on a Friday, unless there is some kind of &quot;existential&quot; outside pressure, of which there are none right now. I really really really hope I&apos;m wrong. Fable 6.2 today?
+
+🔗 [View original post](https://x.com/tunguz/status/2118706345591427235)
 
 ---
 
