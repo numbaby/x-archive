@@ -2,7 +2,23 @@
 
 ## 📅 November 06, 2026
 
-> 16 post(s) archived.
+> 18 post(s) archived.
+
+---
+
+### 🕐 22:21 UTC · @swyx
+
+> @StandupPartners @ryolu_ @Microsoft @MiniMax_AI @theworldlabs @HeyGen @ExaAILabs recap video https://x.com/aiDotEngineer/status/2118831109396193635?a=EABtkkwjEieIbNW34ZY&amp;s=20 衷心感谢, AIE 上海！ ❤️👨‍💻🇨🇳 everyone congratulate @StandupPartners on hosting the first EVER AI Engineer in China!
+
+🔗 [View original post](https://x.com/swyx/status/2118831214308262043)
+
+---
+
+### 🕐 22:21 UTC · @swyx
+
+> 衷心感谢, AIE 上海！ ❤️👨‍💻🇨🇳 everyone congratulate @StandupPartners on hosting the first EVER AI Engineer in China! Media absolutely tearing up seeing AIE Shanghai kick off and SUCH INCREDIBLE EXECUTION from @StandupPartners. the first AIE in China is actually happening!!! and its a packed room and a hot schedule featuring @ryolu_ , @Microsoft, @MiniMax_AI , @theworldlabs, @HeyGen , @ExaAILabs , @o…
+
+🔗 [View original post](https://x.com/aiDotEngineer/status/2118831109396193635)
 
 ---
 
