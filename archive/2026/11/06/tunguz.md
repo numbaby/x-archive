@@ -2,7 +2,23 @@
 
 ## 📅 November 06, 2026
 
-> 8 post(s) archived.
+> 10 post(s) archived.
+
+---
+
+### 🕐 12:57 UTC · @tunguz
+
+> Greater Garystan has never been tried. I support this 3 state solution.
+
+🔗 [View original post](https://x.com/tunguz/status/2118689334459355586)
+
+---
+
+### 🕐 12:54 UTC · @tunguz
+
+> Vagueposting will continue until morale improves.
+
+🔗 [View original post](https://x.com/tunguz/status/2118688565462786173)
 
 ---
 
