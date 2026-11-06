@@ -2,7 +2,15 @@
 
 ## 📅 November 06, 2026
 
-> 5 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 05:44 UTC · @swyx
+
+> Covered the future of AI on VHS tape. Slide left to see the camera 📹 @daytonaio Media
+
+🔗 [View original post](https://x.com/joshuacirjak/status/2118580275697639695)
 
 ---
 
