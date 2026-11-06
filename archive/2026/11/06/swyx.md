@@ -2,7 +2,7 @@
 
 ## 📅 November 06, 2026
 
-> 7 post(s) archived.
+> 8 post(s) archived.
 
 ---
 
@@ -19,6 +19,16 @@
 > Covered the future of AI on VHS tape. Slide left to see the camera 📹 @daytonaio Media
 
 🔗 [View original post](https://x.com/joshuacirjak/status/2118580275697639695)
+
+---
+
+### 🕐 05:09 UTC · @swyx
+
+> Some of the takes I get from chatting with people at @aiDotEngineer 1. what is still still important nowdays is human interaction that need us to be face to face. P.S. I am glad this has become a larger range of mutual understanding now, last year, when I emphasize this, a lot of people still don&apos;t care and only cares about higher intelligence) 2. People are become more aware of the importance of building their personal social media. P.S. From my own observation, I also saw much more cases in Oct, where PhD students or those who used to not use social media start to &quot;cold-start&quot; their twitter or rednote with &quot;ask me anything&quot; style intro to get enough attention. In that case, it would also be much harder to know where to put our attention to. It would also be important to know how to filter those noise when everyone is trying to create some ripples. 3. AI will replace our jobs and no body knows what to do, the only thing we can do is to do things that makes us feel happy right now and wait for the time to come. (Many people think that having AI makes their life better but at the same time, AI will take their jobs. There are also people think that AI makes them think more about their lives. Personally, I have many opinions on all the above points a few month ago, if any one is interesting. Welcome to discuss or ask in the thread so that I would be able to know what to share when I write my next long article.
+
+![Some of the takes I get from chatting with people at @aiDotEngineer 1. what is still still important nowdays is human interaction that need us to be face to face. P.S. I am glad this has become a larg](../../../../assets/images/2026/11/06/2118571351439188260-1.jpg)
+
+🔗 [View original post](https://x.com/SuJinyan6/status/2118571351439188260)
 
 ---
 
