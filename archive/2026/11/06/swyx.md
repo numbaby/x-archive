@@ -2,7 +2,17 @@
 
 ## 📅 November 06, 2026
 
-> 9 post(s) archived.
+> 10 post(s) archived.
+
+---
+
+### 🕐 11:16 UTC · @swyx
+
+> this is agi wtf (in @ryolu_&apos;s original footage i was given, BOTH sides of the screen were in Chinese. what u see below is Astra&apos;s rerender swapping English translation matching font and lighting and animations. MATCHING THE FUCKING LIGHTING.) @jxnlco @ryolu_ @aiDotEngineer guys guys
+
+![this is agi wtf (in @ryolu_&apos;s original footage i was given, BOTH sides of the screen were in Chinese. what u see below is Astra&apos;s rerender swapping English translation matching font and ligh](../../../../assets/images/2026/11/06/2118663921448169741-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2118663921448169741)
 
 ---
 

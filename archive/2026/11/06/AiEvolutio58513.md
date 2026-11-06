@@ -2,7 +2,15 @@
 
 ## 📅 November 06, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 10:58 UTC · @AiEvolutio58513
+
+> Sam Altman just admitted the bug problem has outgrown the people fixing it: &quot;I don&apos;t even know a dramatic enough word to use… models can find bugs that are outside of the normal threat model of what we think a hacker can do… hardware-level, insane stuff… I no longer think we&apos;re gonna be able to just patch all the bugs.&quot; Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2118659232333721719)
 
 ---
 

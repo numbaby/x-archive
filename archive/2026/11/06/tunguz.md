@@ -2,7 +2,15 @@
 
 ## 📅 November 06, 2026
 
-> 5 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 11:24 UTC · @tunguz
+
+> Gradient descent was a local minimum phenomenon.
+
+🔗 [View original post](https://x.com/tunguz/status/2118665722133905537)
 
 ---
 
