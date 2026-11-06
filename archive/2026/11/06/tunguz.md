@@ -2,7 +2,15 @@
 
 ## 📅 November 06, 2026
 
-> 7 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 12:33 UTC · @tunguz
+
+> MacOS. And it&apos;s not even close. In your experience, Computer use works best: - on mac OS? - on Windows? - on Linux?
+
+🔗 [View original post](https://x.com/tunguz/status/2118683084078100812)
 
 ---
 

@@ -2,7 +2,15 @@
 
 ## 📅 November 06, 2026
 
-> 24 post(s) archived.
+> 25 post(s) archived.
+
+---
+
+### 🕐 12:32 UTC · @elonmusk
+
+> BREAKING: Indian government sources say Starlink is welcome in India. 🇮🇳 “Customer is the king,” one official told ANI today. India welcomes competition in satellite internet, and customers will choose their provider based on price, value and quality. Yesterday brought good news for Starlink Direct to Cell too. TRAI proposed letting Indian mobile operators use their existing spectrum to connect phones directly to satellites. If adopted, the proposal could give Starlink a path to bring Direct to Cell to India through a local telecom partner, helping people stay connected where cell towers don’t reach. Media
+
+🔗 [View original post](https://x.com/cb_doge/status/2118682924791050343)
 
 ---
 
