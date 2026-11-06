@@ -2,7 +2,15 @@
 
 ## 📅 November 06, 2026
 
-> 6 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 06:20 UTC · @swyx
+
+> also we need: - trumpet/clarinet guy - woodwinds guy - horn guy for next year’s show. tagging @creatine_cycle for musician friends
+
+🔗 [View original post](https://x.com/swyx/status/2118589412011622728)
 
 ---
 
