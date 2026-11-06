@@ -2,7 +2,15 @@
 
 ## 📅 November 06, 2026
 
-> 36 post(s) archived.
+> 37 post(s) archived.
+
+---
+
+### 🕐 17:46 UTC · @elonmusk
+
+> SpaceX revenue this quarter alone will be substantially higher than NASA’s entire annual budget! Many people claim SpaceX is subsidized by NASA, but that is false. NASA provided ~5% of SpaceX revenue. SpaceX earned its contracts by offering the best product at the lowest price, &amp; it is the only astronaut transport option that meets NASA safety standards.
+
+🔗 [View original post](https://x.com/elonmusk/status/2118761981037723848)
 
 ---
 

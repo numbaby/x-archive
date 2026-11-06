@@ -2,7 +2,43 @@
 
 ## 📅 November 06, 2026
 
-> 10 post(s) archived.
+> 14 post(s) archived.
+
+---
+
+### 🕐 17:58 UTC · @swyx
+
+> https://x.com/zanweiguo/status/2118179977019662815 ✅
+
+🔗 [View original post](https://x.com/swyx/status/2118765012588400715)
+
+---
+
+### 🕐 17:58 UTC · @swyx
+
+> https://x.com/YijinBao73718/status/2118195151151808614 AIE @ Shanghai! Happy to attend an event at Shanghai with @aiDotEngineer . This always night quality conference is as great as promised and can’t wait to talk to speakers at Expo 😜
+
+🔗 [View original post](https://x.com/swyx/status/2118764969491943616)
+
+---
+
+### 🕐 17:27 UTC · @swyx
+
+> good writing is not dead
+
+![good writing is not dead](../../../../assets/images/2026/11/06/2118757173262180400-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2118757173262180400)
+
+---
+
+### 🕐 17:27 UTC · @swyx
+
+> Without all our lovely and amazing volunteers and my team, we couldn’t make this happen! Mengying you are the best, and already look forward to the 2nd AIE China! Where should we take next time? @aiDotEngineer @StandupPartners @swyx
+
+![Without all our lovely and amazing volunteers and my team, we couldn’t make this happen! Mengying you are the best, and already look forward to the 2nd AIE China! Where should we take next time? @aiDo](../../../../assets/images/2026/11/06/2118757104223932762-1.jpg)
+
+🔗 [View original post](https://x.com/Ninggao88/status/2118757104223932762)
 
 ---
 
