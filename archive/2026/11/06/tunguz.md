@@ -2,7 +2,15 @@
 
 ## 📅 November 06, 2026
 
-> 19 post(s) archived.
+> 20 post(s) archived.
+
+---
+
+### 🕐 18:10 UTC · @tunguz
+
+> This is a great moment to remind everyone that great engineering ≠ great product ≠ great business ≠ great company
+
+🔗 [View original post](https://x.com/tunguz/status/2118767945799405809)
 
 ---
 
