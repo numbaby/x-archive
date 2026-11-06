@@ -2,7 +2,15 @@
 
 ## 📅 November 05, 2026
 
-> 6 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 19:57 UTC · @_akhaliq
+
+> 18 of the 20 best open models today are Mixture-of-Experts. Dense is basically over. And yet the know-how to train a good MoE still lives mostly in the heads of a handful of teams. So we spent 800k GPU hours running the experiments ourselves and wrote everything down. Super happy to finally release &quot;The Ultimate MoE Training Handbook&quot;, free and open, organized around the questions training teams hit: - how many experts, how big, shared or not? - why is half my step spent in all-to-all, and how do I hide it? - why is my run 25x slower with no error in the logs? - softmax, sigmoid or sqrt(softplus) router, and why keep it in fp32? - aux loss or DeepSeek&apos;s loss-free bias? - upcycle a dense checkpoint or train from scratch? - can I serve with fewer experts per token than I trained with? ⚠️ Warning: it&apos;s long (~70k words, budget a few days, sorry) but with 55 interactive figures, code you can run and numbers from our own runs. Read it here: https://huggingface.co/spaces/huggingface/moe-blogpost Media
+
+🔗 [View original post](https://x.com/Thom_Wolf/status/2118432475730882627)
 
 ---
 

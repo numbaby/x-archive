@@ -2,7 +2,7 @@
 
 ## 📅 November 05, 2026
 
-> 7 post(s) archived.
+> 8 post(s) archived.
 
 ---
 
@@ -43,6 +43,16 @@
 > Agent swarms will certainly break the data infrastructure we have built for humans. Agents always need the latest records and the full history to complete tasks correctly. Take a look at what @Eon_io_ is building: a new data infrastructure to keep data fresh as it arrives in open Iceberg tables in your own bucket. Agents get context on each table over MCP. In Eon&apos;s public benchmark, it used 4x less compute than Spark and 7x less than Flink. What I&apos;m seeing across the industry right now is that the biggest bottleneck to AI adoption isn&apos;t model capabilities. It&apos;s data infrastructure. Today, we&apos;re expanding the Eon Data Foundation with the launch of Eon Yukon, a new serverless data engine purposely built to change tha…
 
 🔗 [View original post](https://x.com/omarsar0/status/2118365761022443620)
+
+---
+
+### 🕐 15:17 UTC · @omarsar0
+
+> Banger paper on RSI with foundation model systems. (bookmark it) Seriously, I highly recommend this paper if you want to start experimenting with RSI in your own company. Lots of great insights and tips. They propose Recursa, which raises DeepSeek-V4.1-Flash from 30.0% to 55.0% all-pass on held-out legal tasks, without a stronger teacher or human experts. The model weights stay the same. The gain comes from a knowledge repository the system writes for itself. The repository stores domain skills, instructions on when to use them, memories of past tasks, and reflections. Recursa first builds it from domain materials. Then parallel learners run tasks and propose fixes, and only validated fixes get merged back. On Harvey LAB&apos;s Firm Knowledge benchmark, Qwen3.8-Flash goes from 35.0% to 46.0% with the same loop. If you are adapting an agent to a new domain, try a validated skill repository before reaching for fine-tuning. https://arxiv.org/abs/2611.04035 Chat with Paper: https://academy.dair.ai/papers/recursa-toward-recursively-self-improving-foundation-model-systems-2611.04035
+
+![Banger paper on RSI with foundation model systems. (bookmark it) Seriously, I highly recommend this paper if you want to start experimenting with RSI in your own company. Lots of great insights and ti](../../../../assets/images/2026/11/05/2118361955991978126-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2118361955991978126)
 
 ---
 

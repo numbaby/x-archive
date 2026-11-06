@@ -2,7 +2,17 @@
 
 ## 📅 November 05, 2026
 
-> 34 post(s) archived.
+> 35 post(s) archived.
+
+---
+
+### 🕐 23:20 UTC · @swyx
+
+> @swyx Haha, no way! Okay, proof of a previous statement I made: https://www.tiktok.com/t/ZTPeKg1oa/ (Better if I warm up but I got excited and just wanted to make it fast.)
+
+![@swyx Haha, no way! Okay, proof of a previous statement I made: https://www.tiktok.com/t/ZTPeKg1oa/ (Better if I warm up but I got excited and just wanted to make it fast.)](../../../../assets/images/2026/11/05/2118483674769625305-1.jpg)
+
+🔗 [View original post](https://x.com/mkanat/status/2118483674769625305)
 
 ---
 
