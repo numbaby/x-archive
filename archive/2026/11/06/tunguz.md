@@ -2,7 +2,15 @@
 
 ## 📅 November 06, 2026
 
-> 6 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 12:00 UTC · @tunguz
+
+> Unfortunately, many things that we&apos;ve come to count on are deeply flawed and unfixable. We&apos;ll have to go through the painful process of uprooting them and starting from scratch.
+
+🔗 [View original post](https://x.com/tunguz/status/2118674987754098697)
 
 ---
 
