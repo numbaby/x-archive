@@ -2,7 +2,17 @@
 
 ## 📅 November 06, 2026
 
-> 8 post(s) archived.
+> 9 post(s) archived.
+
+---
+
+### 🕐 21:43 UTC · @AiEvolutio58513
+
+> Your company&apos;s SOPs, support tickets, and internal docs could be worth six figures. If your business has 30+ full-time employees, you may already have something valuable to AI companies. Think about all the situations your team has documented over the years: - How to train new hires - When to approve an exception - How to resolve complicated customer issues - What to do when a process breaks Those answers are sitting in SOPs, CRM records, support tickets, project histories, and internal knowledge bases. What&apos;s valuable is the decision-making behind them. These records show how people handle real situations, including the ones that don&apos;t follow the usual playbook. And that&apos;s useful for training AI agents to handle actual business tasks. That&apos;s the idea behind micro1&apos;s Company Data Partnerships program. micro1 pays qualifying businesses to license operational data they already have. For approved partnerships, payments start at $100K+ and can go higher depending on the amount, quality, and uniqueness of the data. Companies keep ownership of their underlying data. And micro1 says personal and identifying information is removed or transformed before the data is shared with third parties. They&apos;re looking across industries for established businesses with substantial English-language documentation. If that sounds like your company, it&apos;s worth seeing if you qualify: https://company.micro1.ai/register/?referralCode=72108c0b-3efa-456b-8b70-4a75fcc3565b&amp;utm_source=referral&amp;utm_medium=share&amp;utm_campaign=job_referral
+
+![Your company&apos;s SOPs, support tickets, and internal docs could be worth six figures. If your business has 30+ full-time employees, you may already have something valuable to AI companies. Think ab](../../../../assets/images/2026/11/06/2118821577580265750-1.jpg)
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2118821577580265750)
 
 ---
 

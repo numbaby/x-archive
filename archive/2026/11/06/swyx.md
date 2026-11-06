@@ -2,7 +2,27 @@
 
 ## 📅 November 06, 2026
 
-> 14 post(s) archived.
+> 16 post(s) archived.
+
+---
+
+### 🕐 22:14 UTC · @swyx
+
+> @aditabrm @reductoai @barsisyphus unironically, @allenpark cooked https://www.youtube.com/watch?v=KgqWyVVH4Oc
+
+![@aditabrm @reductoai @barsisyphus unironically, @allenpark cooked https://www.youtube.com/watch?v=KgqWyVVH4Oc](../../../../assets/images/2026/11/06/2118829491904708834-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2118829491904708834)
+
+---
+
+### 🕐 22:13 UTC · @swyx
+
+> our cooking show (yes, cooking show) is back!!! @aditabrm reveals the entire recipe of @reductoai pdf processing and also steak sandwich making at the end we address the serious allegations leveled by @barsisyphus more elite food journalism coming on https://youtube.com/@latentspacepod In this episode, @reductoai co-founder and CEO @aditabrm joins @allenpark to make steak sandwiches with burrata, torched peaches, and chimichurri and talk about why PDFs still break AI: how frontier models silently drop rows, why 99% accuracy can still fall short in production, …
+
+![our cooking show (yes, cooking show) is back!!! @aditabrm reveals the entire recipe of @reductoai pdf processing and also steak sandwich making at the end we address the serious allegations leveled by](../../../../assets/images/2026/11/06/2118829142607278366-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2118829142607278366)
 
 ---
 
