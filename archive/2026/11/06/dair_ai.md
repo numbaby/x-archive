@@ -2,7 +2,15 @@
 
 ## 📅 November 06, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 20:09 UTC · @dair_ai
+
+> Working in humanoids and space exploration? We&apos;re extending the call for contributions for Humanoids at the Edge until November 12, 11:59 PM AoE. There&apos;s still time to submit! https://space-robots.org/events/humanoids2026/ I am helping to organize. Let me know if you have any questions. Media
+
+🔗 [View original post](https://x.com/omarsar0/status/2118798036608389358)
 
 ---
 

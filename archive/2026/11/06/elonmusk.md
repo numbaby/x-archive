@@ -2,7 +2,55 @@
 
 ## 📅 November 06, 2026
 
-> 37 post(s) archived.
+> 44 post(s) archived.
+
+---
+
+### 🕐 19:34 UTC · @elonmusk
+
+> Armies that win have the general at the front lines. Nobody wants to bleed for the prince in the palace. Ron Baron asked Elon Musk how many CEOs live on site in an Airstream and work hands-on with everyone. MUSK: “Airstreams are actually pretty nice... It’s parked right next to the power plant.” “We built this power plant that’s producing over a gigawatt... in about a year, as oppo…
+
+🔗 [View original post](https://x.com/elonmusk/status/2118789067571954105)
+
+---
+
+### 🕐 19:32 UTC · @elonmusk
+
+> ~100 lasers per satellite, each operating above 10 Tb/s, with over 100k satellites should be able to outcompete undersea cables. Speed of light in space is ~40% faster than cable and the path is direct, instead of following the outline of land masses. Elon just teased SpaceX&apos;s next-gen V4 @Starlink satellites: &quot;Starlink version 4 will have 10x the capability of V3 (which itself is 10x better than V2), especially with the long-distance laser links. Our next-gen laser links will be 10-terabits per second. 100x better. And we&apos;ll…
+
+🔗 [View original post](https://x.com/elonmusk/status/2118788513365954734)
+
+---
+
+### 🕐 19:27 UTC · @elonmusk
+
+> 🇦🇷 🇦🇷 Tesla Argentina!! 🇦🇷 🇦🇷 Llegamos a Argentina el 20 de Noviembre
+
+🔗 [View original post](https://x.com/elonmusk/status/2118787365426893002)
+
+---
+
+### 🕐 19:23 UTC · @elonmusk
+
+> Pulling massive power cables is a great workout and far more productive than lifting weights 🏋️‍♀️ Elon Musk in new interview on @SpaceXSI&apos;s data center site in Memphis: &quot;I insist on doing some of the work myself manually. I&apos;ve pulled power cables the size of an anaconda. I&apos;ve done the fiber optic cabling; I try to do at least a little bit of everything so I&apos;m not numb to the…
+
+🔗 [View original post](https://x.com/elonmusk/status/2118786343958675697)
+
+---
+
+### 🕐 19:12 UTC · @elonmusk
+
+> Elon Musk just revealed an absolutely insane revenue trajectory for SpaceX: on track to exceed $100 billion annualized in December, a best guess of over $500 billion by December next year, and a trillion is no longer out of the question &quot;I think, just to comment on a few of those things, so we are tracking to have an annual rate of revenue, that is in excess of $100 billion in December. Obviously, December&apos;s pretty close, so I have good insight into that, so unless there&apos;s some natural disaster or something, we will meet that target. And then based on the plans that we have next year, it seems quite likely that our annual recurring revenue in December of next year will exceed 500 billion. Now, this is not a promise, this is what I think will happen, this is my best guess. Just want to distinguish between this is a promise to do something versus what I think will occur. What I think will occur is an ARR in December of next year of 500 billion, and I simply said, a trillion is not out of the question, meaning it was previously out of the question and it is no longer out of the question, it&apos;s maybe 2% or something likelihood But it&apos;s interesting that it&apos;s not 0%, that&apos;s the interesting part. And the probability is increasing with time” Media
+
+🔗 [View original post](https://x.com/XFreeze/status/2118783624325791849)
+
+---
+
+### 🕐 18:59 UTC · @elonmusk
+
+> Elon today on @SpaceX&apos;s upcoming Starship Flight 15, which will attempt to catch both the Super Heavy Booster and Starship&apos;s upper stage: &quot;You really want to watch this one. This one&apos;s cool. It&apos;s the largest flying object ever made. And then the giant thing comes back. Excitement is guaranteed.&quot; Video below on what the ship catch will look like: Media Media
+
+🔗 [View original post](https://x.com/SawyerMerritt/status/2118780450512527793)
 
 ---
 
@@ -79,6 +127,14 @@
 > Ron Baron understands BREAKING: Ron Baron backs Elon Musk to put data centers in space. “We need more power and Elon’s doing that.” • Baron says America needs to build more chips at home and generate more electricity. “We need more power. Elon’s doing that.” • By Baron’s estimate, China has roughly 3…
 
 🔗 [View original post](https://x.com/elonmusk/status/2118732296446673209)
+
+---
+
+### 🕐 15:02 UTC · @elonmusk
+
+> Launching in Argentina later this month Llegamos a Argentina el 20 de Noviembre
+
+🔗 [View original post](https://x.com/Tesla/status/2118720752379899907)
 
 ---
 

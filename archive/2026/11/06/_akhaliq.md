@@ -2,7 +2,27 @@
 
 ## 📅 November 06, 2026
 
-> 5 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 19:32 UTC · @_akhaliq
+
+> Muir Linear Attention with Sensitivity-Allocated Gating and Matched-Filter Readout paper: https://huggingface.co/papers/2611.08376
+
+![Muir Linear Attention with Sensitivity-Allocated Gating and Matched-Filter Readout paper: https://huggingface.co/papers/2611.08376](../../../../assets/images/2026/11/06/2118788621310611911-1.png)
+
+🔗 [View original post](https://x.com/_akhaliq/status/2118788621310611911)
+
+---
+
+### 🕐 18:41 UTC · @_akhaliq
+
+> Where else should we integrate ML Intern?
+
+![Where else should we integrate ML Intern?](../../../../assets/images/2026/11/06/2118775755471806504-1.jpg)
+
+🔗 [View original post](https://x.com/abidlabs/status/2118775755471806504)
 
 ---
 

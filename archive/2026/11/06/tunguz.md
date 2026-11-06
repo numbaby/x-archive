@@ -2,7 +2,25 @@
 
 ## 📅 November 06, 2026
 
-> 20 post(s) archived.
+> 22 post(s) archived.
+
+---
+
+### 🕐 19:48 UTC · @tunguz
+
+> I love it how when I ask AI to come up with a plan for a coding project it still gives me estimates in terms of human days/weeks/months, even though we both know this stuff is not going to take more than a few hours to do.
+
+![I love it how when I ask AI to come up with a plan for a coding project it still gives me estimates in terms of human days/weeks/months, even though we both know this stuff is not going to take more t](../../../../assets/images/2026/11/06/2118792598668353559-1.png)
+
+🔗 [View original post](https://x.com/tunguz/status/2118792598668353559)
+
+---
+
+### 🕐 19:12 UTC · @tunguz
+
+> All right, no new model releases today. Time to go home boys. Have a great weekend. A new way to measure how AI agents handle the routine analyses of wet-lab science—BioBasicsBench. Developed with Ligo, a biotech company focused on enzyme design, the benchmark draws on 100 tasks from real experiments to test whether agents can interpret raw lab data, identify e…
+
+🔗 [View original post](https://x.com/tunguz/status/2118783552171171855)
 
 ---
 
