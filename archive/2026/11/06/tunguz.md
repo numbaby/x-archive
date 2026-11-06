@@ -2,7 +2,31 @@
 
 ## 📅 November 06, 2026
 
-> 2 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 02:47 UTC · @tunguz
+
+> Has anyone run a detailed analysis of what repeatedly choosing the lesser of two evils converges to?
+
+🔗 [View original post](https://x.com/tunguz/status/2118535775314911442)
+
+---
+
+### 🕐 02:37 UTC · @tunguz
+
+> I&apos;ve never been more bullish on natural stupidity.
+
+🔗 [View original post](https://x.com/tunguz/status/2118533290575483239)
+
+---
+
+### 🕐 02:06 UTC · @tunguz
+
+> Almost there. Any day.
+
+🔗 [View original post](https://x.com/tunguz/status/2118525432316506367)
 
 ---
 
