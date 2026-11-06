@@ -2,7 +2,17 @@
 
 ## 📅 November 06, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 15:55 UTC · @dair_ai
+
+> If you want to learn how to build self-improving harnesses, check out this paper. They present Exo, an agent runtime architecture for in-harness learning and adaptation during ongoing work. Harness optimization usually runs offline, so it needs a representative dataset and many expensive runs before the agent improves. Exo moves that loop into normal task execution. The agent edits its own harness code while it works. A small protected layer keeps the execution history and controls which policy version is active, so every change can be inspected. On AppWorld and SREGym, Exo cuts held-out model cost by 35 to 61% against the same starting policy without self-editing, with comparable correctness. Mean AppWorld task time drops 13%, and median SREGym diagnosis time drops 35%. https://arxiv.org/abs/2611.00463 Chat with Paper: https://academy.dair.ai/papers/exo-an-architecture-for-self-improving-systems-at-runtime-2611.00463
+
+![If you want to learn how to build self-improving harnesses, check out this paper. They present Exo, an agent runtime architecture for in-harness learning and adaptation during ongoing work. Harness op](../../../../assets/images/2026/11/06/2118733906346459596-1.jpg)
+
+🔗 [View original post](https://x.com/dair_ai/status/2118733906346459596)
 
 ---
 

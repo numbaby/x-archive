@@ -2,7 +2,7 @@
 
 ## 📅 November 06, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
 
 ---
 
@@ -23,6 +23,16 @@
 ![ByteDance Seed published a new dataset on Hugging Face: MLIP-liquid-corrections. It provides BSSE and ATM correction labels for 2M molecular configurations, derived from OMol25. This helps fine-tune M](../../../../assets/images/2026/11/06/2118690909520875785-1.jpg)
 
 🔗 [View original post](https://x.com/HuggingPapers/status/2118690909520875785)
+
+---
+
+### 🕐 12:10 UTC · @_akhaliq
+
+> Harness-S: Learning from Sibling Harnesses A training method that uses complementary sibling harnesses to rescue failed agent rollouts and transfers those behaviors into a single policy that still works under the original harness.
+
+![Harness-S: Learning from Sibling Harnesses A training method that uses complementary sibling harnesses to rescue failed agent rollouts and transfers those behaviors into a single policy that still wor](../../../../assets/images/2026/11/06/2118677343942459538-1.jpg)
+
+🔗 [View original post](https://x.com/HuggingPapers/status/2118677343942459538)
 
 ---
 

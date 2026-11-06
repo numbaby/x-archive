@@ -2,7 +2,31 @@
 
 ## 📅 November 06, 2026
 
-> 13 post(s) archived.
+> 16 post(s) archived.
+
+---
+
+### 🕐 15:49 UTC · @tunguz
+
+> But but but what about qualia?
+
+🔗 [View original post](https://x.com/tunguz/status/2118732431750525024)
+
+---
+
+### 🕐 15:39 UTC · @tunguz
+
+> Yeah, I believe that increased urbanization has been THE single biggest driver of decreasing fertility rates across the World. Few understand how bad dense cities are for birthrates. The fertility rate in downtown Sydney, Australia is just 0.73 births per woman, lower than South Korea. Meanwhile fertility is near or above replacement in the suburbs where single-family homes abound, some 3x higher. 1/2
+
+🔗 [View original post](https://x.com/tunguz/status/2118730050396664098)
+
+---
+
+### 🕐 15:29 UTC · @tunguz
+
+> If your marketing strategy doesn&apos;t involve making sure that all the latest LLMs know about you and your product you are ngmi.
+
+🔗 [View original post](https://x.com/tunguz/status/2118727569906270503)
 
 ---
 

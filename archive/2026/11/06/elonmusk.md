@@ -2,7 +2,39 @@
 
 ## 📅 November 06, 2026
 
-> 25 post(s) archived.
+> 30 post(s) archived.
+
+---
+
+### 🕐 15:50 UTC · @elonmusk
+
+> Tesla Model Y is the best-selling car of any kind on Earth Tesla Model Y is Australia’s best-selling passenger vehicle so far this year, beating the Toyota RAV4. From January through October, Tesla sold 39,035 Model Ys versus 35,927 RAV4s. Sales of Tesla’s all-electric SUV jumped 117.2% compared with the same period last year.
+
+🔗 [View original post](https://x.com/elonmusk/status/2118732812161519852)
+
+---
+
+### 🕐 15:50 UTC · @elonmusk
+
+> Media
+
+🔗 [View original post](https://x.com/elonmusk/status/2118732649426731409)
+
+---
+
+### 🕐 15:48 UTC · @elonmusk
+
+> Ron Baron understands BREAKING: Ron Baron backs Elon Musk to put data centers in space. “We need more power and Elon’s doing that.” • Baron says America needs to build more chips at home and generate more electricity. “We need more power. Elon’s doing that.” • By Baron’s estimate, China has roughly 3…
+
+🔗 [View original post](https://x.com/elonmusk/status/2118732296446673209)
+
+---
+
+### 🕐 14:56 UTC · @elonmusk
+
+> More than a dozen flight tests and years of development, with countless hours worked by SpaceX engineers and technicians, all come down to this: the first orbital Starship launch carrying advanced Starlink satellites bound for space. Watch “Go For Orbit” and experience the moments behind flying the most ambitious Starship mission yet Media
+
+🔗 [View original post](https://x.com/SpaceX/status/2118719281038770389)
 
 ---
 
@@ -35,6 +67,16 @@
 > Seldon, Psychohistory Elon Musk on the life cycle of civilizations: “You do tend to see the same patterns… civilizations go through a life cycle like an organism Just like a human: zygote, fetus, baby, toddler, teenager… eventually it gets old and dies The civilizations go through a life cycle No civ…
 
 🔗 [View original post](https://x.com/elonmusk/status/2118629153390158000)
+
+---
+
+### 🕐 08:55 UTC · @elonmusk
+
+> “I was cancelled for criticising legislation that did not exist. Now, that very legislation is on course to become law. This time around, what I fear is not cancellation, but criminalisation.” My article for the Telegraph on the Conversion Practices Bill. https://www.telegraph.co.uk/news/2026/11/06/my-job-therapist-will-be-impossible-trans-madness/
+
+![“I was cancelled for criticising legislation that did not exist. Now, that very legislation is on course to become law. This time around, what I fear is not cancellation, but criminalisation.” My arti](../../../../assets/images/2026/11/06/2118628271164444909-1.jpg)
+
+🔗 [View original post](https://x.com/JamesEsses/status/2118628271164444909)
 
 ---
 

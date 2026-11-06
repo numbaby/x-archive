@@ -2,7 +2,15 @@
 
 ## 📅 November 06, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 15:04 UTC · @AiEvolutio58513
+
+> Here&apos;s how Elon Musk fixed Starlink when it was failing: &quot;Starlink was a mess. It was 10X too expensive and they were building 1/10 of how many they needed.&quot; &quot;Elon&apos;s like I&apos;ve had it. This is now the bottleneck. I&apos;m fixing this.&quot; He flew a team of engineers he trusted to Seattle. &quot;They fire the entire Starlink leadership team.&quot; Then they sat in a war room and ran his algorithm on every part of the satellite: What are the first principles of satellite design? How simple can we make this thing? Why does this exist? Why do we need this much energy? Why do we need this manufacturing process? &quot;And over the course of a few months they make a two order of magnitude leap.&quot; &quot;These people had never encountered this design before, but just by applying the algorithm and working with maniacal urgency towards this extremely high design bar, they created this product that&apos;s now, if it was a standalone business, would be worth tens of billions of dollars or more.&quot; Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2118721109516492982)
 
 ---
 
