@@ -2,7 +2,15 @@
 
 ## 📅 November 07, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 15:03 UTC · @AiEvolutio58513
+
+> Elon Musk explains where environmentalism turns dangerous: when protecting the planet becomes treating humanity as the problem. &quot;In the natural extension of the environmentalist movement, if you go too far, you start to look at humanity as a bad thing. You start to look at humanity as though we are a plague on the surface of the earth.&quot; &quot;And in fact, there are some people who think and say explicitly that.&quot; His example: &quot;On the front page of the New York Times, there was a guy who said: there are 8 billion people on earth, it would be better if there were none. Which is crazy.&quot; His whole case for Mars, AI and abundance starts from the opposite idea: more humans, not fewer. Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2119083238862045229)
 
 ---
 

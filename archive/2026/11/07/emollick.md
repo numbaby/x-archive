@@ -2,7 +2,23 @@
 
 ## 📅 November 07, 2026
 
-> 3 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 15:08 UTC · @emollick
+
+> AI could do 1000x more research but the jagged frontier currently runs through the fact that the taste for what is an interesting story almost certainly remains human (because the same bottlene is happening in academic research). At least for now.
+
+🔗 [View original post](https://x.com/emollick/status/2119084530883801490)
+
+---
+
+### 🕐 15:03 UTC · @emollick
+
+> This can be a golden age of investigative journalism. Analyzing filings, records and public data to go deep into a company or government or whatever used to be something that took a team of journalists a long time, so was relatively rare. Now LLMs can 10x investigative research.
+
+🔗 [View original post](https://x.com/emollick/status/2119083280381383072)
 
 ---
 

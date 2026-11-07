@@ -2,7 +2,23 @@
 
 ## 📅 November 07, 2026
 
-> 5 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 15:17 UTC · @tunguz
+
+> Analog techno is the thing. Media
+
+🔗 [View original post](https://x.com/tunguz/status/2119086749469028633)
+
+---
+
+### 🕐 15:14 UTC · @tunguz
+
+> Myelin is vertebrates’ killer feature. If octopuses had myelinated neurons they would be the ones ruling the planet right now. While you sleep, your brain&apos;s white matter is charging up like a battery Myelin, the insulation around your nerve fibers, has been considered a passive structural component that speeds up signals. A new hypothesis from @FScholkmann and colleagues proposes it&apos;s actually an energy…
+
+🔗 [View original post](https://x.com/tunguz/status/2119086051264258266)
 
 ---
 

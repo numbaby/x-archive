@@ -148092,5 +148092,66 @@
         "source_url": "https://pbs.twimg.com/media/HWhiG27akAANFqs.jpg?name=orig"
       }
     ]
+  },
+  "2119083238862045229": {
+    "account": "AiEvolutio58513",
+    "date": "2026-11-07",
+    "file": "data/posts/2026/11/2026-11-07.jsonl",
+    "fingerprint": "a5cd4ea0dc5e4650eb4244abd123106459fb0d3f1b5f8fe859dd20f9ce378589",
+    "media": []
+  },
+  "2119083280381383072": {
+    "account": "emollick",
+    "date": "2026-11-07",
+    "file": "data/posts/2026/11/2026-11-07.jsonl",
+    "fingerprint": "ab25ee9ed19be8b2884bea9000302391e0e23436429f1d1df0823a581ffa8586",
+    "media": []
+  },
+  "2119083711522316490": {
+    "account": "dair_ai",
+    "date": "2026-11-07",
+    "file": "data/posts/2026/11/2026-11-07.jsonl",
+    "fingerprint": "706c9875d9b354f84a5935408178540109cc488a6c55e1aa3b5d9e54dd43dda2",
+    "media": [
+      {
+        "local_path": "assets/images/2026/11/07/2119083711522316490-1.png",
+        "sha256": "1ab1cf82517992c72f87084775155d8ded68114e6131c5d3cede4adaeac5ebc5",
+        "source_url": "https://pbs.twimg.com/media/HWh_Z6aaAAA7OGy.png?name=orig"
+      }
+    ]
+  },
+  "2119084530883801490": {
+    "account": "emollick",
+    "date": "2026-11-07",
+    "file": "data/posts/2026/11/2026-11-07.jsonl",
+    "fingerprint": "25377ddeca63df25316ed95c549d59cce61ee0a8fa956558f1d2d24ad7566a93",
+    "media": []
+  },
+  "2119085975880212842": {
+    "account": "dair_ai",
+    "date": "2026-11-07",
+    "file": "data/posts/2026/11/2026-11-07.jsonl",
+    "fingerprint": "8431dda685e14d497f186eea3659472822c379ffd215a9b6f93723b49f738fa0",
+    "media": [
+      {
+        "local_path": "assets/images/2026/11/07/2119085975880212842-1.jpg",
+        "sha256": "6cf0a0696e3b5ab9aae7b864bcc44dec9e8e2906d92be6e8a775789bb94e5bc4",
+        "source_url": "https://pbs.twimg.com/media/HWiBdtHaIAAT03a.jpg?name=orig"
+      }
+    ]
+  },
+  "2119086051264258266": {
+    "account": "tunguz",
+    "date": "2026-11-07",
+    "file": "data/posts/2026/11/2026-11-07.jsonl",
+    "fingerprint": "9499e87b41b73ba96ae8d9068d5859b443b37158bc68c4044b6b2e2f1a49a366",
+    "media": []
+  },
+  "2119086749469028633": {
+    "account": "tunguz",
+    "date": "2026-11-07",
+    "file": "data/posts/2026/11/2026-11-07.jsonl",
+    "fingerprint": "c3ff57de85f45369b23facf2dba6a6162549d6e7ef79d4802521f4158cdcd029",
+    "media": []
   }
 }
