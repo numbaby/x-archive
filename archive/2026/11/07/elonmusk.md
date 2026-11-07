@@ -2,7 +2,31 @@
 
 ## 📅 November 07, 2026
 
-> 5 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 01:53 UTC · @elonmusk
+
+> In the coming years, @Neuralink will enable people to walk and use their hands again Neuralink gave Noland Arbaugh something to wake up for. “I didn’t have anything to wake up for in the morning, and this has changed that for me.” @elonmusk says he’s fairly confident Neuralink could restore full-body functionality at some point in the future—not a capability ach…
+
+🔗 [View original post](https://x.com/elonmusk/status/2118884500201787770)
+
+---
+
+### 🕐 01:40 UTC · @elonmusk
+
+> Super intelligence leads to abundance SpaceX’s Arizona data center, per a county supervisor: “We could be reducing property taxes across the board in Cochise County, the entire county, by 20%” Frank Antenori, whose district includes the site, brought up the county’s tax math during a live Q&amp;A: “Here’s just something…
+
+🔗 [View original post](https://x.com/elonmusk/status/2118881284743483488)
+
+---
+
+### 🕐 01:39 UTC · @elonmusk
+
+> It is so tempting to make a 500 ton thrust Raptor 4 in place of the 250 ton Raptor 3 for the outer ring of the Starship booster
+
+🔗 [View original post](https://x.com/elonmusk/status/2118880932014997910)
 
 ---
 
