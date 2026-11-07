@@ -2,7 +2,15 @@
 
 ## 📅 November 07, 2026
 
-> 7 post(s) archived.
+> 9 post(s) archived.
+
+---
+
+### 🕐 20:26 UTC · @swyx
+
+> never ever forget @buccocapital
+
+🔗 [View original post](https://x.com/swyx/status/2119164641301696891)
 
 ---
 
@@ -29,6 +37,14 @@
 ![come see it at https://aie.codes next week](../../../../assets/images/2026/11/07/2119108787726643400-1.jpg)
 
 🔗 [View original post](https://x.com/swyx/status/2119108787726643400)
+
+---
+
+### 🕐 15:54 UTC · @swyx
+
+> I can watch this show ALL DAY. In this episode, @reductoai co-founder and CEO @aditabrm joins @allenpark to make steak sandwiches with burrata, torched peaches, and chimichurri and talk about why PDFs still break AI: how frontier models silently drop rows, why 99% accuracy can still fall short in production, …
+
+🔗 [View original post](https://x.com/JenniferHli/status/2119096038778933269)
 
 ---
 
