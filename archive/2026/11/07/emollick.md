@@ -2,7 +2,41 @@
 
 ## 📅 November 07, 2026
 
-> 5 post(s) archived.
+> 9 post(s) archived.
+
+---
+
+### 🕐 18:57 UTC · @emollick
+
+> AIs may still underperform humans in error rates in some cases, of course, but we need to update our assumptions about how often that occurs.
+
+🔗 [View original post](https://x.com/emollick/status/2119142327126290612)
+
+---
+
+### 🕐 18:53 UTC · @emollick
+
+> Now there might be things to verify beyond errors - points of view, opinions, approaches, etc. But the idea that the job of humans should be checking AI work for mistakes is likely not true today, and good riddance.
+
+🔗 [View original post](https://x.com/emollick/status/2119141295071367211)
+
+---
+
+### 🕐 18:50 UTC · @emollick
+
+> I think there is way too much concern expressed about verification of AI output in everyday work due to a risk of factual errors. It used to be true, but data on more recent models suggest they beat human experts, including PhD specialists, in finding facts and checking claims.
+
+![I think there is way too much concern expressed about verification of AI output in everyday work due to a risk of factual errors. It used to be true, but data on more recent models suggest they beat h](../../../../assets/images/2026/11/07/2119140502746308674-1.jpg)
+
+🔗 [View original post](https://x.com/emollick/status/2119140502746308674)
+
+---
+
+### 🕐 18:08 UTC · @emollick
+
+> From a founder of WIRED: https://x.com/kevin2kelly/status/2119101083821965651?a=WsyDzGozCt_9IIU8mZs&amp;s=20 @Ugo_alves @emollick @chr1sa That feels about right.
+
+🔗 [View original post](https://x.com/emollick/status/2119129926326468703)
 
 ---
 

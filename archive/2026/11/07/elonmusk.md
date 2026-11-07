@@ -2,7 +2,57 @@
 
 ## 📅 November 07, 2026
 
-> 21 post(s) archived.
+> 29 post(s) archived.
+
+---
+
+### 🕐 19:07 UTC · @elonmusk
+
+> Who put your beliefs into your head? It probably wasn’t you. who is prompting you? $CLAUDIA contest entry by @PinelandLabs clip&apos;s 2:19 — full video + vote → https://sxsi.com/s/contest-who-is-prompting-you
+
+🔗 [View original post](https://x.com/elonmusk/status/2119144684299915299)
+
+---
+
+### 🕐 18:38 UTC · @elonmusk
+
+> I want to be José Ron Baron is 83. In front of thousands of investors in New York, he looked at Elon Musk and asked the one question an 83-year-old asks. &quot;How do you want people to think about you?&quot; For the full hour before, it had been trillion-dollar chip fabs. Starship. Starlink. The business …
+
+![I want to be José Ron Baron is 83. In front of thousands of investors in New York, he looked at Elon Musk and asked the one question an 83-year-old asks. &quot;How do you want people to think about yo](../../../../assets/images/2026/11/07/2119137465323708895-1.jpg)
+
+🔗 [View original post](https://x.com/elonmusk/status/2119137465323708895)
+
+---
+
+### 🕐 18:32 UTC · @elonmusk
+
+> Interesting BREAKING: Google’s parent Alphabet added another 3.85 million shares of SpaceX in Q3, its latest SEC filing shows. Alphabet held 555 million shares worth $83.7 billion as of Sept. 30. SpaceX alone made up nearly 95% of its reported stock portfolio. Google first put $900 million …
+
+🔗 [View original post](https://x.com/elonmusk/status/2119135865662300669)
+
+---
+
+### 🕐 18:13 UTC · @elonmusk
+
+> Starlink saves lives BREAKING: Earthquake-hit village in Indonesia receives @Starlink to help restore communications The equipment arrived after an Indonesian lawmaker visited Tado village. Starlink can help families get back online, check on loved ones and find out where to get aid. ♥️
+
+🔗 [View original post](https://x.com/elonmusk/status/2119131060806074732)
+
+---
+
+### 🕐 18:12 UTC · @elonmusk
+
+> The Tesla Cybertruck order backlog is currently far more than we can make before dismantling the line for Cybercab expansion around June/July next year. We will add an extra shift to try to get all orders done in time.
+
+🔗 [View original post](https://x.com/elonmusk/status/2119130949434888330)
+
+---
+
+### 🕐 17:42 UTC · @elonmusk
+
+> SpaceX has outlined five contingency landing options for Starship Flight 15 as it prepares for the ship’s first tower-catch attempt at Starbase This visualization shows how the mission can change course if the vehicle or tower does not meet the conditions required for a safe return: 1. Indian Ocean — after ascent If the orbital insertion burn is skipped, Starship remains on its suborbital trajectory and reenters over a predetermined area of the Indian Ocean 2. North of Hawaii — early in the mission If the flight needs to end shortly after reaching orbit, Starship returns to a designated area of the Pacific north of Hawaii 3. Off Chile — mid-mission A separate return opportunity allows Starship to land in the eastern Pacific, far off the coast of Chile 4. Gulf offshore — catch contingency If the tower catch is called off before final approach, Starship has an offshore landing option in the Gulf instead of proceeding with the catch 5. North of Hawaii — late in the mission If the planned deorbit burn is skipped, Starship completes another orbit before returning to the Pacific north of Hawaii The objective is to bring Starship home. The flight plan builds in alternatives throughout the journey, with continuous vehicle-health checks determining when to proceed An ambitious mission, backed by carefully planned options from ascent to final approach Media
+
+🔗 [View original post](https://x.com/XFreeze/status/2119123323225612354)
 
 ---
 
@@ -40,6 +90,14 @@
 
 ---
 
+### 🕐 16:30 UTC · @elonmusk
+
+> A statistic that sounds fake but isn&apos;t: Not one single white American man born after 1984 has published a work of literary fiction in The New Yorker. It&apos;s not because they stopped writing. It&apos;s because The New Yorker has refused to publish them. The publishing industry has blacked out a generation of male writers &amp; then they wonder why boys don&apos;t read. About 70% of publishing professionals are women. Because agents and editors tend to select books they personally relate to, an increasing number of male authors are being sidelined in the publishing industry, resulting in an overwhelming number of female protagonists on our shel…
+
+🔗 [View original post](https://x.com/politicalmath/status/2119105264569745683)
+
+---
+
 ### 🕐 16:29 UTC · @elonmusk
 
 > SpaceX just released a detailed blog post explaining how Starship will return to Starbase for its first tower-catch attempt on Flight 15 and it is going to be the first full recovery of an orbital launch system The mission brings together both sides of Starship’s future: delivering a major payload to orbit and bringing the entire launch system home for reuse. Super Heavy will return minutes after liftoff, while Starship will deploy 26 Starlink V3 satellites, fly a mission of more than 22 hours, then make its way back through the atmosphere toward the tower at Starbase, provided it passes the required vehicle-health checks The update walks through the orbital safety checks, heatshield inspections, alternative splashdown locations, the precise approach over northern Mexico and southern Texas, and the final sequence of bellyflop, engine ignition, flip and catch Flight 15 is targeting launch as early as Friday, November 13, pending regulatory approval. The 75-minute launch window opens at 4:45 p.m. CT. Here is the full plan, from liftoff to bringing both stages home 1. LAUNCH AND THE BOOSTER’S RETURN Super Heavy will lift Starship from Starbase before the vehicles separate through hot-staging: Starship ignites its engines while still attached, then continues toward space as the booster turns back. The booster will perform its boostback burn, descend toward Starbase and begin its landing burn roughly six minutes after liftoff. The catch is planned for approximately 6 minutes 35 seconds into flight. This will be the first catch attempt for a V3 Super Heavy booster. SpaceX has already caught three V1 boosters, with two subsequently flown again. 2. THE HARDWARE DESIGNED FOR CATCHING Super Heavy V3 has three grid fins instead of four. Each is 50% larger and significantly stronger, with a new catch point and revised positioning to support lifting and catching operations. The tower’s mechanical arms......the chopsticks are shorter to allow faster movement and better tracking during a catch. Their main actuators have changed from hydraulic to electromechanical, improving speed, redundancy and reliability These changes are part of the broader V3 architecture, designed around making recovery and reuse routine operations. 3. STARSHIP DOES NOT COMMIT TO ORBIT IMMEDIATELY The ship initially follows a passively safe suborbital trajectory rather than entering a sustained orbit directly. This is deliberate. If a problem occurs during ascent or shortly afterward, the trajectory takes Starship toward a cleared reentry area over the Indian Ocean without requiring a successful orbital mission. After ascent, flight controllers assess the vehicle’s health and make a go/no-go decision for orbit. With a go, one sea-level Raptor performs an orbital insertion burn approximately 26 minutes after liftoff, increasing Starship’s speed enough to establish orbit. 4. DEPLOYING 26 STARLINK V3 SATELLITES Satellite deployment is planned to begin around 35 minutes into flight and finish around 1 hour 18 minutes. Each Starlink V3 satellite adds approximately 1 terabit per second of network capacity. SpaceX compares this mission’s 26 satellites with roughly 10 Falcon 9 launches carrying V2 Mini satellites. After deployment, the satellites unfold their antennas and solar arrays, establish radio and laser communications, and use onboard propulsion to raise their orbits. Customer service is expected to begin as soon as a few weeks after launch. Three satellites have an additional job: photographing Starship’s heatshield. Those images will be transmitted to operators and become one of several sources of information used to assess whether the ship is ready to return to Starbase. SpaceX has already tested this inspection method on previous flights. 5. ALMOST A DAY IN ORBIT The planned mission lasts more than 22 hours, with approximately 14 orbits at an altitude of roughly 275 kilometers. After deploying the satellites, Starship will coast for around another 21 hours until its orbit aligns with Starbase for the return. Throughout that period, controllers will run continuous manual and automated checks. These cover engine health, power, communications, flight computers, navigation sensors, tank and feedline integrity, tank pressure and attitude control......the ability to maintain the ship’s intended orientation. These checks are intentionally conservative. Returning to the tower is something the vehicle must qualify to do through its condition in flight. 6. ALTERNATIVE RETURN OPTIONS THROUGHOUT THE MISSION The flight includes opportunities to end the mission early in precleared Pacific Ocean areas if the vehicle is not suitable for a Starbase return. These include early- and late-mission splashdown options around Hawaii and a mid-mission opportunity several hundred kilometers off Chile’s coast. The same areas were used during Flight 14. The mission therefore has multiple decision points rather than a single commitment to return home regardless of the vehicle’s condition. 7. THE DEORBIT BURN AND REENTRY Starship will proceed toward Starbase only if it meets SpaceX’s internally developed, FAA-approved conditions for return and catch. A single Raptor 3 engine will perform the deorbit burn, planned around 21 hours 36 minutes after launch. That changes the ship’s trajectory toward atmospheric entry over the Pacific Ocean, thousands of kilometers uprange from Starbase. Reentry is planned to begin around 22 hours 11 minutes into flight. The four control flaps will guide Starship along its intended trajectory while allowing small, deliberate turns to route it over sparsely populated areas of northern Mexico and southern Texas. 8. THE FLIGHT PATH BACK TO STARBASE Starship will approach from the west and steer around the major cities of the Rio Grande Valley. It will pass north of South Padre Island, continue out over the Gulf, then make its final turn south toward Starbase. This is not an entirely untested maneuver: SpaceX has demonstrated the banking maneuver on previous Starship flights. Residents of Cameron County and nearby areas may hear one or more sonic booms. What people experience will depend on weather and other conditions. Reentry over land also has extensive spaceflight precedent, including the Space Shuttle, Dragon’s previous Florida returns, and Soyuz and Shenzhou missions. 9. HOW EARLIER FLIGHTS PREPARED THE HEATSHIELD Previous ocean-return tests allowed SpaceX to deliberately push the heatshield, structure and control systems beyond the demands of a normal return to the launch site. Experiments included removing dozens of heatshield tiles from critical locations and flying maneuvers that subjected the vehicle and flaps to higher heating and aerodynamic forces than a nominal reentry. Flight 15 also retains Flight 14’s heatshield improvements, including additional tile-retention mechanisms in vulnerable areas, measures addressing plasma intrusion behind tiles, and curved tiles across a large portion of the shield to reduce heating between them. The V3 rear-flap mechanism uses a single actuator with three motors per flap, improving redundancy while reducing mass and cost. 10. THE FINAL BELLYFLOP, FLIP AND CATCH Arriving over Starbase, Starship will descend toward the tower at Pad 2 in its bellyflop orientation. Shortly before reaching the tower, it will ignite its three sea-level Raptors, flip upright and stow its flaps. Once vertical, it will reduce to two engines and maneuver between the tower’s arms. It will then reduce to one engine as it approaches a near hover. The arms will close rapidly around two catch fittings just below the forward flaps. Once Starship detects contact with the arms, it will shut down its final engine. The ship catch is planned for approximately 22 hours 32 minutes after liftoff. All mission timings are approximate and subject to change. 11. SAFETY OPTIONS REMAIN AVAILABLE DURING REENTRY SpaceX has built in options to end reentry before the ship reaches land if necessary, including intentionally tumbling the vehicle to ensure atmospheric breakup. There is also a late option to divert into the Gulf if either the ship or the tower develops a problem that prevents a safe catch. The objective is ambitious, but the return is governed by explicit vehicle-health requirements and multiple alternatives throughout the flight. 12. WHY THIS MISSION MATTERS Catching the booster solves one part of the recovery challenge. Bringing the upper stage back from orbit addresses the other. SpaceX described recovering the entire orbital launch system as the “Holy Grail of rocketry” the foundation for full and rapid reuse and an eventual airplane-like flight cadence. That is the capability behind Starship’s larger mission: expanding Starlink, deploying the planned Starmind supercompute constellation, establishing a permanent human presence on the Moon and making life multiplanetary. Flight 15 is taking SpaceX another major step toward that future: launch, deploy, orbit, return and bring both stages home SpaceX’s full catch update: https://www.spacex.com/updates#starship-catch Official Flight 15 mission details: https://www.spacex.com/launches/starship-flight-15 Media
@@ -71,6 +129,16 @@
 > 10k kids born today, 10k new 530A accts auto created by @USTreasury w $1000 in the S&amp;P 500 compounding for 18 yrs. 10k kids born tomorrow, 10k new accounts. And the day after. Forever. 🇺🇸💰🚀 Media
 
 🔗 [View original post](https://x.com/altcap/status/2119085865309999174)
+
+---
+
+### 🕐 13:37 UTC · @elonmusk
+
+> 🚨 What happened to the California EV market? $7,500 new EV federal tax credit expired Who lost EV market share? Models people only bought for the tax credit Who gained EV market share? Tesla: up 1,020 basis points
+
+![🚨 What happened to the California EV market? $7,500 new EV federal tax credit expired Who lost EV market share? Models people only bought for the tax credit Who gained EV market share? Tesla: up 1,020](../../../../assets/images/2026/11/07/2119061570995065335-1.jpg)
+
+🔗 [View original post](https://x.com/ICannot_Enough/status/2119061570995065335)
 
 ---
 

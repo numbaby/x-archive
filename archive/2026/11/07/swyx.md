@@ -2,7 +2,15 @@
 
 ## 📅 November 07, 2026
 
-> 6 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 18:51 UTC · @swyx
+
+> Local AI is back on the menu! incredibly hyped for @TheAhmadOsman&apos;s return to AIE CODE next week. follow him for some exclusive discount code drops HOLY SHIT Opus 5.5 made me this video Entire thing built by Claude Code, from choosing quotes and clips to editing cuts, pacing, zooms, music, text overlays, and video &amp; audio upscaling Seriously watch this or bookmark it to for later
+
+🔗 [View original post](https://x.com/swyx/status/2119140818690974203)
 
 ---
 
