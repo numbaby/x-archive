@@ -2,7 +2,15 @@
 
 ## 📅 November 07, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 11:53 UTC · @tunguz
+
+> Just FYI, doubling down on your worst traits is *NOT* course correction.
+
+🔗 [View original post](https://x.com/tunguz/status/2119035504637218885)
 
 ---
 
