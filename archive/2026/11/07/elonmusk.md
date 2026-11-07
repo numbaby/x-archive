@@ -2,7 +2,23 @@
 
 ## 📅 November 07, 2026
 
-> 29 post(s) archived.
+> 31 post(s) archived.
+
+---
+
+### 🕐 19:39 UTC · @elonmusk
+
+> There are efficiency improvements coming that will allow for a 40kWh Cybercab pack. We will make this in liquid silver, so the colors are not too monotonous. The biggest thing most people fail to understand is that there are a very limited number of smart, dedicated people! They can only do so many things. If we have to maintain a complex production line, supply chain and allocate engineering for Cybertruck, we can’t use those people or factory space and machinery for scaling Cybercab, which is the vehicle that will PROFOUNDLY transform the world of terrestrial transport!
+
+🔗 [View original post](https://x.com/elonmusk/status/2119152839813456261)
+
+---
+
+### 🕐 19:14 UTC · @elonmusk
+
+> Most people don’t know that the best-selling car in the world is the Tesla Model Y. And the second and third best-selling cars are much cheaper. Tesla Model Y has been the world’s best-selling passenger vehicle for 3 consecutive years 2023 → #1 2024 → #1 2025 → #1 Model Y alone has surpassed 4 million global sales, while Tesla has now delivered more than 10 million vehicles worldwide Not just the best-selling EV Model Y …
+
+🔗 [View original post](https://x.com/elonmusk/status/2119146526899396725)
 
 ---
 

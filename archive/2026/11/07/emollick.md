@@ -2,7 +2,15 @@
 
 ## 📅 November 07, 2026
 
-> 9 post(s) archived.
+> 10 post(s) archived.
+
+---
+
+### 🕐 20:03 UTC · @emollick
+
+> New test of which organizations have low AI capability: you haven’t updated your apps for the iPhone Duo yet.
+
+🔗 [View original post](https://x.com/emollick/status/2119158887060283552)
 
 ---
 
