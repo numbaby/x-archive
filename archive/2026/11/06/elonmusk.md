@@ -2,7 +2,31 @@
 
 ## 📅 November 06, 2026
 
-> 53 post(s) archived.
+> 60 post(s) archived.
+
+---
+
+### 🕐 23:54 UTC · @elonmusk
+
+> https://Terafab.ai
+
+🔗 [View original post](https://x.com/elonmusk/status/2118854622907674904)
+
+---
+
+### 🕐 23:53 UTC · @elonmusk
+
+> If you want to iterate fast with radically new chip designs, join the Terafab project! Elon Musk just revealed that Tesla is building a research chip fab at Gigafactory Texas that could reduce semiconductor development cycles from one year to just one month That&apos;s a potential 12 TIMES increase in the speed of chip development Tesla is building two semiconductor fa…
+
+🔗 [View original post](https://x.com/elonmusk/status/2118854441063600539)
+
+---
+
+### 🕐 23:39 UTC · @elonmusk
+
+> Good breakdown of the interview with Ron Baron Here’s the full interview of @elonmusk with Ron Baron 0:13 - Exciting times ahead 0:21 - First principles and TerraFab 2:18 - Chip fabs geopolitical risk 5:51 - Terawatt scale ambition 6:14 - Trillion dollar phased build 7:36 - Why others don’t improve 7:49 - Austin research fab…
+
+🔗 [View original post](https://x.com/elonmusk/status/2118850719944212645)
 
 ---
 
@@ -40,6 +64,14 @@
 
 ---
 
+### 🕐 20:32 UTC · @elonmusk
+
+> Here’s the full interview of @elonmusk with Ron Baron 0:13 - Exciting times ahead 0:21 - First principles and TerraFab 2:18 - Chip fabs geopolitical risk 5:51 - Terawatt scale ambition 6:14 - Trillion dollar phased build 7:36 - Why others don’t improve 7:49 - Austin research fab iteration 10:49 - Culture of speed and ideas 13:48 - Walking the floor hands-on 15:39 - Data centers pitchforks 16:44 - OpenAI origins Anthropic 18:09 - Building data centers fast 20:01 - Revenue exploding Jose meme 23:16 - Model Y best in China 23:28 - China ownership exception 24:50 - ARR to five hundred billion 27:45 - Digital AI economy boost 28:21 - Robotics five times productivity 30:10 - Rent robots not sell 30:41 - Memphis community benefits 32:55 - Data centers in space 33:35 - StarMind and space power 36:26 - Cost to orbit history 36:52 - Falcon nine reusability limits 39:09 - Hourly launches Starship size 40:25 - Chopsticks and heat shield 44:30 - Starship unlocks Starlink 46:49 - Agentic traffic thousand times 48:09 - Starlink V3 bandwidth explosion 51:26 - Spectrum and telcos 52:43 - Satellite replacement cycle 53:17 - Laser links hundred times 53:55 - Competing with China power 55:37 - Space intelligence advantage 57:19 - Demand from superintelligence 58:02 - Universal high income future 1:00:43 - Legacy contribution Media
+
+🔗 [View original post](https://x.com/cb_doge/status/2118803735573070329)
+
+---
+
 ### 🕐 20:07 UTC · @elonmusk
 
 > Elon Musk just revealed that digital superintelligence will increase the entire global economy by 20–30%, adding approximately $25 trillion in economic output And this transformation is going to happen incredibly fast Here&apos;s the scale of what&apos;s coming: • Global economy: ~$130 TRILLION • Digital superintelligence impact: +20–30% • Potential economic expansion: $25 trillion or more • Humanoid robotics: NOT EVEN INCLUDED in these projections And that&apos;s what makes this so extraordinary This is the impact of digital superintelligence alone, before accounting for the enormous productivity gains from humanoid robots operating across factories, businesses and entire industries The combination of digital superintelligence and physical robotics represents an economic transformation on a scale humanity has never experienced And this is only the beginning of what superintelligence will unlock for humanity Media
@@ -53,6 +85,22 @@
 > Elon Musk tells Ron Baron why SpaceX catches Starship with the launch tower’s “chopsticks” “It’s kind of like Mr. Miyagi in Karate Kid, you know, catching the fly, but just make it bigger.” “The rocket is placed on the launch pad by the tower and then is caught by those same tower arms and placed back on the launch pad when it returns from space.” “You really couldn’t get faster reusability than landing back where you took off.” “This, in principle, would allow us to refly the rocket, the giant booster, the Super Heavy booster, once an hour.” Most rockets are still thrown away after one flight. Starship is being built to fly like an airplane. Media
 
 🔗 [View original post](https://x.com/KanekoaTheGreat/status/2118794459836268646)
+
+---
+
+### 🕐 19:45 UTC · @elonmusk
+
+> We may succeed at this attempt, we may also fail, but the likelihood of success in the near term is high. Then we will optimize -&gt; accelerate. SpaceX will attempt to catch both the Super Heavy booster and Starship on the upcoming flight. If both are successful, it will mark the first time that all parts of an orbital rocket return to Earth intact. This is the critical breakthrough needed to make life multiplanetary.
+
+🔗 [View original post](https://x.com/edwards345/status/2118791889633804493)
+
+---
+
+### 🕐 19:43 UTC · @elonmusk
+
+> Elon Musk on the next Starship flight: “You’ll really want to watch this one. This one’s cool It’s the largest flying object ever made And it’s the highest thrust object ever made by humans of any kind whatsoever” Starship will weigh over 5,000 tons at liftoff, then the Super Heavy booster comes back from space just minutes later “Success is not always guaranteed, but excitement is” Media
+
+🔗 [View original post](https://x.com/XFreeze/status/2118791290930532617)
 
 ---
 
@@ -125,6 +173,14 @@
 > Elon Musk in a new interview today on Terafab: &quot;There&apos;s three possible meanings to Terafab. One is terror. I think sometimes people ask, &apos;Why would you want a terror fab?&apos; Haha. Then there&apos;s Terra, which just means Earth, but it&apos;s actually Tera for terawatt. But arguably, all three apply.&quot; Media
 
 🔗 [View original post](https://x.com/SawyerMerritt/status/2118770237625573489)
+
+---
+
+### 🕐 17:51 UTC · @elonmusk
+
+> This project would be an incredible benefit to the people of my home state. The next SpaceX datacenter will be in Cochise Arizona. ~6 GW spread over 9 buildings. &gt; No industrial water use. &gt; No gas turbines and no on-site power generation. &gt; ~3 miles away from the nearest homes
+
+🔗 [View original post](https://x.com/BurnhamDC/status/2118763171502772554)
 
 ---
 

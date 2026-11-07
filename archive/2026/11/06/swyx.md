@@ -2,7 +2,15 @@
 
 ## 📅 November 06, 2026
 
-> 18 post(s) archived.
+> 19 post(s) archived.
+
+---
+
+### 🕐 23:23 UTC · @swyx
+
+> @swyx @reductoai @barsisyphus This is maybe the most fun podcast I’ve done
+
+🔗 [View original post](https://x.com/aditabrm/status/2118846657790095454)
 
 ---
 

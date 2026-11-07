@@ -2,7 +2,15 @@
 
 ## 📅 November 06, 2026
 
-> 22 post(s) archived.
+> 23 post(s) archived.
+
+---
+
+### 🕐 23:34 UTC · @tunguz
+
+> Quantum computers are only really better than the classical computers for calculating quantum stuff. If this proof holds, it means that quantum computers are only polynomially faster than classical computers for general problems. Shor&apos;s algorithm is an exception, not the rule.
+
+🔗 [View original post](https://x.com/tunguz/status/2118849634449690840)
 
 ---
 
