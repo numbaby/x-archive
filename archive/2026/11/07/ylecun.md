@@ -2,7 +2,15 @@
 
 ## 📅 November 07, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 21:45 UTC · @ylecun
+
+> Reminder from 3 years ago. Altman, Hassabis, and Amodei are the ones doing massive corporate lobbying at the moment. They are the ones who are attempting to perform a regulatory capture of the AI industry. You, Geoff, and Yoshua are giving ammunition to those who are lobbying for a ban on open AI R&amp;D. If …
+
+🔗 [View original post](https://x.com/ylecun/status/2119184445987287449)
 
 ---
 
