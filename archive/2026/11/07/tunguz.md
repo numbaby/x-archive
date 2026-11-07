@@ -2,7 +2,23 @@
 
 ## 📅 November 07, 2026
 
-> 2 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 10:28 UTC · @tunguz
+
+> Software was a low AI phenomenon.
+
+🔗 [View original post](https://x.com/tunguz/status/2119014119320019086)
+
+---
+
+### 🕐 10:24 UTC · @tunguz
+
+> Always has been. maybe generational wealth is giving your children good values and lots of love
+
+🔗 [View original post](https://x.com/tunguz/status/2119013158614651185)
 
 ---
 

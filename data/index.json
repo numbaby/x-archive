@@ -147999,5 +147999,32 @@
         "source_url": "https://pbs.twimg.com/media/HWgvvH2aQAAMPWe.jpg?name=orig"
       }
     ]
+  },
+  "2119001718826680429": {
+    "account": "_akhaliq",
+    "date": "2026-11-07",
+    "file": "data/posts/2026/11/2026-11-07.jsonl",
+    "fingerprint": "7cadc5bb420f9d6df79417e6e19844d9e3e8fe6958b2cf55bd0dbb9ba9bd5a8b",
+    "media": [
+      {
+        "local_path": "assets/images/2026/11/07/2119001718826680429-1.jpg",
+        "sha256": "05d6f18519634700de131f383f6d58b14c759e5d075f49bc04ffc5357aa39206",
+        "source_url": "https://pbs.twimg.com/card_img/2119001719942393856/jWxrGViQ?format=jpg&name=800x419"
+      }
+    ]
+  },
+  "2119013158614651185": {
+    "account": "tunguz",
+    "date": "2026-11-07",
+    "file": "data/posts/2026/11/2026-11-07.jsonl",
+    "fingerprint": "2acd39e295737148405a133704138c6ec23d06faa6513fffe6fb79daacc40594",
+    "media": []
+  },
+  "2119014119320019086": {
+    "account": "tunguz",
+    "date": "2026-11-07",
+    "file": "data/posts/2026/11/2026-11-07.jsonl",
+    "fingerprint": "1b1a8788a9ffc7335d5bc9774080546e01bd3866764ac470e390d55e5d01592f",
+    "media": []
   }
 }
