@@ -2,7 +2,15 @@
 
 ## 📅 November 07, 2026
 
-> 8 post(s) archived.
+> 9 post(s) archived.
+
+---
+
+### 🕐 02:42 UTC · @elonmusk
+
+> It’s time to put all the pieces together, the early tests to see how crazy it was to build a vehicle this size, the suborbital hops to practice subsonic maneuvering, the first real booster, expendable flight tests, trips to the Indian Ocean, and last flight with payload to orbit. We are one step away from the full mission, and that step is the double catch. We will try for the first time on flight 15. I don’t think and of us can promise it will work the first time, but getting here feels like a turning point. I still feel like there’s so much to review (and we will be doing that continuously between now and launch) but when I take a moment to stop and think about it, it is overwhelmingly exciting. This is the rocket that will build a human civilization on another planet. SpaceX will attempt to catch both the Super Heavy booster and Starship on the upcoming flight. If both are successful, it will mark the first time that all parts of an orbital rocket return to Earth intact. This is the critical breakthrough needed to make life multiplanetary.
+
+🔗 [View original post](https://x.com/ShanaDiez/status/2118896809263169862)
 
 ---
 
