@@ -2,7 +2,15 @@
 
 ## 📅 November 07, 2026
 
-> 9 post(s) archived.
+> 10 post(s) archived.
+
+---
+
+### 🕐 05:15 UTC · @elonmusk
+
+> 5 years ago @ErcXspace And ship will be caught by Mechazilla too. As with booster, no landing legs. Those are only needed for moon &amp; Mars until there is local infrastructure.
+
+🔗 [View original post](https://x.com/elonmusk/status/2118935230182805688)
 
 ---
 
