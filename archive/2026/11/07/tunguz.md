@@ -2,7 +2,23 @@
 
 ## 📅 November 07, 2026
 
-> 8 post(s) archived.
+> 10 post(s) archived.
+
+---
+
+### 🕐 23:05 UTC · @tunguz
+
+> Nice Close to half of VC decision-makers have backed at least one real winner. Only 3% have backed ten. Blake Jackson and I have assembled what we believe is the largest and most comprehensive dataset of individual U.S. venture capitalists ever built: over 100,000 professionals affil…
+
+🔗 [View original post](https://x.com/tunguz/status/2119204530294493335)
+
+---
+
+### 🕐 22:27 UTC · @tunguz
+
+> Yes .@arthurbrooks nails it: faith, family, friends &amp; meaningful work are 4 pillars of a happy life. The data tell us: ✅ 0 pillars: 8% &quot;very happy&quot; ✅ All 4 pillars: 55% &quot;very happy&quot; Marriage &amp; work matter most. Money? It barely registers, after you control for the pillars.
+
+🔗 [View original post](https://x.com/tunguz/status/2119195076819919093)
 
 ---
 
