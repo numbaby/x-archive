@@ -2,7 +2,17 @@
 
 ## 📅 November 07, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 05:41 UTC · @emollick
+
+> As a longtime reader (and writer of two small pieces in the 1990s) of WIRED, I was curious if the coverage of the AI era really does differ from its coverage of the early internet. A couple of experiments with Astra shows it does. Interpretation depends on your view of AI, though
+
+![As a longtime reader (and writer of two small pieces in the 1990s) of WIRED, I was curious if the coverage of the AI era really does differ from its coverage of the early internet. A couple of experim](../../../../assets/images/2026/11/07/2118941821740953637-1.jpg)
+
+🔗 [View original post](https://x.com/emollick/status/2118941821740953637)
 
 ---
 
