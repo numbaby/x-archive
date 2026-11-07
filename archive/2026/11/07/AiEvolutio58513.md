@@ -2,7 +2,15 @@
 
 ## 📅 November 07, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 11:03 UTC · @AiEvolutio58513
+
+> Elon Musk says medical school is now pointless: &quot;Everyone will have access to medical care that is better than what the president receives right now&quot; Peter Diamandis: &quot;So don&apos;t go into medical school?&quot; Elon Musk: &quot;Yes. Yeah. Pointless. But I would say that applies to any form of education&quot; &quot;5 or 4 years from now, we&apos;ll have better medical care than anyone has today, available for everyone&quot; Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2119022822110761076)
 
 ---
 
