@@ -2,7 +2,17 @@
 
 ## 📅 November 07, 2026
 
-> 11 post(s) archived.
+> 12 post(s) archived.
+
+---
+
+### 🕐 08:41 UTC · @elonmusk
+
+> Yesterday, I was working on something with Grok Bot when a guy nearby noticed me using it He immediately pulled out his phone and started showing me how he uses Grok Bot, how he had set up all his bots, and how he manages his usage limits he just literally saw me using Grok Bot and came over out of curiosity. We ended up having a really nice conversation about how we’re both using it haha
+
+![Yesterday, I was working on something with Grok Bot when a guy nearby noticed me using it He immediately pulled out his phone and started showing me how he uses Grok Bot, how he had set up all his bot](../../../../assets/images/2026/11/07/2118987271965966564-1.jpg)
+
+🔗 [View original post](https://x.com/XFreeze/status/2118987271965966564)
 
 ---
 

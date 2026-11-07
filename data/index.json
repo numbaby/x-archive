@@ -147940,6 +147940,13 @@
     "fingerprint": "f88ff5c6b1e0b5f1d7a5f5fd96dfdbe43e010aa044b233763e34369ce6a7eb78",
     "media": []
   },
+  "2118936739654046143": {
+    "account": "swyx",
+    "date": "2026-11-07",
+    "file": "data/posts/2026/11/2026-11-07.jsonl",
+    "fingerprint": "d52bf9882d6fe98c3aad5b4c89fc7a8b682ccf07e39f7d67d5ce77861e656752",
+    "media": []
+  },
   "2118941821740953637": {
     "account": "emollick",
     "date": "2026-11-07",
@@ -147959,5 +147966,25 @@
     "file": "data/posts/2026/11/2026-11-07.jsonl",
     "fingerprint": "a90813efae3d3e26338e9fd655ac75fee37102697526b3dbe06f2cab36c4680b",
     "media": []
+  },
+  "2118977029660147934": {
+    "account": "AiEvolutio58513",
+    "date": "2026-11-07",
+    "file": "data/posts/2026/11/2026-11-07.jsonl",
+    "fingerprint": "15a29ebdf09525b93abf53b59ad6150fd3bb2cbd12994c2fc905b407eeb9398f",
+    "media": []
+  },
+  "2118987271965966564": {
+    "account": "elonmusk",
+    "date": "2026-11-07",
+    "file": "data/posts/2026/11/2026-11-07.jsonl",
+    "fingerprint": "18e81f7582449d701d1a544ab92b2f7e1252397737ab76a2cbf7733b1f65a9b6",
+    "media": [
+      {
+        "local_path": "assets/images/2026/11/07/2118987271965966564-1.jpg",
+        "sha256": "01e4919d222e689a2ace0a1e49c3439492ec54f308c60f1013ae5f6395f6e893",
+        "source_url": "https://pbs.twimg.com/media/HWgnsFUbYAIcYQu.jpg?name=orig"
+      }
+    ]
   }
 }
