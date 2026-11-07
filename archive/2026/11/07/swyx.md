@@ -2,7 +2,17 @@
 
 ## 📅 November 07, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 09:18 UTC · @swyx
+
+> just got my test order and was delightfully surprised to find that this client is open source!!!! (v impt for sticking anything in a physical port) very delighted to have a use for this useless SD Card slot and the api is so nice and agent friendly. watch for surprises at @aiDotEngineer ... Do you have a MacBook Pro? With an SD Card slot? Your slot now has an API. Write to a file, blink the lights. Or let your agent use it to get your attention. More into https://sidepulse.io/pro LED Animation Format: https://github.com/inteliwear/sidepulse/blob/main/LEDS_FORMAT.md
+
+![just got my test order and was delightfully surprised to find that this client is open source!!!! (v impt for sticking anything in a physical port) very delighted to have a use for this useless SD Car](../../../../assets/images/2026/11/07/2118996445936361933-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2118996445936361933)
 
 ---
 
