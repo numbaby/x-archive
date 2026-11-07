@@ -2,7 +2,17 @@
 
 ## 📅 November 07, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 12:57 UTC · @AiEvolutio58513
+
+> SpaceX has locked Anthropic into paying $3.1 billion a MONTH for compute starting in December. That&apos;s $37 billion a year, $120.5 billion through 2029. Every month, the bill is about 80% of Anthropic&apos;s current revenue, bigger than its Google and Amazon deals. Anthropic&apos;s own filing warns short-term compute &quot;carries a higher cost per unit&quot; and will &quot;compress our operating margin&quot;. Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals.
+
+![SpaceX has locked Anthropic into paying $3.1 billion a MONTH for compute starting in December. That&apos;s $37 billion a year, $120.5 billion through 2029. Every month, the bill is about 80% of Anthro](../../../../assets/images/2026/11/07/2119051503810040033-1.jpg)
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2119051503810040033)
 
 ---
 
