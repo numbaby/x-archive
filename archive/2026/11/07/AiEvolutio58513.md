@@ -2,7 +2,15 @@
 
 ## 📅 November 07, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 16:28 UTC · @AiEvolutio58513
+
+> Palmer Luckey says Oculus kept finding wiretaps hidden inside product samples from Chinese factories: &quot;I actually have personal experience with China placing listening devices into sample products that I would receive from Chinese factories. This was at my previous company, Oculus VR.&quot; &quot;There were multiple times when we discovered actual wiretap electronics in product samples that were given to us. They would listen to us and transmit the voice samples over a cellular radio.&quot; Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2119104673840001126)
 
 ---
 

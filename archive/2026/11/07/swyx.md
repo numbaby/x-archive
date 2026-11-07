@@ -2,7 +2,17 @@
 
 ## 📅 November 07, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 16:44 UTC · @swyx
+
+> come see it at https://aie.codes next week
+
+![come see it at https://aie.codes next week](../../../../assets/images/2026/11/07/2119108787726643400-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2119108787726643400)
 
 ---
 
