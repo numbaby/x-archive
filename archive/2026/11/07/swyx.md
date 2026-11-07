@@ -2,7 +2,15 @@
 
 ## 📅 November 07, 2026
 
-> 5 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 17:14 UTC · @swyx
+
+> they are starting to believe https://x.com/chrysb/status/2119116104715169861?s=46 ❌ pay mixpanel $20K+ for another year ✅ build in-house mixpanel with agent mixpanel told us they were increasing costs by 17% - the audacity
+
+🔗 [View original post](https://x.com/swyx/status/2119116259921191413)
 
 ---
 
