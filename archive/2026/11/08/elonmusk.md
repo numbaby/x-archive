@@ -2,7 +2,15 @@
 
 ## 📅 November 08, 2026
 
-> 9 post(s) archived.
+> 11 post(s) archived.
+
+---
+
+### 🕐 16:37 UTC · @elonmusk
+
+> Larry Page has made many accurate predictions and this is one of them Larry Page reportedly has a number for how much computing will end up in space: five nines. As in 99.999%. @patrick_oshag heard it secondhand: &quot;Someone asked Larry Page how much of compute will be orbital, and he said five-nines.&quot; @martin_casado&apos;s reason it might happen: &quot;It&apos;s j…
+
+🔗 [View original post](https://x.com/elonmusk/status/2119469436092760547)
 
 ---
 
@@ -75,5 +83,13 @@
 > BREAKING: The local government of La Serena, Chile, is bringing @Starlink to rural clinics to help them stay connected during emergencies. 🇨🇱 Medical teams can use Starlink to access patient records, arrange referrals through Chile’s Digital Hospital and stay in touch with residents during emergencies, helping patients get care sooner. ♥️ Media
 
 🔗 [View original post](https://x.com/cb_doge/status/2119293271180734870)
+
+---
+
+### 🕐 01:25 UTC · @elonmusk
+
+> If Russell Brand is going to prison for rape that occurred 20 years ago, why isn’t anyone in the Epstein files going too?
+
+🔗 [View original post](https://x.com/_rathbone/status/2119239887522255070)
 
 ---

@@ -2,7 +2,15 @@
 
 ## 📅 November 08, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 16:29 UTC · @dair_ai
+
+> The Top AI Papers of the Week (November 2 - 8): - JevAct - Skill++ - Recursa - Collaborative Intelligence - Routed Continual Learning - You don&apos;t need long context - Foundation Decision Models Read on for more: https://x.com/i/article/2119466748801933312
+
+🔗 [View original post](https://x.com/dair_ai/status/2119467459585454295)
 
 ---
 

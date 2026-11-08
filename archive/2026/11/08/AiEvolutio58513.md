@@ -2,7 +2,15 @@
 
 ## 📅 November 08, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 16:29 UTC · @AiEvolutio58513
+
+> Mark Zuckerberg says Elon Musk was right to cut 80% of Twitter&apos;s staff, and that it pushed Meta and the rest of tech to do the same: &quot;Elon led a push early on to make Twitter a lot leaner. You can agree or disagree with exactly all the tactics, but a lot of the specific principles that he pushed on around basically trying to make the organization more technical, around decreasing the distance between engineers of the company and him, fewer layers of management, I think those were generally good changes&quot; &quot;I also think that it was probably good for the industry that he made those changes because my sense is that there were a lot of other people who thought those were good changes but who may have been a little shy about doing them&quot; &quot;Certainly his actions led me and I think a lot of other folks in the industry to think about, hey, are we kind of doing this as much as we should? Could we make our companies better by pushing on some of these same principles?&quot; Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2119467304866168904)
 
 ---
 

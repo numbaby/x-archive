@@ -148502,6 +148502,13 @@
     "fingerprint": "29f650e4d56c4890fa23770f6407609886942a28e9bd00b1e296eedf3b8f4bda",
     "media": []
   },
+  "2119239887522255070": {
+    "account": "elonmusk",
+    "date": "2026-11-08",
+    "file": "data/posts/2026/11/2026-11-08.jsonl",
+    "fingerprint": "e20523b6e6a001e51e0939773947c1cc86c36d9c1a050f51ed8a174975e29e52",
+    "media": []
+  },
   "2119242830707311005": {
     "account": "swyx",
     "date": "2026-11-08",
@@ -148730,5 +148737,53 @@
     "file": "data/posts/2026/11/2026-11-08.jsonl",
     "fingerprint": "62c4b81f459d1b9d20971eb8df2d9220feee75c037eb96debb3e56032dd58509",
     "media": []
+  },
+  "2119461963721855147": {
+    "account": "omarsar0",
+    "date": "2026-11-08",
+    "file": "data/posts/2026/11/2026-11-08.jsonl",
+    "fingerprint": "5399281529f8257994c120e0fa51a10c92683ef4f07ff7ed93614efd15d62dbf",
+    "media": []
+  },
+  "2119467209550365099": {
+    "account": "omarsar0",
+    "date": "2026-11-08",
+    "file": "data/posts/2026/11/2026-11-08.jsonl",
+    "fingerprint": "1066e97f116c91728618e8407767ed3fd23d954d49cd981dde48a7afbfdfb84a",
+    "media": []
+  },
+  "2119467304866168904": {
+    "account": "AiEvolutio58513",
+    "date": "2026-11-08",
+    "file": "data/posts/2026/11/2026-11-08.jsonl",
+    "fingerprint": "4c90cdbb9248d71809586ca5f0ff80b6f7a32738a600b81af7a0df21704be842",
+    "media": []
+  },
+  "2119467459585454295": {
+    "account": "dair_ai",
+    "date": "2026-11-08",
+    "file": "data/posts/2026/11/2026-11-08.jsonl",
+    "fingerprint": "9fc3dd6027a489e0e40b31a87f83321c028b5dfe9234f72a729d8e8807803d97",
+    "media": []
+  },
+  "2119469436092760547": {
+    "account": "elonmusk",
+    "date": "2026-11-08",
+    "file": "data/posts/2026/11/2026-11-08.jsonl",
+    "fingerprint": "86a60363b79bc65db299c9445d7ca9063c7e9cdefff873b379f0129e75362a8f",
+    "media": []
+  },
+  "2119473781689421855": {
+    "account": "omarsar0",
+    "date": "2026-11-08",
+    "file": "data/posts/2026/11/2026-11-08.jsonl",
+    "fingerprint": "687c44618d2c8916540e8baa2fabf0bbedc4d675110b8b20c417601295bfbf03",
+    "media": [
+      {
+        "local_path": "assets/images/2026/11/08/2119473781689421855-1.jpg",
+        "sha256": "f94b4ff06c658f738d9ee52111a43295422d4a923b2ea1288d8c668ae677cca2",
+        "source_url": "https://pbs.twimg.com/media/HWniK-Aa0AA2bgc.jpg?name=orig"
+      }
+    ]
   }
 }
