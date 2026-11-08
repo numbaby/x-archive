@@ -2,7 +2,23 @@
 
 ## 📅 November 08, 2026
 
-> 4 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 19:32 UTC · @swyx
+
+> we&apos;re celebrating 1 million AI Engineers all week at aie code. QT with your favorite AIE talk and/or speaker, and why! One. Million. AI Engineers. thank you.
+
+🔗 [View original post](https://x.com/swyx/status/2119513321468735749)
+
+---
+
+### 🕐 19:28 UTC · @swyx
+
+> One. Million. AI Engineers. thank you. Media
+
+🔗 [View original post](https://x.com/aiDotEngineer/status/2119512384008319130)
 
 ---
 

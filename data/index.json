@@ -148839,5 +148839,19 @@
         "source_url": "https://pbs.twimg.com/media/HWnrCW8WEAA_F0y.jpg?name=orig"
       }
     ]
+  },
+  "2119512384008319130": {
+    "account": "swyx",
+    "date": "2026-11-08",
+    "file": "data/posts/2026/11/2026-11-08.jsonl",
+    "fingerprint": "7e69e2b6758b771d17e2f9e6f0a6bacd2a9cc18297fe2eb627a504817ce7924c",
+    "media": []
+  },
+  "2119513321468735749": {
+    "account": "swyx",
+    "date": "2026-11-08",
+    "file": "data/posts/2026/11/2026-11-08.jsonl",
+    "fingerprint": "10862f849b8e0070b7967d59e66e1d256133cc31077cd72ac85683f6ffd59274",
+    "media": []
   }
 }
