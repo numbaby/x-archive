@@ -2,7 +2,33 @@
 
 ## 📅 November 08, 2026
 
-> 8 post(s) archived.
+> 11 post(s) archived.
+
+---
+
+### 🕐 21:59 UTC · @swyx
+
+> and a special pod! https://x.com/latentspacepod/status/2119550367222653193?a=P-70wt6IZWhWN7WEcRk&amp;s=20 What do you assign when a coding agent can one-shot last year’s homework? @mihail_eric now has his Stanford CS146S students open a PR on an open-source project and explain their choices to the maintainer who decides whether to merge it. https://youtu.be/dpY7YzZo4kE To celebrate …
+
+🔗 [View original post](https://x.com/swyx/status/2119550477629379009)
+
+---
+
+### 🕐 21:33 UTC · @swyx
+
+> if youre wondering how, ask their VP of FDE Pauline Brunet (thanks @realbasilchatha for curating this) https://x.com/aidotengineer/status/2082159947236655311?s=46 Live now: our entire Forward Deployed Engineering Track from AI Engineer World&apos;s Fair! https://www.youtube.com/watch?v=1OMHGsUZiqA&amp;list=PLI-xoFgNbc_E - @EnoReyes, CTO &amp; Co-Founder, Factory - Pauline Brunet, VP of FDE, Cursor - @vasuman, Founder &amp; CEO, Varick Agents - Jia Wu, Dep…
+
+🔗 [View original post](https://x.com/swyx/status/2119543788192600450)
+
+---
+
+### 🕐 21:15 UTC · @swyx
+
+> @swyx Let&apos;s gooo!!! Big congrats on 1 million! 🎉 My favorite is any debate with @ianlivingstone and @dexhorthy https://youtu.be/c35YoMdnI78?si=BwFyXlMQV1KxVfYM
+
+![@swyx Let&apos;s gooo!!! Big congrats on 1 million! 🎉 My favorite is any debate with @ianlivingstone and @dexhorthy https://youtu.be/c35YoMdnI78?si=BwFyXlMQV1KxVfYM](../../../../assets/images/2026/11/08/2119539336823849186-1.jpg)
+
+🔗 [View original post](https://x.com/vtahowe/status/2119539336823849186)
 
 ---
 
