@@ -2,7 +2,15 @@
 
 ## 📅 November 08, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 14:57 UTC · @AiEvolutio58513
+
+> Elon Musk says he was literally &quot;all in&quot; on Tesla and SpaceX, everything he owned, when his third rocket failed. Then his old PayPal friends stepped in: &quot;My buddies from PayPal saved my butt.&quot; &quot;Peter Thiel&apos;s been a big supporter. He invested in SpaceX at an important time in 2008. Before orbit. After our 3rd failure but before success.&quot; &quot;Big credit to Peter and Luke Nosek and the other guys at Founders Fund. Basically my buddies from PayPal.&quot; Three failed launches. No money left. One check from friends who still believed. SpaceX reached orbit on the fourth try, weeks later. Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2119444120238432398)
 
 ---
 
