@@ -2,7 +2,15 @@
 
 ## 📅 November 08, 2026
 
-> 11 post(s) archived.
+> 13 post(s) archived.
+
+---
+
+### 🕐 16:41 UTC · @elonmusk
+
+> I will never forget how fiercely Charlie defended Dave Chapelle at the height of cancel culture, both publicly and privately. It didn’t matter if they had the same political beliefs — it mattered that they were subject to the same protections under the First Amendment as fellow Americans. Every day it becomes more obvious… *that’s* the difference between the culture of the Right &amp; the Left. One side is literally willing to lay down their life to continue fighting for *everyone’s* right to express themselves. The other laughs on their podcasts about digging up that young man’s grave to “do it again,” dresses up as his corpse for Halloween, threatens to kill any and all other conservatives who agree with him, and sneers with the demonic ghouls in their audience about his death as a form of “comedy.” We are not the same. Shame on you, Dave. This is so beyond disgusting. Dave Chappelle: “Ever since that guy Charlie Kirk got murdered, and I shouldn’t say this publicly but…. I feel better.” This isn’t even comedy. It’s just sick…
+
+🔗 [View original post](https://x.com/theisabelb/status/2119470468180709574)
 
 ---
 
@@ -11,6 +19,14 @@
 > Larry Page has made many accurate predictions and this is one of them Larry Page reportedly has a number for how much computing will end up in space: five nines. As in 99.999%. @patrick_oshag heard it secondhand: &quot;Someone asked Larry Page how much of compute will be orbital, and he said five-nines.&quot; @martin_casado&apos;s reason it might happen: &quot;It&apos;s j…
 
 🔗 [View original post](https://x.com/elonmusk/status/2119469436092760547)
+
+---
+
+### 🕐 16:32 UTC · @elonmusk
+
+> Republicans lost the midterms because of the war and its economic consequences. The good news is that job growth and GDP growth are still strong, and inflation will drop quickly if the war is ended now. Media
+
+🔗 [View original post](https://x.com/DavidSacks/status/2119468088030884308)
 
 ---
 
