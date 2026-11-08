@@ -2,7 +2,15 @@
 
 ## 📅 November 08, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 13:04 UTC · @AiEvolutio58513
+
+> Chamath says software IP was &quot;effectively rendered worthless&quot; this week, after people decompiled Adobe&apos;s core products and released open-source versions: &quot;There have been people that decompiled the entire, the entire big five. What is the big five? Adobe has five very, very important products in their product suite.&quot; &quot;And these folks decompiled it, distilled it, and published open source versions of these things.&quot; &quot;And I was so shocked, because I was like, hold on a second, these are like profound products that have existed and have had moats for years, and now they&apos;re just open source versions.&quot; Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2119415673432707239)
 
 ---
 

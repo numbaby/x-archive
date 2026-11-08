@@ -2,7 +2,27 @@
 
 ## 📅 November 08, 2026
 
-> 2 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 13:58 UTC · @swyx
+
+> occasional reminder that cursor is slaying it esp post acquisition (prob one of the best that elon has ever done, better than twitter itself) and twitter vibes are a funhouse mirror of actual reality that you can now basically look up in SEC audited financials cursor ended 2025 arr 1B arr btw. enterprise growing 300% QoQ @netspencer dead?
+
+![occasional reminder that cursor is slaying it esp post acquisition (prob one of the best that elon has ever done, better than twitter itself) and twitter vibes are a funhouse mirror of actual reality ](../../../../assets/images/2026/11/08/2119429305512165838-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2119429305512165838)
+
+---
+
+### 🕐 13:49 UTC · @swyx
+
+> my fave $ant discussion so far. still thinking about it https://www.youtube.com/watch?v=P735f1xlpL0
+
+![my fave $ant discussion so far. still thinking about it https://www.youtube.com/watch?v=P735f1xlpL0](../../../../assets/images/2026/11/08/2119427047437242624-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2119427047437242624)
 
 ---
 
