@@ -2,7 +2,15 @@
 
 ## 📅 November 08, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 04:08 UTC · @dair_ai
+
+> Decrease the number of touchpoints with agents and instead improve the coordination with and among agents. Add a queue and a good memory system and watch how much faster and efficient you become. Any other setup from what I have tested in my custom harness will hold back agents powered by frontier models. I use this setup for coding, researching, strategizing, and much more. Increasingly, coordination and personalization are the key aspects of a harness that will give you the biggest edge. I&apos;ve changed how I work over the last few weeks. I now have one lead agent for each area of focus, running all the time, and a chief of staff agent that oversees them. Each lead manages its own sub-agents that write code, test it, chase reviews, and coordinate with team members.…
+
+🔗 [View original post](https://x.com/omarsar0/status/2119280878362759303)
 
 ---
 

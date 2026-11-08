@@ -148527,5 +148527,12 @@
         "source_url": "https://pbs.twimg.com/card_img/2119244291600244736/ICpKD0My?format=jpg&name=800x419"
       }
     ]
+  },
+  "2119280878362759303": {
+    "account": "dair_ai",
+    "date": "2026-11-08",
+    "file": "data/posts/2026/11/2026-11-08.jsonl",
+    "fingerprint": "e2d70058d651cfb48a74690488eb6cca338de913b717d7287b51c9ba94b8829e",
+    "media": []
   }
 }
