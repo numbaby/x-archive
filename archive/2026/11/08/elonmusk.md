@@ -2,7 +2,15 @@
 
 ## 📅 November 08, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 12:27 UTC · @elonmusk
+
+> Interesting DeepMind CEO Demis Hassabis: &quot;One person who really understands AI will outperform an entire startup team In 5 years, the people who build with AI will run whole companies with a tenth of the headcount&quot;
+
+🔗 [View original post](https://x.com/elonmusk/status/2119406464372789396)
 
 ---
 
