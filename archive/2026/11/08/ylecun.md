@@ -2,7 +2,15 @@
 
 ## 📅 November 08, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 20:10 UTC · @ylecun
+
+> The P in JEPA stands for predictive. The main distinction is not between JEA and JEPA, but between Joint Embedding (predictive or not) and generative architectures. Whether a predictor is necessary depends on the task. Given observations x and y (y being available only during training), a generative architectures predicts y from x. The loss is the divergence between y and its prediction: L = divergence(y, pred(enc(x)) ) A JEA encodes y as well and minimizes the divergence between the representations of x and y, while preventing collapse: L = divergence( enc(y), enc(x) ) + R( enc(y), enc(x) ) Where R is the anti-collapse regularizer, which may be computed over a batch of samples. JEA are used when the prediction has no particular direction, i.e. when x and y are different views of the same scene. The idea for JEA is very old. Becker and Hinton proposed a simple model in 1989 where the anticollapse was based on information maximization. Schmidhuber had a version in 1992 based on redundancy minimization. At NIPS 1993, I proposed Siamese nets, which was a contrastive method to train JEA. Such contrastive methods gained popu.arity after Google&apos;s SimCLR paper in 2020. In 2021, Stéphane Deny in my group proposed the Barlow Twins redundancy reduction regularizer, which seemed to work at scale. This was shortly followed by VICReg by Adrien Bardes, Jean Ponce, and me, and last year by SIGReg by Randall Balestriero and me. DINO is a JEA method that comes from a long string of papers from Piotr Bojanowski&apos;s group at FAIR-Paris, starting with Noise as Targets (2017), Deep Clustering (2018-2020), and DINO v1-v3 which are contrastive between clusters, not samples. JEPA adds a predictor, which is useful when the prediction is non-symetric. For example, when x is a degraded/corrupted version of y, or when x is a present observation and y a future observation (temporal prediction). The loss is: L = divergence( enc(y), pred(enc(x)) ) + R( enc(y), enc(x) ) All of these models can be augmented by an action variable a, fed to the predictor, encoding an action, intervention, or transformation to produce y from x. This turns the system into a &quot;world model&quot;. In a JEPA, the loss becomes L = divergence( enc(y), pred(enc(x), a) ) + R( enc(y), enc(x) )
+
+🔗 [View original post](https://x.com/ylecun/status/2119522855515824428)
 
 ---
 

@@ -2,7 +2,25 @@
 
 ## 📅 November 08, 2026
 
-> 6 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 20:17 UTC · @swyx
+
+> we just opened up last 100 tickets https://aie.codes if u are late to the party
+
+![we just opened up last 100 tickets https://aie.codes if u are late to the party](../../../../assets/images/2026/11/07/2119108787726643400-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2119524694047293448)
+
+---
+
+### 🕐 20:14 UTC · @swyx
+
+> working on something fun w/ @swyx and @aiDotEngineer team - i like to think at least some of y&apos;all have very good taste. Please share your thoughts: (obvs i bias toward code but this is important broadly!) What does slop mean to you? Either in terms of code slop or more generally Why does slop happen? Why is slop worth fighting? What happens if we don&apos;t prevent slop? What happens if we do? How can we fight and prevent slop?
+
+🔗 [View original post](https://x.com/dexhorthy/status/2119524005044768950)
 
 ---
 

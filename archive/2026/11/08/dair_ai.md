@@ -2,7 +2,15 @@
 
 ## 📅 November 08, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 19:15 UTC · @dair_ai
+
+> I&apos;ve seen many make this mistake over and over again. Overrelying on someone else&apos;s harness. As you go deeper with agents, you quickly realize how standard, out-of-the-box harnesses constrain LLMs. Imo, agent harnesses need customization to unlock real gains and efficiencies. This is why more full-stack AI companies are building harnesses in-house. You move faster when you don&apos;t wait for someone else to build the thing that keeps your agents working effectively. If you are locked in with a specific proprietary harness, good luck. If you are using an open-source agent harness, you are in better shape. You can customize it to suit your needs. But even then, you are relying on a harness someone else built. My hot take is that you want to fully own the harness. As in building it, understanding it, and maintaining it. The good news is that harnesses can stay minimal now, since LLMs have gotten much better at many of the things harnesses were built for (tool calling, progressive disclosure, persistence, etc.). These days, I spend more time customizing my harness to better coordinate with my agent teams, test different memory systems, proactive patterns, and develop strategies to give it the right context. I can do this freely and unlock new experiences because I don&apos;t rely on anyone&apos;s harness. I think all of this is much harder to do if you are using someone else&apos;s harness. The reason is that the customization goes really deep.
+
+🔗 [View original post](https://x.com/omarsar0/status/2119509243015442577)
 
 ---
 
