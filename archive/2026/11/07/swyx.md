@@ -2,7 +2,27 @@
 
 ## 📅 November 07, 2026
 
-> 9 post(s) archived.
+> 11 post(s) archived.
+
+---
+
+### 🕐 23:29 UTC · @swyx
+
+> https://aie.codes
+
+![https://aie.codes](../../../../assets/images/2026/11/07/2119108787726643400-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2119210618976944259)
+
+---
+
+### 🕐 23:29 UTC · @swyx
+
+> just arrived… best swag game in the business. u guys are in for a treat next week First AIE Code Summit speakers: @poteto, Principal Engineer @ SpaceX @steve_yegge, Engineer, Writer, Advisor @zachbruggeman, Principal Software Engineer @ Ramp Nov 10-12, SF. Come hang out with us. Apply at https://ai.engineer/code
+
+![just arrived… best swag game in the business. u guys are in for a treat next week First AIE Code Summit speakers: @poteto, Principal Engineer @ SpaceX @steve_yegge, Engineer, Writer, Advisor @zachbrug](../../../../assets/images/2026/11/07/2119210582654210255-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2119210582654210255)
 
 ---
 
