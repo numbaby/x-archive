@@ -2,7 +2,7 @@
 
 ## 📅 November 08, 2026
 
-> 17 post(s) archived.
+> 18 post(s) archived.
 
 ---
 
@@ -131,6 +131,16 @@
 > BREAKING: The local government of La Serena, Chile, is bringing @Starlink to rural clinics to help them stay connected during emergencies. 🇨🇱 Medical teams can use Starlink to access patient records, arrange referrals through Chile’s Digital Hospital and stay in touch with residents during emergencies, helping patients get care sooner. ♥️ Media
 
 🔗 [View original post](https://x.com/cb_doge/status/2119293271180734870)
+
+---
+
+### 🕐 04:53 UTC · @elonmusk
+
+> Russell Brand’s ex-girlfriend Samantha Pressdee has fiercely spoken out against the verdict. She stated the following: &quot;A wife is without her husband. Three children are without their Dad. Yet everyone thinks the real victim in this is a drunk groupie who was cheating on her boyfriend. Someone who has anonymity for life and will probably get a financial payout. “If this drunk groupie thought he was a predator, why would she stand by and watch him sleep with 1000s more women? Didn&apos;t she care about those women? &quot;It&apos;s not true that women in the comedy industry warned each other about Russell. No one warned me, and it could not have been more obvious that I was connected to him. Just because I am a woman doesn&apos;t mean I should &apos;believe all women&apos;. &quot;I would be more likely to believe women who report criminals to the POLICE. Not the media, decades later. I believe in the right to a fair trial. Convince me it was fair!&quot; She also slammed Georgina Bailey who claimed to be Brand’s ex-lover and had urged him to “tell the truth.” &quot;She was a groupie too,” Samantha revealed. “The kind of women throwing themselves at Brand back then often sold kiss-and-tell [stories] that were mostly made up. &quot;Russell paid for Georgina to go to rehab. Ballie has made a career out of sleeping with him. She&apos;s not his ex-girlfriend. At the time, she was in a burlesque troupe called &apos;The Satanic Sluts&apos;.&quot; At the moment, we are being led to believe that Russell Brand is guilty beyond reasonable doubt. There is no evidence - only the word of one woman and more words from people who don’t like him. Now we have other words from someone who knew him that say the opposite of what the establishment and media are saying. I also found Reform MP Sarah Pochin’s comments on TalkTV disgraceful. In the clip, she spoke about Brand as if he was 100% guilty, spoke in a rather venomous way about him saying she hoped he would go away for a long long time, and spoke about the accusers as if they are bastions of truth even though there is no way she could possibly know that. This is trial by media. Trial by hearsay. Trial by dislike of one person. But trial by truth? No. Russell Brand faces serious danger in prison and was forbidden from saying goodbye to his kids. No mercy is being shown to him. I see only venom and hate. Yet I have seen Brand speak repeatedly about his faith for years, urging millions of people to find their own. The entire thing feels off and rancid. The more this case goes on and the more that is revealed by people like his ex-girlfriend, the more it becomes clear that something very wrong has happened here and we are in the midst of watching something very evil taking place. #RussellBrand Russell Brand’s ex-girlfriend Samantha Pressdee has fiercely spoken out against the verdict. She stated the following: &quot;... https://ift.tt/HreIXgz
+
+![Russell Brand’s ex-girlfriend Samantha Pressdee has fiercely spoken out against the verdict. She stated the following: &quot;A wife is without her husband. Three children are without their Dad. Yet ev](../../../../assets/images/2026/11/08/2119292198709543352-1.jpg)
+
+🔗 [View original post](https://x.com/adamgolding/status/2119292198709543352)
 
 ---
 

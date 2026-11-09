@@ -2,7 +2,23 @@
 
 ## 📅 November 09, 2026
 
-> 4 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 03:44 UTC · @elonmusk
+
+> I care it will never not be funny how much time elon spends working as a customer service agent for his companies
+
+🔗 [View original post](https://x.com/elonmusk/status/2119637191504581036)
+
+---
+
+### 🕐 03:42 UTC · @elonmusk
+
+> Chappelle is just not funny anymore @JackPosobiec I was at the Chapelle show at MSG last night… can confirm. His whole set was about 80 mins and he spent about half of it ripping on Charlie Kirk, Trump, &amp; Epstein. I kept waiting for the funny parts and then it just ended.
+
+🔗 [View original post](https://x.com/elonmusk/status/2119636611633721811)
 
 ---
 
