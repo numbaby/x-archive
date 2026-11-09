@@ -2,7 +2,33 @@
 
 ## 📅 November 09, 2026
 
-> 7 post(s) archived.
+> 10 post(s) archived.
+
+---
+
+### 🕐 07:20 UTC · @elonmusk
+
+> The Cybertruck order rate far exceeds our production rate. We will try to make as many as possible before shutting down the line in about 8 months, but will have to return deposits for a lot of people. This is not a case of Cybertruck being unprofitable, as has been misreported by legacy media, but rather that the opportunity cost of the complexity of Cybertruck is vastly outweighed by the value of incremental Cybercab production. Seriously. It’s incomparable. But cars are going to become robots, their forms and functions will change, and we won’t be coming back to this moment. Get it while you can.
+
+🔗 [View original post](https://x.com/elonmusk/status/2119691615774146614)
+
+---
+
+### 🕐 06:55 UTC · @elonmusk
+
+> Starlink connected a remote village in Fiji to the world. 🇫🇯 For the first time, families in Naigani Village on Batiki Island have reliable internet. That makes it easier to call relatives off the island, find information and use services online. Media
+
+🔗 [View original post](https://x.com/cb_doge/status/2119685184820056238)
+
+---
+
+### 🕐 06:27 UTC · @elonmusk
+
+> Robotaxi available in San Antonio starting tomorrow, 5am
+
+![Robotaxi available in San Antonio starting tomorrow, 5am](../../../../assets/images/2026/11/09/2119678179963187564-1.jpg)
+
+🔗 [View original post](https://x.com/robotaxi/status/2119678179963187564)
 
 ---
 
