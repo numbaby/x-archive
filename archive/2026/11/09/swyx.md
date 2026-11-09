@@ -2,7 +2,27 @@
 
 ## 📅 November 09, 2026
 
-> 4 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 16:08 UTC · @swyx
+
+> btw i have all my investments/equity/advising disclosed https://swyx.io/portfolio and we have only recently opened up for sponsorships so there was literally nothing to be bought and paid for + we have contractual editorial independence (detials ask business @ http://latent.space
+
+![btw i have all my investments/equity/advising disclosed https://swyx.io/portfolio and we have only recently opened up for sponsorships so there was literally nothing to be bought and paid for + we hav](../../../../assets/images/2026/11/09/2119824433426878643-1.png)
+
+🔗 [View original post](https://x.com/swyx/status/2119824433426878643)
+
+---
+
+### 🕐 16:08 UTC · @swyx
+
+> someone made this a few weeks ago and it keeps getting sent to me and idk how i feel about @latentspacepod being smart but mid
+
+![someone made this a few weeks ago and it keeps getting sent to me and idk how i feel about @latentspacepod being smart but mid](../../../../assets/images/2026/11/09/2119824420059697455-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2119824420059697455)
 
 ---
 

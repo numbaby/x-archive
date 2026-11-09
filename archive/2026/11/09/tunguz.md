@@ -2,7 +2,17 @@
 
 ## 📅 November 09, 2026
 
-> 10 post(s) archived.
+> 11 post(s) archived.
+
+---
+
+### 🕐 15:22 UTC · @tunguz
+
+> This seems another fake account that is using fake Calendly site for phishing attacks. Be careful out there.
+
+![This seems another fake account that is using fake Calendly site for phishing attacks. Be careful out there.](../../../../assets/images/2026/11/09/2119812900168614062-1.png)
+
+🔗 [View original post](https://x.com/tunguz/status/2119812900168614062)
 
 ---
 
