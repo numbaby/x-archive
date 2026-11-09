@@ -2,7 +2,23 @@
 
 ## 📅 November 09, 2026
 
-> 7 post(s) archived.
+> 9 post(s) archived.
+
+---
+
+### 🕐 19:13 UTC · @swyx
+
+> ok i was signed in to wrong account to tweet this but yes - if you&apos;re looking to get a start with technical writing/speaking/tweeting/blogging, the new Creator associate program is made for you... ... just like I got started in my own technical writing journey 10 years ago. ok excited to launch a New Media program close to my heart: the AIE Creator Associate Program!!! With my podcast doing well and the AIE channel crossing 1m subs, I find myself getting asked the same questions from everyone - where do I get started? Trade Offer: - sign up to http…
+
+🔗 [View original post](https://x.com/swyx/status/2119870982609608810)
+
+---
+
+### 🕐 18:56 UTC · @swyx
+
+> @latentspacepod anyway see how a Paid For but Unbiased podcast that requires the most braincells covers a leading data lab https://x.com/latentspacepod/status/2119866369412124746 3hour monster state of RL envs pod! 🆕 Our first deep dive with an AI data company! The frontier data space is exploding. @joinHandshake has become one of the leading partners for frontier labs, going from launch to $1B in GMV in ~a year, with @sacrainc estimating net revenue AFTER contractor payouts at about $450…
+
+🔗 [View original post](https://x.com/swyx/status/2119866760723890571)
 
 ---
 

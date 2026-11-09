@@ -2,7 +2,25 @@
 
 ## 📅 November 09, 2026
 
-> 2 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 19:35 UTC · @emollick
+
+> In addition to more serious examples I shared in my post, I had Fable 5.2 build a parody reverse Scooby Doo game where you have to scare away meddling kids. Here is the trailer it made (including the music and sounds) and the game (which is fun) is here: https://i-would-have-gotten-away-with-it.netlify.app/ Media
+
+🔗 [View original post](https://x.com/emollick/status/2119876449494540554)
+
+---
+
+### 🕐 19:10 UTC · @emollick
+
+> I had early access to Fable 5.2 for a bit &amp; I think it crosses the line into being a sort of Jagged AGI. Here, I have it launch a business, do academic research, hack hardware, build 3D models &amp; more. I think it is a good illustration of limits &amp; powers: https://www.oneusefulthing.org/p/fable-52-and-jagged-agi
+
+![I had early access to Fable 5.2 for a bit &amp; I think it crosses the line into being a sort of Jagged AGI. Here, I have it launch a business, do academic research, hack hardware, build 3D models &am](../../../../assets/images/2026/11/09/2119870150845599972-1.jpg)
+
+🔗 [View original post](https://x.com/emollick/status/2119870150845599972)
 
 ---
 

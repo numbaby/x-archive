@@ -2,7 +2,15 @@
 
 ## 📅 November 09, 2026
 
-> 6 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 18:19 UTC · @AiEvolutio58513
+
+> 6 mistakes that send your Black Friday emails to spam: 1. Mailing people who went cold in spring → win back or remove anyone inactive 90+ days 2. Spiking volume overnight → ramp up in steps, most engaged first 3. Sending from a brand-new domain → keep your domain and pass SPF, DKIM, DMARC 4. Hiding the unsubscribe → add one-click unsubscribe (Gmail wants it honored within 48 hours) 5. Using link shorteners → use links on your own domain 6. Checking complaints too late → check spam rate daily and stay under 0.1% Go over 0.3% and Google won&apos;t help with delivery issues until you&apos;ve stayed under it for 7 straight days. Black Friday is Nov 27. Start these this week. Media
+
+🔗 [View original post](https://x.com/ecomchasedimond/status/2119857331257442634)
 
 ---
 

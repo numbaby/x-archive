@@ -2,7 +2,15 @@
 
 ## 📅 November 09, 2026
 
-> 14 post(s) archived.
+> 15 post(s) archived.
+
+---
+
+### 🕐 19:05 UTC · @tunguz
+
+> Finally! Claude Fable 5.2 and Claude Mythos 5.2 are available now:
+
+🔗 [View original post](https://x.com/tunguz/status/2119869004684865797)
 
 ---
 

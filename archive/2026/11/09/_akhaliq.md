@@ -2,7 +2,17 @@
 
 ## 📅 November 09, 2026
 
-> 10 post(s) archived.
+> 11 post(s) archived.
+
+---
+
+### 🕐 18:21 UTC · @_akhaliq
+
+> AgentBaton Efficient Model Collaboration in Agentic Tasks paper: https://huggingface.co/papers/2610.35959
+
+![AgentBaton Efficient Model Collaboration in Agentic Tasks paper: https://huggingface.co/papers/2610.35959](../../../../assets/images/2026/11/09/2119858032888991775-1.png)
+
+🔗 [View original post](https://x.com/_akhaliq/status/2119858032888991775)
 
 ---
 

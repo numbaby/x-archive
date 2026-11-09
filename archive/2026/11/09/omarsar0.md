@@ -2,7 +2,15 @@
 
 ## 📅 November 09, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 18:43 UTC · @omarsar0
+
+> It&apos;s honestly surprising how good this tech is getting. Emma listens and reacts while you are still talking, and she uses visual cues to signal when it is her turn. The conversation timing feels close to talking with a person. It&apos;s built on Nuplex, their full-duplex audiovisual foundation model. The first AI persona you’ll actually want to meet face-to-face. Most AI personas stare blankly while you talk. Emma reacts while you’re still speaking. After 18 months of research at @nuance_ai, this is Emma, built on Nuplex, our full-duplex audiovisual foundation model.
+
+🔗 [View original post](https://x.com/omarsar0/status/2119863380051685720)
 
 ---
 

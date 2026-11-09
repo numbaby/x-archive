@@ -2,7 +2,17 @@
 
 ## 📅 November 09, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 18:28 UTC · @dair_ai
+
+> More model launches should publish their benchmark harness. AirCaps just launched A5S Async v1, a speech-to-text model that tracks who said each word. They also published the code, dataset recipes, raw API responses, and scores behind their results. It has the lowest error rate on all 5 public meeting benchmarks they tested. Introducing A5S Async V1: the world&apos;s most accurate speech recognition model for speaker-attributed transcription. #1 on VoiceArena, ahead of ElevenLabs, AssemblyAI, Deepgram, NVIDIA, Meta &amp; more. The next-best model makes 41% more errors across 5 public benchmarks. And yes, eve…
+
+![More model launches should publish their benchmark harness. AirCaps just launched A5S Async v1, a speech-to-text model that tracks who said each word. They also published the code, dataset recipes, ra](../../../../assets/images/2026/11/09/2119859629962191130-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2119859629962191130)
 
 ---
 

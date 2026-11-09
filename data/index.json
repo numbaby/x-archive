@@ -149742,5 +149742,112 @@
     "file": "data/posts/2026/11/2026-11-09.jsonl",
     "fingerprint": "a225390192b5e5e0f0fab17b37db57ae2f5cc9810f767d9fef274d67884e0e4a",
     "media": []
+  },
+  "2119857331257442634": {
+    "account": "AiEvolutio58513",
+    "date": "2026-11-09",
+    "file": "data/posts/2026/11/2026-11-09.jsonl",
+    "fingerprint": "6547c65a47177f6410ea5f94781fbc10b8e20873f38b001dc6be76351d687ab8",
+    "media": []
+  },
+  "2119858032888991775": {
+    "account": "_akhaliq",
+    "date": "2026-11-09",
+    "file": "data/posts/2026/11/2026-11-09.jsonl",
+    "fingerprint": "da9f6fb03778841e6567b61aecbeb3a7c81db556b44614d58a26f98f372c67a1",
+    "media": [
+      {
+        "local_path": "assets/images/2026/11/09/2119858032888991775-1.png",
+        "sha256": "77c65cbb7bcef198729b595ceacb262d17e84295b04288bbeb576bb078ca9f0e",
+        "source_url": "https://pbs.twimg.com/media/HWs_i1YacAE8Mtq.png?name=orig"
+      }
+    ]
+  },
+  "2119859629962191130": {
+    "account": "dair_ai",
+    "date": "2026-11-09",
+    "file": "data/posts/2026/11/2026-11-09.jsonl",
+    "fingerprint": "98a4e62093fcab45f4702f9878911708dbec101168bc3205516eb8ad07222f06",
+    "media": [
+      {
+        "local_path": "assets/images/2026/11/09/2119859629962191130-1.jpg",
+        "sha256": "03e686f0b40526e1b8187225e7d8874baab5591cbb9021514bbe1752e61ce64b",
+        "source_url": "https://pbs.twimg.com/media/HWtAGD3WgAAGlyK.jpg?name=orig"
+      }
+    ]
+  },
+  "2119862216656838909": {
+    "account": "DrJimFan",
+    "date": "2026-11-09",
+    "file": "data/posts/2026/11/2026-11-09.jsonl",
+    "fingerprint": "42d2f4902390fd267985ba5f4ce7eddcc5581fd43957baa731c2f1552fe9f8d7",
+    "media": [
+      {
+        "local_path": "assets/images/2026/11/09/2119862216656838909-1.jpg",
+        "sha256": "193d869184397cbdaa627319ec2ab6a5be8e54a43ade2b57650ab1efe78a7acb",
+        "source_url": "https://img.youtube.com/vi/F_4AAOQsWlA/maxresdefault.jpg"
+      }
+    ]
+  },
+  "2119863380051685720": {
+    "account": "omarsar0",
+    "date": "2026-11-09",
+    "file": "data/posts/2026/11/2026-11-09.jsonl",
+    "fingerprint": "323e8b9056d48c404a1f4596a495d203d0e6d74e862737fe3386a0b78b31d28d",
+    "media": []
+  },
+  "2119866760723890571": {
+    "account": "swyx",
+    "date": "2026-11-09",
+    "file": "data/posts/2026/11/2026-11-09.jsonl",
+    "fingerprint": "acdf15141de64fe79d2d6d1c6fd6d1a99be6294f1890260a286a2c4942bfd57d",
+    "media": []
+  },
+  "2119869004684865797": {
+    "account": "tunguz",
+    "date": "2026-11-09",
+    "file": "data/posts/2026/11/2026-11-09.jsonl",
+    "fingerprint": "97fc9f0b5cc09dfa763484eeff2949ecea3a88337dfb53e4ac72d032f1d959b3",
+    "media": []
+  },
+  "2119870150845599972": {
+    "account": "emollick",
+    "date": "2026-11-09",
+    "file": "data/posts/2026/11/2026-11-09.jsonl",
+    "fingerprint": "7660c77f8036cfba47702e73c75bb442f0f5ad7e48960e31679e80ead33bd561",
+    "media": [
+      {
+        "local_path": "assets/images/2026/11/09/2119870150845599972-1.jpg",
+        "sha256": "0782b5963825327e317e65deb774f75df2182bf69ba8e6e58043641ffc8f566d",
+        "source_url": "https://pbs.twimg.com/card_img/2119869950579859457/QSz4ONs2?format=jpg&name=800x419"
+      }
+    ]
+  },
+  "2119870982609608810": {
+    "account": "swyx",
+    "date": "2026-11-09",
+    "file": "data/posts/2026/11/2026-11-09.jsonl",
+    "fingerprint": "b543b094284a569fa718147a1ae701d88bbd46f285cf71ce1e7742347ca6c36a",
+    "media": []
+  },
+  "2119873095129550880": {
+    "account": "bcherny",
+    "date": "2026-11-09",
+    "file": "data/posts/2026/11/2026-11-09.jsonl",
+    "fingerprint": "c44e70fc7e46da834c0de3a94c97c7ceb88394c1742eca3a604de1cab7e3438e",
+    "media": [
+      {
+        "local_path": "assets/images/2026/11/09/2119873095129550880-1.jpg",
+        "sha256": "2b9546400a1fca414675295eed648a9d9de11835ded85ab9b0aa354f3d2a55e0",
+        "source_url": "https://pbs.twimg.com/media/HWtNVKaaMAAqQit.jpg?name=orig"
+      }
+    ]
+  },
+  "2119876449494540554": {
+    "account": "emollick",
+    "date": "2026-11-09",
+    "file": "data/posts/2026/11/2026-11-09.jsonl",
+    "fingerprint": "758fc4317f87577d4223dfff40c0b82fd6262ae49b60b0f2a9e63418c5dce290",
+    "media": []
   }
 }
