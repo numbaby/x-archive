@@ -2,7 +2,15 @@
 
 ## 📅 November 08, 2026
 
-> 14 post(s) archived.
+> 15 post(s) archived.
+
+---
+
+### 🕐 23:50 UTC · @elonmusk
+
+> I agree 1) Jensen is one of the greatest entrepreneurs of this generation 2) he did something incredibly dumb 3) it was bad for America 4) but my guess is there was no bad intention 5) two mistakes don’t make a right, and I believe Jensen is irreplaceable for America’s AI leadership
+
+🔗 [View original post](https://x.com/elonmusk/status/2119578315619254275)
 
 ---
 
