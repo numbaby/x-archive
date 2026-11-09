@@ -2,7 +2,17 @@
 
 ## 📅 November 09, 2026
 
-> 9 post(s) archived.
+> 13 post(s) archived.
+
+---
+
+### 🕐 19:44 UTC · @swyx
+
+> btw by complete coincidence the $ANT IPO roadshow across wall street started today. they had this in the chamber and its also nice that it came after Astra, Argon and Carbon… Introducing Claude Fable 5.2 and Claude Mythos 5.2, designed to tackle the most daunting technical challenges. They’re capable collaborators on ambitious projects in many fields, and show improvements in areas like coding, reasoning, and vision.
+
+![btw by complete coincidence the $ANT IPO roadshow across wall street started today. they had this in the chamber and its also nice that it came after Astra, Argon and Carbon… Introducing Claude Fable ](../../../../assets/images/2026/11/09/2119878742063641056-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2119878742063641056)
 
 ---
 
@@ -22,6 +32,26 @@
 
 ---
 
+### 🕐 18:41 UTC · @swyx
+
+> SLC 🛫🛬 SFO for @aiDotEngineer and things 👀 Will you be around this week? Hit me up!!
+
+![SLC 🛫🛬 SFO for @aiDotEngineer and things 👀 Will you be around this week? Hit me up!!](../../../../assets/images/2026/11/09/2119862932377067792-1.jpg)
+
+🔗 [View original post](https://x.com/kentcdodds/status/2119862932377067792)
+
+---
+
+### 🕐 17:16 UTC · @swyx
+
+> excited to be speaking at @aiDotEngineer this wednesday at 10:10am PT! i will be talking about how the grok @bot team shipped 11,000 PRs last month without compromising on code quality hope to see you there: https://ai.engineer/code/2026/schedule?day=2026-11-11&amp;session=1373446 First AIE Code Summit speakers: @poteto, Principal Engineer @ SpaceX @steve_yegge, Engineer, Writer, Advisor @zachbruggeman, Principal Software Engineer @ Ramp Nov 10-12, SF. Come hang out with us. Apply at https://ai.engineer/code
+
+![excited to be speaking at @aiDotEngineer this wednesday at 10:10am PT! i will be talking about how the grok @bot team shipped 11,000 PRs last month without compromising on code quality hope to see you](../../../../assets/images/2026/11/09/2119841446308221152-1.jpg)
+
+🔗 [View original post](https://x.com/poteto/status/2119841446308221152)
+
+---
+
 ### 🕐 16:54 UTC · @swyx
 
 > What do you teach computer science students when an agent can one-shot all of their homework? I sat down with @swyx on @latentspacepod to walk through how I&apos;m answering that in my Stanford course 𝗧𝗵𝗲 𝗠𝗼𝗱𝗲𝗿𝗻 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿, and how the same ideas show up day to day at @MonacoGTM. Last year all students were just using tab complete. This year when I surveyed them, every one was regularly using autonomous agents. Exercises that once taught the workflow were starting to feel one-shotable. So the curriculum shifted toward judgment: 𝗕𝘂𝗶𝗹𝗱 𝘁𝗵𝗲 𝗵𝗮𝗿𝗻𝗲𝘀𝘀: students write a small coding agent from scratch (about 200 lines), then intercept the harness of a state of the art coding agent and read the system, plan, and compaction prompts. To effectively use and build agents you need to understand the loop they run in. 𝗟𝗲𝗮𝗿𝗻 𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝘁𝗮𝘀𝘁𝗲 𝗯𝘆 𝘀𝗵𝗶𝗽𝗽𝗶𝗻𝗴 𝘁𝗼 𝗿𝗲𝗮𝗹 𝘄𝗼𝗿𝗹𝗱 𝗰𝗼𝗱𝗲𝗯𝗮𝘀𝗲𝘀: part of the homework is contributing to open-source projects. Maintainers review the patch and help students build mental models of good software. An agent can draft the change but getting it accepted still requires appropriate context, architecture, and intent within a complex codebase 𝗨𝗻𝗱𝗲𝗿𝘀𝘁𝗮𝗻𝗱 𝘁𝗵𝗲 𝗰𝗵𝗮𝗻𝗴𝗲: before implementation, research an unfamiliar repo, propose a few approaches, and choose one. After the agent writes code, quiz yourself on the diff until you can defend it without reopening the file. At Monaco, that judgment is most of the job. When agents can build almost anything, the hard call is what&apos;s worth building. We buy tools to learn a space, then build only the pieces that have to fit our own infrastructure. Code review has stayed a bought product for a while (though that&apos;s starting to change!). Agent workspaces, where background agents run the app and test patches, we built ourselves. In a rapidly evolving space, staying nimble and adaptable is one of the few defensible skill sets.
@@ -29,6 +59,16 @@
 ![What do you teach computer science students when an agent can one-shot all of their homework? I sat down with @swyx on @latentspacepod to walk through how I&apos;m answering that in my Stanford course](../../../../assets/images/2026/11/09/2119836042270580846-1.jpg)
 
 🔗 [View original post](https://x.com/mihail_eric/status/2119836042270580846)
+
+---
+
+### 🕐 16:20 UTC · @swyx
+
+> gm Karl 👋 AIE CODE starts tomorrow in San Francisco. Nov 10: workshops + talks on agents and software factories. Nov 11-12: conference talks + expo. Coming for workshops? Check that your ticket includes the add-on. Plan your days: https://ai.engineer/code/schedule
+
+![gm Karl 👋 AIE CODE starts tomorrow in San Francisco. Nov 10: workshops + talks on agents and software factories. Nov 11-12: conference talks + expo. Coming for workshops? Check that your ticket includ](../../../../assets/images/2026/11/09/2119827575287754987-1.jpg)
+
+🔗 [View original post](https://x.com/thorwebdev/status/2119827575287754987)
 
 ---
 

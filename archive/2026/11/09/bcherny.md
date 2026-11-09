@@ -2,7 +2,17 @@
 
 ## 📅 November 09, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 20:32 UTC · @bcherny
+
+> Pro users get one reset, and Max, Ultra, and Team Premium get up to three, depending on how long you&apos;ve subscribed: https://support.claude.com/en/articles/17506494-claude-fable-5-2-launch-offers
+
+![Pro users get one reset, and Max, Ultra, and Team Premium get up to three, depending on how long you&apos;ve subscribed: https://support.claude.com/en/articles/17506494-claude-fable-5-2-launch-offers](../../../../assets/images/2026/11/09/2119890820186976763-1.png)
+
+🔗 [View original post](https://x.com/bcherny/status/2119890820186976763)
 
 ---
 

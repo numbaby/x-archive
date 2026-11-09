@@ -149627,6 +149627,19 @@
       }
     ]
   },
+  "2119827575287754987": {
+    "account": "swyx",
+    "date": "2026-11-09",
+    "file": "data/posts/2026/11/2026-11-09.jsonl",
+    "fingerprint": "2b3ee931f2ba92cea834db7d1d816ff29d778b8a6797d3ed798a489e9c0307d8",
+    "media": [
+      {
+        "local_path": "assets/images/2026/11/09/2119827575287754987-1.jpg",
+        "sha256": "fbd2ee432b52c3dad7d94ac0ccbffffb2b5cb25eb0dc27ba43ee04d76ef604b1",
+        "source_url": "https://pbs.twimg.com/media/HWsj8S5aIAQ5N6E.jpg?name=orig"
+      }
+    ]
+  },
   "2119827799410352565": {
     "account": "AiEvolutio58513",
     "date": "2026-11-09",
@@ -149722,6 +149735,19 @@
       }
     ]
   },
+  "2119841446308221152": {
+    "account": "swyx",
+    "date": "2026-11-09",
+    "file": "data/posts/2026/11/2026-11-09.jsonl",
+    "fingerprint": "4179c179effc9929277e94dd110bcd458d56023865ffd2e8be5fcf07dee6d747",
+    "media": [
+      {
+        "local_path": "assets/images/2026/11/09/2119841446308221152-1.jpg",
+        "sha256": "c46c20ae71e00b739027fce45c0caeaf257bae6bfb374cc13a72cd4915ddcf7f",
+        "source_url": "https://pbs.twimg.com/media/HWl6i-IbMAAb4vK.jpg?name=orig"
+      }
+    ]
+  },
   "2119846221699576099": {
     "account": "omarsar0",
     "date": "2026-11-09",
@@ -149748,6 +149774,13 @@
     "date": "2026-11-09",
     "file": "data/posts/2026/11/2026-11-09.jsonl",
     "fingerprint": "6547c65a47177f6410ea5f94781fbc10b8e20873f38b001dc6be76351d687ab8",
+    "media": []
+  },
+  "2119857335871164769": {
+    "account": "demishassabis",
+    "date": "2026-11-09",
+    "file": "data/posts/2026/11/2026-11-09.jsonl",
+    "fingerprint": "7cbf8beb1efb313b56b3cd14e54f3045d0a44f10c263b309f4be92ae6f19ebf6",
     "media": []
   },
   "2119858032888991775": {
@@ -149786,6 +149819,19 @@
         "local_path": "assets/images/2026/11/09/2119862216656838909-1.jpg",
         "sha256": "193d869184397cbdaa627319ec2ab6a5be8e54a43ade2b57650ab1efe78a7acb",
         "source_url": "https://img.youtube.com/vi/F_4AAOQsWlA/maxresdefault.jpg"
+      }
+    ]
+  },
+  "2119862932377067792": {
+    "account": "swyx",
+    "date": "2026-11-09",
+    "file": "data/posts/2026/11/2026-11-09.jsonl",
+    "fingerprint": "9e5a08024ed4d329d71987190e859e93cac116ffc2faa3d6b72951c55ff91ebb",
+    "media": [
+      {
+        "local_path": "assets/images/2026/11/09/2119862932377067792-1.jpg",
+        "sha256": "7e4d28ffeee1350289963de34dd4d1a0b936a9a990458c50bb95043f659690e7",
+        "source_url": "https://pbs.twimg.com/media/HWtEF56boAAjZ89.jpg?name=orig"
       }
     ]
   },
@@ -149848,6 +149894,46 @@
     "date": "2026-11-09",
     "file": "data/posts/2026/11/2026-11-09.jsonl",
     "fingerprint": "758fc4317f87577d4223dfff40c0b82fd6262ae49b60b0f2a9e63418c5dce290",
+    "media": []
+  },
+  "2119878742063641056": {
+    "account": "swyx",
+    "date": "2026-11-09",
+    "file": "data/posts/2026/11/2026-11-09.jsonl",
+    "fingerprint": "83ea4607ccaafb463693f05d9d5a628ffe4f122b4386635357c61d25014e8faf",
+    "media": [
+      {
+        "local_path": "assets/images/2026/11/09/2119878742063641056-1.jpg",
+        "sha256": "69b35ea65e790a25a068da8ab5000880db6351f25cbe06c538f37976348d2d9e",
+        "source_url": "https://pbs.twimg.com/media/HWtSexJawAEWnJv.jpg?name=orig"
+      }
+    ]
+  },
+  "2119883273014784330": {
+    "account": "omarsar0",
+    "date": "2026-11-09",
+    "file": "data/posts/2026/11/2026-11-09.jsonl",
+    "fingerprint": "0ebd884836739d49c1077d2a36d582c409db8c6af6857fb5b49c5ec25a2061b0",
+    "media": []
+  },
+  "2119890820186976763": {
+    "account": "bcherny",
+    "date": "2026-11-09",
+    "file": "data/posts/2026/11/2026-11-09.jsonl",
+    "fingerprint": "855293ead9b34e05e0df536285a8fa8d0bebc0c4ad6c8523f4e7dc00d3a04294",
+    "media": [
+      {
+        "local_path": "assets/images/2026/11/09/2119890820186976763-1.png",
+        "sha256": "94dfe4773fcbee6bc96ff7475b1802807fa03fb73e6d2caec6216cd11e522c6d",
+        "source_url": "https://pbs.twimg.com/card_img/2117636792245522432/jHLd8Rux?format=png&name=800x419"
+      }
+    ]
+  },
+  "2119892232446845225": {
+    "account": "omarsar0",
+    "date": "2026-11-09",
+    "file": "data/posts/2026/11/2026-11-09.jsonl",
+    "fingerprint": "85ebb12190be9859f68f8f857a2d9f0c774586dd08dc433521f1e671edaa57c6",
     "media": []
   }
 }

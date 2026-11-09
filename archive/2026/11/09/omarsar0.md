@@ -2,7 +2,23 @@
 
 ## 📅 November 09, 2026
 
-> 5 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 20:37 UTC · @omarsar0
+
+> Seeing so many hype tweets from early testers of Claude Fable 5.2. But nothing new from these posts. Just crappy games and the same old stuff. This is clearly one of the best models. I think we are at the point where we need to think more ambitiously about what to do with these models. Also, as coordination and persistence improve fast, these models are now bottlenecked by our deep intuition and ambition, and by the environment they operate in (memory, tools, sandboxes). I suggest exploring test-time compute methods and testing them on scientific discovery. That, to me, is where these frontier models are really applicable. For everything else, Opus 5.5, imo, is still good enough for most tasks. Introducing Claude Fable 5.2 and Claude Mythos 5.2, designed to tackle the most daunting technical challenges. They’re capable collaborators on ambitious projects in many fields, and show improvements in areas like coding, reasoning, and vision.
+
+🔗 [View original post](https://x.com/omarsar0/status/2119892232446845225)
+
+---
+
+### 🕐 20:02 UTC · @omarsar0
+
+> Coding agents can do a lot more than code now. They just need access to the right tools and harness. Kylon puts Claude Code and Codex in the same space as the team, with access to 3,000+ tools. Agents on it just processed 5 million transactions, about 50,000 hours of manual work. Agents on Kylon have now completed over 5 million transactions. That&apos;s about 50,000 hours of manual work. Bring your team, Claude Code, and Codex into one shared workspace where agents can handle research, marketing, sales, and operations alongside your people. With access to 3,…
+
+🔗 [View original post](https://x.com/omarsar0/status/2119883273014784330)
 
 ---
 
