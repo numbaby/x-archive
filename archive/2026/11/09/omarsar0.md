@@ -2,7 +2,7 @@
 
 ## 📅 November 09, 2026
 
-> 9 post(s) archived.
+> 10 post(s) archived.
 
 ---
 
@@ -27,6 +27,16 @@
 > Seeing so many hype tweets from early testers of Claude Fable 5.2. But nothing new from these posts. Just crappy games and the same old stuff. This is clearly one of the best models. I think we are at the point where we need to think more ambitiously about what to do with these models. Also, as coordination and persistence improve fast, these models are now bottlenecked by our deep intuition and ambition, and by the environment they operate in (memory, tools, sandboxes). I suggest exploring test-time compute methods and testing them on scientific discovery. That, to me, is where these frontier models are really applicable. For everything else, Opus 5.5, imo, is still good enough for most tasks. Introducing Claude Fable 5.2 and Claude Mythos 5.2, designed to tackle the most daunting technical challenges. They’re capable collaborators on ambitious projects in many fields, and show improvements in areas like coding, reasoning, and vision.
 
 🔗 [View original post](https://x.com/omarsar0/status/2119892232446845225)
+
+---
+
+### 🕐 20:15 UTC · @omarsar0
+
+> Great work on harness self-improvement from Microsoft and colleagues. It discusses how to build long-running agents that improve their own harness, It turns out that if you run agents for hours, giving them a way to fix their own harness during the run improves results on long-running problems. More from the paper: Harness optimization usually runs offline. You tune the harness on tasks that have reference answers, then reuse it. Long open-ended tasks have no reference answers, and they run into problems the tuned harness never saw. BOXBOX moves that loop into the task itself. The agent decides when to revise its harness, and a kernel hot-reloads the new version while keeping the full execution context, so the run continues without a restart. They test it on PerfRace, a new benchmark where agents spend hours speeding up real software projects. Under the same time and cost budget, BOXBOX reaches a 1.70x speedup at four hours, against 1.54x for the best baseline. https://arxiv.org/abs/2611.09218 Chat with Paper: https://academy.dair.ai/papers/boxbox-recursive-harness-self-improvement-for-long-running-performance-optimizat-2611.09218
+
+![Great work on harness self-improvement from Microsoft and colleagues. It discusses how to build long-running agents that improve their own harness, It turns out that if you run agents for hours, givin](../../../../assets/images/2026/11/09/2119886501421167042-1.jpg)
+
+🔗 [View original post](https://x.com/dair_ai/status/2119886501421167042)
 
 ---
 

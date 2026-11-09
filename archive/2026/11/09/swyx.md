@@ -2,7 +2,15 @@
 
 ## 📅 November 09, 2026
 
-> 14 post(s) archived.
+> 15 post(s) archived.
+
+---
+
+### 🕐 19:50 UTC · @swyx
+
+> What does it take to push frontier models forward? @latentspacepod&apos;s first deep dive with an AI data company. Our team walked through our own datasets, life sciences, finance and safety, step by step. Worth your time if you care about progress and alignment of AI. 🆕 Our first deep dive with an AI data company! The frontier data space is exploding. @joinHandshake has become one of the leading partners for frontier labs, going from launch to $1B in GMV in ~a year, with @sacrainc estimating net revenue AFTER contractor payouts at about $450…
+
+🔗 [View original post](https://x.com/GarrettLord/status/2119880449875161373)
 
 ---
 

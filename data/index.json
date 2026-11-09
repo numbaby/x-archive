@@ -149922,12 +149922,46 @@
       }
     ]
   },
+  "2119880324075377094": {
+    "account": "DrJimFan",
+    "date": "2026-11-09",
+    "file": "data/posts/2026/11/2026-11-09.jsonl",
+    "fingerprint": "05d504d8fc9dfea436f979b8598a79df86ea3cabf6a59ad8cc0545f3a5963f56",
+    "media": []
+  },
+  "2119880449875161373": {
+    "account": "swyx",
+    "date": "2026-11-09",
+    "file": "data/posts/2026/11/2026-11-09.jsonl",
+    "fingerprint": "e10663a42fa657284e5e951163e01ff85015b6ae736da6f6ffeda97c181361b0",
+    "media": []
+  },
   "2119883273014784330": {
     "account": "omarsar0",
     "date": "2026-11-09",
     "file": "data/posts/2026/11/2026-11-09.jsonl",
     "fingerprint": "0ebd884836739d49c1077d2a36d582c409db8c6af6857fb5b49c5ec25a2061b0",
     "media": []
+  },
+  "2119885768097513664": {
+    "account": "elonmusk",
+    "date": "2026-11-09",
+    "file": "data/posts/2026/11/2026-11-09.jsonl",
+    "fingerprint": "0ccb20b82ffed773c463384b13e9347b6ad8c68bc08b49c5c7803b731fa9e791",
+    "media": []
+  },
+  "2119886501421167042": {
+    "account": "omarsar0",
+    "date": "2026-11-09",
+    "file": "data/posts/2026/11/2026-11-09.jsonl",
+    "fingerprint": "7ecf72f850843b85ce9cb431351b3747cfcdc2267091d14da05544812fde908c",
+    "media": [
+      {
+        "local_path": "assets/images/2026/11/09/2119886501421167042-1.jpg",
+        "sha256": "9b8a793d13e939dcf3d04a33820c8beae8054f6a39be15dbd1fa64a02a1f4a95",
+        "source_url": "https://pbs.twimg.com/media/HWtZiZwbkAAfJs_.jpg?name=orig"
+      }
+    ]
   },
   "2119890820186976763": {
     "account": "bcherny",
@@ -150002,5 +150036,32 @@
     "file": "data/posts/2026/11/2026-11-09.jsonl",
     "fingerprint": "3cbe91db7832f1b06c3eb9381bab78c94f8ffb6a974e94c8f6213cad10b67cd9",
     "media": []
+  },
+  "2119914844342129056": {
+    "account": "tunguz",
+    "date": "2026-11-09",
+    "file": "data/posts/2026/11/2026-11-09.jsonl",
+    "fingerprint": "c50b8087eadbacffb5486ce57659de088ed90e750157bc5a6c23309c1b6720e1",
+    "media": []
+  },
+  "2119918307457577163": {
+    "account": "emollick",
+    "date": "2026-11-09",
+    "file": "data/posts/2026/11/2026-11-09.jsonl",
+    "fingerprint": "8bf2634eacbbc1adea9907470cffb26690a1579362c19bd0e8fdafef0e2a2e03",
+    "media": []
+  },
+  "2119919185698361830": {
+    "account": "emollick",
+    "date": "2026-11-09",
+    "file": "data/posts/2026/11/2026-11-09.jsonl",
+    "fingerprint": "55f16141fb176fbe359dd1e6d37ce44ae80d1da7d0abdb2701e437d566e97925",
+    "media": [
+      {
+        "local_path": "assets/images/2026/11/09/2119919185698361830-1.jpg",
+        "sha256": "66021510461dc4522787b25fb08b2b7e54cd98357cf24523c99f5f82986877fc",
+        "source_url": "https://pbs.twimg.com/media/HWt3BXsWkAAvkpD.jpg?name=orig"
+      }
+    ]
   }
 }

@@ -2,7 +2,15 @@
 
 ## 📅 November 09, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 19:50 UTC · @DrJimFan
+
+> Meet GR00T 2, our new generation of world-action models (WAMs): it imagines how the physical world will unfold and generates the actions that get it there. One model runs on parallel grippers, dexterous hands, and humanoids. http://research.nvidia.com/labs/gear/gr00t-2 Media
+
+🔗 [View original post](https://x.com/yukez/status/2119880324075377094)
 
 ---
 

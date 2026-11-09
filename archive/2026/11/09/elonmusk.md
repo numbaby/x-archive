@@ -2,7 +2,7 @@
 
 ## 📅 November 09, 2026
 
-> 34 post(s) archived.
+> 35 post(s) archived.
 
 ---
 
@@ -11,6 +11,14 @@
 > Gwynne is great &quot;That&apos;s the man (@elonmusk I&apos;ve worked for for 24 years. I love him.&quot; Gwynne Shotwell
 
 🔗 [View original post](https://x.com/elonmusk/status/2119909709197279420)
+
+---
+
+### 🕐 20:12 UTC · @elonmusk
+
+> Tesla VP of Vehicle Engineering Lars Moravy just put Tesla&apos;s extraordinary manufacturing scale into perspective during his conversation with Jay Leno “You know, a lot of people don&apos;t realize that Tesla is the largest selling luxury vehicle in the world now” And the numbers behind Tesla&apos;s growth are absolutely staggering Tesla has now manufactured over 10 MILLION electric vehicles worldwide Just look at the progress: • March 2020: 1 million vehicles • July 2026: 10 million vehicles Tesla went from its first million vehicles to 10 million in just six years That&apos;s a tenfold increase in cumulative production When Tesla crossed the milestone, the company celebrated: “Produced our 10 millionth Tesla globally at Fremont Factory this week!” From proving electric vehicles could compete with combustion-engine cars to manufacturing millions of them across factories in the United States, China, and Germany Media Jay Leno just experienced Tesla FSD (Supervised) in the new Model Y L, with Tesla&apos;s Lars Moravy and Franz von Holzhausen riding along And one moment during the drive was absolutely incredible “We got it on self-driving mode! I&apos;m not touching anything” Then an ambulance approache…
+
+🔗 [View original post](https://x.com/XFreeze/status/2119885768097513664)
 
 ---
 

@@ -2,7 +2,15 @@
 
 ## 📅 November 09, 2026
 
-> 16 post(s) archived.
+> 17 post(s) archived.
+
+---
+
+### 🕐 22:07 UTC · @tunguz
+
+> Looks like the main use case for Dots is to notify you about emails that you already know about. 🫠
+
+🔗 [View original post](https://x.com/tunguz/status/2119914844342129056)
 
 ---
 

@@ -2,7 +2,25 @@
 
 ## 📅 November 09, 2026
 
-> 4 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 22:24 UTC · @emollick
+
+> In my post, I talk about how the agents involved began to build a bureaucracy over time, which eventually slowed development to a crawl. An example of jaggedness at scale: https://www.oneusefulthing.org/p/fable-52-and-jagged-agi
+
+![In my post, I talk about how the agents involved began to build a bureaucracy over time, which eventually slowed development to a crawl. An example of jaggedness at scale: https://www.oneusefulthing.o](../../../../assets/images/2026/11/09/2119919185698361830-1.jpg)
+
+🔗 [View original post](https://x.com/emollick/status/2119919185698361830)
+
+---
+
+### 🕐 22:21 UTC · @emollick
+
+> In one of my favorite experiments, I told Fable 5.2 to build an endless, hands-off journey through 3D worlds linked by portals. 25,000 agents created over 450 worlds inspired by books, art, places, all in code. Play: https://portals-endless-worlds.netlify.app/ Github: https://github.com/emollick/ai-portals Media
+
+🔗 [View original post](https://x.com/emollick/status/2119918307457577163)
 
 ---
 
