@@ -2,7 +2,17 @@
 
 ## 📅 November 09, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 20:50 UTC · @dair_ai
+
+> Also, it looks like Anthropic doesn&apos;t want you to build RSI?! On a more serious note, even with Opus 5.5, kernel and LLM optimization tasks get refused most of the time. Open models are the only way! Introducing Claude Fable 5.2 and Claude Mythos 5.2, designed to tackle the most daunting technical challenges. They’re capable collaborators on ambitious projects in many fields, and show improvements in areas like coding, reasoning, and vision.
+
+![Also, it looks like Anthropic doesn&apos;t want you to build RSI?! On a more serious note, even with Opus 5.5, kernel and LLM optimization tasks get refused most of the time. Open models are the only ](../../../../assets/images/2026/11/09/2119895303201657333-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2119895303201657333)
 
 ---
 

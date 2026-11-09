@@ -2,7 +2,15 @@
 
 ## 📅 November 09, 2026
 
-> 15 post(s) archived.
+> 16 post(s) archived.
+
+---
+
+### 🕐 21:37 UTC · @tunguz
+
+> Nice! We wanted to do more for the people who’ve been with us the longest. So with Fable 5.2, the longer you’ve been subscribed, the more Fable resets you get.
+
+🔗 [View original post](https://x.com/tunguz/status/2119907264626868344)
 
 ---
 

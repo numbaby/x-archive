@@ -2,7 +2,23 @@
 
 ## 📅 November 09, 2026
 
-> 7 post(s) archived.
+> 9 post(s) archived.
+
+---
+
+### 🕐 21:06 UTC · @omarsar0
+
+> As an independent researcher, this sucks, honestly. But I guess that&apos;s where open models come in, and they are actually better suited to solve that problem. For that type of work, I think it helps to own the model (change weights, etc.) and have more transparency. Again, not mad at Anthropic, and it helps that they are transparent about it this time around. https://x.com/eliebakouch/status/2119892602321531238?a=CZ2-I3gRXRtrXb47wc4&amp;s=20 while this personally makes me really sad as i love playing with llms on this kind of topic, i appreciate the transparency from anthropic here and also not nerfing domains like interpretability
+
+🔗 [View original post](https://x.com/omarsar0/status/2119899470120808873)
+
+---
+
+### 🕐 20:58 UTC · @omarsar0
+
+> Nothing against Anthropic. They are free to decide whatever they want with their models. I mention RSI because if you are a scientist trying to advance open science with these models, you will have a really rough time with the refusals. I can talk from personal experience. And I am not talking about paper reproductions (even that fails in most cases). I mean autoresearch loops to improve certain aspects of AI systems.
+
+🔗 [View original post](https://x.com/omarsar0/status/2119897465625403419)
 
 ---
 

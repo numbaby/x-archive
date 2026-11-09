@@ -2,7 +2,7 @@
 
 ## 📅 November 09, 2026
 
-> 13 post(s) archived.
+> 14 post(s) archived.
 
 ---
 
@@ -13,6 +13,16 @@
 ![btw by complete coincidence the $ANT IPO roadshow across wall street started today. they had this in the chamber and its also nice that it came after Astra, Argon and Carbon… Introducing Claude Fable ](../../../../assets/images/2026/11/09/2119878742063641056-1.jpg)
 
 🔗 [View original post](https://x.com/swyx/status/2119878742063641056)
+
+---
+
+### 🕐 19:29 UTC · @swyx
+
+> i&apos;m happy to share some recent work on safely scaling a team of 1,000 Fable 5.2 agent to tackle ambitious, long-horizon work. the team was able to formalize a proof of Fermat&apos;s Last Theorem through coordination within our safety boundaries. read it here: https://claude.dev/blog/safely-scaling-multi-agent-teams-with-fable-5-2/
+
+![i&apos;m happy to share some recent work on safely scaling a team of 1,000 Fable 5.2 agent to tackle ambitious, long-horizon work. the team was able to formalize a proof of Fermat&apos;s Last Theorem ](../../../../assets/images/2026/11/09/2119875041475379681-1.jpg)
+
+🔗 [View original post](https://x.com/RLanceMartin/status/2119875041475379681)
 
 ---
 
