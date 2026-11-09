@@ -2,7 +2,15 @@
 
 ## 📅 November 09, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 13:01 UTC · @AiEvolutio58513
+
+> Elon Musk says there&apos;s no AI demand problem, and old chips now rent for more than they did new: &quot;Our belief is that the value of compute per watt will increase over time, not decrease.&quot; &quot;As the models get better and better, they&apos;re able to, you get more useful intelligence per watt. And that&apos;s why you see things like even old computers like H100s renting for more than they rented when they were new.&quot; &quot;I think we&apos;re going to face a shortage of superintelligence compute. And that shortage is going to remain for a long time.&quot; Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2119777370077090030)
 
 ---
 

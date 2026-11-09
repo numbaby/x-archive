@@ -2,7 +2,15 @@
 
 ## 📅 November 09, 2026
 
-> 7 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 12:46 UTC · @tunguz
+
+> It’s the human factors. It’s ALWAYS the human factors.
+
+🔗 [View original post](https://x.com/tunguz/status/2119773663650103489)
 
 ---
 
