@@ -2,7 +2,17 @@
 
 ## 📅 November 09, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 08:39 UTC · @swyx
+
+> good read on why humans, like llms, get a lot more powerful when given a scratchpad. [new blog post] Writing as a thinking tool https://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html
+
+![good read on why humans, like llms, get a lot more powerful when given a scratchpad. [new blog post] Writing as a thinking tool https://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html](../../../../assets/images/2026/11/09/2119711420912939220-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2119711420912939220)
 
 ---
 
