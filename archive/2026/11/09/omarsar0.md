@@ -2,7 +2,23 @@
 
 ## 📅 November 09, 2026
 
-> 2 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 17:47 UTC · @omarsar0
+
+> Chip design is next for AI. Transistors are getting harder to shrink, so chips are going vertical. Stacking them shortens connections but makes heat and timing much harder to manage. Archgen is building the tools to design chips in three dimensions. Their AI agent reads each design run, finds what&apos;s failing, fixes it, and reruns, from a single chip up to a 3D stack. @archgen_ is building skyscrapers for semiconductor chips Shrinking transistors is getting harder. Stacking them makes heat harder to manage. We’re building the tools to design chips in three dimensions. We stack transistors vertically, shorten connections, and optimize timing a…
+
+🔗 [View original post](https://x.com/omarsar0/status/2119849456182903003)
+
+---
+
+### 🕐 17:34 UTC · @omarsar0
+
+> Personal finance is a great test for agents. Volaren connects to your brokerage accounts and explains what&apos;s happening in your portfolio. When it suggests a move, it waits for your approval before placing the order. (Not financial/investment advice.) We raised $1M from YC &amp; Afore to leave Goldman Sachs &amp; build an agent that trades for you. The top 1% gets a “money guy.” Today we’re introducing Volaren so you can have one too. Volaren is designed to plug into your brokerage accounts and explain why your portfolio moved, sugge…
+
+🔗 [View original post](https://x.com/omarsar0/status/2119846221699576099)
 
 ---
 

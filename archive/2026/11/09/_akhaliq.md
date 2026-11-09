@@ -2,7 +2,15 @@
 
 ## 📅 November 09, 2026
 
-> 8 post(s) archived.
+> 10 post(s) archived.
+
+---
+
+### 🕐 17:59 UTC · @_akhaliq
+
+> The first AI persona you’ll actually want to meet face-to-face. Most AI personas stare blankly while you talk. Emma reacts while you’re still speaking. After 18 months of research at @nuance_ai, this is Emma, built on Nuplex, our full-duplex audiovisual foundation model. Media
+
+🔗 [View original post](https://x.com/fangchangma/status/2119852363494371466)
 
 ---
 
@@ -49,6 +57,16 @@
 ![LongBanana An expert-verified benchmark for long-context multi-reference image synthesis, with 90 tasks, ~32 references per case, and 4,670 atomic evaluation items. Built by KlingAI Research.](../../../../assets/images/2026/11/09/2119824426154049971-1.jpg)
 
 🔗 [View original post](https://x.com/HuggingPapers/status/2119824426154049971)
+
+---
+
+### 🕐 15:21 UTC · @_akhaliq
+
+> I&apos;ve added &quot;Continuous language model&quot; as a method on @paperswithcodee so you can explore all the papers mentioned in the survey below and more. Find it here: https://paperswithcode.co/methods/continuous-language-model?time=all_time New survey on Continuous Diffusion and Flow Language Models is out! 🌊💬 One of my first papers, back in early 2025, was on continuous simplex flows. After working on discrete diffusion, I wanted to try controllable sequence generation with flow matching, which naturally operate…
+
+![I&apos;ve added &quot;Continuous language model&quot; as a method on @paperswithcodee so you can explore all the papers mentioned in the survey below and more. Find it here: https://paperswithcode.co/](../../../../assets/images/2026/11/09/2119812521267753471-1.jpg)
+
+🔗 [View original post](https://x.com/NielsRogge/status/2119812521267753471)
 
 ---
 
