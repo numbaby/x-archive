@@ -2,7 +2,15 @@
 
 ## 📅 November 09, 2026
 
-> 6 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 05:11 UTC · @elonmusk
+
+> Elon Musk explains one of the most terrifying existential threats humanity faces: a massive comet striking Earth and potentially wiping out civilization “Earth does not currently have any ability to stop asteroids. Now with Starship, we then have some ability to stop an asteroid actually, technically, a comet would be the real danger Because there are billions, if not more than billions, maybe trillions of objects that are in the outer solar system, with very long-period comets An example that most people are probably aware of is Halley’s Comet. It’s slightly under once per century that Halley’s Comet comes by. Many comets have very long periods that we simply don’t know exist And for example, the comet Shoemaker-Levy when that hit Jupiter, it made a hole in Jupiter the size of Earth. So if that did hit Earth, game over &quot;Everything’s dead&quot; So there’s always some risk of such a thing occurring, and the probable lifespan of life is just much greater if we’re a multi-planet and ultimately multi-stellar civilization” https://x.com/XFreeze/status/2022644681247695041/video/1 Media
+
+🔗 [View original post](https://x.com/XFreeze/status/2119659029089931643)
 
 ---
 
