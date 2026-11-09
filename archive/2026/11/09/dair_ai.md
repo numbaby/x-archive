@@ -1,0 +1,27 @@
+# 🐦 @dair_ai
+
+## 📅 November 09, 2026
+
+> 2 post(s) archived.
+
+---
+
+### 🕐 14:01 UTC · @dair_ai
+
+> Must-read paper on scaling multi-agent swarms. The main focus right now is training agent swarms to coordinate and cooperate better. Here is a promising new work on this. The problem: Multi-agent systems usually follow a plan that a developer writes ahead of time. The plan decides which agent does what and when agents message each other, and it usually stays the same across tasks. What they propose: s3 has the agents learn that plan instead. Agents learn through cooperative RL when to work alone, when to share findings, and when to read teammates&apos; work. There are no predefined roles. With matched training and inference budgets, s3 swarms tested at twice their training size solve over 25x more coordination problems than the strongest baseline. In parallel exploration, communicating agents repeat nearly 50% less work and beat best-of-N by up to 9.4 points. The agents develop complementary roles on their own, and those roles carry over to bigger teams. https://arxiv.org/abs/2611.08615 Chat with Paper: https://academy.dair.ai/papers/s-3-simple-scaling-of-swarms-via-cooperative-multi-agent-rl-2611.08615
+
+![Must-read paper on scaling multi-agent swarms. The main focus right now is training agent swarms to coordinate and cooperate better. Here is a promising new work on this. The problem: Multi-agent syst](../../../../assets/images/2026/11/09/2119792446242718170-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2119792446242718170)
+
+---
+
+### 🕐 13:47 UTC · @dair_ai
+
+> Banger paper from Google on quantum AI. They gave teams of LLM agents the ability to write quantum programs and prove them correct in Lean. Classical computers can only test quantum algorithms on small instances. A simulation-scored search loop can&apos;t reach the sizes where quantum computing becomes useful. So researchers write a specification and a cost target as a Lean theorem. Agent teams propose programs, the Lean kernel checks correctness and cost, and a separate comparator re-verifies every accepted answer. Teams share results and dead ends on a wiki and meet at scheduled conferences to exchange ideas. The verified programs cut the cost of quantum arithmetic by 290x against the best prior baseline. Simulations relevant to fusion, photochemistry, and drug metabolism improved by 11x, 8x, and 2.5x. https://arxiv.org/abs/2611.09822 Chat with Paper: https://academy.dair.ai/papers/discovering-formally-verified-quantum-programs-with-ai-2611.09822
+
+![Banger paper from Google on quantum AI. They gave teams of LLM agents the ability to write quantum programs and prove them correct in Lean. Classical computers can only test quantum algorithms on smal](../../../../assets/images/2026/11/09/2119788858623902034-1.jpg)
+
+🔗 [View original post](https://x.com/dair_ai/status/2119788858623902034)
+
+---
