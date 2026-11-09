@@ -2,7 +2,15 @@
 
 ## 📅 November 09, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 10:56 UTC · @AiEvolutio58513
+
+> Mark Zuckerberg admits he wasn&apos;t sure Meta&apos;s $200 billion AI bet would even work: &quot;We&apos;re gonna write this check for like $100 billion, $200 billion. I&apos;m like, Alex, are you sure this is going to work?&quot; Alexandr Wang: &quot;…certainly not clear at all that it was going to work.&quot; The model is Muse Wonder. Meta&apos;s own tests put it level with Fable 5.1 and GPT-6 Astra, with no independent benchmarks yet. One bet, $200 billion, and the man signing the check had doubts. Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2119745895789130055)
 
 ---
 
