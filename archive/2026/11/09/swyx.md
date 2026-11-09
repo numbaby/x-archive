@@ -2,7 +2,17 @@
 
 ## 📅 November 09, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 02:00 UTC · @swyx
+
+> are you listening anon? 2027 is gonna be about engines
+
+![are you listening anon? 2027 is gonna be about engines](../../../../assets/images/2026/11/09/2119611058881192187-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2119611058881192187)
 
 ---
 
