@@ -2,7 +2,31 @@
 
 ## 📅 November 09, 2026
 
-> 4 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 11:40 UTC · @tunguz
+
+> yes be greedy when others are fearful now is the time to: - secure more compute - buy more claude code / codex subs - tokenmax
+
+🔗 [View original post](https://x.com/tunguz/status/2119756932206768278)
+
+---
+
+### 🕐 11:38 UTC · @tunguz
+
+> 2027 will be wild. I&apos;ve summarized where things stand at the AI frontier: - Unreleased models (Anthropic&apos;s Models 3 and 4) are now half-way between AI2027&apos;s Agents-1 and 2 (graphs fixed for the bug flagged by the AI2027 authors). @DKokotajlo please let me know if I missed something. - We&apos;re right …
+
+🔗 [View original post](https://x.com/tunguz/status/2119756464869064935)
+
+---
+
+### 🕐 11:33 UTC · @tunguz
+
+> Things become increasingly chaotic at EVERY scale as we approach the phase transition. But there is a completely ordered new state on the other side.
+
+🔗 [View original post](https://x.com/tunguz/status/2119755306960032003)
 
 ---
 
