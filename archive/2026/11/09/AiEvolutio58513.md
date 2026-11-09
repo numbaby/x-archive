@@ -2,7 +2,23 @@
 
 ## 📅 November 09, 2026
 
-> 4 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 16:33 UTC · @AiEvolutio58513
+
+> David Sacks says the top AI lab is being run by a &quot;religious cult&quot; that&apos;s doing the exact things it warns about: &quot;But I do think that there are potential externalities from having the number one frontier model company run by a religious cult.&quot; &quot;So, for example, they are opening a Claude-powered wet lab in the middle of San Francisco. But at the same time, they&apos;re warning of bio risk.&quot; &quot;At the same time that they are saying that there&apos;s a risk of superintelligence growing beyond our control, they&apos;re programming it to grow beyond our control.&quot; &quot;These are not safe decisions. These are crazy decisions, it seems to me.&quot; Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2119830654536040699)
+
+---
+
+### 🕐 16:21 UTC · @AiEvolutio58513
+
+> he’s right, these models have been ripping us off Media In 2015, I built an AI that detects early cancer. It’s still running across hundreds of hospitals in the US today. It was the most fulfilling work of my life, and I was building in AI years before everyone called it “AI”. Building in AI then was a dream. Now It feels like we’ve …
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2119827799410352565)
 
 ---
 

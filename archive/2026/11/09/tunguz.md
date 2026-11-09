@@ -2,7 +2,31 @@
 
 ## 📅 November 09, 2026
 
-> 11 post(s) archived.
+> 14 post(s) archived.
+
+---
+
+### 🕐 16:52 UTC · @tunguz
+
+> NB: creatine, Taco Bell, and prune juice don’t mix well.
+
+🔗 [View original post](https://x.com/tunguz/status/2119835427704393760)
+
+---
+
+### 🕐 16:45 UTC · @tunguz
+
+> And every week after that in secula seculorum. This week folks will feel another jolt of superintelligence acceleration…
+
+🔗 [View original post](https://x.com/tunguz/status/2119833680084398590)
+
+---
+
+### 🕐 16:31 UTC · @tunguz
+
+> I feel more or less the same, but about Corvette/Tesla. Growing up, I thought my dream car was a Porsche. Recently, I almost got one but then was a passenger in my friend’s self-driving Tesla. Immediately knew I needed a Tesla. Got my own white-interior self-driving Tesla and now have absolutely 0 desire for a Porsche. Would NEVER wa…
+
+🔗 [View original post](https://x.com/tunguz/status/2119830262410547375)
 
 ---
 

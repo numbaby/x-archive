@@ -2,7 +2,15 @@
 
 ## 📅 November 09, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 16:38 UTC · @omarsar0
+
+> Self-improving agents and world models are two ideas I am watching most closely. Skyfall AI put both into Steve, a harness built to run a business end to end. Steve records what went wrong after every loop and simulates the outcome of a decision before it acts. Skyfall has bought three businesses since August and handed them all to Steve. AlphaSocial went from $3,600 to $8,100 MRR in three months. Next, the Steve Startups Program will acquire five more businesses for up to $2M. Watch this space! Introducing Steve: the World’s first AI CEO for fully Autonomous companies. Powered by World Models, Recursive Self Learning, a Policy Engine and a team of specialist AI agents, it runs your business end-to-end 🔥. Proof? Steve currently runs 3 businesses we acquired and they ar…
+
+🔗 [View original post](https://x.com/omarsar0/status/2119831935283265597)
 
 ---
 
