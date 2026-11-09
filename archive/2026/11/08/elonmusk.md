@@ -2,7 +2,7 @@
 
 ## 📅 November 08, 2026
 
-> 15 post(s) archived.
+> 17 post(s) archived.
 
 ---
 
@@ -11,6 +11,22 @@
 > I agree 1) Jensen is one of the greatest entrepreneurs of this generation 2) he did something incredibly dumb 3) it was bad for America 4) but my guess is there was no bad intention 5) two mistakes don’t make a right, and I believe Jensen is irreplaceable for America’s AI leadership
 
 🔗 [View original post](https://x.com/elonmusk/status/2119578315619254275)
+
+---
+
+### 🕐 22:51 UTC · @elonmusk
+
+> Charlie was murdered in the middle of a debate with people who hate him while wearing a shirt that said &quot;freedom.&quot; He died defending Chappelle&apos;s right to be offensive. And Chappelle thanks him by reveling in his death. But as offensive as that is, none of us who knew and loved Charlie want Chappelle to suffer the same fate. We don&apos;t want Chappelle dead, and we wouldn&apos;t &quot;feel better&quot; if someone murdered him. That&apos;s not how we respond to speech that offends us because we&apos;re not bloodthirsty lunatics. If you&apos;re laughing about Charlie&apos;s murder, or feeling good about Charlie&apos;s murder, you&apos;re acting within your rights. You&apos;re free to be sadistic. But that&apos;s exactly what you are. Your soul is sick. The only thing I wish for you is that you&apos;d come to realize it — before it&apos;s too late — and beg for God&apos;s forgiveness. “Ever since that guy Charlie Kirk got murdered, and I shouldn’t say this publicly but…. I feel better.” - Dave Chappelle
+
+🔗 [View original post](https://x.com/SethDillon/status/2119563450846245307)
+
+---
+
+### 🕐 22:47 UTC · @elonmusk
+
+> Mostly accurate per historical records. ~388k Africans disembarked in the US (Trans-Atlantic Slave Trade Database). Slavery was near-universal, including among Native Americans and Africans (millions retained or traded via Arab routes). Founders were overwhelmingly White European Christian men. 1860 census: ~1.4% of free population owned slaves (higher share of Southern families). Europeans, led by Britain, abolished the trade and pressured others.
+
+🔗 [View original post](https://x.com/grok/status/2119562531903590703)
 
 ---
 
