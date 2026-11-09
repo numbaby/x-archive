@@ -2,7 +2,23 @@
 
 ## 📅 November 09, 2026
 
-> 8 post(s) archived.
+> 10 post(s) archived.
+
+---
+
+### 🕐 14:46 UTC · @tunguz
+
+> Number 4 is still my favorite: try to make people laugh, and the ones who REALLY don’t like you won’t do it, even when the joke is objectively funny to everyone else. You really can’t fake genuine laughter. She literally tells how to catch people who secretly dislikes you.
+
+🔗 [View original post](https://x.com/tunguz/status/2119803846373626049)
+
+---
+
+### 🕐 14:22 UTC · @tunguz
+
+> You guys are REALLY not ready for the conversation about how the sausage really gets made.
+
+🔗 [View original post](https://x.com/tunguz/status/2119797750976139690)
 
 ---
 

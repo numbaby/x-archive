@@ -2,7 +2,51 @@
 
 ## 📅 November 09, 2026
 
-> 16 post(s) archived.
+> 23 post(s) archived.
+
+---
+
+### 🕐 13:09 UTC · @elonmusk
+
+> BREAKING: Brussels Airlines just released a new footage of @Starlink being installed on its aircraft. Flight SN2257 to Copenhagen was its first flight with Starlink today. The airline even sent its press release over Starlink at 12,000 meters. Media
+
+🔗 [View original post](https://x.com/cb_doge/status/2119779356113580221)
+
+---
+
+### 🕐 13:05 UTC · @elonmusk
+
+> &quot;Whole World Repeating A Lie&quot;: EU Lawmaker Challenges &quot;Far-Right&quot; MSM Narrative For Polish Gunman https://www.zerohedge.com/political/whole-world-repeating-lie-eu-lawmaker-challenges-far-right-msm-narrative-polish-gunman
+
+![&quot;Whole World Repeating A Lie&quot;: EU Lawmaker Challenges &quot;Far-Right&quot; MSM Narrative For Polish Gunman https://www.zerohedge.com/political/whole-world-repeating-lie-eu-lawmaker-challeng](../../../../assets/images/2026/11/09/2119778393621237976-1.png)
+
+🔗 [View original post](https://x.com/zerohedge/status/2119778393621237976)
+
+---
+
+### 🕐 12:01 UTC · @elonmusk
+
+> Another great month for the Grok app. 🚀 • 93,386,567 monthly active users • 12,731,752 downloads Both numbers climbed in October, according to Similarweb’s worldwide data for iPhone and Android. Media
+
+🔗 [View original post](https://x.com/cb_doge/status/2119762211044544945)
+
+---
+
+### 🕐 11:00 UTC · @elonmusk
+
+> Bigger Austin service area now live
+
+![Bigger Austin service area now live](../../../../assets/images/2026/11/09/2119746828191027346-1.jpg)
+
+🔗 [View original post](https://x.com/robotaxi/status/2119746828191027346)
+
+---
+
+### 🕐 10:56 UTC · @elonmusk
+
+> ‼️Someone Who Was ACTUALLY In The Room At Dave Chappelle’s Show Has Now Released The FULL Context Of What Was Said About Charlie Kirk. 😱 In the footage and breakdown, Chappelle states that ever since Charlie was murdered he has felt better, adds that he knows Charlie is looking up at the audience from hell, and then goes into a rant calling Charlie racist based on a heavily clipped comment about black pilots as well as calls @RealCandaceO a &quot;Scooby Doo Ass Bitch&quot; who will not let the case go. This was not presented as a setup or a punchline. It was stated plainly, with no bit attached, in front of a crowd that had already had their phones locked in pouches. The person who recorded it notes how awkward the room became and confirms that many people walked out mid-set. Dave Chappelle even got angry and made the comment that &quot;This Crowd Sucks&quot; The breakdown includes Charlie’s original full comments on the pilot remark so viewers can hear the actual argument instead of the shortened version that has circulated. Be sure to watch the OP&apos;s FULL video linked down below for their perspective. 👇 From: @amirxodom FOLLOW Him Media ‼️Dave Chappelle Must Be Canceled After Saying He Feels Better Since Charlie Kirk Was Murdered😡 Dave Chappelle stood on stage at Madison Square Garden and told the audience“Ever since that guy Charlie Kirk got murdered, and I shouldn’t say this publicly but…. I feel better.” - …
+
+🔗 [View original post](https://x.com/ProjectConstitu/status/2119746002013786115)
 
 ---
 
@@ -11,6 +55,14 @@
 > Insightful https://x.com/i/article/2119711911503667200
 
 🔗 [View original post](https://x.com/elonmusk/status/2119742268265640376)
+
+---
+
+### 🕐 09:13 UTC · @elonmusk
+
+> @InternetH0F id for creatine but not voting LMFAOOOO
+
+🔗 [View original post](https://x.com/cawners/status/2119719950726406552)
 
 ---
 
@@ -99,6 +151,14 @@
 > Chappelle is just not funny anymore @JackPosobiec I was at the Chapelle show at MSG last night… can confirm. His whole set was about 80 mins and he spent about half of it ripping on Charlie Kirk, Trump, &amp; Epstein. I kept waiting for the funny parts and then it just ended.
 
 🔗 [View original post](https://x.com/elonmusk/status/2119636611633721811)
+
+---
+
+### 🕐 03:37 UTC · @elonmusk
+
+> Dave Chappelle didn&apos;t joke about Charlie&apos;s murder. He celebrated it.
+
+🔗 [View original post](https://x.com/kangminlee/status/2119635572780114303)
 
 ---
 

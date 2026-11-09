@@ -2,7 +2,17 @@
 
 ## 📅 November 09, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 15:09 UTC · @swyx
+
+> starting a thread of all the ways in which gmail sucks for the eventual day i vibecode a total replacement Whenever I feel bad about a page I designed, I go to this link to make me feel better https://mail.google.com/mail#settings/general
+
+![starting a thread of all the ways in which gmail sucks for the eventual day i vibecode a total replacement Whenever I feel bad about a page I designed, I go to this link to make me feel better https:/](../../../../assets/images/2026/11/09/2119809574563922263-1.png)
+
+🔗 [View original post](https://x.com/swyx/status/2119809574563922263)
 
 ---
 

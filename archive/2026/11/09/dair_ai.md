@@ -2,7 +2,15 @@
 
 ## 📅 November 09, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 14:12 UTC · @dair_ai
+
+> Own your evals, folks! I have nothing against public benchmarks; they are still important for research and public discussions. However, the only way to truly trust which models to use in prod is to build your own evals. And it&apos;s not just about measuring reliability and model picking; evals are now crucial for unlocking new use cases and, eventually, RSI. Evals will be a key part of how any business will optimize with RSI. You don&apos;t want to rent this. You want to own this. Start building that expertise in-house. That is why, at @dair_ai, we have started an effort to help companies build these internally. jammed with @HamelHusain a bit and since then, i cannot unsee of the state of evals as being similar to the military-industrial complex
+
+🔗 [View original post](https://x.com/omarsar0/status/2119795295630324042)
 
 ---
 
