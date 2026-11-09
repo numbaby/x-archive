@@ -2,7 +2,33 @@
 
 ## 📅 November 09, 2026
 
-> 8 post(s) archived.
+> 11 post(s) archived.
+
+---
+
+### 🕐 23:38 UTC · @AiEvolutio58513
+
+> Claude Fable 5.2 built a 7-email welcome series in 7 minutes, then graded its own work. It would only send 4 of the 7. On the origin story, it said it couldn&apos;t fix it &quot;without inventing facts.&quot; Every email and every grade is in the article. Most welcome series are three emails because nobody has time to write seven. I had Claude Fable 5.2 build all seven in 7 minutes, then grade its own work. It would only send four. Every email, every grade, and the brief to copy are in here. https://x.com/i/article/21199301386328…
+
+![Claude Fable 5.2 built a 7-email welcome series in 7 minutes, then graded its own work. It would only send 4 of the 7. On the origin story, it said it couldn&apos;t fix it &quot;without inventing fact](../../../../assets/images/2026/11/09/2119937677147746571-1.jpg)
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2119937677147746571)
+
+---
+
+### 🕐 23:33 UTC · @AiEvolutio58513
+
+> The most useful thing Claude did in this test was fail its own work. It built seven welcome emails, then told me it would only send four. The origin story had no founder in it, and it wouldn’t invent one. Which email in your welcome series would fail? Media Most welcome series are three emails because nobody has time to write seven. I had Claude Fable 5.2 build all seven in 7 minutes, then grade its own work. It would only send four. Every email, every grade, and the brief to copy are in here. https://x.com/i/article/21199301386328…
+
+🔗 [View original post](https://x.com/ecomchasedimond/status/2119936424585949668)
+
+---
+
+### 🕐 23:14 UTC · @AiEvolutio58513
+
+> Most welcome series are three emails because nobody has time to write seven. I had Claude Fable 5.2 build all seven in 7 minutes, then grade its own work. It would only send four. Every email, every grade, and the brief to copy are in here. https://x.com/i/article/2119930138632802304
+
+🔗 [View original post](https://x.com/ecomchasedimond/status/2119931724809502809)
 
 ---
 

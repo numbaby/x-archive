@@ -2,7 +2,15 @@
 
 ## 📅 November 09, 2026
 
-> 10 post(s) archived.
+> 11 post(s) archived.
+
+---
+
+### 🕐 23:52 UTC · @omarsar0
+
+> If you&apos;ve followed the JEPA line of work, LingBot-Touch is worth a read: a shared Transformer over tokens from heterogeneous tactile sensors, masked latent prediction, and a comparison against MAE and VAE objectives on the same data. Per the paper, latent prediction won. What changes when robots can feel—not just see? 🤖✋ Meet LingBot-Touch, our open-source tactile foundation model towards dexterous manipulation, pretrained on nearly 5,000 hours of real tactile data. Through unified heterogeneous tactile modeling, LingBot-Touch supports transfer…
+
+🔗 [View original post](https://x.com/omarsar0/status/2119941151516209594)
 
 ---
 

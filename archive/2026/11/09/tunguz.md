@@ -2,7 +2,15 @@
 
 ## 📅 November 09, 2026
 
-> 17 post(s) archived.
+> 18 post(s) archived.
+
+---
+
+### 🕐 23:04 UTC · @tunguz
+
+> Oh look, nice, they released ... another blog post! 🫠 We built Control Room, a central system to track model workloads across our research infrastructure and stop them quickly when safety or security concerns arise. It connects every research inference workload, including agentic sampling for model training and evaluation, data pro…
+
+🔗 [View original post](https://x.com/tunguz/status/2119929173418328488)
 
 ---
 

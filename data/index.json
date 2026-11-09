@@ -150063,5 +150063,66 @@
         "source_url": "https://pbs.twimg.com/media/HWt3BXsWkAAvkpD.jpg?name=orig"
       }
     ]
+  },
+  "2119926108111921232": {
+    "account": "ylecun",
+    "date": "2026-11-09",
+    "file": "data/posts/2026/11/2026-11-09.jsonl",
+    "fingerprint": "aeab8874678272f9f821f3b4429a8959dc925971102fe128eae7b51621652f20",
+    "media": [
+      {
+        "local_path": "assets/images/2026/11/09/2119926108111921232-1.jpg",
+        "sha256": "d1c43d980cfe60e27fb7bd7c0f266ddf77bdd026a9285b120f0052a1e8e23ac0",
+        "source_url": "https://pbs.twimg.com/media/HWt7GLLXcAAuUVI.jpg?name=orig"
+      }
+    ]
+  },
+  "2119929173418328488": {
+    "account": "tunguz",
+    "date": "2026-11-09",
+    "file": "data/posts/2026/11/2026-11-09.jsonl",
+    "fingerprint": "85ca99173f120c75d143a3aa5dc959fb53bf38cfc237afe1ede0a32cb3e0b60f",
+    "media": []
+  },
+  "2119931724809502809": {
+    "account": "AiEvolutio58513",
+    "date": "2026-11-09",
+    "file": "data/posts/2026/11/2026-11-09.jsonl",
+    "fingerprint": "ab9100c4e1881cb6e90e12038fa79102ccfe63ae0b2b9fcbddcca2751c05f40c",
+    "media": []
+  },
+  "2119935240202539147": {
+    "account": "swyx",
+    "date": "2026-11-09",
+    "file": "data/posts/2026/11/2026-11-09.jsonl",
+    "fingerprint": "5c5c7a94522c34f018cc3ce2ace092357b48c7a3cf5bb1651e27b4700f596496",
+    "media": []
+  },
+  "2119936424585949668": {
+    "account": "AiEvolutio58513",
+    "date": "2026-11-09",
+    "file": "data/posts/2026/11/2026-11-09.jsonl",
+    "fingerprint": "793551bdf28e893f61cffacfaf80afcec413d89444499da681a87322370b66cc",
+    "media": []
+  },
+  "2119937677147746571": {
+    "account": "AiEvolutio58513",
+    "date": "2026-11-09",
+    "file": "data/posts/2026/11/2026-11-09.jsonl",
+    "fingerprint": "952d98b769d3ec085e2f7b9bd7fbc2e23ae230959697a78741b8f07094782e67",
+    "media": [
+      {
+        "local_path": "assets/images/2026/11/09/2119937677147746571-1.jpg",
+        "sha256": "17ee2e827740d746b8a7ae0a4fa23f12d43c26eb78d2dc9880fb555b31cdf0d5",
+        "source_url": "https://pbs.twimg.com/media/HWuIDWxa8AAcN0q.jpg?name=orig"
+      }
+    ]
+  },
+  "2119941151516209594": {
+    "account": "omarsar0",
+    "date": "2026-11-09",
+    "file": "data/posts/2026/11/2026-11-09.jsonl",
+    "fingerprint": "ae65d65b3ebd807bcdb4c6aa76c4238bb2138c19f4e263e9c61142821017bded",
+    "media": []
   }
 }

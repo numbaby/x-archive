@@ -2,7 +2,15 @@
 
 ## 📅 November 09, 2026
 
-> 15 post(s) archived.
+> 16 post(s) archived.
+
+---
+
+### 🕐 23:28 UTC · @swyx
+
+> bro just proved fermat&apos;s last theorem AS A DEMO for the fable 5.2 launch and casually told me he&apos;s got something bigger planned for his aie code talk lol anthropic u guys are wildin i&apos;m happy to share some recent work on safely scaling a team of 1,000 Fable 5.2 agent to tackle ambitious, long-horizon work. the team was able to formalize a proof of Fermat&apos;s Last Theorem through coordination within our safety boundaries. read it here: https://claude.dev/blog/…
+
+🔗 [View original post](https://x.com/swyx/status/2119935240202539147)
 
 ---
 
