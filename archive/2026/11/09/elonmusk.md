@@ -2,7 +2,23 @@
 
 ## 📅 November 09, 2026
 
-> 38 post(s) archived.
+> 44 post(s) archived.
+
+---
+
+### 🕐 23:27 UTC · @elonmusk
+
+> JUST IN: Memphis Mayor reveals SpaceX data center taxes more than doubled to $54 million, after $25 million last year made it Shelby County’s second largest taxpayer Paul Young was asked about Elon Musk’s claim that data centers have Memphis booming: Q: “Recently, just speaking on the revenues the data centers are creating for Memphis. Elon Musk recently tweeted that Memphis is &apos;booming&apos; because of the data centers. He said that hotels and restaurants are full and called, tax revenue in Memphis tremendous right now. Do you just have any thoughts on that?” YOUNG: “Well, we’ve talked a lot about the financial aspects of the project. I think that as we talk about data centers in our city, we want to talk about it in a balanced way. Of course there’s an economic side. We want to make sure that we are articulating what protections and guardrails we’re putting in place for the environmental sides that, people are concerned about, the quality of life, noise, traffic, all of those aspects.&quot; &quot;But, there there is tax revenue. I think this year it was $54,000,000 in taxes that have been generated. And I know last year when they generated about $25,000,000 in tax revenue, it was the second largest tax paying property in Shelby County. I don’t know where $54,000,000 puts it, but it is significant taxes.&quot; &quot;And so as we look at, the tax revenue, we also wanna look at how do we ensure that there are proper protections. That’s what this ninety day executive order has been about, and, it’s the conversation that we’ll continue to have with the community.” Media SpaceX’s Arizona data center, per a county supervisor: “We could be reducing property taxes across the board in Cochise County, the entire county, by 20%” Frank Antenori, whose district includes the site, brought up the county’s tax math during a live Q&amp;A: “Here’s just something…
+
+🔗 [View original post](https://x.com/firesidealpha/status/2119934910723174807)
+
+---
+
+### 🕐 22:16 UTC · @elonmusk
+
+> Most people assume SpaceX began because Elon Musk wanted to build rockets, but the original idea was smaller. Around 2001 he looked for the date of NASA&apos;s Mars mission, discovered there were no plans to send people at all, and came up with Mars Oasis, a little greenhouse with seeds in dehydrated gel that would land on Mars and send back an image of green plants against red soil, just to get people excited about space again and help NASA get a bigger budget. Then he realized the real obstacle was the cost of rockets: &quot;I was wrong… there actually was plenty of will if people thought there was a way. So then I decided, okay, well, I need to work on the way.&quot; SpaceX was born to serve the dream of exploration, not to compete with it 🩵 Media
+
+🔗 [View original post](https://x.com/EvaFox/status/2119916944245629157)
 
 ---
 
@@ -11,6 +27,14 @@
 > Gwynne is great &quot;That&apos;s the man (@elonmusk I&apos;ve worked for for 24 years. I love him.&quot; Gwynne Shotwell
 
 🔗 [View original post](https://x.com/elonmusk/status/2119909709197279420)
+
+---
+
+### 🕐 21:27 UTC · @elonmusk
+
+> .@MegynKelly on the absolute double standard in the Russell Brand sentencing: “If you needed any further proof that this is a political WITCH HUNT against Russell Brand, the judge just gave it to us.” Download: https://podcasts.apple.com/us/podcast/themegyn-kelly-show/id1532976305 Media
+
+🔗 [View original post](https://x.com/MegynKellyShow/status/2119904682269429965)
 
 ---
 
@@ -38,11 +62,27 @@
 
 ---
 
+### 🕐 17:51 UTC · @elonmusk
+
+> UK judge gives Russel Brand 10 years 6 months for “rape”. No forensic evidence. No DNA. No CCTV. Same country and system: Gave Hadush Gerberslasie Kebatu 12 months in prison for offences including sexual assault of a 14-year-old girl, sexual assault of an adult woman, attempted sexual assault, inciting a child to engage in sexual activity and harassment.
+
+🔗 [View original post](https://x.com/TheJadeWarwick/status/2119850292166476238)
+
+---
+
 ### 🕐 17:48 UTC · @elonmusk
 
 > Jay Leno just tried @Tesla&apos;s FSD (Supervised) for the first time. The Model Y L pulled over by itself when an ambulance with its sirens on drove by. &quot;We got it on self-driving mode! I&apos;m not touching anything.&quot; Jay finally tried FSD! haha (via new episode of Jay Leno&apos;s Garage) Media
 
 🔗 [View original post](https://x.com/SawyerMerritt/status/2119849526760747146)
+
+---
+
+### 🕐 17:28 UTC · @elonmusk
+
+> The UK “justice system” is an utter joke. Beyond parody. Total dishonor. Fuck this. Russell Brand gets 10 years based solely on the word of his accusers. Meanwhile there are countless Muslim grooming gang child rapists who got off free despite far stronger evidence. For example Ahmed who got off free for child rape because the witnesses were deemed n…
+
+🔗 [View original post](https://x.com/JTLonsdale/status/2119844488298234326)
 
 ---
 
@@ -95,6 +135,16 @@
 > Project Crystal Sun Tesla has officially started construction of its massive new $10 billion solar manufacturing facility near Houston, Texas! Construction is expected to finish in 2028, with commercial operations starting in Q1 2029. Total direct and indirect economic impact of the project is esti…
 
 🔗 [View original post](https://x.com/elonmusk/status/2119812607117062451)
+
+---
+
+### 🕐 15:01 UTC · @elonmusk
+
+> The Germans are learning what mass immigration really means. &quot;Wir schaffen das&quot;
+
+![The Germans are learning what mass immigration really means. &quot;Wir schaffen das&quot;](../../../../assets/images/2026/11/09/2119807494776078407-1.jpg)
+
+🔗 [View original post](https://x.com/ricwe123/status/2119807494776078407)
 
 ---
 
