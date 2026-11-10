@@ -2,7 +2,23 @@
 
 ## 📅 November 10, 2026
 
-> 3 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 14:11 UTC · @tunguz
+
+> Thanks to AI we finally have actually funny Seinfeld. This is AI Seinfeld perfection
+
+🔗 [View original post](https://x.com/tunguz/status/2120157406814752970)
+
+---
+
+### 🕐 14:06 UTC · @tunguz
+
+> This is so disturbing on so many levels. This was not a one-shot It was a two-shot I told Fable 5.2 to make the video of it&apos;s dreams, and 9 hours later:
+
+🔗 [View original post](https://x.com/tunguz/status/2120156266408628518)
 
 ---
 
