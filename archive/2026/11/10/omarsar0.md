@@ -2,7 +2,15 @@
 
 ## 📅 November 10, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 15:52 UTC · @omarsar0
+
+> Physical AI is the next frontier. But data is a huge bottleneck. The big challenge is that robots need to see how people work with their hands. That data is hard to collect and label. Memories Upload from @memories_ai turns everyday first-person video into robot training data. Media Today we launch #MemoriesUpload. Robots need internet-scale first-person video of how people get things done. Collecting this at high quality takes hardware, model and infra working together. That&apos;s what we&apos;ve spent over a year building. And already, 3 of the top 5 frontier robo…
+
+🔗 [View original post](https://x.com/omarsar0/status/2120182810195443818)
 
 ---
 

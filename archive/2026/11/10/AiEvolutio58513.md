@@ -2,7 +2,23 @@
 
 ## 📅 November 10, 2026
 
-> 3 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 16:34 UTC · @AiEvolutio58513
+
+> Sam Altman says 38,000 ChatGPT questions use about as much water as growing a single almond: &quot;For every 38,000 ChatGPT queries, that&apos;s the same amount of water used to produce a single almond in California.&quot; &quot;People eating 12 almonds at a time don&apos;t feel like they&apos;re doing something horrible from a water perspective.&quot; &quot;Modern, very large data centers use roughly the same amount of water as an office building.&quot; &quot;That&apos;s been a robust meme and difficult to disprove, but I don&apos;t think it holds up to any scrutiny.&quot; Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2120193333968683357)
+
+---
+
+### 🕐 14:58 UTC · @AiEvolutio58513
+
+> Palantir CEO Alex Karp says the smartest people hide how smart they are: &quot;One of the ways you make it to the top is you hide how smart you are.&quot; &quot;Every single person who has shared how intelligent they are tells you how stupid they are.&quot; Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2120169161553047767)
 
 ---
 

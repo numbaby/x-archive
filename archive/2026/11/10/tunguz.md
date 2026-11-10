@@ -2,7 +2,25 @@
 
 ## 📅 November 10, 2026
 
-> 5 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 16:06 UTC · @tunguz
+
+> PSA
+
+![PSA](../../../../assets/images/2026/11/10/2120186450591244474-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2120186450591244474)
+
+---
+
+### 🕐 15:44 UTC · @tunguz
+
+> Nature is artificial.
+
+🔗 [View original post](https://x.com/tunguz/status/2120180837048270899)
 
 ---
 
