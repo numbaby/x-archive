@@ -2,7 +2,25 @@
 
 ## 📅 November 10, 2026
 
-> 1 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 05:43 UTC · @simonw
+
+> Something I enjoy about these prompting guides is that it&apos;s VERY clear from reading them that Anthropic are just as surprised by the idiosyncrasies of their new models as we are
+
+🔗 [View original post](https://x.com/simonw/status/2120029567616458900)
+
+---
+
+### 🕐 05:42 UTC · @simonw
+
+> When Anthropic release a new model it&apos;s always worth taking a look at their updated prompting guide - here&apos;s an entertaining tip to make Fable 5.2 less likely to be cautious in how it improves existing code: tell it &quot;This codebase is yours&quot; https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-fable-5-2#say-who-owns-the-code
+
+![When Anthropic release a new model it&apos;s always worth taking a look at their updated prompting guide - here&apos;s an entertaining tip to make Fable 5.2 less likely to be cautious in how it improv](../../../../assets/images/2026/11/10/2120029347948220500-1.jpg)
+
+🔗 [View original post](https://x.com/simonw/status/2120029347948220500)
 
 ---
 
