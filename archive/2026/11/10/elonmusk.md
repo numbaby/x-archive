@@ -2,7 +2,7 @@
 
 ## 📅 November 10, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
 
 ---
 
@@ -29,6 +29,14 @@
 > The most entertaining outcome is the most likely, especially if ironic One irony maximizing outcome that I’m not looking forward to is Anthropic proving to the world that their fears are justified by building the super-intelligence that they fear.
 
 🔗 [View original post](https://x.com/elonmusk/status/2119989362725396589)
+
+---
+
+### 🕐 01:50 UTC · @elonmusk
+
+> Taking the Shinkansen and all I can think about is how do we not have this between SF and LA... if only you knew how great things could be if we voted out the Decels
+
+🔗 [View original post](https://x.com/beffjezos/status/2119970837302292728)
 
 ---
 
