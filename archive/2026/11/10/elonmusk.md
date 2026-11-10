@@ -2,7 +2,33 @@
 
 ## 📅 November 10, 2026
 
-> 5 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 10:34 UTC · @elonmusk
+
+> Turns out that the Starlink software, built for managing the movement of vast amounts of data through space and to the ground, is also very well suited to training super intelligence
+
+🔗 [View original post](https://x.com/elonmusk/status/2120102767624880364)
+
+---
+
+### 🕐 10:27 UTC · @elonmusk
+
+> Elon Musk just revealed something huge about Grok&apos;s new SI training and inference infrastructure The engineering behind Starlink is now helping power the development of Grok SpaceXSI has completely rewritten Grok&apos;s reinforcement learning and inference software from scratch, replacing JAX and SGLang with its own system built primarily in C, with a little C++ And the most important part is where this engineering expertise comes from The new stack is built on the incredible work of the engineers who created Starlink&apos;s incredibly complex satellite network Elon explained: &quot;At SpaceX, we write our own headers and calculate our own time (includes leap seconds). Not many people will know what this means, but those that do will appreciate it.&quot; Here&apos;s why that&apos;s significant SpaceX engineers build and control critical parts of their software themselves, even down to the code interfaces and precise time calculations needed for satellite operations This gives them much tighter control over how their systems operate, reducing unnecessary software dependencies and allowing them to optimize performance and reliability Now that same engineering philosophy is being applied to Grok At SpaceX, we write our own headers and calculate our own time (includes leap seconds). Not many people will know what this means, but those that do will appreciate it. The new Grok AI/SI training and inference stack is derived from incredible of work done by amazing engineers t…
+
+🔗 [View original post](https://x.com/XFreeze/status/2120101086988222653)
+
+---
+
+### 🕐 10:01 UTC · @elonmusk
+
+> Elon Musk just revealed a massive update on Grok 4.8, and SpaceXSI has completely rebuilt its reinforcement learning and inference infrastructure from scratch The engineering team has abandoned JAX and SGLang, rewriting the entire RL and inference stack in C/C++ Here’s where Grok 4.8 stands: • Pre-training is complete • Major cleanup of supervised fine-tuning data • Reinforcement learning now underway • Evaluation scores are starting to climb • Soft rollout to Grok Bot users planned for later this week And Elon also gave another imp update about Grok 4.8: “Grok 4.8 will bear no resemblance to 4.7 (thankfully)” He also explained why the development took longer than expected: “It is not yet incredible, but, this time, the foundations are built right, so I expect it to evolve to be something special” This is a fundamental engineering overhaul, not just another model upgrade SpaceXSI has rewritten the underlying infrastructure to build a much stronger foundation for Grok’s future development. And the first Grok Bot users are expected to get their hands on it this week We have dumped JAX/SGLang and rewritten the entire RL and inference stack from scratch in C/C++, which took some extra time. Training (aka pre-training) is done. Lot of cleanup was needed on the SFT data to get that mostly right. Now, 4.8 is in RL and the evals are starting to c…
+
+![Elon Musk just revealed a massive update on Grok 4.8, and SpaceXSI has completely rebuilt its reinforcement learning and inference infrastructure from scratch The engineering team has abandoned JAX an](../../../../assets/images/2026/11/10/2120094479797686513-1.jpg)
+
+🔗 [View original post](https://x.com/XFreeze/status/2120094479797686513)
 
 ---
 

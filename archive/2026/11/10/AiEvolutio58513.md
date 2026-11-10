@@ -2,7 +2,15 @@
 
 ## 📅 November 10, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 11:02 UTC · @AiEvolutio58513
+
+> Dario Amodei says the people who mocked his GPT-2 warnings in 2019 are now applying for jobs at AI labs: &quot;I personally was super freaked out by [GPT-2]. I looked at it and I said, my God, you just scale this thing up another factor of a million and it&apos;ll be better than humans at everything.&quot; &quot;This is going to determine the fate of nations and economies and the future of humanity.&quot; &quot;Maybe 10% of the people around me had exactly the same reaction, and it was often the smartest ones.&quot; &quot;But people would look at it and say, in any particular area, that doesn&apos;t seem so smart. And so many people just shrugged and they just dismissed it.&quot; Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2120109799945961562)
 
 ---
 
