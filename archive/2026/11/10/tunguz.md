@@ -2,7 +2,23 @@
 
 ## 📅 November 10, 2026
 
-> 9 post(s) archived.
+> 11 post(s) archived.
+
+---
+
+### 🕐 18:16 UTC · @tunguz
+
+> Both Gemini and ChatGPT are BSing me way too much rn. Overstating what they&apos;ve accomplished, taking way too many shortcuts and behind the scenes hacks. I&apos;m wasting way too many tokens on that crap. Not good. 😡
+
+🔗 [View original post](https://x.com/tunguz/status/2120218980342448253)
+
+---
+
+### 🕐 18:13 UTC · @tunguz
+
+> oof 🤦‍♂️ Now in beta: Businesses in ChatGPT. Claim your business, manage your information, and get insights on how people engage with you. Eligible businesses can also build a Business Agent to answer customers’ questions and help them explore what you offer. https://openai.com/index/int…
+
+🔗 [View original post](https://x.com/tunguz/status/2120218360348819841)
 
 ---
 

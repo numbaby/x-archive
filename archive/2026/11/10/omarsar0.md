@@ -2,7 +2,23 @@
 
 ## 📅 November 10, 2026
 
-> 4 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 18:23 UTC · @omarsar0
+
+> Another interesting development in autonomous AI agents. Vorflux just launched 2.0, introducing AutoBots, 24/7 AI coworkers that can manage ongoing engineering work, investigate production issues, review code, and turn customer feedback into product fixes. I&apos;m bullish on agents that can take ownership of responsibilities instead of waiting for humans to assign individual tasks. As models become more capable, I think the next major breakthrough will come from systems that coordinate multiple agents, verify their work, and keep execution moving autonomously. We&apos;re getting closer to self-driving software companies. Today we&apos;re launching @vorfluxai 2.0: AutoBots, 24x7 coworkers that live in Slack. I previously co-founded @Rippling, now $10B+, engg team of 1000s. Engg changes crazy fast now. IDE autocomplete &gt; CLI &gt; Cloud agents &gt; multi-player slack agents Models deliver predictably now. Bot…
+
+🔗 [View original post](https://x.com/omarsar0/status/2120220713579868486)
+
+---
+
+### 🕐 17:49 UTC · @omarsar0
+
+> RSI loops are moving out of the frontier labs. @hedra_labs just launched Model Factory for teams in robotics, manufacturing, biology, and defense. Bring a simulator or RL environment, and their AI scientists run post-training while Hedra researchers steer. They first tested it on their own H3 video model. 34.9 on Physics-IQ vs. 30.3 for H3 Max. Introducing Hedra Model Factory: an autonomous inference and training platform for building models for the real world. The recursive self-improvement loop behind frontier research has been locked inside a few labs. We&apos;re opening it to teams in robotics, manufacturing, biology an…
+
+🔗 [View original post](https://x.com/omarsar0/status/2120212286027543026)
 
 ---
 

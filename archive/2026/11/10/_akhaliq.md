@@ -2,7 +2,33 @@
 
 ## 📅 November 10, 2026
 
-> 7 post(s) archived.
+> 12 post(s) archived.
+
+---
+
+### 🕐 18:25 UTC · @_akhaliq
+
+> Flide Accelerating Decision Inference with Exact State Forking paper: https://huggingface.co/papers/2610.42148 Media
+
+🔗 [View original post](https://x.com/_akhaliq/status/2120221322722865439)
+
+---
+
+### 🕐 18:08 UTC · @_akhaliq
+
+> We raised $5.3M to give AI agents a computer to run on, with their own email, phone, iMessage, and WhatsApp Led by @peakxvpartners, with @rauchg, @sternhenri, @jefrankle, @cjc, and @daniel_levine Today we’re launching hosted agents on @inkbox_ai. Your agent runs next to its communication channels, so it never misses a reply. It sleeps when idle, so you don’t pay for downtime. In the 4 months since our YC launch, we’ve processed millions of messages for AI agents. Media
+
+🔗 [View original post](https://x.com/rayruizhiliao/status/2120217092553413028)
+
+---
+
+### 🕐 18:06 UTC · @_akhaliq
+
+> SIRIS Can LLMs Tell When Simulation Errors Matter in AI-Driven Systems Research paper: https://huggingface.co/papers/2611.10329
+
+![SIRIS Can LLMs Tell When Simulation Errors Matter in AI-Driven Systems Research paper: https://huggingface.co/papers/2611.10329](../../../../assets/images/2026/11/10/2120216492189122726-1.png)
+
+🔗 [View original post](https://x.com/_akhaliq/status/2120216492189122726)
 
 ---
 
@@ -13,6 +39,14 @@
 ![Longtail-SWE High-Quality SWE Tasks for Underrepresented Languages paper: https://huggingface.co/papers/2611.10304](../../../../assets/images/2026/11/10/2120209949951393922-1.png)
 
 🔗 [View original post](https://x.com/_akhaliq/status/2120209949951393922)
+
+---
+
+### 🕐 17:32 UTC · @_akhaliq
+
+> We just crossed: - 20M AI builders on @huggingface - 300PB of models, datasets, agent traces, and RL environments hosted on the @huggingface hub (9PB added by users just last week) Also October was our biggest month ever in terms of DAUs, MAUs and revenue. Let&apos;s go open-source AI!
+
+🔗 [View original post](https://x.com/ClementDelangue/status/2120207990116495787)
 
 ---
 
@@ -39,6 +73,16 @@
 ![Reframe: Teaching visual agents to use what they see A new post-training framework that grounds tool rewards and repairs observations during distillation. Beats prior art on 14 benchmarks without SFT ](../../../../assets/images/2026/11/10/2120186955308621916-1.jpg)
 
 🔗 [View original post](https://x.com/HuggingPapers/status/2120186955308621916)
+
+---
+
+### 🕐 16:04 UTC · @_akhaliq
+
+> Google just released Multimodal Knowledge Agent on Hugging Face A benchmark for AI agents tackling real-world visual tasks across 10 professional domains—with CAD blueprints, RF schematics, and more. https://huggingface.co/datasets/google/multimodal-knowledge-agent
+
+![Google just released Multimodal Knowledge Agent on Hugging Face A benchmark for AI agents tackling real-world visual tasks across 10 professional domains—with CAD blueprints, RF schematics, and more. ](../../../../assets/images/2026/11/10/2120185862084596083-1.jpg)
+
+🔗 [View original post](https://x.com/HuggingPapers/status/2120185862084596083)
 
 ---
 

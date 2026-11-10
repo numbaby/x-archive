@@ -2,7 +2,17 @@
 
 ## 📅 November 10, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 18:33 UTC · @dair_ai
+
+> Impressive paper from Robbyant on physical AI. (bookmark it) Robot hands use a range of tactile sensors, and a model trained on one sensor can struggle to transfer to another. That&apos;s a big challenge in robotics right now. LingBot-Touch is a foundation model to address this challenge. It was pretrained on 4,983 hours of real touch data. They tested it on the XHand1, a robot hand whose sensor the model never saw. The model stayed frozen. Only a small add-on was trained to find where the fingertip is pressed. On XHand1, the average contact-center error was 0.16 mm with LingBot-Touch versus 5.89 mm with FTP-1 using an XHand1-specific adapter. That&apos;s about a 97% reduction in error. It transfers because every sensor maps to the same virtual fingertip. Training also varies touch-point density and placement, so the model can&apos;t memorize one sensor. Better touch also makes robots better at tasks. Across six real-world XHand1 tasks, LingBot-VLA averaged 57.21% success both without tactile input and with raw tactile input, rising to 75.04% with LingBot-Touch features. In simulated RL, it scored highest on all twelve tasks. Plate spinning went from 0.5% to 97.4%. Has anyone seen a frozen touch model transfer to a new sensor like this? Paper: http://arxiv.org/abs/2611.12806 Code: http://github.com/Robbyant/lingbot-touch Weights: http://huggingface.co/collections/robbyant/lingbot-touch
+
+![Impressive paper from Robbyant on physical AI. (bookmark it) Robot hands use a range of tactile sensors, and a model trained on one sensor can struggle to transfer to another. That&apos;s a big challe](../../../../assets/images/2026/11/10/2120223370470096952-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2120223370470096952)
 
 ---
 
