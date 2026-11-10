@@ -2,7 +2,17 @@
 
 ## 📅 November 10, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 17:18 UTC · @dair_ai
+
+> Great practical paper on optimizing harness costs. For lower agent costs, you want to change the harness and keep the model. UC Berkeley researchers found that harness changes such as prompts and tools barely move accuracy, but they change cost by up to 2.6x on the same model and task. They analyzed agent traces and found five ways to cut cost. Each one reduces how much context an LLM call reads or how many calls a task needs. Then they built Agency, a layer that sits between existing harnesses like Claude Code and Codex and the model. An optimization written once works across harnesses. Five proof-of-concept techniques cut cost by up to 35% with marginal accuracy loss. If your agent bill keeps growing, look at repeated context reads and extra tool calls before switching models. https://arxiv.org/abs/2611.12122 Chat with Paper: https://academy.dair.ai/papers/system-optimizations-for-cost-efficient-agent-harnesses-2611.12122
+
+![Great practical paper on optimizing harness costs. For lower agent costs, you want to change the harness and keep the model. UC Berkeley researchers found that harness changes such as prompts and tool](../../../../assets/images/2026/11/10/2120204345602101457-1.jpg)
+
+🔗 [View original post](https://x.com/dair_ai/status/2120204345602101457)
 
 ---
 

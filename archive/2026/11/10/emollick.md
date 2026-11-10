@@ -2,7 +2,23 @@
 
 ## 📅 November 10, 2026
 
-> 2 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 17:03 UTC · @emollick
+
+> Author of the original train clip: https://www.ritsumei.ac.jp/~akitaoka/index-e.html Play with the 3js recreation: https://keio-line-front-cab.netlify.app/
+
+🔗 [View original post](https://x.com/emollick/status/2120200795530649998)
+
+---
+
+### 🕐 16:56 UTC · @emollick
+
+> Had early access to Gemini 4 Carbon, it is a very good model that improves on Argon. It is useful to have an AI that thinks differently than Claude/GPT &amp; is still highly capable, but has its own strengths &amp; weakness One fun demo: I gave Carbon a video clip &amp; it reproduced in 3js Media
+
+🔗 [View original post](https://x.com/emollick/status/2120198832202125322)
 
 ---
 

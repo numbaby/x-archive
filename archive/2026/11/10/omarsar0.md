@@ -2,7 +2,17 @@
 
 ## 📅 November 10, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 17:17 UTC · @omarsar0
+
+> Memory is one of the biggest open problems for AI agents right now. Graphon builds one graph across a company&apos;s documents, emails, images, and videos without a hand-made schema, so new data does not break it. On LoCoMo, it reaches 94% accuracy with only 7.9K tokens of context, higher than giving a frontier model the full history. It is also #1 on ATM-Bench, which tests years of real emails, photos, and videos. After years working on robot memory at @NASAJPL, @GoogleDeepMind , @Meta and @nvidia, @clarkzhango and I kept asking: why does AI still forget? Today, with @deepakmishraVC, we’re announcing @GraphonAI and our $35M Series A just 6 months after our seed. • #1 on ATM-Bench, ATM-Ben…
+
+![Memory is one of the biggest open problems for AI agents right now. Graphon builds one graph across a company&apos;s documents, emails, images, and videos without a hand-made schema, so new data does ](../../../../assets/images/2026/11/10/2120204152479400099-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2120204152479400099)
 
 ---
 

@@ -2,7 +2,27 @@
 
 ## 📅 November 10, 2026
 
-> 7 post(s) archived.
+> 9 post(s) archived.
+
+---
+
+### 🕐 17:36 UTC · @tunguz
+
+> Best founders I backed had no hobbies. Only one obsession — the company.
+
+![Best founders I backed had no hobbies. Only one obsession — the company.](../../../../assets/images/2026/11/10/2120209033626001788-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2120209033626001788)
+
+---
+
+### 🕐 16:55 UTC · @tunguz
+
+> It’s parabolic.
+
+![It’s parabolic.](../../../../assets/images/2026/11/10/2120198778615706068-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2120198778615706068)
 
 ---
 

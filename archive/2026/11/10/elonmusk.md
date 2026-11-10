@@ -2,7 +2,15 @@
 
 ## 📅 November 10, 2026
 
-> 8 post(s) archived.
+> 9 post(s) archived.
+
+---
+
+### 🕐 15:07 UTC · @elonmusk
+
+> 🚨The EU&apos;s Digital Services Act threatens freedom of speech GLOBALLY. What they say: the DSA prevents the spread of &quot;illegal content&quot; and mitigates &quot;systemic risks to civic discourse&quot;. What actually happens: the EU controls online narratives by forcing the world&apos;s largest platforms to censor content that the Commission and a network of nonaccountable individuals and NGOs deem unacceptable. ⚠️The DSA does not protect democracy. It undermines the free exchange of ideas and information on which democracy depends. Find out more in our video 👇 Media
+
+🔗 [View original post](https://x.com/ADFIntl/status/2120171456411717968)
 
 ---
 
