@@ -2,7 +2,7 @@
 
 ## 📅 November 09, 2026
 
-> 35 post(s) archived.
+> 38 post(s) archived.
 
 ---
 
@@ -19,6 +19,30 @@
 > Tesla VP of Vehicle Engineering Lars Moravy just put Tesla&apos;s extraordinary manufacturing scale into perspective during his conversation with Jay Leno “You know, a lot of people don&apos;t realize that Tesla is the largest selling luxury vehicle in the world now” And the numbers behind Tesla&apos;s growth are absolutely staggering Tesla has now manufactured over 10 MILLION electric vehicles worldwide Just look at the progress: • March 2020: 1 million vehicles • July 2026: 10 million vehicles Tesla went from its first million vehicles to 10 million in just six years That&apos;s a tenfold increase in cumulative production When Tesla crossed the milestone, the company celebrated: “Produced our 10 millionth Tesla globally at Fremont Factory this week!” From proving electric vehicles could compete with combustion-engine cars to manufacturing millions of them across factories in the United States, China, and Germany Media Jay Leno just experienced Tesla FSD (Supervised) in the new Model Y L, with Tesla&apos;s Lars Moravy and Franz von Holzhausen riding along And one moment during the drive was absolutely incredible “We got it on self-driving mode! I&apos;m not touching anything” Then an ambulance approache…
 
 🔗 [View original post](https://x.com/XFreeze/status/2119885768097513664)
+
+---
+
+### 🕐 19:36 UTC · @elonmusk
+
+> BREAKING: Starlink brings high-speed internet to 196 locations in Vietnam where mobile coverage is weak or unavailable 🇻🇳 Vietnam’s Ministry of Science and Technology says 154 villages and 42 public facilities were connected by Nov. 1. The rollout is part of a pledge to provide 1,000 kits to schools, hospitals and rural communities. At Nặm Tốc preschool, there’s no mobile signal and the nearest cell tower is 9 km away. With Starlink, teachers can now bring online learning materials into the classroom for their 10 students and reach parents in an emergency. Media
+
+🔗 [View original post](https://x.com/cb_doge/status/2119876821542150551)
+
+---
+
+### 🕐 19:17 UTC · @elonmusk
+
+> We&apos;ve reset weekly limits for all Grok Bot users. Enjoy!
+
+🔗 [View original post](https://x.com/bot/status/2119871982946971659)
+
+---
+
+### 🕐 17:48 UTC · @elonmusk
+
+> Jay Leno just tried @Tesla&apos;s FSD (Supervised) for the first time. The Model Y L pulled over by itself when an ambulance with its sirens on drove by. &quot;We got it on self-driving mode! I&apos;m not touching anything.&quot; Jay finally tried FSD! haha (via new episode of Jay Leno&apos;s Garage) Media
+
+🔗 [View original post](https://x.com/SawyerMerritt/status/2119849526760747146)
 
 ---
 

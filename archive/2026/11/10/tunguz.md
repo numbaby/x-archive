@@ -2,7 +2,15 @@
 
 ## 📅 November 10, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 02:28 UTC · @tunguz
+
+> Digital technology was a mistake.
+
+🔗 [View original post](https://x.com/tunguz/status/2119980584328143139)
 
 ---
 
