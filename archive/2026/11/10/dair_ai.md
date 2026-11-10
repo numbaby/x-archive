@@ -2,7 +2,15 @@
 
 ## 📅 November 10, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 14:59 UTC · @dair_ai
+
+> Explaining an idea is how you learn it. I see this all the time when teaching AI. The gaps show up when students try to explain in their own words. Gakku turns this into an AI learning coach for kids. It asks and challenges, while the kid does the speaking, deciding, and writing. Congrats on the $51M raise, @gakkuai. We’ve raised $51 million to rethink how kids learn with AI. Our bet: conversational learning. Language isn’t just how we communicate. It’s how we think. That’s the idea behind Gakku, our AI learning coach. The learning process itself is the product—not something to automate away…
+
+🔗 [View original post](https://x.com/omarsar0/status/2120169408618221932)
 
 ---
 
