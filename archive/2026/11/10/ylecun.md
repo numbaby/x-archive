@@ -1,0 +1,27 @@
+# 🐦 @ylecun
+
+## 📅 November 10, 2026
+
+> 2 post(s) archived.
+
+---
+
+### 🕐 03:34 UTC · @ylecun
+
+> Elon Musk’s $500 million couldn’t swing the midterms for Republicans in Congress when all they did was sit in their hands as Trump corruptly served himself. https://trib.al/w90Ks3l
+
+![Elon Musk’s $500 million couldn’t swing the midterms for Republicans in Congress when all they did was sit in their hands as Trump corruptly served himself. https://trib.al/w90Ks3l](../../../../assets/images/2026/11/10/2119997061579858180-1.jpg)
+
+🔗 [View original post](https://x.com/KenRoth/status/2119997061579858180)
+
+---
+
+### 🕐 01:44 UTC · @ylecun
+
+> Yann LeCun was right the entire time. And generative AI might be a dead end. LeCun has argued that generating every pixel spends too much compute on details instead of learning how the world works. His alternative is JEPA, short for Joint-Embedding Predictive Architecture. It predicts what happens next using compressed representations, rather than recreating an image pixel by pixel. One challenge is “representation collapse”: different inputs end up with nearly identical representations, leaving the model with little useful information. Researchers behind LeWorldModel, or LeWM, use a mathematical regularizer to help prevent this. It encourages those representations to follow a Gaussian distribution, simplifying the training setup. LeWM has 15 million parameters and trains on one GPU in a few hours. The researchers report planning up to 48× faster than the foundation world models they compared against. Their experiments also demonstrate physical prediction and detection of impossible events. That does not establish complete understanding of physics or prove generative AI is a dead end. It shows that a small model can learn useful patterns for prediction and planning without generating every pixel.
+
+![Yann LeCun was right the entire time. And generative AI might be a dead end. LeCun has argued that generating every pixel spends too much compute on details instead of learning how the world works. Hi](../../../../assets/images/2026/11/10/2119969401180942564-1.jpg)
+
+🔗 [View original post](https://x.com/simplifyinAI/status/2119969401180942564)
+
+---
