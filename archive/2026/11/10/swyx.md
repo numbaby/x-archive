@@ -2,7 +2,17 @@
 
 ## 📅 November 10, 2026
 
-> 10 post(s) archived.
+> 11 post(s) archived.
+
+---
+
+### 🕐 21:00 UTC · @swyx
+
+> I finally asked @zenorocha, the CEO of AEO, why tf my agents keep choosing Resend even when I don&apos;t want them to 🆕 Designing for Agents Agent Experience is one of the most hotly contested topics of 2026, and increasingly critical for devtools/infra companies to get right. @ZenoRocha has been writing and thinking about this since 2024 and came on the pod to spill @Resend secrets! https://y…
+
+![I finally asked @zenorocha, the CEO of AEO, why tf my agents keep choosing Resend even when I don&apos;t want them to 🆕 Designing for Agents Agent Experience is one of the most hotly contested topics ](../../../../assets/images/2026/11/10/2120260228902264872-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2120260228902264872)
 
 ---
 

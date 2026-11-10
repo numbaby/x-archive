@@ -2,7 +2,25 @@
 
 ## 📅 November 10, 2026
 
-> 4 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 20:57 UTC · @simonw
+
+> The Gemini 4 Carbon pelican is still pretty cute
+
+![The Gemini 4 Carbon pelican is still pretty cute](../../../../assets/images/2026/11/10/2120259652093112614-1.jpg)
+
+🔗 [View original post](https://x.com/simonw/status/2120259652093112614)
+
+---
+
+### 🕐 20:56 UTC · @simonw
+
+> For comparison, here&apos;s what I got for the same prompt against Claude Fable 5.2 yesterday https://simonwillison.net/2026/Nov/10/yonkers-rises/ Media
+
+🔗 [View original post](https://x.com/simonw/status/2120259268364718331)
 
 ---
 

@@ -2,7 +2,15 @@
 
 ## 📅 November 10, 2026
 
-> 12 post(s) archived.
+> 13 post(s) archived.
+
+---
+
+### 🕐 21:22 UTC · @_akhaliq
+
+> MiniMax-H3-Image in 2 steps, realtime pDMD LoRA on MiniMax&apos;s 33B image model realtime editing on ZeroGPU LoRA + one-file ComfyUI checkpoint: https://huggingface.co/akhaliq/minimax-h3-image-pdmd-2step app: https://huggingface.co/spaces/akhaliq/minimax-h3-image-2step Media
+
+🔗 [View original post](https://x.com/_akhaliq/status/2120265977657168218)
 
 ---
 
