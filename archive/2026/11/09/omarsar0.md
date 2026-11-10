@@ -2,7 +2,7 @@
 
 ## 📅 November 09, 2026
 
-> 11 post(s) archived.
+> 12 post(s) archived.
 
 ---
 
@@ -11,6 +11,14 @@
 > If you&apos;ve followed the JEPA line of work, LingBot-Touch is worth a read: a shared Transformer over tokens from heterogeneous tactile sensors, masked latent prediction, and a comparison against MAE and VAE objectives on the same data. Per the paper, latent prediction won. What changes when robots can feel—not just see? 🤖✋ Meet LingBot-Touch, our open-source tactile foundation model towards dexterous manipulation, pretrained on nearly 5,000 hours of real tactile data. Through unified heterogeneous tactile modeling, LingBot-Touch supports transfer…
 
 🔗 [View original post](https://x.com/omarsar0/status/2119941151516209594)
+
+---
+
+### 🕐 22:02 UTC · @omarsar0
+
+> Jensen is irreplaceable for America’s AI leadership. In 5G, the US had to play defense against China’s Huawei. In AI, it’s the opposite. NVIDIA leads, and now China is trying to end its reliance on NVIDIA. Jensen laid the foundation for modern AI 20 years ago. By the time the world realized what AI was, the entire ecosystem was already built on NVIDIA. And this goes beyond just hardware. In 2006, NVIDIA put CUDA software on regular gaming cards so they could do more than graphics. Investors called it a mistake, until AlexNet proved it was the future. Competitors might clone hardware, but they can’t just replace 20 years of code, tools and developer knowledge. The board’s investigation must establish the facts. And as it does, we should remember what Jensen has built. As he put it, America should have “the first, the most, and the best.” Few people have done more to make that true.
+
+🔗 [View original post](https://x.com/alexmashrabov/status/2119913599573594299)
 
 ---
 
