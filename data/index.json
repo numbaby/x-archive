@@ -150294,5 +150294,18 @@
         "source_url": "https://pbs.twimg.com/media/HWvA91bXkAAah7u.jpg?name=orig"
       }
     ]
+  },
+  "2120006275836842239": {
+    "account": "emollick",
+    "date": "2026-11-10",
+    "file": "data/posts/2026/11/2026-11-10.jsonl",
+    "fingerprint": "c7f3427730675ced4ce287837b078e217d8d2f5379a66071fb0022772cf14c72",
+    "media": [
+      {
+        "local_path": "assets/images/2026/11/10/2120006275836842239-1.jpg",
+        "sha256": "caab377c9cf3c5c8a198b9105ec180a72dcd95dfc8e0fa7ea400f47560415bab",
+        "source_url": "https://pbs.twimg.com/card_img/2120004396037648384/m2TvKYjN?format=jpg&name=600x314"
+      }
+    ]
   }
 }
