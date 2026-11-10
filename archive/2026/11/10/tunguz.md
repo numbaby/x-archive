@@ -2,7 +2,25 @@
 
 ## 📅 November 10, 2026
 
-> 15 post(s) archived.
+> 17 post(s) archived.
+
+---
+
+### 🕐 20:11 UTC · @tunguz
+
+> She&apos;s a ten but she is a slavic gold digger.
+
+🔗 [View original post](https://x.com/tunguz/status/2120248094986223708)
+
+---
+
+### 🕐 19:56 UTC · @tunguz
+
+> Ah yes, time to read some human math before it’s all over.
+
+![Ah yes, time to read some human math before it’s all over.](../../../../assets/images/2026/11/10/2120244174691909640-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2120244174691909640)
 
 ---
 

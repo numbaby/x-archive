@@ -2,7 +2,27 @@
 
 ## 📅 November 10, 2026
 
-> 7 post(s) archived.
+> 10 post(s) archived.
+
+---
+
+### 🕐 20:55 UTC · @swyx
+
+> prediction: tech jesus in 10,000 years I have one question… actually, a LOT of questions. 😭
+
+![prediction: tech jesus in 10,000 years I have one question… actually, a LOT of questions. 😭](../../../../assets/images/2026/11/10/2120259002324140192-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2120259002324140192)
+
+---
+
+### 🕐 20:25 UTC · @swyx
+
+> 🆕 Designing for Agents Agent Experience is one of the most hotly contested topics of 2026, and increasingly critical for devtools/infra companies to get right. @ZenoRocha has been writing and thinking about this since 2024 and came on the pod to spill @Resend secrets! https://youtu.be/bdIoODXsu8k Key themes include: - Answer Engine Optimization (AEO): how AI models like Claude Code recommend email services and how product teams can design for these agents - Deliverability and Trust: The discussion delves into the complexities of getting mail into the inbox, including handling bursts, managing Gmail throttling, and the importance of domain reputation and anti-abuse measures - Developer Experience &amp; MCP: A major focus is on building for both humans and machines. Resend utilizes the Model Context Protocol (MCP) to provide agents with over 80 named tools, allowing them to autonomously set up accounts, check pricing in Markdown, and send emails - Technical Infrastructure: React Email as a wedge for adoption and but Resend&apos;s commitment to owning the mail stack, including managing complex DNS hurdles and providing enterprise-level visibility
+
+![🆕 Designing for Agents Agent Experience is one of the most hotly contested topics of 2026, and increasingly critical for devtools/infra companies to get right. @ZenoRocha has been writing and thinking](../../../../assets/images/2026/11/10/2120251400831816068-1.jpg)
+
+🔗 [View original post](https://x.com/latentspacepod/status/2120251400831816068)
 
 ---
 
@@ -11,6 +31,16 @@
 > &quot;If you&apos;re coding locally, stop. You really need to be coding with a cloud agent.&quot; notes of @adamwathan and @ScottWu46 in this one My @aiDotEngineer talk is live. This is how we build with agents at @HelloUntangle https://youtu.be/BTtyguoPvBU?si=m_vQcpWI4mMcOdd2 Been great iterating fast on this with @DaleSpoonemore and @DevinAI
 
 🔗 [View original post](https://x.com/swyx/status/2120241063193706960)
+
+---
+
+### 🕐 18:22 UTC · @swyx
+
+> packed house for @ross_cefalu ‘s walk through of my favorite new @factory feature - Workstreams - letting an orchestrator manage a swarm of agents + scheduled automations and integrations to do massive, long horizon stuff (Also cool - workstreams is the product substrate we’re landing a ton of cool ideas from @humanlayer_dev into in the next few weeks, and it’s crazy how accidentally aligned me and @0xblacklight were with @EnoReyes and @matanSF )
+
+![packed house for @ross_cefalu ‘s walk through of my favorite new @factory feature - Workstreams - letting an orchestrator manage a swarm of agents + scheduled automations and integrations to do massiv](../../../../assets/images/2026/11/10/2120220674543476800-1.jpg)
+
+🔗 [View original post](https://x.com/dexhorthy/status/2120220674543476800)
 
 ---
 

@@ -2,7 +2,15 @@
 
 ## 📅 November 10, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 20:55 UTC · @simonw
+
+> Gemini 4 Carbon is good at pelican SVGs, but that&apos;s nothing new for Gemini &quot;Make a three js animation where yonkers stands up as a big mech (cool stand up motion) and stomps around manhattan and queens and Brooklyn, use openstreetmap mapping data&quot; https://simonwillison.net/2026/Nov/10/llm-gemini/ Media
+
+🔗 [View original post](https://x.com/simonw/status/2120258951594037732)
 
 ---
 

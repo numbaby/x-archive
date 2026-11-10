@@ -2,7 +2,17 @@
 
 ## 📅 November 10, 2026
 
-> 5 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 20:35 UTC · @dair_ai
+
+> Great paper from Meta with practical tips for tuning LLM judges. This one is on keeping LLM code judges calibrated and tested on a deployed coding agent. LLM judges often decide whether an agent&apos;s code change is good. But their prompts go stale every time the agent changes. AutoRefine fixes the prompt using signals teams already have, like whether tests passed and whether the change got merged. On Meta&apos;s deployed agent, agreement between the judge and real outcomes rose from 0.16 to 0.51. https://arxiv.org/abs/2611.09291 Chat with Paper: https://academy.dair.ai/papers/autorefine-auto-calibrating-code-judges-from-workflow-outcomes-2611.09291
+
+![Great paper from Meta with practical tips for tuning LLM judges. This one is on keeping LLM code judges calibrated and tested on a deployed coding agent. LLM judges often decide whether an agent&apos;](../../../../assets/images/2026/11/10/2120253922933956644-1.png)
+
+🔗 [View original post](https://x.com/omarsar0/status/2120253922933956644)
 
 ---
 

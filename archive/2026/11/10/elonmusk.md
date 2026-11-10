@@ -2,7 +2,31 @@
 
 ## 📅 November 10, 2026
 
-> 9 post(s) archived.
+> 12 post(s) archived.
+
+---
+
+### 🕐 19:14 UTC · @elonmusk
+
+> SpaceX is making moves to become the first AI carrier $SPCX • Current cell towers are still mostly “dumb” radios. The Qualcomm deal is about making them AI-native. • Edge inference at the tower, like an updated Akamai for AI • Starlink Direct-to-Cell and V3 satellites alongside the terrestrial build Qualcomm’s CEO said the SpaceX agreement is finalized — not an engagement. SpaceX will build the base stations. Qualcomm supplies the silicon and the RAN accelerator for a terrestrial network he called one of the largest 5G deployments in the United States, with an AI-native architecture. Media
+
+🔗 [View original post](https://x.com/nextbigfuture/status/2120233719491612940)
+
+---
+
+### 🕐 17:40 UTC · @elonmusk
+
+> Here is SpaceX&apos;s new @Starlink Mini 2 with quick-swap battery. You can get up to 4.5 hours of use on a single charge. This means you can get internet in the middle of nowhere and not have to plug anything in. Media SpaceX has just officially unveiled its next-generation @Starlink Mini 2, which now comes with a built-in battery for the first time. • Up to 4.5 hours of connectivity on a single charge with the quick-swap battery (or plug in USB-C). • Weight: 3.53 Ibs (1.6 kg) including batter…
+
+🔗 [View original post](https://x.com/SawyerMerritt/status/2120210080041963910)
+
+---
+
+### 🕐 16:29 UTC · @elonmusk
+
+> CLAUDIA, Ship 42, Starbase. Do you copy? No tower has ever caught a ship coming back from orbit. Starship Flight 15 will try, no earlier than Nov 13. Good luck, @SpaceX @elonmusk 🚀 🎬 SLOPCORE music video AI Slop SI Media
+
+🔗 [View original post](https://x.com/NURM_Dima/status/2120192013848965285)
 
 ---
 

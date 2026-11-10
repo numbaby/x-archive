@@ -2,7 +2,35 @@
 
 ## 📅 November 10, 2026
 
-> 4 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 20:17 UTC · @emollick
+
+> The graphic style is fun and the UX is surprisingly good.
+
+![The graphic style is fun and the UX is surprisingly good.](../../../../assets/images/2026/11/10/2120249500878987647-1.jpg)
+
+🔗 [View original post](https://x.com/emollick/status/2120249500878987647)
+
+---
+
+### 🕐 20:13 UTC · @emollick
+
+> Another weird AI game project: I gave Claude Fable 5.2 a vague paragraph asking for a fantasy transport sim with heart. Then I left it to a bunch of agents arguing about art, lore and jokes. Now here is Dread &amp; District, where good logistics defeats evil. https://dread-and-district.netlify.app Media
+
+🔗 [View original post](https://x.com/emollick/status/2120248525254742318)
+
+---
+
+### 🕐 19:14 UTC · @emollick
+
+> One of the most significant things about Gemini 4 Carbon is that it is showing that Google is back in the race of frontier models, rapid releases and rapid improvement.
+
+![One of the most significant things about Gemini 4 Carbon is that it is showing that Google is back in the race of frontier models, rapid releases and rapid improvement.](../../../../assets/images/2026/11/10/2120233659793854926-1.jpg)
+
+🔗 [View original post](https://x.com/emollick/status/2120233659793854926)
 
 ---
 
