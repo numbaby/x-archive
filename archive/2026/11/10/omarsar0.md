@@ -2,7 +2,15 @@
 
 ## 📅 November 10, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 13:11 UTC · @omarsar0
+
+> I&apos;m bullish on new architectures for long-running agents. But long context needs to be practical to serve. Sugar Glider is a new family of LLM architectures from @i14labs built for long contexts. It keeps a fixed-size KV cache as context grows. At one million tokens, i14 reports up to 32x more requests per server than its baseline model. What does this mean in practice? Your agents could keep much longer histories without constantly trimming or summarizing them. And you can choose that memory size at deployment without retraining. Frontier performance at a fraction of the compute. Today at @i14labs we’re launching Sugar Glider, our new family of LLM architectures! Join the waitlist for early access: http://i14.ai Sugar Glider delivers a new Pareto frontier: extreme memory and compute efficiency whilst mai…
+
+🔗 [View original post](https://x.com/omarsar0/status/2120142218316964143)
 
 ---
 
