@@ -2,7 +2,33 @@
 
 ## 📅 November 10, 2026
 
-> 5 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 18:11 UTC · @AiEvolutio58513
+
+> Someone put a voice agent on a business: 1. Gave the website to Fish Agent 2. It built the agent in &lt;15 seconds 3. Called it and asked several questions It answered all of them in a much better way than a typical front desk would. Go make one: https://s.fish.audio/z8ctge Media Introducing @FishAudio Live 3: a full-duplex voice model that listens, says &quot;mm-hmm,&quot; and knows when to shut up. Enterprise? Book a demo for your free custom agent: https://s.fish.audio/vxhgs6 Reply with your use case - we&apos;ll build it free for the first 1,000 people.
+
+🔗 [View original post](https://x.com/ecomchasedimond/status/2120217737494704520)
+
+---
+
+### 🕐 18:04 UTC · @AiEvolutio58513
+
+> Prediction: “what-if accuracy” becomes a standard reported metric for world models, and labs that publish their full-plan rate first get the credibility. IFM just did. Introducing PAN 2: an open foundation world model for physical intelligence. A language model predicts the next word. PAN 2 predicts the next world: what happens after each action, grounded in time, physics and space. Towards AI that simulates “what if?” before it acts. More det…
+
+🔗 [View original post](https://x.com/ecomchasedimond/status/2120216156460220853)
+
+---
+
+### 🕐 17:48 UTC · @AiEvolutio58513
+
+> Next week, @jimmykim and I are doing a free training to help you catch what&apos;s broken in your BFCM emails before they go out. Dead links, codes that don&apos;t apply, segments sending to the wrong people. We&apos;ll show you how we find all of it. If you send email for a brand, you&apos;ll want to be there. Tuesday, Nov 17 at 9am PT. Take 30 seconds and grab your spot: https://us02web.zoom.us/webinar/register/9017925114098/WN_LbJxFWPDTMqlPFof8RI2OA#/registration
+
+![Next week, @jimmykim and I are doing a free training to help you catch what&apos;s broken in your BFCM emails before they go out. Dead links, codes that don&apos;t apply, segments sending to the wrong](../../../../assets/images/2026/11/10/2120212033945919806-1.jpg)
+
+🔗 [View original post](https://x.com/ecomchasedimond/status/2120212033945919806)
 
 ---
 

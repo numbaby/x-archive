@@ -2,7 +2,15 @@
 
 ## 📅 November 10, 2026
 
-> 6 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 19:43 UTC · @swyx
+
+> &quot;If you&apos;re coding locally, stop. You really need to be coding with a cloud agent.&quot; notes of @adamwathan and @ScottWu46 in this one My @aiDotEngineer talk is live. This is how we build with agents at @HelloUntangle https://youtu.be/BTtyguoPvBU?si=m_vQcpWI4mMcOdd2 Been great iterating fast on this with @DaleSpoonemore and @DevinAI
+
+🔗 [View original post](https://x.com/swyx/status/2120241063193706960)
 
 ---
 

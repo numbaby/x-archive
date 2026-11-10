@@ -2,7 +2,39 @@
 
 ## 📅 November 10, 2026
 
-> 11 post(s) archived.
+> 15 post(s) archived.
+
+---
+
+### 🕐 19:48 UTC · @tunguz
+
+> Brutal Grok is a fucking assassin
+
+🔗 [View original post](https://x.com/tunguz/status/2120242200873197942)
+
+---
+
+### 🕐 19:45 UTC · @tunguz
+
+> Yay, finally! I&apos;ve been waiting for this one for years! Meet the Ring Drone Cam. A flying indoor security camera that delivers proactive wall-to-wall visibility, flying custom routes to the spots a fixed camera can&apos;t reach. Check out the details: https://www.amazon.com/dp/B0H1PBKM3X
+
+🔗 [View original post](https://x.com/tunguz/status/2120241557219762186)
+
+---
+
+### 🕐 19:31 UTC · @tunguz
+
+> Men find yourself a woman who doesn&apos;t just love you for your GPUs.
+
+🔗 [View original post](https://x.com/tunguz/status/2120237901740982507)
+
+---
+
+### 🕐 19:08 UTC · @tunguz
+
+> Whoa, this is an incredible project! Introducing NovaAtom-Lite, an all-atom structure prediction model for drug discovery. It predicts the structures of proteins, nucleic acids, and the molecules they bind, including how they fit together. NovaAtom-Lite outperforms both IsoDDE and AlphaFold 3 on FoldBench antibody–…
+
+🔗 [View original post](https://x.com/tunguz/status/2120232247810760894)
 
 ---
 
