@@ -2,7 +2,17 @@
 
 ## 📅 November 10, 2026
 
-> 12 post(s) archived.
+> 13 post(s) archived.
+
+---
+
+### 🕐 21:15 UTC · @elonmusk
+
+> 🚨 BREAKING: The FCC accepts SpaceX&apos;s application to acquire nationwide 800 MHz spectrum Verizon, AT&amp;T and T-Mobile all told SpaceX &quot;NO&quot; when it asked to use their networks. SpaceX is building its own: This deal with Grain Management secures 546 paired licenses covering ~100% of the U.S. population, on 800 MHz low band that penetrates straight through walls and already works with almost every smartphone. Once it closes, SpaceX will hold up to 89 MHz of spectrum in every market it touches. Elon Musk: &quot;This is the last critical piece of the spectrum puzzle needed for SpaceX to provide complete phone coverage in America.&quot; ITS HAPPENING
+
+![🚨 BREAKING: The FCC accepts SpaceX&apos;s application to acquire nationwide 800 MHz spectrum Verizon, AT&amp;T and T-Mobile all told SpaceX &quot;NO&quot; when it asked to use their networks. SpaceX i](../../../../assets/images/2026/11/10/2120264216896753767-1.jpg)
+
+🔗 [View original post](https://x.com/ns123abc/status/2120264216896753767)
 
 ---
 

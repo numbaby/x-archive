@@ -2,7 +2,17 @@
 
 ## 📅 November 10, 2026
 
-> 13 post(s) archived.
+> 14 post(s) archived.
+
+---
+
+### 🕐 21:44 UTC · @_akhaliq
+
+> This is nuts! That cool MiniMax-H3-Image model already has a 2-step LoRA! - rank-128 - 1.4x faster than stock 6-step - realtime ~1 MP previews in 1–1.5 s! https://huggingface.co/akhaliq/minimax-h3-image-pdmd-2step Media 4K image generation in 10 seconds! ⚡ Meet MiniMax H3-Image. 16 million pixel resolution. Stunning realism. Precise prompt following &amp; editing. Up to 16 reference images. All in 10 seconds. And it&apos;s open-weight. 🚀 Available now via our API, MiniMax Code, and Hailuo AI — with 50%…
+
+![This is nuts! That cool MiniMax-H3-Image model already has a 2-step LoRA! - rank-128 - 1.4x faster than stock 6-step - realtime ~1 MP previews in 1–1.5 s! https://huggingface.co/akhaliq/minimax-h3-ima](../../../../assets/images/2026/11/10/2120271492739219668-1.jpg)
+
+🔗 [View original post](https://x.com/wildmindai/status/2120271492739219668)
 
 ---
 
