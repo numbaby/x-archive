@@ -2,7 +2,25 @@
 
 ## 📅 November 10, 2026
 
-> 2 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 16:25 UTC · @ylecun
+
+> Getting too close to Trump was a mistake – how could Silicon Valley have gotten (US) / got (UK) it so wrong? Read the full article: https://www.theatlantic.com/ideas/2026/11/silicon-valley-trump-administration/689360/?gift=-B584Urg77e7aK197zZB-vvjCjNBVVHxJwTp1woUNLI&amp;utm_source=copy-link&amp;utm_medium=social&amp;utm_campaign=share
+
+![Getting too close to Trump was a mistake – how could Silicon Valley have gotten (US) / got (UK) it so wrong? Read the full article: https://www.theatlantic.com/ideas/2026/11/silicon-valley-trump-admin](../../../../assets/images/2026/11/10/2120191140259418604-1.jpg)
+
+🔗 [View original post](https://x.com/nickclegg/status/2120191140259418604)
+
+---
+
+### 🕐 13:59 UTC · @ylecun
+
+> @ylecun @TimDarcet @gabriberton in a nutshell Media
+
+🔗 [View original post](https://x.com/jbhuang0604/status/2120154494915006672)
 
 ---
 
