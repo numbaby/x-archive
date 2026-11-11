@@ -2,7 +2,17 @@
 
 ## 📅 November 10, 2026
 
-> 11 post(s) archived.
+> 13 post(s) archived.
+
+---
+
+### 🕐 21:38 UTC · @swyx
+
+> Thanks for everyone that showed up to my talk and sorry for the 170 slides 😂 AI is like working on shifting sands with a bottleneck that moves @TheAhmadOsman
+
+![Thanks for everyone that showed up to my talk and sorry for the 170 slides 😂 AI is like working on shifting sands with a bottleneck that moves @TheAhmadOsman](../../../../assets/images/2026/11/10/2120269968101290208-1.jpg)
+
+🔗 [View original post](https://x.com/TheAhmadOsman/status/2120269968101290208)
 
 ---
 
@@ -41,6 +51,16 @@
 > &quot;If you&apos;re coding locally, stop. You really need to be coding with a cloud agent.&quot; notes of @adamwathan and @ScottWu46 in this one My @aiDotEngineer talk is live. This is how we build with agents at @HelloUntangle https://youtu.be/BTtyguoPvBU?si=m_vQcpWI4mMcOdd2 Been great iterating fast on this with @DaleSpoonemore and @DevinAI
 
 🔗 [View original post](https://x.com/swyx/status/2120241063193706960)
+
+---
+
+### 🕐 18:27 UTC · @swyx
+
+> giving a talk at @aiDotEngineer in a few hours on my current favorite subject: proactive agents! blog/slides coming soon 🤓
+
+![giving a talk at @aiDotEngineer in a few hours on my current favorite subject: proactive agents! blog/slides coming soon 🤓](../../../../assets/images/2026/11/10/2120221842799730981-1.jpg)
+
+🔗 [View original post](https://x.com/sydneyrunkle/status/2120221842799730981)
 
 ---
 
