@@ -2,7 +2,93 @@
 
 ## 📅 November 11, 2026
 
-> 7 post(s) archived.
+> 16 post(s) archived.
+
+---
+
+### 🕐 22:12 UTC · @swyx
+
+> this person is a real former employee that we parted ways with that email domain is not one we use TIL you can report phishing directly from gmail using the three dot menu warning to other fans of @swyx this email account is trying to fake-book folks on podcasts, likely as a scheduling-link phishing scam. ty friend for fielding my &quot;this looks sus&quot; text 😎
+
+🔗 [View original post](https://x.com/swyx/status/2120640864787841513)
+
+---
+
+### 🕐 22:11 UTC · @swyx
+
+> next on stream - @CompleteSkeptic and @typesafeai take over for Jev Day! standing room only for @poteto’s keynote
+
+![next on stream - @CompleteSkeptic and @typesafeai take over for Jev Day! standing room only for @poteto’s keynote](../../../../assets/images/2026/11/11/2120640558184206508-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2120640558184206508)
+
+---
+
+### 🕐 18:19 UTC · @swyx
+
+> standing room only for @poteto’s keynote going live in 10mins! https://www.youtube.com/watch?v=ZZ19zhYnDKY
+
+![standing room only for @poteto’s keynote going live in 10mins! https://www.youtube.com/watch?v=ZZ19zhYnDKY](../../../../assets/images/2026/11/11/2120582147107078356-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2120582147107078356)
+
+---
+
+### 🕐 17:32 UTC · @swyx
+
+> @swyx amazing episode with @joinHandshake. Really practical behind the scenes look at the data industry and I think there’s a lot of gold in here. Go listen if you have a few mins today https://share.snipd.com/episode/9bc342b0-fe16-440a-ac60-35b86106db93
+
+![@swyx amazing episode with @joinHandshake. Really practical behind the scenes look at the data industry and I think there’s a lot of gold in here. Go listen if you have a few mins today https://share.](../../../../assets/images/2026/11/11/2120570469157920830-1.jpg)
+
+🔗 [View original post](https://x.com/DBredvick/status/2120570469157920830)
+
+---
+
+### 🕐 17:24 UTC · @swyx
+
+> These awesome ladies are killing it at @aiDotEngineer code! 👩‍💻 IIRC this is the first all female keynote start at AIE? @swyx ? Back to back: @nserrino - 10X inference @lydiahallie - @claudeai best practices @michellechen - Cloudflare being a neolab @poteto - poteto poteto The Code Summit livestream starts in 30 minutes. @nserrino (@gimletlabs) on 10x faster AI. @lydiahallie (@AnthropicAI) on Claude Code best practices. 9 AM PT. Watch free: https://www.youtube.com/live/ZZ19zhYnDKY Presented by @GoogleDeepMind.
+
+![These awesome ladies are killing it at @aiDotEngineer code! 👩‍💻 IIRC this is the first all female keynote start at AIE? @swyx ? Back to back: @nserrino - 10X inference @lydiahallie - @claudeai best pr](../../../../assets/images/2026/11/11/2120568343480713360-1.jpg)
+
+🔗 [View original post](https://x.com/altryne/status/2120568343480713360)
+
+---
+
+### 🕐 17:20 UTC · @swyx
+
+> https://www.youtube.com/live/ZZ19zhYnDKY
+
+![https://www.youtube.com/live/ZZ19zhYnDKY](../../../../assets/images/2026/11/11/2120567361355042957-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2120567361355042957)
+
+---
+
+### 🕐 17:00 UTC · @swyx
+
+> livestream starting now!! Media Media The Code Summit livestream starts in 30 minutes. @nserrino (@gimletlabs) on 10x faster AI. @lydiahallie (@AnthropicAI) on Claude Code best practices. 9 AM PT. Watch free: https://www.youtube.com/live/ZZ19zhYnDKY Presented by @GoogleDeepMind.
+
+🔗 [View original post](https://x.com/swyx/status/2120562425015791625)
+
+---
+
+### 🕐 16:36 UTC · @swyx
+
+> Come see @NinaLopatina and I at Build Lab @aiDotEngineer Code to one shot a Slack Agent or Web Wpp and compete for prizes (mac mini, GPU, beats headphones) We are also doing talks starting at 1:15pm this afternoon on how our factories that power build lab work, see you there!
+
+![Come see @NinaLopatina and I at Build Lab @aiDotEngineer Code to one shot a Slack Agent or Web Wpp and compete for prizes (mac mini, GPU, beats headphones) We are also doing talks starting at 1:15pm t](../../../../assets/images/2026/11/11/2120556274790420635-1.jpg)
+
+🔗 [View original post](https://x.com/vtahowe/status/2120556274790420635)
+
+---
+
+### 🕐 10:41 UTC · @swyx
+
+> https://www.youtube.com/watch?v=ZZ19zhYnDKY
+
+![https://www.youtube.com/watch?v=ZZ19zhYnDKY](../../../../assets/images/2026/11/11/2120567361355042957-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2120466878812536971)
 
 ---
 
