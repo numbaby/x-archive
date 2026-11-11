@@ -151263,6 +151263,13 @@
     "fingerprint": "5ab9715fafbd6495ad48c08af01d025b473b5c4cec9cffd95cd4882111045515",
     "media": []
   },
+  "2120314958902944103": {
+    "account": "swyx",
+    "date": "2026-11-11",
+    "file": "data/posts/2026/11/2026-11-11.jsonl",
+    "fingerprint": "d7041eb5396b347746e18ce75dadafacbd66714d0ea13a2173b0e956cf500314",
+    "media": []
+  },
   "2120329613180338336": {
     "account": "swyx",
     "date": "2026-11-11",
@@ -151321,6 +151328,19 @@
     "file": "data/posts/2026/11/2026-11-11.jsonl",
     "fingerprint": "f93c553369bc2faaaf1c89a06f21146974c63b3698391add11a9efb7b256d453",
     "media": []
+  },
+  "2120366089788076073": {
+    "account": "swyx",
+    "date": "2026-11-11",
+    "file": "data/posts/2026/11/2026-11-11.jsonl",
+    "fingerprint": "2c205cba68a23a32241a6c619c84facf13e9d04950d1d75c1792be3116287880",
+    "media": [
+      {
+        "local_path": "assets/images/2026/11/11/2120366089788076073-1.jpg",
+        "sha256": "3f7b6446dffcd78182dd955f0b66bb47ed499088c6f71d60f6c982906888d5d2",
+        "source_url": "https://pbs.twimg.com/media/HW0NfHPa8AA_GC8.jpg?name=orig"
+      }
+    ]
   },
   "2120372817720197357": {
     "account": "swyx",

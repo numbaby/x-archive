@@ -2,7 +2,7 @@
 
 ## 📅 November 11, 2026
 
-> 5 post(s) archived.
+> 7 post(s) archived.
 
 ---
 
@@ -21,6 +21,16 @@
 ![i had a preview of his keynote and you guys don’t know what youre in for in thursday. literally had to agree to embargo to get this talk on board (it is not the full story) tune in to the aie live str](../../../../assets/images/2026/11/11/2120372817720197357-1.jpg)
 
 🔗 [View original post](https://x.com/swyx/status/2120372817720197357)
+
+---
+
+### 🕐 04:00 UTC · @swyx
+
+> Appreciate everyone who showed up to my talk on Local AI at AIE Code today
+
+![Appreciate everyone who showed up to my talk on Local AI at AIE Code today](../../../../assets/images/2026/11/11/2120366089788076073-1.jpg)
+
+🔗 [View original post](https://x.com/TheAhmadOsman/status/2120366089788076073)
 
 ---
 
@@ -51,5 +61,13 @@
 ![Hot AGI pilled at @aiDotEngineer ! Say hi if you are here! And if you are not watch all the talks online - content is always incredible](../../../../assets/images/2026/11/11/2120329613180338336-1.jpg)
 
 🔗 [View original post](https://x.com/TheTuringPost/status/2120329613180338336)
+
+---
+
+### 🕐 00:37 UTC · @swyx
+
+> Just arrived at @aiDotEngineer and got my headshot taken at the @AnthropicAI booth! In case you can&apos;t make it, he&apos;s how that feels hahah! Keep a follow I&apos;ll be documenting my @aiDotEngineer journey till the live ThursdAI pod live from the floor here! Media
+
+🔗 [View original post](https://x.com/altryne/status/2120314958902944103)
 
 ---
