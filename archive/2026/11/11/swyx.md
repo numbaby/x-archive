@@ -2,7 +2,35 @@
 
 ## 📅 November 11, 2026
 
-> 2 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 04:41 UTC · @swyx
+
+> this is my engines thread https://x.com/joshpxyne/status/2120207063624327602?s=46 The internet is dead. We’ve raised $35M total funding led by Khosla and Hanabi to bring it to life. @coframe is a growth engine for your website/ads/more which tests, personalizes, &amp; learns 24/7. It’s working. Dropbox increased conversion by 158%. Replit, 410%. Cash App, 60%.
+
+🔗 [View original post](https://x.com/swyx/status/2120376333142569316)
+
+---
+
+### 🕐 04:27 UTC · @swyx
+
+> i had a preview of his keynote and you guys don’t know what youre in for in thursday. literally had to agree to embargo to get this talk on board (it is not the full story) tune in to the aie live stream 9am-6pm tmr and thursday!! I can&apos;t believe so few of you follow Melvin... He&apos;s the VP of post training here in Google DeepMind. He&apos;s very active internally making things happen, and a wonderful human who listens to everyone.
+
+![i had a preview of his keynote and you guys don’t know what youre in for in thursday. literally had to agree to embargo to get this talk on board (it is not the full story) tune in to the aie live str](../../../../assets/images/2026/11/11/2120372817720197357-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2120372817720197357)
+
+---
+
+### 🕐 03:05 UTC · @swyx
+
+> Early vibes at AIE are dope! Excited for tomorrow! As always an incredible group of folks, and knuckleheads @aiDotEngineer
+
+![Early vibes at AIE are dope! Excited for tomorrow! As always an incredible group of folks, and knuckleheads @aiDotEngineer](../../../../assets/images/2026/11/11/2120352142603243697-1.jpg)
+
+🔗 [View original post](https://x.com/altryne/status/2120352142603243697)
 
 ---
 
