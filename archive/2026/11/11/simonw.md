@@ -2,7 +2,15 @@
 
 ## 📅 November 11, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 22:25 UTC · @simonw
+
+> Huh, they&apos;ve changed the recommended prompt to &quot;You are the owner and long-term maintainer of this codebase, and its design is up to you.&quot; @simonw FYI they updated the prompt to: You are the owner and long-term maintainer of this codebase, and its design is up to you.
+
+🔗 [View original post](https://x.com/simonw/status/2120644009618215418)
 
 ---
 

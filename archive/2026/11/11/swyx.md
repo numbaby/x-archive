@@ -2,7 +2,7 @@
 
 ## 📅 November 11, 2026
 
-> 16 post(s) archived.
+> 17 post(s) archived.
 
 ---
 
@@ -21,6 +21,16 @@
 ![next on stream - @CompleteSkeptic and @typesafeai take over for Jev Day! standing room only for @poteto’s keynote](../../../../assets/images/2026/11/11/2120640558184206508-1.jpg)
 
 🔗 [View original post](https://x.com/swyx/status/2120640558184206508)
+
+---
+
+### 🕐 20:53 UTC · @swyx
+
+> Swyx gave me the “closing keynote” of AIE code, aka everyone is tired or flying out so if you’re not one of those please come to mine tomorrow at 5pm it’s called “the sweet side of the bitter lesson”
+
+![Swyx gave me the “closing keynote” of AIE code, aka everyone is tired or flying out so if you’re not one of those please come to mine tomorrow at 5pm it’s called “the sweet side of the bitter lesson”](../../../../assets/images/2026/11/11/2120620900785820143-1.jpg)
+
+🔗 [View original post](https://x.com/trq212/status/2120620900785820143)
 
 ---
 

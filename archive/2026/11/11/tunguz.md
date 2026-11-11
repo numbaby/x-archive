@@ -2,7 +2,31 @@
 
 ## 📅 November 11, 2026
 
-> 9 post(s) archived.
+> 12 post(s) archived.
+
+---
+
+### 🕐 22:58 UTC · @tunguz
+
+> This is sick. I am gonna use Gemini 4 Carbon now to simulate Mac Studio M5 inside an iPhone Duo. I used Gemini 4 Carbon to get Windows 11 running on my iPhone Duo! 💻 Unfold the screen and it&apos;s a pocket PC, including Antigravity running coding agents on my phone. This is the actual desktop ARM OS running locally with touch controls. Demo + repo below!
+
+🔗 [View original post](https://x.com/tunguz/status/2120652424100901186)
+
+---
+
+### 🕐 22:31 UTC · @tunguz
+
+> I just want to make it perfectly clear that I never had any relationship with Jensen.
+
+🔗 [View original post](https://x.com/tunguz/status/2120645681698529380)
+
+---
+
+### 🕐 22:30 UTC · @tunguz
+
+> one ant ---&gt; more ants
+
+🔗 [View original post](https://x.com/tunguz/status/2120645480820728256)
 
 ---
 
