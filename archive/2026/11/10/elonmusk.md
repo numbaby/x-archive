@@ -2,7 +2,15 @@
 
 ## 📅 November 10, 2026
 
-> 13 post(s) archived.
+> 14 post(s) archived.
+
+---
+
+### 🕐 23:47 UTC · @elonmusk
+
+> SpaceX has ordered 100 GW/year of HJT solar manufacturing equipment from Singulus in Germany. This is for Starmind to create a sentient sun. We have signed a major supply contract with SINGULUS to create a durable option for advanced solar cell manufacturing to support more than 100 GW of equipment as we accelerate the production of our Starmind satellites in Bastrop, Texas → https://www.singulus.com/2026/11/10/space…
+
+🔗 [View original post](https://x.com/elonmusk/status/2120302471210033426)
 
 ---
 

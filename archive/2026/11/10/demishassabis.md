@@ -2,7 +2,7 @@
 
 ## 📅 November 10, 2026
 
-> 5 post(s) archived.
+> 6 post(s) archived.
 
 ---
 
@@ -29,6 +29,16 @@
 ![more info here, happy building! https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/?utm_source=tw&amp;utm_medium=social&amp;utm_campaign=og](../../../../assets/images/2026/11/10/2120210299643208084-1.jpg)
 
 🔗 [View original post](https://x.com/demishassabis/status/2120210299643208084)
+
+---
+
+### 🕐 16:35 UTC · @demishassabis
+
+> Gemini 4 Carbon is now available in Cursor! At high effort, it&apos;s the top model on CursorBench at 60.4%
+
+![Gemini 4 Carbon is now available in Cursor! At high effort, it&apos;s the top model on CursorBench at 60.4%](../../../../assets/images/2026/11/10/2120193584670580857-1.jpg)
+
+🔗 [View original post](https://x.com/cursor_ai/status/2120193584670580857)
 
 ---
 
