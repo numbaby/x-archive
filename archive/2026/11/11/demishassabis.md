@@ -2,7 +2,25 @@
 
 ## 📅 November 11, 2026
 
-> 1 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 18:16 UTC · @demishassabis
+
+> Introducing Gemini Decision 1, our new frontier decision model in the Gemini API. It is $0.10 per 1M input tokens with no additional cost. With support for image, audio, video, and PDF natively, 256K context window, &amp; 1K questions. You can try it for free in the API!
+
+![Introducing Gemini Decision 1, our new frontier decision model in the Gemini API. It is $0.10 per 1M input tokens with no additional cost. With support for image, audio, video, and PDF natively, 256K ](../../../../assets/images/2026/11/11/2120581433639198885-1.jpg)
+
+🔗 [View original post](https://x.com/OfficialLoganK/status/2120581433639198885)
+
+---
+
+### 🕐 17:57 UTC · @demishassabis
+
+> i think i like carbon more than fable
+
+🔗 [View original post](https://x.com/willcb/status/2120576632771780834)
 
 ---
 

@@ -2,7 +2,17 @@
 
 ## 📅 November 11, 2026
 
-> 17 post(s) archived.
+> 18 post(s) archived.
+
+---
+
+### 🕐 23:17 UTC · @swyx
+
+> “Software is gonna be so fucking back.” .@CompleteSkeptic is full of bangers and you will have to listen to his full talk at @aiDotEngineer, but for now, here is our top-10 of his pearls: 1“We’ve been announcing AGI three months away for two years now.” Meanwhile, go outside San Francisco and a lot of the world looks unchanged. Where the fuck is all the automation? 2“You get Einstein 95% of the time, but Mr. Bean 5% of the time.” And if you can’t tell which is which, how are you supposed to automate anything? 3“I do believe RLHF is part of the problem.” His complaint: we optimized models for assistance, with a human checking the result, and then expected them to reliably do work on their own. 4“The bitterest lesson is doing the right task.” Diogo thinks that compute matters more than algorithms, data matters more than compute, and choosing the right task matters most. You get what you optimize for. 5“I think the world still has LLM Stockholm Syndrome.” We keep designing around the limitations of today’s models. Why is the best we can come up with still the same software, cheaper to write, with a chatbot on the side? 6“What if we can program with common sense, with intention, with human understanding?” Very passionate talk! He suggests: put intelligence into the software’s inner loop. What could we build if understanding intent became a building block we could actually rely on? 7“Real fucking engineering by people who care a lot about the end result.” Break tasks down, build stages you can verify, and actually manage state. Why should every agent rediscover the same codebase patterns over and over? 8“There’s an asymmetric advantage for people who are, like, bad actors and don’t give a shit.” That’s his explanation for slop: unreliable output is much easier to tolerate when everyone else pays the cost of reading, checking, and filtering it. 9“I call this software research. That’s not a joke.” Explore what software could become, including weird things with no obvious business case. Build something because you can. Maybe one percent of those ideas leads to something awesome. There is going to be SaaSopalooza! (I don’t know how to write this word but you got me) 10“Software is gonna be so fucking back.” The future he wants is one where “can we automate this?” becomes “how much work will it take?”
+
+![“Software is gonna be so fucking back.” .@CompleteSkeptic is full of bangers and you will have to listen to his full talk at @aiDotEngineer, but for now, here is our top-10 of his pearls: 1“We’ve been](../../../../assets/images/2026/11/11/2120657299249533135-1.jpg)
+
+🔗 [View original post](https://x.com/TheTuringPost/status/2120657299249533135)
 
 ---
 
