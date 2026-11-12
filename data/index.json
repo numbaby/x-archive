@@ -151462,6 +151462,13 @@
       }
     ]
   },
+  "2120467643320897667": {
+    "account": "elonmusk",
+    "date": "2026-11-11",
+    "file": "data/posts/2026/11/2026-11-11.jsonl",
+    "fingerprint": "aff6ce5d03ff08007e40d47f10d830362db1d0130a26b540c75045d18a6fadc3",
+    "media": []
+  },
   "2120471435722510542": {
     "account": "AiEvolutio58513",
     "date": "2026-11-11",
@@ -151881,6 +151888,13 @@
       }
     ]
   },
+  "2120594418231398677": {
+    "account": "elonmusk",
+    "date": "2026-11-11",
+    "file": "data/posts/2026/11/2026-11-11.jsonl",
+    "fingerprint": "01b8c4800f16707ff70a41deed839b2ae1d9c059b701c2ec89c3a4186106a0da",
+    "media": []
+  },
   "2120598306585989302": {
     "account": "elonmusk",
     "date": "2026-11-11",
@@ -152154,6 +152168,13 @@
       }
     ]
   },
+  "2120736167385788749": {
+    "account": "elonmusk",
+    "date": "2026-11-12",
+    "file": "data/posts/2026/11/2026-11-12.jsonl",
+    "fingerprint": "6321b215a5250eb764b1c43682ecdf1fd38d123e63b579aa409760f9537a4a06",
+    "media": []
+  },
   "2120737357582553132": {
     "account": "swyx",
     "date": "2026-11-12",
@@ -152192,6 +152213,27 @@
     "date": "2026-11-12",
     "file": "data/posts/2026/11/2026-11-12.jsonl",
     "fingerprint": "36108bd75bbfa3d7200238a3bcd678e9d0bbc268092a6a46c12b9179942c2202",
+    "media": []
+  },
+  "2120758305047904548": {
+    "account": "elonmusk",
+    "date": "2026-11-12",
+    "file": "data/posts/2026/11/2026-11-12.jsonl",
+    "fingerprint": "4ac0f30319c9fa750d8dfff8d488136ad7ea1384138a3efa7fca1427db5def1a",
+    "media": []
+  },
+  "2120760435813306525": {
+    "account": "elonmusk",
+    "date": "2026-11-12",
+    "file": "data/posts/2026/11/2026-11-12.jsonl",
+    "fingerprint": "e86047315f75fb1135a67670218333e8a2c78c8e0d83db51be404c5456c4858f",
+    "media": []
+  },
+  "2120761225529168312": {
+    "account": "elonmusk",
+    "date": "2026-11-12",
+    "file": "data/posts/2026/11/2026-11-12.jsonl",
+    "fingerprint": "64c43cea0a13c29f58b0d74399153223c22f3a360c509bddecd837b92db56f04",
     "media": []
   }
 }

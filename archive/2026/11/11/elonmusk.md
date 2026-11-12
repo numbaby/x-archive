@@ -2,7 +2,7 @@
 
 ## 📅 November 11, 2026
 
-> 16 post(s) archived.
+> 18 post(s) archived.
 
 ---
 
@@ -37,6 +37,14 @@
 > Bot 1.0 is out. Our goal for this release was to make Bots a much more useful part of your team. Some new things we&apos;re excited about: - Bots can now join Zoom, Google Meet, and more. You can ask Bot questions in meetings and even assign it action items. We have ours taking standup notes every day in our shared Google Doc and doing background research on discussion themes. Soon, you&apos;ll be able to talk back and forth with it live in a meeting. - A new interface for managing your Bots. You can see and steer their responsibilities, what they&apos;re learning, and their impact. It&apos;s impossible to build trust in an AI teammate if it&apos;s a black box, so it should proactively flag when it&apos;s blocked or confused, take and learn from feedback across the company, and be able to succinctly summarize its contributions. - Better collaboration in Slack and Teams. Bots are more ambiently aware, carry context across conversations, and learn from your team over time. In our Slack, we regularly see threads between members of our team and multiple Bots, handing off work, context, and decisions. Bots should intuit your company&apos;s customs and how work gets done, not just execute on the specific tasks they&apos;re given. Introducing Grok Bot 1.0. AI teammates that work alongside your whole team. Share Bots, collaborate with them in Slack and Teams, invite them to meetings, and watch them learn and become more helpful.
 
 🔗 [View original post](https://x.com/romanugarte_/status/2120598306585989302)
+
+---
+
+### 🕐 19:08 UTC · @elonmusk
+
+> grok bot is the BEST AI agent orchestrator right now and THIS is the best setup i’ve EVER seen https://youtu.be/1cWZ7Ekff6E?si=YkcMxxhffksv48LX it runs claude code for engineering and paper for design here is the FULL setup and how to copy it: Media Introducing Grok Bot 1.0. AI teammates that work alongside your whole team. Share Bots, collaborate with them in Slack and Teams, invite them to meetings, and watch them learn and become more helpful.
+
+🔗 [View original post](https://x.com/gregisenberg/status/2120594418231398677)
 
 ---
 
@@ -123,6 +131,14 @@
 > In order to work through more of the Cybertruck order backlog, production will be extended through the end of summer 2027
 
 🔗 [View original post](https://x.com/elonmusk/status/2120565056429814073)
+
+---
+
+### 🕐 10:44 UTC · @elonmusk
+
+> 火箭回收成功瞬间，马斯克的反应。 Media
+
+🔗 [View original post](https://x.com/laobaishare/status/2120467643320897667)
 
 ---
 
