@@ -2,7 +2,25 @@
 
 ## 📅 November 12, 2026
 
-> 3 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 14:39 UTC · @swyx
+
+> advice https://x.com/travisk/status/2119869150143091175?a=Asnhl8ISEOX6qTUYXuw&amp;s=46 Had a little time on my hands this morning to do some writing… send along to someone you know who may benefit --- “Practical principles to counter a modern-day coup/psyop/struggle session” 1) Own what you did but fiercely resist accommodating the mob, resist owning half-truths o…
+
+🔗 [View original post](https://x.com/swyx/status/2120889185779495074)
+
+---
+
+### 🕐 14:36 UTC · @swyx
+
+> Jensen is out :/ NVIDIA announces CEO transition. Read the release: https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition
+
+![Jensen is out :/ NVIDIA announces CEO transition. Read the release: https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition](../../../../assets/images/2026/11/12/2120888435942760642-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2120888435942760642)
 
 ---
 

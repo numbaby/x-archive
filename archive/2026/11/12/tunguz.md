@@ -2,7 +2,57 @@
 
 ## 📅 November 12, 2026
 
-> 8 post(s) archived.
+> 14 post(s) archived.
+
+---
+
+### 🕐 14:50 UTC · @tunguz
+
+> Don&apos;t look at me, I told you to use XGBoost.
+
+🔗 [View original post](https://x.com/tunguz/status/2120892076539687294)
+
+---
+
+### 🕐 14:47 UTC · @tunguz
+
+> Compartmentalization was a luxury. Personal, professional, political, economical, and technological are now way too intertwined.
+
+🔗 [View original post](https://x.com/tunguz/status/2120891302376071351)
+
+---
+
+### 🕐 14:35 UTC · @tunguz
+
+> The next NVIDIA alumni get together is gonna be lit!
+
+🔗 [View original post](https://x.com/tunguz/status/2120888102264947136)
+
+---
+
+### 🕐 14:33 UTC · @tunguz
+
+> Yes If you solve this in under 15 seconds 🤔 You are officially Smart 🔥
+
+🔗 [View original post](https://x.com/tunguz/status/2120887720834732111)
+
+---
+
+### 🕐 14:31 UTC · @tunguz
+
+> Both Jensen and I are now ex Nvidians!
+
+![Both Jensen and I are now ex Nvidians!](../../../../assets/images/2026/11/12/2120887187311059345-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2120887187311059345)
+
+---
+
+### 🕐 14:22 UTC · @tunguz
+
+> There are layers to the game that you people can’t even conceive of.
+
+🔗 [View original post](https://x.com/tunguz/status/2120884909464224202)
 
 ---
 
