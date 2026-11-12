@@ -2,7 +2,7 @@
 
 ## 📅 November 12, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
 
 ---
 
@@ -23,5 +23,13 @@
 ![What an incredible first day at AI Engineer Code Summit. Heard some amazing talks! I want to shout out a few of my favorites: @poteto @CompleteSkeptic @Steve_Yegge @simonw Some of the themes: let&apos](../../../../assets/images/2026/11/12/2120737357582553132-1.jpg)
 
 🔗 [View original post](https://x.com/joshdbirdwell/status/2120737357582553132)
+
+---
+
+### 🕐 03:18 UTC · @swyx
+
+> it was so fkin fun giving this talk! “Software is gonna be so fucking back.” .@CompleteSkeptic is full of bangers and you will have to listen to his full talk at @aiDotEngineer, but for now, here is our top-10 of his pearls: 1“We’ve been announcing AGI three months away for two years now.” Meanwhile, go outside San…
+
+🔗 [View original post](https://x.com/CompleteSkeptic/status/2120717906443169847)
 
 ---
