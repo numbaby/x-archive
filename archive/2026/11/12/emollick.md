@@ -2,7 +2,17 @@
 
 ## 📅 November 12, 2026
 
-> 5 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 20:06 UTC · @emollick
+
+> Leaving aside everything else about this research done by METR at Anthropic, it validates vibe-testing. It is my experience with the quality of the past years of Anthropic AI models (&amp; AI consensus on X). Yes, NewSonnet 3.7 was the most obviously above expectation model of 2025.
+
+![Leaving aside everything else about this research done by METR at Anthropic, it validates vibe-testing. It is my experience with the quality of the past years of Anthropic AI models (&amp; AI consensu](../../../../assets/images/2026/11/12/2120971399271473405-1.jpg)
+
+🔗 [View original post](https://x.com/emollick/status/2120971399271473405)
 
 ---
 

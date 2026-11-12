@@ -2,7 +2,15 @@
 
 ## 📅 November 12, 2026
 
-> 8 post(s) archived.
+> 9 post(s) archived.
+
+---
+
+### 🕐 19:33 UTC · @AiEvolutio58513
+
+> Dub and Sync is a new app in ElevenCreative. Dub &amp; Sync is live in ElevenCreative. Upload a video, pick your languages, and get it back dubbed with the speaker’s lips synced to the new audio. A dubbed video usually looks off because the mouth doesn’t match the words. Dub &amp; Sync handles the dub and the lip sync in one run, …
+
+🔗 [View original post](https://x.com/ecomchasedimond/status/2120963226041197048)
 
 ---
 

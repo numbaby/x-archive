@@ -2,7 +2,31 @@
 
 ## 📅 November 12, 2026
 
-> 15 post(s) archived.
+> 18 post(s) archived.
+
+---
+
+### 🕐 19:57 UTC · @tunguz
+
+> Cancellations are baaaaaaaack!!!!
+
+🔗 [View original post](https://x.com/tunguz/status/2120969173421686961)
+
+---
+
+### 🕐 19:48 UTC · @tunguz
+
+> I had to break the hard news to the kids that we might have to cancel Disney+ and they were like “what’s that?”
+
+🔗 [View original post](https://x.com/tunguz/status/2120966991359971608)
+
+---
+
+### 🕐 19:24 UTC · @tunguz
+
+> Effective Altruism? You mean Machiavellianism?
+
+🔗 [View original post](https://x.com/tunguz/status/2120961009602998686)
 
 ---
 

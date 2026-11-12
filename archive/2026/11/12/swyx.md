@@ -2,7 +2,33 @@
 
 ## 📅 November 12, 2026
 
-> 12 post(s) archived.
+> 15 post(s) archived.
+
+---
+
+### 🕐 19:31 UTC · @swyx
+
+> play special attention to @walden_yan’s keynote rn to get a preview of {BIG LAUNCH NEXT WEEK} if i say more @cognition will shoot me lol it&apos;s the final day of AIE CODE! Opening keynotes starting now! @jxnlco at @OpenAI @mitsuhiko at @earendilworks @zachlloydtweets at @warpdotdev @echelon at @get_artcraft Watch here: https://www.youtube.com/live/y9JtCCZP2MQ Presented by @GoogleDeepMind.
+
+![play special attention to @walden_yan’s keynote rn to get a preview of {BIG LAUNCH NEXT WEEK} if i say more @cognition will shoot me lol it&apos;s the final day of AIE CODE! Opening keynotes starting ](../../../../assets/images/2026/11/12/2120962735211233454-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2120962735211233454)
+
+---
+
+### 🕐 19:30 UTC · @swyx
+
+> “It’s eye-opening to see what everyone else is doing.” Day 1 at AI Engineer Code Summit: the talks, the demos, and the conversations between them. Presented by @GoogleDeepMind. Day 2 is live. Watch here: https://www.youtube.com/live/y9JtCCZP2MQ Media
+
+🔗 [View original post](https://x.com/aiDotEngineer/status/2120962333971267931)
+
+---
+
+### 🕐 19:05 UTC · @swyx
+
+> This is a difficult moment. It’s hard not to look at the journey this company has taken and not be filled with respect for what Jensen built. The spirit of the company remains strong: &quot;mission is the boss”. That said, as NVIDIA finds its way forward, I want one thing to be clear: NVIDIA&apos;s contributions to open source are unwavering. Jensen has been vocal about this, and that commitment runs deep in NVIDIA&apos;s people and culture. We all understand the importance of open source. NVIDIA is a huge supporter of open source because we understand something. If you want to diffuse technology, you do so through an ecosystem, not a single company or entity. No one owns the internet, no one owns servers, and no one owns operating systems… but through open source, an ecosystem of closed and open innovation flourishes. When we talk about delivering agents safely and securely, that too will take place because of open source. For example, ensuring people have the best models to secure themselves at machine speed unburdened by arbitrary guardrails decided behind closed doors. Open source &amp; AI are often discussed together, but it’s worth reminding, open source predates AI. It is a mechanism for sharing ideas inspired by the hippies at computer labs of California in the 1960s. Before AI, the largest shift I lived through was the internet. It was remarkable seeing the fight for open source take place there. Between browsers, runtimes, net neutrality, etc. What came as a result was HTML5 and an extremely vibrant ecosystem that built the internet as we know it today. NVIDIA and its partners hold an incredibly important role in delivering this technology. NVIDIA contributes to every layer of the stack. Runtimes, models, harnesses, programming languages, frameworks, etc. None of that changes. Long live open source. For my first post, I’m sharing a letter @NVIDIA signed on why open models matter. AI will transform every industry, power every company, and be built by every country. Open models strengthen safety and cybersecurity, accelerate innovation and diffusion, and enable sovereignty. T…
+
+🔗 [View original post](https://x.com/NaderLikeLadder/status/2120956179274936560)
 
 ---
 
