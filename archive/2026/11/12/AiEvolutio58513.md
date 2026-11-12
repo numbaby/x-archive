@@ -2,7 +2,15 @@
 
 ## 📅 November 12, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 12:57 UTC · @AiEvolutio58513
+
+> Ron Baron says SpaceX will be worth $20 to $50 trillion in 10 years, and Elon Musk told him that&apos;s &quot;way low&quot;: &quot;I think it&apos;ll be worth $20 trillion, $30 trillion, $50 trillion. Elon thinks I&apos;m way low, and it&apos;s now $2 trillion.&quot; &quot;I think Starlink alone, in the next 10 years, is going to be worth somewhere around $14 trillion or $15 trillion.&quot; &quot;And then the data centers in space—man, that&apos;s unbelievable. You can&apos;t build them on the planet anymore.&quot; Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2120863456220119106)
 
 ---
 
