@@ -2,7 +2,25 @@
 
 ## 📅 November 12, 2026
 
-> 10 post(s) archived.
+> 12 post(s) archived.
+
+---
+
+### 🕐 17:22 UTC · @swyx
+
+> “if you want good taste, you have to eat” - @jxnlco art school to ai engineer path is too powerful @jxnlco
+
+![“if you want good taste, you have to eat” - @jxnlco art school to ai engineer path is too powerful @jxnlco](../../../../assets/images/2026/11/12/2120930215102947353-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2120930215102947353)
+
+---
+
+### 🕐 17:20 UTC · @swyx
+
+> the rest of day 1 keynotes https://x.com/aidotengineer/status/2120554645781463093?a=F7CX94m9eoN215IPc2o&amp;s=46 The Code Summit livestream starts in 30 minutes. @nserrino (@gimletlabs) on 10x faster AI. @lydiahallie (@AnthropicAI) on Claude Code best practices. 9 AM PT. Watch free: https://www.youtube.com/live/ZZ19zhYnDKY Presented by @GoogleDeepMind.
+
+🔗 [View original post](https://x.com/swyx/status/2120929644958605703)
 
 ---
 

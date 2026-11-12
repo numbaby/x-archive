@@ -2,7 +2,17 @@
 
 ## 📅 November 12, 2026
 
-> 14 post(s) archived.
+> 15 post(s) archived.
+
+---
+
+### 🕐 18:01 UTC · @tunguz
+
+> Le Big Mac
+
+![Le Big Mac](../../../../assets/images/2026/11/12/2120940110917337259-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2120940110917337259)
 
 ---
 

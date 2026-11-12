@@ -2,7 +2,25 @@
 
 ## 📅 November 12, 2026
 
-> 5 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 18:08 UTC · @AiEvolutio58513
+
+> I fully assumed 145b meant a server rack. Apparently, edge0-145b runs on a laptop. Introducing Edge0-145B and Edge0-120B, @Edge0_AI’s first device-native 100B-class foundation models with open weights. Cloud-level intelligence on your laptop. Free, offline, and fast enough for real vibe coding. - Smart: beats Claude Opus 4.6 on Terminal-Bench 2.1 (86.5% vs. 78…
+
+🔗 [View original post](https://x.com/ecomchasedimond/status/2120941919694205092)
+
+---
+
+### 🕐 17:20 UTC · @AiEvolutio58513
+
+> Five minutes after I gave lemlist 30 companies to pitch for sponsorships, the campaign was loaded. I still had to read it before putting my name on it. I used to block a full morning to build these lists. I sell newsletter placements and LinkedIn/X posts to ecommerce and B2B SaaS brands, prospecting to fill gaps in my calendar. I typed this in Claude through lemlist&apos;s MCP; @lemlist found contacts, verified emails and built the sequence: &quot;Find the person who runs partnerships and the most senior marketing leader at these 30 companies. Verify every email. Tell me which companies have neither role so I can drop them, then build a 4-step email sequence for the rest and show me the preview. Don&apos;t send anything.&quot; → 16 companies had neither role in lemlist&apos;s database, so I dropped them → 23 people across 14 companies → 22 of 23 emails found and run through verification Reading every row, I found three contacts with wrong-company domains or outdated jobs, plus one missing email. Removing those contacts cut three companies; I deliberately kept one contact per company, leaving 11. Nothing reaches a real inbox unread. I saved the four-step sequence as a draft, then kept this run small by sending only the first email to those 11 people, with follow-ups skipped. All 11 were delivered, and one person has replied positively. This is the lemlist MCP I used: https://www.lemlist.com/product/lemlist-mcp?utm_source=x&amp;utm_campaign=influ_chasedimond&amp;utm_content=post1 P.S. What takes you longer when building a prospect list: finding the right person or checking their details?
+
+![Five minutes after I gave lemlist 30 companies to pitch for sponsorships, the campaign was loaded. I still had to read it before putting my name on it. I used to block a full morning to build these li](../../../../assets/images/2026/11/12/2120929686905888851-1.png)
+
+🔗 [View original post](https://x.com/ecomchasedimond/status/2120929686905888851)
 
 ---
 

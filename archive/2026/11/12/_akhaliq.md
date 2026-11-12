@@ -2,7 +2,25 @@
 
 ## 📅 November 12, 2026
 
-> 7 post(s) archived.
+> 10 post(s) archived.
+
+---
+
+### 🕐 17:01 UTC · @_akhaliq
+
+> Coding agents write mobile code faster than any team can review it. 🙌 Introducing Expo Simulators: cloud simulators built for agents. Your agent runs its change on a cloud simulator or emulator and brings back the recording before it asks for your attention. Media
+
+🔗 [View original post](https://x.com/expo/status/2120924979898601506)
+
+---
+
+### 🕐 16:10 UTC · @_akhaliq
+
+> The mission has not and will not change
+
+![The mission has not and will not change](../../../../assets/images/2026/11/12/2120912074700423307-1.jpg)
+
+🔗 [View original post](https://x.com/julien_c/status/2120912074700423307)
 
 ---
 
@@ -55,6 +73,16 @@
 ![Ernie 5.5 flash preview https://huggingface.co/spaces/akhaliq/ernie-5.5-flash-preview](../../../../assets/images/2026/11/12/2120846711908364596-1.jpg)
 
 🔗 [View original post](https://x.com/_akhaliq/status/2120846711908364596)
+
+---
+
+### 🕐 08:10 UTC · @_akhaliq
+
+> TOME-Math: A structured textbook corpus for math reasoning Curated from 2,118 university textbooks into 380K proof-supervision records, preserving chapter order and proposition-proof links. Fine-tuning on it lifts average math benchmark performance by 16.7 percentage points.
+
+![TOME-Math: A structured textbook corpus for math reasoning Curated from 2,118 university textbooks into 380K proof-supervision records, preserving chapter order and proposition-proof links. Fine-tunin](../../../../assets/images/2026/11/12/2120791264354263206-1.jpg)
+
+🔗 [View original post](https://x.com/HuggingPapers/status/2120791264354263206)
 
 ---
 

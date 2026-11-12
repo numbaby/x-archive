@@ -2,7 +2,23 @@
 
 ## 📅 November 12, 2026
 
-> 6 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 17:55 UTC · @omarsar0
+
+> Keenable is now the #1 web search API for AI agents, ranking first on the Artificial Analysis Search Index. Nice progress from @KeenableAI since August. They built their own search stack, use agent queries to improve it, and move faster than anyone. I think that feedback matters as agents rely more on search. Keenable 1.0 is live Two months of learning from agent queries made Keenable the best web search API for agents: #1 on Artificial Analysis and NEEDLE. 1.0 adds 100M knowledge cards and dynamic snippets that cut tokens by 50% on research tasks. https://keenable.ai/blog/keenable-1…
+
+🔗 [View original post](https://x.com/omarsar0/status/2120938584731508880)
+
+---
+
+### 🕐 17:24 UTC · @omarsar0
+
+> Human attention is the scarcest resource in agentic coding. @expo just shipped Expo Simulators, so your coding agent can test its changes on a cloud iOS Simulator and send you screenshots and a recording before asking for your review. Anyone on the team can open the new build from a link and tap through it. Great to see more verification in the agent loop. Coding agents write mobile code faster than any team can review it. 🙌 Introducing Expo Simulators: cloud simulators built for agents. Your agent runs its change on a cloud simulator or emulator and brings back the recording before it asks for your attention.
+
+🔗 [View original post](https://x.com/omarsar0/status/2120930846714560533)
 
 ---
 
