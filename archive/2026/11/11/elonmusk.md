@@ -2,7 +2,7 @@
 
 ## 📅 November 11, 2026
 
-> 14 post(s) archived.
+> 16 post(s) archived.
 
 ---
 
@@ -58,11 +58,29 @@
 
 ---
 
+### 🕐 18:31 UTC · @elonmusk
+
+> Barbara Corcoran on Elon Musk: &quot;Any great leader has a strong opinion and isn&apos;t so smooth on the edges and drives it home. But that&apos;s what you want when you want to reinvent a category, and that&apos;s what he has done.&quot; Media
+
+🔗 [View original post](https://x.com/teslaownersSV/status/2120585198924628448)
+
+---
+
 ### 🕐 18:30 UTC · @elonmusk
 
 > Introducing Grok Bot 1.0. Bots can be shared and are more collaborative and capable than ever. Media
 
 🔗 [View original post](https://x.com/SpaceXSI/status/2120584928983441826)
+
+---
+
+### 🕐 18:29 UTC · @elonmusk
+
+> Thank you to all those who have served, including the veterans we&apos;re proud to call members of the SpaceX family. Happy Veterans Day!
+
+![Thank you to all those who have served, including the veterans we&apos;re proud to call members of the SpaceX family. Happy Veterans Day!](../../../../assets/images/2026/11/11/2120584703082446863-1.jpg)
+
+🔗 [View original post](https://x.com/SpaceX/status/2120584703082446863)
 
 ---
 
