@@ -152322,5 +152322,26 @@
         "source_url": "https://pbs.twimg.com/card_img/2120829112931803136/VTkk60fL?format=jpg&name=800x419"
       }
     ]
+  },
+  "2120852440778174636": {
+    "account": "tunguz",
+    "date": "2026-11-12",
+    "file": "data/posts/2026/11/2026-11-12.jsonl",
+    "fingerprint": "0d99ad5e4b594d822c5b10e8d9261d01763ceb3d40627177ae354a9f080788ca",
+    "media": []
+  },
+  "2120854043014865280": {
+    "account": "tunguz",
+    "date": "2026-11-12",
+    "file": "data/posts/2026/11/2026-11-12.jsonl",
+    "fingerprint": "4cf976d155000f207824989ffa060085715999010dfbdeeafbdad5a7f8371d95",
+    "media": []
+  },
+  "2120855630722544072": {
+    "account": "tunguz",
+    "date": "2026-11-12",
+    "file": "data/posts/2026/11/2026-11-12.jsonl",
+    "fingerprint": "d11fe39bc7ec9898270fa38e556b9b7c6e6ed5ba45db5c223bb2b9d833394dec",
+    "media": []
   }
 }

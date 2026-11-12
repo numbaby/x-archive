@@ -2,7 +2,31 @@
 
 ## 📅 November 12, 2026
 
-> 5 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 12:26 UTC · @tunguz
+
+> I have credible evidence that Anthropic is two weeks away from building a model that can build a nuclear weapon.
+
+🔗 [View original post](https://x.com/tunguz/status/2120855630722544072)
+
+---
+
+### 🕐 12:19 UTC · @tunguz
+
+> I can neither confirm nor deny the rumors that I am on the shortlist for the next NVIDIA CEO.
+
+🔗 [View original post](https://x.com/tunguz/status/2120854043014865280)
+
+---
+
+### 🕐 12:13 UTC · @tunguz
+
+> Interesting Only about 1 in 6 Americans say their neighbors don&apos;t care about them at all, among the lowest shares of 140 countries and third-lowest among wealthy nations (behind Iceland and Switzerland).
+
+🔗 [View original post](https://x.com/tunguz/status/2120852440778174636)
 
 ---
 
