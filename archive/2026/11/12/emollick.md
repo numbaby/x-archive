@@ -2,7 +2,25 @@
 
 ## 📅 November 12, 2026
 
-> 3 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 19:01 UTC · @emollick
+
+> The comments are terrible, do not read them, they will make you mad.
+
+🔗 [View original post](https://x.com/emollick/status/2120955139238588585)
+
+---
+
+### 🕐 18:29 UTC · @emollick
+
+> Neat expansion on Portals to visualize The Culture (I had one Banks world in the original 466 Portals, but no GSVs etc.) Original version: https://portals-endless-worlds.netlify.app/ Repo: https://github.com/emollick/ai-portals Inspired by @emollick’s Portals, I used his repo and Fable to build Portals for Iain M. Banks Culture novels: https://sonic-sphinx-9qsd.here.now #theculture #iainmbanks
+
+![Neat expansion on Portals to visualize The Culture (I had one Banks world in the original 466 Portals, but no GSVs etc.) Original version: https://portals-endless-worlds.netlify.app/ Repo: https://git](../../../../assets/images/2026/11/12/2120947095280795823-1.jpg)
+
+🔗 [View original post](https://x.com/emollick/status/2120947095280795823)
 
 ---
 

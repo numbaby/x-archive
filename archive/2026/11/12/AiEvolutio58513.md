@@ -2,7 +2,15 @@
 
 ## 📅 November 12, 2026
 
-> 7 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 18:14 UTC · @AiEvolutio58513
+
+> When one word comes out flat, I can just push that word up now, and it&apos;s still my voice. I&apos;ll probably be doing that in Tonality most weeks. Introducing Tonality by Riverside Labs, the first voice model that edits any word in an existing recording, with full control over how it’s said. All other voice models regenerate the whole sentence when you change one word, so you lose the original voice identity, delivery, and…
+
+🔗 [View original post](https://x.com/ecomchasedimond/status/2120943244230197534)
 
 ---
 

@@ -2,7 +2,15 @@
 
 ## 📅 November 12, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 18:48 UTC · @dair_ai
+
+> NEW: Google introduces Gemini 4 Hydrogen. It may not be obvious to many, but the mid-tier models (e.g., Sonnet &amp; Terra) are increasingly becoming the workhorses for scaling multi-agent systems. So, Carbon for orchestration and Hydrogen for execution. Great naming, too. Introducing Gemini 4 Hydrogen, an extremely capable and fast model built to bring Gemini 4 to everyone! Available to all tiers of Google AI Studio, Gemini API, Gemini for business, the Gemini app, Google Search, and paid Google AI Pro + Ultra subscribers in Google Antigravity.
+
+🔗 [View original post](https://x.com/omarsar0/status/2120951880113127648)
 
 ---
 

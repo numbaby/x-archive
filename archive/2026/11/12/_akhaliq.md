@@ -2,7 +2,15 @@
 
 ## 📅 November 12, 2026
 
-> 10 post(s) archived.
+> 11 post(s) archived.
+
+---
+
+### 🕐 18:50 UTC · @_akhaliq
+
+> SteerDistill Quantizing LLM Agents via Closed-Loop Teacher Steering paper: https://huggingface.co/papers/2611.13410 Media
+
+🔗 [View original post](https://x.com/_akhaliq/status/2120952429093245062)
 
 ---
 
