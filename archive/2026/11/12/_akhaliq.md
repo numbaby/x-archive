@@ -2,7 +2,17 @@
 
 ## 📅 November 12, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 11:50 UTC · @_akhaliq
+
+> Ernie 5.5 flash preview https://huggingface.co/spaces/akhaliq/ernie-5.5-flash-preview
+
+![Ernie 5.5 flash preview https://huggingface.co/spaces/akhaliq/ernie-5.5-flash-preview](../../../../assets/images/2026/11/12/2120846711908364596-1.jpg)
+
+🔗 [View original post](https://x.com/_akhaliq/status/2120846711908364596)
 
 ---
 

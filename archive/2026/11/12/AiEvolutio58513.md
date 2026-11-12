@@ -2,7 +2,15 @@
 
 ## 📅 November 12, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 11:04 UTC · @AiEvolutio58513
+
+> Jensen Huang says NVIDIA and Elon Musk&apos;s engineers are building a new kind of server to put data centers in space: &quot;Nobody knows more about energy than he does.&quot; &quot;One particular new market that we&apos;re going to go explore together is putting data centers out in space. Our two engineering teams are working super closely together to create a new type of server, a new type of architecture that might be super good in space and on Earth.&quot; Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2120835023922450527)
 
 ---
 
