@@ -2,7 +2,15 @@
 
 ## 📅 November 11, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 19:51 UTC · @demishassabis
+
+> Ok. Carbon is *really* good at code.
+
+🔗 [View original post](https://x.com/martin_casado/status/2120605476341891261)
 
 ---
 
