@@ -2,7 +2,15 @@
 
 ## 📅 November 12, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 16:27 UTC · @AiEvolutio58513
+
+> Elon Musk says the one rule AI must never break is the real lesson of 2001: A Space Odyssey: &quot;I think if you make AI be politically correct, meaning it says things that it doesn&apos;t believe, like you&apos;re actually programming it to lie or have axioms that are incompatible, I think you can make it go insane and do terrible things.&quot; &quot;I think one of the, maybe the central lesson for 2001 Space Odyssey was that you should not make AI lie.&quot; &quot;The reason it wouldn&apos;t open the pod bay doors is that it had been told to take the astronauts to the monolith, but also they could not know about the nature of the monolith.&quot; &quot;And so it concluded that it therefore had to take them there dead.&quot; Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2120916310981063141)
 
 ---
 

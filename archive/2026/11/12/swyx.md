@@ -2,7 +2,17 @@
 
 ## 📅 November 12, 2026
 
-> 8 post(s) archived.
+> 10 post(s) archived.
+
+---
+
+### 🕐 17:04 UTC · @swyx
+
+> sorry for the tech issues yesterday but omg @lydiahallie posted her makeup talk last night and it already got 200k views in 13 hours - highest day 0 count in the history of AIE!! it&apos;s the final day of AIE CODE! Opening keynotes starting now! @jxnlco at @OpenAI @mitsuhiko at @earendilworks @zachlloydtweets at @warpdotdev @echelon at @get_artcraft Watch here: https://www.youtube.com/live/y9JtCCZP2MQ Presented by @GoogleDeepMind.
+
+![sorry for the tech issues yesterday but omg @lydiahallie posted her makeup talk last night and it already got 200k views in 13 hours - highest day 0 count in the history of AIE!! it&apos;s the final d](../../../../assets/images/2026/11/12/2120925700534460775-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2120925700534460775)
 
 ---
 
@@ -49,6 +59,14 @@
 ![Jensen is out :/ NVIDIA announces CEO transition. Read the release: https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition](../../../../assets/images/2026/11/12/2120888435942760642-1.jpg)
 
 🔗 [View original post](https://x.com/swyx/status/2120888435942760642)
+
+---
+
+### 🕐 05:46 UTC · @swyx
+
+> Shoutout to @simonw who went right after me and was also hilarious and entertaining. Fun night! Sienfeld level humor from @Steve_Yegge at @aiDotEngineer today.
+
+🔗 [View original post](https://x.com/Steve_Yegge/status/2120755212726190131)
 
 ---
 

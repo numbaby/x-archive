@@ -2,7 +2,23 @@
 
 ## 📅 November 12, 2026
 
-> 6 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 16:46 UTC · @elonmusk
+
+> These are the community benefits if @SpaceX builds their planned $50 billion Arizona Supercomputing Campus: • 6,500 jobs (1,000 permanent, 5,500 construction). • Up to $103M annually in new property tax revenue. • 10-40% lower electricity bills projected for local SSVEC residential customers. • Up to $250M in one-time county sales tax revenue. • Up to $460M annually in additional benefits for Arizona electric cooperative members. • $3.6B in grid upgrades funded by SpaceX at no cost to cooperative members. • 24 GWh of battery storage to improve grid stability and reliability. • Additional solar energy to reduce strain on the local grid. • Minimal water usage, with no new wells and zero ongoing industrial water consumption projected. • Aquifer and wildlife protection, including conservation initiatives. • Reduced noise and light pollution through noise mitigation and dark-sky protections. • Support for local schools, infrastructure, businesses, and essential services. SpaceX has just unveiled a massive new $50 billion Supercomputing Campus that they want to build in Cochise County, Arizona. All info: • Up to 6 GW across the 9 supercomputing buildings • Construction starts 2027 • Size of each supercomputing building: ~493,000 square feet. • To…
+
+🔗 [View original post](https://x.com/SawyerMerritt/status/2120921108979351607)
+
+---
+
+### 🕐 16:10 UTC · @elonmusk
+
+> SpaceX community benefits SpaceX builds the infrastructure of the future. And we’re committed to making sure the communities where we build share in the benefits → https://spacex.com/updates#building-the-future
+
+🔗 [View original post](https://x.com/elonmusk/status/2120912138772369758)
 
 ---
 

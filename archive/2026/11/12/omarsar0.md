@@ -2,7 +2,33 @@
 
 ## 📅 November 12, 2026
 
-> 3 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 16:30 UTC · @omarsar0
+
+> AI model choice is limited when you handle patient data. Concentrate AI finally brings a solution. Healthcare teams get access to models through one API, with BAA-covered routes and zero data retention. I think many builders in healthcare AI will want this kind of setup. Before using it, check which models and providers are covered for your workload. Introducing Concentrate AI (@concentrateai), the first HIPAA-compliant AI gateway for healthcare and life sciences. One API and one universal BAA with us for HIPAA-covered inference. We handle provider agreements, inference, and billing for you, with spend controls and fallbacks…
+
+🔗 [View original post](https://x.com/omarsar0/status/2120917263226204579)
+
+---
+
+### 🕐 16:16 UTC · @omarsar0
+
+> Every agent needs its own computer. box by @SimularAI gives all your agents one shared computer in the cloud. Claude can start a task, and Codex can finish it on the same box with the same files and logins. Their agent is also #1 on OSWorld at 80.6%. Strong team to watch. 2,000,000,000 PCs sit on people&apos;s desks today. The next billion computers? They’ll be autonomous computers, driven by agents. Introducing box by @Simular: one computer for ChatGPT, Claude, Codex, Gemini, DeepSeek and all your other agents. With box, agents open apps, run the ter…
+
+🔗 [View original post](https://x.com/omarsar0/status/2120913686835442122)
+
+---
+
+### 🕐 16:16 UTC · @omarsar0
+
+> Try it here https://box.simular.ai/?utm_source=creator
+
+![Try it here https://box.simular.ai/?utm_source=creator](../../../../assets/images/2026/11/12/2120913688525738420-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2120913688525738420)
 
 ---
 
