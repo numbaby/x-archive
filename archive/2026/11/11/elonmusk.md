@@ -2,7 +2,7 @@
 
 ## 📅 November 11, 2026
 
-> 12 post(s) archived.
+> 14 post(s) archived.
 
 ---
 
@@ -21,6 +21,22 @@
 > @TheFlintFace @IterIntellectus 100GW in space is roughly equal to 800GW on Earth. Moreover, solar on Earth must be paired with massive batteries to continue powering compute at night and supplemented with combustion or nuclear power during winter. These are not the same at all.
 
 🔗 [View original post](https://x.com/elonmusk/status/2120613240707420280)
+
+---
+
+### 🕐 20:21 UTC · @elonmusk
+
+> Russell Brand&apos;s longtime friend and one-time fling @SammiePressdee speaks out to @MegynKelly about the TRUTH: &quot;I said no, and he was a perfect gentleman about it... Not one single person ever warned me to be careful around Russell Brand. So, I don&apos;t buy the &apos;open secret&apos;...” More: https://youtube.com/c/MegynKelly/?sub_confirmation=1 Media
+
+🔗 [View original post](https://x.com/MegynKellyShow/status/2120613021907112358)
+
+---
+
+### 🕐 19:23 UTC · @elonmusk
+
+> Bot 1.0 is out. Our goal for this release was to make Bots a much more useful part of your team. Some new things we&apos;re excited about: - Bots can now join Zoom, Google Meet, and more. You can ask Bot questions in meetings and even assign it action items. We have ours taking standup notes every day in our shared Google Doc and doing background research on discussion themes. Soon, you&apos;ll be able to talk back and forth with it live in a meeting. - A new interface for managing your Bots. You can see and steer their responsibilities, what they&apos;re learning, and their impact. It&apos;s impossible to build trust in an AI teammate if it&apos;s a black box, so it should proactively flag when it&apos;s blocked or confused, take and learn from feedback across the company, and be able to succinctly summarize its contributions. - Better collaboration in Slack and Teams. Bots are more ambiently aware, carry context across conversations, and learn from your team over time. In our Slack, we regularly see threads between members of our team and multiple Bots, handing off work, context, and decisions. Bots should intuit your company&apos;s customs and how work gets done, not just execute on the specific tasks they&apos;re given. Introducing Grok Bot 1.0. AI teammates that work alongside your whole team. Share Bots, collaborate with them in Slack and Teams, invite them to meetings, and watch them learn and become more helpful.
+
+🔗 [View original post](https://x.com/romanugarte_/status/2120598306585989302)
 
 ---
 
