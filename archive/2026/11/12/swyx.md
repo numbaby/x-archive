@@ -2,7 +2,35 @@
 
 ## 📅 November 12, 2026
 
-> 5 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 15:54 UTC · @swyx
+
+> Apple: “Introducing the new Siri” Me: “oh sick, can you turn off all my alarms” new Siri:
+
+![Apple: “Introducing the new Siri” Me: “oh sick, can you turn off all my alarms” new Siri:](../../../../assets/images/2026/11/12/2120908176967237654-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2120908176967237654)
+
+---
+
+### 🕐 15:48 UTC · @swyx
+
+> good notes https://x.com/theturingpost/status/2120607968408531110?a=9II0x1T9KmYzYfzo5BQ&amp;s=46 btw one of the beautiful reasons why we love the smaller Summit format rather than the 10,000 person worlds fairs is that we can actually meet everyone and offer a higher quality experience. check out this morning spread!! Media How to turn slop into gold. Super concrete steps from awesome @poteto on making coding agents trustworthy: 1. Clean up the code your agents learn from. Your codebase is one of their biggest inputs. Agents copy whatever looks like an established pattern, including workarounds, de…
+
+🔗 [View original post](https://x.com/swyx/status/2120906636609065396)
+
+---
+
+### 🕐 15:45 UTC · @swyx
+
+> Kent helped me get started in my second career and it is such an honor to host him as ai engineer evolves into product engineer! def keep an eye out for https://kody.codes, this category has not yet been created but it is about to get some serious firepower behind it Shout-out to my man @swyx. This guy has done so much for our industry. We owe him so much. Thank you for bringing people together with @aiDotEngineer and also for the great personal advice!
+
+![Kent helped me get started in my second career and it is such an honor to host him as ai engineer evolves into product engineer! def keep an eye out for https://kody.codes, this category has not yet b](../../../../assets/images/2026/11/12/2120905871773593937-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2120905871773593937)
 
 ---
 

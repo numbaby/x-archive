@@ -2,7 +2,15 @@
 
 ## 📅 November 12, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 15:04 UTC · @AiEvolutio58513
+
+> Palantir cofounder Joe Lonsdale on what people said when they started building for defense: &quot;20 years ago, when I was founding Palantir with Dr. Karp, we had dozens of meetings with people asking, &apos;Why are you building in defense?&apos; Are you some kind of aliens?&quot; &quot;His hair wasn&apos;t as crazy back then.&quot; Today defense tech is one of the hottest corners of Silicon Valley. Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2120895406297194575)
 
 ---
 

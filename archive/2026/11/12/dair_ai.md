@@ -2,7 +2,17 @@
 
 ## 📅 November 12, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 15:16 UTC · @dair_ai
+
+> Recursive self-improvement is one of the most discussed ideas in AI right now. Banger paper on RSI for frontier pre-training. They claim to be the first in the world to apply RSI to an entire frontier pre-training run from scratch. This work uses agent-driven loops on a single frontier pre-training run and produced 801-30B-A3B, an open 30B MoE base that beats Qwen3-30B-A3B and Nemotron-3.5-Lightning-30B-A3B. Pre-training is hard to improve with one big loop. A run costs hundreds of thousands of GPU-hours and happens once, and its real goal is headroom for post-training. So they split the work into smaller loops that can close. Agents debug infrastructure and data, check post-training headroom with tiny SFT runs, and turn expert judgment into metrics for data pipelines. A shared context store keeps negative results across teams. With only 6B tokens of SFT and no RL, the model had the highest average on four agentic benchmarks against fully post-trained models, including Qwen3.6-35B-A3B. https://arxiv.org/abs/2611.10719 Chat with Paper: https://academy.dair.ai/papers/no-second-run-does-rsi-stop-at-frontier-pre-training-2611.10719
+
+![Recursive self-improvement is one of the most discussed ideas in AI right now. Banger paper on RSI for frontier pre-training. They claim to be the first in the world to apply RSI to an entire frontier](../../../../assets/images/2026/11/12/2120898418801525191-1.jpg)
+
+🔗 [View original post](https://x.com/dair_ai/status/2120898418801525191)
 
 ---
 

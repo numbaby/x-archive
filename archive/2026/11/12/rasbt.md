@@ -2,7 +2,23 @@
 
 ## 📅 November 12, 2026
 
-> 1 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 15:20 UTC · @rasbt
+
+> Hoping Nemotron keeps going. Thankfully, open weight LLMs have some alternatives. But their open data and full training recipes would be much harder to replace.
+
+🔗 [View original post](https://x.com/rasbt/status/2120899453510942743)
+
+---
+
+### 🕐 15:08 UTC · @rasbt
+
+> LLM training is hard. Hard to be a jack of all trades. im surprised there isnt more pretrain-postrain codesign i guess companies really do ship their org charts
+
+🔗 [View original post](https://x.com/rasbt/status/2120896608543924560)
 
 ---
 
