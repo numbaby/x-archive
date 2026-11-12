@@ -2,7 +2,7 @@
 
 ## 📅 November 12, 2026
 
-> 8 post(s) archived.
+> 9 post(s) archived.
 
 ---
 
@@ -19,6 +19,16 @@
 > SpaceX community benefits SpaceX builds the infrastructure of the future. And we’re committed to making sure the communities where we build share in the benefits → https://spacex.com/updates#building-the-future
 
 🔗 [View original post](https://x.com/elonmusk/status/2120912138772369758)
+
+---
+
+### 🕐 16:09 UTC · @elonmusk
+
+> Development of the Starbase supercompute site is creating an opportunity to address decades of environmental neglect. Portions of the property were used for unauthorized dumping dating back to the 1960s. We&apos;re undertaking cleanup efforts to remove decades of accumulated debris, including scrap metal, discarded appliances, old tanks, fiberglass insulation, construction materials, and thousands of illegally dumped tires
+
+![Development of the Starbase supercompute site is creating an opportunity to address decades of environmental neglect. Portions of the property were used for unauthorized dumping dating back to the 196](../../../../assets/images/2026/11/12/2120911969087607288-1.jpg)
+
+🔗 [View original post](https://x.com/SpaceX/status/2120911969087607288)
 
 ---
 

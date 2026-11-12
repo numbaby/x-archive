@@ -2,7 +2,33 @@
 
 ## 📅 November 12, 2026
 
-> 6 post(s) archived.
+> 9 post(s) archived.
+
+---
+
+### 🕐 22:22 UTC · @emollick
+
+> With Lilach Mollick Ben Przystanski, LJ Ciccarelli, Natalie Bach, and Laura Zarrow, and with thanks to the Bezos Family Foundation, the Walton Family Foundation &amp; Charles and Lynn Schusterman Family Philanthropies. Paper: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7696720 Github: https://github.com/wharton-generative-ai-labs/primer
+
+🔗 [View original post](https://x.com/emollick/status/2121005842044469746)
+
+---
+
+### 🕐 22:10 UTC · @emollick
+
+> We believe that AI, when used properly, can have a large positive impact on education, but the major AIs are not built for learning out-of-the-box. We wanted to make sure we gave control to educators so they can make choices. (Yes, it is named after the Primer from Diamond Age)
+
+🔗 [View original post](https://x.com/emollick/status/2121002669250675075)
+
+---
+
+### 🕐 22:03 UTC · @emollick
+
+> 🚨 Our Generative AI Lab is releasing Primer: an agent-driven system where a teacher talks through lessons &amp; gets back a playable simulation for their students, grounded in pedagogy. We hope educators &amp; researchers build on it. Paper/prompts/code are open: https://gail.wharton.upenn.edu/primer/
+
+![🚨 Our Generative AI Lab is releasing Primer: an agent-driven system where a teacher talks through lessons &amp; gets back a playable simulation for their students, grounded in pedagogy. We hope educat](../../../../assets/images/2026/11/12/2121001056637431873-1.jpg)
+
+🔗 [View original post](https://x.com/emollick/status/2121001056637431873)
 
 ---
 

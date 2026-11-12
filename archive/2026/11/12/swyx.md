@@ -2,7 +2,47 @@
 
 ## 📅 November 12, 2026
 
-> 15 post(s) archived.
+> 19 post(s) archived.
+
+---
+
+### 🕐 20:46 UTC · @swyx
+
+> lance starting out his keynote strong with fermat&apos;s proof aie code is now aie math https://x.com/RLanceMartin/status/2120636264030646397 if you are at @aiDotEngineer, come say hi! i&apos;ll be giving a talk Thurs (tmrw) 12:30p on two recent articles i worked on: (1) how we scaled a team of 1,000 Fable 5.2 agents to formalize of Fermat&apos;s Last Theorem and (2) a few ways to think about memory + dreaming.
+
+![lance starting out his keynote strong with fermat&apos;s proof aie code is now aie math https://x.com/RLanceMartin/status/2120636264030646397 if you are at @aiDotEngineer, come say hi! i&apos;ll be gi](../../../../assets/images/2026/11/12/2120981552561844593-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2120981552561844593)
+
+---
+
+### 🕐 20:39 UTC · @swyx
+
+> Sometimes I miss being the man behind the curtain at dev conferences (Next.js Conf and Laracon), but attending events with no responsibility is a pure delight Wish I&apos;d had more time to hang at @aiDotEngineer and catch up but had to cut it short (will explain in next tweet) @swyx thank you for creating these and getting cool people there, + @Beccalytics (and many many others) for impeccable execution! I&apos;ve been hanging out with these folks for years now, fun talking to them about the radical shifts in our careers and industry and also just having friends in faraway places. And of course the people I spoke to the most are the ones I forgot to take pics with 🤦
+
+![Sometimes I miss being the man behind the curtain at dev conferences (Next.js Conf and Laracon), but attending events with no responsibility is a pure delight Wish I&apos;d had more time to hang at @a](../../../../assets/images/2026/11/12/2120979741843050943-1.jpg)
+
+🔗 [View original post](https://x.com/theHankTaylor/status/2120979741843050943)
+
+---
+
+### 🕐 20:22 UTC · @swyx
+
+> @swyx and team provide a great experience and many benefits to speaking at @aiDotEngineer. 🙏 The speaker swag/bling is nice too!
+
+![@swyx and team provide a great experience and many benefits to speaking at @aiDotEngineer. 🙏 The speaker swag/bling is nice too!](../../../../assets/images/2026/11/12/2120975588559393140-1.jpg)
+
+🔗 [View original post](https://x.com/JPoehnelt/status/2120975588559393140)
+
+---
+
+### 🕐 20:02 UTC · @swyx
+
+> I always knew @jxnlco is an applied philosopher since I first took his class. Iconic talk today! In a doom and gloom climate, many are searching for answers on how their careers will unfold. If that is you, go watch his talk - the first one on the stream. https://www.youtube.com/watch?v=y9JtCCZP2MQ My takeaway is this: make space for exploration and learning. Great pick @swyx, to make this the first talk of the day to set the tone.
+
+![I always knew @jxnlco is an applied philosopher since I first took his class. Iconic talk today! In a doom and gloom climate, many are searching for answers on how their careers will unfold. If that i](../../../../assets/images/2026/11/12/2120970400779919385-1.jpg)
+
+🔗 [View original post](https://x.com/jysmhn/status/2120970400779919385)
 
 ---
 
