@@ -2,7 +2,17 @@
 
 ## 📅 November 11, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 22:33 UTC · @_akhaliq
+
+> Meta just released XRStereo on Hugging Face A synthetic stereo video dataset with ~18k sequences - rectified stereo pairs, dense disparity, poses &amp; intrinsics Built to train StereoSplat for metric-scale novel view synthesis
+
+![Meta just released XRStereo on Hugging Face A synthetic stereo video dataset with ~18k sequences - rectified stereo pairs, dense disparity, poses &amp; intrinsics Built to train StereoSplat for metric](../../../../assets/images/2026/11/11/2120646172646035649-1.jpg)
+
+🔗 [View original post](https://x.com/HuggingPapers/status/2120646172646035649)
 
 ---
 

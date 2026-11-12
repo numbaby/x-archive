@@ -2,7 +2,7 @@
 
 ## 📅 November 11, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
 
 ---
 
@@ -37,5 +37,13 @@
 > Super proud to announce AlphaGenome 2 - our new DNA sequence model! 🧬 It predicts the impact of DNA variants in different specific cell types - unlocking crucial information for understanding complex diseases. Available for academic research via our API: https://www.alphagenomedocs.com/ Your heart, brain, and immune system share the same DNA sequence. So how can a single-letter change affect disease in some cells, while sparing the rest? AlphaGenome 2 is our new AI model that zooms in on specific cells to help scientists understand what drives disease. 🧵
 
 🔗 [View original post](https://x.com/demishassabis/status/2120565316619284734)
+
+---
+
+### 🕐 09:36 UTC · @demishassabis
+
+> Gemini 4 carbon is fucking awesome results soon : )
+
+🔗 [View original post](https://x.com/SahilPanhotra/status/2120450473295802399)
 
 ---
