@@ -2,7 +2,17 @@
 
 ## 📅 November 13, 2026
 
-> 3 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 05:36 UTC · @swyx
+
+> AIE code summit is done! @swyx said this was the 10th one! What a great event this is! Much higher quality folks, conversations are full of alpha, new ideas, zeitgeist updates is top notch! Also I heard X allows a photo dump now? Great for post event summary! This time besides doing the regular LIVE ThursdAI show, me and @RayFernando1337 ran around and did a hallway track stream, and talked to tons of speakers, attendees, and organizers. The event was impeccably organized yet again, this time with @Beccalytics and @g2i_ai great execution and taste! Food was dope, after parties and speakers dinners were superbly organized! Really my only complaint is WiFi but that&apos;s up to the hotel usually? But so many great folks are getting into the AIE circle, that it&apos;s more than compensates for the poor connectivity! Got to see old friends and make many many new ones, learn a ton about Factories from @dexhorthy @kentcdodds and @zachlloydtweets among others, formal verification from @poteto (also shared an actual poteto ha!) and type one models from @michellechen and @ivanleomk The three themes this time according to Swyx were: - Factories - Type One models - Dreaming bigger Saw an amazing crowd around @echelon - who represents the &quot;dream bigger&quot; at this event with ArtCraft 👏 And of course felt like a Billionaire hanging out with @DevinAI at the Token Billionaires lounge! (Huge shoutout to @mattbergland yes again!) If you feel FOMO - please do check out our coverage we had a lot of fun getting behind the scene and showing you the hallway track
+
+![AIE code summit is done! @swyx said this was the 10th one! What a great event this is! Much higher quality folks, conversations are full of alpha, new ideas, zeitgeist updates is top notch! Also I hea](../../../../assets/images/2026/11/13/2121114914429501842-1.jpg)
+
+🔗 [View original post](https://x.com/altryne/status/2121114914429501842)
 
 ---
 
@@ -11,6 +21,14 @@
 > and straight to broadway show rehearsal :) see you saturday Media [non tech, non work post] Some of you know I have a side gig singing Broadway musicals. Proud to announce we&apos;re back next week (right after AIE CODE)! http://bow.show Nov 14 3pm/7pm shows left (Nov 13 sold out) ft. our favorite songs from: - Tick Tick Boom - Hamilton - Grease - …
 
 🔗 [View original post](https://x.com/swyx/status/2121088973372334443)
+
+---
+
+### 🕐 02:28 UTC · @swyx
+
+> it’s time to retvrn Apt closing to a great @aiDotEngineer with @trq212 writing code live, using an IDE.
+
+🔗 [View original post](https://x.com/trq212/status/2121067561915916575)
 
 ---
 
@@ -31,5 +49,33 @@
 ![the production team got us a cake!! #aie1m Media ONE MILLION subscribers for @aiDotEngineer! What a way to close Code Summit 2026. Two days of software factories, human judgement, verification and age](../../../../assets/images/2026/11/13/2121060183988486493-1.jpg)
 
 🔗 [View original post](https://x.com/swyx/status/2121060183988486493)
+
+---
+
+### 🕐 01:39 UTC · @swyx
+
+> Last talk of the conference, I think the first session that had source code on screen :)
+
+![Last talk of the conference, I think the first session that had source code on screen :)](../../../../assets/images/2026/11/13/2121055438825234601-1.jpg)
+
+🔗 [View original post](https://x.com/lucasmeijer/status/2121055438825234601)
+
+---
+
+### 🕐 01:21 UTC · @swyx
+
+> Super to chat with @jarredsumner at @aiDotEngineer about the future of programming languages and open source!
+
+![Super to chat with @jarredsumner at @aiDotEngineer about the future of programming languages and open source!](../../../../assets/images/2026/11/13/2121050834708647965-1.jpg)
+
+🔗 [View original post](https://x.com/kentcdodds/status/2121050834708647965)
+
+---
+
+### 🕐 01:09 UTC · @swyx
+
+> Spoke at @aiDotEngineer about what&apos;s changed about working with agents in @antigravity ! A lot of times dictating the exact steps keeps things in a local optimum. We should instead shift to defining what good looks like and free our agents to explore. Media
+
+🔗 [View original post](https://x.com/ivanleomk/status/2121047741719814217)
 
 ---

@@ -153098,6 +153098,39 @@
     "fingerprint": "cb50ccd3489012c68d914fe89afa8219c007572e911f2e5aacc719e79796c36a",
     "media": []
   },
+  "2121047741719814217": {
+    "account": "swyx",
+    "date": "2026-11-13",
+    "file": "data/posts/2026/11/2026-11-13.jsonl",
+    "fingerprint": "60222442389c9083c423a002f31668bea5324519cc33eafaa4cdb42c3017efb6",
+    "media": []
+  },
+  "2121050834708647965": {
+    "account": "swyx",
+    "date": "2026-11-13",
+    "file": "data/posts/2026/11/2026-11-13.jsonl",
+    "fingerprint": "a8afdfefb536ab26b547650ba429c60aead91f18d0012b21f92b290d5311e9f6",
+    "media": [
+      {
+        "local_path": "assets/images/2026/11/13/2121050834708647965-1.jpg",
+        "sha256": "1c3c1a185c2f669ecfc9ef9a695aec772004d59663902a7a0b21c411a0d5c871",
+        "source_url": "https://pbs.twimg.com/media/HW98fNYaQAExmfN.jpg?name=orig"
+      }
+    ]
+  },
+  "2121055438825234601": {
+    "account": "swyx",
+    "date": "2026-11-13",
+    "file": "data/posts/2026/11/2026-11-13.jsonl",
+    "fingerprint": "f2710b965562d2e6cd7ae40e7bb57b792e86e5e2bce02cd95b9de5626fa7f861",
+    "media": [
+      {
+        "local_path": "assets/images/2026/11/13/2121055438825234601-1.jpg",
+        "sha256": "926685661ed50136c0d23a46d66749ad104afab335a6be378b4e1089c97dafec",
+        "source_url": "https://pbs.twimg.com/media/HW-ArL1XIAA5NSI.jpg?name=orig"
+      }
+    ]
+  },
   "2121060183988486493": {
     "account": "swyx",
     "date": "2026-11-13",
@@ -153124,12 +153157,32 @@
       }
     ]
   },
+  "2121067561915916575": {
+    "account": "swyx",
+    "date": "2026-11-13",
+    "file": "data/posts/2026/11/2026-11-13.jsonl",
+    "fingerprint": "7d5b396adce18aed4378f78b42895048e77f6463cbcda19a56cc1648b0507d7e",
+    "media": []
+  },
   "2121088973372334443": {
     "account": "swyx",
     "date": "2026-11-13",
     "file": "data/posts/2026/11/2026-11-13.jsonl",
     "fingerprint": "610ae5361cfef0719d01e798bd95f2b5924b4fce46472e63becaa9554eff7981",
     "media": []
+  },
+  "2121114914429501842": {
+    "account": "swyx",
+    "date": "2026-11-13",
+    "file": "data/posts/2026/11/2026-11-13.jsonl",
+    "fingerprint": "e4719b2d2e41476567b27b02af59cf0149945caf6a59fb86e05bd41ccd1def68",
+    "media": [
+      {
+        "local_path": "assets/images/2026/11/13/2121114914429501842-1.jpg",
+        "sha256": "216682c82d046216dc0fc85f8b1f979bb3fb66e85b5327e5919ffddfe3e4a0a4",
+        "source_url": "https://pbs.twimg.com/media/HW-2xPFakAABsc3.jpg?name=orig"
+      }
+    ]
   },
   "2121118479537394105": {
     "account": "elonmusk",
