@@ -2,7 +2,39 @@
 
 ## 📅 November 13, 2026
 
-> 2 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 15:51 UTC · @tunguz
+
+> It&apos;s OK, I moved to Georgia and became a fiddler. At your highest moment, be careful. That is when the devil comes for you.
+
+🔗 [View original post](https://x.com/tunguz/status/2121269631541203066)
+
+---
+
+### 🕐 15:47 UTC · @tunguz
+
+> In general I find Florida to be the most racially integrated place of all the places I&apos;ve lived in the US. It’s crazy how segregated Detroit still is. The anti-Detroit can be found in Florida: Port St Lucie. Source: https://buff.ly/PPiRxPI
+
+🔗 [View original post](https://x.com/tunguz/status/2121268849911767271)
+
+---
+
+### 🕐 15:45 UTC · @tunguz
+
+> Whales achieved internally. Ambulocetus. a mammal that played a similar ecological to modern crocodiles, waiting around at the edges of the rivers to snap up land mammals. He is the ancestor to all modern whales and dolphins
+
+🔗 [View original post](https://x.com/tunguz/status/2121268268203987326)
+
+---
+
+### 🕐 15:31 UTC · @tunguz
+
+> No one has properly internalized this. Primarily because what we’ll be going through has no precedent in all of human history. I admit that I have not internalized this.
+
+🔗 [View original post](https://x.com/tunguz/status/2121264601929232581)
 
 ---
 

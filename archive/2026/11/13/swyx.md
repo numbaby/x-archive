@@ -2,7 +2,7 @@
 
 ## 📅 November 13, 2026
 
-> 16 post(s) archived.
+> 17 post(s) archived.
 
 ---
 
@@ -85,6 +85,14 @@
 > Quinn Slack (@sqs), Amp at #AIECode: the company of the future has code review, no PRs, no departments, and no roadmap. Media
 
 🔗 [View original post](https://x.com/helloLizZhang/status/2121056582729699330)
+
+---
+
+### 🕐 01:41 UTC · @swyx
+
+> thank you to everyone who came by the booth and Devin lounge for AIE code summit! looking forward to the next one and seeing everyone again soon 🫶
+
+🔗 [View original post](https://x.com/mattbergland/status/2121055775229665610)
 
 ---
 

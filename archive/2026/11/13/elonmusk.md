@@ -2,7 +2,52 @@
 
 ## 📅 November 13, 2026
 
-> 9 post(s) archived.
+> 14 post(s) archived.
+
+---
+
+### 🕐 15:55 UTC · @elonmusk
+
+> BREAKING: Starlink is bringing fast internet to rural communities in Timor-Leste. 🇹🇱 In Suco Aubeon, residents and community leaders now have @Starlink through VorakaiConnect, helping: • Families stay connected. • Residents access news and information. • Community leaders carry out local administration. Across the country, the Government’s partnership with Vorakai covers 450 village headquarters, using Starlink to connect local offices to digital government systems while fiber networks expand.
+
+![BREAKING: Starlink is bringing fast internet to rural communities in Timor-Leste. 🇹🇱 In Suco Aubeon, residents and community leaders now have @Starlink through VorakaiConnect, helping: • Families stay](../../../../assets/images/2026/11/13/2121270651650814087-1.jpg)
+
+🔗 [View original post](https://x.com/cb_doge/status/2121270651650814087)
+
+---
+
+### 🕐 15:47 UTC · @elonmusk
+
+> And remember …
+
+![And remember …](../../../../assets/images/2026/11/13/2121268692453343344-1.jpg)
+
+🔗 [View original post](https://x.com/elonmusk/status/2121268692453343344)
+
+---
+
+### 🕐 15:43 UTC · @elonmusk
+
+> Starlink United Airlines CEO in new interview on @Starlink Wi-Fi: &quot;Wi-Fi is the No. 1 reason that people pick an airline flight. I think it&apos;s the biggest near-term competitive advantage that we&apos;ve ever had in United&apos;s 100-year history. And it really is something that&apos;s causing customers …
+
+🔗 [View original post](https://x.com/elonmusk/status/2121267716023546027)
+
+---
+
+### 🕐 15:38 UTC · @elonmusk
+
+> True &quot;Socialism sucks.&quot; - @mlevchin &quot;Take it from somebody who spent his first 16 years under the &apos;warm embrace of collectivism&apos; as a certain mayor recently put it—socialism sucks.&quot; &quot;The only people who do well in redistribution of wealth are the ones doing redistribution.&quot; &quot;It&apos;s fun…
+
+🔗 [View original post](https://x.com/elonmusk/status/2121266455442292980)
+
+---
+
+### 🕐 14:39 UTC · @elonmusk
+
+
+![](../../../../assets/images/2026/11/13/2121251707393024486-1.jpg)
+
+🔗 [View original post](https://x.com/justinbieber/status/2121251707393024486)
 
 ---
 

@@ -2,7 +2,23 @@
 
 ## 📅 November 13, 2026
 
-> 2 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 15:58 UTC · @omarsar0
+
+> Interesting how relevant this 1999 Microsoft Research paper on human-agent interaction has become. The idea isn&apos;t new, but it&apos;s becoming increasingly important as AI agents grow more autonomous: figuring out when agents should act independently, when they should ask for help, and how humans should intervene. The paper introduces principles for mixed-initiative interfaces, where humans and intelligent agents share control based on uncertainty, context, and the cost of interruptions. Almost three decades later, Antimattr is exploring the hardware side of this problem with AI earphones and a smart ring designed to let people direct agents through voice. As agents become capable of handling longer, more complex workflows, the interface between humans and agents becomes an important part of the system. Worth revisiting this research as we think about the next generation of agent infrastructure. https://www.microsoft.com/en-us/research/publication/principles-mixed-initiative-user-interfaces/ we shut down a software business making $250k a year to build a hardware company put $20k of our own money into it, moved to the US with less than 3 months of runway, and eventually got into @ycombinator today, we&apos;re introducing @antimattr_one we&apos;re building a voice-first hardwa…
+
+🔗 [View original post](https://x.com/omarsar0/status/2121271462984073550)
+
+---
+
+### 🕐 15:32 UTC · @omarsar0
+
+> By the way, I have been working on a system that produces these technical visual explainers for papers and talks. Explainers have also become a huge part of how I produce artifacts, which really helps with understanding technical topics. So I got super excited about these results because you often don&apos;t want to wait too long for some of these generations. These flash models are very promising for this. I will share more thoughts in a future post on how I use explainers alongside visual artifacts across a wider range of workflows.
+
+🔗 [View original post](https://x.com/omarsar0/status/2121264922440946089)
 
 ---
 
