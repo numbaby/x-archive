@@ -2,7 +2,15 @@
 
 ## 📅 November 13, 2026
 
-> 6 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 16:20 UTC · @tunguz
+
+> Invest everything into stepmaxxing. Move to Japan if you have to. i’ve been averaging ~22,000 steps a day in japan walking is awesome
+
+🔗 [View original post](https://x.com/tunguz/status/2121277109712601321)
 
 ---
 

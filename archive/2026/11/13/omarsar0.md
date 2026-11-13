@@ -2,7 +2,65 @@
 
 ## 📅 November 13, 2026
 
-> 4 post(s) archived.
+> 11 post(s) archived.
+
+---
+
+### 🕐 17:18 UTC · @omarsar0
+
+> No question that Drex Max is a top decision model. Drex Max v1.1 ranks #1 among decision models on the Artificial Analysis Decision Index. Last week, they also shared a paper on how they built Drex, their family of open decision models. This week, Drex Max v1.1 is the #1 decision model on the @ArtificialAnlys Decision Index, out of 19, and on the Pareto frontier 🦖 72.6, above Jev 1.14, Claude Haiku 5.5 and GPT-6 Luna, on an index where 45% of the evaluation data is fully private and out of distribution. $103 /…
+
+🔗 [View original post](https://x.com/omarsar0/status/2121291529662922937)
+
+---
+
+### 🕐 17:18 UTC · @omarsar0
+
+> We have started to use Drex Max for research triage in production, so it&apos;s good to see it hold up on an independent index. Example: https://x.com/omarsar0/status/2121277499673895121?a=pJ55CTO2QoGRBf7RpHg&amp;s=20 Introducing our new AI Paper Collections. You can now track highly recommended papers and tools for harness engineering and recursive self-improvement. Updates daily! Built on our in-house paper curation tools. You can also chat with the papers via our paper chat tool or MCP too…
+
+🔗 [View original post](https://x.com/omarsar0/status/2121291531420045520)
+
+---
+
+### 🕐 17:02 UTC · @omarsar0
+
+> Join the waitlist here: https://platform.xerj.ai/
+
+🔗 [View original post](https://x.com/omarsar0/status/2121287647041565040)
+
+---
+
+### 🕐 16:51 UTC · @omarsar0
+
+> Interesting how relevant this 1999 Microsoft Research paper on human-agent interaction has become. The idea isn&apos;t new, but it&apos;s becoming increasingly important as AI agents grow more autonomous: figuring out when agents should act independently, when they should ask for help, and how humans should intervene. The paper introduces principles for mixed-initiative interfaces, where humans and intelligent agents share control based on uncertainty, context, and the cost of interruptions. Almost three decades later, Antimattr is exploring the hardware side of this problem with AI earphones and a smart ring designed to let people direct agents through voice. As agents become capable of handling longer, more complex workflows, the interface between humans and agents becomes an important part of the system. Worth revisiting this research as we think about the next generation of agent infrastructure. https://www.microsoft.com/en-us/research/publication/principles-mixed-initiative-user-interfaces/ we shut down a software business making $250k a year to build a hardware company put $20k of our own money into it, moved to the US with less than 3 months of runway, and eventually got into @ycombinator today, we&apos;re introducing @antimattr_one we&apos;re building a voice-first hardwa…
+
+![Interesting how relevant this 1999 Microsoft Research paper on human-agent interaction has become. The idea isn&apos;t new, but it&apos;s becoming increasingly important as AI agents grow more autonom](../../../../assets/images/2026/11/13/2121284945628803270-1.png)
+
+🔗 [View original post](https://x.com/omarsar0/status/2121284945628803270)
+
+---
+
+### 🕐 16:50 UTC · @omarsar0
+
+> Neurosymbolic AI is making a comeback. Reader-1 from @xerj_org answers questions about a document by pointing to the exact words. That would save me a lot of time, since I pull numbers out of papers all the time for my research. XERJ says it&apos;s 20 to 90x faster than LLMs and 400x cheaper than Claude Opus 5.5 on input tokens. I&apos;ve built a new AI model that is not allowed to generate text. Instead, it produces a verifiable program that answers your prompt using the original reference. XERJ Reader-1 is a neurosymbolic model for working with data. It points to the exact words in your document, writes a …
+
+🔗 [View original post](https://x.com/omarsar0/status/2121284704443789367)
+
+---
+
+### 🕐 16:26 UTC · @omarsar0
+
+> We are constantly improving the tools, so let me know if you run into any issues. So many have asked me, &quot;How do you keep up with AI research?&quot; Well, I think it&apos;s my top recommendation for now. Hope you find it useful.
+
+🔗 [View original post](https://x.com/omarsar0/status/2121278509515735049)
+
+---
+
+### 🕐 16:25 UTC · @omarsar0
+
+> All of this is free to use. You can create a free account, chat with the papers, and connect the MCP tools to your agents.
+
+🔗 [View original post](https://x.com/omarsar0/status/2121278235065581922)
 
 ---
 

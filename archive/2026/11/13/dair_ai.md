@@ -2,7 +2,17 @@
 
 ## 📅 November 13, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 16:22 UTC · @dair_ai
+
+> Introducing our new AI Paper Collections. You can now track highly recommended papers and tools for harness engineering and recursive self-improvement. Updates daily! Built on our in-house paper curation tools. You can also chat with the papers via our paper chat tool or MCP tools. Harness Engineering: https://academy.dair.ai/papers/collections/harness-engineering?view=latest RSI: https://academy.dair.ai/papers/collections/self-improving-agents?view=latest
+
+![Introducing our new AI Paper Collections. You can now track highly recommended papers and tools for harness engineering and recursive self-improvement. Updates daily! Built on our in-house paper curat](../../../../assets/images/2026/11/13/2121277499673895121-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2121277499673895121)
 
 ---
 
