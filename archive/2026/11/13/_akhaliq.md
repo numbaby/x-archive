@@ -2,7 +2,15 @@
 
 ## 📅 November 13, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 17:27 UTC · @_akhaliq
+
+> G-STAR Group-Scaled Token Capacity for Deeply Compressed Autoregressive Generation paper: https://huggingface.co/papers/2611.13004 Media
+
+🔗 [View original post](https://x.com/_akhaliq/status/2121293765889663321)
 
 ---
 

@@ -2,7 +2,15 @@
 
 ## 📅 November 13, 2026
 
-> 11 post(s) archived.
+> 12 post(s) archived.
+
+---
+
+### 🕐 17:33 UTC · @omarsar0
+
+> I want this so bad. A lot of the tech we have today simply doesn&apos;t work for managing context and an always-on AI experience. We already have proactive personal agents, but they need a good hardware pairing to bring more real-world, real-time context to our agents. And it&apos;s not just about capturing context; the goal is to make things more actionable and achieve insane levels of productivity. Backed by YC and Paul Graham, we&apos;re building Vexo, an always-listening AI bracelet that turns your conversations into action. Built by engineers from Tesla, AMD, and Amazon. One sentence to Vexo can: •Get Claude building the feature you wanted •Text the family •Block your calend…
+
+🔗 [View original post](https://x.com/omarsar0/status/2121295385591505064)
 
 ---
 
