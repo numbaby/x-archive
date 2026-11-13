@@ -2,7 +2,23 @@
 
 ## 📅 November 13, 2026
 
-> 7 post(s) archived.
+> 9 post(s) archived.
+
+---
+
+### 🕐 14:36 UTC · @elonmusk
+
+> Hmm What?! So journalists with sketchy motives portrayed rumors from god-knows-who (lobbyists?) as facts sourced from intelligence officials and gaslit the NVIDIA board to push out the founder, CEO, and once-in-generation visionary? This raises serious corporate governance issues.
+
+🔗 [View original post](https://x.com/elonmusk/status/2121250804447445203)
+
+---
+
+### 🕐 14:33 UTC · @elonmusk
+
+> Starship 42 preparing for launch Ship 42 moves to the Starbase pad ahead of launch
+
+🔗 [View original post](https://x.com/elonmusk/status/2121250205806772283)
 
 ---
 
