@@ -2,7 +2,7 @@
 
 ## 📅 November 13, 2026
 
-> 8 post(s) archived.
+> 16 post(s) archived.
 
 ---
 
@@ -16,11 +16,39 @@
 
 ---
 
+### 🕐 05:26 UTC · @swyx
+
+> Very cool humans hanging out at @aiDotEngineer ♥️ @poteto @altryne @osanseviero @EvanOtero @vamsibatchuk @ericavaneee @nafisazizir
+
+![Very cool humans hanging out at @aiDotEngineer ♥️ @poteto @altryne @osanseviero @EvanOtero @vamsibatchuk @ericavaneee @nafisazizir](../../../../assets/images/2026/11/13/2121112508849152350-1.jpg)
+
+🔗 [View original post](https://x.com/hellogabbo/status/2121112508849152350)
+
+---
+
+### 🕐 04:35 UTC · @swyx
+
+> The @aiDotEngineer code summit went off 🚀 Huge congrats to @swyx on bringing so many amazing people together, really the 🐐🫶
+
+![The @aiDotEngineer code summit went off 🚀 Huge congrats to @swyx on bringing so many amazing people together, really the 🐐🫶](../../../../assets/images/2026/11/13/2121099689269535035-1.jpg)
+
+🔗 [View original post](https://x.com/meganreyno/status/2121099689269535035)
+
+---
+
 ### 🕐 03:53 UTC · @swyx
 
 > and straight to broadway show rehearsal :) see you saturday Media [non tech, non work post] Some of you know I have a side gig singing Broadway musicals. Proud to announce we&apos;re back next week (right after AIE CODE)! http://bow.show Nov 14 3pm/7pm shows left (Nov 13 sold out) ft. our favorite songs from: - Tick Tick Boom - Hamilton - Grease - …
 
 🔗 [View original post](https://x.com/swyx/status/2121088973372334443)
+
+---
+
+### 🕐 02:33 UTC · @swyx
+
+> AIE Code Summit After loading... Media Media
+
+🔗 [View original post](https://x.com/MarcBaiza/status/2121068981436198914)
 
 ---
 
@@ -52,6 +80,14 @@
 
 ---
 
+### 🕐 01:44 UTC · @swyx
+
+> Quinn Slack (@sqs), Amp at #AIECode: the company of the future has code review, no PRs, no departments, and no roadmap. Media
+
+🔗 [View original post](https://x.com/helloLizZhang/status/2121056582729699330)
+
+---
+
 ### 🕐 01:39 UTC · @swyx
 
 > Last talk of the conference, I think the first session that had source code on screen :)
@@ -62,6 +98,34 @@
 
 ---
 
+### 🕐 01:23 UTC · @swyx
+
+> What a week at @aiDotEngineer! S/o to @swyx for making it happen, and thanks to everyone who came by to say hi and celebrate the week of Gemini. 🚢
+
+![What a week at @aiDotEngineer! S/o to @swyx for making it happen, and thanks to everyone who came by to say hi and celebrate the week of Gemini. 🚢](../../../../assets/images/2026/11/13/2121051314591572215-1.jpg)
+
+🔗 [View original post](https://x.com/EvanOtero/status/2121051314591572215)
+
+---
+
+### 🕐 01:23 UTC · @swyx
+
+> This workflow is gold. I’ve been working on improving all my agents, and the quality of work they do. @dexhorthy made an amazing presentation, and I will be implementing all of this into my workflow
+
+![This workflow is gold. I’ve been working on improving all my agents, and the quality of work they do. @dexhorthy made an amazing presentation, and I will be implementing all of this into my workflow](../../../../assets/images/2026/11/13/2121051174967410948-1.jpg)
+
+🔗 [View original post](https://x.com/calebhowell437/status/2121051174967410948)
+
+---
+
+### 🕐 01:22 UTC · @swyx
+
+> New @dexhorthy manifesto just dropped 👀 https://www.slopmanifesto.com/
+
+🔗 [View original post](https://x.com/andrewtorkbaker/status/2121050932993769486)
+
+---
+
 ### 🕐 01:21 UTC · @swyx
 
 > Super to chat with @jarredsumner at @aiDotEngineer about the future of programming languages and open source!
@@ -69,6 +133,14 @@
 ![Super to chat with @jarredsumner at @aiDotEngineer about the future of programming languages and open source!](../../../../assets/images/2026/11/13/2121050834708647965-1.jpg)
 
 🔗 [View original post](https://x.com/kentcdodds/status/2121050834708647965)
+
+---
+
+### 🕐 01:21 UTC · @swyx
+
+> Last year people laughed at the idea of &quot;vibe-coding Salesforce&quot;. Now? People realize you only ever need 1% of Salesforce, and more and more people can use an agent to build the 1% they need plus the other stuff that Salesforce would never have built. And I think we all know which would be better to use. “Why would you vibecode Salseforce? Why would you do that?? Would you be proud if you vibecoded a CRM and Salesforce came out the other end?” – @sqs on building a “new kind of company” at @aiDotEngineer
+
+🔗 [View original post](https://x.com/sqs/status/2121050803024847011)
 
 ---
 
