@@ -2,7 +2,15 @@
 
 ## 📅 November 13, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 20:23 UTC · @demishassabis
+
+> What we shipped this week @google Monday: Two new 8th-gen TPUs Tuesday: Gemini 4 Carbon - AlphaProof Code verified Signal protocol - Gemini Robotics 2.5 Wednesday: AlphaGenome 2 for disease research - Gemini Decisions API in AI Studio Thursday: Gemini 4 Hydrogen - intelligent eyewear pre-orders Friday: U2 new album (ok not us but exciting!) onwards!
+
+🔗 [View original post](https://x.com/sundarpichai/status/2121338095664808238)
 
 ---
 

@@ -2,7 +2,7 @@
 
 ## 📅 November 13, 2026
 
-> 24 post(s) archived.
+> 25 post(s) archived.
 
 ---
 
@@ -61,6 +61,14 @@
 > Made on Earth by humans Looks like a scene from a sci-fi film but it’s just my drive to work this morning
 
 🔗 [View original post](https://x.com/elonmusk/status/2121317331179614676)
+
+---
+
+### 🕐 18:57 UTC · @elonmusk
+
+> About 4 hours to Flight 15 Watch Starship Flight 15 https://x.com/i/broadcasts/2brajgZlOKRMka
+
+🔗 [View original post](https://x.com/elonmusk/status/2121316611974185273)
 
 ---
 
