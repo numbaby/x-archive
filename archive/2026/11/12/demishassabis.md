@@ -2,7 +2,7 @@
 
 ## 📅 November 12, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
 
 ---
 
@@ -13,6 +13,14 @@
 ![Ok this is a big deal. We’ve been testing Gemini 4 Hydrogen in early access with the Box AI Complex Work Eval, and it’s a serious jump for fast models. Hydrogen is 5 percentage points better in accura](../../../../assets/images/2026/11/12/2120947988143198302-1.jpg)
 
 🔗 [View original post](https://x.com/levie/status/2120947988143198302)
+
+---
+
+### 🕐 18:11 UTC · @demishassabis
+
+> Today, Search is getting a massive upgrade with Gemini 4 Hydrogen! It’s the biggest model improvement to Search yet. And it’s available now for all users, globally. Why it’s awesome: - Crazy fast - Cutting-edge intelligence, with advanced reasoning, more precise instruction following, and better tool calling - More visual responses, including images and custom tables, charts, and simulations - More scannable response layout - Better understanding of intent (including for long multi-part queries with ambiguous typos) - Broader range of links to the web (improved reasoning -&gt; more query fan-outs) TL;DR: powerful and fast. Take Hydrogen for a spin in Search and let me know what you think! Media
+
+🔗 [View original post](https://x.com/thefox/status/2120942632679674209)
 
 ---
 

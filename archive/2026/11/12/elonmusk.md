@@ -2,7 +2,7 @@
 
 ## 📅 November 12, 2026
 
-> 9 post(s) archived.
+> 10 post(s) archived.
 
 ---
 
@@ -29,6 +29,14 @@
 ![Development of the Starbase supercompute site is creating an opportunity to address decades of environmental neglect. Portions of the property were used for unauthorized dumping dating back to the 196](../../../../assets/images/2026/11/12/2120911969087607288-1.jpg)
 
 🔗 [View original post](https://x.com/SpaceX/status/2120911969087607288)
+
+---
+
+### 🕐 14:31 UTC · @elonmusk
+
+> A sad day for NVIDIA, developers, America, and all humanity. Jensen founded and ran one of the few companies to reach a massive scale while driving massive continued innovation and ubiquity, while others fell into the trap of ever-increasing extraction. Congrats to everyone at NVIDIA, and to Jensen, the man who saved GDC 2015 by launching a new GPU line at State of Unreal! 😀 Now the world’s top 2 companies operate awesome untaxed pro-developer ecosystems.
+
+🔗 [View original post](https://x.com/TimSweeneyEpic/status/2120887322312921465)
 
 ---
 

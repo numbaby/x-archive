@@ -2,7 +2,15 @@
 
 ## 📅 November 12, 2026
 
-> 8 post(s) archived.
+> 9 post(s) archived.
+
+---
+
+### 🕐 21:21 UTC · @omarsar0
+
+> Search speed matters a lot more once agents make dozens of calls per task. Excited about Octen Pulse. It&apos;s an open-source search engine tuned for very low latency. Worth trying in your agent stack. 10ms. Unlimited for $20/month. Now multimodal. Today, @OctenAI is launching: 1. Octen Pulse: Open-source search at the speed of a single token. 2. Unlimited Search: $20/month. No more counting API calls. 3. Multimodal Search: Text and images. Platform. Humans search with Google.…
+
+🔗 [View original post](https://x.com/omarsar0/status/2120990353339670549)
 
 ---
 

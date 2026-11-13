@@ -2,7 +2,17 @@
 
 ## 📅 November 12, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 23:50 UTC · @dair_ai
+
+> // Trustworthy Recursive Self-Improvement // Self-improving agents usually keep any harness update that raises the validation score, so noisy gains get accepted, and this later costs performance. Researchers measured how often this happens. Under a greedy gate, 45.59% of accepted updates were actually worse. Their gate, TRUST, treats each acceptance as a statistical test and controls the share of accepted updates that cause a real loss. An LLM reads the loop&apos;s history to decide how much evidence each update needs. Across HotpotQA, DROP, and APPS with DeepSeek-V4-Flash and Qwen-3.8-Flash, bad acceptances fell to 2.78%. Final scores were also higher than with earlier statistical gates, which tend to reject good updates. They prove a bound on bad acceptances and a lower bound on the final gain. https://arxiv.org/abs/2611.10787 Chat with Paper: https://academy.dair.ai/papers/trustworthy-recursive-self-improvement-with-statistical-guarantees-2611.10787
+
+![// Trustworthy Recursive Self-Improvement // Self-improving agents usually keep any harness update that raises the validation score, so noisy gains get accepted, and this later costs performance. Rese](../../../../assets/images/2026/11/12/2121027770629382531-1.jpg)
+
+🔗 [View original post](https://x.com/dair_ai/status/2121027770629382531)
 
 ---
 

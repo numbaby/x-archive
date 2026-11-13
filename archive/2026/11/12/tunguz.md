@@ -2,7 +2,17 @@
 
 ## 📅 November 12, 2026
 
-> 18 post(s) archived.
+> 19 post(s) archived.
+
+---
+
+### 🕐 23:09 UTC · @tunguz
+
+> First benchmarks are in. This is pretty sick. Le Big Mac
+
+![First benchmarks are in. This is pretty sick. Le Big Mac](../../../../assets/images/2026/11/12/2121017504894005672-1.png)
+
+🔗 [View original post](https://x.com/tunguz/status/2121017504894005672)
 
 ---
 

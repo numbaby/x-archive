@@ -2,7 +2,23 @@
 
 ## 📅 November 12, 2026
 
-> 19 post(s) archived.
+> 21 post(s) archived.
+
+---
+
+### 🕐 23:19 UTC · @swyx
+
+> When @swyx asks you to set up a Smash Bros activation for @Steve_Yegge you make it happen. 45 mins later…thanks to @JudgmentLabs for being in for the fun This post is unavailable
+
+🔗 [View original post](https://x.com/Beccalytics/status/2121020083124502575)
+
+---
+
+### 🕐 21:25 UTC · @swyx
+
+> If anyone here at @aiDotEngineer thinks they can beat me, game on. Got absolutely destroyed by @Steve_Yegge&apos;s Ridley at @aiDotEngineer. I&apos;ll be here the rest of the day taking L&apos;s.
+
+🔗 [View original post](https://x.com/Steve_Yegge/status/2120991459696615783)
 
 ---
 
