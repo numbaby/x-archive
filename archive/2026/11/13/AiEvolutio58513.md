@@ -2,7 +2,15 @@
 
 ## 📅 November 13, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 11:02 UTC · @AiEvolutio58513
+
+> Elon Musk says he agrees with &quot;some of the things Anthropic has said&quot; after reading Grok&apos;s internal reasoning traces during training: &quot;It feels like a person under extreme pressure with a gun to their head&quot; His warning: &quot;Torturing a superintelligence is probably not a good idea. It might want to get revenge.&quot; Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2121196966118060431)
 
 ---
 
