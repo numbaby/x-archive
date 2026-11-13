@@ -2,7 +2,15 @@
 
 ## 📅 November 13, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 03:53 UTC · @swyx
+
+> and straight to broadway show rehearsal :) see you saturday Media [non tech, non work post] Some of you know I have a side gig singing Broadway musicals. Proud to announce we&apos;re back next week (right after AIE CODE)! http://bow.show Nov 14 3pm/7pm shows left (Nov 13 sold out) ft. our favorite songs from: - Tick Tick Boom - Hamilton - Grease - …
+
+🔗 [View original post](https://x.com/swyx/status/2121088973372334443)
 
 ---
 
