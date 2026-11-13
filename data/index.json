@@ -153594,6 +153594,19 @@
       }
     ]
   },
+  "2121273521158717782": {
+    "account": "ylecun",
+    "date": "2026-11-13",
+    "file": "data/posts/2026/11/2026-11-13.jsonl",
+    "fingerprint": "6ef796ca095b661dd9ef8abf4b3ec637c7f82a41e3c9006d8356497a587f5544",
+    "media": [
+      {
+        "local_path": "assets/images/2026/11/13/2121273521158717782-1.jpg",
+        "sha256": "5c770eb632fc8b69a8515d0f9d2ed83f90c2c59c4c2d49fd43ee4cdad94ced23",
+        "source_url": "https://pbs.twimg.com/media/HXBGOFIXgAAv0AF.jpg?name=orig"
+      }
+    ]
+  },
   "2121277109712601321": {
     "account": "tunguz",
     "date": "2026-11-13",
@@ -153680,6 +153693,19 @@
     "file": "data/posts/2026/11/2026-11-13.jsonl",
     "fingerprint": "f10087caa71f84a9985c2859b144e5355f2217833e3faada3d964da7860e0b01",
     "media": []
+  },
+  "2121288392742982125": {
+    "account": "elonmusk",
+    "date": "2026-11-13",
+    "file": "data/posts/2026/11/2026-11-13.jsonl",
+    "fingerprint": "25b31255edbc670b9a82ef2d8b99740db0af8b628efa8ca4ce7ef811f5b8b0cf",
+    "media": [
+      {
+        "local_path": "assets/images/2026/11/13/2121288392742982125-1.jpg",
+        "sha256": "7305e9ce24740c59feeda34676449007fc5476377ebdb50a5f445f2509aa2527",
+        "source_url": "https://pbs.twimg.com/media/HXBUi_bbIAEcgbP.jpg?name=orig"
+      }
+    ]
   },
   "2121291529662922937": {
     "account": "omarsar0",
@@ -153789,6 +153815,26 @@
     "date": "2026-11-13",
     "file": "data/posts/2026/11/2026-11-13.jsonl",
     "fingerprint": "f37096a8d7d446dd6810227ebdc5a1c8a960f006b41ec00739f7fae99cb15621",
+    "media": []
+  },
+  "2121345052635013236": {
+    "account": "omarsar0",
+    "date": "2026-11-13",
+    "file": "data/posts/2026/11/2026-11-13.jsonl",
+    "fingerprint": "14ce976d4d5931cd5cd33251972d86c0bc185ae576d073f123c3b87de553617e",
+    "media": [
+      {
+        "local_path": "assets/images/2026/11/13/2121345052635013236-1.jpg",
+        "sha256": "6b9f59482a2c57e8391ea09d06f7545522b1db873fb7f59f2ce81fccf7121fb2",
+        "source_url": "https://pbs.twimg.com/media/HXCE5ViXwAAqmO_.jpg?name=orig"
+      }
+    ]
+  },
+  "2121345211959804234": {
+    "account": "elonmusk",
+    "date": "2026-11-13",
+    "file": "data/posts/2026/11/2026-11-13.jsonl",
+    "fingerprint": "77f62790be5dc811ef7f781f281a3f0cf473f20559a7309be234c63fcbf42a5c",
     "media": []
   }
 }

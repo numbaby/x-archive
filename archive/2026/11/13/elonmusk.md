@@ -2,7 +2,15 @@
 
 ## 📅 November 13, 2026
 
-> 22 post(s) archived.
+> 24 post(s) archived.
+
+---
+
+### 🕐 20:51 UTC · @elonmusk
+
+> @yunta_tsai A petition is underway to reinstate Jensen and I’m signing it too
+
+🔗 [View original post](https://x.com/elonmusk/status/2121345211959804234)
 
 ---
 
@@ -53,6 +61,16 @@
 > Made on Earth by humans Looks like a scene from a sci-fi film but it’s just my drive to work this morning
 
 🔗 [View original post](https://x.com/elonmusk/status/2121317331179614676)
+
+---
+
+### 🕐 17:05 UTC · @elonmusk
+
+> BREAKING: SpaceX says Boca Chica Beach will remain public, outlining major efforts to protect and restore it. • More than 50 tons of trash have been removed through weekly beach cleanups with the City of Starbase. • It has offered to invest tens of millions of dollars to fight beach erosion, restore the shoreline and preserve public access. • Its work with conservation partners has contributed to record sea turtle rescue efforts. • The proposed purchase covers approximately 1,200 acres surrounding the launch facility. Boca Chica Beach and the Texas coastline are excluded. • Around 600 acres would be permanently protected from development to preserve sensitive coastal habitat. • Proceeds from the proposed sale would help Texas invest in new parks and recreation in the Rio Grande Valley. • SpaceX is working with state agencies to improve safety around the launch facility while maintaining public beach access.
+
+![BREAKING: SpaceX says Boca Chica Beach will remain public, outlining major efforts to protect and restore it. • More than 50 tons of trash have been removed through weekly beach cleanups with the City](../../../../assets/images/2026/11/13/2121288392742982125-1.jpg)
+
+🔗 [View original post](https://x.com/cb_doge/status/2121288392742982125)
 
 ---
 
