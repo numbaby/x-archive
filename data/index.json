@@ -153058,6 +153058,13 @@
     "fingerprint": "18cd7d94cec1e3e5ee6bb0eae1edfc32ee35709211990bd13cd4189b565c3c88",
     "media": []
   },
+  "2121035025688957415": {
+    "account": "elonmusk",
+    "date": "2026-11-13",
+    "file": "data/posts/2026/11/2026-11-13.jsonl",
+    "fingerprint": "a2f8142a9042fc690cea6f743e672335b4e9bce8c1dd15194d4746e0388d3738",
+    "media": []
+  },
   "2121035321211318565": {
     "account": "omarsar0",
     "date": "2026-11-13",
@@ -153083,6 +153090,13 @@
         "source_url": "https://pbs.twimg.com/media/HW9xkj-bsAEV4fm.jpg?name=orig"
       }
     ]
+  },
+  "2121040067930058897": {
+    "account": "elonmusk",
+    "date": "2026-11-13",
+    "file": "data/posts/2026/11/2026-11-13.jsonl",
+    "fingerprint": "cb50ccd3489012c68d914fe89afa8219c007572e911f2e5aacc719e79796c36a",
+    "media": []
   },
   "2121060183988486493": {
     "account": "swyx",
@@ -153115,6 +153129,34 @@
     "date": "2026-11-13",
     "file": "data/posts/2026/11/2026-11-13.jsonl",
     "fingerprint": "610ae5361cfef0719d01e798bd95f2b5924b4fce46472e63becaa9554eff7981",
+    "media": []
+  },
+  "2121118479537394105": {
+    "account": "elonmusk",
+    "date": "2026-11-13",
+    "file": "data/posts/2026/11/2026-11-13.jsonl",
+    "fingerprint": "abfeb9ebb99cac80f07a7d940d6335ec02951f3a308d6f4eaad716014fcb1a93",
+    "media": []
+  },
+  "2121118775210868871": {
+    "account": "elonmusk",
+    "date": "2026-11-13",
+    "file": "data/posts/2026/11/2026-11-13.jsonl",
+    "fingerprint": "ec1a6569a4a42dbdf50ad1b197f96465f2f6725904c222e8d84e11f9513d92e8",
+    "media": []
+  },
+  "2121120295884837183": {
+    "account": "elonmusk",
+    "date": "2026-11-13",
+    "file": "data/posts/2026/11/2026-11-13.jsonl",
+    "fingerprint": "934b3db11368e093c3abe0ed1799c03ed4257ca4d96cd327ef10812b54165bda",
+    "media": []
+  },
+  "2121123425213399408": {
+    "account": "elonmusk",
+    "date": "2026-11-13",
+    "file": "data/posts/2026/11/2026-11-13.jsonl",
+    "fingerprint": "57b5dd6eb1c525fdc36c266c637bcb74132f9a95727503a3e314fa9bfb20c241",
     "media": []
   }
 }
