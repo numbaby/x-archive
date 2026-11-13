@@ -2,7 +2,23 @@
 
 ## 📅 November 13, 2026
 
-> 19 post(s) archived.
+> 22 post(s) archived.
+
+---
+
+### 🕐 20:14 UTC · @elonmusk
+
+> Try Grok @Bot today! Grok Bot can now join meetings. Ask it questions, assign it work, or have it keep track of what your team decides.
+
+🔗 [View original post](https://x.com/elonmusk/status/2121335897744372073)
+
+---
+
+### 🕐 19:36 UTC · @elonmusk
+
+> grok bot is literally becoming the only ai system you&apos;ll ever need to use. so many enterprise use cases already, and they&apos;re really sealing the deal with this Grok Bot can now join meetings. Ask it questions, assign it work, or have it keep track of what your team decides.
+
+🔗 [View original post](https://x.com/ducksays/status/2121326468399501384)
 
 ---
 
@@ -19,6 +35,16 @@
 > Within a couple of quarters, it will be normal for work meetings to be with Bots. This early beta gives a very rough glimpse. It will be great soon. Grok Bot can now join meetings. Ask it questions, assign it work, or have it keep track of what your team decides.
 
 🔗 [View original post](https://x.com/mntruell/status/2121321225620459994)
+
+---
+
+### 🕐 19:08 UTC · @elonmusk
+
+> if SpaceX achieves a double catch, it will be one of the single most important moments in the history of rocketry and mark a new era of humanity’s access to space. tune the fuck in! don’t miss it
+
+![if SpaceX achieves a double catch, it will be one of the single most important moments in the history of rocketry and mark a new era of humanity’s access to space. tune the fuck in! don’t miss it](../../../../assets/images/2026/11/13/2121319344051544527-1.jpg)
+
+🔗 [View original post](https://x.com/willdepue/status/2121319344051544527)
 
 ---
 

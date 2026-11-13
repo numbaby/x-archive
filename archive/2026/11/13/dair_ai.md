@@ -2,7 +2,15 @@
 
 ## 📅 November 13, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 20:13 UTC · @dair_ai
+
+> Highly recommended read. My notes: I have recently started independent research on co-evolved models. My focus has been on co-evolving models and harnesses. This work focuses on memory writing specifically for continual learning. Why is this a big deal? As you work with an agent, it should get better at your tasks, but that obviously doesn&apos;t happen easily, and current external memory systems often aren&apos;t enough. This has less to do with memory systems (there are many great ones out there) and more to do with the model&apos;s awareness and judgment about when to act. To illustrate, imagine an AI agent spends a week fixing bugs in the same project. We would expect it to learn how the project works and avoid repeating mistakes. Giving it a place to save notes lets it carry that knowledge into later tasks. But choosing what belongs in those notes requires judgment. This work looks at how to train that judgment with RL. They essentially teach an agent to discover useful information while working and write memories that help it succeed on later tasks. A trained 4B parameter model reached a score similar to GPT-5.4 and Claude Opus 4.7. RIME uses one model in two roles. As the actor, it works on a task using its existing memory. As the writer, it reviews what happened and updates the notes available for the next task. The training rewards each role differently. The writer receives credit when performance on the next few tasks improves relative to performance on the recent tasks. This gives it a reason to preserve information that will help later. The comparison is an approximate training signal, since other actions and memory updates also affect those results. The actor earns a reward for completing its task and an additional reward for discoveries that reach memory. An AI judge compares the old and new notes, looking for useful additions, corrected beliefs, and concrete leads. This encourages the agent to investigate enough to learn something reusable. Rewriting the same notes in different words earns little credit. The researchers found that these abilities need to develop together. A writer depends on the information the actor discovers, and an actor depends on the knowledge the writer preserves. One big question I have here is efficiency and, obviously, how it all integrates into harnesses and workflows. I think approaches like this can save a lot of tokens and turns. While this is on a small scale, it&apos;s great to see it working already. It feels like a more feasible approach for continual learning. Frontier models are getting better at retaining knowledge, but I think efficient continual learning will still require touching the weights, which is where open-weight models will play a huge role. How can we train LLMs to write memories from experience collected on the fly to as best as possible solve the next task, i.e., optimize for both capability and &quot;continual learning&quot; ability? In our new post, we study this question in the setting continual learning over a sequence…
+
+🔗 [View original post](https://x.com/omarsar0/status/2121335666457944226)
 
 ---
 
