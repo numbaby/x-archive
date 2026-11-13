@@ -153331,5 +153331,25 @@
     "file": "data/posts/2026/11/2026-11-13.jsonl",
     "fingerprint": "5dc199ed6ca6742626c43cab25d54364106be0456bddd6651b8e028f28a05ff8",
     "media": []
+  },
+  "2121226126219747347": {
+    "account": "tunguz",
+    "date": "2026-11-13",
+    "file": "data/posts/2026/11/2026-11-13.jsonl",
+    "fingerprint": "08edc5c0234fa3a016b284dc7dc77ce3901a88b792678ed5426c7c650578ee90",
+    "media": [
+      {
+        "local_path": "assets/images/2026/11/13/2121226126219747347-1.jpg",
+        "sha256": "5e8d5cd88b97792a7561247c9210c22e6e76bad1b39fe847afda18c41860571e",
+        "source_url": "https://pbs.twimg.com/media/HXAb60rXQAEyYyB.jpg?name=orig"
+      }
+    ]
+  },
+  "2121226359620211184": {
+    "account": "AiEvolutio58513",
+    "date": "2026-11-13",
+    "file": "data/posts/2026/11/2026-11-13.jsonl",
+    "fingerprint": "80524db8ad4a3adacfc1ea51381cc7792ae637f3199b3b8f300c7ca4c75f5e60",
+    "media": []
   }
 }

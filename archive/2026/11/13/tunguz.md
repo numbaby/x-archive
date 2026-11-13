@@ -2,7 +2,17 @@
 
 ## 📅 November 13, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 12:58 UTC · @tunguz
+
+> It’s happening
+
+![It’s happening](../../../../assets/images/2026/11/13/2121226126219747347-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2121226126219747347)
 
 ---
 
