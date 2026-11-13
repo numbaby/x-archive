@@ -2,7 +2,17 @@
 
 ## 📅 November 13, 2026
 
-> 17 post(s) archived.
+> 19 post(s) archived.
+
+---
+
+### 🕐 16:02 UTC · @swyx
+
+> I had a great time at the after-party yesterday: good chats, new friends, big ideas, and many agents to kick off on the flight home. In the last conf photo: the amazing @miguelbranco80 and @dexhorthy. Thanks to everyone at @aiDotEngineer for the experience. See you soon.
+
+![I had a great time at the after-party yesterday: good chats, new friends, big ideas, and many agents to kick off on the flight home. In the last conf photo: the amazing @miguelbranco80 and @dexhorthy.](../../../../assets/images/2026/11/13/2121272553683792272-1.jpg)
+
+🔗 [View original post](https://x.com/henriquebastos/status/2121272553683792272)
 
 ---
 
@@ -103,6 +113,14 @@
 ![Last talk of the conference, I think the first session that had source code on screen :)](../../../../assets/images/2026/11/13/2121055438825234601-1.jpg)
 
 🔗 [View original post](https://x.com/lucasmeijer/status/2121055438825234601)
+
+---
+
+### 🕐 01:35 UTC · @swyx
+
+> i couldn’t find the light so i became it
+
+🔗 [View original post](https://x.com/fadedbunny/status/2121054337980063822)
 
 ---
 

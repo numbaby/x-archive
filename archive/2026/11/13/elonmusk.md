@@ -2,7 +2,41 @@
 
 ## 📅 November 13, 2026
 
-> 14 post(s) archived.
+> 19 post(s) archived.
+
+---
+
+### 🕐 19:25 UTC · @elonmusk
+
+> Try Grok @Bot Grok Bot is f*cking insane for building a second brain... Send this prompt to Grok Bot and it will turn everything you read, watch and think into a knowledge base that organizes itself Then go even further with the full guide below:
+
+🔗 [View original post](https://x.com/elonmusk/status/2121323469002437065)
+
+---
+
+### 🕐 19:16 UTC · @elonmusk
+
+> Within a couple of quarters, it will be normal for work meetings to be with Bots. This early beta gives a very rough glimpse. It will be great soon. Grok Bot can now join meetings. Ask it questions, assign it work, or have it keep track of what your team decides.
+
+🔗 [View original post](https://x.com/mntruell/status/2121321225620459994)
+
+---
+
+### 🕐 19:00 UTC · @elonmusk
+
+> Made on Earth by humans Looks like a scene from a sci-fi film but it’s just my drive to work this morning
+
+🔗 [View original post](https://x.com/elonmusk/status/2121317331179614676)
+
+---
+
+### 🕐 16:32 UTC · @elonmusk
+
+> Boca Chica Beach is not for sale, and SpaceX isn’t attempting to buy it. The beach is an important part of the Rio Grande Valley community, and SpaceX is investing substantial resources to preserve and improve it → https://spacex.com/updates#boca-chica-beach
+
+![Boca Chica Beach is not for sale, and SpaceX isn’t attempting to buy it. The beach is an important part of the Rio Grande Valley community, and SpaceX is investing substantial resources to preserve an](../../../../assets/images/2026/11/13/2121280048871473281-1.jpg)
+
+🔗 [View original post](https://x.com/SpaceX/status/2121280048871473281)
 
 ---
 
@@ -72,6 +106,14 @@
 > Grok is a straight shooter Nice summary @grok !
 
 🔗 [View original post](https://x.com/elonmusk/status/2121242367684661286)
+
+---
+
+### 🕐 11:39 UTC · @elonmusk
+
+> BREAKING: Zambia’s government has begun deploying 751 @Starlink kits to health facilities across all 10 provinces. 🇿🇲 • 90 kits already delivered to Western Province’s Provincial Health Office. • Targeting underserved and hard-to-reach communities. • Supporting digital health services and better communication between facilities. • Funded by the Global Fund through the Ministry of Health, with UNDP support. Starlink is helping bring better connectivity where it matters most: healthcare. Media
+
+🔗 [View original post](https://x.com/cb_doge/status/2121206425045410134)
 
 ---
 
