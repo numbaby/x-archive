@@ -2,7 +2,49 @@
 
 ## 📅 November 14, 2026
 
-> 27 post(s) archived.
+> 32 post(s) archived.
+
+---
+
+### 🕐 15:41 UTC · @elonmusk
+
+> Flight 15 Update: Starship coasting in orbit, still looking good for return to launch site today. Pad and tower systems are go for catch. Media
+
+🔗 [View original post](https://x.com/SpaceX/status/2121629656868614213)
+
+---
+
+### 🕐 15:36 UTC · @elonmusk
+
+> Improvements to Grok @Bot efficiency Shipped a few Grok Bot harness optimizations this week. You should get ~7% more usage out of your plan, and up to ~15% more on routine runs! Enjoy!
+
+🔗 [View original post](https://x.com/elonmusk/status/2121628295234023654)
+
+---
+
+### 🕐 15:34 UTC · @elonmusk
+
+> Update on Starship Back live for a status update on Starship&apos;s Flight 15
+
+🔗 [View original post](https://x.com/elonmusk/status/2121627776881230121)
+
+---
+
+### 🕐 15:26 UTC · @elonmusk
+
+> https://grok.com/share/bGVnYWN5_035d778c-274e-4433-97c1-5f587762e736
+
+![https://grok.com/share/bGVnYWN5_035d778c-274e-4433-97c1-5f587762e736](../../../../assets/images/2026/11/14/2121625731088445896-1.jpg)
+
+🔗 [View original post](https://x.com/elonmusk/status/2121625731088445896)
+
+---
+
+### 🕐 15:20 UTC · @elonmusk
+
+> If Jensen gave me his word about compute delivery or I asked for components to be accelerated, he always came through. Sure, we’d put together a purchase order at some point later, but I never for a second thought it wouldn’t happen.
+
+🔗 [View original post](https://x.com/elonmusk/status/2121624209675665519)
 
 ---
 
