@@ -2,7 +2,7 @@
 
 ## 📅 November 14, 2026
 
-> 37 post(s) archived.
+> 38 post(s) archived.
 
 ---
 
@@ -27,6 +27,14 @@
 > Text watermarking with Grok is only on where required by law or requested by the user Text watermarking is now off by default in the SpaceXSI API
 
 🔗 [View original post](https://x.com/elonmusk/status/2121644169462681818)
+
+---
+
+### 🕐 16:24 UTC · @elonmusk
+
+> This is not as good as it sounds, because Starlink required many satellites in low Earth orbit to achieve this bandwidth improvement globally. That said, there will ultimately be over 100k SpaceX communications satellites, most of which will be V4 or V5. Good chance that this system carries about half of global traffic.
+
+🔗 [View original post](https://x.com/elonmusk/status/2121640541221785669)
 
 ---
 

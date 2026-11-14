@@ -2,7 +2,27 @@
 
 ## 📅 November 14, 2026
 
-> 4 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 17:47 UTC · @swyx
+
+> 500k views in 2.5 days. @lydiahallie is on track to hit 1m in the fastest pace in aie history
+
+![500k views in 2.5 days. @lydiahallie is on track to hit 1m in the fastest pace in aie history](../../../../assets/images/2026/11/14/2121661230259839408-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2121661230259839408)
+
+---
+
+### 🕐 17:44 UTC · @swyx
+
+> a few days ago we published the &quot;No AI Slop Manifesto&quot; at @aiDotEngineer Code Summit in SF, written in collaboration with many of the speakers and attendees It already hit the front page of hacker news, has 300+ signatures including folks from Baseten, SpaceX, OpenAI, PostHog, Shopify, Glean, ZoomInfo, and legendary builders including @swyx @poteto @kentcdodds @mihail_eric @audreyt @altryne @traviscline @philipkiely @TejasKumar_ read and sign it at slopmanifesto dot com some of my favorite points &gt; AI cannot replace human judgement, it can only amplify our judgement (or lack thereof). &gt; We own the intent, taste, and consequences of what we ship, however much AI helps us make it. &gt; There will always be alpha in reviewing *something*. As models improve, we may stop reading most of the code. We may still review a plan, design, or result, because if we don&apos;t, we just get the same output as everyone else.
+
+![a few days ago we published the &quot;No AI Slop Manifesto&quot; at @aiDotEngineer Code Summit in SF, written in collaboration with many of the speakers and attendees It already hit the front page of ](../../../../assets/images/2026/11/14/2121660606256435325-1.png)
+
+🔗 [View original post](https://x.com/dexhorthy/status/2121660606256435325)
 
 ---
 

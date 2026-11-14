@@ -2,7 +2,17 @@
 
 ## 📅 November 14, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 17:27 UTC · @dair_ai
+
+> Banger new guide from Anthropic. It discusses the core primitives of always-on agents. It covers the importance of an event inbox, using timers for proactive capabilities, ensuring continuity with memory, and more. Read more: https://claude.com/resources/articles/building-always-on-agents
+
+![Banger new guide from Anthropic. It discusses the core primitives of always-on agents. It covers the importance of an event inbox, using timers for proactive capabilities, ensuring continuity with mem](../../../../assets/images/2026/11/14/2121656194465243164-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2121656194465243164)
 
 ---
 
