@@ -2,7 +2,49 @@
 
 ## 📅 November 14, 2026
 
-> 20 post(s) archived.
+> 27 post(s) archived.
+
+---
+
+### 🕐 14:37 UTC · @elonmusk
+
+> Jensen drove supply chain brilliantly at Nvidia, but many of those deals were a handshake with Jensen, not a written contract. Without Jensen, at least some of those critical deals will be lost. Dylan Patel says Jensen personally talked tiny suppliers into letting Nvidia buy up their supply, and with him gone Google is already begging them for capacity &quot;Jensen had complete foresight and understood the demand required and went to all of these executives, even of tiny com…
+
+🔗 [View original post](https://x.com/elonmusk/status/2121613402846204253)
+
+---
+
+### 🕐 14:30 UTC · @elonmusk
+
+> Starship is currently completing 14 orbits of Earth, before initiating deorbit and attempting to land in Starbase Starship in orbit over Africa
+
+🔗 [View original post](https://x.com/elonmusk/status/2121611711278981147)
+
+---
+
+### 🕐 14:18 UTC · @elonmusk
+
+> I placed a camera right next to the launch pad to capture starship’s liftoff in slow motion. Can you spot the moon? Media
+
+🔗 [View original post](https://x.com/AJamesMcCarthy/status/2121608679837368375)
+
+---
+
+### 🕐 13:53 UTC · @elonmusk
+
+> Starship in orbit over Africa Media
+
+🔗 [View original post](https://x.com/SpaceX/status/2121602376532742611)
+
+---
+
+### 🕐 12:52 UTC · @elonmusk
+
+> BREAKING: SpaceXSI completes MiniHard construction in just ~5 months, with Gun Range targeting a ~4-month build. According to SemiAnalysis, SpaceXSI is roughly halving construction timelines while most comparable projects face 8–12 month builds. • MiniHard: Construction finished in approximately 5 months. • Gun Range: The new site just south of the Tennessee–Mississippi state line is targeting approximately 4 months of construction. • Colossus 1: Its first retrofit delivered 150 MW of capacity in 122 days. • Colossus 2: A subsequent retrofit delivered 210 MW in just 91 days. • Project SPAM: Work started October 5, with the first capacity targeted for December. • Massive expansion: SemiAnalysis projects the Memphis–Mississippi campus will grow from 0.4 GW of IT capacity in January to 2.4 GW by the end of 2026. That would be a sixfold increase in one year. • Five major projects: The expansion spans Macrohard, MiniHard, Macroharder, Project SPAM and Gun Range. • Tesla powering the scale: SemiAnalysis reports 1,377 Tesla Megapacks across Colossus 2, providing nearly 6 GWh of battery storage. The construction timelines and capacity forecasts are SemiAnalysis estimates, with future milestones still targets. Elon Musk’s teams are bringing extraordinary speed and scale to the infrastructure powering AI.
+
+![BREAKING: SpaceXSI completes MiniHard construction in just ~5 months, with Gun Range targeting a ~4-month build. According to SemiAnalysis, SpaceXSI is roughly halving construction timelines while mos](../../../../assets/images/2026/11/14/2121586977795440798-1.jpg)
+
+🔗 [View original post](https://x.com/cb_doge/status/2121586977795440798)
 
 ---
 
@@ -39,6 +81,14 @@
 > Future Starship flights will carry over 50 Tb/s of Starlink bandwidth to orbit Today’s Starlink payload will add up to 26 Terabits of capacity to the constellation
 
 🔗 [View original post](https://x.com/elonmusk/status/2121501324663832873)
+
+---
+
+### 🕐 06:42 UTC · @elonmusk
+
+> Jensen Huang said it plainly: Building a massive, liquid-cooled, fully permitted, fully powered factory — and getting 100,000 GPUs training — in 19 days. “That is superhuman.” “As far as I know, there’s only one person in the world who could do that.” A cluster like that normally takes three years to plan, and another year to get working. Elon and the team did it in nineteen days. Never been done before. @elonmusk @JensenHuang Media Two builders on one stage, talking about a future where you just tell the car, “Take me home,” and it does. An order of magnitude safer than a person. In the distant future, Elon said, people may even outlaw human driving, because you can’t have a person behind a two-ton death m…
+
+🔗 [View original post](https://x.com/bowie_HQ/status/2121493879870677332)
 
 ---
 
@@ -97,6 +147,14 @@
 > Jensen deserves due process, not whatever is happening right now. I signed. #standwithjensen Still hard to believe everything that&apos;s happened with Jensen. After 33 years of building NVIDIA. I think he deserves a fair process, and we deserve the truth. I signed this open letter to stand with Jensen. Hope you will too. 💚 https://standwithjensen.com #StandWithJensen
 
 🔗 [View original post](https://x.com/garrytan/status/2121462697787342932)
+
+---
+
+### 🕐 04:37 UTC · @elonmusk
+
+> “Jensen has been incredibly good at retaining talent. There are very few high-profile departures from the NVIDIA executive team.” “This is probably when the sharks are in the water. The VCs are going to come in and offer people billions of dollars to start their own chip companies, their own neolabs.” “If a year from now we’ve seen a bunch of departures from NVIDIA, I’m going to be really concerned about their future.” “Steve Jobs is a pure visionary, and Jensen is negotiating every supply chain contract.” “If there’s any manufacturing issues with Rubin, people are distracted and Jensen’s not there. Things get solved slower, things get solved by committees.” Media
+
+🔗 [View original post](https://x.com/SemiAnalysis_/status/2121462524281282700)
 
 ---
 
