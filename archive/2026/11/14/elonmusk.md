@@ -2,7 +2,23 @@
 
 ## 📅 November 14, 2026
 
-> 43 post(s) archived.
+> 45 post(s) archived.
+
+---
+
+### 🕐 20:26 UTC · @elonmusk
+
+> Good deorbit burn. Landing burn in 53 minutes. https://x.com/i/broadcasts/2brajgZlOKRMka
+
+🔗 [View original post](https://x.com/elonmusk/status/2121701421183853007)
+
+---
+
+### 🕐 20:22 UTC · @elonmusk
+
+> Starship deorbit burn in 30 seconds
+
+🔗 [View original post](https://x.com/elonmusk/status/2121700409173487768)
 
 ---
 
