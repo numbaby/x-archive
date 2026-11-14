@@ -2,7 +2,7 @@
 
 ## 📅 November 13, 2026
 
-> 30 post(s) archived.
+> 31 post(s) archived.
 
 ---
 
@@ -11,6 +11,16 @@
 > Live Starship video from space Media
 
 🔗 [View original post](https://x.com/elonmusk/status/2121388517540716839)
+
+---
+
+### 🕐 23:39 UTC · @elonmusk
+
+> Congratulations to the @SpaceX team on another spectacular launch. Very much appreciate how you bring the world along in high resolution. We are looking forward to some of that on-orbit Starlink capability on Artemis III. Tomorrow is a big day for the community, with a Vulcan launch and Starship&apos;s return on deck 🇺🇸
+
+![Congratulations to the @SpaceX team on another spectacular launch. Very much appreciate how you bring the world along in high resolution. We are looking forward to some of that on-orbit Starlink capab](../../../../assets/images/2026/11/13/2121387579442381282-1.jpg)
+
+🔗 [View original post](https://x.com/NASAAdmin/status/2121387579442381282)
 
 ---
 

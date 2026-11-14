@@ -2,7 +2,15 @@
 
 ## 📅 November 14, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 01:19 UTC · @elonmusk
+
+> Altimeter and Atreides together hold more than $25B in assets. Elon and the founders of Uber, Shopify, Replit, and Vercel have all posted in support of Jensen’s reinstatement at @nvidia. So, this has only begun. Anti-Jensen board members will likely face escalating pressure from employees, shareholders, partners, and customers until they step down and reinstate Jensen Huang, who was after all the founder and CEO that built Nvidia into one of the most important companies in world history. This letter was sent to Nvidia&apos;s board today. A first for @atreidesmgmt Absolutely share @altcap belief that this letter outlines minimum acceptable standards.
+
+🔗 [View original post](https://x.com/balajis/status/2121412678409478247)
 
 ---
 
