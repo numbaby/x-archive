@@ -2,7 +2,23 @@
 
 ## 📅 November 14, 2026
 
-> 9 post(s) archived.
+> 11 post(s) archived.
+
+---
+
+### 🕐 22:35 UTC · @tunguz
+
+> Maybe the real Jensen was all the GPUs we got along the way.
+
+🔗 [View original post](https://x.com/tunguz/status/2121733882672185480)
+
+---
+
+### 🕐 22:17 UTC · @tunguz
+
+> But wait, there is more! https://x.com/Arminn_Ai/status/2121701222977572870?a=EMUZ366sjihlrySvpVQ&amp;s=20 Jensen Style - Part 2. This is the last one, I promise 😁
+
+🔗 [View original post](https://x.com/tunguz/status/2121729224629264819)
 
 ---
 

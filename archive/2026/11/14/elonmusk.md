@@ -2,7 +2,32 @@
 
 ## 📅 November 14, 2026
 
-> 46 post(s) archived.
+> 52 post(s) archived.
+
+---
+
+### 🕐 22:39 UTC · @elonmusk
+
+
+![](../../../../assets/images/2026/11/14/2121734817524109692-1.jpg)
+
+🔗 [View original post](https://x.com/johnkrausphotos/status/2121734817524109692)
+
+---
+
+### 🕐 22:36 UTC · @elonmusk
+
+> Inspecting ship 42 right now Media
+
+🔗 [View original post](https://x.com/elonmusk/status/2121733992726802703)
+
+---
+
+### 🕐 22:21 UTC · @elonmusk
+
+> You can quote me on this. Sometimes it all works.
+
+🔗 [View original post](https://x.com/ShanaDiez/status/2121730309666578510)
 
 ---
 
@@ -11,6 +36,33 @@
 > Congratulations to an incredible team at SpaceX!!! Media
 
 🔗 [View original post](https://x.com/elonmusk/status/2121726288968720709)
+
+---
+
+### 🕐 21:38 UTC · @elonmusk
+
+
+![](../../../../assets/images/2026/11/14/2121719372339454408-1.jpg)
+
+🔗 [View original post](https://x.com/johnkrausphotos/status/2121719372339454408)
+
+---
+
+### 🕐 21:30 UTC · @elonmusk
+
+> You&apos;re not gonna believe this, but @SpaceX caught their Starship rocket at 4:20 PM ET 😂 Media
+
+🔗 [View original post](https://x.com/SawyerMerritt/status/2121717407890964796)
+
+---
+
+### 🕐 21:23 UTC · @elonmusk
+
+> Congrats to @elonmusk and the @SpaceX team! It was almost magic..Making more believers by the day....one step closer to 🌖🇺🇸
+
+![Congrats to @elonmusk and the @SpaceX team! It was almost magic..Making more believers by the day....one step closer to 🌖🇺🇸](../../../../assets/images/2026/11/14/2121715782350504106-1.jpg)
+
+🔗 [View original post](https://x.com/NASAAdmin/status/2121715782350504106)
 
 ---
 

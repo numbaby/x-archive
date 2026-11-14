@@ -2,7 +2,25 @@
 
 ## 📅 November 14, 2026
 
-> 10 post(s) archived.
+> 12 post(s) archived.
+
+---
+
+### 🕐 22:54 UTC · @swyx
+
+> there WILL be audience participation
+
+![there WILL be audience participation](../../../../assets/images/2026/11/14/2121738675705029005-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2121738675705029005)
+
+---
+
+### 🕐 22:22 UTC · @swyx
+
+> if you&apos;re in SF, i have 3 spare tix for our matinee show, just show up to odc theater now and drop my name 2.30pm doors open 3pm starts Pretty cool in San Francisco you can watch @swyx perform musical theater for a cool 34 bucks !!! Link to tickets below
+
+🔗 [View original post](https://x.com/swyx/status/2121730527174787181)
 
 ---
 
