@@ -2,7 +2,15 @@
 
 ## 📅 November 14, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 10:57 UTC · @AiEvolutio58513
+
+> Elon Musk explains why SpaceXSI bought Cursor: &quot;In order to create a compelling SI, you need a LOT of training data and need to SOLVE CODING. As far as I can tell, three organizations that had enough coding training data: OpenAI, Anthropic, Cursor (and, arguably perhaps Google)&quot; &quot;If you can&apos;t do CODING, your SI is not going to be very useful.&quot; &quot;basically for success in SI you need: Data, Talent &amp; Compute..and you also need a good Enterprise sales team. Cursor also had that good enterprise sales team with Relationships with THOUSANDS of companies.&quot; Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2121558044798779605)
 
 ---
 
