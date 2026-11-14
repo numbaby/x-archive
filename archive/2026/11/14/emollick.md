@@ -2,7 +2,15 @@
 
 ## 📅 November 14, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 19:25 UTC · @emollick
+
+> AI slop replies, ranked by annoyingness: 6) Repeating the post 5) LLM knows more than the account should about a topic 4) Lame semi-joke 3) &quot;X is the part I would keep/everyone misses...&quot; 2) &quot;As a marketer/builder/dentist, I see this in my own...&quot; 1) Questions faking &quot;curiosity&quot;
+
+🔗 [View original post](https://x.com/emollick/status/2121685924824461739)
 
 ---
 

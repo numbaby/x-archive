@@ -2,7 +2,17 @@
 
 ## 📅 November 14, 2026
 
-> 8 post(s) archived.
+> 10 post(s) archived.
+
+---
+
+### 🕐 19:30 UTC · @swyx
+
+> Unforgettable week at @aiDotEngineer! So many insightful talks and it was great meeting so many talented folks. Shoutout to the crew for organizing and you will not find better conference food anywhere else. One of the main resonating points of the whole conference is that it’s a time to be bold and push limits. Let’s make the models 100x faster, build entire companies from fleets of agents, and open source the planet while we’re at it. The only place where we’re *truly* limited by the technology of our time is running AV for a conference 🫡 @swyx @Beccalytics
+
+![Unforgettable week at @aiDotEngineer! So many insightful talks and it was great meeting so many talented folks. Shoutout to the crew for organizing and you will not find better conference food anywher](../../../../assets/images/2026/11/14/2121687118468850111-1.jpg)
+
+🔗 [View original post](https://x.com/drewjs/status/2121687118468850111)
 
 ---
 
@@ -13,6 +23,16 @@
 ![openai dot now has a setting to just solve all captchas for the rest of time lol what are we even doing here anymore guys](../../../../assets/images/2026/11/14/2121681368224797014-1.jpg)
 
 🔗 [View original post](https://x.com/swyx/status/2121681368224797014)
+
+---
+
+### 🕐 18:36 UTC · @swyx
+
+> my AIE talk is up! come hear how the grok @bot team ships so quickly without compromise on quality https://youtu.be/O_zcc6Xl12g
+
+![my AIE talk is up! come hear how the grok @bot team ships so quickly without compromise on quality https://youtu.be/O_zcc6Xl12g](../../../../assets/images/2026/11/14/2121673563489140863-1.jpg)
+
+🔗 [View original post](https://x.com/poteto/status/2121673563489140863)
 
 ---
 

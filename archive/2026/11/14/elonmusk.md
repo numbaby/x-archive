@@ -2,7 +2,24 @@
 
 ## 📅 November 14, 2026
 
-> 40 post(s) archived.
+> 43 post(s) archived.
+
+---
+
+### 🕐 20:02 UTC · @elonmusk
+
+> All systems green for the deorbit burn of Starship Teams have polled go to return Starship to the launch site at Starbase
+
+🔗 [View original post](https://x.com/elonmusk/status/2121695381759144393)
+
+---
+
+### 🕐 19:22 UTC · @elonmusk
+
+
+![](../../../../assets/images/2026/11/14/2121685266448429281-1.jpg)
+
+🔗 [View original post](https://x.com/johnkrausphotos/status/2121685266448429281)
 
 ---
 
@@ -19,6 +36,14 @@
 > True, that pic shows everyone in the entire company of SpaceX in 2002! Tom Mueller (@lrocket) and Hans Koenigsmann, both amazing, world-class engineers, came by Mission Control last night. Good to see old friends ❤️ How it started v/s How it&apos;s going
 
 🔗 [View original post](https://x.com/elonmusk/status/2121668709064282507)
+
+---
+
+### 🕐 17:48 UTC · @elonmusk
+
+> Grok Bot has been such a force multiplier for me. It’s insane. It provides you with a team of experts, and you get a totally customizable assistant. It replaces tools like search. It enhances applications like a CRM. It works on every device, so you can now do real work from your phone, then pick it up on your laptop or desktop. I often have 3 to 5 bots working on things simultaneously. If you have not tried it, use it for one month. It will blow you away. If already love it, share this message. Everyone that I get to use Grok Bot has become a total fan and feels the same way. I know the team, and they are working relentlessly around the clock to make the product do everything and anything that you need.
+
+🔗 [View original post](https://x.com/adeoressi/status/2121661606824419580)
 
 ---
 
