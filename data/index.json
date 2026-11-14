@@ -154276,11 +154276,53 @@
     "fingerprint": "9e08e7005f15a2ac5b3f05cfc43867e69bea7aac1fa848ffba4e7ba9d09a5227",
     "media": []
   },
+  "2121548642805026939": {
+    "account": "elonmusk",
+    "date": "2026-11-14",
+    "file": "data/posts/2026/11/2026-11-14.jsonl",
+    "fingerprint": "43143caedcd13f5e56aa382b76746d54cabbe76012b61da5bac200b898accb70",
+    "media": []
+  },
   "2121558044798779605": {
     "account": "AiEvolutio58513",
     "date": "2026-11-14",
     "file": "data/posts/2026/11/2026-11-14.jsonl",
     "fingerprint": "db9c2c6ef4ba2573dbabaf6077ea317e77bfa68fdbad99ae5efc2649c1600176",
+    "media": []
+  },
+  "2121586224783573326": {
+    "account": "tunguz",
+    "date": "2026-11-14",
+    "file": "data/posts/2026/11/2026-11-14.jsonl",
+    "fingerprint": "9fa77ade2fa7f855898d3387d9ab06363b7ea5e13e632fc0ac6bfa4003971896",
+    "media": []
+  },
+  "2121587527752491422": {
+    "account": "tunguz",
+    "date": "2026-11-14",
+    "file": "data/posts/2026/11/2026-11-14.jsonl",
+    "fingerprint": "b0140ca9b4f4940fca2b386f905d539ba959446f7c8f43e4b0bf873e5157ec2b",
+    "media": []
+  },
+  "2121589048372601238": {
+    "account": "AiEvolutio58513",
+    "date": "2026-11-14",
+    "file": "data/posts/2026/11/2026-11-14.jsonl",
+    "fingerprint": "4ca2d78cea4c07e8001a851a8854e989321f3dce999ac2ea7a03e0f179c50455",
+    "media": []
+  },
+  "2121594092031561938": {
+    "account": "tunguz",
+    "date": "2026-11-14",
+    "file": "data/posts/2026/11/2026-11-14.jsonl",
+    "fingerprint": "dc648fd82462dd7e264436c2a2b259e236e83e66d90468808969c5dea7c38594",
+    "media": []
+  },
+  "2121602948627317041": {
+    "account": "tunguz",
+    "date": "2026-11-14",
+    "file": "data/posts/2026/11/2026-11-14.jsonl",
+    "fingerprint": "e024d594289ccc8f322f81e405a590adcd31bfdc567fe1e2cc011ae12ea6c770",
     "media": []
   }
 }

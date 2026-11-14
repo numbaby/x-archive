@@ -2,7 +2,15 @@
 
 ## 📅 November 14, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 13:00 UTC · @AiEvolutio58513
+
+> Palmer Luckey says the analysts claiming America can&apos;t afford to build things at home are lying to protect megacorps: &quot;One of the problems with all these analysts that are telling you that it&apos;s going to cost $37,000 to build an American iPhone or $100,000 to buy an American computer.&quot; &quot;They&apos;re trying to prop up a status quo that the megacorporations want to keep going. They want to outsource everything.&quot; &quot;How do I know that? Because I have to make stuff in America every day because I work in the defense industry. My drones are basically computers.&quot; Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2121589048372601238)
 
 ---
 
