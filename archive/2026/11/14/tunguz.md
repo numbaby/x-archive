@@ -2,7 +2,15 @@
 
 ## 📅 November 14, 2026
 
-> 8 post(s) archived.
+> 9 post(s) archived.
+
+---
+
+### 🕐 22:14 UTC · @tunguz
+
+> &quot;Strike the shepherd and the sheep will scatter.&quot;
+
+🔗 [View original post](https://x.com/tunguz/status/2121728546439925904)
 
 ---
 

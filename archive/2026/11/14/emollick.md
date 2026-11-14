@@ -2,7 +2,25 @@
 
 ## 📅 November 14, 2026
 
-> 5 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 21:27 UTC · @emollick
+
+> Not vagueposting. (This has nothing to do with AI.)
+
+![Not vagueposting. (This has nothing to do with AI.)](../../../../assets/images/2026/11/14/2121716613103698380-1.jpg)
+
+🔗 [View original post](https://x.com/emollick/status/2121716613103698380)
+
+---
+
+### 🕐 21:20 UTC · @emollick
+
+> Well, that looked like science fiction.
+
+🔗 [View original post](https://x.com/emollick/status/2121715002105360772)
 
 ---
 
