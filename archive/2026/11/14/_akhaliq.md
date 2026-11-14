@@ -2,7 +2,15 @@
 
 ## 📅 November 14, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 00:09 UTC · @_akhaliq
+
+> Can AI agents reproduce NeurIPS 2026 papers? Let’s find out. Pick a paper, give its main claim to ML Intern (or any agent), run the experiments on @huggingface, and report the results. 🗓Nov 20 – Dec 5 · Register by Nov 19 💳$20 HF credits for reg. participants. Great prizes! Media
+
+🔗 [View original post](https://x.com/Gradio/status/2121395044183908403)
 
 ---
 

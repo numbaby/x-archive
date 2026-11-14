@@ -2,7 +2,7 @@
 
 ## 📅 November 13, 2026
 
-> 20 post(s) archived.
+> 21 post(s) archived.
 
 ---
 
@@ -13,6 +13,16 @@
 ![WorkOS just hit $100M ARR 🚀 Thank you to our customers, investors, and our extraordinary team. We started WorkOS to make software enterprise ready. Now we’re building infrastructure for a world where ](../../../../assets/images/2026/11/13/2121296642276295119-1.jpg)
 
 🔗 [View original post](https://x.com/grinich/status/2121296642276295119)
+
+---
+
+### 🕐 16:58 UTC · @swyx
+
+> Yesterday, @esthor let an agent fully organize a meetup in our office and it out did itself with great food, people invitations and even a raspberry pi OS change to manage presentations. @esthor and @andrelandgraf cooked on this iteration of All Things: @aiDotEngineer.
+
+![Yesterday, @esthor let an agent fully organize a meetup in our office and it out did itself with great food, people invitations and even a raspberry pi OS change to manage presentations. @esthor and @](../../../../assets/images/2026/11/13/2121286664324845577-1.jpg)
+
+🔗 [View original post](https://x.com/JuanPa/status/2121286664324845577)
 
 ---
 
