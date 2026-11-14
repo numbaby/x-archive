@@ -2,7 +2,17 @@
 
 ## 📅 November 13, 2026
 
-> 19 post(s) archived.
+> 20 post(s) archived.
+
+---
+
+### 🕐 17:38 UTC · @swyx
+
+> WorkOS just hit $100M ARR 🚀 Thank you to our customers, investors, and our extraordinary team. We started WorkOS to make software enterprise ready. Now we’re building infrastructure for a world where people and agents work together. And we&apos;re just getting started! 😊
+
+![WorkOS just hit $100M ARR 🚀 Thank you to our customers, investors, and our extraordinary team. We started WorkOS to make software enterprise ready. Now we’re building infrastructure for a world where ](../../../../assets/images/2026/11/13/2121296642276295119-1.jpg)
+
+🔗 [View original post](https://x.com/grinich/status/2121296642276295119)
 
 ---
 

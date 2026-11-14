@@ -153353,6 +153353,19 @@
     "fingerprint": "0d51b16b0c4022e66421228e70dfb60b4b5d9d7a7ca9b759b921407619dc1d7f",
     "media": []
   },
+  "2121222461186347374": {
+    "account": "ylecun",
+    "date": "2026-11-13",
+    "file": "data/posts/2026/11/2026-11-13.jsonl",
+    "fingerprint": "7ea872acaf61c177a9cf6b842c3dbac127e7d55a9cd9601d9049cc3e6b13277e",
+    "media": [
+      {
+        "local_path": "assets/images/2026/11/13/2121222461186347374-1.jpg",
+        "sha256": "74f18840585d6aa01c84e30ff9aae914358d15d09a23be76d771198f37249a00",
+        "source_url": "https://pbs.twimg.com/media/HXAYlNMWIAA7-zD.jpg?name=orig"
+      }
+    ]
+  },
   "2121226126219747347": {
     "account": "tunguz",
     "date": "2026-11-13",
@@ -153735,6 +153748,26 @@
     "fingerprint": "036316866c4c3ddf3f704be6aced4b80ef29af70b5d41a583da5829ccf745236",
     "media": []
   },
+  "2121296642276295119": {
+    "account": "swyx",
+    "date": "2026-11-13",
+    "file": "data/posts/2026/11/2026-11-13.jsonl",
+    "fingerprint": "d9c756eaa25ff158a4f3b1d35bce0b9fb8ebb55c4635f3d506ac8ac7ecc549dc",
+    "media": [
+      {
+        "local_path": "assets/images/2026/11/13/2121296642276295119-1.jpg",
+        "sha256": "1b26d84b101cc8673d80732ed1d3b77636bb0913fc762f6f54ec54028ae5ca5e",
+        "source_url": "https://pbs.twimg.com/media/HXBbc9ZbEAAm5R1.jpg?name=orig"
+      }
+    ]
+  },
+  "2121299443450515494": {
+    "account": "elonmusk",
+    "date": "2026-11-13",
+    "file": "data/posts/2026/11/2026-11-13.jsonl",
+    "fingerprint": "762d6f4751603951be40a1c1244335d2408fc2b0ea74706acd99873e3170d9e5",
+    "media": []
+  },
   "2121316611974185273": {
     "account": "elonmusk",
     "date": "2026-11-13",
@@ -153849,6 +153882,68 @@
     "date": "2026-11-13",
     "file": "data/posts/2026/11/2026-11-13.jsonl",
     "fingerprint": "77f62790be5dc811ef7f781f281a3f0cf473f20559a7309be234c63fcbf42a5c",
+    "media": []
+  },
+  "2121382617748513206": {
+    "account": "tunguz",
+    "date": "2026-11-13",
+    "file": "data/posts/2026/11/2026-11-13.jsonl",
+    "fingerprint": "77a2c4aa7d230c325beb542977ea92f7cb3b1a958d45f9c6bdefef22f8956f99",
+    "media": []
+  },
+  "2121384297726628038": {
+    "account": "tunguz",
+    "date": "2026-11-13",
+    "file": "data/posts/2026/11/2026-11-13.jsonl",
+    "fingerprint": "c6674878684484ca0896ab9df2ea973c3e0ff0b1e6bf7b19511f74ed33c280da",
+    "media": []
+  },
+  "2121384435241402737": {
+    "account": "elonmusk",
+    "date": "2026-11-13",
+    "file": "data/posts/2026/11/2026-11-13.jsonl",
+    "fingerprint": "5b959d961d6809f96586ede947dd3c71213e0163b5decf3e92d60418d23abfa8",
+    "media": [
+      {
+        "local_path": "assets/images/2026/11/13/2121384435241402737-1.jpg",
+        "sha256": "99d0d9dba88694eff03db0b832ddfb63ec73c5ab7b5081ea8f8bcc2cb24bab8c",
+        "source_url": "https://pbs.twimg.com/media/HXCrorcbwAAQTq0.jpg?name=orig"
+      }
+    ]
+  },
+  "2121384846345798086": {
+    "account": "tunguz",
+    "date": "2026-11-13",
+    "file": "data/posts/2026/11/2026-11-13.jsonl",
+    "fingerprint": "44725f6ee95fd78e49039d942086251eeceffbd2a3cffb849233c4dd95db33e6",
+    "media": []
+  },
+  "2121388517540716839": {
+    "account": "elonmusk",
+    "date": "2026-11-13",
+    "file": "data/posts/2026/11/2026-11-13.jsonl",
+    "fingerprint": "c1d2de49f2ad669eb175b7b51da9f94b14953b4a6fecc3feab9622004f91743d",
+    "media": []
+  },
+  "2121389459765604697": {
+    "account": "emollick",
+    "date": "2026-11-13",
+    "file": "data/posts/2026/11/2026-11-13.jsonl",
+    "fingerprint": "066a347dcfa33b9cbfa916508424155f205f31613fa066108a35f32ddefe1783",
+    "media": []
+  },
+  "2121393022353215679": {
+    "account": "_akhaliq",
+    "date": "2026-11-14",
+    "file": "data/posts/2026/11/2026-11-14.jsonl",
+    "fingerprint": "bc0b1402ba78c3c0d62f7e80c5f32909e30c9e81bff3a0522ece2c327d83964c",
+    "media": []
+  },
+  "2121394095491014802": {
+    "account": "_akhaliq",
+    "date": "2026-11-14",
+    "file": "data/posts/2026/11/2026-11-14.jsonl",
+    "fingerprint": "338e3b952a7a22e466868cf95ac7429b0b81f91740b38b1d50f4ff34d4863c9e",
     "media": []
   }
 }

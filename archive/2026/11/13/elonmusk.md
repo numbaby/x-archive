@@ -2,7 +2,25 @@
 
 ## 📅 November 13, 2026
 
-> 25 post(s) archived.
+> 28 post(s) archived.
+
+---
+
+### 🕐 23:43 UTC · @elonmusk
+
+> Live Starship video from space Media
+
+🔗 [View original post](https://x.com/elonmusk/status/2121388517540716839)
+
+---
+
+### 🕐 23:27 UTC · @elonmusk
+
+> Select customers are now being invited to purchase Cybercab for personal use
+
+![Select customers are now being invited to purchase Cybercab for personal use](../../../../assets/images/2026/11/13/2121384435241402737-1.jpg)
+
+🔗 [View original post](https://x.com/robotaxi/status/2121384435241402737)
 
 ---
 
@@ -69,6 +87,14 @@
 > About 4 hours to Flight 15 Watch Starship Flight 15 https://x.com/i/broadcasts/2brajgZlOKRMka
 
 🔗 [View original post](https://x.com/elonmusk/status/2121316611974185273)
+
+---
+
+### 🕐 17:49 UTC · @elonmusk
+
+> BREAKING: Indian telecom giant Airtel’s Chairman, Sunil Bharti Mittal, praised Elon Musk’s “mind-boggling” achievements, says Starlink V3 is pushing the limits of physics. “I have to acknowledge what he has done is mind-boggling, @elonmusk. His compute or his connectivity capacity in the space has gone manifold, and it’s happened in the last four or five years under our watch. So the last launch that he made on Starship, the satellites he put up, the V3, they have a capacity of as much as the entire OneWeb capacity. So at one Tbps capacity in a single launch means he’s trying to push, if not break, through the laws of physics, which means a lot of connectivity is going to come from space, and the terrestrial industry needs to be prepared for that.” Media
+
+🔗 [View original post](https://x.com/cb_doge/status/2121299443450515494)
 
 ---
 

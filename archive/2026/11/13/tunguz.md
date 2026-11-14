@@ -2,7 +2,31 @@
 
 ## 📅 November 13, 2026
 
-> 7 post(s) archived.
+> 10 post(s) archived.
+
+---
+
+### 🕐 23:28 UTC · @tunguz
+
+> This is what AI aficionados refer to as the &quot;Bitter Lesson.&quot;
+
+🔗 [View original post](https://x.com/tunguz/status/2121384846345798086)
+
+---
+
+### 🕐 23:26 UTC · @tunguz
+
+> AI is going to fix all of our problems, but first it&apos;s going to create 1000x more of them.
+
+🔗 [View original post](https://x.com/tunguz/status/2121384297726628038)
+
+---
+
+### 🕐 23:20 UTC · @tunguz
+
+> OK, this one is my favorite so far. Media
+
+🔗 [View original post](https://x.com/tunguz/status/2121382617748513206)
 
 ---
 
