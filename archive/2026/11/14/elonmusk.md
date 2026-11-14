@@ -2,7 +2,31 @@
 
 ## 📅 November 14, 2026
 
-> 32 post(s) archived.
+> 37 post(s) archived.
+
+---
+
+### 🕐 16:57 UTC · @elonmusk
+
+> Starlink BREAKING: SpaceX donates @Starlink kits to help vulnerable children. Lagos State’s Ministry of Youth and Social Development received Starlink devices to improve care services via BEB Global. SpaceX’s wider grant covers 750 kits in 16 countries and 12 months of free internet.
+
+🔗 [View original post](https://x.com/elonmusk/status/2121648757456662970)
+
+---
+
+### 🕐 16:56 UTC · @elonmusk
+
+> Yes, the green flame is caused by burning copper from depleting fuel in the regenerative cooling circuit and going oxygen-rich (closer to stoichiometric temperature) in the main combustion chamber. Slight underperformance of engines on this flight is the reason. The booster is meant to land with tiny residuals, so the solution is to improve engine performance and performance consistency (underway with Raptor V3.2), as well as adjust flight software to do MECO1 about one second earlier to ensure enough propellant for boostback and landing (tiny change). These early ships and boosters are already outdated by improved designs in production or on the test stand, so this booster loss does not change our timeline to reach high volume, fully reusable Starship flights.
+
+🔗 [View original post](https://x.com/elonmusk/status/2121648438144024943)
+
+---
+
+### 🕐 16:39 UTC · @elonmusk
+
+> Text watermarking with Grok is only on where required by law or requested by the user Text watermarking is now off by default in the SpaceXSI API
+
+🔗 [View original post](https://x.com/elonmusk/status/2121644169462681818)
 
 ---
 
@@ -69,6 +93,14 @@
 > I placed a camera right next to the launch pad to capture starship’s liftoff in slow motion. Can you spot the moon? Media
 
 🔗 [View original post](https://x.com/AJamesMcCarthy/status/2121608679837368375)
+
+---
+
+### 🕐 14:09 UTC · @elonmusk
+
+> wut 50 Tbps per Starship is massive. Global international bandwidth is ~2,260 Tbps total. One flight adds over 2% of all cross-border capacity. It unlocks fiber-like speeds nearly everywhere, supports millions of concurrent high-res streams or AI transfers, and creates a resilient s…
+
+🔗 [View original post](https://x.com/billlee/status/2121606558211866984)
 
 ---
 
@@ -257,6 +289,14 @@
 ![This letter was sent to Nvidia&apos;s board today. A first for @atreidesmgmt Absolutely share @altcap belief that this letter outlines minimum acceptable standards.](../../../../assets/images/2026/11/14/2121401397346521412-1.jpg)
 
 🔗 [View original post](https://x.com/GavinSBaker/status/2121401397346521412)
+
+---
+
+### 🕐 00:09 UTC · @elonmusk
+
+> we optimized it heavily so it should burn only a little of your usage. go invite your e-coworker to the meeting, and let us know what you think!! Grok Bot can now join meetings. Ask it questions, assign it work, or have it keep track of what your team decides.
+
+🔗 [View original post](https://x.com/lingxi/status/2121394949182930954)
 
 ---
 

@@ -2,7 +2,15 @@
 
 ## 📅 November 14, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 15:00 UTC · @swyx
+
+> AI can do more of the work. So why does the job feel harder? @simonw on what happens when the easy tasks disappear and your ambitions catch up with the tools. From AI Engineer Code Summit. Media
+
+🔗 [View original post](https://x.com/aiDotEngineer/status/2121619176527937878)
 
 ---
 
