@@ -2,7 +2,23 @@
 
 ## 📅 November 14, 2026
 
-> 38 post(s) archived.
+> 40 post(s) archived.
+
+---
+
+### 🕐 18:18 UTC · @elonmusk
+
+> Actually, just looked closer and noticed that Tom, Gwynne and a few others aren’t in this particular picture, but they were certainly part of the company in those days
+
+🔗 [View original post](https://x.com/elonmusk/status/2121669169925996567)
+
+---
+
+### 🕐 18:16 UTC · @elonmusk
+
+> True, that pic shows everyone in the entire company of SpaceX in 2002! Tom Mueller (@lrocket) and Hans Koenigsmann, both amazing, world-class engineers, came by Mission Control last night. Good to see old friends ❤️ How it started v/s How it&apos;s going
+
+🔗 [View original post](https://x.com/elonmusk/status/2121668709064282507)
 
 ---
 

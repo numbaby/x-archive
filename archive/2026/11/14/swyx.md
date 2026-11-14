@@ -2,7 +2,27 @@
 
 ## 📅 November 14, 2026
 
-> 6 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 19:07 UTC · @swyx
+
+> openai dot now has a setting to just solve all captchas for the rest of time lol what are we even doing here anymore guys
+
+![openai dot now has a setting to just solve all captchas for the rest of time lol what are we even doing here anymore guys](../../../../assets/images/2026/11/14/2121681368224797014-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2121681368224797014)
+
+---
+
+### 🕐 18:01 UTC · @swyx
+
+> taking day 1 view count predictions for the @poteto talk launching in 30 mins https://youtu.be/O_zcc6Xl12g hit the bell etc 500k views in 2.5 days. @lydiahallie is on track to hit 1m in the fastest pace in aie history
+
+![taking day 1 view count predictions for the @poteto talk launching in 30 mins https://youtu.be/O_zcc6Xl12g hit the bell etc 500k views in 2.5 days. @lydiahallie is on track to hit 1m in the fastest pa](../../../../assets/images/2026/11/14/2121664913450189049-1.jpg)
+
+🔗 [View original post](https://x.com/aiDotEngineer/status/2121664913450189049)
 
 ---
 

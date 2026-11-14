@@ -2,7 +2,15 @@
 
 ## 📅 November 14, 2026
 
-> 6 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 18:16 UTC · @tunguz
+
+> Perfect portable coding setup. 新しいiPad miniとMoshiとCarbonでカフェコーディング日和。Moshiはherdrにもagyにもすぐ対応してて素晴らしい。
+
+🔗 [View original post](https://x.com/tunguz/status/2121668547202195690)
 
 ---
 
