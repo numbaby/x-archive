@@ -2,7 +2,15 @@
 
 ## 📅 November 15, 2026
 
-> 22 post(s) archived.
+> 26 post(s) archived.
+
+---
+
+### 🕐 20:46 UTC · @elonmusk
+
+> Ship, in the future, will almost always be taken to mean spaceship For all but a vanishingly brief instant near the dawn of history, the word ‘ship’ will mean ‘spaceship.’ - Arthur C. Clarke
+
+🔗 [View original post](https://x.com/elonmusk/status/2122068777189716003)
 
 ---
 
@@ -22,6 +30,16 @@
 
 ---
 
+### 🕐 18:56 UTC · @elonmusk
+
+> IMO Grok is currently, the best tool for understanding what’s happening in the world. Is Jensen being railroaded? https://grok.com/share/bGVnYWN5LWNvcHk_d59713f5-c4b0-4032-a59d-bd3e722ec3ff
+
+![IMO Grok is currently, the best tool for understanding what’s happening in the world. Is Jensen being railroaded? https://grok.com/share/bGVnYWN5LWNvcHk_d59713f5-c4b0-4032-a59d-bd3e722ec3ff](../../../../assets/images/2026/08/29/2093810234141634702-1.png)
+
+🔗 [View original post](https://x.com/jamesdouma/status/2122041125171298662)
+
+---
+
 ### 🕐 18:26 UTC · @elonmusk
 
 > You work your ass off solving really hard problems day after day for decades, and this is what you get: anyone could have done it. As an investor, I can tell you the limiting factor isn&apos;t investment. It&apos;s founder ability.
@@ -32,11 +50,31 @@
 
 ---
 
+### 🕐 15:00 UTC · @elonmusk
+
+> BREAKING: Samsung reportedly plans to make chips for SpaceX’s Starlink satellites in Austin, Texas. Samsung is investing $1.9 billion to expand its Austin chip factory, with the planned operations targeted to begin by 2030, according to Seoul Economic Daily. The chip, called STM32V8, is already used in Starlink’s mini laser system. SpaceX’s Starlink engineering team has praised the chip’s performance. The chips are currently manufactured in France. The reported Texas plan would add American production capacity for a key component behind Starlink’s satellite communications.
+
+![BREAKING: Samsung reportedly plans to make chips for SpaceX’s Starlink satellites in Austin, Texas. Samsung is investing $1.9 billion to expand its Austin chip factory, with the planned operations tar](../../../../assets/images/2026/11/15/2121981656882122993-1.jpg)
+
+🔗 [View original post](https://x.com/cb_doge/status/2121981656882122993)
+
+---
+
 ### 🕐 13:37 UTC · @elonmusk
 
 > This is spectacular— looks like science fiction, but it’s real! @elonmusk — I need to see this live one of these days! Mechazilla catches Starship! Congratulations to the entire SpaceX team on this incredible achievement!
 
 🔗 [View original post](https://x.com/DavidSolomon/status/2121960724943823205)
+
+---
+
+### 🕐 12:07 UTC · @elonmusk
+
+> BREAKING: Former White House and Pentagon official Douglas MacKinnon calls for an end to political attacks on Elon Musk, saying “our very survival may depend on him.” • Humanity’s future is vulnerable as long as we live on only one planet. War, an asteroid strike or another major disaster could threaten civilization. • Elon’s mission is to help humans live on other planets, giving future generations a better chance of surviving if disaster strikes Earth. • His work toward a permanent human presence in space could become one of his most important contributions to humanity. • People can disagree with his politics and still recognize the value of what he is trying to achieve. • MacKinnon argues that Elon deserves the time and freedom to focus on this mission. Elon is working toward a future where humanity can live beyond Earth and explore the stars. His determination to make that possible deserves recognition and support.
+
+![BREAKING: Former White House and Pentagon official Douglas MacKinnon calls for an end to political attacks on Elon Musk, saying “our very survival may depend on him.” • Humanity’s future is vulnerable](../../../../assets/images/2026/11/15/2121938086292770850-1.jpg)
+
+🔗 [View original post](https://x.com/cb_doge/status/2121938086292770850)
 
 ---
 
