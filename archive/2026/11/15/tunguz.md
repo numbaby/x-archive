@@ -2,7 +2,47 @@
 
 ## 📅 November 15, 2026
 
-> 4 post(s) archived.
+> 9 post(s) archived.
+
+---
+
+### 🕐 23:33 UTC · @tunguz
+
+> THIS is BY FAR the biggest problem with not having Jensen on board. I believe it’s surmountable - Apple just did something similar with replacing Tim Cook - but in the interim will lead to lots of uncertainty. Nvidia board underestimated the challenge of managing global semiconductor supply chain. There are 1.3m subcomponents in a Vera Rubin rack. Prob 1,000 high-tech vendors and 85% of are in East Asia (South Korea, Taiwan, China, Japan). Many of those deals have no contract and are …
+
+🔗 [View original post](https://x.com/tunguz/status/2122110731541946525)
+
+---
+
+### 🕐 23:13 UTC · @tunguz
+
+> “Oh no! How is NVIDIA going to survive without its [checks notes] Kaggle team?”
+
+🔗 [View original post](https://x.com/tunguz/status/2122105674809389483)
+
+---
+
+### 🕐 23:07 UTC · @tunguz
+
+> LOL, 80-90% of NVIDIA internal orgs are pure white elephants. THAT’s why Jensen had 60 “direct reports”. You could literally downsize the whole company by that much without losing ANYTHING in terms of core business and products. It&apos;s a pretty good sign of how out-of-touch the board was when they made the decision to get rid of Jensen. The nearly certain downstream effect is the collapse of NVidia: 1) 60 direct reports 2) New CEO is not going to be able to do 60 direct reports 3) Puts in traditional mana…
+
+🔗 [View original post](https://x.com/tunguz/status/2122104350051053573)
+
+---
+
+### 🕐 22:51 UTC · @tunguz
+
+> You can&apos;t spell NVIDIA without INDIA.
+
+🔗 [View original post](https://x.com/tunguz/status/2122100182791708865)
+
+---
+
+### 🕐 22:44 UTC · @tunguz
+
+> Those Gary sunsets are to die for. Literally. Life outside of AI pt 10, special edition : )
+
+🔗 [View original post](https://x.com/tunguz/status/2122098540100944147)
 
 ---
 

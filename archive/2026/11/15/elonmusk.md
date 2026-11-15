@@ -2,7 +2,33 @@
 
 ## 📅 November 15, 2026
 
-> 29 post(s) archived.
+> 34 post(s) archived.
+
+---
+
+### 🕐 23:27 UTC · @elonmusk
+
+> Starlink saves lives BREAKING: Greece’s government is using Starlink to support a railway safety system that warns of potential train collisions. Starlink sends live train data to the control center, including through mountainous areas without mobile coverage. • Monitoring equipment installed on 134…
+
+🔗 [View original post](https://x.com/elonmusk/status/2122109219855806886)
+
+---
+
+### 🕐 23:17 UTC · @elonmusk
+
+> No other 1:1 can top this. 😆 Elon Musk is currently inspecting heat shield tiles on Starship
+
+🔗 [View original post](https://x.com/yunta_tsai/status/2122106864049717637)
+
+---
+
+### 🕐 22:55 UTC · @elonmusk
+
+> BREAKING: Dominican Republic Government advances plans to expand Starlink connectivity and explores Grok for education. 🇩🇴 President Luis Abinader met with SpaceX executives and the Instituto Tecnológico de las Américas (ITLA) to discuss the initiatives: • More than 50,000 Starlink antennas are already installed across the country. • Starlink is already benefiting 1,608 students at ITLA’s Pedernales and Cotuí campuses. • Further expansion would bring internet to communities and schools where traditional services are limited or unavailable. • Grok Tutor is being considered for personalized learning support, helping students develop reasoning and critical thinking with teacher supervision. • Its potential integration would support RD Inteligente, a Government program aiming to train one million Dominicans in AI.
+
+![BREAKING: Dominican Republic Government advances plans to expand Starlink connectivity and explores Grok for education. 🇩🇴 President Luis Abinader met with SpaceX executives and the Instituto Tecnológ](../../../../assets/images/2026/11/15/2122101122072793431-1.jpg)
+
+🔗 [View original post](https://x.com/cb_doge/status/2122101122072793431)
 
 ---
 
@@ -30,11 +56,27 @@
 
 ---
 
+### 🕐 21:55 UTC · @elonmusk
+
+> Media
+
+🔗 [View original post](https://x.com/johnkrausphotos/status/2122086227709202668)
+
+---
+
 ### 🕐 20:46 UTC · @elonmusk
 
 > Ship, in the future, will almost always be taken to mean spaceship For all but a vanishingly brief instant near the dawn of history, the word ‘ship’ will mean ‘spaceship.’ - Arthur C. Clarke
 
 🔗 [View original post](https://x.com/elonmusk/status/2122068777189716003)
+
+---
+
+### 🕐 20:20 UTC · @elonmusk
+
+> Elon Musk is currently inspecting heat shield tiles on Starship Media Media
+
+🔗 [View original post](https://x.com/MinaGawargious/status/2122062161119994234)
 
 ---
 
