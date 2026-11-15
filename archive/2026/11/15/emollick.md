@@ -2,7 +2,31 @@
 
 ## 📅 November 15, 2026
 
-> 5 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 22:30 UTC · @emollick
+
+> I was watching the new Apple HomeView reviews and seeing that they hallucinate and fail to understand what&apos;s going on around them. Feels very bitter lessonable compared to whatever expert system they&apos;re trying to build. Apple made big strides with Siri AI this year, but Siri still struggles with the basics. And nowhere is that more obvious than on the new HomeView. This clip from my review sums up the problem.
+
+🔗 [View original post](https://x.com/emollick/status/2122094921624736141)
+
+---
+
+### 🕐 22:25 UTC · @emollick
+
+> A good frontier model can reason about the state of the house; point out anomalies, safety issues, or things that are wrong; and solve problems for you. They have increasingly good spatial understanding from images. All of this is the things you want.
+
+🔗 [View original post](https://x.com/emollick/status/2122093570555580636)
+
+---
+
+### 🕐 22:19 UTC · @emollick
+
+> Not having a good AI model powering your central home device will be a growing liability. You see the difference when you have a central PC with Codex/Code/OpenClaw and you try to use Siri or Alexa. Frontier models act like the household computer from sci-fi &amp; are more intuitive.
+
+🔗 [View original post](https://x.com/emollick/status/2122092065890635873)
 
 ---
 

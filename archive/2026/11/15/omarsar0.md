@@ -2,7 +2,23 @@
 
 ## 📅 November 15, 2026
 
-> 3 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 21:52 UTC · @omarsar0
+
+> If any of you building a startup want to chat about this, please reach out. I&apos;ve had several wonderful conversations about this over the last couple of weeks and have more thoughts to share, along with potential opportunities for collaboration.
+
+🔗 [View original post](https://x.com/omarsar0/status/2122085370548670727)
+
+---
+
+### 🕐 21:45 UTC · @omarsar0
+
+> This thought came from a simple harness I have been trying to build that more natively encodes all these important deterministic components with my agents (e.g., mixing Jev classifier and verification tools with coding agents). I am just tired of all these harnesses that try to automate everything and end up inviting more issues down the road. The state of harnesses has been really bad more recently (with the exception of a few). Plus, more people want to create software factories and complain about all kinds of issues showing up during complex runs. I feel like we still have a lot of work to do on harnesses. Excited to keep experimenting, but I wanted to share how I feel, because I think a lot of people believe that &quot;coding is solved&quot; and mistake that for meaning you can just put your agents to ship code in auto mode.
+
+🔗 [View original post](https://x.com/omarsar0/status/2122083635193098355)
 
 ---
 

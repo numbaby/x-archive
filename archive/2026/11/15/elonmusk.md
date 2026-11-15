@@ -2,7 +2,31 @@
 
 ## 📅 November 15, 2026
 
-> 26 post(s) archived.
+> 29 post(s) archived.
+
+---
+
+### 🕐 22:22 UTC · @elonmusk
+
+> Starlink is a gamechanger Starlink is now pulling travelers away from competing airlines United Airlines CEO Scott Kirby: “We already see customers moving from other airlines today” The numbers: • Starlink is now available on more than 50% of United&apos;s daily flights • Over 700 aircraft equipped with Starl…
+
+🔗 [View original post](https://x.com/elonmusk/status/2122092920434274773)
+
+---
+
+### 🕐 22:21 UTC · @elonmusk
+
+> 🍌 4 scale S-tier Engineering S-tier Humor 🍌 Love this company.
+
+🔗 [View original post](https://x.com/elonmusk/status/2122092646294581460)
+
+---
+
+### 🕐 22:20 UTC · @elonmusk
+
+> Yeah, I was going over the whole Starship heat shield earlier today. Overall, it looks great. The engines look great too. Ship 42 could probably be reflown with a few weeks of refurbishment. However, many small fixes are needed to achieve immediate reusability (like an airplane), which requires zero expected refurbishment, apart from scheduled maintenance. Elon is up at the pad inspecting the ship. Road is closed and we&apos;re expecting a rollout soon!
+
+🔗 [View original post](https://x.com/elonmusk/status/2122092374016806969)
 
 ---
 
