@@ -2,7 +2,7 @@
 
 ## 📅 November 14, 2026
 
-> 58 post(s) archived.
+> 60 post(s) archived.
 
 ---
 
@@ -175,6 +175,14 @@
 
 ---
 
+### 🕐 17:30 UTC · @elonmusk
+
+> Grok Bot is the only one that stuck ChatGPT Dots: i’ve literally paused mine due to bugs and constant refusals or annoying prompts to approve. Plus no independent app. Claude Duet: was excited, didn’t do much at all, way too early hope probably the sleeper
+
+🔗 [View original post](https://x.com/robinebers/status/2121656933002408008)
+
+---
+
 ### 🕐 16:57 UTC · @elonmusk
 
 > Starlink BREAKING: SpaceX donates @Starlink kits to help vulnerable children. Lagos State’s Ministry of Youth and Social Development received Starlink devices to improve care services via BEB Global. SpaceX’s wider grant covers 750 kits in 16 countries and 12 months of free internet.
@@ -286,6 +294,16 @@
 > Starship in orbit over Africa Media
 
 🔗 [View original post](https://x.com/SpaceX/status/2121602376532742611)
+
+---
+
+### 🕐 12:55 UTC · @elonmusk
+
+> 그록봇에 화상회의에 초대할수 있는데 토큰을 거의 먹지 않는다고 합니다. 이건 엄청난 기능인데,제가 우려한 유일한 점은 토큰 소모 였습니다. 오늘 업데이트 되자마자 사용했습니다. 성능은 대박이었습니다. 여기에 음성 대화까지 가능해진다면 아마 큰 파장이 일어날것으로 예상됩니다. @lingxi we optimized it heavily so it should burn only a little of your usage. go invite your e-coworker to the meeting, and let us know what you think!!
+
+![그록봇에 화상회의에 초대할수 있는데 토큰을 거의 먹지 않는다고 합니다. 이건 엄청난 기능인데,제가 우려한 유일한 점은 토큰 소모 였습니다. 오늘 업데이트 되자마자 사용했습니다. 성능은 대박이었습니다. 여기에 음성 대화까지 가능해진다면 아마 큰 파장이 일어날것으로 예상됩니다. @lingxi we optimized it heavily so it should b](../../../../assets/images/2026/11/14/2121587902841020922-1.jpg)
+
+🔗 [View original post](https://x.com/minheo93698092/status/2121587902841020922)
 
 ---
 
