@@ -2,7 +2,35 @@
 
 ## 📅 November 15, 2026
 
-> 4 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 18:21 UTC · @swyx
+
+> clanker wrote up the talk https://ai.engineer/code/2026/talks/lydia-hallie
+
+![clanker wrote up the talk https://ai.engineer/code/2026/talks/lydia-hallie](../../../../assets/images/2026/11/15/2122032217430032548-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2122032217430032548)
+
+---
+
+### 🕐 18:18 UTC · @swyx
+
+> clanker wrote up a short recap of the talk https://ai.engineer/code/2026/talks/lauren-tan
+
+![clanker wrote up a short recap of the talk https://ai.engineer/code/2026/talks/lauren-tan](../../../../assets/images/2026/11/15/2122032217430032548-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2122031563961684032)
+
+---
+
+### 🕐 15:00 UTC · @swyx
+
+> 11,000 pull requests in one month. A revert rate around 0.5%. @poteto on the Grok Bot team&apos;s shipping pace at @SpaceXSI. More contributors, daily stable releases, and an app that got faster. From AI Engineer Code Summit. Media
+
+🔗 [View original post](https://x.com/aiDotEngineer/status/2121981562824564960)
 
 ---
 
