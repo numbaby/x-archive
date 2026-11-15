@@ -2,7 +2,15 @@
 
 ## 📅 November 15, 2026
 
-> 7 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 20:35 UTC · @swyx
+
+> apparently it is pretty normal https://x.com/gergelyorosz/status/2121764764737290472?a=2eV01xOcTli4r-G_eN4&amp;s=46 The Economist is the one I only publication I told to NEVER use any material from me ever again. They redrew and renamed my Trimodal compensation diagram, did not link to my work… not even after I called them out Not much original journalism left there https://x.com/gergelyorosz…
+
+🔗 [View original post](https://x.com/swyx/status/2122066060769952161)
 
 ---
 
