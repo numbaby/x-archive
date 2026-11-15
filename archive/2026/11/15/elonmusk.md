@@ -2,7 +2,15 @@
 
 ## 📅 November 15, 2026
 
-> 8 post(s) archived.
+> 10 post(s) archived.
+
+---
+
+### 🕐 03:08 UTC · @elonmusk
+
+> Will the future that you want Choose your path Western man.
+
+🔗 [View original post](https://x.com/elonmusk/status/2121802527524164015)
 
 ---
 
@@ -21,6 +29,16 @@
 > Try Grok @Bot holy f*ck... Elon Musk&apos;s team just made airport rebooking lines useless my flight got cancelled and 187 people were ahead of me at the desk. my Grok Bot rebooked me before the line moved 17 people Grok Bot makes phone calls now. it sits on hold, talks to the agent and says up fr…
 
 🔗 [View original post](https://x.com/elonmusk/status/2121770874885845044)
+
+---
+
+### 🕐 00:58 UTC · @elonmusk
+
+> Choose your path Western man.
+
+![Choose your path Western man.](../../../../assets/images/2026/11/15/2121769886770778182-1.jpg)
+
+🔗 [View original post](https://x.com/Geiger_Capital/status/2121769886770778182)
 
 ---
 
