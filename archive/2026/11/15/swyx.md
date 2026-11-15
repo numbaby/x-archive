@@ -2,7 +2,17 @@
 
 ## 📅 November 15, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 07:15 UTC · @swyx
+
+> Attended an amazing broadway musical tonight, don’t sleep on @swyx outside the AI world dude is incredibly talented and full of surprises
+
+![Attended an amazing broadway musical tonight, don’t sleep on @swyx outside the AI world dude is incredibly talented and full of surprises](../../../../assets/images/2026/11/15/2121864756088930412-1.jpg)
+
+🔗 [View original post](https://x.com/TheAhmadOsman/status/2121864756088930412)
 
 ---
 
