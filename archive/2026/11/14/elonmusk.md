@@ -2,7 +2,33 @@
 
 ## 📅 November 14, 2026
 
-> 52 post(s) archived.
+> 58 post(s) archived.
+
+---
+
+### 🕐 23:25 UTC · @elonmusk
+
+> Ship 42 looks great! Media
+
+🔗 [View original post](https://x.com/elonmusk/status/2121746382402797892)
+
+---
+
+### 🕐 23:21 UTC · @elonmusk
+
+> “Physics is the law. Everything else is a recommendation.” @elonmusk told me that at DealBook in 2023. Today, SpaceX caught Starship after 14 orbits of Earth. Plenty doubted it was possible. Just extraordinary. @SpaceX. Media
+
+🔗 [View original post](https://x.com/andrewrsorkin/status/2121745318618571231)
+
+---
+
+### 🕐 22:53 UTC · @elonmusk
+
+> On Friday, November 13, Starship lifted off from Starbase, Texas on its 15th flight. On Saturday, November 14, Starship returned to Starbase, Texas, and changed everything → https://spacex.com/launches/starship-flight-15
+
+![On Friday, November 13, Starship lifted off from Starbase, Texas on its 15th flight. On Saturday, November 14, Starship returned to Starbase, Texas, and changed everything → https://spacex.com/launche](../../../../assets/images/2026/11/14/2121738348804857963-1.jpg)
+
+🔗 [View original post](https://x.com/SpaceX/status/2121738348804857963)
 
 ---
 
@@ -20,6 +46,16 @@
 > Inspecting ship 42 right now Media
 
 🔗 [View original post](https://x.com/elonmusk/status/2121733992726802703)
+
+---
+
+### 🕐 22:32 UTC · @elonmusk
+
+> The next time you want to give up, think of this image:
+
+![The next time you want to give up, think of this image:](../../../../assets/images/2026/11/14/2121733104499077522-1.jpg)
+
+🔗 [View original post](https://x.com/cb_doge/status/2121733104499077522)
 
 ---
 
@@ -45,6 +81,22 @@
 ![](../../../../assets/images/2026/11/14/2121719372339454408-1.jpg)
 
 🔗 [View original post](https://x.com/johnkrausphotos/status/2121719372339454408)
+
+---
+
+### 🕐 21:34 UTC · @elonmusk
+
+> The holy grail of rocketry has just been achieved. This is an inflection point in human history that will unlock the solar system for humankind. Congrats to everyone on Planet Earth!!! ❤️ Mechazilla catches Starship! Congratulations to the entire SpaceX team on this incredible achievement!
+
+🔗 [View original post](https://x.com/edwards345/status/2121718457771377001)
+
+---
+
+### 🕐 21:33 UTC · @elonmusk
+
+> it feels great to be an american. it feels fucking great to be an american THEY FUCKING DID IT. THEY FUCKING DID IT. OH MY GOD
+
+🔗 [View original post](https://x.com/willdepue/status/2121718147854279127)
 
 ---
 

@@ -2,7 +2,15 @@
 
 ## 📅 November 14, 2026
 
-> 12 post(s) archived.
+> 13 post(s) archived.
+
+---
+
+### 🕐 23:41 UTC · @swyx
+
+> The more I learn about how the internals all work, the more I agree with this take. This week’s @latentspacepod / @swyx podcast with Handshake was super-interesting and eye-opening to me. Almost 3 hours long but worth the listen - and probably just scraping the surface of what all goes into this. Space still feels very early Some of the highest gross margin startups in SF right now aren’t SaaS companies. They’re basically data generation companies selling to AI labs. I think every verifiable domain is going to get crushed by AI. Mathematics is the quintessential example. With Lean, you can formally …
+
+🔗 [View original post](https://x.com/mstockton/status/2121750278395330859)
 
 ---
 

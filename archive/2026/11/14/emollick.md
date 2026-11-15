@@ -2,7 +2,25 @@
 
 ## 📅 November 14, 2026
 
-> 7 post(s) archived.
+> 9 post(s) archived.
+
+---
+
+### 🕐 23:53 UTC · @emollick
+
+> Here: https://github.com/emollick/satbench Also thanks to The Benchmark Almanac: https://github.com/brianlzhou/benchmark-almanac
+
+🔗 [View original post](https://x.com/emollick/status/2121753306855067770)
+
+---
+
+### 🕐 23:46 UTC · @emollick
+
+> AI is getting better faster than our measurements are I threw together SatBench, which measures how quickly major AI benchmarks become saturated (effectively beaten). Of 173 benchmarks cited by the Labs since 2023, 63% are now saturated. Saturation is happening faster each year.
+
+![AI is getting better faster than our measurements are I threw together SatBench, which measures how quickly major AI benchmarks become saturated (effectively beaten). Of 173 benchmarks cited by the La](../../../../assets/images/2026/11/14/2121751565845360769-1.jpg)
+
+🔗 [View original post](https://x.com/emollick/status/2121751565845360769)
 
 ---
 
