@@ -155319,6 +155319,13 @@
       }
     ]
   },
+  "2121901128942252503": {
+    "account": "ylecun",
+    "date": "2026-11-15",
+    "file": "data/posts/2026/11/2026-11-15.jsonl",
+    "fingerprint": "bf7dd79efa5d491c4bb3059187ff7911ac58a4fe78300b34a60c3e9b6e30384e",
+    "media": []
+  },
   "2121921432569745443": {
     "account": "AiEvolutio58513",
     "date": "2026-11-15",
@@ -155371,6 +155378,13 @@
     "date": "2026-11-15",
     "file": "data/posts/2026/11/2026-11-15.jsonl",
     "fingerprint": "5172eb26de90d8a06a78c568d863d9499faf72b9689dd4267e1ba2d66129be89",
+    "media": []
+  },
+  "2121995284196602013": {
+    "account": "ylecun",
+    "date": "2026-11-15",
+    "file": "data/posts/2026/11/2026-11-15.jsonl",
+    "fingerprint": "a98e5b432d614ba368682cbf4b878c0efcfdff7dc70923017f6d05780c9884bd",
     "media": []
   }
 }
