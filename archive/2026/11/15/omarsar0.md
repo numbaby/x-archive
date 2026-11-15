@@ -2,7 +2,15 @@
 
 ## 📅 November 15, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 18:34 UTC · @omarsar0
+
+> This might surprise many new to AI. The best agentic systems I have built and seen other top engineers build involve lots of boring deterministic steps. You can&apos;t just throw more LLM agents at every problem and expect reliability to improve. Every error will compound into more errors. You still need good classifiers, verifiers, and evaluators for agentic workflows to truly compound in the right direction. This is key to your &quot;software factory.&quot;
+
+🔗 [View original post](https://x.com/omarsar0/status/2122035455793188980)
 
 ---
 
