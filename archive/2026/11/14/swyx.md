@@ -2,7 +2,7 @@
 
 ## 📅 November 14, 2026
 
-> 13 post(s) archived.
+> 14 post(s) archived.
 
 ---
 
@@ -59,6 +59,14 @@
 ![my AIE talk is up! come hear how the grok @bot team ships so quickly without compromise on quality https://youtu.be/O_zcc6Xl12g](../../../../assets/images/2026/11/14/2121673563489140863-1.jpg)
 
 🔗 [View original post](https://x.com/poteto/status/2121673563489140863)
+
+---
+
+### 🕐 18:27 UTC · @swyx
+
+> I just finished talks about my software factories at two conferences. Afterwards a bunch of people came up and told me what they were surprised about. Here is a distillation of what people thought were hot takes from my two talks. First hot take: I tell everyone to slow down. Most speakers go on about how fast they&apos;re going, but I strongly believe in pacing AI outputs to human speeds. I regularly tell AI-pilled CIOs and CTOs to chill: almost nobody is _actually_ going fast with AI. Engineering still moves at engineering speeds, and business moves even slower. The ones pushing too hard are starting to see downtime for it. If you don&apos;t pace your AI to human speeds, everything starts breaking around you, even at small operations like my online video game. I only have about a dozen humans working with my factory, and only a few hundred active old-timer players in the community who get along well, and still, introducing AI has still been very rocky. My agents have, at times, overwhelmed my players with features, my accountant with emails, my merge queue with tickets, and my machines with load. Agents have pissed off my admins, resulting in name-calling, they&apos;ve made messes in the game, and they&apos;ve launched broken OSS without permission. The list goes on. I can get away with all this chaos because everyone involved in my operation is very forgiving. They&apos;re excited by the potential. But even so, I had to learn to slow down, real fast. And so that&apos;s what I preach. Hot take #2: Should you buy a software factory? Do you even need one? No. You probably don&apos;t need one. Factories take an extraordinary amount of upkeep. They turn into garbage mountains unless you put a frightening amount of time and tokens into curating them. I had to burn my previous five factories down since it eventually became cheaper to rewrite them than to fix them. So I&apos;m not out there advocating for software factories or swarms just yet. If you do want one, be aware that it is a significant commitment of both money and human leadership to keep one running. Several people told me that I was the only one who stood up onstage, at either conference, and said Build, don&apos;t Buy. But my experience is that software factories grow to be highly bespoke to your domain. Mine is super tangled up with my game, and I think that&apos;s inevitable. Because the factory is not just building my product, it&apos;s supporting it too. It&apos;s a company in a box. And they&apos;re easy for Claude to build for you. Third and arguably hottest take: Next year will have a lot of human/agent and agent/agent office drama, resulting from bringing in AI employees, and it will be gloriously funny, but also frustrating. Many of you are already on this bandwagon, but everyone next year will have a personal chief-of-staff agent. Busy people, even hobbyists, will have whole entourages of helper agents. The hot take is that people will become so dependent on these little private entourages, that they&apos;ll bring them to work. Your people will talk to my people, etc. Whole protocols will emerge for private entourages negotiating work between humans, inside companies big and small. Nearly all humans will wind up having to start working with AI employees next year, and it&apos;ll be the beginning of the biggest cultural change we&apos;ve seen in a hundred years. So that&apos;s the hot takes. Slow down. Only build a factory if you think you really need one. And focus on empowering yourself with your own agentic chief of staff (or team). Your entourage will define how you work with others, so start by perfecting how you work with them yourself.
+
+🔗 [View original post](https://x.com/Steve_Yegge/status/2121671447810888185)
 
 ---
 

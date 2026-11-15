@@ -2,7 +2,17 @@
 
 ## 📅 November 15, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 03:59 UTC · @swyx
+
+> holy shit u guys like a lot of poteto my AIE talk is up! come hear how the grok @bot team ships so quickly without compromise on quality https://youtu.be/O_zcc6Xl12g
+
+![holy shit u guys like a lot of poteto my AIE talk is up! come hear how the grok @bot team ships so quickly without compromise on quality https://youtu.be/O_zcc6Xl12g](../../../../assets/images/2026/11/15/2121815348370612414-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2121815348370612414)
 
 ---
 
