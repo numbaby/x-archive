@@ -155365,5 +155365,12 @@
         "source_url": "https://pbs.twimg.com/card_img/2121940331176321025/p5taw5CC?format=jpg&name=800x419"
       }
     ]
+  },
+  "2121981392317800865": {
+    "account": "tunguz",
+    "date": "2026-11-15",
+    "file": "data/posts/2026/11/2026-11-15.jsonl",
+    "fingerprint": "5172eb26de90d8a06a78c568d863d9499faf72b9689dd4267e1ba2d66129be89",
+    "media": []
   }
 }

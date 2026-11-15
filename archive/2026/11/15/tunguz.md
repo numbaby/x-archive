@@ -2,7 +2,15 @@
 
 ## 📅 November 15, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 14:59 UTC · @tunguz
+
+> Starbucksisation of corporate America. Nobody calls their models Small, Medium, Large these days. OpenAI: Luna, Terra, Sol, Astra Google: Hydrogen, Argon, Carbon Anthropic: Haiku, Sonnet, Opus, Fable AI labs must have gotten this grand idea from Starbucks: Tall, Grande, Venti.
+
+🔗 [View original post](https://x.com/tunguz/status/2121981392317800865)
 
 ---
 
