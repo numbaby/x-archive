@@ -2,7 +2,17 @@
 
 ## 📅 November 15, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 09:22 UTC · @swyx
+
+> also the day 1 livestream has crossed 100k in the fastest time ever. covering coding agent practices and landscape continues to be the strongest format we do and by far my strongest product-market-fit focus thing I have ever done. taking day 1 view count predictions for the @poteto talk launching in 30 mins https://youtu.be/O_zcc6Xl12g hit the bell etc
+
+![also the day 1 livestream has crossed 100k in the fastest time ever. covering coding agent practices and landscape continues to be the strongest format we do and by far my strongest product-market-fit](../../../../assets/images/2026/11/15/2121896675048587765-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2121896675048587765)
 
 ---
 

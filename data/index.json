@@ -155305,5 +155305,18 @@
         "source_url": "https://pbs.twimg.com/media/HXJriOpbIAAV0Nw.jpg?name=orig"
       }
     ]
+  },
+  "2121896675048587765": {
+    "account": "swyx",
+    "date": "2026-11-15",
+    "file": "data/posts/2026/11/2026-11-15.jsonl",
+    "fingerprint": "370f151656c946cca97bd3e2f77d1435fc72c7d42418c1fc9b295619ae1a66e5",
+    "media": [
+      {
+        "local_path": "assets/images/2026/11/15/2121896675048587765-1.jpg",
+        "sha256": "87b12c31510c182531e617d3541f877c2c3db0a17c072cfc3b42f592718883bf",
+        "source_url": "https://pbs.twimg.com/media/HXJ9x67bYAAiw4Y.jpg?name=orig"
+      }
+    ]
   }
 }
