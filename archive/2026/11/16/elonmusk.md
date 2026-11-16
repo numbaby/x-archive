@@ -2,7 +2,27 @@
 
 ## 📅 November 16, 2026
 
-> 22 post(s) archived.
+> 24 post(s) archived.
+
+---
+
+### 🕐 14:31 UTC · @elonmusk
+
+> BREAKING: SpaceX is joining local law enforcement in Florida to help bring Christmas joy to children in need. Brevard County Sheriff Wayne Ivey announced that SpaceX will participate in the Reverse Christmas Parade on Monday, November 30. SpaceX helping the community. ♥️
+
+![BREAKING: SpaceX is joining local law enforcement in Florida to help bring Christmas joy to children in need. Brevard County Sheriff Wayne Ivey announced that SpaceX will participate in the Reverse Ch](../../../../assets/images/2026/11/16/2122336858415989037-1.jpg)
+
+🔗 [View original post](https://x.com/cb_doge/status/2122336858415989037)
+
+---
+
+### 🕐 09:44 UTC · @elonmusk
+
+> If Starship were its own launch company, it would already be number 2 in the US by payload to orbit. (behind SpaceX Falcon 9).
+
+![If Starship were its own launch company, it would already be number 2 in the US by payload to orbit. (behind SpaceX Falcon 9).](../../../../assets/images/2026/11/16/2122264436069339575-1.jpg)
+
+🔗 [View original post](https://x.com/ApoStructura/status/2122264436069339575)
 
 ---
 
