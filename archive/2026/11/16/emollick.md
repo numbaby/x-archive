@@ -2,7 +2,15 @@
 
 ## 📅 November 16, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 12:38 UTC · @emollick
+
+> I think contrary to many of our expectations, we have not seen a Fable class open model more than 8 months after Fable/Mythos was first made public. Alibaba has launched Qwen4 Max, gaining 9 points over Qwen3.8 Max on the Artificial Analysis Intelligence Index and landing 3 points behind Kimi K3.1 Pro at ~11% lower Cost per Task Qwen4 Max, using xhigh reasoning effort, scores 43 on the Intelligence Index, 9 points ahead of Q…
+
+🔗 [View original post](https://x.com/emollick/status/2122308260325720127)
 
 ---
 

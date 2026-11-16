@@ -2,7 +2,15 @@
 
 ## 📅 November 16, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 12:58 UTC · @AiEvolutio58513
+
+> Elon Musk says TeraFab&apos;s first chip lands next spring, and volume production by Q3 2028: &quot;Well, I mean, we&apos;re just figuring out chip fabrication.&quot; &quot;It&apos;s what we&apos;re aiming for internally: is to make our first sort of test chip functional in approximately May or June of next year.&quot; &quot;And we&apos;re aiming to, our aspiration is to reach volume production around Q3 of &apos;28 at TeraFab, at Gibbons Creek, the main TeraFab location. These were very aggressive dates.&quot; Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2122313314185396402)
 
 ---
 
