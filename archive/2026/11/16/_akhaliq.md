@@ -2,7 +2,17 @@
 
 ## 📅 November 16, 2026
 
-> 5 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 18:18 UTC · @_akhaliq
+
+> We&apos;re teaming up to accelerate open-source Al. OpenRouter is now integrated into Hugging Face directly. Same token, same endpoint, plus live model stats on the Hub and an inference widget we redesigned together. The best of open, in one place. https://huggingface.co/blog/openrouter
+
+![We&apos;re teaming up to accelerate open-source Al. OpenRouter is now integrated into Hugging Face directly. Same token, same endpoint, plus live model stats on the Hub and an inference widget we rede](../../../../assets/images/2026/11/16/2122393775314264519-1.jpg)
+
+🔗 [View original post](https://x.com/huggingface/status/2122393775314264519)
 
 ---
 
