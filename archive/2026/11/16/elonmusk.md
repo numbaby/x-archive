@@ -2,7 +2,41 @@
 
 ## 📅 November 16, 2026
 
-> 13 post(s) archived.
+> 17 post(s) archived.
+
+---
+
+### 🕐 04:54 UTC · @elonmusk
+
+> Yup SpaceX has launched more then every other company combined
+
+🔗 [View original post](https://x.com/elonmusk/status/2122191623731745133)
+
+---
+
+### 🕐 04:34 UTC · @elonmusk
+
+> 12 years ago About to testify before Senate against ULA (Lockheed and Boeing) monopoly contract for national security launches
+
+🔗 [View original post](https://x.com/elonmusk/status/2122186399575396604)
+
+---
+
+### 🕐 04:03 UTC · @elonmusk
+
+> @nbcsnl lol
+
+![@nbcsnl lol](../../../../assets/images/2026/11/16/2122178701039137144-1.jpg)
+
+🔗 [View original post](https://x.com/elonmusk/status/2122178701039137144)
+
+---
+
+### 🕐 03:45 UTC · @elonmusk
+
+> The SpaceX engineers who caught the rocket don&apos;t write LinkedIn thought pieces about leadership.
+
+🔗 [View original post](https://x.com/JohnLeFevre/status/2122174254787760534)
 
 ---
 

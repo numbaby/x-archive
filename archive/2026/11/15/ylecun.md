@@ -2,7 +2,15 @@
 
 ## 📅 November 15, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 23:14 UTC · @ylecun
+
+> As I’ve said for years, concentration of power, capabilities and wealth is the biggest risk in AI. The natural tendencies for it are super strong and without much much stronger open-source, we might end up in a world with more asymmetry and inequalities than ever! Anthropic’s IPO could make about 4,250 of its 5,300 employees millionaires, per an analysis by financial platform Hill, including roughly 50 worth more than $100 million each. The estimate assumes a $1.5 trillion valuation, above the roughly $1 trillion Anthropic is now targetin…
+
+🔗 [View original post](https://x.com/ClementDelangue/status/2122106063357194566)
 
 ---
 
