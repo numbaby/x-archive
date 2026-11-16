@@ -2,7 +2,15 @@
 
 ## 📅 November 15, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 22:08 UTC · @demishassabis
+
+> on my first ever Carbon prompt it solved a research problem we’d been throwing wave after wave of Astras and Fables at without success impressed
+
+🔗 [View original post](https://x.com/scottnarmstrong/status/2122089351081275657)
 
 ---
 

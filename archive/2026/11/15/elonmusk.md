@@ -2,7 +2,7 @@
 
 ## 📅 November 15, 2026
 
-> 36 post(s) archived.
+> 37 post(s) archived.
 
 ---
 
@@ -131,6 +131,16 @@
 ![You work your ass off solving really hard problems day after day for decades, and this is what you get: anyone could have done it. As an investor, I can tell you the limiting factor isn&apos;t investm](../../../../assets/images/2026/11/15/2122033524857589799-1.png)
 
 🔗 [View original post](https://x.com/paulg/status/2122033524857589799)
+
+---
+
+### 🕐 15:53 UTC · @elonmusk
+
+> Legacy media headlines after @SpaceX caught Starship: • CNN: &quot;SpaceX Starship nails historic ship catch in unprecedented test flight&quot; • Reuters: &quot;SpaceX Starship returns to landing pad from orbit, acing test for reusable rockets&quot; • Fox: &quot;SpaceX makes history as Starship spacecraft caught by launch tower for first time&quot; • CNBC: &quot;SpaceX catches upper stage of Starship rocket in historic first&quot; • NYT: &quot;SpaceX makes history with successful rocket catch in Texas&quot; • BBC: &quot;&apos;Can you believe it?&apos;: SpaceX catches part of its Starship rocket on return to Earth&quot; • NPR: &quot;SpaceX makes history with Starship catch&quot; • Sky News: &quot;SpaceX makes unprecedented &apos;catch&apos; of Starship&quot;
+
+![Legacy media headlines after @SpaceX caught Starship: • CNN: &quot;SpaceX Starship nails historic ship catch in unprecedented test flight&quot; • Reuters: &quot;SpaceX Starship returns to landing pad ](../../../../assets/images/2026/11/15/2121995093204701439-1.jpg)
+
+🔗 [View original post](https://x.com/SawyerMerritt/status/2121995093204701439)
 
 ---
 
