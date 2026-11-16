@@ -2,7 +2,17 @@
 
 ## 📅 November 16, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 17:11 UTC · @AiEvolutio58513
+
+> What surprised me most about August is that I can simply tell it what I need, and it handles the rest. It connects with nearby doctors, checks availability, gets updates, and helps book appointments without me having to make endless calls. Just tell it the task. August takes it from there. Join the waitlist: https://www.meetaugust.ai/join We raised $12M from @Accel and @PeakXV to put AI through the bullshit American healthcare puts you through. Navigating healthcare is hard and all of us have a list of healthcare tasks we’ve been putting off. From visiting a doctor to filing an insurance claim, the tasks pile up …
+
+![What surprised me most about August is that I can simply tell it what I need, and it handles the rest. It connects with nearby doctors, checks availability, gets updates, and helps book appointments w](../../../../assets/images/2026/11/16/2122376969589522603-1.jpg)
+
+🔗 [View original post](https://x.com/ecomchasedimond/status/2122376969589522603)
 
 ---
 

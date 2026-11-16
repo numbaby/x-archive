@@ -2,7 +2,15 @@
 
 ## 📅 November 16, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 16:30 UTC · @swyx
+
+> Code Summit, through the people who were there. A few days in San Francisco. New ideas to take back to work. With @swyx and teams from @GoogleDeepMind @OpenAI @AnthropicAI @firecrawl @mixedbreadai @coderabbitai @Atlassian. Keep building. Media
+
+🔗 [View original post](https://x.com/aiDotEngineer/status/2122366588582015138)
 
 ---
 
