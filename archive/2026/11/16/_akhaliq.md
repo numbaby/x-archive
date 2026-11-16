@@ -2,7 +2,17 @@
 
 ## 📅 November 16, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 16:14 UTC · @_akhaliq
+
+> eDMD Endpoint Distribution Matching for Few-Step Diffusion Distillation paper: https://huggingface.co/papers/2611.17194
+
+![eDMD Endpoint Distribution Matching for Few-Step Diffusion Distillation paper: https://huggingface.co/papers/2611.17194](../../../../assets/images/2026/11/16/2122362729759662110-1.jpg)
+
+🔗 [View original post](https://x.com/_akhaliq/status/2122362729759662110)
 
 ---
 

@@ -2,7 +2,57 @@
 
 ## 📅 November 16, 2026
 
-> 11 post(s) archived.
+> 17 post(s) archived.
+
+---
+
+### 🕐 16:01 UTC · @tunguz
+
+> Man, I love working with AI!
+
+🔗 [View original post](https://x.com/tunguz/status/2122359448962498762)
+
+---
+
+### 🕐 16:00 UTC · @tunguz
+
+> Visually - absolutely. The storyline will probably suck big time. Denis Villeneuve + this =&gt; I dig it!!!! The next Bond movie going to be amazing.
+
+🔗 [View original post](https://x.com/tunguz/status/2122359224332366081)
+
+---
+
+### 🕐 15:55 UTC · @tunguz
+
+> Name an ACTOR who would make an absolutely incredible James Bond villain.
+
+![Name an ACTOR who would make an absolutely incredible James Bond villain.](../../../../assets/images/2026/11/16/2122357936672719249-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2122357936672719249)
+
+---
+
+### 🕐 15:54 UTC · @tunguz
+
+> I mean, have you ever seen Batman and James Bond in the same room? Exactly.
+
+🔗 [View original post](https://x.com/tunguz/status/2122357591892521257)
+
+---
+
+### 🕐 15:30 UTC · @tunguz
+
+> Yes. @tunguz Been like this for a long time. Problem is that since 2020 the politics of L5+ have been counter productive to the long term success of the company.
+
+🔗 [View original post](https://x.com/tunguz/status/2122351605039198441)
+
+---
+
+### 🕐 15:27 UTC · @tunguz
+
+> Holy crap YES! NEWS It’s official, the new James Bond is Robert Pattinson.
+
+🔗 [View original post](https://x.com/tunguz/status/2122350804463923594)
 
 ---
 
