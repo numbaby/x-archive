@@ -2,7 +2,15 @@
 
 ## 📅 November 16, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 10:59 UTC · @AiEvolutio58513
+
+> Elon Musk says Neuralink&apos;s Blindsight implant is close, and the goal is sight beyond human: &quot;Even if somebody&apos;s completely blind, we can write directly to the visual cortex&quot; The first version gives low-resolution vision. The long-term plan goes much further: &quot;You would have very high resolution and be able to see multispectral wavelengths. You could see in infrared, ultraviolet, radar. It&apos;s like a superpower situation&quot; Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2122283315185279034)
 
 ---
 
