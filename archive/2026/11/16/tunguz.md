@@ -2,7 +2,31 @@
 
 ## 📅 November 16, 2026
 
-> 8 post(s) archived.
+> 11 post(s) archived.
+
+---
+
+### 🕐 14:02 UTC · @tunguz
+
+> We need to bring it back. The Australo-Hungarian Empire at its territorial peak
+
+🔗 [View original post](https://x.com/tunguz/status/2122329522737680687)
+
+---
+
+### 🕐 14:01 UTC · @tunguz
+
+> Yes Sf is not walkable I will die on this hill
+
+🔗 [View original post](https://x.com/tunguz/status/2122329098420723871)
+
+---
+
+### 🕐 13:32 UTC · @tunguz
+
+> We added two more algorithms to mlx-learn: KMeans and EMeans. KMeans is the familiar clustering algorithm, now accelerated up to 7X on Apple GPUs. EMeans is our implementation of the newly released Meta research algorithm that speeds up clustering by a significant amount. Our implementation achieves up to 15X speedup over the original CPU implementation. Go check them out! As always, simple pip install: pip install mlx-learn==0.1.3 mlx-learn 0.1.3 is out! It brings e-means and KMeans to Apple Silicon GPUs with scikit-learn-style APIs. Install: pip install mlx-learn==0.1.3 https://pypi.org/project/mlx-learn/0.1.3/ 1/4
+
+🔗 [View original post](https://x.com/tunguz/status/2122321993596854764)
 
 ---
 

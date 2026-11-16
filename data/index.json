@@ -156208,5 +156208,40 @@
     "file": "data/posts/2026/11/2026-11-16.jsonl",
     "fingerprint": "3467823fb13687a3b7e9ddd749bed72d0f56a31cc2240a6299e2a21186873c2e",
     "media": []
+  },
+  "2122321993596854764": {
+    "account": "tunguz",
+    "date": "2026-11-16",
+    "file": "data/posts/2026/11/2026-11-16.jsonl",
+    "fingerprint": "0e8e4c34fffaab9f8051ba0868a8a0f5e646fb3b2f4ebc555d27431c57276a80",
+    "media": []
+  },
+  "2122329098420723871": {
+    "account": "tunguz",
+    "date": "2026-11-16",
+    "file": "data/posts/2026/11/2026-11-16.jsonl",
+    "fingerprint": "3bb8fe1f39a91449f44680b262d4a7bc9dd7d922397603d6bf765032fbee30bc",
+    "media": []
+  },
+  "2122329522737680687": {
+    "account": "tunguz",
+    "date": "2026-11-16",
+    "file": "data/posts/2026/11/2026-11-16.jsonl",
+    "fingerprint": "14b6e5383d687a74c804409a1dcfcec01a08288722792c6b62195d0a01c081e2",
+    "media": []
+  },
+  "2122333324895035868": {
+    "account": "dair_ai",
+    "date": "2026-11-16",
+    "file": "data/posts/2026/11/2026-11-16.jsonl",
+    "fingerprint": "80485163f6e8dc1f8534bf4eb5e647f93e2346ae62589150d54d43e5658bc097",
+    "media": []
+  },
+  "2122334173780185384": {
+    "account": "dair_ai",
+    "date": "2026-11-16",
+    "file": "data/posts/2026/11/2026-11-16.jsonl",
+    "fingerprint": "8f0c3f0c106aaa622bbe0260a7e7c3e258121b9c49a7d8a718645882d4d7648b",
+    "media": []
   }
 }
