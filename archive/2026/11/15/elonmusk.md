@@ -2,7 +2,7 @@
 
 ## 📅 November 15, 2026
 
-> 37 post(s) archived.
+> 39 post(s) archived.
 
 ---
 
@@ -37,6 +37,16 @@
 > No other 1:1 can top this. 😆 Elon Musk is currently inspecting heat shield tiles on Starship
 
 🔗 [View original post](https://x.com/yunta_tsai/status/2122106864049717637)
+
+---
+
+### 🕐 23:09 UTC · @elonmusk
+
+> Jeff Bezos applied capital and engineering to the same industry with Blue Origin, starting in 2000, 2 years before Elon founded SpaceX. He was wealthier for most of that time, with better access to Wall Street. The industry incumbents were around much longer than both, applying capital and engineering to the space industry. Elon’s results with SpaceX are far above normal. He raised most of his capital from Silicon Valley, not Wall Street. Criticizing Elon is not the skill his haters think it is.
+
+![Jeff Bezos applied capital and engineering to the same industry with Blue Origin, starting in 2000, 2 years before Elon founded SpaceX. He was wealthier for most of that time, with better access to Wa](../../../../assets/images/2026/11/15/2122104610643222844-1.jpg)
+
+🔗 [View original post](https://x.com/WR4NYGov/status/2122104610643222844)
 
 ---
 
@@ -95,6 +105,14 @@
 > Elon Musk is currently inspecting heat shield tiles on Starship Media Media
 
 🔗 [View original post](https://x.com/MinaGawargious/status/2122062161119994234)
+
+---
+
+### 🕐 19:35 UTC · @elonmusk
+
+> Joe Rogan praises Tesla FSD, saying his car drives him home at the press of a button. “I leave the club. I press a button. It just drives me home. I don’t have to think at all. If Tesla licensed that, the whole electric car world would explode because it’s so good.” Media
+
+🔗 [View original post](https://x.com/cb_doge/status/2122050855499366681)
 
 ---
 

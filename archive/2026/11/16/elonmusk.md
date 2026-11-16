@@ -2,7 +2,45 @@
 
 ## 📅 November 16, 2026
 
-> 6 post(s) archived.
+> 10 post(s) archived.
+
+---
+
+### 🕐 02:30 UTC · @elonmusk
+
+> Robotaxi life is a hard life. Tesla team empathizes with this guy.
+
+![Robotaxi life is a hard life. Tesla team empathizes with this guy.](../../../../assets/images/2026/11/16/2122155440788099394-1.jpg)
+
+🔗 [View original post](https://x.com/elonmusk/status/2122155440788099394)
+
+---
+
+### 🕐 02:11 UTC · @elonmusk
+
+> Morgan Stanley’s Adam Jonas on @SpaceX successfully catching Starship on flight 15: “In our view, Flight 15 is a historic inflection moment for the company and spaceflight as a whole. SpaceX has recovered three Starship + many hundreds of Falcon 9 boosters in its history, and now others have accomplished the same. However, no entity has ever even attempted to recover a rocket upper stage in history (not counting Space Shuttle) given the intense thermal and mechanical stress of orbital re-entry. With an upper stage now recovered intact, SpaceX can conduct a deep inspection of Ship 42 and use the findings to improve future vehicles in a way that was never previously possible. We believe it also helps clear the path to ramping full reuse of both booster and ship, the last major technical milestone before weekly or even daily Starship flights become realistic. With a ship catch, SpaceX has materially de-risked the longer-term TAMs across all 3 of its segments.”
+
+![Morgan Stanley’s Adam Jonas on @SpaceX successfully catching Starship on flight 15: “In our view, Flight 15 is a historic inflection moment for the company and spaceflight as a whole. SpaceX has recov](../../../../assets/images/2026/11/16/2122150555078234620-1.jpg)
+
+🔗 [View original post](https://x.com/SawyerMerritt/status/2122150555078234620)
+
+---
+
+### 🕐 01:54 UTC · @elonmusk
+
+> Say no to crack
+
+![Say no to crack](../../../../assets/images/2026/11/16/2122146355074232469-1.jpg)
+
+🔗 [View original post](https://x.com/elonmusk/status/2122146355074232469)
+
+---
+
+### 🕐 01:50 UTC · @elonmusk
+
+> I have a very wide distribution of training data Former NASA astronaut Garrett Reisman, who spent seven years working with Elon Musk at SpaceX, explains what makes @elonmusk such an extraordinary engineer: “I mean, I’ve met a lot of super, super smart people, but they’re usually super, super smart on one thing.” “And he’s able…
+
+🔗 [View original post](https://x.com/elonmusk/status/2122145276681220436)
 
 ---
 
