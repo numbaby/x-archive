@@ -2,7 +2,25 @@
 
 ## 📅 November 15, 2026
 
-> 34 post(s) archived.
+> 36 post(s) archived.
+
+---
+
+### 🕐 23:55 UTC · @elonmusk
+
+> Samsung will invest $1.9 billion to expand its chip plant in Austin, Texas, to produce semiconductors for @SpaceX&apos;s Starlink satellites. The factory is expected to produce STM32V8 chips used in Starlink&apos;s laser communication systems, shifting production currently based in France to the U.S. The chips use an advanced 18nm FD-SOI process designed for high performance, low power consumption, and durability in harsh space environments. Production is targeted to begin by 2030, according to the Seoul Economic Daily.
+
+![Samsung will invest $1.9 billion to expand its chip plant in Austin, Texas, to produce semiconductors for @SpaceX&apos;s Starlink satellites. The factory is expected to produce STM32V8 chips used in S](../../../../assets/images/2026/11/15/2122116284628320705-1.jpg)
+
+🔗 [View original post](https://x.com/SawyerMerritt/status/2122116284628320705)
+
+---
+
+### 🕐 23:47 UTC · @elonmusk
+
+> Let’s take this gentleman’s argument at face value that anyone can throw money at rockets and get something like Starship, Falcon or Dragon. Perhaps he can explain to everyone how SpaceX is able to catch giant starships from orbit with chopsticks and deliver 85% of all Earth payload to orbit with Falcon, while Blue Origin, which started before SpaceX and was funded by the immensely wealthy Jeff Bezos, is not yet able to launch reliably? Also, why is it that Boeing and Lockheed received several times what SpaceX did from the government for development of their rockets and spacecraft, but the Boeing capsule is still not operational and ULA delivers less than 5% of SpaceX payload to orbit? I am genuinely curious about these questions.
+
+🔗 [View original post](https://x.com/elonmusk/status/2122114284779925897)
 
 ---
 

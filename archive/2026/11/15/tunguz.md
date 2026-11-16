@@ -2,7 +2,15 @@
 
 ## 📅 November 15, 2026
 
-> 9 post(s) archived.
+> 10 post(s) archived.
+
+---
+
+### 🕐 23:45 UTC · @tunguz
+
+> And it&apos;s not just NVIDIA. Most jobs at big tech - ESPECIALLY now with AI - are totally superfluous. A friend of mine works at another big chip company. He complains that neither he nor his team have anything to do.
+
+🔗 [View original post](https://x.com/tunguz/status/2122113873859744204)
 
 ---
 

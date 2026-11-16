@@ -2,7 +2,15 @@
 
 ## 📅 November 15, 2026
 
-> 8 post(s) archived.
+> 9 post(s) archived.
+
+---
+
+### 🕐 21:32 UTC · @swyx
+
+> Happy to report that @aiDotEngineer Code in SF was really great. I might not have been a fan of the world fair, but this single track conference was entirely up my alley. Lots of great conversations and good content. Thanks for putting that together @swyx https://x.com/mitsuhiko/status/2072742216838136153 On my way back to Europe. @aiDotEngineer was fun for meeting all the people. As a conference though I think it’s now too big for me. Probably will try to make it to the regional places instead. The London event had much better energy IMO. Could be me though.
+
+🔗 [View original post](https://x.com/mitsuhiko/status/2122080398419132645)
 
 ---
 
