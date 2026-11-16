@@ -2,7 +2,17 @@
 
 ## 📅 November 16, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 11:42 UTC · @emollick
+
+> The paper I got the elevator operator stat from. Which doesn’t mean many jobs haven’t changed dramatically as a result of technology, of course. https://cepr.org/voxeu/columns/how-computer-automation-affects-occupations-technology-jobs-and-skills
+
+![The paper I got the elevator operator stat from. Which doesn’t mean many jobs haven’t changed dramatically as a result of technology, of course. https://cepr.org/voxeu/columns/how-computer-automation-](../../../../assets/images/2026/11/16/2122294310121201763-1.png)
+
+🔗 [View original post](https://x.com/emollick/status/2122294310121201763)
 
 ---
 

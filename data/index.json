@@ -156112,6 +156112,13 @@
       }
     ]
   },
+  "2122236192598925726": {
+    "account": "demishassabis",
+    "date": "2026-11-16",
+    "file": "data/posts/2026/11/2026-11-16.jsonl",
+    "fingerprint": "056f6d7a378d9297e9216c3ac6c5d92e05f7d26149903d99255479f1a4cb0042",
+    "media": []
+  },
   "2122236664408084526": {
     "account": "swyx",
     "date": "2026-11-16",
@@ -156145,6 +156152,47 @@
     "date": "2026-11-16",
     "file": "data/posts/2026/11/2026-11-16.jsonl",
     "fingerprint": "004aa93845b1657ac481fee13542f707eb5eba019d7b4bc4e3cda28063e8dc8e",
+    "media": []
+  },
+  "2122289002992787567": {
+    "account": "tunguz",
+    "date": "2026-11-16",
+    "file": "data/posts/2026/11/2026-11-16.jsonl",
+    "fingerprint": "303483b0a957b6e1f9ce04332c2f896ac9c756283c625ec0c2610d3e0f845ce2",
+    "media": []
+  },
+  "2122290011823337481": {
+    "account": "tunguz",
+    "date": "2026-11-16",
+    "file": "data/posts/2026/11/2026-11-16.jsonl",
+    "fingerprint": "e12d8d41bc062110ca115578d4bb34837df5daa2fe037251e354f9717eba8b62",
+    "media": []
+  },
+  "2122291294060036161": {
+    "account": "tunguz",
+    "date": "2026-11-16",
+    "file": "data/posts/2026/11/2026-11-16.jsonl",
+    "fingerprint": "f4204d2fd034daa2a56822fa09c0fe598b10239fcb13b434b9692a2725bc13a6",
+    "media": []
+  },
+  "2122294310121201763": {
+    "account": "emollick",
+    "date": "2026-11-16",
+    "file": "data/posts/2026/11/2026-11-16.jsonl",
+    "fingerprint": "3d224478606b548a274ccdd329a997038d281d0bdf71c6cf42104c16f51bf720",
+    "media": [
+      {
+        "local_path": "assets/images/2026/11/16/2122294310121201763-1.png",
+        "sha256": "456dbba37b818f573182e919a09b1da1f4a504e5bc26739b07e9acafba08c46f",
+        "source_url": "https://pbs.twimg.com/card_img/2122294253564964864/8bq0reLr?format=png&name=800x419"
+      }
+    ]
+  },
+  "2122294703785943280": {
+    "account": "tunguz",
+    "date": "2026-11-16",
+    "file": "data/posts/2026/11/2026-11-16.jsonl",
+    "fingerprint": "3ecfd07416593aac9b1721532dc62b8d0a5b361987ac97b600441b7b66bec274",
     "media": []
   }
 }

@@ -2,7 +2,39 @@
 
 ## 📅 November 16, 2026
 
-> 4 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 11:44 UTC · @tunguz
+
+> As stakes get linearly higher, mistakes are exponentially more catastrophic.
+
+🔗 [View original post](https://x.com/tunguz/status/2122294703785943280)
+
+---
+
+### 🕐 11:30 UTC · @tunguz
+
+> There is lots of meritocracy in tech but only through, say, L5 or so. After that it&apos;s increasingly all about politics. SF is extremely meritocratic when you are: - ex-Ant - ex-OpenAI - kindergarten dropout - MIT dropout - Harvard dropout - PhD dropout at 9 - nepo baby - parents worked at Cisco - $100M exit at 12yo - ex-NSA
+
+🔗 [View original post](https://x.com/tunguz/status/2122291294060036161)
+
+---
+
+### 🕐 11:25 UTC · @tunguz
+
+> It’s OK. If you are just building stuff and using it for coding, it will do mostly fine. However, for basic research, especially math, it will be overconfident. I had Carbon as a coordinator work over the weekend on a hard problem that stymied me for months. It came up with a lot of new math, all of it correct. However, this morning I had Fable 5.2 assess its progress, and the assessment is that all the work was in fact *weaker* than what had already been proved before. So effectively tonnes of tokens down the drain. Again. :/ Gemini is on fire
+
+🔗 [View original post](https://x.com/tunguz/status/2122290011823337481)
+
+---
+
+### 🕐 11:21 UTC · @tunguz
+
+> Yes. Aren&apos;t all tweets just engagement bait? Like literally all of them?
+
+🔗 [View original post](https://x.com/tunguz/status/2122289002992787567)
 
 ---
 
