@@ -2,7 +2,15 @@
 
 ## 📅 November 16, 2026
 
-> 17 post(s) archived.
+> 18 post(s) archived.
+
+---
+
+### 🕐 05:41 UTC · @elonmusk
+
+> Yup In 2014, NASA awarded Boeing $4.2 BILLION to develop Starliner SpaceX received just $2.6 BILLION for Crew Dragon Now look at the results: • Boeing Starliner: Just one crewed flight and got two astronauts stuck on the ISS for over 9 months in space before SpaceX sent Dragon to re…
+
+🔗 [View original post](https://x.com/elonmusk/status/2122203324460265943)
 
 ---
 
