@@ -2,7 +2,23 @@
 
 ## 📅 November 16, 2026
 
-> 23 post(s) archived.
+> 25 post(s) archived.
+
+---
+
+### 🕐 23:17 UTC · @tunguz
+
+> It’s over fr fr. As people in the Bay have started to expect RSI to arrive sooner and sooner, some of them have basically given up on legislation or bilateral treaties, because they figure it just can&apos;t happen fast enough.
+
+🔗 [View original post](https://x.com/tunguz/status/2122469094394077543)
+
+---
+
+### 🕐 23:16 UTC · @tunguz
+
+> IMHO they should just wait for Model 5 to finish training and have it run NVIDIA.
+
+🔗 [View original post](https://x.com/tunguz/status/2122468925527281677)
 
 ---
 

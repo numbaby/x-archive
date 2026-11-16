@@ -2,7 +2,23 @@
 
 ## 📅 November 16, 2026
 
-> 34 post(s) archived.
+> 37 post(s) archived.
+
+---
+
+### 🕐 23:30 UTC · @elonmusk
+
+> View of Starship landing from the tower Views from Mechazilla of the first ever Starship catch
+
+🔗 [View original post](https://x.com/elonmusk/status/2122472344052531640)
+
+---
+
+### 🕐 23:28 UTC · @elonmusk
+
+> Starlink Starlink has completely transformed connectivity across North Star&apos;s offshore fleet North Star&apos;s head of IT, Bruce Catto: “Starlink has changed everything for us” “It is the biggest difference in communications in the last 15 years” The UK-based maritime operator is using Starli…
+
+🔗 [View original post](https://x.com/elonmusk/status/2122471820712660999)
 
 ---
 
@@ -21,6 +37,14 @@
 ![What was the significance of this weekend&apos;s SpaceX tower catch: &quot;Catching the second stage is substantially harder than catching the first stage because the Ship returns from orbit while the](../../../../assets/images/2026/11/16/2122434181904924817-1.jpg)
 
 🔗 [View original post](https://x.com/zerohedge/status/2122434181904924817)
+
+---
+
+### 🕐 20:30 UTC · @elonmusk
+
+> Views from Mechazilla of the first ever Starship catch Media Media
+
+🔗 [View original post](https://x.com/SpaceX/status/2122427170328883425)
 
 ---
 

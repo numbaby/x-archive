@@ -156492,6 +156492,19 @@
       }
     ]
   },
+  "2122403290965287162": {
+    "account": "ylecun",
+    "date": "2026-11-16",
+    "file": "data/posts/2026/11/2026-11-16.jsonl",
+    "fingerprint": "7a5c9089be46fabe30af380e74773eb3da0c03fd79fec0bbdc86cd471f03a0db",
+    "media": [
+      {
+        "local_path": "assets/images/2026/11/16/2122403290965287162-1.jpg",
+        "sha256": "a4a82e22fb8a5853168475800792411b5ba99f36be0e926a41234339cf5f0c22",
+        "source_url": "https://pbs.twimg.com/media/HXRKiuQbsAAVrt6.jpg?name=orig"
+      }
+    ]
+  },
   "2122405206184829341": {
     "account": "emollick",
     "date": "2026-11-16",
@@ -156600,6 +156613,13 @@
       }
     ]
   },
+  "2122427170328883425": {
+    "account": "elonmusk",
+    "date": "2026-11-16",
+    "file": "data/posts/2026/11/2026-11-16.jsonl",
+    "fingerprint": "f37af9ef496877327e51b53fb40d042bec0cf97d952a23a222e5995848dd1f0c",
+    "media": []
+  },
   "2122427240441131203": {
     "account": "swyx",
     "date": "2026-11-16",
@@ -156691,6 +156711,34 @@
     "date": "2026-11-16",
     "file": "data/posts/2026/11/2026-11-16.jsonl",
     "fingerprint": "cffecb50000ac00a701a40b8cf6ced350feb52eff6bc50b43e0dae48cf92abcc",
+    "media": []
+  },
+  "2122468925527281677": {
+    "account": "tunguz",
+    "date": "2026-11-16",
+    "file": "data/posts/2026/11/2026-11-16.jsonl",
+    "fingerprint": "99824e4c513370a93bb379eecc99fe1ffffea5866eee8d3f3c02536a178ca2f7",
+    "media": []
+  },
+  "2122469094394077543": {
+    "account": "tunguz",
+    "date": "2026-11-16",
+    "file": "data/posts/2026/11/2026-11-16.jsonl",
+    "fingerprint": "70b416bc4ea0e6068a23c70fa64053a897d27b835a6730702bf1cfd495229d7a",
+    "media": []
+  },
+  "2122471820712660999": {
+    "account": "elonmusk",
+    "date": "2026-11-16",
+    "file": "data/posts/2026/11/2026-11-16.jsonl",
+    "fingerprint": "3d3cb33d389dcfcdb42a2ac45c441e597ea941755e9eee7494998bc020d68a0c",
+    "media": []
+  },
+  "2122472344052531640": {
+    "account": "elonmusk",
+    "date": "2026-11-16",
+    "file": "data/posts/2026/11/2026-11-16.jsonl",
+    "fingerprint": "53a3ebd467feed0a7d05e2d9291dd155627d11b568d0118717f8a688cb10b7d4",
     "media": []
   }
 }

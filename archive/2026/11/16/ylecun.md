@@ -2,7 +2,17 @@
 
 ## 📅 November 16, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 18:55 UTC · @ylecun
+
+> Our @224ventureshq community dinners are always energizing. Last week, @ylecun and I hosted a dinner in SoHo, New York, with a conversation ranging from AI applications to NVIDIA to world models. Looking forward to bringing this community together again in 2027!
+
+![Our @224ventureshq community dinners are always energizing. Last week, @ylecun and I hosted a dinner in SoHo, New York, with a conversation ranging from AI applications to NVIDIA to world models. Look](../../../../assets/images/2026/11/16/2122403290965287162-1.jpg)
+
+🔗 [View original post](https://x.com/shaunbjohnson/status/2122403290965287162)
 
 ---
 
