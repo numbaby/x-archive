@@ -2,7 +2,15 @@
 
 ## 📅 November 16, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 16:59 UTC · @omarsar0
+
+> Recommend reading following up on the idea of weight-space programming. Bigger models (Opus 5.5) tend to do better and be more efficient. Super interesting work from Microsoft and colleagues. They take a closer look at the exciting research area of weight-space programming. They had Claude Opus 5.5 write transformer weights directly in code, with no gradient training. The smallest models that solved the algorithmi…
+
+🔗 [View original post](https://x.com/omarsar0/status/2122374124601590078)
 
 ---
 
