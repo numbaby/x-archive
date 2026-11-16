@@ -2,7 +2,25 @@
 
 ## 📅 November 16, 2026
 
-> 31 post(s) archived.
+> 34 post(s) archived.
+
+---
+
+### 🕐 21:47 UTC · @elonmusk
+
+> As I was saying … Free Starlinks for FAA were offered to Sec Duffy, but he said they were not needed. As it turns out, they were. Correction: the ancient system that is rapidly declining in capability was made L3Harris. The new system that is not yet operational is from Verizon.
+
+🔗 [View original post](https://x.com/elonmusk/status/2122446366354096479)
+
+---
+
+### 🕐 20:58 UTC · @elonmusk
+
+> What was the significance of this weekend&apos;s SpaceX tower catch: &quot;Catching the second stage is substantially harder than catching the first stage because the Ship returns from orbit while the booster returns from a short suborbital hop. The booster separates minutes after liftoff, performs a brief boostback, and comes back from only a few hundred kilometers away at relatively low speed. Ship must reach orbital velocity, deploy payload, coast for many hours, execute a precise deorbit burn, survive full reentry heating, and only then perform its landing burn. As such, Ship must carry a functional heat shield, fly a long guided atmospheric trajectory from the other side of the planet, and execute a high-energy flip into the “chopsticks” while protecting its heat-shield side. Those combined demands of orbital energy, thermal protection, long-range guidance, and final precision are why a Ship catch is so incredibly difficult. No prior system, including the Space Shuttle, recovered a rocket-style orbital stage in this manner. The catch validates the path to full reusability which is the foundation of Starship’s cost and cadence targets. This is particularly important in driving the economics of orbital data centers.&quot; - DB
+
+![What was the significance of this weekend&apos;s SpaceX tower catch: &quot;Catching the second stage is substantially harder than catching the first stage because the Ship returns from orbit while the](../../../../assets/images/2026/11/16/2122434181904924817-1.jpg)
+
+🔗 [View original post](https://x.com/zerohedge/status/2122434181904924817)
 
 ---
 
@@ -53,6 +71,16 @@
 > Starship 42 coming in for catch Media Media Media Media
 
 🔗 [View original post](https://x.com/SpaceX/status/2122355344576037338)
+
+---
+
+### 🕐 15:20 UTC · @elonmusk
+
+> Tesla is going big in Germany again, and this time it&apos;s all about the Cybercab Tesla will invest €3 billion to expand Giga Berlin-Brandenburg, starting with a new production building designed for up to 1 million Cybercabs The key details: • Construction planned to start in H1 2027 • Cybercab production targeted for 2029 • Permit application to be filed before the end of 2026 • Investment also covers ancillary buildings and a new wastewater treatment plant • Several hundred new hires for construction and production planning Grünheide already builds around 7,000 Model Ys a week, with a 7,500 target Adding Cybercab next to Model Y turns Tesla&apos;s only European factory into a key piece of its robotaxi future Tesla calls it the foundation for &quot;the world&apos;s most technologically advanced Tesla factory&quot; Once Giga Berlin built cars for drivers Soon it builds cars that drive themselves
+
+![Tesla is going big in Germany again, and this time it&apos;s all about the Cybercab Tesla will invest €3 billion to expand Giga Berlin-Brandenburg, starting with a new production building designed for](../../../../assets/images/2026/11/16/2122349057712750988-1.jpg)
+
+🔗 [View original post](https://x.com/XFreeze/status/2122349057712750988)
 
 ---
 
