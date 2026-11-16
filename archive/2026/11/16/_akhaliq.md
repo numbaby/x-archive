@@ -2,7 +2,25 @@
 
 ## 📅 November 16, 2026
 
-> 6 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 20:07 UTC · @_akhaliq
+
+> MIRIX-2.0 A practical multi-agent memory system for LLM agents that combines factual and procedural memory. Reaches 91.4% on LoCoMo and 72.6% on LongMemEval-S, leading the strongest baseline by 14.3 points.
+
+![MIRIX-2.0 A practical multi-agent memory system for LLM agents that combines factual and procedural memory. Reaches 91.4% on LoCoMo and 72.6% on LongMemEval-S, leading the strongest baseline by 14.3 p](../../../../assets/images/2026/11/16/2122421433431105988-1.jpg)
+
+🔗 [View original post](https://x.com/HuggingPapers/status/2122421433431105988)
+
+---
+
+### 🕐 20:02 UTC · @_akhaliq
+
+> Nasiko - Open Runtime platform for managing AI agents. See every agent. Cut token spend by up to 50%. Route to the right model with the agent gateway. Govern tool access. Set permissions and budgets per agent, per team. One command. Same workflow. Open Runtime for agents starts now. First, every token. Next, every action! Start Free: https://buff.ly/k79CiWW #ai #tokenops #openruntime #agents Media
+
+🔗 [View original post](https://x.com/nasikolabs/status/2122420182815592736)
 
 ---
 

@@ -2,7 +2,15 @@
 
 ## 📅 November 16, 2026
 
-> 27 post(s) archived.
+> 29 post(s) archived.
+
+---
+
+### 🕐 19:46 UTC · @elonmusk
+
+> Try Grok @Bot What&apos;s new in Grok Bot 1.0 🚀 00:45 Team Bot improvements 01:47 Bots join your meetings 03:26 Bots take initiative 04:10 Bots learn and improve 05:19 Bots are smarter and faster Lots of easter eggs in this one for y&apos;all!
+
+🔗 [View original post](https://x.com/elonmusk/status/2122416056006324311)
 
 ---
 
@@ -27,6 +35,14 @@
 > shoutout @elonmusk were livestreaming a MARATHON IN ANTARTICA Media
 
 🔗 [View original post](https://x.com/nelkboys/status/2122373508064034895)
+
+---
+
+### 🕐 15:45 UTC · @elonmusk
+
+> Starship 42 coming in for catch Media Media Media Media
+
+🔗 [View original post](https://x.com/SpaceX/status/2122355344576037338)
 
 ---
 

@@ -2,7 +2,15 @@
 
 ## 📅 November 16, 2026
 
-> 5 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 19:03 UTC · @emollick
+
+> OpenAI’s Dot is capable, but seems to be falling further behind in its interface compared to Muse and Duet. The single-threaded conversation, lack of inline generative flourishes (like maps), &amp; the inability to see what tasks it is assigned makes it harder to use than the others.
+
+🔗 [View original post](https://x.com/emollick/status/2122405206184829341)
 
 ---
 

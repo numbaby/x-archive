@@ -2,7 +2,39 @@
 
 ## 📅 November 16, 2026
 
-> 17 post(s) archived.
+> 21 post(s) archived.
+
+---
+
+### 🕐 20:34 UTC · @tunguz
+
+> There is no crying in AI. There is no crying in AI.
+
+🔗 [View original post](https://x.com/tunguz/status/2122427999098474872)
+
+---
+
+### 🕐 20:22 UTC · @tunguz
+
+> Absolutely. Once you have those three under control, then *maybe* look into supplements. Otherwise you&apos;ll just end up with a lot of very expensive urine. I regret to inform you that regular exercise, consistent sleep and a clean diet will do more for your brain than any overpriced supplement.
+
+🔗 [View original post](https://x.com/tunguz/status/2122425066264666264)
+
+---
+
+### 🕐 19:31 UTC · @tunguz
+
+> and so it begins lol and so it begins
+
+🔗 [View original post](https://x.com/tunguz/status/2122412296349835534)
+
+---
+
+### 🕐 19:26 UTC · @tunguz
+
+> Yeah, you may want to wait quite a bit longer for the next generation of OAI models … launching our first round of embedded assessments:
+
+🔗 [View original post](https://x.com/tunguz/status/2122411111529975954)
 
 ---
 

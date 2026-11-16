@@ -2,7 +2,27 @@
 
 ## 📅 November 16, 2026
 
-> 2 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 20:31 UTC · @swyx
+
+> gmail has no gcal search despite cal is sent via gmail
+
+![gmail has no gcal search despite cal is sent via gmail](../../../../assets/images/2026/11/16/2122427240441131203-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2122427240441131203)
+
+---
+
+### 🕐 19:58 UTC · @swyx
+
+> Clare is an AWESOME speaker, she was an instant accept at AIEWF and her talk instantly crushed it, especially hard to stand out on this track because you&apos;re in competition with some of the biggest household names in the world. would tune in for this AWS reInvent keynote 👀 I am so excited to lead the Developer keynote at AWS reInvent this year! Working on the talk track atm, and we&apos;ve got such a great lineup of speakers, deep dives, and practical advice Sign up for the livestream here: https://aws.amazon.com/events/reinvent/livestream/ Monday, Nov…
+
+![Clare is an AWESOME speaker, she was an instant accept at AIEWF and her talk instantly crushed it, especially hard to stand out on this track because you&apos;re in competition with some of the bigges](../../../../assets/images/2026/11/16/2122418961107284083-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2122418961107284083)
 
 ---
 

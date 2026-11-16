@@ -2,7 +2,17 @@
 
 ## 📅 November 16, 2026
 
-> 5 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 20:17 UTC · @omarsar0
+
+> If you build and manage agents, the goal is to spend smarter on tokens. To solve this, Nasiko picks the right model for each agent, compresses context, and caches. They report 50% fewer tokens on standard SWE benchmarks. It sits under your existing agents and installs with one command. http://bit.ly/nasikolaunch Nasiko - Open Runtime platform for managing AI agents. See every agent. Cut token spend by up to 50%. Route to the right model with the agent gateway. Govern tool access. Set permissions and budgets per agent, per team. One command. Same workflow. Open Runtime for agents starts …
+
+![If you build and manage agents, the goal is to spend smarter on tokens. To solve this, Nasiko picks the right model for each agent, compresses context, and caches. They report 50% fewer tokens on stan](../../../../assets/images/2026/11/16/2122423890735493334-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2122423890735493334)
 
 ---
 
