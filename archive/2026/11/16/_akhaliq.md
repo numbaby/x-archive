@@ -2,7 +2,15 @@
 
 ## 📅 November 16, 2026
 
-> 8 post(s) archived.
+> 9 post(s) archived.
+
+---
+
+### 🕐 21:37 UTC · @_akhaliq
+
+> Restoring Diversity in Distilled Image and Video Generators by Probing Activations paper: https://huggingface.co/papers/2611.18550 Media
+
+🔗 [View original post](https://x.com/_akhaliq/status/2122444024363852252)
 
 ---
 

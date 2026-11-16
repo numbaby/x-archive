@@ -2,7 +2,17 @@
 
 ## 📅 November 16, 2026
 
-> 29 post(s) archived.
+> 31 post(s) archived.
+
+---
+
+### 🕐 20:25 UTC · @elonmusk
+
+> This year SpaceX has launched more mass to orbit Than the entire continent of Europe has in the entirety of human history Brutal mogging
+
+![This year SpaceX has launched more mass to orbit Than the entire continent of Europe has in the entirety of human history Brutal mogging](../../../../assets/images/2026/11/16/2122425945990840499-1.jpg)
+
+🔗 [View original post](https://x.com/zebulgar/status/2122425945990840499)
 
 ---
 
@@ -43,6 +53,14 @@
 > Starship 42 coming in for catch Media Media Media Media
 
 🔗 [View original post](https://x.com/SpaceX/status/2122355344576037338)
+
+---
+
+### 🕐 14:43 UTC · @elonmusk
+
+> We&apos;ve all read about Elon&apos;s working style being different. Hands-on, to say the least. Here&apos;s my anecdotal Elon moment: in 2014, we were raising capital and got introduced to John Doerr through our friend Jerry Murdock, and John wanted to meet me and Nami in Sicily, where they had a private event. During the evening, we jumped on a small bus together with Elon to join a dinner. At that time, Tesla had just opened their first showroom in Sweden, Täby. I told Elon that I booked a test ride with their new Model S but was wondering why they had a two-month waiting time to try the car. He was shocked/frustrated about the waiting time. He picked up his phone, made a call and sent some messages. The next week, Tesla Sweden called me and said, &quot;Hi, you signed up for the test drive. We just got many more demo cars delivered and you can come and try it today already.&quot; That&apos;s how you get shit done! Can&apos;t even imagine how he operates today, but I&apos;m sure it&apos;s still in the details and solving problems. That was inspiring, to say the least.
+
+🔗 [View original post](https://x.com/AlanMamedi/status/2122339794113953836)
 
 ---
 

@@ -156309,6 +156309,13 @@
       }
     ]
   },
+  "2122339794113953836": {
+    "account": "elonmusk",
+    "date": "2026-11-16",
+    "file": "data/posts/2026/11/2026-11-16.jsonl",
+    "fingerprint": "b4cdf59052bd300c8b0ab2bbbbf787516e5c475fc85508035d822e6dd525e0b6",
+    "media": []
+  },
   "2122344413951111663": {
     "account": "_akhaliq",
     "date": "2026-11-16",
@@ -156567,6 +156574,19 @@
     "fingerprint": "74fcf10612a5d6d8695da141cc6065172e5c793031b40dcd5dee6e3978b97201",
     "media": []
   },
+  "2122425945990840499": {
+    "account": "elonmusk",
+    "date": "2026-11-16",
+    "file": "data/posts/2026/11/2026-11-16.jsonl",
+    "fingerprint": "e5e60c0a14ccd9b19647bcc000cc4d425a2d595369c8e055d5212f73654c30f3",
+    "media": [
+      {
+        "local_path": "assets/images/2026/11/16/2122425945990840499-1.jpg",
+        "sha256": "9b51c6273f726d7f36dbc59e494759b921978fa41850735706a2499aa080cb88",
+        "source_url": "https://pbs.twimg.com/media/HXRfIP8aMAAospm.jpg?name=orig"
+      }
+    ]
+  },
   "2122427240441131203": {
     "account": "swyx",
     "date": "2026-11-16",
@@ -156612,5 +156632,32 @@
         "source_url": "https://pbs.twimg.com/media/HXRiY4CaMAAuPRy.jpg?name=orig"
       }
     ]
+  },
+  "2122437479756407215": {
+    "account": "tunguz",
+    "date": "2026-11-16",
+    "file": "data/posts/2026/11/2026-11-16.jsonl",
+    "fingerprint": "4079a27e942adbb27ae1c6aba4d32c8363a2d32c37bd9f08a92b01d09322f2e7",
+    "media": []
+  },
+  "2122439504904737024": {
+    "account": "tunguz",
+    "date": "2026-11-16",
+    "file": "data/posts/2026/11/2026-11-16.jsonl",
+    "fingerprint": "a3b802be29061c94e6beadd8e249a2d2719a859384616eabc66b8b906617ab2c",
+    "media": [
+      {
+        "local_path": "assets/images/2026/11/16/2122439504904737024-1.jpg",
+        "sha256": "ce010d12acc358efa4d3597473c93bfb4afd3e8b5f5b15825381626c89a21d93",
+        "source_url": "https://pbs.twimg.com/tweet_video_thumb/HXRrellWcAIODGC.jpg"
+      }
+    ]
+  },
+  "2122444024363852252": {
+    "account": "_akhaliq",
+    "date": "2026-11-16",
+    "file": "data/posts/2026/11/2026-11-16.jsonl",
+    "fingerprint": "fa0651fc636110384b004f49388be5218685c98d6a84d744c90c61211ca979df",
+    "media": []
   }
 }

@@ -2,7 +2,25 @@
 
 ## 📅 November 16, 2026
 
-> 21 post(s) archived.
+> 23 post(s) archived.
+
+---
+
+### 🕐 21:19 UTC · @tunguz
+
+> I honestly initially thought this was some kind of skit about a banana republic dictator. We are disbanding the SRG.
+
+![I honestly initially thought this was some kind of skit about a banana republic dictator. We are disbanding the SRG.](../../../../assets/images/2026/11/16/2122439504904737024-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2122439504904737024)
+
+---
+
+### 🕐 21:11 UTC · @tunguz
+
+> The great AI degrifting has begun. DocuSign wants $8,100/yr from a 15-person team just to sign PDFs. So I built SignuDoc: open source, one-click deploy to your own @vercel account, $0 per seat. White-label branding, full audit trails, tamper-evident seals and your documents never leave your cloud.
+
+🔗 [View original post](https://x.com/tunguz/status/2122437479756407215)
 
 ---
 
