@@ -2,7 +2,31 @@
 
 ## 📅 November 16, 2026
 
-> 18 post(s) archived.
+> 21 post(s) archived.
+
+---
+
+### 🕐 07:01 UTC · @elonmusk
+
+> Important Grok&apos;s text watermarking is now off by default in the SpaceXSI API. Elon Musk confirmed it and went further. He says text watermarking with Grok is only on where the law requires it or a user asks for it. So if you build on Grok, your output won&apos;t carry a hidden watermark unless…
+
+🔗 [View original post](https://x.com/elonmusk/status/2122223599079559603)
+
+---
+
+### 🕐 06:53 UTC · @elonmusk
+
+> 💯 Ladies and gentlemen, introducing the greatest team on earth…. @SpaceX!!! Can’t get over the high of yesterday. Vibes are 10/10 right now!!!!!
+
+🔗 [View original post](https://x.com/elonmusk/status/2122221516867895726)
+
+---
+
+### 🕐 06:48 UTC · @elonmusk
+
+> The amount of energy we harness for civilization from the Sun will obviously ultimately round up to 100% of all energy. That math is obvious and trivial. Years ago, Elon Musk predicted: “Solar electricity will become by far the biggest source of power for civilization” Today, we&apos;re watching that vision become reality In 2015, solar generated just 256 TWh of electricity globally A decade later, annual solar generation has surpasse…
+
+🔗 [View original post](https://x.com/elonmusk/status/2122220308799316072)
 
 ---
 
