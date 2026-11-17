@@ -2,7 +2,23 @@
 
 ## 📅 November 17, 2026
 
-> 7 post(s) archived.
+> 9 post(s) archived.
+
+---
+
+### 🕐 22:08 UTC · @_akhaliq
+
+> Energy-Based Reasoners Your Recurrent Reasoner Should Be an Energy-Based Model paper: https://huggingface.co/papers/2611.08977 Media
+
+🔗 [View original post](https://x.com/_akhaliq/status/2122814097649742258)
+
+---
+
+### 🕐 21:32 UTC · @_akhaliq
+
+> Ropedia Xperience 2 A Gold Standard for Scaling Physical AI Environments and Behaviors paper: https://huggingface.co/papers/2611.17060 Media
+
+🔗 [View original post](https://x.com/_akhaliq/status/2122805100171460887)
 
 ---
 

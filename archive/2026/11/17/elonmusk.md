@@ -2,7 +2,23 @@
 
 ## 📅 November 17, 2026
 
-> 36 post(s) archived.
+> 38 post(s) archived.
+
+---
+
+### 🕐 21:55 UTC · @elonmusk
+
+> 🤦‍♂️ 🚨 JUST IN: Sec. Sean Duffy RESPONDS to Elon Musk saying he offered the Trump admin FREE Starlink for the FAA, but was turned down &quot;We thought that the best method is to have a network [that&apos;s] based on the ground.&quot; &quot;What he&apos;s doing with Starlink and the speed is remarkable — bu…
+
+🔗 [View original post](https://x.com/elonmusk/status/2122810772967575759)
+
+---
+
+### 🕐 19:54 UTC · @elonmusk
+
+> 🚨SpaceX CFO Bret Johnsen: “I hope everyone&apos;s trying Grok Bot, it is amazing. It’s probably the best agentic AI solution out there. If you look at Grok Bot and the updates that are coming on the Grok model as well, and the coding capability of Cursor, we have a very diversified software portfolio that&apos;s just going to get better and better.” Media
+
+🔗 [View original post](https://x.com/cb_doge/status/2122780502277140508)
 
 ---
 

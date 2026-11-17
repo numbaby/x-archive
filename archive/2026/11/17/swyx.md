@@ -2,7 +2,15 @@
 
 ## 📅 November 17, 2026
 
-> 7 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 22:24 UTC · @swyx
+
+> technical details: &gt; inter-session context is surfaced by default. Teams now create dedicated bots for different projects; while these different devins can talk to each other when necessary, they each have their own individual memory bank and goals. Each bot now has its own, long lived identity. The transition from &quot;Devin is a swarm of ephemeral agents&quot; to &quot;Devin is a collection of bots, each with their own persistent identity and memory&quot; is changing how people use and prompt Devin. https://x.com/stevenkplus1/status/2122761055588012112 Bots are super cool and if you haven&apos;t used them yet, you absolutely must try them. Create a bot to manage a goal or a project that you&apos;ll work on across multiple sessions and days. Some technical tidbits about the architecture and design: Devin used to have a major UX problem: …
+
+🔗 [View original post](https://x.com/swyx/status/2122818291144229075)
 
 ---
 

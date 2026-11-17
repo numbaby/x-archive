@@ -2,7 +2,39 @@
 
 ## 📅 November 17, 2026
 
-> 15 post(s) archived.
+> 19 post(s) archived.
+
+---
+
+### 🕐 22:31 UTC · @tunguz
+
+> So cute to think there will be the US in 2060. My official prediction is 4.6% annualized per capita real GDP growth in the U.S. between now and 2060.
+
+🔗 [View original post](https://x.com/tunguz/status/2122820053703737734)
+
+---
+
+### 🕐 22:18 UTC · @tunguz
+
+> $1T ARR by EoY 2027.
+
+🔗 [View original post](https://x.com/tunguz/status/2122816794620825613)
+
+---
+
+### 🕐 22:14 UTC · @tunguz
+
+> “Peer review” has ALWAYS been a really really really bad form of “quality control”. Anyone with an ounce of common sense and intellectual integrity knew that for a really long time. We finally have some objective quantitative evidence for that. In my ongoing quest to find the limits of Opus 5.5, I directed it to audit my old scientific field, theoretical astrophysics. We indexed about 150,000 papers, audited 50,000 for issues, and did progressively more thorough checks on thousands more. We found nearly 1000 major erro…
+
+🔗 [View original post](https://x.com/tunguz/status/2122815679632163314)
+
+---
+
+### 🕐 22:10 UTC · @tunguz
+
+> We are so back. Back to back to back. Nvidia is an absolute monster of a company. $115.8B Q3 revenue, up 103% YoY. 75% gross margins. $65B in quarterly net income. Guiding to $130B in Q4 revenue, assuming ZERO Data Center compute revenue from China. The scale of this growth is so wild to me.
+
+🔗 [View original post](https://x.com/tunguz/status/2122814671623438612)
 
 ---
 

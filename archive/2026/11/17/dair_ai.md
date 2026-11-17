@@ -2,7 +2,25 @@
 
 ## 📅 November 17, 2026
 
-> 2 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 22:19 UTC · @dair_ai
+
+> Highly recommended read. Self-improving memory is starting to look like an important component for continual-learning agents. So pay close attention to this research direction if you are studying recursive self-improvement. Just last week, I featured a few papers on the topic, and this week both Meta and Google published on it. (find more references towards the end) Meta lets a model design its own memory habits. Then they train those habits into the model weights. The goal is to allow the system to learn the memory design (what to memorize, how to memorize, and what to recall). This work is actually in the same vein as RIME, which I wrote some notes on last week: https://x.com/omarsar0/status/2121335666457944226 Meta first searches for better memory instructions (prompts the model to rewrite itself), then fine-tunes the model (SFT with LoRA) on runs that used the best ones. RIME, on the other hand, skips the search and uses RL to train one model to solve tasks and write memories, rewarding notes that help on later tasks. It also trains the model to explore so it collects useful information. Different ways to address the problem. More useful links below: Google Self-Improving Memory for Continual Learning - https://x.com/omarsar0/status/2122701047118635485 How to Train Memory Writing for Continual Learning - https://x.com/omarsar0/status/2121335666457944226 Can LLM Agents Organize Their Own Memory - https://x.com/omarsar0/status/2120888604402815485 Continual-ARC - https://x.com/omarsar0/status/2120638750740844672 Adaptive Memory Selection for LLM Agents - https://x.com/omarsar0/status/2118715786152001580 MemCredit - https://x.com/omarsar0/status/2121610612040220832 Introducing: Self-Improving Memory 🧠✨📈 We let the model discover its own memory skills, then train them into its weights: - Meta-optimizes memory from the model&apos;s own runs with large gains. - Distilling these gains works too. Blog post: 📝 https://facebookresearch.github.io/RA…
+
+🔗 [View original post](https://x.com/omarsar0/status/2122817030277509231)
+
+---
+
+### 🕐 21:39 UTC · @dair_ai
+
+> Banger paper from Amazon on self-improving agents. (bookmark it) CompoundingKernel writes GPU kernels from scratch with over a thousand agents: - 235 problems, every one with a verified correct kernel - First place on the public L1, L2 and Quantization boards of SOL-ExecBench on NVIDIA B200 - 4.40x faster than the reference baseline on the 209 public problems The agents start from each problem&apos;s PyTorch definition, with no reference kernels and no official scores. An archive outside the model keeps every correct kernel and its lineage. An LLM controller reads the archive, picks a parent, and gives each child agent one direction. Checks outside the model decide correctness. The controller beat a UCB-style tree search on 35 of 38 problems at equal wall time. It chose parents about as well, but made 2.4x as many correct attempts. One restart fix raised the fleet&apos;s evaluation rate 3.6x. If you scale an agent search, measure how many reliable evaluations per hour it runs before adding agents. https://arxiv.org/abs/2611.19230 Chat with Paper: https://academy.dair.ai/papers/compoundingkernel-self-improving-from-zero-to-first-2611.19230
+
+![Banger paper from Amazon on self-improving agents. (bookmark it) CompoundingKernel writes GPU kernels from scratch with over a thousand agents: - 235 problems, every one with a verified correct kernel](../../../../assets/images/2026/11/17/2122806742048448924-1.jpg)
+
+🔗 [View original post](https://x.com/dair_ai/status/2122806742048448924)
 
 ---
 

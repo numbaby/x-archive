@@ -2,7 +2,15 @@
 
 ## 📅 November 17, 2026
 
-> 18 post(s) archived.
+> 19 post(s) archived.
+
+---
+
+### 🕐 21:46 UTC · @emollick
+
+> Folks who are very close to AI news on X tend to extrapolate too much from each new model. Anthropic went through a rough patch a few months ago with Opus releases before 5.5, and goodness knows that Google had a long dry stretch. 6.2 is not terrific but that doesn’t tell us much Model personality matters in a way that benchmarks can&apos;t capture. Opus models went through a rough patch from around 4.7 to 5 where they just didn&apos;t feel &quot;Claude-y&quot; anymore, more like an watered-down Fable (hmmm, teacher models?). Opus 5.5 feels like working with ol&apos; Claude agai…
+
+🔗 [View original post](https://x.com/emollick/status/2122808715141173558)
 
 ---
 
