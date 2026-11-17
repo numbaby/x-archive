@@ -2,7 +2,7 @@
 
 ## 📅 November 17, 2026
 
-> 18 post(s) archived.
+> 19 post(s) archived.
 
 ---
 
@@ -11,6 +11,16 @@
 > Cyber-Inception This video was made entirely using @Cyborg21&apos;s neuralink implant
 
 🔗 [View original post](https://x.com/elonmusk/status/2122600952096280785)
+
+---
+
+### 🕐 07:47 UTC · @elonmusk
+
+> south africa is one of the few countries in the world that still explicitly discriminates based on race through its laws. since apartheid ended, it has passed 122 race-based laws explicitly discriminating against White South Africans. @semafor @jonkarl South Africa is now super racist against Whites and Asians
+
+![south africa is one of the few countries in the world that still explicitly discriminates based on race through its laws. since apartheid ended, it has passed 122 race-based laws explicitly discrimina](../../../../assets/images/2026/11/17/2122597466034028975-1.png)
+
+🔗 [View original post](https://x.com/IterIntellectus/status/2122597466034028975)
 
 ---
 

@@ -2,7 +2,33 @@
 
 ## 📅 November 17, 2026
 
-> 4 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 12:41 UTC · @emollick
+
+> Ha the bot responses here missing the point.
+
+🔗 [View original post](https://x.com/emollick/status/2122671527258955888)
+
+---
+
+### 🕐 12:33 UTC · @emollick
+
+> What they mean when they say the expected value is continued 2% growth. I think about this chart at least a few times a week
+
+🔗 [View original post](https://x.com/emollick/status/2122669466777481472)
+
+---
+
+### 🕐 12:15 UTC · @emollick
+
+> This by Anthropic seems both right &amp; a condemnation of many “agentic solutions” &amp; harnesses being built at companies. Rather than a sprawl of specialized subagents built by different teams, you often get better &amp; cheaper results using one agent to do it all https://claude.com/resources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop
+
+![This by Anthropic seems both right &amp; a condemnation of many “agentic solutions” &amp; harnesses being built at companies. Rather than a sprawl of specialized subagents built by different teams, yo](../../../../assets/images/2026/11/17/2122664990624641421-1.jpg)
+
+🔗 [View original post](https://x.com/emollick/status/2122664990624641421)
 
 ---
 
