@@ -2,7 +2,25 @@
 
 ## 📅 November 17, 2026
 
-> 4 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 20:26 UTC · @omarsar0
+
+> Bullish on sovereign AI. More countries are building their own AI. Australia&apos;s is Agentaus 1 from Trellis Data. It&apos;s a 220B model that scores 84.4% on MMLU-Pro and runs on half the GPUs of similar-sized models. It runs on Australian servers and never trains on your data. We built Australia’s own AI model, and today it’s open to the world. Agentaus 1 (@AgentausTD): 220B parameters. 84.4% on MMLU-Pro. Ranked 43rd in the world. It runs on Australian servers. Nothing ever leaves Australia, and nothing you type is used to train AI. Delete a chat and …
+
+🔗 [View original post](https://x.com/omarsar0/status/2122788578623107225)
+
+---
+
+### 🕐 20:26 UTC · @omarsar0
+
+> Free to try at https://agentaus.com.au/client/login/register
+
+![Free to try at https://agentaus.com.au/client/login/register](../../../../assets/images/2026/11/17/2122788580309233884-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2122788580309233884)
 
 ---
 

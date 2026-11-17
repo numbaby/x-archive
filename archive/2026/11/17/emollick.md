@@ -2,7 +2,25 @@
 
 ## 📅 November 17, 2026
 
-> 16 post(s) archived.
+> 18 post(s) archived.
+
+---
+
+### 🕐 20:08 UTC · @emollick
+
+> Ha. When I had Astra 6.2 make a puzzle spy game using any setting it wanted, it set the game in &quot;Bellwether Station.&quot; I thought it was an odd choice but didn&apos;t realize how deep a pattern this was. What a weird attractor for the model. I was saving this for my video but I&apos;ll spoil it now. Ben and I both made new levels in games using 6.2 Astra during the early testing. He did Majora&apos;s Mask, I did Outer Wilds. We both prompted ourselves, but it was along the lines of &quot;make a creative new level for [game]&quot; We bo…
+
+![Ha. When I had Astra 6.2 make a puzzle spy game using any setting it wanted, it set the game in &quot;Bellwether Station.&quot; I thought it was an odd choice but didn&apos;t realize how deep a patter](../../../../assets/images/2026/11/17/2122783985134682207-1.jpg)
+
+🔗 [View original post](https://x.com/emollick/status/2122783985134682207)
+
+---
+
+### 🕐 20:00 UTC · @emollick
+
+> An illustration of both the power and issues with Astra 6.2 in a way that might be accessible: I asked it to create a game in Blender and Unity where you are the pilot of a Coast Guard cutter who travelled back in time to the War of Independence to stop the British invasion of New York. It made incredible 3D models and a working game with no errors - its even fun to play! But Astra got obsessed with random ideas that didn&apos;t make a lot of sense and built them out without asking along with following my instructions: you could put down false buoys to lure the ship in the wrong direction (like the British would understand a modern buoy?) or you could persuade the British ships to go the wrong direction by talking to them, or that you would spend your time rescuing sailors from other parts of the harbor. It didn&apos;t even initially have a shooting mechanism until I pointed it out. This is all kind of minor stuff individually, but it was frustrating to have the AI constantly do its own things without telling me, given its instincts were often off, and then have to redirect it constantly. Other models, including GPT-6 Asta, didn&apos;t require the same struggle to control and operate. And these same issues show up in academic research and other more serious use cases. Media
+
+🔗 [View original post](https://x.com/emollick/status/2122781928726437902)
 
 ---
 

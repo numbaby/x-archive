@@ -2,7 +2,15 @@
 
 ## 📅 November 17, 2026
 
-> 14 post(s) archived.
+> 15 post(s) archived.
+
+---
+
+### 🕐 20:47 UTC · @tunguz
+
+> It&apos;s over. Anthropic won. Claude will rule the world.
+
+🔗 [View original post](https://x.com/tunguz/status/2122793895922647250)
 
 ---
 
