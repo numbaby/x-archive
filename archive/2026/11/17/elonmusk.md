@@ -2,7 +2,49 @@
 
 ## 📅 November 17, 2026
 
-> 22 post(s) archived.
+> 28 post(s) archived.
+
+---
+
+### 🕐 16:46 UTC · @elonmusk
+
+> Advanced solid state transformers at scale from Tesla Introducing Powercore Solid state medium voltage transformer, inverter and breaker – reliable, safe and secure 7.4 MW/9 MVA continuously at 34.5 kVac w/ grid-forming support for 10MVA of peak power Made in America. Operating 2027
+
+🔗 [View original post](https://x.com/elonmusk/status/2122733232894468308)
+
+---
+
+### 🕐 16:42 UTC · @elonmusk
+
+> Yes! This is sorely needed. Introducing Powercore Solid state medium voltage transformer, inverter and breaker – reliable, safe and secure 7.4 MW/9 MVA continuously at 34.5 kVac w/ grid-forming support for 10MVA of peak power Made in America. Operating 2027
+
+🔗 [View original post](https://x.com/jamesdouma/status/2122732163942752316)
+
+---
+
+### 🕐 16:18 UTC · @elonmusk
+
+> Over the past week, I’ve been overwhelmed by the love and support of friends, industry colleagues, and people I&apos;ve never met. Thank you to everyone who has shown kindness to my family and me. It means the world to me. I came to the United States 53 years ago, and becoming an American citizen is one of the greatest gifts and proudest moments of my life. NVIDIA has been my life’s work. Building it into the company it is today alongside my colleagues has been a privilege and an honor. Nowhere but in America could a company like NVIDIA be possible. I love our country, and I love NVIDIA. I did not live up to the standards expected of everyone at NVIDIA, and I have made serious mistakes in my personal life. I created problems for the Board that I deeply regret. I own my mistakes completely, and I am committed to cooperating with the Board’s independent investigation. Since my departure, I’ve seen an outpouring of calls from NVIDIA’s employees, investors, business partners, and customers for me to return as CEO. Many continue to reach out to me directly as the company navigates complex technology, market, competitive, and geopolitical dynamics. NVIDIA is a once-in-a-generation company. If the Board of Directors decides that my return is in the best interest of our shareholders, our employees, the company, and America, I would be honored to answer these calls and return as CEO. Thank you again to everyone who has shared their good wishes. I am profoundly humbled by your support. To my family: I love you, and I will spend the rest of my life being worthy of yours. Jensen
+
+🔗 [View original post](https://x.com/JensenHuang/status/2122726005219737649)
+
+---
+
+### 🕐 16:07 UTC · @elonmusk
+
+> SpaceX just provided another $30 MILLION to help secure Brownsville&apos;s water future That brings the total to $70 MILLION already deposited toward its massive $220 MILLION commitment to water and wastewater infrastructure in South Texas Here&apos;s what the investment will support: • Expanding drinking water infrastructure across Brownsville and Cameron County • Recovering and treating wastewater for reuse as drinking water • Expanding groundwater treatment facilities and adding new wells • Adding approximately 18 MILLION gallons of water capacity per day • Reducing the region&apos;s dependence on the Rio Grande And this isn&apos;t just about supporting SpaceX&apos;s growing operations at Starbase These projects are designed to provide a more reliable, sustainable water supply for local communities for generations to come SpaceX isn&apos;t just building the future of spaceflight in South Texas It&apos;s also helping build the infrastructure that communities on Earth depend on
+
+![SpaceX just provided another $30 MILLION to help secure Brownsville&apos;s water future That brings the total to $70 MILLION already deposited toward its massive $220 MILLION commitment to water and w](../../../../assets/images/2026/11/17/2122723345225617654-1.jpg)
+
+🔗 [View original post](https://x.com/XFreeze/status/2122723345225617654)
+
+---
+
+### 🕐 14:13 UTC · @elonmusk
+
+> Gave the same task to Grok bot and OpenAI&apos;s Dot yesterday. Grok finished it in under 2 hours. Dot still has no clue what it&apos;s doing, it&apos;s completely frozen. If all that compute had gone into the subscription instead of Dot, the subscription would be worth a lot more.
+
+🔗 [View original post](https://x.com/Da7_Tech/status/2122694607335235839)
 
 ---
 
@@ -171,6 +213,16 @@
 > 💯😂 @DJSnM Jus sayin…
 
 🔗 [View original post](https://x.com/elonmusk/status/2122496146538946784)
+
+---
+
+### 🕐 01:00 UTC · @elonmusk
+
+> As you can see from the chart, grifting podcasters, malicious YouTube algorithm, and illegal memes have caused young men to glam onto unacceptable reactionary ideologies. They’ve gone completely insane, while women have stayed the same. I have a new article out today in the New York Times on a topic that is really close to my heart. Both in my work and also socially, I speak often to young conservative women. I started hearing about the &quot;Repeal the 19th&quot; discussion on college campuses a few years ago. I also he…
+
+![As you can see from the chart, grifting podcasters, malicious YouTube algorithm, and illegal memes have caused young men to glam onto unacceptable reactionary ideologies. They’ve gone completely insan](../../../../assets/images/2026/11/17/2122495096209678677-1.jpg)
+
+🔗 [View original post](https://x.com/spqr_sulla/status/2122495096209678677)
 
 ---
 

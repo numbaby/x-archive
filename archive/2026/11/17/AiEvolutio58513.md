@@ -2,7 +2,15 @@
 
 ## 📅 November 17, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 16:46 UTC · @AiEvolutio58513
+
+> Median Meta AOV for health and beauty brands doing $1M–$10M in GMV: $70.63. Compare that with your store’s Meta AOV for Oct. 17 to Nov. 16. Then look at what those shoppers buy together. If cleanser and moisturizer keep showing up together, I’d test the pair against the cleanser alone in a welcome email. Keep the offer the same and compare revenue per recipient. #triplewhalepartner Median AOV on Meta orders was $70.63 for beauty brands doing $1M to $10M. Most brands sit between $53 and $99 (25th to 75th percentile). That&apos;s basically the same as the all-channel median of $70.59, so Meta isn&apos;t pulling AOV up or down for this cohort. Source: Triple Whale live…
+
+🔗 [View original post](https://x.com/ecomchasedimond/status/2122733213550608398)
 
 ---
 
