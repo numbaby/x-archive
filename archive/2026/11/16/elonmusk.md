@@ -2,7 +2,7 @@
 
 ## 📅 November 16, 2026
 
-> 50 post(s) archived.
+> 52 post(s) archived.
 
 ---
 
@@ -90,6 +90,14 @@
 ![This year SpaceX has launched more mass to orbit Than the entire continent of Europe has in the entirety of human history Brutal mogging](../../../../assets/images/2026/11/16/2122425945990840499-1.jpg)
 
 🔗 [View original post](https://x.com/zebulgar/status/2122425945990840499)
+
+---
+
+### 🕐 20:16 UTC · @elonmusk
+
+> Starlink helped rescue teams bring 211 stranded tourists to safety in Argentina’s remote mountains. ❤️🇦🇷 A snowstorm trapped dozens of vehicles near Balcón del Pissis, Catamarca. Snow blocked the roads, leaving tourists stranded in freezing conditions. Satellite phones and @Starlink helped raise the alarm. Telecentro also supplied Starlink connectivity to strengthen communications between teams working in the mountains, where conventional networks were limited. Firefighters, police, medical teams and local rescuers joined the operation as heavy machinery cleared paths through the snow. Authorities confirmed 211 people were rescued, with 39 sheltered at a mining camp until they could descend safely. A life-saving effort on the ground, supported by connectivity from space. Media
+
+🔗 [View original post](https://x.com/cb_doge/status/2122423529769763225)
 
 ---
 
@@ -182,6 +190,16 @@
 > A lot of people have real trouble thinking about the aggregate behavior of groups. They can only think about individuals. So they think about Elon Musk as an individual. Maybe they think that he must be retarded, because they need that for emotional reasons. Or maybe they think he is a talented rocket designer. But even if they realize he understands rockets, they can only think about him as an individual doing tasks. Not about his impact on what the whole company does. If Elon Musk is just a talented rocket designer, then he can spend all day, every day, improving rocket designs. But he is just one of 7000 engineers. So even if did a perfect job, he would only improve progress by about .014% So, when a midwit looks at SpaceX, he sees 7000 engineers, and says to himself &quot;Elon Musk cannot possibly be designing the whole damn rocket himself. These people are giving him too much credit.&quot; This would be absolutely true if Musk were just a some random SpaceX engineer. But he isn&apos;t. He&apos;s the absolute dictator of the whole damn company. He decides, with absolute and unquestionable authority, which behaviors are punished and which are rewarded. Why is this important? When I worked at Boeing, on various classified projects, I naively came in with the assumption that I was a software engineer, employed to design and build functional software as quickly and cheaply as possible. Because of this, I focused on functionality and efficiency, for example suggesting changes that would obviate the need for entire projects and software components. And I very rapidly became persona non grata. At first, this caused me to adopt an air of aggrieved innocence. I was just trying to do my job well, and I was being punished for it. Then I gradually came to realize that I hadn&apos;t properly understood what my job was, or what the actual mission of Boeing Defense, Space, and Security was. Boeing DSS was not an aerospace company. Boeing DSS was a fraud company. Its goal was twofold. First, to maximize transfer of public tax dollars to stockholder pockets. Second, to maintain the appearance of being an aerospace company, to prevent the fraud from being exposed. Which meant that my real job was twofold. First, to generate billable hours. Second, to look busy. This is why Space Launch System sucks. Why it is always late when it doesn&apos;t fail outright. Why it is at 300% of its target budget. Why it leaves American astronauts stranded and needing a lift from SpaceX. That&apos;s because, for Boeing, building rockets is a side quest. Something they have to do to look busy. Yes, a rocket does occasionally fly, but that&apos;s just happening so programs don&apos;t get shut down. For Boeing, coming in early and under budget would actually be failure. The system is functioning exactly as designed. The cost, not the rocket, is the goal. Musk and SpaceX don&apos;t work like that. Unlike Boeing executives, Musk is not a useless grifter asshole. He is an entirely different kind of asshole... a rocket obsessed sperg. So, at SpaceX, engineers do not get rewarded for generating billable hours. They get rewarded for making rockets fly. And for all the subtasks of this, like figuring out how to make rockets lighter, figuring out how to make engines reignite better, figuring out how to make rocket exhaust not destroy launch pads, etc. And this attracts engineers who care about rockets. You&apos;ve seen them on broadcasts, crying on open microphones because they dedicated their lives to something and it just flew. As a rocket engineer, who designs rockets, Musk is probably replaceable. As a rocket company engineer, who designs rocket companies, he is not. For over 50 years, the US space industry stagnated precisely for the lack of a Musk-like figure, who could not only create an effective aerospace company, but who could thereby demonstrate what an effective aerospace company looks like. Which makes it much more difficult for fraudsters to get away with fraud. I&apos;m envious. I wish I could have worked for an aerospace company instead of a fraud company. But what&apos;s more important is that some of us now no longer have to play &quot;who gets the most cheese?&quot;. They get to play &quot;What can we build today?&quot;. Let’s take this gentleman’s argument at face value that anyone can throw money at rockets and get something like Starship, Falcon or Dragon. Perhaps he can explain to everyone how SpaceX is able to catch giant starships from orbit with chopsticks and deliver 85% of all Earth pay…
 
 🔗 [View original post](https://x.com/Devon_Eriksen_/status/2122373284813742579)
+
+---
+
+### 🕐 16:19 UTC · @elonmusk
+
+> If you ever wondered, what we would be doing at Giga Berlin with all the land that we have… We are expanding! Cybercab production is coming to Giga Berlin! Today we announced a first investment of around € 3b in a new manufacturing building with an anticpated start of production in 2029! It will have the most advanced technology of any Tesla factory! And we are hiring 👉 https://www.tesla.com/careers/search/?site=DE&amp;query=cybercab
+
+![If you ever wondered, what we would be doing at Giga Berlin with all the land that we have… We are expanding! Cybercab production is coming to Giga Berlin! Today we announced a first investment of aro](../../../../assets/images/2026/11/16/2122363982627389528-1.jpg)
+
+🔗 [View original post](https://x.com/AndrThie/status/2122363982627389528)
 
 ---
 
