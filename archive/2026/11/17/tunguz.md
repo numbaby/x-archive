@@ -2,7 +2,15 @@
 
 ## 📅 November 17, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 14:55 UTC · @tunguz
+
+> I really need to try this out. My Mac Air is completely out of space now. Last week my Mac got down to 3.7 GB of free space. Coding agents had spun up dozens of worktrees, each with its own node_modules, .build, and DerivedData. So I did what everyone does in that moment: I started deleting folders by hand, more or less at random. One of those folders…
+
+🔗 [View original post](https://x.com/tunguz/status/2122705278500221290)
 
 ---
 
