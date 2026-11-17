@@ -2,7 +2,23 @@
 
 ## 📅 November 17, 2026
 
-> 8 post(s) archived.
+> 10 post(s) archived.
+
+---
+
+### 🕐 06:23 UTC · @elonmusk
+
+> Starship 42 Media
+
+🔗 [View original post](https://x.com/elonmusk/status/2122576221846253837)
+
+---
+
+### 🕐 06:06 UTC · @elonmusk
+
+> How can Grok @Bot be more helpful? 👋 Looking to get some feedback from folks automating most of their work with Bot, in exchange for some credits. If this is you, please reply to this thread with how you use Bot and DM me your email!
+
+🔗 [View original post](https://x.com/elonmusk/status/2122572107116642664)
 
 ---
 

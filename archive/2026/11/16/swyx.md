@@ -2,7 +2,7 @@
 
 ## 📅 November 16, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
 
 ---
 
@@ -31,6 +31,16 @@
 > Code Summit, through the people who were there. A few days in San Francisco. New ideas to take back to work. With @swyx and teams from @GoogleDeepMind @OpenAI @AnthropicAI @firecrawl @mixedbreadai @coderabbitai @Atlassian. Keep building. Media
 
 🔗 [View original post](https://x.com/aiDotEngineer/status/2122366588582015138)
+
+---
+
+### 🕐 09:56 UTC · @swyx
+
+> A lot of the most successful people I know spent years of their life just bumming around, before they suddenly exploded into action and did something great. I don&apos;t think that&apos;s a coincidence. https://www.noahpinion.blog/p/bumbition
+
+![A lot of the most successful people I know spent years of their life just bumming around, before they suddenly exploded into action and did something great. I don&apos;t think that&apos;s a coincidenc](../../../../assets/images/2026/11/16/2122267469268328711-1.jpg)
+
+🔗 [View original post](https://x.com/Noahpinion/status/2122267469268328711)
 
 ---
 
