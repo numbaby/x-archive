@@ -2,7 +2,7 @@
 
 ## 📅 November 16, 2026
 
-> 6 post(s) archived.
+> 7 post(s) archived.
 
 ---
 
@@ -21,6 +21,16 @@
 > Recommend reading following up on the idea of weight-space programming. Bigger models (Opus 5.5) tend to do better and be more efficient. Super interesting work from Microsoft and colleagues. They take a closer look at the exciting research area of weight-space programming. They had Claude Opus 5.5 write transformer weights directly in code, with no gradient training. The smallest models that solved the algorithmi…
 
 🔗 [View original post](https://x.com/omarsar0/status/2122374124601590078)
+
+---
+
+### 🕐 16:45 UTC · @omarsar0
+
+> Super interesting work from Microsoft and colleagues. They take a closer look at the exciting research area of weight-space programming. They had Claude Opus 5.5 write transformer weights directly in code, with no gradient training. The smallest models that solved the algorithmic tasks had a median of 166 parameters. The method is called interpretable weight-space programming. An agent proposes a computation, writes it as explicit weights and features, tests it, and revises it for 30 to 50 rounds. A person can read the result line by line. All 26 runs on algorithmic tasks reached 100% accuracy on held-out data, often by writing a known algorithm into the weights. They find that the model matters. Sonnet 5.5 needed a median of 41,600 parameters, and Haiku 5.5 needed 100,000. Language tasks were harder. Those models stayed near 190,000 parameters and lost accuracy against learned baselines. They then used the same loop on brain data. In the visual cortex, it predicted responses better than existing interpretable models. In language fMRI, it found a confound in the dataset. https://arxiv.org/abs/2611.18114 Chat with Paper: https://academy.dair.ai/papers/interpretable-weight-space-programming-builds-transparent-transformers-and-brain-2611.18114
+
+![Super interesting work from Microsoft and colleagues. They take a closer look at the exciting research area of weight-space programming. They had Claude Opus 5.5 write transformer weights directly in ](../../../../assets/images/2026/11/16/2122370369097277634-1.jpg)
+
+🔗 [View original post](https://x.com/dair_ai/status/2122370369097277634)
 
 ---
 

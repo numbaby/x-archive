@@ -2,7 +2,7 @@
 
 ## 📅 November 16, 2026
 
-> 37 post(s) archived.
+> 45 post(s) archived.
 
 ---
 
@@ -22,11 +22,29 @@
 
 ---
 
+### 🕐 21:49 UTC · @elonmusk
+
+> Starship 42 back on Earth
+
+![Starship 42 back on Earth](../../../../assets/images/2026/11/16/2122446937286971592-1.jpg)
+
+🔗 [View original post](https://x.com/SpaceX/status/2122446937286971592)
+
+---
+
 ### 🕐 21:47 UTC · @elonmusk
 
 > As I was saying … Free Starlinks for FAA were offered to Sec Duffy, but he said they were not needed. As it turns out, they were. Correction: the ancient system that is rapidly declining in capability was made L3Harris. The new system that is not yet operational is from Verizon.
 
 🔗 [View original post](https://x.com/elonmusk/status/2122446366354096479)
+
+---
+
+### 🕐 21:45 UTC · @elonmusk
+
+> Catching a Starship with Mini 2 → https://starlink.com/mini-2 Media
+
+🔗 [View original post](https://x.com/Starlink/status/2122446093648875712)
 
 ---
 
@@ -37,6 +55,14 @@
 ![What was the significance of this weekend&apos;s SpaceX tower catch: &quot;Catching the second stage is substantially harder than catching the first stage because the Ship returns from orbit while the](../../../../assets/images/2026/11/16/2122434181904924817-1.jpg)
 
 🔗 [View original post](https://x.com/zerohedge/status/2122434181904924817)
+
+---
+
+### 🕐 20:39 UTC · @elonmusk
+
+> there&apos;s something immensely satisfying about the way 42 walks its way into the sticks, then sinking into the landing rails and swaying Media Views from Mechazilla of the first ever Starship catch
+
+🔗 [View original post](https://x.com/_MaxQ_/status/2122429483391324638)
 
 ---
 
@@ -55,6 +81,22 @@
 ![This year SpaceX has launched more mass to orbit Than the entire continent of Europe has in the entirety of human history Brutal mogging](../../../../assets/images/2026/11/16/2122425945990840499-1.jpg)
 
 🔗 [View original post](https://x.com/zebulgar/status/2122425945990840499)
+
+---
+
+### 🕐 20:05 UTC · @elonmusk
+
+> .@NASAAdmin on @SpaceX&apos;s Starship catch: &quot;This really changes everything.&quot; Media
+
+🔗 [View original post](https://x.com/RapidResponse47/status/2122420702686961667)
+
+---
+
+### 🕐 19:56 UTC · @elonmusk
+
+> Deep in the Amazon rainforest, MrBeast was still connected to the whole world, all thanks to Starlink In his video, he used Starlink to talk with his teams in Antarctica and the Peruvian desert, thousands of miles away Three of the most remote places on Earth, linked together from space No cell towers, no cables, just a dish and the sky, powered by Starlink https://x.com/XFreeze/status/2096534987919196379/video/1 Media
+
+🔗 [View original post](https://x.com/XFreeze/status/2122418561985749454)
 
 ---
 
@@ -79,6 +121,32 @@
 > We’ve come a long way 100 years
 
 🔗 [View original post](https://x.com/elonmusk/status/2122406902827245831)
+
+---
+
+### 🕐 18:22 UTC · @elonmusk
+
+> For the people who are desperate to act like recovering Starship is some kind of nothingburger because the Space Shuttle was kinda reusable, watch my video about recovering and reusing the shuttle boosters, and compare that to landing back on the pad. https://youtu.be/a9VmcAsV8n0
+
+![For the people who are desperate to act like recovering Starship is some kind of nothingburger because the Space Shuttle was kinda reusable, watch my video about recovering and reusing the shuttle boo](../../../../assets/images/2026/11/16/2122394910359990321-1.jpg)
+
+🔗 [View original post](https://x.com/DJSnM/status/2122394910359990321)
+
+---
+
+### 🕐 17:49 UTC · @elonmusk
+
+> Every driver needs their crew. Media
+
+🔗 [View original post](https://x.com/bot/status/2122386524297974128)
+
+---
+
+### 🕐 17:27 UTC · @elonmusk
+
+> Week two of moving the entire team to @bot: multiple team members burned their credits and asked to level up to the $100 plan — which I was excited to approve! Productivity is going up 10% a week for folks tokenmaxxing with GROK BOT. Honestly, I don&apos;t know if we will need to hire new people for our VC firm and media company at this pace — adding humans will probably be a fun luxury for business owners.
+
+🔗 [View original post](https://x.com/Jason/status/2122381122474520707)
 
 ---
 
