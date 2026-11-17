@@ -2,7 +2,25 @@
 
 ## 📅 November 17, 2026
 
-> 2 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 18:26 UTC · @_akhaliq
+
+> Accelerate Bench Evaluating Agents for Application-Level Program Optimization paper: https://huggingface.co/papers/2611.20882
+
+![Accelerate Bench Evaluating Agents for Application-Level Program Optimization paper: https://huggingface.co/papers/2611.20882](../../../../assets/images/2026/11/17/2122758250059977062-1.jpg)
+
+🔗 [View original post](https://x.com/_akhaliq/status/2122758250059977062)
+
+---
+
+### 🕐 18:01 UTC · @_akhaliq
+
+> Genesis is entering its next phase. Today we&apos;ve raised a $500M Series A at $3.5B. We can imagine far more than we can build physically today. Almost everything we are creating is still paid for in human time, by human hands. We want to remove the physical limits on human ambition. We are building general-purpose robots with human level intelligence and capability. Ones that work reliably across entire workflows for years. There are countless versions of possible futures where billions of robots are deployed everywhere, and we aspire to bring the brightest one that carries our hopes into reality. Media
+
+🔗 [View original post](https://x.com/zhou_xian_/status/2122752003197833357)
 
 ---
 

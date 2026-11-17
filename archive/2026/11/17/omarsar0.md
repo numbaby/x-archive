@@ -2,7 +2,23 @@
 
 ## 📅 November 17, 2026
 
-> 1 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 18:18 UTC · @omarsar0
+
+> To learn where AI models and inference are headed, check out the SGLang Summit recap. The summit brought together researchers and engineers working on frontier models, agents, and the infrastructure needed to run them at scale. NVIDIA, AMD, Google, Meta, and Intel also joined the new SGLang Consortium at the summit. 2,000+ people. Two days. The first SGLang Summit. Together, we announced SGLang v1.0, released Miles v0.2, and launched the SGLang Consortium with nine founding members: @nvidia, @AMD, @intel, @Google, @Meta, @thinkymachines, @Cloudflare, @modal, and @radixark. SGLang is now use…
+
+🔗 [View original post](https://x.com/omarsar0/status/2122756346919465170)
+
+---
+
+### 🕐 17:58 UTC · @omarsar0
+
+> GPT-6.2 Astra is LIVE on Higgsfield. OpenAI’s new frontier model for your most demanding projects. With Higgsfield plugin, GPT-6.2 Astra powers proactive multi-agent workflows across design, coding, and creative production. Join Higgsfield with up to 65% off for Black Friday. Media Some of you have been asking very politely. Some of you have just been asking. GPT-6.2 Astra and Sol are now available. Super efficient and built to perform where it counts—the real world. https://openai.com/index/introducing-gpt-6-2-astra-sol
+
+🔗 [View original post](https://x.com/higgsfield_ai/status/2122751206187802945)
 
 ---
 

@@ -2,7 +2,39 @@
 
 ## 📅 November 17, 2026
 
-> 7 post(s) archived.
+> 11 post(s) archived.
+
+---
+
+### 🕐 18:32 UTC · @tunguz
+
+> Now if we could just get another reset ...
+
+🔗 [View original post](https://x.com/tunguz/status/2122759872844546383)
+
+---
+
+### 🕐 18:31 UTC · @tunguz
+
+> These are the early days of The Great Unhinging.
+
+🔗 [View original post](https://x.com/tunguz/status/2122759488188871048)
+
+---
+
+### 🕐 18:20 UTC · @tunguz
+
+> And I was right! Today OpenAI is probably going to release a new model. Or maybe not. I found this out from a well-paced insider.
+
+🔗 [View original post](https://x.com/tunguz/status/2122756769294467399)
+
+---
+
+### 🕐 18:14 UTC · @tunguz
+
+> YES! FINALLY! Some of you have been asking very politely. Some of you have just been asking. GPT-6.2 Astra and Sol are now available. Super efficient and built to perform where it counts—the real world. https://openai.com/index/introducing-gpt-6-2-astra-sol
+
+🔗 [View original post](https://x.com/tunguz/status/2122755363569119694)
 
 ---
 

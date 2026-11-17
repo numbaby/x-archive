@@ -2,7 +2,49 @@
 
 ## 📅 November 17, 2026
 
-> 11 post(s) archived.
+> 16 post(s) archived.
+
+---
+
+### 🕐 18:57 UTC · @emollick
+
+> The reviews of the early testers like myself of GPT 6.2 Astra is a good vindication of the continuing value of vibe benchmarks in addition to numeric ones. We lack good measures of personality or perseverance or creativity or writing clarity or taste. But these things matter GPT-6.2 Astra scores 174 on the Epoch Capabilities Index (ECI), on par with Fable 5.2 and joining it above what the pre-Astra trend for reasoning models would have predicted. This is based on testing we did prior to launch using only our own benchmarks. The ECI is continually up…
+
+🔗 [View original post](https://x.com/emollick/status/2122766003624968461)
+
+---
+
+### 🕐 18:39 UTC · @emollick
+
+> This is the first time since GPT 4.5 that a frontier release from OpenAi is not a clear step forward. I’m willing to bet that 6.2 is amazing at some types of complex work, but in my experience &amp; that of others I know, it was often frustrating to use.
+
+🔗 [View original post](https://x.com/emollick/status/2122761622468894946)
+
+---
+
+### 🕐 18:18 UTC · @emollick
+
+> You can play the world in your browser here, it even simulates zero g physics. https://upwell-tetherline.netlify.app/unity/ Though this impressive (&amp; it is), I don’t find myself reaching for the new 6.2 models. They really are hard to work with &amp; take more guidance and pushing to get work done.
+
+🔗 [View original post](https://x.com/emollick/status/2122756233291821250)
+
+---
+
+### 🕐 18:16 UTC · @emollick
+
+> I’ve been using GPT-6.2 Astra prior to launch &amp; I found it very uneven &amp; weird. On one hand, it was harder to steer &amp; work with than other models. On the other, when given an ambitious project (make a space elevator ride from scratch with Blender &amp; Unity) it could deliver well Media
+
+🔗 [View original post](https://x.com/emollick/status/2122755693191287009)
+
+---
+
+### 🕐 17:46 UTC · @emollick
+
+> I dug into this a bit. It looks like we&apos;re at highs, but not unprecedented highs for major systems failures. We&apos;re seeing alarming headlines every day, but a lot of it is recency bias. Is it possible we&apos;re hearing about this stuff more because people are more jumpy about cyberattacks?
+
+![I dug into this a bit. It looks like we&apos;re at highs, but not unprecedented highs for major systems failures. We&apos;re seeing alarming headlines every day, but a lot of it is recency bias. Is it](../../../../assets/images/2026/11/17/2122748106659987652-1.jpg)
+
+🔗 [View original post](https://x.com/krishnanrohit/status/2122748106659987652)
 
 ---
 

@@ -2,7 +2,27 @@
 
 ## 📅 November 17, 2026
 
-> 30 post(s) archived.
+> 36 post(s) archived.
+
+---
+
+### 🕐 18:18 UTC · @elonmusk
+
+> SpaceXSI has released a blog: Building an accounting team with Grok Bot
+
+![SpaceXSI has released a blog: Building an accounting team with Grok Bot](../../../../assets/images/2026/11/17/2122756172591812708-1.jpg)
+
+🔗 [View original post](https://x.com/techdevnotes/status/2122756172591812708)
+
+---
+
+### 🕐 17:53 UTC · @elonmusk
+
+> Delta’s CEO said today, “We’ve been the leader in free, fast Wi-Fi,” and claimed customers don’t pick airlines based on Wi-Fi. The reality tells a completely different story. His own loyal customers are switching to airlines with Starlink 👇
+
+![Delta’s CEO said today, “We’ve been the leader in free, fast Wi-Fi,” and claimed customers don’t pick airlines based on Wi-Fi. The reality tells a completely different story. His own loyal customers a](../../../../assets/images/2026/11/17/2122749962547270102-1.jpg)
+
+🔗 [View original post](https://x.com/cb_doge/status/2122749962547270102)
 
 ---
 
@@ -55,6 +75,32 @@
 ![SpaceX just provided another $30 MILLION to help secure Brownsville&apos;s water future That brings the total to $70 MILLION already deposited toward its massive $220 MILLION commitment to water and w](../../../../assets/images/2026/11/17/2122723345225617654-1.jpg)
 
 🔗 [View original post](https://x.com/XFreeze/status/2122723345225617654)
+
+---
+
+### 🕐 16:00 UTC · @elonmusk
+
+> Tesla’s Annual Meeting is coming up on December 3 &amp; we need your vote Voting is quick &amp; easy – you can vote online, by mail, by QR code or by phone @Tesla_Optimus can show you how https://VoteTesla.com Media
+
+🔗 [View original post](https://x.com/Tesla/status/2122721430596997348)
+
+---
+
+### 🕐 15:30 UTC · @elonmusk
+
+> I combined 15 of my launch/catch photos to create this: A composite image telling the story of this historic event. I titled it &quot;Dreams of Martian Skies&quot;. Suddenly that dream feels a bit more real. Get the Print and read more info about how it was captured 👇
+
+![I combined 15 of my launch/catch photos to create this: A composite image telling the story of this historic event. I titled it &quot;Dreams of Martian Skies&quot;. Suddenly that dream feels a bit mor](../../../../assets/images/2026/11/17/2122714087998292030-1.jpg)
+
+🔗 [View original post](https://x.com/AJamesMcCarthy/status/2122714087998292030)
+
+---
+
+### 🕐 14:25 UTC · @elonmusk
+
+> Not &quot;pretty darn close&quot;. Starlink: ~100 Mbps down ~20 Mbps up, Latency ~30 ms ViaSat: ~`10 Mbps down ~2 Mbps up Latency &gt; 600 ms as the floor (can&apos;t get better). Order of magnitude difference. Delta Airlines CEO: &quot;We&apos;ve been out with a great product from Viasat, which we&apos;ve got two new satellites in the sky. It&apos;s not Starlink caliber but it&apos;s pretty darn close.&quot; It&apos;s not even remotely close to Starlink 😂😂
+
+🔗 [View original post](https://x.com/pbeisel/status/2122697537693872373)
 
 ---
 
@@ -223,6 +269,16 @@
 > BREAKING: The Government of Burundi is rolling out 435 Starlink kits to connect rural schools and health centers. 🇧🇮 The deployment is part of the Government of Burundi’s World Bank-funded Soleil-Nyakiriza project, serving rural communities. Media
 
 🔗 [View original post](https://x.com/cb_doge/status/2122508406879895871)
+
+---
+
+### 🕐 01:13 UTC · @elonmusk
+
+> Socialism vs Capitalism
+
+![Socialism vs Capitalism](../../../../assets/images/2026/11/17/2122498243699655165-1.jpg)
+
+🔗 [View original post](https://x.com/MAGAGEM1/status/2122498243699655165)
 
 ---
 
