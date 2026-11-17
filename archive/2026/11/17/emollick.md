@@ -2,7 +2,15 @@
 
 ## 📅 November 17, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 02:38 UTC · @emollick
+
+> It is a very funny time where the markets are basically assuming the future will look like the past even as many CEOs &amp; AI observers &amp; government officials keep yelling that the future is coming and it will change everything. Efficient markets versus radical discontinuities? Half my TL thinks AI is going to destroy the world, the other half thinks it can’t even help Google hit its like 8% growth targets
+
+🔗 [View original post](https://x.com/emollick/status/2122519737318150181)
 
 ---
 

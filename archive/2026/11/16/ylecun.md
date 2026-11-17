@@ -2,7 +2,7 @@
 
 ## 📅 November 16, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
 
 ---
 
@@ -23,5 +23,13 @@
 ![⚠️ Numerical issues can go on silently for decades like in the softmax/CE! Similar issues are present in other widely-used divergences like the KL and JSD I just posted this paper overviewing what the](../../../../assets/images/2026/11/16/2122362884642554242-1.jpg)
 
 🔗 [View original post](https://x.com/brandondamos/status/2122362884642554242)
+
+---
+
+### 🕐 15:37 UTC · @ylecun
+
+> Dario Amodei on open source models: “If the path continues, I think we could get to a very dangerous place.” “When you control a model and you&apos;re deploying it, you have the ability to monitor its usage.” “You can revoke a user&apos;s access. You can change what the model is willing to do.” “When a model is released in an uncontrolled manner, there&apos;s no ability to do that. It&apos;s entirely out of your hands.” “We should confront the advocates of this with that problem and challenge them to solve it.” He clearly doesn&apos;t believe Intelligence should be in the hand of the masses and Sam Altman also saying &quot;RAM&quot; shouldn&apos;t be accessible to everyone indefinitely agreed with him. Media Anthropic &amp; OpenAI wants to own intelligence. Open models want to free it
+
+🔗 [View original post](https://x.com/vikktorrrre/status/2122353364306374986)
 
 ---

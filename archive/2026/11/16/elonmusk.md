@@ -2,7 +2,7 @@
 
 ## 📅 November 16, 2026
 
-> 45 post(s) archived.
+> 50 post(s) archived.
 
 ---
 
@@ -19,6 +19,15 @@
 > Starlink Starlink has completely transformed connectivity across North Star&apos;s offshore fleet North Star&apos;s head of IT, Bruce Catto: “Starlink has changed everything for us” “It is the biggest difference in communications in the last 15 years” The UK-based maritime operator is using Starli…
 
 🔗 [View original post](https://x.com/elonmusk/status/2122471820712660999)
+
+---
+
+### 🕐 23:05 UTC · @elonmusk
+
+
+![](../../../../assets/images/2026/11/16/2122466131894231467-1.jpg)
+
+🔗 [View original post](https://x.com/BrendanCarrFCC/status/2122466131894231467)
 
 ---
 
@@ -142,6 +151,16 @@
 
 ---
 
+### 🕐 17:39 UTC · @elonmusk
+
+> SpaceXSI’s Colossus I is helping fund $3.26 million in home repairs, paid local jobs and neighborhood improvements in South Memphis. Memphis city government has approved the following investments using property tax revenue from the facility: • $2 MILLION for home repairs through Memphis HOPE. Eligible properties can receive up to $25,000 for roof repairs, plumbing, heating, air conditioning and accessibility improvements. • $309,282 for community grants supporting youth programs, public safety, workforce development and other services. • $250,000 for paid jobs cleaning up and improving local neighborhoods. • $250,000 to board up or demolish vacant properties. • $150,000 to address neighborhood blight and deterioration. • $125,000 for residents’ cooling and air-quality equipment, including air conditioners, fans, filters and air purifiers. • $100,000 for environmental education. • $50,000 for grants to organizations focused on health care. • $25,000 for Memphis City Beautiful to support neighborhood cleanup and beautification. All funding will benefit the designated five-mile area surrounding Colossus I. Earlier community support from SpaceXSI and related initiatives includes: • SCHOOL IMPROVEMENTS: Funded a completed gym renovation at Fairley High School and beautification work at John P. Freeman Optional School. Further school renovations are part of a broader $5 million investment program. • YOUTH SUPPORT: A $350,000 donation through the Musk Foundation to the Boys &amp; Girls Clubs of Greater Memphis, highlighted in SpaceXSI’s community commitments. • ROAD CLEANUPS: SpaceXSI says its crews have cleared miles of local roads, removing more than 300 discarded mattresses, around 500 truck tires and over 15,000 pounds of debris. • COMMUNITY CENTER SUPPORT: Partnered with Mt. Vernon Baptist Church to support fundraising for a new community center for local residents. • POWER INFRASTRUCTURE: Invested $35 million in the first 150 MW substation serving Colossus, with construction funded by the company at no cost to Memphis Light, Gas and Water. • LOWER INTERNET BILLS: SpaceX introduced a 50% discount on Starlink Residential plans for Memphis and Southaven residents. The company says around 2,000 residents have already enrolled.
+
+![SpaceXSI’s Colossus I is helping fund $3.26 million in home repairs, paid local jobs and neighborhood improvements in South Memphis. Memphis city government has approved the following investments usin](../../../../assets/images/2026/11/16/2122384078683111829-1.jpg)
+
+🔗 [View original post](https://x.com/cb_doge/status/2122384078683111829)
+
+---
+
 ### 🕐 17:27 UTC · @elonmusk
 
 > Week two of moving the entire team to @bot: multiple team members burned their credits and asked to level up to the $100 plan — which I was excited to approve! Productivity is going up 10% a week for folks tokenmaxxing with GROK BOT. Honestly, I don&apos;t know if we will need to hire new people for our VC firm and media company at this pace — adding humans will probably be a fun luxury for business owners.
@@ -155,6 +174,30 @@
 > shoutout @elonmusk were livestreaming a MARATHON IN ANTARTICA Media
 
 🔗 [View original post](https://x.com/nelkboys/status/2122373508064034895)
+
+---
+
+### 🕐 16:56 UTC · @elonmusk
+
+> A lot of people have real trouble thinking about the aggregate behavior of groups. They can only think about individuals. So they think about Elon Musk as an individual. Maybe they think that he must be retarded, because they need that for emotional reasons. Or maybe they think he is a talented rocket designer. But even if they realize he understands rockets, they can only think about him as an individual doing tasks. Not about his impact on what the whole company does. If Elon Musk is just a talented rocket designer, then he can spend all day, every day, improving rocket designs. But he is just one of 7000 engineers. So even if did a perfect job, he would only improve progress by about .014% So, when a midwit looks at SpaceX, he sees 7000 engineers, and says to himself &quot;Elon Musk cannot possibly be designing the whole damn rocket himself. These people are giving him too much credit.&quot; This would be absolutely true if Musk were just a some random SpaceX engineer. But he isn&apos;t. He&apos;s the absolute dictator of the whole damn company. He decides, with absolute and unquestionable authority, which behaviors are punished and which are rewarded. Why is this important? When I worked at Boeing, on various classified projects, I naively came in with the assumption that I was a software engineer, employed to design and build functional software as quickly and cheaply as possible. Because of this, I focused on functionality and efficiency, for example suggesting changes that would obviate the need for entire projects and software components. And I very rapidly became persona non grata. At first, this caused me to adopt an air of aggrieved innocence. I was just trying to do my job well, and I was being punished for it. Then I gradually came to realize that I hadn&apos;t properly understood what my job was, or what the actual mission of Boeing Defense, Space, and Security was. Boeing DSS was not an aerospace company. Boeing DSS was a fraud company. Its goal was twofold. First, to maximize transfer of public tax dollars to stockholder pockets. Second, to maintain the appearance of being an aerospace company, to prevent the fraud from being exposed. Which meant that my real job was twofold. First, to generate billable hours. Second, to look busy. This is why Space Launch System sucks. Why it is always late when it doesn&apos;t fail outright. Why it is at 300% of its target budget. Why it leaves American astronauts stranded and needing a lift from SpaceX. That&apos;s because, for Boeing, building rockets is a side quest. Something they have to do to look busy. Yes, a rocket does occasionally fly, but that&apos;s just happening so programs don&apos;t get shut down. For Boeing, coming in early and under budget would actually be failure. The system is functioning exactly as designed. The cost, not the rocket, is the goal. Musk and SpaceX don&apos;t work like that. Unlike Boeing executives, Musk is not a useless grifter asshole. He is an entirely different kind of asshole... a rocket obsessed sperg. So, at SpaceX, engineers do not get rewarded for generating billable hours. They get rewarded for making rockets fly. And for all the subtasks of this, like figuring out how to make rockets lighter, figuring out how to make engines reignite better, figuring out how to make rocket exhaust not destroy launch pads, etc. And this attracts engineers who care about rockets. You&apos;ve seen them on broadcasts, crying on open microphones because they dedicated their lives to something and it just flew. As a rocket engineer, who designs rockets, Musk is probably replaceable. As a rocket company engineer, who designs rocket companies, he is not. For over 50 years, the US space industry stagnated precisely for the lack of a Musk-like figure, who could not only create an effective aerospace company, but who could thereby demonstrate what an effective aerospace company looks like. Which makes it much more difficult for fraudsters to get away with fraud. I&apos;m envious. I wish I could have worked for an aerospace company instead of a fraud company. But what&apos;s more important is that some of us now no longer have to play &quot;who gets the most cheese?&quot;. They get to play &quot;What can we build today?&quot;. Let’s take this gentleman’s argument at face value that anyone can throw money at rockets and get something like Starship, Falcon or Dragon. Perhaps he can explain to everyone how SpaceX is able to catch giant starships from orbit with chopsticks and deliver 85% of all Earth pay…
+
+🔗 [View original post](https://x.com/Devon_Eriksen_/status/2122373284813742579)
+
+---
+
+### 🕐 16:12 UTC · @elonmusk
+
+> Dylan Patel says all of Elon Musk’s data centers &apos;use less water than three In-N-Outs&apos; Dylan Patel: “If done improperly, a data center can be loud if your house is right next to it. If done improperly, data centers can use a lot of water, but if done properly, they use very little water. You know, all of Elon Musk’s data centers use less water than three In-N-Outs.” Molly O’Shea: “Really?” Dylan Patel: “Yeah. I mean, you have to count the supply chain of cows, but, yes.” Media Dylan Patel, before Jensen Huang’s exit, said if he’s pushed out &apos;Nvidia is fucked&apos; because there’s no clear number two “Let’s start with the worst case scenario, which is this all blows up and Jensen is no longer the CEO. Nvidia is fucked in my opinion if that ever happens, bec…
+
+🔗 [View original post](https://x.com/firesidealpha/status/2122362057018216869)
+
+---
+
+### 🕐 16:01 UTC · @elonmusk
+
+> For many on the left, SpaceX exists in a bizzare quantum superposition of cognitive dissonance. SpaceX is simultaneously both a shameless valueless con job AND critical national infrastructure so essential that it must be nationalized.
+
+🔗 [View original post](https://x.com/RealOtisCrune/status/2122359530705358859)
 
 ---
 
