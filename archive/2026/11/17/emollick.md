@@ -2,7 +2,39 @@
 
 ## 📅 November 17, 2026
 
-> 7 post(s) archived.
+> 11 post(s) archived.
+
+---
+
+### 🕐 14:37 UTC · @emollick
+
+> AI is a general purpose technology has good and bad impacts, the general model should be improving the good and building on it, while mitigating the bad. Seeing AI as all one thing is a barrier. @emollick Honestly most players I see aren&apos;t mad about devs using AI to help write code, they&apos;re mad about AI art and low effort shovelware. Lumping it all into one fight makes it way harder to push for the good uses.
+
+🔗 [View original post](https://x.com/emollick/status/2122700639645933793)
+
+---
+
+### 🕐 14:33 UTC · @emollick
+
+> Games have always been a very difficult industry with a high cost to its workers in terms of crunch &amp; instability. I would love to see more positive visions about how you rebuild an industry stronger using AI, rather than defending the status quo as good and AI is going away.
+
+🔗 [View original post](https://x.com/emollick/status/2122699739389132891)
+
+---
+
+### 🕐 14:30 UTC · @emollick
+
+> The discussion of AI in gaming is pernicious now. The idea that games are going to be the only field where humans write code unassisted is obviously wrong. But the push for that means missing a chance to guide AI usage toward approaches that empower workers &amp; help gaming thrive.
+
+🔗 [View original post](https://x.com/emollick/status/2122698867883827584)
+
+---
+
+### 🕐 13:46 UTC · @emollick
+
+> We keep relearning some sort of lesson. If only there was a word to describe how bitter it is to learn.
+
+🔗 [View original post](https://x.com/emollick/status/2122687948181114887)
 
 ---
 
