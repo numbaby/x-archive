@@ -2,7 +2,23 @@
 
 ## 📅 November 17, 2026
 
-> 5 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 17:16 UTC · @tunguz
+
+> Wow, that&apos;s like a full week ahead of the schedule! SITUATION DETECTED: The NSA&apos;s national security communications network has gone down, per CNN.
+
+🔗 [View original post](https://x.com/tunguz/status/2122740718846292069)
+
+---
+
+### 🕐 17:15 UTC · @tunguz
+
+> oof Carbon 4 high came back after 2 days of on /goal. It gave up on the original problem and sent back a wrong proof of the complex algorithm that I had already given it. The goal was to simplify the algorithm and give a proof. I got back the original complicated algoritjm with a wr…
+
+🔗 [View original post](https://x.com/tunguz/status/2122740337399705959)
 
 ---
 

@@ -2,7 +2,17 @@
 
 ## 📅 November 17, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 17:37 UTC · @simonw
+
+> I shipped a new version of Datasette Lite recently - my build of the Datasette Python web app that runs entirely in the browser with WebAssembly and Pyodide - here&apos;s what&apos;s new and how it all works https://simonwillison.net/2026/Nov/17/datasette-lite/
+
+![I shipped a new version of Datasette Lite recently - my build of the Datasette Python web app that runs entirely in the browser with WebAssembly and Pyodide - here&apos;s what&apos;s new and how it al](../../../../assets/images/2026/11/17/2122746008736276734-1.jpg)
+
+🔗 [View original post](https://x.com/simonw/status/2122746008736276734)
 
 ---
 
