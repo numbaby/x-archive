@@ -2,7 +2,33 @@
 
 ## 📅 November 17, 2026
 
-> 10 post(s) archived.
+> 15 post(s) archived.
+
+---
+
+### 🕐 07:14 UTC · @elonmusk
+
+> @XFreeze I found a pic of “the long game”
+
+![@XFreeze I found a pic of “the long game”](../../../../assets/images/2026/11/17/2122589089702813944-1.jpg)
+
+🔗 [View original post](https://x.com/elonmusk/status/2122589089702813944)
+
+---
+
+### 🕐 07:08 UTC · @elonmusk
+
+> Was good to see @lrocket &amp; @HansKoenigsmann at the first ship catch &quot;@elonmusk really gets the best out of everybody, and that&apos;s why that company is so incredible.&quot; Tom Mueller
+
+🔗 [View original post](https://x.com/elonmusk/status/2122587577274237129)
+
+---
+
+### 🕐 06:26 UTC · @elonmusk
+
+> Relentless reinforcement learning must feel like Edge of Tomorrow to superintelligence
+
+🔗 [View original post](https://x.com/elonmusk/status/2122577169863885235)
 
 ---
 
@@ -19,6 +45,14 @@
 > How can Grok @Bot be more helpful? 👋 Looking to get some feedback from folks automating most of their work with Bot, in exchange for some credits. If this is you, please reply to this thread with how you use Bot and DM me your email!
 
 🔗 [View original post](https://x.com/elonmusk/status/2122572107116642664)
+
+---
+
+### 🕐 05:33 UTC · @elonmusk
+
+> Jensen was demanding of his executives, yet consistently kind and supportive to individual contributors like me. Too many companies coddle their executives and shield them from accountability when things go wrong. Jensen did the opposite. I didn’t mind that my boss was demanding. All my previous bosses held me to the highest standards. Without them, I would not be where I am today.
+
+🔗 [View original post](https://x.com/yunta_tsai/status/2122563749668167851)
 
 ---
 
@@ -43,6 +77,14 @@
 > LEO BOZELL: “Everyone would agree that Starlink is a great idea for South Africa. Starlink is a great idea in every single nation on earth because of what it’s been able to do. … The government said, we want 30% of that company here, which of course is preposterous. And Elon Musk is never going to do that. … They said, no, we want 30% of your company. So he said, go pound sand. I’ll go in every other country on planet earth.” Media
 
 🔗 [View original post](https://x.com/cb_doge/status/2122529345902350362)
+
+---
+
+### 🕐 02:09 UTC · @elonmusk
+
+> Grok Bot read my wife&apos;s medical records, researched the latest cancer treatments and trials, found the top specialist at Stanford and drafted the emails. Hours later, Stanford called us to start intake. @elonmusk, Grok is giving families like mine a path forward. 🙏
+
+🔗 [View original post](https://x.com/teslaownersSV/status/2122512355062161744)
 
 ---
 
