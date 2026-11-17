@@ -2,7 +2,15 @@
 
 ## 📅 November 17, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 17:20 UTC · @demishassabis
+
+> Knowing things → doing things → finding ways to save you time and money We’re expanding Tasks in Gemini free of charge to hundreds of millions of people in six countries. Powered by Gemini 4 Hydrogen, Tasks lets you hand off everyday life admin directly: - Forward emails to gemini@google.com to RSVP and add it to your family calendar - Have Gemini call local businesses to compare price quotes and check inventory (with full transcripts + approval before dialing) - Check out securely via Google Pay (uses the Agent Payments Protocol - AP2) - Seamlessly sign in via Google Password Manager We wanted to make this helpful + secure, we’re also partnering directly with major websites and security providers so it works well for site owners and agents. Media
+
+🔗 [View original post](https://x.com/sundarpichai/status/2122741728247738688)
 
 ---
 

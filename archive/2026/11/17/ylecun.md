@@ -2,7 +2,15 @@
 
 ## 📅 November 17, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 16:51 UTC · @ylecun
+
+> Yesterday, I revealed that Perplexity crossed $1B ARR. We have strong margins and a healthy growth rate. We don’t talk about our finances very often because we’re focused on building. Follow our research: https://research.perplexity.ai
+
+🔗 [View original post](https://x.com/AravSrinivas/status/2122734422445445629)
 
 ---
 

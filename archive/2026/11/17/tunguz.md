@@ -2,7 +2,33 @@
 
 ## 📅 November 17, 2026
 
-> 11 post(s) archived.
+> 14 post(s) archived.
+
+---
+
+### 🕐 19:43 UTC · @tunguz
+
+> Meet Nesnej, NVIDIA’s new CEO.
+
+![Meet Nesnej, NVIDIA’s new CEO.](../../../../assets/images/2026/11/17/2122777707058733122-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2122777707058733122)
+
+---
+
+### 🕐 19:32 UTC · @tunguz
+
+> People are complicated.
+
+🔗 [View original post](https://x.com/tunguz/status/2122774930630512821)
+
+---
+
+### 🕐 19:23 UTC · @tunguz
+
+> Yikes! Vibes on the new ChatGPT 6.2 models are bad off the charts!
+
+🔗 [View original post](https://x.com/tunguz/status/2122772601789714600)
 
 ---
 

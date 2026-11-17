@@ -2,7 +2,17 @@
 
 ## 📅 November 17, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 19:56 UTC · @omarsar0
+
+> Great read on speculative decoding in practice. The interesting part is the drafter. @sciforium tunes it on customer traffic, so longer runs of drafted tokens survive verification, which is what made 7-token drafts worth it. Result: DeepSeek-V4.1-Flash at 1,129 output tok/s on 4 AMD MI355X GPUs, with the original weights. They also share what didn&apos;t help, which I appreciate. not long ago, people questioned whether AMD GPUs could keep up. today, we’re setting records on them. 1,129 output tps at P90. Real production traffic, not a toy project. a little faith, a lot of engineering. here’s how we did it. https://x.com/i/article/2122759644397674496
+
+![Great read on speculative decoding in practice. The interesting part is the drafter. @sciforium tunes it on customer traffic, so longer runs of drafted tokens survive verification, which is what made ](../../../../assets/images/2026/11/17/2122780881370632457-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2122780881370632457)
 
 ---
 
