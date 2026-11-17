@@ -2,7 +2,15 @@
 
 ## 📅 November 17, 2026
 
-> 9 post(s) archived.
+> 10 post(s) archived.
+
+---
+
+### 🕐 22:49 UTC · @_akhaliq
+
+> Apple just released FastFrames Video Generation at Interactive Latency FastFrames-L (14B): https://huggingface.co/apple/FastFrames-L FastFrames-S (1.3B): https://huggingface.co/apple/FastFrames-S Media
+
+🔗 [View original post](https://x.com/_akhaliq/status/2122824565185503427)
 
 ---
 

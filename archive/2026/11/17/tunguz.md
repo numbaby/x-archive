@@ -2,7 +2,39 @@
 
 ## 📅 November 17, 2026
 
-> 19 post(s) archived.
+> 23 post(s) archived.
+
+---
+
+### 🕐 23:38 UTC · @tunguz
+
+> Actual LOL BREAKING: Robert Pattinson has been cast as Pedro Pascal in the upcoming Pedro Pascal biopic
+
+🔗 [View original post](https://x.com/tunguz/status/2122836803606770026)
+
+---
+
+### 🕐 23:22 UTC · @tunguz
+
+> Nation states were a low AI phenomenon.
+
+🔗 [View original post](https://x.com/tunguz/status/2122832808464802048)
+
+---
+
+### 🕐 23:06 UTC · @tunguz
+
+> Them: “AI is overhyped. It will never accomplish anything of significance in real world.” AI in real world: Media
+
+🔗 [View original post](https://x.com/tunguz/status/2122828842393849952)
+
+---
+
+### 🕐 22:36 UTC · @tunguz
+
+> There is a strong possibility that at some point in the next few years Amazon’s stake in Anthropic will be worth more than Amazon’s valuation. Amazon could be the next Yahoo. JUST IN: Anthropic amended S-1 shows Amazon will hold 48.2% of outstanding class N stock
+
+🔗 [View original post](https://x.com/tunguz/status/2122821275097931961)
 
 ---
 

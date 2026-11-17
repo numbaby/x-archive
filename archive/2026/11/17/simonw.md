@@ -2,7 +2,31 @@
 
 ## 📅 November 17, 2026
 
-> 4 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 22:41 UTC · @simonw
+
+> And Claude 5.2 Fable https://x.com/simonw/status/2120259268364718331 For comparison, here&apos;s what I got for the same prompt against Claude Fable 5.2 yesterday https://simonwillison.net/2026/Nov/10/yonkers-rises/
+
+🔗 [View original post](https://x.com/simonw/status/2122822484529684838)
+
+---
+
+### 🕐 22:41 UTC · @simonw
+
+> For comparison, here&apos;s Gemini 4 Carbon https://x.com/simonw/status/2120258951594037732 Gemini 4 Carbon is good at pelican SVGs, but that&apos;s nothing new for Gemini &quot;Make a three js animation where yonkers stands up as a big mech (cool stand up motion) and stomps around manhattan and queens and Brooklyn, use openstreetmap mapping data&quot; https://simonwillison.net/2026/…
+
+🔗 [View original post](https://x.com/simonw/status/2122822433023590517)
+
+---
+
+### 🕐 22:40 UTC · @simonw
+
+> Here&apos;s GPT-6.2 Astra and GPT-6.2 Sol for &quot;Make a three js animation where yonkers stands up as a big mech (cool stand up motion) and stomps around manhattan and queens and Brooklyn, use openstreetmap mapping data&quot; https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/ Media
+
+🔗 [View original post](https://x.com/simonw/status/2122822310428279136)
 
 ---
 

@@ -2,7 +2,15 @@
 
 ## 📅 November 17, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 21:03 UTC · @demishassabis
+
+> You will notice that Gemini Carbon thinks differently than Claude and GPT. It often comes up with entirely different but more clever solutions than competitor models. This is precisely because we never distilled other models. Distilling other models creates a poor imitation rather than unique intelligence. Google has proven that when you’re months or even a year behind, the solution isn’t to distill models. and they proved that good research takes time and I have high hopes for SSI as well :)
+
+🔗 [View original post](https://x.com/PatrickToulme/status/2122797829542309972)
 
 ---
 
