@@ -2,7 +2,25 @@
 
 ## 📅 November 17, 2026
 
-> 15 post(s) archived.
+> 18 post(s) archived.
+
+---
+
+### 🕐 08:01 UTC · @elonmusk
+
+> Cyber-Inception This video was made entirely using @Cyborg21&apos;s neuralink implant
+
+🔗 [View original post](https://x.com/elonmusk/status/2122600952096280785)
+
+---
+
+### 🕐 07:44 UTC · @elonmusk
+
+> As a teenager, Elon Musk went through an existential crisis, reading religion and philosophy in search of the meaning of life Then he discovered Douglas Adams&apos; The Hitchhiker&apos;s Guide to the Galaxy “I ended up reading The Hitchhiker&apos;s Guide to the Galaxy, which is actually a book on philosophy, just sort of disguised as a silly humor book. But it&apos;s actually a philosophy book. And Adams makes the point that it&apos;s actually the question that is harder than the answer” A seemingly silly humor book helped a teenager searching for meaning realize something profound Finding the right question is often harder than finding the answer And that curiosity never left him Today, it&apos;s driving him to build rockets, explore the universe, and push humanity toward the stars
+
+![As a teenager, Elon Musk went through an existential crisis, reading religion and philosophy in search of the meaning of life Then he discovered Douglas Adams&apos; The Hitchhiker&apos;s Guide to the ](../../../../assets/images/2026/11/17/2122596768051548482-1.jpg)
+
+🔗 [View original post](https://x.com/XFreeze/status/2122596768051548482)
 
 ---
 
@@ -21,6 +39,14 @@
 > Was good to see @lrocket &amp; @HansKoenigsmann at the first ship catch &quot;@elonmusk really gets the best out of everybody, and that&apos;s why that company is so incredible.&quot; Tom Mueller
 
 🔗 [View original post](https://x.com/elonmusk/status/2122587577274237129)
+
+---
+
+### 🕐 06:30 UTC · @elonmusk
+
+> Find me when you wake up. Media Relentless reinforcement learning must feel like Edge of Tomorrow to superintelligence
+
+🔗 [View original post](https://x.com/paranoidream/status/2122578000487256086)
 
 ---
 
