@@ -157059,6 +157059,13 @@
     "fingerprint": "dbecf90a95efb9c43d1cc218894af9ecdad73a22201a0f8dd5b8865c6f8340b3",
     "media": []
   },
+  "2122513599998677298": {
+    "account": "elonmusk",
+    "date": "2026-11-17",
+    "file": "data/posts/2026/11/2026-11-17.jsonl",
+    "fingerprint": "9032aae084e77231946ec526d5d1508714eb29041d26aab214ace353f6096d4a",
+    "media": []
+  },
   "2122519737318150181": {
     "account": "emollick",
     "date": "2026-11-17",
@@ -157248,6 +157255,19 @@
     "fingerprint": "f9550df24923c8edbb4998c67b6deb8c83841a80ecaf3950e7f8a3496f29f0e2",
     "media": []
   },
+  "2122650084794048574": {
+    "account": "elonmusk",
+    "date": "2026-11-17",
+    "file": "data/posts/2026/11/2026-11-17.jsonl",
+    "fingerprint": "e3c3777d609f34cec34b60d150c5802b736f6d07fc57a6582514b55119cdda8d",
+    "media": [
+      {
+        "local_path": "assets/images/2026/11/17/2122650084794048574-1.jpg",
+        "sha256": "2ed39a77455d5ced19137134785809f55f05ab2fbc8902a3a4bd1840e975930f",
+        "source_url": "https://pbs.twimg.com/media/HXUq_0maAAAqKQ6.jpg?name=orig"
+      }
+    ]
+  },
   "2122652922026856569": {
     "account": "Letstalk246",
     "date": "2026-11-17",
@@ -157273,6 +157293,13 @@
         "source_url": "https://pbs.twimg.com/media/HXUtms9WIAAta1Y.jpg?name=orig"
       }
     ]
+  },
+  "2122660866311197015": {
+    "account": "elonmusk",
+    "date": "2026-11-17",
+    "file": "data/posts/2026/11/2026-11-17.jsonl",
+    "fingerprint": "201821f1e811ffd6d5d75df680dbd2487a8001992db4401b91576d62b0c470a8",
+    "media": []
   },
   "2122662616367853670": {
     "account": "demishassabis",
@@ -157319,6 +157346,13 @@
     "date": "2026-11-17",
     "file": "data/posts/2026/11/2026-11-17.jsonl",
     "fingerprint": "d0d518177faa2fced6275f707d594ab10e0d95736554c63452d8ceb3bf1fea52",
+    "media": []
+  },
+  "2122675777930186909": {
+    "account": "AiEvolutio58513",
+    "date": "2026-11-17",
+    "file": "data/posts/2026/11/2026-11-17.jsonl",
+    "fingerprint": "153fa5157d04323714161243997b042e454b929b0b7cc4b65a1463b0bbbf090e",
     "media": []
   }
 }

@@ -2,7 +2,25 @@
 
 ## 📅 November 17, 2026
 
-> 19 post(s) archived.
+> 22 post(s) archived.
+
+---
+
+### 🕐 11:59 UTC · @elonmusk
+
+> BREAKING: Texas A&amp;M’s $205.5 million semiconductor project will help train America’s next generation of chipmakers for Terafab. 🇺🇸 University leaders say Terafab’s planned chip plant in Grimes County makes A&amp;M’s Semiconductor Institute even more relevant, with Terafab counting on the institute to help attract talent. • $205.5 million project: The institute’s new building in Bryan and supporting water infrastructure will serve chip research, development and workforce training. • Practical training for Terafab jobs: Director Steve Putna says students will train in an environment designed to help them move smoothly into Terafab’s workforce. • Access to engineering talent: Texas A&amp;M graduates more than 5,000 engineers annually, giving nearby chipmakers a major source of potential recruits. • Industry-style facilities: The institute will feature a cleanroom and six laboratories, giving students practical experience with semiconductor technology. • Construction is progressing: The building is about 20% complete. Substantial completion is expected by the end of 2027, with significant operations planned for mid-2028. • Infrastructure for long-term growth: Regents just approved $14.2 million for a new well and storage system supporting the RELLIS campus, including the institute. Media
+
+🔗 [View original post](https://x.com/cb_doge/status/2122660866311197015)
+
+---
+
+### 🕐 11:16 UTC · @elonmusk
+
+> BREAKING: South Korea’s Jin Air to introduce FREE Starlink Wi-Fi next month. Boeing 737-8 jets will be equipped first, bringing high-speed internet to more passengers. Korean Air and Asiana already have Starlink on 42 aircraft. Now it’s expanding to budget airlines.
+
+![BREAKING: South Korea’s Jin Air to introduce FREE Starlink Wi-Fi next month. Boeing 737-8 jets will be equipped first, bringing high-speed internet to more passengers. Korean Air and Asiana already ha](../../../../assets/images/2026/11/17/2122650084794048574-1.jpg)
+
+🔗 [View original post](https://x.com/cb_doge/status/2122650084794048574)
 
 ---
 
@@ -113,6 +131,14 @@
 > LEO BOZELL: “Everyone would agree that Starlink is a great idea for South Africa. Starlink is a great idea in every single nation on earth because of what it’s been able to do. … The government said, we want 30% of that company here, which of course is preposterous. And Elon Musk is never going to do that. … They said, no, we want 30% of your company. So he said, go pound sand. I’ll go in every other country on planet earth.” Media
 
 🔗 [View original post](https://x.com/cb_doge/status/2122529345902350362)
+
+---
+
+### 🕐 02:14 UTC · @elonmusk
+
+> 最近硅谷两大佬因为马斯克吵翻了，结果老马亲自下场，一句话把全网看乐了。 先是著名反垄断评论家 Matt 泼冷水：SpaceX 算什么奇迹？马斯克根本不是天才，无非是会找华尔街搞钱，用钞票和工程师硬堆出来的。 这话连平时谁都不服的硅谷传奇程序员 DHH 都看不下去了，直接回怼：太酸了！哪怕你不喜欢马斯克，也得承认他“把吹过的牛变成现实”的能力举世无双。从特斯拉、脑机接口到 SpaceX，世上有一百万个会搞钱的投资人，但只有一个马斯克。 随后马斯克本尊下场，只回了一句灵魂反问：“行，那你给我解释一下蓝色起源、波音和 ULA？” 这一刀，直接捅在了“唯金钱论”的肺管子上。 如果光靠砸钱就能上天，那现在的太空霸主绝不可能是 SpaceX： 1、 比谁更有钱？ 贝索斯的蓝色起源比 SpaceX 早成立两年，背后站着前世界首富，从来不缺钱，结果到现在还在努力追赶。 2、 比谁补贴多？ NASA 当年搞载人航天，同一个任务，给波音砸了 42 亿美元，给 SpaceX 只给了 26 亿。结果 SpaceX 从 2020 年就开始像公交车一样送宇航员上天，波音的飞船却连宇航员都接不回来，最后还得靠 SpaceX 去救场。 3、 比华尔街输血？ SpaceX 起步根本没有华尔街一分钱，全是马斯克卖掉 PayPal 后自己掏的 1 亿美元家底。猎鹰 1 号连炸三次后差点破产，第四次才绝处逢生。 DHH 说得太对了：钱能买来顶级工程师，但买不来“不怕炸火箭”的魄力。 看看星舰第 15 次试飞（Flight 15）就懂了：同一个任务里，助推器在海里丢了，但飞船却从轨道返航、被发射塔的“机械筷子”稳稳夹住。 放在传统航天巨头那里，“丢了助推器”这半句话，就够他们停飞开两年的事故批斗会了；但在 SpaceX，这只是通往成功的又一组实验数据。 @elonmusk 说实话，到底哪个更难造：是一枚能上天的火箭，还是一家“允许工程师靠炸火箭来试错”的公司？ Let’s take this gentleman’s argument at face value that anyone can throw money at rockets and get something like Starship, Falcon or Dragon. Perhaps he can explain to everyone how SpaceX is able to catch giant starships from orbit with chopsticks and deliver 85% of all Earth pay…
+
+🔗 [View original post](https://x.com/ZhouTalks/status/2122513599998677298)
 
 ---
 
