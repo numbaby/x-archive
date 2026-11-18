@@ -2,7 +2,7 @@
 
 ## 📅 November 17, 2026
 
-> 38 post(s) archived.
+> 39 post(s) archived.
 
 ---
 
@@ -47,6 +47,14 @@
 > Starlink saves lives Starlink helped save four sailors’ lives after a whale collision left their yacht sinking in the South Pacific. ♥️ A yacht suffered severe damage around 250 nautical miles north of Norfolk Island. As water poured in, the crew activated emergency beacons. Their Starlink connectio…
 
 🔗 [View original post](https://x.com/elonmusk/status/2122747622662222010)
+
+---
+
+### 🕐 17:43 UTC · @elonmusk
+
+> Transformers have barely changed since the 1890s: copper coils in a tank of oil. Batteries, solar and compute run on DC. The grid runs on AC. Bridging the two has meant inverters plus transformers. Powercore is a solid-state transformer, breaker and inverter in one box. Finally, one conversion and about half the losses. Hats off to the Tesla power electronics engineers! https://x.com/i/article/2122734886062813184
+
+🔗 [View original post](https://x.com/MdeZegher/status/2122747456836587939)
 
 ---
 

@@ -2,7 +2,17 @@
 
 ## 📅 November 18, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 00:50 UTC · @tunguz
+
+> So say we all.
+
+![So say we all.](../../../../assets/images/2026/11/18/2122855013957693878-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2122855013957693878)
 
 ---
 
