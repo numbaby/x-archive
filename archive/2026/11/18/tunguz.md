@@ -2,7 +2,23 @@
 
 ## 📅 November 18, 2026
 
-> 11 post(s) archived.
+> 13 post(s) archived.
+
+---
+
+### 🕐 15:19 UTC · @tunguz
+
+> [that’s what she said]
+
+🔗 [View original post](https://x.com/tunguz/status/2123073700228427949)
+
+---
+
+### 🕐 14:45 UTC · @tunguz
+
+> Size is the ultimate leverage.
+
+🔗 [View original post](https://x.com/tunguz/status/2123065059685654909)
 
 ---
 
