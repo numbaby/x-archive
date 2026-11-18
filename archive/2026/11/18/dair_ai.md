@@ -2,7 +2,17 @@
 
 ## 📅 November 18, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 16:30 UTC · @dair_ai
+
+> // RAG in a Trenchcoat // This NeurIPS 2026 paper shows that a minimal RAG memory matches state-of-the-art agent memory systems on standard benchmarks. (bookmark it) BRIDGE stores chained observation notes, retrieves them with BM25 plus embeddings, and shows them in time order. It uses one LLM call per write or query and about 5-7K tokens per question. It matches the prior best within confidence intervals on LongMemEval-S and BEAM, and beats the best memory baseline on EverMemBench by 5.7-6.3 points. The authors then test what memory lets an agent do. In their probes, the agent must apply a remembered rule or pattern that the question never mentions. No single design wins all probes. LangMem, which extracts atomic facts, wins rule application. BRIDGE wins pattern induction. Fact extraction loses the shape of a demonstrated pattern, while block summaries retrieve the rule, but the agent often does not apply it. Showing the rule more prominently closes most of that gap. Don&apos;t overcomplicate your memory system. Old retrieval methods are still very useful for agents. https://arxiv.org/abs/2611.22179 Chat with Paper: https://academy.dair.ai/papers/rag-in-a-trenchcoat-when-minimal-memory-is-enough-for-agentic-systems-and-when-i-2611.22179
+
+![// RAG in a Trenchcoat // This NeurIPS 2026 paper shows that a minimal RAG memory matches state-of-the-art agent memory systems on standard benchmarks. (bookmark it) BRIDGE stores chained observation ](../../../../assets/images/2026/11/18/2123091409435853190-1.png)
+
+🔗 [View original post](https://x.com/dair_ai/status/2123091409435853190)
 
 ---
 

@@ -2,7 +2,25 @@
 
 ## 📅 November 18, 2026
 
-> 15 post(s) archived.
+> 17 post(s) archived.
+
+---
+
+### 🕐 17:25 UTC · @tunguz
+
+> Worth repeating: Questioning validity of IQ tests is a low IQ cope.
+
+🔗 [View original post](https://x.com/tunguz/status/2123105346709537099)
+
+---
+
+### 🕐 16:44 UTC · @tunguz
+
+> Holy sh*t
+
+![Holy sh*t](../../../../assets/images/2026/11/18/2123094983750385919-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2123094983750385919)
 
 ---
 

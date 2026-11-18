@@ -2,7 +2,49 @@
 
 ## 📅 November 18, 2026
 
-> 8 post(s) archived.
+> 13 post(s) archived.
+
+---
+
+### 🕐 17:05 UTC · @emollick
+
+> Misalignment! My god.
+
+🔗 [View original post](https://x.com/emollick/status/2123100302278791310)
+
+---
+
+### 🕐 16:54 UTC · @emollick
+
+> Tomorrow is likely going to be a safer day than today, thanks to the crime-fighting power of Rockstar. Previous research found that violent video games, and specifically GTA games, reduce crime, as people stay home playing them. GPT-6 Pro updated the data and found it holds.
+
+![Tomorrow is likely going to be a safer day than today, thanks to the crime-fighting power of Rockstar. Previous research found that violent video games, and specifically GTA games, reduce crime, as pe](../../../../assets/images/2026/11/18/2123097628506485174-1.jpg)
+
+🔗 [View original post](https://x.com/emollick/status/2123097628506485174)
+
+---
+
+### 🕐 16:43 UTC · @emollick
+
+> All of this focus on individual releases also misses the broader point with much bigger implications for all of us: rapid, continuing acceleration of model development is very obviously happening and is the thing to actually pay attention to.
+
+🔗 [View original post](https://x.com/emollick/status/2123094851801776178)
+
+---
+
+### 🕐 16:40 UTC · @emollick
+
+> I am sure there are many use cases where 6.2 will be the best model. It can also be good to have models that differ from each other in strengths and weaknesses. And in some short period of time there will be another version of Astra, and the existing models will be tweaked.
+
+🔗 [View original post](https://x.com/emollick/status/2123094110034919551)
+
+---
+
+### 🕐 16:36 UTC · @emollick
+
+> I’d note that OpenAI has always been great about not influencing early testers &amp; has encouraged candid feedback. The mixed initial 6.2 reactions from testers didn’t blindside them. Some model point releases are just weirder, I wouldn’t overindex on it as a sign of the future.
+
+🔗 [View original post](https://x.com/emollick/status/2123092922312925530)
 
 ---
 
