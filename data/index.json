@@ -159222,6 +159222,32 @@
     "fingerprint": "08975a00932f3abcd4506145d0c15f930223d8f936f97722801953c4f69008a7",
     "media": []
   },
+  "2123146093366333850": {
+    "account": "sama",
+    "date": "2026-11-18",
+    "file": "data/posts/2026/11/2026-11-18.jsonl",
+    "fingerprint": "91c9e57358930076a423b05913d724d0070df7ee335eff423b405ea7873d7e59",
+    "media": [
+      {
+        "local_path": "assets/images/2026/11/18/2123146093366333850-1.jpg",
+        "sha256": "e905fafadc76aefaf4167ccac0a93e48b3206f3e45b35689114ac9f80ddcb3ae",
+        "source_url": "https://pbs.twimg.com/card_img/2123146095463383041/RUE1Oxtk?format=jpg&name=800x419"
+      }
+    ]
+  },
+  "2123148320071938510": {
+    "account": "sama",
+    "date": "2026-11-18",
+    "file": "data/posts/2026/11/2026-11-18.jsonl",
+    "fingerprint": "a4c7b15d1f58ddd94e4ead52975b29c3c21490382ce18fc60368a61d47309c5c",
+    "media": [
+      {
+        "local_path": "assets/images/2026/11/18/2123148320071938510-1.jpg",
+        "sha256": "ff422c6646f684da06232d59ca42fcb08e5217ffcb36ff959f6e99e3c389e84c",
+        "source_url": "https://pbs.twimg.com/card_img/2123119244309102592/YSKySQPl?format=jpg&name=800x419"
+      }
+    ]
+  },
   "2123153667561808350": {
     "account": "tunguz",
     "date": "2026-11-18",
@@ -159295,5 +159321,12 @@
         "source_url": "https://pbs.twimg.com/card_img/2123167489366331393/uUVZLOVD?format=jpg&name=800x419"
       }
     ]
+  },
+  "2123175292068086238": {
+    "account": "swyx",
+    "date": "2026-11-18",
+    "file": "data/posts/2026/11/2026-11-18.jsonl",
+    "fingerprint": "75ee633a4a1ba65c2057fbb752e2b0184b4f852653085a95bb0ae0966695a5bf",
+    "media": []
   }
 }

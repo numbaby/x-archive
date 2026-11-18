@@ -2,7 +2,15 @@
 
 ## 📅 November 18, 2026
 
-> 7 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 22:03 UTC · @swyx
+
+> ipo preshow prep! https://x.com/latentspacepod/status/2123162937309438117 ⚡️ $ANT IPOs tomorrow! We catch you up on everything we learned from the S-1 and the IPO roadshow. @tanayj talks us through the $9.9B compute and infrastructure bill and other deep dives. https://youtu.be/wX8nDtGIfYA Thanks to all the positive feedback on the @jaminball pod. Goo…
+
+🔗 [View original post](https://x.com/swyx/status/2123175292068086238)
 
 ---
 
