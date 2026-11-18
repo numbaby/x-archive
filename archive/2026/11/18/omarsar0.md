@@ -2,7 +2,23 @@
 
 ## 📅 November 18, 2026
 
-> 7 post(s) archived.
+> 9 post(s) archived.
+
+---
+
+### 🕐 17:34 UTC · @omarsar0
+
+> Personalized health is going to be huge! Helios reads 1,000+ protein biomarkers from a drop of blood collected at home. Their goal is a foundation model that simulates how your health changes over decades. Built by @omarabudayyeh and team, who helped pioneer CRISPR diagnostics. Introducing Helios: measuring 1,000+ protein biomarkers from a drop of blood to help you live younger, longer. Here’s how it works: • Self-collect blood at home with a painless, needle-free device • We measure the proteins carrying signals from cells and organs throughout your b…
+
+🔗 [View original post](https://x.com/omarsar0/status/2123107481224405383)
+
+---
+
+### 🕐 17:03 UTC · @omarsar0
+
+> I still think going from an idea to a fully functional app is largely unsolved. Today, @Netlify relaunched the whole platform around people and agents building together. 500K+ users made 1.7M agent runs on Netlify in the last 30 days. Those runs produced 700K+ production deploys. New mission. New brand. New website. New Netlify. ✨ Turn your imagination into reality. Describe an app, build it with agents in a live preview, and developers and your agents can pick it up in Git or your own preferred tools. Check out @biilmann’s new video.
+
+🔗 [View original post](https://x.com/omarsar0/status/2123099739457831198)
 
 ---
 
