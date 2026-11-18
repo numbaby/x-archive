@@ -2,7 +2,15 @@
 
 ## 📅 November 18, 2026
 
-> 5 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 22:56 UTC · @demishassabis
+
+> Great to see Neon dominating the Pareto on CursorBench! Gemini 4 Neon is #1 on Cursorbench Yet another Google Cursorbench mog
+
+🔗 [View original post](https://x.com/melvinjohnsonp/status/2123188659562459256)
 
 ---
 
@@ -23,6 +31,16 @@
 ![Excited to launch Gemini 4 Neon: frontier-level intelligence, super fast task completion, and available to Pro &amp; Ultra users now!! We think you’ll enjoy this model. Alchemy at its finest… 🧪](../../../../assets/images/2026/11/18/2123168218743554465-1.png)
 
 🔗 [View original post](https://x.com/demishassabis/status/2123168218743554465)
+
+---
+
+### 🕐 21:35 UTC · @demishassabis
+
+> Google DeepMind&apos;s Gemini 4 Neon debuts at #2 on the Vals Index (70.9%), 0.4 points behind Claude Fable 5.2 at less than half the cost per task. It also takes #1 on our Finance and Legal Indexes, Tax Agent and Legal Research.
+
+![Google DeepMind&apos;s Gemini 4 Neon debuts at #2 on the Vals Index (70.9%), 0.4 points behind Claude Fable 5.2 at less than half the cost per task. It also takes #1 on our Finance and Legal Indexes, ](../../../../assets/images/2026/11/18/2123168167879147542-1.jpg)
+
+🔗 [View original post](https://x.com/ValsAI/status/2123168167879147542)
 
 ---
 

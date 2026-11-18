@@ -2,7 +2,7 @@
 
 ## 📅 November 18, 2026
 
-> 8 post(s) archived.
+> 9 post(s) archived.
 
 ---
 
@@ -21,6 +21,14 @@
 ![my first startup and first love @netlify is refounding for the ai age with some very impressive growth stats despite a low aeo ranking. really impressed by @biilmann who has led the company through so](../../../../assets/images/2026/11/18/2123165970940441038-1.jpg)
 
 🔗 [View original post](https://x.com/swyx/status/2123165970940441038)
+
+---
+
+### 🕐 21:16 UTC · @swyx
+
+> AirBnB got frontier intelligence quality from a 2B model for 1% of the cost From my talk last week at AIE Code (What Runs Where) Media Appreciate everyone who showed up to my talk on Local AI at AIE Code today
+
+🔗 [View original post](https://x.com/TheAhmadOsman/status/2123163447785639956)
 
 ---
 

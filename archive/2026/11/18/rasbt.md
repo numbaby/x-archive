@@ -2,7 +2,15 @@
 
 ## 📅 November 18, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 22:48 UTC · @rasbt
+
+> Chris said it even better here: https://x.com/llm_wizard/status/2123158042535411978?a=n12knyRsDNSD3ayy4gM&amp;s=20 I feel like people who struggle to understand why benchmarking is hard have never had to interview candidates for a technical job before. I know the interview process is broken - but it&apos;s broken because it&apos;s damn near impossible to accurately assess someone completely before hir…
+
+🔗 [View original post](https://x.com/rasbt/status/2123186674117087433)
 
 ---
 
