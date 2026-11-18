@@ -2,7 +2,25 @@
 
 ## 📅 November 18, 2026
 
-> 13 post(s) archived.
+> 15 post(s) archived.
+
+---
+
+### 🕐 16:26 UTC · @tunguz
+
+> IQ test is the single best predictor of job performance aside from an actual job sample test. Science has been settled on this one for decades. Comparing new LLM releases via benchmarks is now a bit like using IQ tests for hiring decisions. Sure, benchmarks are useful baselines and so on, but beyond that, I don&apos;t know how indicative they are of our individual tasks and needs. (Yes, also looking at that release yesterday…
+
+🔗 [View original post](https://x.com/tunguz/status/2123090542049558625)
+
+---
+
+### 🕐 16:25 UTC · @tunguz
+
+> Kinda crazy to think that 4-years ago, ChatGPT didn&apos;t exist yet.
+
+![Kinda crazy to think that 4-years ago, ChatGPT didn&apos;t exist yet.](../../../../assets/images/2026/11/18/2123090222275862547-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2123090222275862547)
 
 ---
 

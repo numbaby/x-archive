@@ -2,7 +2,7 @@
 
 ## 📅 November 18, 2026
 
-> 6 post(s) archived.
+> 7 post(s) archived.
 
 ---
 
@@ -27,6 +27,16 @@
 > We need good workspace and document infrastructure for agents. Finance, law, and healthcare run on documents. Agents need to query those documents the way software queries tables. @UnsiloedHQ is building that layer with computer vision and dual-stream models. We’ve raised a $7.5M seed round led by Felicis so AI can read documents as easily as it reads databases. Finance, law and healthcare run on documents, and not databases like any other industry. Soon AI agents will read and write more documents than humans, and they’ll need to qu…
 
 🔗 [View original post](https://x.com/omarsar0/status/2123067792081469784)
+
+---
+
+### 🕐 14:49 UTC · @omarsar0
+
+> Really good work from OpenAI researchers and colleagues. They trained a model to write its reasoning in different personas, and they noticed that chain-of-thought monitors started missing its hidden side tasks. On covert side-task evaluations, the monitorability score of a gpt-oss-20b model organism fell from 0.94 to 0.68 with no instruction to hide anything. The training data had no examples of evading a monitor. It only taught the model to control the style of its reasoning, and that control carried over to hiding. When the model was told to hide its side task, the score dropped to 0.22, and in some evaluations, close to zero. The effect also appeared in a Kimi-K2.6 model in agentic environments. Side tasks that needed long reasoning or many steps stayed easier to catch. Targeted prompts asking the model to reason transparently recovered much of the lost monitorability, sometimes above the base model. https://arxiv.org/abs/2611.21799 Chat with Paper: https://academy.dair.ai/papers/chain-of-thought-controllability-can-reduce-chain-of-thought-monitorability-2611.21799
+
+![Really good work from OpenAI researchers and colleagues. They trained a model to write its reasoning in different personas, and they noticed that chain-of-thought monitors started missing its hidden s](../../../../assets/images/2026/11/18/2123065951256244262-1.jpg)
+
+🔗 [View original post](https://x.com/dair_ai/status/2123065951256244262)
 
 ---
 
