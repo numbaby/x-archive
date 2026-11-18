@@ -2,7 +2,41 @@
 
 ## 📅 November 18, 2026
 
-> 6 post(s) archived.
+> 10 post(s) archived.
+
+---
+
+### 🕐 05:29 UTC · @elonmusk
+
+> It was the smartest of times It was the dumbest of times
+
+🔗 [View original post](https://x.com/elonmusk/status/2122925042400895056)
+
+---
+
+### 🕐 05:26 UTC · @elonmusk
+
+> I wrote this 18 months ago To be clear here, the Verizon communication system to air traffic control is breaking down very rapidly. The FAA assessment is single digit months to catastrophic failure, putting air traveler safety at serious risk. The Starlink terminals are being sent at NO COST to the taxpay…
+
+🔗 [View original post](https://x.com/elonmusk/status/2122924448861008163)
+
+---
+
+### 🕐 05:25 UTC · @elonmusk
+
+> Four Years Ago Today, Elon Musk posted a poll asking 𝕏 if Donald Trump, who was banned by Twitter 1.0 as a sitting President, should be reinstated to the platform.
+
+![Four Years Ago Today, Elon Musk posted a poll asking 𝕏 if Donald Trump, who was banned by Twitter 1.0 as a sitting President, should be reinstated to the platform.](../../../../assets/images/2026/11/18/2122924222984958211-1.jpg)
+
+🔗 [View original post](https://x.com/alx/status/2122924222984958211)
+
+---
+
+### 🕐 04:15 UTC · @elonmusk
+
+> SpaceX Investors MUST Watch This Supercut from CFO&apos;s Epic Chat Today With @GavinSBaker Media
+
+🔗 [View original post](https://x.com/stevenmarkryan/status/2122906392969232791)
 
 ---
 
