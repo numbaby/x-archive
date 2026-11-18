@@ -2,7 +2,17 @@
 
 ## 📅 November 18, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 19:00 UTC · @dair_ai
+
+> Do LLM agents still need to be told how to self-improve? A new paper from MIT CSAIL and the University of Tübingen tests this directly. They give a frozen model a compute budget and simple tools. It can write practice games, watch another copy of itself play them, and edit that copy&apos;s prompt and skill files. It does not see real tasks or validation scores, and it is not told how to learn. Capable models built a working learning procedure on their own and improved on held-out games with hidden mechanics. Models from different families arrived at similar strategies. They wrote games at a calibrated difficulty, ran controlled A/B comparisons, built their own validation suites, and spent more effort on harder tasks. The text files they produced also improved play on external benchmarks with different horizons, mechanics, and 3D navigation. This matters for safety as well. Leaving out an explicit self-improvement loop does not stop a capable model from improving itself when it has the tools. https://arxiv.org/abs/2611.23219 Chat with Paper: https://academy.dair.ai/papers/do-llm-agents-still-need-to-be-told-how-to-self-improve-2611.23219
+
+![Do LLM agents still need to be told how to self-improve? A new paper from MIT CSAIL and the University of Tübingen tests this directly. They give a frozen model a compute budget and simple tools. It c](../../../../assets/images/2026/11/18/2123129152887046557-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2123129152887046557)
 
 ---
 

@@ -2,7 +2,39 @@
 
 ## 📅 November 18, 2026
 
-> 17 post(s) archived.
+> 21 post(s) archived.
+
+---
+
+### 🕐 19:20 UTC · @tunguz
+
+> Mega Chad work. Running @exolabs on 4 x 256GB M5 Ultra, 2000 tok/sec aggregate throughput on Qwen 3.8 27B, serving 32 users concurrently (62 tok/sec/user). I’m here now at Supercomputing 2026 with SHI / Apple. Come say hi!
+
+🔗 [View original post](https://x.com/tunguz/status/2123134271204315231)
+
+---
+
+### 🕐 19:05 UTC · @tunguz
+
+> Revolution is happening. Today I’m launching what I think could be an extremely important research project. Fixing humanity’s scientific knowledge. The idea is inspired by physicist Casey Handmer, who used AI to screen more than 50,000 papers in theoretical astrophysics. His audit flagged 872 possible e…
+
+🔗 [View original post](https://x.com/tunguz/status/2123130593214902354)
+
+---
+
+### 🕐 19:04 UTC · @tunguz
+
+> Academia as a way of creating, disseminating, and evaluating knowledge is finished. Academia has a problem: Every author wants to use LLMs to write papers, but no reviewer wants to read AI (assisted) content. And every reviewer wants to use LLMs for reviews, but no author wants their paper judged by an AI. Authors &amp; reviewers are the same people though...
+
+🔗 [View original post](https://x.com/tunguz/status/2123130345256042786)
+
+---
+
+### 🕐 17:30 UTC · @tunguz
+
+> This is known as the bitter lesson.
+
+🔗 [View original post](https://x.com/tunguz/status/2123106624076120189)
 
 ---
 
