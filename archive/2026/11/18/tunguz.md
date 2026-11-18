@@ -2,7 +2,15 @@
 
 ## 📅 November 18, 2026
 
-> 5 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 12:13 UTC · @tunguz
+
+> No one is irreplaceable. Especially not now.
+
+🔗 [View original post](https://x.com/tunguz/status/2123026715941433556)
 
 ---
 

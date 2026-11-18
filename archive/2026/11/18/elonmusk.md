@@ -2,7 +2,23 @@
 
 ## 📅 November 18, 2026
 
-> 17 post(s) archived.
+> 20 post(s) archived.
+
+---
+
+### 🕐 11:48 UTC · @elonmusk
+
+> True Elon Musk and Grimes found each other because they both independently made the same obscure joke about an AI thought experiment called Roko&apos;s Basilisk. Neither of them knew the other had made it. When they discovered the coincidence, Elon DM&apos;d her. Their first real conversation …
+
+🔗 [View original post](https://x.com/elonmusk/status/2123020499680981231)
+
+---
+
+### 🕐 11:38 UTC · @elonmusk
+
+> Is the Thucydides Trap ever avoidable? I wish it were, but, inevitably, the most interesting outcome is the most likely.
+
+🔗 [View original post](https://x.com/elonmusk/status/2123017891167785201)
 
 ---
 
@@ -89,6 +105,14 @@
 ![Four Years Ago Today, Elon Musk posted a poll asking 𝕏 if Donald Trump, who was banned by Twitter 1.0 as a sitting President, should be reinstated to the platform.](../../../../assets/images/2026/11/18/2122924222984958211-1.jpg)
 
 🔗 [View original post](https://x.com/alx/status/2122924222984958211)
+
+---
+
+### 🕐 04:48 UTC · @elonmusk
+
+> I’m sorry but how can you watch this and not be obsessed Media
+
+🔗 [View original post](https://x.com/HalcyonHypnotic/status/2122914742100517144)
 
 ---
 

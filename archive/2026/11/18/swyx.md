@@ -2,7 +2,25 @@
 
 ## 📅 November 18, 2026
 
-> 3 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 10:31 UTC · @swyx
+
+> @interaction it is fun to be on the avengers https://x.com/swyx/status/2055231013253472418 also i think the publicly disclosed revenue time series looks like this now btw. project to EOY, closest to the correct EOY ARR prediction gets a like
+
+![@interaction it is fun to be on the avengers https://x.com/swyx/status/2055231013253472418 also i think the publicly disclosed revenue time series looks like this now btw. project to EOY, closest to t](../../../../assets/images/2026/11/18/2123001032494199047-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2123001032494199047)
+
+---
+
+### 🕐 10:28 UTC · @swyx
+
+> this was both correct and also wrong
+
+🔗 [View original post](https://x.com/swyx/status/2123000373275476202)
 
 ---
 
