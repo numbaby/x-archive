@@ -2,7 +2,17 @@
 
 ## 📅 November 18, 2026
 
-> 6 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 19:30 UTC · @_akhaliq
+
+> there&apos;s a new button to log in on @OpenRouter 🔥
+
+![there&apos;s a new button to log in on @OpenRouter 🔥](../../../../assets/images/2026/11/18/2123136873115578591-1.jpg)
+
+🔗 [View original post](https://x.com/julien_c/status/2123136873115578591)
 
 ---
 
@@ -47,6 +57,16 @@
 > Multi-Branch Transformer Scales LLMs by branching, running full Transformer blocks in parallel instead of only making them wider or deeper, reaching lower validation loss at matched compute and up to 51.4% faster decoding. Media
 
 🔗 [View original post](https://x.com/HuggingPapers/status/2123085635447861337)
+
+---
+
+### 🕐 11:03 UTC · @_akhaliq
+
+> we are this 🤏 close to sending 1 EB (1 EXABYTE) of data monthly over the internet We&apos;ll keep optimizing our platform to distribute intelligence globally, w/o gatekeepers.
+
+![we are this 🤏 close to sending 1 EB (1 EXABYTE) of data monthly over the internet We&apos;ll keep optimizing our platform to distribute intelligence globally, w/o gatekeepers.](../../../../assets/images/2026/11/18/2123009180399198258-1.jpg)
+
+🔗 [View original post](https://x.com/julien_c/status/2123009180399198258)
 
 ---
 

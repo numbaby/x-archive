@@ -2,7 +2,65 @@
 
 ## 📅 November 18, 2026
 
-> 20 post(s) archived.
+> 27 post(s) archived.
+
+---
+
+### 🕐 21:17 UTC · @elonmusk
+
+> Starlink saves lives Starlink is being deployed to help families cut off by flooding in rural Cuiabá, Brazil Mato Grosso’s government is sending Starlink antennas to the Aguaçu district, where severe flooding left families isolated and without power Emergency teams are already on the ground, while a…
+
+🔗 [View original post](https://x.com/elonmusk/status/2123163808592265639)
+
+---
+
+### 🕐 21:10 UTC · @elonmusk
+
+> Treat Grok @Bot like a really smart employee I think a lot of people aren&apos;t using Grok Bot to its full potential, because knowing how to automate things is actually quite a difficult skill to learn. I wrote this post to break down how I approach automating anything with Grok Bot! https://x.com/i/article/2122921713864171520
+
+🔗 [View original post](https://x.com/elonmusk/status/2123161902683746640)
+
+---
+
+### 🕐 21:00 UTC · @elonmusk
+
+> We put a lot of thought into public safety Why Starship Zigzagged Home Instead of Flying Straight
+
+🔗 [View original post](https://x.com/elonmusk/status/2123159371119280372)
+
+---
+
+### 🕐 20:04 UTC · @elonmusk
+
+> Couldn’t recommend it more. Take your kids to a Starship launch. It’s a full-body experience. something you feel as much as you see, and one of the most awe-inspiring feats of human ingenuity you’ll ever witness. Plus, you’ll never see more grown men crying. Seriously &amp; that’s a wonderful thing. Impossible not to be deeply moved by what this incredible team has accomplished. True, Starship launches are incredibly exciting
+
+🔗 [View original post](https://x.com/gjurvetson/status/2123145363544772871)
+
+---
+
+### 🕐 19:13 UTC · @elonmusk
+
+> Starlink Mobile is now available in Mongolia with @mobicomofficial! For the first time, phones in areas without cell signal will automatically connect to our satellites, enabling customers to share updates via messaging apps and SMS 🛰️📱 mobispace — Connecting beyond limits... Mobicom Corporation, in partnership with Starlink Mobile, has officially launched mobispace. @Starlink Mobispace is a new service that uses Starlink’s satellite technology to help users stay connected on their phones in areas where traditi…
+
+🔗 [View original post](https://x.com/Starlink/status/2123132631596556767)
+
+---
+
+### 🕐 16:56 UTC · @elonmusk
+
+> The Starbase tower team on location with the first caught Starship🍌
+
+![The Starbase tower team on location with the first caught Starship🍌](../../../../assets/images/2026/11/18/2123097995679867195-1.jpg)
+
+🔗 [View original post](https://x.com/SpaceX/status/2123097995679867195)
+
+---
+
+### 🕐 12:11 UTC · @elonmusk
+
+> Why Starship Zigzagged Home Instead of Flying Straight Media
+
+🔗 [View original post](https://x.com/farzyness/status/2123026399787184615)
 
 ---
 

@@ -2,7 +2,23 @@
 
 ## 📅 November 18, 2026
 
-> 21 post(s) archived.
+> 23 post(s) archived.
+
+---
+
+### 🕐 20:48 UTC · @tunguz
+
+> I don&apos;t know who needs to hear this, but grandstanding is not a plan of action.
+
+🔗 [View original post](https://x.com/tunguz/status/2123156520674439310)
+
+---
+
+### 🕐 20:37 UTC · @tunguz
+
+> What did he mean by this??? Happy WedNEsday!
+
+🔗 [View original post](https://x.com/tunguz/status/2123153667561808350)
 
 ---
 

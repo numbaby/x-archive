@@ -2,7 +2,27 @@
 
 ## 📅 November 18, 2026
 
-> 3 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 21:35 UTC · @demishassabis
+
+> Availability &amp; more details in the blog: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/
+
+![Availability &amp; more details in the blog: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/](../../../../assets/images/2026/11/18/2123168223147499629-1.jpg)
+
+🔗 [View original post](https://x.com/demishassabis/status/2123168223147499629)
+
+---
+
+### 🕐 21:35 UTC · @demishassabis
+
+> Excited to launch Gemini 4 Neon: frontier-level intelligence, super fast task completion, and available to Pro &amp; Ultra users now!! We think you’ll enjoy this model. Alchemy at its finest… 🧪
+
+![Excited to launch Gemini 4 Neon: frontier-level intelligence, super fast task completion, and available to Pro &amp; Ultra users now!! We think you’ll enjoy this model. Alchemy at its finest… 🧪](../../../../assets/images/2026/11/18/2123168218743554465-1.png)
+
+🔗 [View original post](https://x.com/demishassabis/status/2123168218743554465)
 
 ---
 

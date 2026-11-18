@@ -2,7 +2,17 @@
 
 ## 📅 November 18, 2026
 
-> 6 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 21:26 UTC · @swyx
+
+> my first startup and first love @netlify is refounding for the ai age with some very impressive growth stats despite a low aeo ranking. really impressed by @biilmann who has led the company through some tough days but never gave up (unlike me) and is coming out the other end with a much stronger business. always grateful to Netlify for giving me my first big break as a technical writer/speaker, but wow this kind of tenacity you need to be a decade+ founder in tech piloting a ship while pivoting adroitly is 99.99% percentile in people i have ever come across in the valley questions i would have ask (behind paywall probably but eh): 1. why arent they using vercel/chatgpt sites/ant artifacts/cloudflare? 2. how does the spend breakdown? 3. how do accounts grow for these nontechnical builders? is there graduation risk (only once bill gets &gt;$1k i get serious about auditing) Last week, Netlify enjoyed its first day with 100,000 new signups, most of them new to AI and building software. After taking 5 years to reach 1M users, Netlify doubled to 10M by this past January, and expects to reach 25M by year&apos;s end 👀
+
+![my first startup and first love @netlify is refounding for the ai age with some very impressive growth stats despite a low aeo ranking. really impressed by @biilmann who has led the company through so](../../../../assets/images/2026/11/18/2123165970940441038-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2123165970940441038)
 
 ---
 
