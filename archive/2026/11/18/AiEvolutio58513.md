@@ -2,7 +2,17 @@
 
 ## 📅 November 18, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 19:45 UTC · @AiEvolutio58513
+
+> Your next email idea might already be running as an ad. Before you brainstorm another campaign, look at the messages bringing in customers. Here’s how I’d turn those findings into an email: 1. Pick one product. I’d ask @triplewhale’s AI operator, Moby, to look for ads bringing in new customers at a cost that works for the business. Have it check spend and order volume, too. Two purchases aren’t much to build a campaign around. 2. Give Moby a specific job. Then I’d have Moby look at the ads and the results together. Moby can draw on your connected product details, Brand Vault, and available customer reviews. I’d ask: “For [product], review our ads from the last 30 completed days. Our target acquisition cost is [amount]. Compare spend, new-customer orders, and acquisition cost using consistent attribution settings. Show the source ads, their hooks, and the questions they answer. Flag missing data or small samples. Suggest three email angles to test.” 3. Build an email around one idea. Say you sell a carry-on suitcase, and one of your stronger ads shows someone packing for a four-day trip. The question it helps answer: “Will everything fit?” I’d ask Moby to generate the email copy and creative around that idea: Subject: Four days. One carry-on. Opening: Here’s what fits for a long weekend. Body: A packing checklist, a photo of those items inside the bag, and a real customer review about the space. CTA: Shop the carry-on. Then I’d check the product claims and edit the copy before sending. 4. Test it with your email audience. Test it against your usual product email with a random split of engaged subscribers who haven’t ordered yet. Keep the offer and send time the same. Compare purchases and revenue per recipient. An ad that performs well gives you an idea worth testing. The email still has to prove itself. Pick one product, ask Moby to review the ads, and use one finding in your next email test. Want more like it? Triple Whale&apos;s prompt library has ready-to-use prompts by role and workflow. Customize one and run it in Moby: https://www.triplewhale.com/ai-prompt-library?i=chasenovember2&amp;utm_source=linkedin&amp;utm_medium=inf&amp;utm_campaign=mkt-chasenovember2-affiliate-1126&amp;utm_content=ChaseNovember2 #TripleWhalePartner
+
+![Your next email idea might already be running as an ad. Before you brainstorm another campaign, look at the messages bringing in customers. Here’s how I’d turn those findings into an email: 1. Pick on](../../../../assets/images/2026/11/18/2123140515201986778-1.jpg)
+
+🔗 [View original post](https://x.com/ecomchasedimond/status/2123140515201986778)
 
 ---
 

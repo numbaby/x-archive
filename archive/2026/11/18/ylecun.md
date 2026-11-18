@@ -2,7 +2,27 @@
 
 ## 📅 November 18, 2026
 
-> 2 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 19:09 UTC · @ylecun
+
+> The new MisAnthropic Statement is striking, coming from prominent AI doomers. Not because they&apos;re attacking Anthropic, arguably the most &quot;doomery&quot; AI company, but because they condemn its &quot;attempt to amass power in the name of the greater good&quot; and don&apos;t see the irony. Their own organizations (CAIS, FLI, MIRI, ControlAI) are power-seeking entities. They have advocated for sweeping restrictions, expanded government enforcement, and even surveillance powers in the name of AI safety. (I explored those proposals in my recent magazine essay, &quot;The power grab of the AI doomers&quot;). The real issue isn&apos;t just RSI, but the concentration of power. The question of who controls AI, and how much power they should be allowed to wield, opens up several fascinating debates. There&apos;s the concentration of technological power and economic power (right before Anthropic&apos;s IPO). And there&apos;s the known divide between open and closed models, centralization and decentralization. What makes this coalition interesting is that its signatories represent fundamentally different, sometimes opposing, visions on how power should be distributed. My position on this debate is pretty clear from my writings. Where do you stand?
+
+![The new MisAnthropic Statement is striking, coming from prominent AI doomers. Not because they&apos;re attacking Anthropic, arguably the most &quot;doomery&quot; AI company, but because they condemn i](../../../../assets/images/2026/11/18/2123131433942384809-1.jpg)
+
+🔗 [View original post](https://x.com/DrTechlash/status/2123131433942384809)
+
+---
+
+### 🕐 18:01 UTC · @ylecun
+
+> Introducing FrontierRSI, a new recursive self-improvement benchmark by @abundant_labs. We evaluate agents on (1) a broad range of AI research and engineering work, and (2) post-training models on multi-step agentic tasks, rather than single-step tasks as in PostTrainBench.
+
+![Introducing FrontierRSI, a new recursive self-improvement benchmark by @abundant_labs. We evaluate agents on (1) a broad range of AI research and engineering work, and (2) post-training models on mult](../../../../assets/images/2026/11/18/2123114502065627580-1.jpg)
+
+🔗 [View original post](https://x.com/quasicoh/status/2123114502065627580)
 
 ---
 

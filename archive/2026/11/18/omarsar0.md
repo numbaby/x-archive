@@ -2,7 +2,23 @@
 
 ## 📅 November 18, 2026
 
-> 9 post(s) archived.
+> 11 post(s) archived.
+
+---
+
+### 🕐 19:31 UTC · @omarsar0
+
+> Making a video with AI is easy. Editing it without breaking the rest is still hard. @madewitharcade lets you click the headline, say what you want, and change only that headline. Everything else stays put. It also pulls your fonts, colors, and tone from your website when you sign up, so every video starts on brand. Great product, overall! Frontier AI has solved math. Science. Coding. But it still hasn’t solved taste. Until now. Introducing Arcade 3.0: the AI video playground for marketing teams. Type one line, answer two questions, and Arcade does the rest. Voice, captions, and music included. Arcade runs its own…
+
+🔗 [View original post](https://x.com/omarsar0/status/2123137042288681028)
+
+---
+
+### 🕐 18:43 UTC · @omarsar0
+
+> This is an important read for anyone in cybersecurity. They attacked different models, agents, and industries, and published the results. Some key findings for the future of agent hacking. Today we’re releasing FrontierBreach, a new standard for attack success rate on agentic workflows in the enterprise. Existing benchmarks systematically underrepresent the security risks facing modern AI agents. FrontierBreach reflects attack scenarios on realistic enterprise wor…
+
+🔗 [View original post](https://x.com/omarsar0/status/2123124976979210464)
 
 ---
 

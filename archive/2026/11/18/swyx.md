@@ -2,7 +2,15 @@
 
 ## 📅 November 18, 2026
 
-> 5 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 19:48 UTC · @swyx
+
+> @interaction third party review https://x.com/rblalock/status/2122891881059373074?a=0vISg6zAnNTRtArO36U&amp;s=46 @cognition Just launched their Bots product and it’s pretty great. Here’s a super detailed friction log of the few days I’ve had with it this far: https://www.rickblalock.dev/scratch-notes/learnings-from-moving-my-grok-bots-to-devin-bots/
+
+🔗 [View original post](https://x.com/swyx/status/2123141337314988384)
 
 ---
 
