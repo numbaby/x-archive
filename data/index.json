@@ -157568,6 +157568,13 @@
     "fingerprint": "4465dec5b021a1d43d34e4983b9c5c15c3f14d1fc0095e86930263fb35036599",
     "media": []
   },
+  "2122721434262786095": {
+    "account": "_akhaliq",
+    "date": "2026-11-17",
+    "file": "data/posts/2026/11/2026-11-17.jsonl",
+    "fingerprint": "48623c0e5926b5b19844b526f4709f8462a2021d8d3ebb2161290b67b6ce77d1",
+    "media": []
+  },
   "2122721652433715481": {
     "account": "rasbt",
     "date": "2026-11-17",
@@ -158150,6 +158157,27 @@
     "date": "2026-11-17",
     "file": "data/posts/2026/11/2026-11-17.jsonl",
     "fingerprint": "7b6f4f564a05feb03d77d54ad6880f03c29e4147b85331555023672101fe8cd2",
+    "media": []
+  },
+  "2122836883877347836": {
+    "account": "demishassabis",
+    "date": "2026-11-17",
+    "file": "data/posts/2026/11/2026-11-17.jsonl",
+    "fingerprint": "f3bdc0eec49aaad1c2e736ab62f1de2817b777a95aacb5bf5c4727e7978325d1",
+    "media": []
+  },
+  "2122847337752285580": {
+    "account": "tunguz",
+    "date": "2026-11-18",
+    "file": "data/posts/2026/11/2026-11-18.jsonl",
+    "fingerprint": "7db18d4a97bf33b9059880dd194da2e3fc2b372b7ba3866c8f9449c2c871aa2c",
+    "media": []
+  },
+  "2122849193127530556": {
+    "account": "tunguz",
+    "date": "2026-11-18",
+    "file": "data/posts/2026/11/2026-11-18.jsonl",
+    "fingerprint": "9c3e640a64a85cc7f70f9560821d249336e55393967750e21d21622b448858dd",
     "media": []
   }
 }

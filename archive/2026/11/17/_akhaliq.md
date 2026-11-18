@@ -2,7 +2,7 @@
 
 ## 📅 November 17, 2026
 
-> 10 post(s) archived.
+> 11 post(s) archived.
 
 ---
 
@@ -73,6 +73,14 @@
 ![NVIDIA just released a speculative decoding draft on Hugging Face It accelerates Qwen3.8-27B with 4B parameters, boosting token acceptance by 46% over the built-in head. https://huggingface.co/nvidia/](../../../../assets/images/2026/11/17/2122737583361057024-1.jpg)
 
 🔗 [View original post](https://x.com/HuggingPapers/status/2122737583361057024)
+
+---
+
+### 🕐 16:00 UTC · @_akhaliq
+
+> Looking for a reference manual for building a frontier LLM? We wrote one 👇 The K2 Horizon technical report is now on arXiv: 134 pages on how we built six models, from architecture to inference. It may be the most detailed LLM training reference you can read today. • Architecture: we bring two new attention designs, MoVA and softplus attention gating, to strengthen reasoning. With them, our 36B model nearly matches a 32B dense one on one-seventh of the active parameters. • Pre-training: we trained four models, from 3.7B to 36B, on the same 22T tokens. Their normalized loss curves collapse onto nearly the same line, so a recipe that works on a small model carries over when scaling up. • Data: 60+ pages on the part most reports skip. How we generated ~10T synthetic tokens, and why we chose the data mix on predicted scores at scale, which reversed the small-run ranking. • Post-training: we document our full production-scale run for the 375B flagship. • Inference: Uno gives an autoregressive model diffusion speed with one small adapter. Up to 2.2× faster decoding, lossless by construction, no draft model. This is the last piece of the openness puzzle. K2 Horizon already shipped with 380 checkpoints, 13 TB of pre-training data, 58 training runs and 17 code repositories. The report explains the decisions behind them. More details: http://arxiv.org/abs/2611.21003 Media
+
+🔗 [View original post](https://x.com/IFM_AI/status/2122721434262786095)
 
 ---
 

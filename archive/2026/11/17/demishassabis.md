@@ -2,7 +2,15 @@
 
 ## 📅 November 17, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 23:38 UTC · @demishassabis
+
+> One more thing… In honor of Antigravity turning 1, we’re resetting quota for everyone across all models!
+
+🔗 [View original post](https://x.com/_mohansolo/status/2122836883877347836)
 
 ---
 
