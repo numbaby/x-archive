@@ -2,7 +2,39 @@
 
 ## 📅 November 18, 2026
 
-> 7 post(s) archived.
+> 11 post(s) archived.
+
+---
+
+### 🕐 14:09 UTC · @tunguz
+
+> mlx-learn 0.1.4 is out - big improvements to clustering, kNN, and SVC. We also now implement clustering benchmarks for e-means vs. k-means that&apos;s closer to the one in the original e-means paper, showing a 10x speedup. mlx-learn 0.1.4 is live on PyPI! It brings the e-means benchmark closer to the paper, speeds up Metal clustering and RBF SVC training, and improves exact kNN on Apple silicon. https://pypi.org/project/mlx-learn/0.1.4/ 1/5
+
+🔗 [View original post](https://x.com/tunguz/status/2123056042888114464)
+
+---
+
+### 🕐 13:48 UTC · @tunguz
+
+> This seems pretty accurate. I grew up close to where Central European, Mediterranean, and Balkan cultures meet, and have experienced all those influences on my own cultural sensibility formation. i don’t wanna say “fixed it” but i really did..
+
+🔗 [View original post](https://x.com/tunguz/status/2123050653656252584)
+
+---
+
+### 🕐 13:39 UTC · @tunguz
+
+> Gemini Gemini
+
+🔗 [View original post](https://x.com/tunguz/status/2123048363667144962)
+
+---
+
+### 🕐 13:38 UTC · @tunguz
+
+> And the gap between the smartest and the dumbest has never been larger. It was the smartest of times It was the dumbest of times
+
+🔗 [View original post](https://x.com/tunguz/status/2123048321325695271)
 
 ---
 
