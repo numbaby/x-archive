@@ -2,7 +2,17 @@
 
 ## 📅 November 18, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 06:46 UTC · @swyx
+
+> btw every fucking time someone on this app tries to tell you “distribution is everything” it is just some room temperature iq midwit trying to sell you his distribution services and app chris olah got rich writing a blog. fucking hell how stupid do you have to be This guy&apos;s blog will be worth $17.8 billion in two days &gt; studies math at the University of Toronto for 1 year &gt; drops out at 18 &gt; 2012: Peter Thiel pays him $100K to skip college (!!) &gt; starts writing machine learning explainers on his personal blog &gt; the posts spread through e…
+
+![btw every fucking time someone on this app tries to tell you “distribution is everything” it is just some room temperature iq midwit trying to sell you his distribution services and app chris olah got](../../../../assets/images/2026/11/18/2122944534229446791-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2122944534229446791)
 
 ---
 
