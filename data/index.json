@@ -158359,6 +158359,13 @@
     "fingerprint": "ff06e76e33800b0ae9b63d67c33082899bd91ec7b00b64497571c87d8dc6258d",
     "media": []
   },
+  "2122879631791673778": {
+    "account": "omarsar0",
+    "date": "2026-11-18",
+    "file": "data/posts/2026/11/2026-11-18.jsonl",
+    "fingerprint": "197e37b89e6c36b5d6c0c7f4ed4a928ba5c2a98a49e017497c57b4803472cf31",
+    "media": []
+  },
   "2122883198367502818": {
     "account": "emollick",
     "date": "2026-11-18",
@@ -158629,6 +158636,20 @@
     "date": "2026-11-18",
     "file": "data/posts/2026/11/2026-11-18.jsonl",
     "fingerprint": "fa365950bbb0daecd40bc6b79ed4b89bce79f633f70465f12c54e83a5b936f18",
+    "media": []
+  },
+  "2123030868142731406": {
+    "account": "tunguz",
+    "date": "2026-11-18",
+    "file": "data/posts/2026/11/2026-11-18.jsonl",
+    "fingerprint": "4bcdcfa0100ed1497fd2ae58e29b150be4a88809f812226a34fe9780b3d6c86d",
+    "media": []
+  },
+  "2123039108775997538": {
+    "account": "AiEvolutio58513",
+    "date": "2026-11-18",
+    "file": "data/posts/2026/11/2026-11-18.jsonl",
+    "fingerprint": "fd81eba332df580941f346bb45383b221563d89e77c93c5d18dd7b562358c056",
     "media": []
   }
 }

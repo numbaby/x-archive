@@ -2,7 +2,15 @@
 
 ## 📅 November 18, 2026
 
-> 6 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 12:29 UTC · @tunguz
+
+> In timeless words of Rahm Emanuel, never let a good crisis go to waste.
+
+🔗 [View original post](https://x.com/tunguz/status/2123030868142731406)
 
 ---
 

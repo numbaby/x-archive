@@ -2,7 +2,15 @@
 
 ## 📅 November 18, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 13:02 UTC · @AiEvolutio58513
+
+> Jensen Huang says NVIDIA&apos;s partnership with TSMC, the one the whole AI boom now runs on, started with a cold call to a number in the Yellow Pages: &quot;TSMC was probably about $300 million, something like that. It&apos;s a tiny little company. I heard about Morris Chang. And so I tried to call their US office.&quot; &quot;Back in the old days there were yellow pages. I looked it up, TSMC. There&apos;s a number there. I called their number and it&apos;s a recording. I left my name and my number and said a few things about NVIDIA: we&apos;re a new startup company building computer graphics chips. I called several times. Nobody called me back.&quot; &quot;And so I finally wrote a letter to Morris Chang. Didn&apos;t hear anything for a long time, and then one day it was 6 o&apos;clock or something, this person called and said &apos;this is Morris Chang from TSMC.&apos;&quot; &quot;I was so happy that the founder would actually call us back, because hey, maybe we won&apos;t have to die.&quot; &quot;I came back to Taiwan, and that was the start of everything. Not just that partnership, but just the whole industry.&quot; Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2123039108775997538)
 
 ---
 
