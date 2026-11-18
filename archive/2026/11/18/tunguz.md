@@ -2,7 +2,15 @@
 
 ## 📅 November 18, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 03:25 UTC · @tunguz
+
+> Tesla is a great store of value. If you’d told me in 2021 that within 5 years Elon would put a president in office, join the government, get kicked out, actually solve self-driving, launch a robotaxi, unveil a flying Roadster, and propose merging Tesla with SpaceX… I would not have guessed TSLA: +0.29%
+
+🔗 [View original post](https://x.com/tunguz/status/2122893947093606639)
 
 ---
 

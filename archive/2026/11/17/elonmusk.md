@@ -2,7 +2,31 @@
 
 ## 📅 November 17, 2026
 
-> 41 post(s) archived.
+> 49 post(s) archived.
+
+---
+
+### 🕐 23:48 UTC · @elonmusk
+
+> Big push underway from the US Supercharger team to open new sites before Thanksgiving travel. Thank you to the utilities and local inspectors keeping energizations of this critical infrastructure on track. New Tesla Supercharger: Barstow, CA - 1540 East Main Street (16 stalls) https://www.tesla.com/findus?location=401329
+
+🔗 [View original post](https://x.com/MdeZegher/status/2122839416591057223)
+
+---
+
+### 🕐 23:35 UTC · @elonmusk
+
+> I work on @bot Tag me with whatever annoys you, breaks on you, or you wish it could do. I read all of it and bring the good stuff to our team. Follow if you want to see what we ship next.
+
+🔗 [View original post](https://x.com/larsencc/status/2122836100792152411)
+
+---
+
+### 🕐 22:38 UTC · @elonmusk
+
+> BREAKING: SpaceX CFO Bret Johnsen shares a heartwarming story of Gwynne Shotwell’s visit to Brazil and how @Starlink changed the lives of schoolchildren. “Gwynne went down when we turned on Starlink service in Brazil, right down by the Amazon, to a community that had never had any connectivity at all and was out there with the head of the school system there … you’re bringing all of the knowledge of the world when you bring the Internet, right? Bringing the Internet to these kids, and it just, it was just very exciting to dramatically change that community.” Media
+
+🔗 [View original post](https://x.com/cb_doge/status/2122821710185672735)
 
 ---
 
@@ -22,6 +46,22 @@
 
 ---
 
+### 🕐 22:09 UTC · @elonmusk
+
+> The Starbase tower chopsticks catching their first Starship. This unique architecture was designed for full and rapid reusability, enabling repeat launches and landings from the same pad Media Media Media Media
+
+🔗 [View original post](https://x.com/SpaceX/status/2122814338893332591)
+
+---
+
+### 🕐 22:00 UTC · @elonmusk
+
+> relative to our (aggressive) expectations Starship landed on its 2nd commercial flight (we were expecting 6th at the midpoint) Seems to be refurbishable within weeks (we were expecting months at the midpoint) And is actually truly reuseable (we thought there was a ~5% chance they would never solve re-useability with a heat-shield approach) At root, SpaceXSI is growth-governed by asset turns. Relative to the non-reuseable case, SpaceXSI with a re-useable Starship stack becomes &gt;2x as valuable by 2031 (per our research) And the improved economics suggested by the faster rate of progress on the rocket itself suggests a ~10% increase in 2031 value and revenue relative to our expectations. All of this to help explain why the stock is [checks notes] ~flat since they caught the largest ever object to return from space in the grips of a giant steel set of chopsticks.
+
+🔗 [View original post](https://x.com/wintonARK/status/2122812103442764244)
+
+---
+
 ### 🕐 21:55 UTC · @elonmusk
 
 > 🤦‍♂️ 🚨 JUST IN: Sec. Sean Duffy RESPONDS to Elon Musk saying he offered the Trump admin FREE Starlink for the FAA, but was turned down &quot;We thought that the best method is to have a network [that&apos;s] based on the ground.&quot; &quot;What he&apos;s doing with Starlink and the speed is remarkable — bu…
@@ -30,11 +70,37 @@
 
 ---
 
+### 🕐 20:47 UTC · @elonmusk
+
+> After 34 days docked to the @Space_Station, the Dragon spacecraft supporting SpaceX’s 35th Commercial Resupply Services mission for @NASA is targeted to undock from the orbiting lab as soon as Wednesday, November 18 → https://spacex.com/launches/crs35
+
+![After 34 days docked to the @Space_Station, the Dragon spacecraft supporting SpaceX’s 35th Commercial Resupply Services mission for @NASA is targeted to undock from the orbiting lab as soon as Wednesd](../../../../assets/images/2026/11/17/2122793780810264837-1.jpg)
+
+🔗 [View original post](https://x.com/SpaceX/status/2122793780810264837)
+
+---
+
+### 🕐 20:34 UTC · @elonmusk
+
+> SpaceXSI is committed to helping build and grow the communities our employees live and work in for the better. This includes ensuring revenue from the taxes we pay goes back into the community. The City of Memphis is investing $3.26 million of the direct revenue from our supercompute facilities in Memphis toward housing, neighborhood improvements, and other services for local residents, helping them to make critical repairs and improvements to their homes → http://memphistn.gov/city-of-memphis-directs-3-26-million-in-data-center-revenue-back-to-south-memphis-neighborhoods/
+
+🔗 [View original post](https://x.com/SpaceXAIMemphis/status/2122790486112948478)
+
+---
+
 ### 🕐 19:54 UTC · @elonmusk
 
 > 🚨SpaceX CFO Bret Johnsen: “I hope everyone&apos;s trying Grok Bot, it is amazing. It’s probably the best agentic AI solution out there. If you look at Grok Bot and the updates that are coming on the Grok model as well, and the coding capability of Cursor, we have a very diversified software portfolio that&apos;s just going to get better and better.” Media
 
 🔗 [View original post](https://x.com/cb_doge/status/2122780502277140508)
+
+---
+
+### 🕐 19:31 UTC · @elonmusk
+
+> BREAKING: SpaceX just confirmed that the heat shield tile MrBeast signed and installed on Ship 42 is intact. Even his signature survived. The ship circled Earth 14 times during a 22.5-hour flight before returning to Starbase for the first-ever Starship catch. Media
+
+🔗 [View original post](https://x.com/cb_doge/status/2122774565663477771)
 
 ---
 
