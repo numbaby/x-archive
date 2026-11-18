@@ -2,7 +2,15 @@
 
 ## 📅 November 18, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 01:54 UTC · @tunguz
+
+> LOL, I was sold on this concept that science was all about the content, ideas, and the truth when I ventured into it as a starry-eyed student. I had learned my lesson since. But it would be nice to see the scientific community return to those ideals in the last few days we have left as still a human-driven endeavor. Journals should judge papers by the results they contain, not by whether AI was used.
+
+🔗 [View original post](https://x.com/tunguz/status/2122871095934042608)
 
 ---
 

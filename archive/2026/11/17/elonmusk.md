@@ -2,7 +2,23 @@
 
 ## 📅 November 17, 2026
 
-> 39 post(s) archived.
+> 41 post(s) archived.
+
+---
+
+### 🕐 22:31 UTC · @elonmusk
+
+> The Australian Labor government want to ban “trad wife” content and their example is literally just a video of a lady saying she likes being married and loves her husband The Labor “Digital Duty of Care” bill is one of the most Orwellian pieces of legislation I’ve ever seen https://x.com/DrewPavlou/status/2122818218914095328/video/1 Media
+
+🔗 [View original post](https://x.com/DrewPavlou/status/2122819863056122136)
+
+---
+
+### 🕐 22:21 UTC · @elonmusk
+
+> BREAKING: SpaceX CFO Bret Johnsen says SpaceX is spending hundreds of millions of dollars to build a new clean water system for Brownsville. “We’re making dramatic positive impacts in the communities that we’re in, whether it’s the jobs, whether it’s the school systems, whether it’s the new parks. … Brownsville is now going to have a clean water system that we’re spending a couple hundred million dollars to put in place, this big desalinization plant. … These are huge benefits to communities … that didn’t have the funding otherwise to do so.” Media
+
+🔗 [View original post](https://x.com/cb_doge/status/2122817361296371897)
 
 ---
 
