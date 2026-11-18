@@ -2,7 +2,15 @@
 
 ## 📅 November 18, 2026
 
-> 7 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 09:20 UTC · @emollick
+
+> Google, OpenAI &amp; Anthropic are at the stage where, unless you frequently switch between them or actively test them, you are probably very happy with the series of releases in the past two months. Even the model releases that are not as strong represent large capability gains
+
+🔗 [View original post](https://x.com/emollick/status/2122983239883317335)
 
 ---
 

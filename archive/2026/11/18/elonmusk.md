@@ -2,7 +2,33 @@
 
 ## 📅 November 18, 2026
 
-> 11 post(s) archived.
+> 14 post(s) archived.
+
+---
+
+### 🕐 10:08 UTC · @elonmusk
+
+> Prufrock The Boring Company is rapidly scaling up its Music City Loop project in Nashville Prufrock-MB3 has officially arrived, becoming the THIRD tunnel-boring machine for the network And Prufrock-MB4 is expected to arrive within the next 8 weeks TBC is now hiring across: • Engineering …
+
+🔗 [View original post](https://x.com/elonmusk/status/2122995454560587952)
+
+---
+
+### 🕐 09:36 UTC · @elonmusk
+
+> The machines of @boringcompany were named after: Waiting for Godot A Line-storm Song The Love Song of J. Alfred Prufrock
+
+🔗 [View original post](https://x.com/elonmusk/status/2122987306923733063)
+
+---
+
+### 🕐 06:16 UTC · @elonmusk
+
+> Hearing the @united CEO Scott Kirby on @CheekyPint telling @collision that the primary constraint on commercial aviation in the US is ATC slots drives me crazy. There are at most about 5000 flights occurring at any one time over the entire US. There are about 30 usable flight levels in alpha airspace, and you can deconflict 100x more flights than this with a single toothbrush CPU (http://FAA.caseyhandmer.com). In terms of physical space, there&apos;s enough room to fly every man woman and child in the US simultaneously. Look up. Does the sky seem crowded? There were plans to automate ATC using the first Iridium constellation more than 30 years ago. At some point we have to have a serious conversation about rent takings by obsolete incumbents that are blocking entire percentage points of economic growth. I wrote this 18 months ago
+
+![Hearing the @united CEO Scott Kirby on @CheekyPint telling @collision that the primary constraint on commercial aviation in the US is ATC slots drives me crazy. There are at most about 5000 flights oc](../../../../assets/images/2026/11/18/2122937091218981083-1.jpg)
+
+🔗 [View original post](https://x.com/CJHandmer/status/2122937091218981083)
 
 ---
 

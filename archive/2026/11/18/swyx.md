@@ -2,7 +2,15 @@
 
 ## 📅 November 18, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 09:21 UTC · @swyx
+
+> look around, look around, at how lucky we are/ to be alive right now
+
+🔗 [View original post](https://x.com/swyx/status/2122983553541812630)
 
 ---
 
