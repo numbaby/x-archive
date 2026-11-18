@@ -2,7 +2,17 @@
 
 ## 📅 November 18, 2026
 
-> 6 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 03:58 UTC · @emollick
+
+> Most people don’t realize how much sickness we all lived with before modern medicine. The measles vaccination alone is responsible for half a percent of all US income this year, $80 billion. That is just from the reduced disease burden, it doesn’t include reduced medical costs @SamPassey3 In the 1930s, 10% of Americans had syphilis, which carries a high risk of miscarriage. Penicillin reduced that and other diseases https://worksinprogress.co/issue/understanding-the-baby-boom/
+
+![Most people don’t realize how much sickness we all lived with before modern medicine. The measles vaccination alone is responsible for half a percent of all US income this year, $80 billion. That is j](../../../../assets/images/2026/11/18/2122902226868076552-1.jpg)
+
+🔗 [View original post](https://x.com/emollick/status/2122902226868076552)
 
 ---
 

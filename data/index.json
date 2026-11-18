@@ -157866,6 +157866,13 @@
     "fingerprint": "56041ffc9d05d3f53e4314159950b345475ddc227cb59c3a40cd915fc539a386",
     "media": []
   },
+  "2122767521925230896": {
+    "account": "demishassabis",
+    "date": "2026-11-17",
+    "file": "data/posts/2026/11/2026-11-17.jsonl",
+    "fingerprint": "aef1a9fc373ba763508b9ad654c14dae6ed86d5efe614a268ab9d85ac5fa6acf",
+    "media": []
+  },
   "2122772601789714600": {
     "account": "tunguz",
     "date": "2026-11-17",
@@ -158393,5 +158400,18 @@
     "file": "data/posts/2026/11/2026-11-18.jsonl",
     "fingerprint": "dde888c33b76e9c4150d758687afc607061f1d11eb3e695da6c0f90b8b4d3791",
     "media": []
+  },
+  "2122902226868076552": {
+    "account": "emollick",
+    "date": "2026-11-18",
+    "file": "data/posts/2026/11/2026-11-18.jsonl",
+    "fingerprint": "4563455d288af57d60297ea7e997b943a6e88fd08072f18db91fa255b7974020",
+    "media": [
+      {
+        "local_path": "assets/images/2026/11/18/2122902226868076552-1.jpg",
+        "sha256": "cc5801f51eb939bdad01bcda917e956582267fac2e5090998f889a9bc5642b94",
+        "source_url": "https://pbs.twimg.com/media/HXYQP3CXYAA5129.jpg?name=orig"
+      }
+    ]
   }
 }
