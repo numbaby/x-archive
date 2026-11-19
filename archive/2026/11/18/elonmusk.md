@@ -2,7 +2,15 @@
 
 ## 📅 November 18, 2026
 
-> 28 post(s) archived.
+> 32 post(s) archived.
+
+---
+
+### 🕐 23:50 UTC · @elonmusk
+
+> Elon Musk reveals how Starlink saved Ukraine from collapse, and sets the record straight on claims he throttled it: “There is no private individual who has helped Ukraine more than I have. I made sure that Starlink was in Ukraine, prepositioned ahead of the Russian invasion.” “When Russia invaded, they disabled all communications, all cell towers, all fiber cables, and every satellite communication system. There was one system they could not disable, and that was Starlink.” “If they had not had Starlink, their entire line would have collapsed because they had no communication system, and Russia would have won. Now, does that sound like a pro-Russian action to you?” “Even to this present day, Starlink provides the backbone of communications for the Ukrainian military and for Ukraine more broadly. If we were to turn off Starlink, the entire Ukrainian front would collapse immediately.” “From the beginning, I said that Starlink is a civilian system. It is not meant to be used for offensive drone strikes that kill people. If you want to do that, you need to do Starshield, which is a separate system that is controlled by the US government.” “In the Starlink system, there is a speed limit. That speed limit is the speed of the fastest road speed limit in Ukraine, which I think is about 80 miles an hour.” “Do not ask me as a private individual to make kill decisions that sometimes result in the loss of innocent lives, not just soldiers. That is not my position to do. And yet we’ve been pressed relentlessly to do that, which I think is outrageous.” “Those are the rules that have been in place since the beginning, for years. Now people pressure me to change it, but I’m not changing it.” Media
+
+🔗 [View original post](https://x.com/KanekoaTheGreat/status/2123202170250240283)
 
 ---
 
@@ -13,6 +21,22 @@
 ![Elon - “any self respecting civilization needs to be a multi-planetary civilization… come on guys let’s represent here” I agree](../../../../assets/images/2026/11/18/2123198945992044926-1.jpg)
 
 🔗 [View original post](https://x.com/aaronburnett/status/2123198945992044926)
+
+---
+
+### 🕐 23:30 UTC · @elonmusk
+
+> 🚨 BOOM: Elon Musk just walked into the New York Times DealBook Summit and made the interviewer SQUIRM. Asked about immigration, Musk said Europe needs to stop massive ILLEGAL immigration. Small boats keep landing with unvetted people, and &quot;in some cases&quot; they &quot;do terrible things&quot; to the people who live there. Then he got to the &quot;right-wing&quot; label. &quot;If that&apos;s a right-wing view, then I guess so.&quot; He added that OBAMA AND HILLARY &quot;would say exactly what I&apos;ve said. Like, you can literally look at their speeches.&quot; The interviewer laughed nervously and covered his mouth. 🤣 Securing your border used to be common sense. The Democrats moved, not us. https://x.com/EricLDaugh/status/2123194781178245321/video/1 Media
+
+🔗 [View original post](https://x.com/GuntherEagleman/status/2123197134262477285)
+
+---
+
+### 🕐 21:41 UTC · @elonmusk
+
+> My recap from witnessing the most important engineering feat I&apos;ve ever seen at @SpaceX : SpaceX has caught boosters before. So why is catching the rocket such a big deal? @TashaARK explains what she saw live at Starbase.
+
+🔗 [View original post](https://x.com/TashaARK/status/2123169794967183595)
 
 ---
 
@@ -53,6 +77,16 @@
 > Starlink Mobile is now available in Mongolia with @mobicomofficial! For the first time, phones in areas without cell signal will automatically connect to our satellites, enabling customers to share updates via messaging apps and SMS 🛰️📱 mobispace — Connecting beyond limits... Mobicom Corporation, in partnership with Starlink Mobile, has officially launched mobispace. @Starlink Mobispace is a new service that uses Starlink’s satellite technology to help users stay connected on their phones in areas where traditi…
 
 🔗 [View original post](https://x.com/Starlink/status/2123132631596556767)
+
+---
+
+### 🕐 18:27 UTC · @elonmusk
+
+> All 26 Starlink V3 satellites launched on Starship Flight 15 are now operational Those 26 satellites added 26 Tbps of downlink and 4.2 Tbps of uplink capacity to the Starlink network A typical Falcon 9 V2 Mini launch adds about 2.59 Tbps, so one Starship launch delivered the capacity of 10 Falcon 9 launches All 4 Starlink launches in October added 10.4 Tbps combined. Flight 15 added 2.5x that in a single flight Starlink now has 11,210 active satellites delivering 946.7 Tbps of downlink capacity, and Starship is just getting started
+
+![All 26 Starlink V3 satellites launched on Starship Flight 15 are now operational Those 26 satellites added 26 Tbps of downlink and 4.2 Tbps of uplink capacity to the Starlink network A typical Falcon ](../../../../assets/images/2026/11/18/2123121040322920458-1.jpg)
+
+🔗 [View original post](https://x.com/XFreeze/status/2123121040322920458)
 
 ---
 
