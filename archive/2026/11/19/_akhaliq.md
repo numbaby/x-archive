@@ -2,7 +2,17 @@
 
 ## 📅 November 19, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 09:56 UTC · @_akhaliq
+
+> Jeveration System One Models Now Generate paper: https://huggingface.co/papers/2611.24738
+
+![Jeveration System One Models Now Generate paper: https://huggingface.co/papers/2611.24738](../../../../assets/images/2026/11/19/2123354595061907578-1.jpg)
+
+🔗 [View original post](https://x.com/_akhaliq/status/2123354595061907578)
 
 ---
 
