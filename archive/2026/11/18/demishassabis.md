@@ -2,7 +2,17 @@
 
 ## 📅 November 18, 2026
 
-> 7 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 23:34 UTC · @demishassabis
+
+> Neon is a great model : )
+
+![Neon is a great model : )](../../../../assets/images/2026/11/18/2123198296122667053-1.jpg)
+
+🔗 [View original post](https://x.com/OfficialLoganK/status/2123198296122667053)
 
 ---
 

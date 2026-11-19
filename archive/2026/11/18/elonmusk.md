@@ -2,7 +2,7 @@
 
 ## 📅 November 18, 2026
 
-> 32 post(s) archived.
+> 35 post(s) archived.
 
 ---
 
@@ -11,6 +11,14 @@
 > Elon Musk reveals how Starlink saved Ukraine from collapse, and sets the record straight on claims he throttled it: “There is no private individual who has helped Ukraine more than I have. I made sure that Starlink was in Ukraine, prepositioned ahead of the Russian invasion.” “When Russia invaded, they disabled all communications, all cell towers, all fiber cables, and every satellite communication system. There was one system they could not disable, and that was Starlink.” “If they had not had Starlink, their entire line would have collapsed because they had no communication system, and Russia would have won. Now, does that sound like a pro-Russian action to you?” “Even to this present day, Starlink provides the backbone of communications for the Ukrainian military and for Ukraine more broadly. If we were to turn off Starlink, the entire Ukrainian front would collapse immediately.” “From the beginning, I said that Starlink is a civilian system. It is not meant to be used for offensive drone strikes that kill people. If you want to do that, you need to do Starshield, which is a separate system that is controlled by the US government.” “In the Starlink system, there is a speed limit. That speed limit is the speed of the fastest road speed limit in Ukraine, which I think is about 80 miles an hour.” “Do not ask me as a private individual to make kill decisions that sometimes result in the loss of innocent lives, not just soldiers. That is not my position to do. And yet we’ve been pressed relentlessly to do that, which I think is outrageous.” “Those are the rules that have been in place since the beginning, for years. Now people pressure me to change it, but I’m not changing it.” Media
 
 🔗 [View original post](https://x.com/KanekoaTheGreat/status/2123202170250240283)
+
+---
+
+### 🕐 23:50 UTC · @elonmusk
+
+> What happened… Elon: Do not use Starlink to kill. Zelensky: I used Starlink to kill. Legacy Media: Elon is evil for stopping Zelensky from using Starlink to kill. Democrats: We must investigate Elon for stopping Zelensky from using Starlink to kill. It’s really that simple.
+
+🔗 [View original post](https://x.com/C_3C_3/status/2123202151300448721)
 
 ---
 
@@ -37,6 +45,16 @@
 > My recap from witnessing the most important engineering feat I&apos;ve ever seen at @SpaceX : SpaceX has caught boosters before. So why is catching the rocket such a big deal? @TashaARK explains what she saw live at Starbase.
 
 🔗 [View original post](https://x.com/TashaARK/status/2123169794967183595)
+
+---
+
+### 🕐 21:33 UTC · @elonmusk
+
+> Gemini 4 Neon: frontier-level intelligence with fast end-to-end task completion across complex software engineering, knowledge work, and science workflows. Begins rolling out today in the Gemini API in @GoogleAIStudio, Gemini for business, for paid Google AI Pro and Ultra subscribers in Google @Antigravity, and for Google AI Pro and Ultra subscribers in the @GeminiApp.
+
+![Gemini 4 Neon: frontier-level intelligence with fast end-to-end task completion across complex software engineering, knowledge work, and science workflows. Begins rolling out today in the Gemini API i](../../../../assets/images/2026/11/18/2123168218743554465-1.png)
+
+🔗 [View original post](https://x.com/sundarpichai/status/2123167780988125621)
 
 ---
 
@@ -247,6 +265,14 @@
 > Grok @Bot can do your accounting Five Bots now have full-time roles on our accounting team. We onboard, train, and manage them just like human teammates. Here&apos;s how we built them to handle the order-to-cash process, from provisioning customer accounts to collecting payments. https://x.ai/news/grok-bot-accountin…
 
 🔗 [View original post](https://x.com/elonmusk/status/2122891480729829482)
+
+---
+
+### 🕐 02:02 UTC · @elonmusk
+
+> 60,000 deliveries. ありがとう❤️ 多くのお客様に支えられて、国内60,000台目のテスラをお届けしました。テスラを選んでくださった皆さまに心から感謝いたします。 これからも日本のお客様の声に耳を傾け、乗るたびに心が動く体験をつくっていきます。
+
+🔗 [View original post](https://x.com/Tesla_Asia/status/2122873047602675832)
 
 ---
 

@@ -2,7 +2,23 @@
 
 ## 📅 November 19, 2026
 
-> 11 post(s) archived.
+> 13 post(s) archived.
+
+---
+
+### 🕐 02:31 UTC · @elonmusk
+
+> Elon Musk says SpaceX’s StarMind orbital AI satellite is a “much easier” engineering problem than Starlink V3: “I’m not sure why people think that making an AI satellite would be hard, given that SpaceX already has over 11,000 satellites in orbit, which is, I think, twice as much as the rest of the world combined.” “The StarMind satellite, which is the name for our overall compute system, is simpler, not harder than, say, the Starlink V3 communication satellite, which is an incredibly complex orbital radio station.” “It’s got the most advanced phased array antennas that have ever been made, far more advanced than anything that any military has at any price.” “Compared to that, the AI satellite is much, much easier, because it really just consists of a very large array of solar panels and a radiator.” “You’re gonna have about five times as much solar panel area as you will have radiator area. And that’s just basic physics.” “Then you have the star computer at the center, which would be physically about a quarter of the size of, say, a Vera Rubin NVL rack while having all of the capability of a Vera Rubin NVL72.” “I can’t emphasize enough that the StarMind satellite is a much easier technical problem than Starlink V3 communication satellite. I’m not saying it’s trivial, but it’s not as hard as what we’re already doing.” Media
+
+🔗 [View original post](https://x.com/KanekoaTheGreat/status/2123242707560857836)
+
+---
+
+### 🕐 01:38 UTC · @elonmusk
+
+> Elon Musk says Neuralink’s next product, Blindsight, will enable people who are completely blind to see: “Our next product is what we call Blindsight.” “Blindsight is a neural implant that interfaces directly with the visual cortex and enables people who are completely blind to see.” “You’re wearing glasses or something like that that have a camera. That camera is transmitting to the Neuralink device that then transfers the signals to your visual cortex.” “Enabling someone who is completely blind, meaning blind in both eyes or lost the optic nerve, potentially someone who has been blind from birth, to see.” Media
+
+🔗 [View original post](https://x.com/KanekoaTheGreat/status/2123229499626287113)
 
 ---
 
