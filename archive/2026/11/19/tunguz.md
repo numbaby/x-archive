@@ -2,7 +2,23 @@
 
 ## 📅 November 19, 2026
 
-> 20 post(s) archived.
+> 22 post(s) archived.
+
+---
+
+### 🕐 18:58 UTC · @tunguz
+
+> X is where technology comes to chat. The biggest tech companies and the socials they dominate:
+
+🔗 [View original post](https://x.com/tunguz/status/2123491207632343359)
+
+---
+
+### 🕐 18:30 UTC · @tunguz
+
+> Gemini 4 Unobtainium is ASI.
+
+🔗 [View original post](https://x.com/tunguz/status/2123483987817668625)
 
 ---
 

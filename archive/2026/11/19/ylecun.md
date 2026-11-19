@@ -2,7 +2,15 @@
 
 ## 📅 November 19, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 17:50 UTC · @ylecun
+
+> Can a JEPA learn a latent map of the world? We released a new paper with @yingwww_ @choang333 @KuangYilun @ylecun 🧵 Media
+
+🔗 [View original post](https://x.com/mengyer/status/2123473934129791032)
 
 ---
 

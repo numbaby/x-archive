@@ -2,7 +2,15 @@
 
 ## 📅 November 19, 2026
 
-> 6 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 18:26 UTC · @_akhaliq
+
+> And here I was thinking that image generation required some form of an iterative denoising or autoregressive decoding to work. Somehow these folks made parallel generation (of 128 discrete img tokens with bidir attn) work in one go. It&apos;s like Janus-Pro but with block decoding as opposed to token by token. Training compute is nice too: seems to be trained on only four 96gb gpus for around 400 total GPU hours starting from Qwen 3.5 4b with lora and reaches 0.74 geneval score while being a unified model (though standard vlm vqa / understanding scores aren&apos;t reported, so I wouldn&apos;t expect it to retain much capability there) Jeveration System One Models Now Generate paper: https://huggingface.co/papers/2611.24738
+
+🔗 [View original post](https://x.com/a_uselis/status/2123483101917491368)
 
 ---
 

@@ -2,7 +2,27 @@
 
 ## 📅 November 19, 2026
 
-> 5 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 17:47 UTC · @swyx
+
+> lifetime views
+
+![lifetime views](../../../../assets/images/2026/11/19/2123473262185509174-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2123473262185509174)
+
+---
+
+### 🕐 17:29 UTC · @swyx
+
+> 1 million views. Our fastest talk to get there. @poteto of @SpaceXSI on the engineering behind 11,000 production PRs in one month. All Code Is Slop (Except Mine). Watch: https://www.youtube.com/watch?v=O_zcc6Xl12g
+
+![1 million views. Our fastest talk to get there. @poteto of @SpaceXSI on the engineering behind 11,000 production PRs in one month. All Code Is Slop (Except Mine). Watch: https://www.youtube.com/watch?](../../../../assets/images/2026/11/19/2123468745708597345-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2123468745708597345)
 
 ---
 
