@@ -2,7 +2,15 @@
 
 ## 📅 November 19, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 13:59 UTC · @rasbt
+
+> Shipping without the drama is an underrated skill Feels like a turning point... On the day OpenAI ships their worst ever model releases, Google ships the best model they, or indeed anyone, has ever made.
+
+🔗 [View original post](https://x.com/rasbt/status/2123415801105445340)
 
 ---
 

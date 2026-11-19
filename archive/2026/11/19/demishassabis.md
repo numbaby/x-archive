@@ -2,7 +2,15 @@
 
 ## 📅 November 19, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 04:16 UTC · @demishassabis
+
+> Gemini Neon just beat Fable 5.2 in nearly everything I tried tonight. Is this supposed to be a cheap model? What is going on?
+
+🔗 [View original post](https://x.com/VictorTaelin/status/2123269115276046665)
 
 ---
 
