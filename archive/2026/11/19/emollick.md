@@ -2,7 +2,15 @@
 
 ## 📅 November 19, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 20:55 UTC · @emollick
+
+> Playing GTA &amp; not following the Anthropic IPO? Following the IPO &amp; not playing GTA? Why not both? I had Fable make a thing where you steal cars &amp; go on missions in a world where everything from your wanted level to weather is driven by ANT&apos;s stock price https://market-order-city.netlify.app/ Media
+
+🔗 [View original post](https://x.com/emollick/status/2123520499368263977)
 
 ---
 

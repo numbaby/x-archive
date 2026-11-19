@@ -2,7 +2,23 @@
 
 ## 📅 November 19, 2026
 
-> 4 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 21:30 UTC · @omarsar0
+
+> I think model routing deserves more attention in agent development. Drex Router is a small model that picks which model to use at each step. This provides a way to match the model to the task as the agent works. Introducing Drex Router. A small model that picks the right LLM/SLM and reasoning effort for every step your agent takes. Accuracy: Drex Router 87.6% vs. Jev Router’s 86.4% Try it: https://console.nace.ai COMMENT DREX and get extra $5 in API credits
+
+🔗 [View original post](https://x.com/omarsar0/status/2123529283368886709)
+
+---
+
+### 🕐 20:50 UTC · @omarsar0
+
+> Introducing Higgsfield GPU Harness. Rent on-demand GPUs in Claude and ChatGPT to render, run open-weight models and train LoRAs. Let several AI agents work on your professional apps in the cloud at once, from any device. Black Friday deal, live now: get GPUs at up to 64% OFF. Media
+
+🔗 [View original post](https://x.com/higgsfield/status/2123519417610825890)
 
 ---
 

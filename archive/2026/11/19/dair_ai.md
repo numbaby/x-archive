@@ -2,7 +2,17 @@
 
 ## 📅 November 19, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 20:45 UTC · @dair_ai
+
+> Great paper from MIT and NVIDIA. I think this is an important step toward personalized, accessible RSI. The best recipe changes with every model and precision, so experts usually redesign it by hand. QDA hands that loop to an agent that builds and tests candidates over many rounds. They show that QDA beats the strongest public recipes by 0.9, 1.4 and 2.2 points at W4A16, W4A8 and W3A16, using 64 GPU-hours per search. Evaluation speed is what makes this work. Scoring one quantized reasoning model normally takes tens of GPU-hours. QDA scores each candidate in minutes by measuring its output KL divergence from the original model on reasoning traces the agent never sees. Promising candidates then get long generations to catch repetition loops. A shared library of public PTQ methods lets the agent combine them without porting each codebase by hand. On the 320B MoE GLM-5.3-Flash at NVFP4 W4A4, QDA recovered 98.3% of FP8 accuracy, against 96.9% for the best vendor checkpoint. Every checkpoint runs on existing serving kernels with no inference overhead. https://arxiv.org/abs/2611.23388 Chat with Paper: https://academy.dair.ai/papers/qda-closed-loop-llm-quantization-design-with-agents-2611.23388
+
+![Great paper from MIT and NVIDIA. I think this is an important step toward personalized, accessible RSI. The best recipe changes with every model and precision, so experts usually redesign it by hand. ](../../../../assets/images/2026/11/19/2123517934974955558-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2123517934974955558)
 
 ---
 
