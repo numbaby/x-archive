@@ -159808,6 +159808,19 @@
     "fingerprint": "1ad1d1449a0ebc959114def54b79e38a70ef69a7a1d55d70531901f9fdd6c3ce",
     "media": []
   },
+  "2123313372510998911": {
+    "account": "ylecun",
+    "date": "2026-11-19",
+    "file": "data/posts/2026/11/2026-11-19.jsonl",
+    "fingerprint": "fb96a080dd30fdcfcfa6b0f2e86504f7f9a9eb8b507cc80a4ee95ae58cc8992e",
+    "media": [
+      {
+        "local_path": "assets/images/2026/11/19/2123313372510998911-1.jpg",
+        "sha256": "e8693c481a7ec9b781d1fed3e06fdb297bc80415c5c33e0da55925df4f424e7b",
+        "source_url": "https://pbs.twimg.com/media/HXeFvVkbIAEuG06.jpg?name=orig"
+      }
+    ]
+  },
   "2123317934747746611": {
     "account": "elonmusk",
     "date": "2026-11-19",
@@ -159908,6 +159921,41 @@
     "date": "2026-11-19",
     "file": "data/posts/2026/11/2026-11-19.jsonl",
     "fingerprint": "ed3950314dedc47855a9697063c58d01f54ec5a2247809348884e9528ee526a6",
+    "media": []
+  },
+  "2123388911426687104": {
+    "account": "tunguz",
+    "date": "2026-11-19",
+    "file": "data/posts/2026/11/2026-11-19.jsonl",
+    "fingerprint": "9a9ab14afceaef34794b33a02e37f5d1344cd009219fb18558a9e3323e798bb6",
+    "media": []
+  },
+  "2123394755115790458": {
+    "account": "tunguz",
+    "date": "2026-11-19",
+    "file": "data/posts/2026/11/2026-11-19.jsonl",
+    "fingerprint": "d85c09dd9d3372a82b3e137cb26f76c48098803fe16729fb03413b05284936c4",
+    "media": []
+  },
+  "2123396217736720770": {
+    "account": "tunguz",
+    "date": "2026-11-19",
+    "file": "data/posts/2026/11/2026-11-19.jsonl",
+    "fingerprint": "7c8f600f31e1cee932c0bc65b002bb63542617ae360eaceb47a873fd90790179",
+    "media": []
+  },
+  "2123396490311917940": {
+    "account": "tunguz",
+    "date": "2026-11-19",
+    "file": "data/posts/2026/11/2026-11-19.jsonl",
+    "fingerprint": "47638293c321cb6161481b973fafc085ceae0978facd16d86a6d708c44b4f792",
+    "media": []
+  },
+  "2123400985842463221": {
+    "account": "AiEvolutio58513",
+    "date": "2026-11-19",
+    "file": "data/posts/2026/11/2026-11-19.jsonl",
+    "fingerprint": "d7387207d8417f277541d6d1d3412a0534c183ec49540d46d288d0d5eca3ce21",
     "media": []
   }
 }

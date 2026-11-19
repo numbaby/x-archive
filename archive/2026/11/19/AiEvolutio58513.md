@@ -2,7 +2,15 @@
 
 ## 📅 November 19, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 13:00 UTC · @AiEvolutio58513
+
+> Sam Altman says his son will never be smarter than AI: &quot;My kid will never grow up... will never ever be smarter than an AI. That will never happen.&quot; &quot;They&apos;ll never know a world where products and services aren&apos;t way smarter than them and super capable.&quot; &quot;I already think college is like maybe not working great for most people... Fast forward 18 years, it&apos;s going to look like a very, very different thing.&quot; &quot;I actually think the kids will be fine. I&apos;m worried about the parents.&quot; Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media Elon Musk on the one transplant nobody has ever had: &quot;You can get a heart transplant, you can get a kidney transplant, but I don&apos;t know anyone who&apos;s gotten a brain transplant&quot; &quot;So, you are your brain&quot; &quot;Your experiences are these neurons firing, with trillions of synapses that so…
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2123400985842463221)
 
 ---
 
