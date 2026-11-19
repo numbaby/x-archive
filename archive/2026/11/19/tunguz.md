@@ -2,7 +2,33 @@
 
 ## 📅 November 19, 2026
 
-> 15 post(s) archived.
+> 18 post(s) archived.
+
+---
+
+### 🕐 17:17 UTC · @tunguz
+
+> It is finished. Our Anthropic overlords deciding which prompts the peasants are allowed to use.
+
+🔗 [View original post](https://x.com/tunguz/status/2123465756905992530)
+
+---
+
+### 🕐 16:43 UTC · @tunguz
+
+> The real lesson here is that access to capital markets and distribution beat access to raw talent and innovation. It’s the original bitter pill. Software the whole world runs on today, made by Europeans: Linux 🇫🇮 Git 🇫🇮 Python 🇳🇱 PHP 🇩🇰 C++ 🇩🇰 TypeScript 🇩🇰 Ruby on Rails 🇩🇰 MySQL 🇸🇪 Erlang 🇸🇪 Pascal 🇨🇭 The Web 🇬🇧 Europe didn&apos;t fail at building tech. It failed at keeping the companies.
+
+🔗 [View original post](https://x.com/tunguz/status/2123457183106891855)
+
+---
+
+### 🕐 16:40 UTC · @tunguz
+
+> Still my favorite Jensen work.
+
+![Still my favorite Jensen work.](../../../../assets/images/2026/11/19/2123456444926509397-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2123456444926509397)
 
 ---
 

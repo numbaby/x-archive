@@ -2,7 +2,59 @@
 
 ## 📅 November 19, 2026
 
-> 24 post(s) archived.
+> 30 post(s) archived.
+
+---
+
+### 🕐 16:33 UTC · @elonmusk
+
+> BREAKING: Anthropic CEO Dario Amodei praises SpaceX and says his company is enjoying working with SpaceX. “We&apos;re finding that compute to be high quality. We&apos;re enjoying working with SpaceX.” Media
+
+🔗 [View original post](https://x.com/cb_doge/status/2123454575038677045)
+
+---
+
+### 🕐 16:17 UTC · @elonmusk
+
+> Haven&apos;t tried Grok Bot making a phone call yet? Watch this, then give it a try. Live transcripts is a seriously useful tool. Media
+
+🔗 [View original post](https://x.com/Texas_Twins_Dad/status/2123450561509138521)
+
+---
+
+### 🕐 16:04 UTC · @elonmusk
+
+> Starlink Mobile is now live in Mongolia! Our complementary layer of coverage enables customers to stay connected on their phones across the country&apos;s vast geography from the Gobi Desert to mountains and grassy plains. mobispace — Connecting beyond limits... Mobicom Corporation, in partnership with Starlink Mobile, has officially launched mobispace. @Starlink Mobispace is a new service that uses Starlink’s satellite technology to help users stay connected on their phones in areas where traditi…
+
+🔗 [View original post](https://x.com/SRBednarek/status/2123447242249932955)
+
+---
+
+### 🕐 15:54 UTC · @elonmusk
+
+> People usually see the one deal and think that’s the whole thing, but the ones who know realize that it’s years of work, micro victories and failures stacked on top of one another. It’s really the manifestation of trust. The folks that trusted us, our vision and our thesis, and leaders of companies that trusted that we would bring more than money. Kind of cool when that works out. Congrats to @DarioAmodei and the whole team at Anthropic. Congrats to the LPs that supported us. Congrats to our team that helped us craft and execute a vision. And thank you to those who didn’t believe in us. You made us work harder. Love you @guyoseary @epsteineffie
+
+🔗 [View original post](https://x.com/aplusk/status/2123444817602748717)
+
+---
+
+### 🕐 14:31 UTC · @elonmusk
+
+> 🚨 马斯克来上海了！好羡慕上海特斯拉的员工啊！🤣🚀 老马晚上直接从深圳飞到上海，前往特斯拉工厂与中国员工见面，还一起拍了大合照！ 哈哈哈哈，这次老马终于站在 C 位了！😂 现场他还分享了一段很有意义的话： “把时间和资源用在让自己成为真正有用的人上，研发制造真正对人类有用的产品。摒弃短期投机思维，去做真正重要的事。” 不得不说，这段话还是挺值得思考的。 期待现场视频！🎬 兄弟们，有没有上海特斯拉的员工在现场？👀
+
+![🚨 马斯克来上海了！好羡慕上海特斯拉的员工啊！🤣🚀 老马晚上直接从深圳飞到上海，前往特斯拉工厂与中国员工见面，还一起拍了大合照！ 哈哈哈哈，这次老马终于站在 C 位了！😂 现场他还分享了一段很有意义的话： “把时间和资源用在让自己成为真正有用的人上，研发制造真正对人类有用的产品。摒弃短期投机思维，去做真正重要的事。” 不得不说，这段话还是挺值得思考的。 期待现场视频！🎬 兄弟们，有没有上海特斯拉的](../../../../assets/images/2026/11/19/2123424019022299469-1.jpg)
+
+🔗 [View original post](https://x.com/gaooofy/status/2123424019022299469)
+
+---
+
+### 🕐 13:39 UTC · @elonmusk
+
+> BREAKING: Elon Musk visited Tesla&apos;s Giga Shanghai today to personally thank the China and Asia-Pacific teams 🇨🇳 He flew in from Shenzhen and talked about FSD and Optimus. &quot;Let&apos;s make the future look like the future.&quot; – Elon Musk
+
+![BREAKING: Elon Musk visited Tesla&apos;s Giga Shanghai today to personally thank the China and Asia-Pacific teams 🇨🇳 He flew in from Shenzhen and talked about FSD and Optimus. &quot;Let&apos;s make th](../../../../assets/images/2026/11/19/2123410726111134071-1.jpg)
+
+🔗 [View original post](https://x.com/cb_doge/status/2123410726111134071)
 
 ---
 
