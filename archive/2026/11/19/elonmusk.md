@@ -2,7 +2,15 @@
 
 ## 📅 November 19, 2026
 
-> 15 post(s) archived.
+> 18 post(s) archived.
+
+---
+
+### 🕐 06:13 UTC · @elonmusk
+
+> Yes. Only questions are how fast the singularity will grow and to what size. guys we&apos;re in the fucking singularity. oh my god. i just forget sometimes and then wake up in the middle of the night like oh my god its all happening
+
+🔗 [View original post](https://x.com/elonmusk/status/2123298515573207075)
 
 ---
 
@@ -11,6 +19,16 @@
 > Exactly Elon Musk sets the record straight after years of being falsely accused of turning off Starlink to stop Ukraine&apos;s offensive strike against the Russian fleet in Sevastopol Even Walter Isaacson acknowledged that his book got this crucial detail wrong “And we&apos;ve not turned off Star…
 
 🔗 [View original post](https://x.com/elonmusk/status/2123288098331414533)
+
+---
+
+### 🕐 04:39 UTC · @elonmusk
+
+> Elon gave two talks today at DealBook and TomorrowX Summit, revealing more about SpaceX&apos;s plans than most earnings calls. Here are the 11 key takeaways: 1. SpaceX is scaling AI compute at an extraordinary pace: SpaceX is adding roughly 500 MW monthly, equivalent to 220,000 GB300s. Elon expects over 1 GW monthly by end-2027: a 6 GW annualized pace today, doubling to 12 GW. 2. Its build costs are far below industry estimates: Elon says outside estimates are off by up to 2x, with SpaceX building at roughly 60% of industry costs. Its in-house &quot;Army X&quot; builds the data centers, while Tesla Megapacks smooth training power. I&apos;d already been modeling a 25–30% SpaceX cost advantage. 3. Anthropic could become a 10 GW customer: Anthropic told Elon its most likely outcome is renting another 10 GW from SpaceX, on top of existing capacity. Contracts allow termination with 3–6 months&apos; notice, but Anthropic says staying is &quot;extremely likely.&quot; This reinforces my model that Anthropic will take most upcoming capacity. 4. SpaceX is targeting a vastly larger telecom market: Elon argues AT&amp;T and Verizon won&apos;t disappear as bandwidth demand explodes. Humans communicate at roughly 100 bits per second, while superintelligence and robots could require a trillion. SpaceX is targeting a market orders of magnitude larger than existing telecom revenue, as I&apos;d modeled. Even more interestingly, this creates an opportunity to push its AI business further. 5. Its next-generation satellite network arrives next year: Direct to Cell V2 launches with 40x V1&apos;s bandwidth. Micro cell towers using 800 MHz and rooftop units resembling Starlink dishes will extend indoor coverage, with rooftop hardware entering production next year. Starlink is becoming a full scale carrier. 6. SpaceXSI has rebuilt its entire AI software stack: Over six to eight months, it rewrote training, reinforcement learning, and inference from scratch, close to the metal in C and C++. Elon thinks it &quot;might have the best training stack software in the world.&quot; Grok 4.8 is also being built for practical usefulness rather than benchmark leadership, which is great for Grokbot. 7. Terafab could become the largest project on Earth: The facility is planned to reach 100 million square feet, with phase-one volume production targeted for late 2028. Elon says established chipmakers are risk-averse because of massive capex, while SpaceX will take risks and iterate rapidly toward a better chip process by 2028. 8. Optimus is moving toward industrial work: Elon expects an unstaged demonstration in a month or two and says Optimus could do dishes within 12–18 months. Its first major industrial role will be mining and refining ore for national security. 9. A Tesla–SpaceX merger is becoming increasingly logical: Elon says the companies are &quot;probably&quot; better together as AI and robotics bring them closer. Both have AI software teams and advanced chip-design capabilities, while superintelligence compute could eventually move into orbit. Shareholders will decide; Elon says he shouldn&apos;t receive an award simply for merging them. 10. Ship 42 could accelerate the entire Starship reuse program: Ship 42 needed only minor repairs before flying again, but SpaceX is retiring it for public display. This brings rapid reuse much closer. 11. SpaceX is targeting 200 GW of annual solar manufacturing for space: That&apos;s roughly 40% of average US electricity consumption. Its Starmind compute unit delivers the same capability at roughly a quarter the size of a Vera Rubin NVL72 rack, which is a win in space. Elon says it&apos;s also simpler than Starlink V3, which is already in production. Simply put, SpaceX is building toward a trillion-dollar annual revenue business within just a few years, at scale never seen before. Many of these numbers I&apos;ve already modeled and shared over the past few months. Yesterday&apos;s announcements bring those projections closer to reality. The scale of what&apos;s coming is extraordinary!
+
+![Elon gave two talks today at DealBook and TomorrowX Summit, revealing more about SpaceX&apos;s plans than most earnings calls. Here are the 11 key takeaways: 1. SpaceX is scaling AI compute at an extr](../../../../assets/images/2026/11/19/2123274994952065291-1.jpg)
+
+🔗 [View original post](https://x.com/marsrepublica/status/2123274994952065291)
 
 ---
 
@@ -83,6 +101,16 @@
 > Elon Musk predicts 100% of superintelligence compute will be in space, and says Tesla and SpaceX would “probably” be better together: “If you look into the future, orbital compute is really going to be where things scale to.” “In the future, the amount of superintelligence compute that is on Earth will round down to 0% and superintelligence compute in space will round up to 100%.” “Now remember these words, because that sounds like a preposterous thing to say.” “I think superintelligence compute [on Earth] will be less than 0.4% of compute. Therefore, orbital compute will round up to 100%. And I think this is a relatively easy prediction to make, and it’s simply a matter of time before that happens.” Would Tesla and SpaceX be better together? “Probably yes. Now, this is not like let’s merge the companies no matter what. These require shareholder votes, which may or may not succeed, at least in the case of Tesla.” “I can’t just drag them into a non-economic merger that is bad for them, because I’ll obviously get sued.” “It really is just a question of, do SpaceX and Tesla execute better together and create more value than if they’re apart?” Media
 
 🔗 [View original post](https://x.com/KanekoaTheGreat/status/2123212134175949267)
+
+---
+
+### 🕐 00:29 UTC · @elonmusk
+
+> $SPCX: Satya Nadella says Microsoft would rent SpaceX compute. Asked at DealBook whether Musk is right about data centers in space: &quot;If he has SpaceX capacity that I can lease, I would lease it.&quot;
+
+![$SPCX: Satya Nadella says Microsoft would rent SpaceX compute. Asked at DealBook whether Musk is right about data centers in space: &quot;If he has SpaceX capacity that I can lease, I would lease it.&](../../../../assets/images/2026/11/19/2123211962289176891-1.jpg)
+
+🔗 [View original post](https://x.com/SpaceInvestor_D/status/2123211962289176891)
 
 ---
 
