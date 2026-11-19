@@ -2,7 +2,23 @@
 
 ## 📅 November 19, 2026
 
-> 18 post(s) archived.
+> 20 post(s) archived.
+
+---
+
+### 🕐 18:14 UTC · @tunguz
+
+> He&apos;s a ten but he is in charge of naming Gemini models.
+
+🔗 [View original post](https://x.com/tunguz/status/2123480070652117284)
+
+---
+
+### 🕐 17:27 UTC · @tunguz
+
+> Semiconductors are sandcastles.
+
+🔗 [View original post](https://x.com/tunguz/status/2123468107528515708)
 
 ---
 

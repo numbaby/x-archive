@@ -2,7 +2,15 @@
 
 ## 📅 November 19, 2026
 
-> 5 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 16:08 UTC · @_akhaliq
+
+> Every dependency is a potential vulnerability, so in Gradio 7, we&apos;ll be cutting our dependencies in half! Media
+
+🔗 [View original post](https://x.com/abidlabs/status/2123448313869729883)
 
 ---
 

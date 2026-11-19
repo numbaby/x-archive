@@ -2,7 +2,33 @@
 
 ## 📅 November 19, 2026
 
-> 3 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 17:19 UTC · @AiEvolutio58513
+
+> Got deals set to close by Dec 31? In 2025, 40% missed that date. Here’s why 👇 Your CRM says December. The buyer has said something drastically different over email. Ergo flags the deal and drafts the follow-ups. Sales teams at @retellai and @usepylon use @joinergo. We&apos;re backed by @ycombinator. Book a call at joinergo [dot] com. Media
+
+🔗 [View original post](https://x.com/yashdulla/status/2123466274177192333)
+
+---
+
+### 🕐 17:11 UTC · @AiEvolutio58513
+
+> Being able to do this from within Claude is amazing. “Worth a look?” was the last line of the sponsorship email I sent to 11 people. The sentence before it is the one I’d use again. I typed my request in Claude, and @lemlist drafted a four-step email sequence for my sponsorship list. When I opened the first email in lemlist, the o…
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2123464199968059616)
+
+---
+
+### 🕐 16:24 UTC · @AiEvolutio58513
+
+> “Worth a look?” was the last line of the sponsorship email I sent to 11 people. The sentence before it is the one I’d use again. I typed my request in Claude, and @lemlist drafted a four-step email sequence for my sponsorship list. When I opened the first email in lemlist, the offer and “Worth a look?” were already there, one right after the other. I kept both. I sent just the first email. The subject line was “[Company] + the ecommerce operators I write for.” In the email, I got more specific about who reads my newsletter: people who run email and retention at Shopify stores. I included my LinkedIn and X audience numbers too, but if you sell software to those teams, knowing who reads the newsletter tells you more about fit than my follower count does. Then came the offer: “If you have a push coming in Q1, I can send the sponsorship sheet with placements and rates.” One of the 11 people I emailed said they’d take a look at the sheet, so I sent it over the next morning. They had my placements and rates without having to book a call. If you want to try this with your own list, here’s the lemlist MCP I used: https://www.lemlist.com/product/lemlist-mcp?utm_source=x&amp;utm_campaign=influ_chasedimond&amp;utm_content=post2 If someone replied “sure” to your last cold email, what would you send them next?
+
+![“Worth a look?” was the last line of the sponsorship email I sent to 11 people. The sentence before it is the one I’d use again. I typed my request in Claude, and @lemlist drafted a four-step email se](../../../../assets/images/2026/11/19/2123452466486559071-1.jpg)
+
+🔗 [View original post](https://x.com/ecomchasedimond/status/2123452466486559071)
 
 ---
 

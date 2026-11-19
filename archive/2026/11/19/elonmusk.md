@@ -2,7 +2,23 @@
 
 ## 📅 November 19, 2026
 
-> 30 post(s) archived.
+> 32 post(s) archived.
+
+---
+
+### 🕐 17:56 UTC · @elonmusk
+
+> You can create an entire company made of Grok Bots! I wake up in the morning, and Grok Bot has already opened multiple PRs, run the tests, and merged them. Having Grok Bot is like hiring a team that never sleeps.
+
+🔗 [View original post](https://x.com/elonmusk/status/2123475464043786417)
+
+---
+
+### 🕐 16:48 UTC · @elonmusk
+
+> Dario Amodei on SpaceX compute: “We’re finding that compute to be high quality. We’re enjoying working with SpaceX” SORKIN: “One of the partners that I spoke to yesterday was Elon Musk, and you use him for compute. And there’s been some speculation that when those contracts come up, or at least the first time they’re available, you might try to scale back some of your use of SpaceX compute and move elsewhere. True, untrue?” DARIO: “I mean, you can’t be sure what you’re going to do in the future, but we’re finding that compute to be high quality. We’re enjoying working with SpaceX.” Media Dario Amodei says Anthropic could drive at 200 miles an hour but chooses 90 “So this is one of the central tensions at the heart of the company, but it’s really because this technology is so powerful, it has so many effects in the world. It’s something that every company in this…
+
+🔗 [View original post](https://x.com/firesidealpha/status/2123458524999307387)
 
 ---
 
