@@ -2,7 +2,15 @@
 
 ## 📅 November 19, 2026
 
-> 13 post(s) archived.
+> 14 post(s) archived.
+
+---
+
+### 🕐 04:29 UTC · @elonmusk
+
+> 4 years ago @Kasparov63 We gave Starlinks to Ukraine &amp; lost $80M+ in doing so, while putting SpaceX &amp; myself at serious risk of Russian cyberattack. What have you done besides tweet?
+
+🔗 [View original post](https://x.com/elonmusk/status/2123272422719967730)
 
 ---
 
