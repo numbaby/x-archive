@@ -2,7 +2,65 @@
 
 ## 📅 November 19, 2026
 
-> 8 post(s) archived.
+> 15 post(s) archived.
+
+---
+
+### 🕐 14:38 UTC · @tunguz
+
+> Exactly. Or if you absolutely need an ML model, use XGBoost. PRO TIP Don’t build a neural network where a lookup table suffices
+
+🔗 [View original post](https://x.com/tunguz/status/2123425809876783390)
+
+---
+
+### 🕐 14:36 UTC · @tunguz
+
+> Shipping will continue until morale improves. No way! ANOTHER Gemini incoming? Give me a pause Google. What are they doing right now?! Every release is a banger. And Neon keeps surprising me how damn good it is!
+
+🔗 [View original post](https://x.com/tunguz/status/2123425059226407313)
+
+---
+
+### 🕐 14:35 UTC · @tunguz
+
+> I’m parting it to XGBoost. who is distilling GTA 6 into the LLMs?
+
+🔗 [View original post](https://x.com/tunguz/status/2123424936140423298)
+
+---
+
+### 🕐 13:56 UTC · @tunguz
+
+> I need an AI that can help me work with all the other AIs that I am currently using. :/
+
+🔗 [View original post](https://x.com/tunguz/status/2123415221842694207)
+
+---
+
+### 🕐 13:46 UTC · @tunguz
+
+> Try it: pip install -U mlx-learn from mlxlearn.cluster import OMeans model = OMeans(n_clusters=8192).fit(X) Benchmarks, method and known limits are in the repo: https://github.com/tabulai/mlx-learn
+
+![Try it: pip install -U mlx-learn from mlxlearn.cluster import OMeans model = OMeans(n_clusters=8192).fit(X) Benchmarks, method and known limits are in the repo: https://github.com/tabulai/mlx-learn](../../../../assets/images/2026/11/19/2123412504399495496-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2123412504399495496)
+
+---
+
+### 🕐 13:44 UTC · @tunguz
+
+> Another day, another mlx-learn update. Today we added OMeans, an even faster clustering algorithm than EMeans. It can be almost 2000X faster than sklearn KMeans on select datasets and number of clusters. mlx-learn 0.1.5 is out, with OMeans: GPU clustering for Apple silicon, nearly 2,000× faster than scikit-learn&apos;s KMeans. 8,192 centroids on MNIST, on an M5 Ultra: scikit-learn KMeans: 191 s OMeans: 103 ms That is 1,854× faster, with held-out error within 0.1%. 1/8
+
+🔗 [View original post](https://x.com/tunguz/status/2123412184034316583)
+
+---
+
+### 🕐 13:26 UTC · @tunguz
+
+> If you&apos;ve ever gone to a science/math conference and set at a presentation by a &quot;brilliant&quot; researcher you would not be surprised by this outcome at all. Ok it is kind of funny that the model that solved navier stokes failed my powerpoint benchmark
+
+🔗 [View original post](https://x.com/tunguz/status/2123407633554256219)
 
 ---
 
