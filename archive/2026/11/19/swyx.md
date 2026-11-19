@@ -2,7 +2,25 @@
 
 ## 📅 November 19, 2026
 
-> 1 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 03:43 UTC · @swyx
+
+> casting Monica Barbaro as temu Mira Murati is crazy work New trailer for Luca Guadagnino&apos;s ‘ARTIFICIAL’, starring Andrew Garfield as Sam Altman. The film follows the story involving OpenAI focused on the firing &amp; rehiring of CEO Sam Altman. In theaters on January 8.
+
+![casting Monica Barbaro as temu Mira Murati is crazy work New trailer for Luca Guadagnino&apos;s ‘ARTIFICIAL’, starring Andrew Garfield as Sam Altman. The film follows the story involving OpenAI focuse](../../../../assets/images/2026/11/19/2123260852984013045-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2123260852984013045)
+
+---
+
+### 🕐 03:38 UTC · @swyx
+
+> fcf profitable! https://x.com/biilmann/status/2123236286710645234?a=xWvmGaSk114JvBSqh74&amp;s=46 No envy towards anyone. That’s not how we operate. 93k people come and sign up for Netlify every day on average. Zero paid spend, all organic acquisition. We ask them who they are, what they are trying to build, and then we try to make them successful. Our relaunch is not some a…
+
+🔗 [View original post](https://x.com/swyx/status/2123259711785148431)
 
 ---
 
