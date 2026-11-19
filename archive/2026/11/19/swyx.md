@@ -2,7 +2,15 @@
 
 ## 📅 November 19, 2026
 
-> 8 post(s) archived.
+> 10 post(s) archived.
+
+---
+
+### 🕐 23:02 UTC · @swyx
+
+> fuuuuuuck https://x.com/zuhayeer/status/2123485713056633138?a=4ADZV_jEpIc0l0wzX5I&amp;s=46 A Staff engineer who joined @AnthropicAI in 2024 is looking at a ~$100M windfall at the $83 IPO price At least half of that is vested now. Under the lockup&apos;s early release terms, employees can sell 10% on day one, so $5M+ in cash right out the gate We priced every Anthropic engi…
+
+🔗 [View original post](https://x.com/swyx/status/2123552457649492023)
 
 ---
 
@@ -13,6 +21,14 @@
 ![yeah in nov 2026 this needs to die current end state of forge](../../../../assets/images/2026/11/19/2123537922670657753-1.jpg)
 
 🔗 [View original post](https://x.com/swyx/status/2123537922670657753)
+
+---
+
+### 🕐 20:24 UTC · @swyx
+
+> @linear was founded to build a better issue tracker, then $134M in funding and 7 years later, their CEO @karrisaarinen wrote a post titled “Issue tracking is dead”. I sat down with @cjc (COO, @linear) to talk about how they navigated that and how their GTM strategy evolved over that period. We got into: -why she stopped chasing enterprise deals three weeks after joining -why @linear has never hired a single SDR -why they won&apos;t let an LLM answer support tickets fully-autonomously and much, much, more… Enjoy! Timestamps 0:00 Intro 0:51 Meet Cristina Cordova, COO of Linear 1:39 Why Linear hired a COO at 40 people 5:01 Her work trial: a go-to-market plan for Linear 12:11 Crossing enterprise off the company goals 20:00 Why being a database behind an MCP server isn&apos;t enough 23:39 Selling after &quot;issue tracking is dead&quot; 34:40 Smaller, flatter teams and no SDRs 36:14 AI-drafted support replies with humans in charge 42:23 Why Linear doesn&apos;t do forward deployed engineering 47:53 Why some AI startups hit $100M ARR so fast 50:06 Moving from seats to usage-based pricing 57:07 Trading the 2025 enterprise roadmap for agents 1:03:28 What Linear&apos;s moat is now 1:05:54 Why not hire 100 salespeople? 1:08:59 Stripe&apos;s 40% rule for engineering headcount Link in the comments. Media
+
+🔗 [View original post](https://x.com/realbasilchatha/status/2123512769794175004)
 
 ---
 

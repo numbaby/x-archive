@@ -2,7 +2,23 @@
 
 ## 📅 November 19, 2026
 
-> 22 post(s) archived.
+> 24 post(s) archived.
+
+---
+
+### 🕐 23:34 UTC · @tunguz
+
+> All right, Neon is good.
+
+🔗 [View original post](https://x.com/tunguz/status/2123560574936089050)
+
+---
+
+### 🕐 23:27 UTC · @tunguz
+
+> One of the most exciting things about having research completely decouple from academia is that we&apos;ll finally be able to do full justice to the topic of *human* intelligence.
+
+🔗 [View original post](https://x.com/tunguz/status/2123558710362443783)
 
 ---
 
