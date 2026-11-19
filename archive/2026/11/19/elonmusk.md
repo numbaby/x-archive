@@ -2,7 +2,31 @@
 
 ## 📅 November 19, 2026
 
-> 18 post(s) archived.
+> 21 post(s) archived.
+
+---
+
+### 🕐 07:39 UTC · @elonmusk
+
+> Remember to cast your Tesla votes! Cast your vote now! (pls 😊)
+
+🔗 [View original post](https://x.com/elonmusk/status/2123320336544649485)
+
+---
+
+### 🕐 07:38 UTC · @elonmusk
+
+> Moving all text conversations to be encrypted to ensure user privacy To continue optimizing the X experience, support for legacy groups on XChat will be ending this Friday. All unencrypted conversations will become encrypted, and group members not on XChat by Friday will need to sign up for XChat to be reincluded in those conversations.
+
+🔗 [View original post](https://x.com/elonmusk/status/2123319956381339961)
+
+---
+
+### 🕐 07:30 UTC · @elonmusk
+
+> 𝕏 Money is growing fast You can now send money internationally with X Money, directly from 𝕏 X Money now supports international bank transfers to 27 countries, with recipients receiving funds in their local currency Supported countries: 🇦🇺 Australia 🇦🇹 Austria 🇧🇪 Belgium 🇨🇦 Canada 🇨🇾 Cyprus …
+
+🔗 [View original post](https://x.com/elonmusk/status/2123317934747746611)
 
 ---
 
