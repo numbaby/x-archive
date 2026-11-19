@@ -2,7 +2,15 @@
 
 ## 📅 November 19, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 11:00 UTC · @AiEvolutio58513
+
+> Elon Musk says AI will flip inflation into deflation in about 3 years, and interest rates could go to zero: &quot;AI has not yet made enough of an impact on productivity to increase the goods and services faster than the increase in the money supply.&quot; &quot;I think it&apos;s 3 years... Goods and services growth will exceed money supply growth in about 3 years.&quot; &quot;Maybe after those three years you have deflation, and then interest rates go to zero, and then the debt is a smaller problem than it is.&quot; Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media Elon Musk explains how to build an AI chip for space: make it run hot. &quot;If you increase the operating temperature by 20% in degrees Kelvin, you can cut your radiator mass in half. So running at a higher temperature is helpful in space.&quot; &quot;Neural nets are going to be very resilien…
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2123370877253550458)
 
 ---
 
