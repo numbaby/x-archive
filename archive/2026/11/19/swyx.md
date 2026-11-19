@@ -2,7 +2,17 @@
 
 ## 📅 November 19, 2026
 
-> 7 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 22:04 UTC · @swyx
+
+> yeah in nov 2026 this needs to die current end state of forge
+
+![yeah in nov 2026 this needs to die current end state of forge](../../../../assets/images/2026/11/19/2123537922670657753-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2123537922670657753)
 
 ---
 

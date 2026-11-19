@@ -2,7 +2,15 @@
 
 ## 📅 November 19, 2026
 
-> 5 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 22:18 UTC · @emollick
+
+> I suspect companies will end up frustrating a lot of customers by telling them they can’t use their own AI agents to help with their own accounts or to manage their own computer. Scaring them will only work so well for so long. As Apple develops its own computer-use agent, it’s making it harder for rival agents to control Macs. In macOS 27.3, enabling ChatGPT’s third-party computer-use support now requires 14 distinct steps, up from four. Apple cites security; Some users see anti-competitiveness.
+
+🔗 [View original post](https://x.com/emollick/status/2123541572490817605)
 
 ---
 
