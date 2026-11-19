@@ -2,7 +2,15 @@
 
 ## 📅 November 19, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 06:11 UTC · @swyx
+
+> poteto https://x.com/aiDotEngineer/status/2123068725410869585 If you keep correcting the same mistake, make it a check. @poteto of @SpaceXSI on turning corrections into deterministic checks, and keeping the codebase worth copying. From AI Engineer Code Summit.
+
+🔗 [View original post](https://x.com/swyx/status/2123298074911248526)
 
 ---
 

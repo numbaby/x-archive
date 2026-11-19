@@ -159754,6 +159754,13 @@
     "fingerprint": "52073ac1f42dfec1ee9fa7faaaaa233addb5d6997be25a832df522b2c8e34382",
     "media": []
   },
+  "2123298074911248526": {
+    "account": "swyx",
+    "date": "2026-11-19",
+    "file": "data/posts/2026/11/2026-11-19.jsonl",
+    "fingerprint": "b64651df5b19bba54081372c5889ea477b6da1b9b42beb0180e99543b459172f",
+    "media": []
+  },
   "2123298515573207075": {
     "account": "elonmusk",
     "date": "2026-11-19",
@@ -159794,6 +159801,13 @@
       }
     ]
   },
+  "2123309405013987713": {
+    "account": "elonmusk",
+    "date": "2026-11-19",
+    "file": "data/posts/2026/11/2026-11-19.jsonl",
+    "fingerprint": "1ad1d1449a0ebc959114def54b79e38a70ef69a7a1d55d70531901f9fdd6c3ce",
+    "media": []
+  },
   "2123317934747746611": {
     "account": "elonmusk",
     "date": "2026-11-19",
@@ -159814,5 +159828,46 @@
     "file": "data/posts/2026/11/2026-11-19.jsonl",
     "fingerprint": "aad205948388ff854f9b176d9d4a1037f71a094ce7d04569fbf039743fc623c0",
     "media": []
+  },
+  "2123326499818553554": {
+    "account": "AiEvolutio58513",
+    "date": "2026-11-19",
+    "file": "data/posts/2026/11/2026-11-19.jsonl",
+    "fingerprint": "81c98194425ad3b9fa1b51900d981ee5fb4af19ea2e1e9fd29c609ae07045680",
+    "media": []
+  },
+  "2123331996927897922": {
+    "account": "_akhaliq",
+    "date": "2026-11-19",
+    "file": "data/posts/2026/11/2026-11-19.jsonl",
+    "fingerprint": "7b0a51da22ac604fa1b8ab6090dd55f01ab7f0b8a9e020ccfc80b4d93dd163ba",
+    "media": []
+  },
+  "2123333341932052749": {
+    "account": "elonmusk",
+    "date": "2026-11-19",
+    "file": "data/posts/2026/11/2026-11-19.jsonl",
+    "fingerprint": "436846d8829a0b4146ecfb67548e26d0563deb121d15e7a162f76f8b3f8b0858",
+    "media": []
+  },
+  "2123337655731826810": {
+    "account": "elonmusk",
+    "date": "2026-11-19",
+    "file": "data/posts/2026/11/2026-11-19.jsonl",
+    "fingerprint": "8c83468153ee27a6caf15023225f69532ea7ab834d605b78d079c215851828b6",
+    "media": []
+  },
+  "2123338536665411658": {
+    "account": "Letstalk246",
+    "date": "2026-11-19",
+    "file": "data/posts/2026/11/2026-11-19.jsonl",
+    "fingerprint": "4bd9912a746586140c3786171a1d807a3d904abef6385d27d1bbfabf0b0aae22",
+    "media": [
+      {
+        "local_path": "assets/images/2026/11/19/2123338536665411658-1.jpg",
+        "sha256": "60ff8e0d5eaae3dd9f11f0a5dcfe7443757c508c9a799b2c0dede1d049b952d1",
+        "source_url": "https://pbs.twimg.com/media/HXedI6yWEAA2yIM.jpg?name=orig"
+      }
+    ]
   }
 }

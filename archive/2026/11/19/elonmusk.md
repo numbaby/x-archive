@@ -2,7 +2,23 @@
 
 ## 📅 November 19, 2026
 
-> 21 post(s) archived.
+> 24 post(s) archived.
+
+---
+
+### 🕐 08:48 UTC · @elonmusk
+
+> Extend consciousness to the stars Back in 2016, Elon Musk laid out the scale of what it would actually take to build a self-sustaining city on Mars The goal was to build a civilization that can survive on its own The scale Elon laid out: • ~100 people per ship • Mars launch opportunities roughly every 2 years • …
+
+🔗 [View original post](https://x.com/elonmusk/status/2123337655731826810)
+
+---
+
+### 🕐 08:31 UTC · @elonmusk
+
+> Starlink started with a speech in Seattle 🚨 ELON MUSK’S 2015 SATELLITE VISION IS NOW THE BIGGEST NETWORK ON EARTH In 2015 Elon opened SpaceX’s satellite office in Seattle and said they wanted to change satellites the same way they changed rockets. Eleven years later Starlink has more than 11,100 satellites in orbit. It…
+
+🔗 [View original post](https://x.com/elonmusk/status/2123333341932052749)
 
 ---
 
@@ -27,6 +43,14 @@
 > 𝕏 Money is growing fast You can now send money internationally with X Money, directly from 𝕏 X Money now supports international bank transfers to 27 countries, with recipients receiving funds in their local currency Supported countries: 🇦🇺 Australia 🇦🇹 Austria 🇧🇪 Belgium 🇨🇦 Canada 🇨🇾 Cyprus …
 
 🔗 [View original post](https://x.com/elonmusk/status/2123317934747746611)
+
+---
+
+### 🕐 06:56 UTC · @elonmusk
+
+> @elonmusk Asked whether he should collect Tesla compensation if SpaceX and Tesla merge, Elon Musk said no: &quot;I don&apos;t think I should be compensated with any kind of award just for doing a merger. That would be unreasonable and not right.&quot; &quot;You should keep your deals and stay true to your word.&quot; Media
+
+🔗 [View original post](https://x.com/teslaownersSV/status/2123309405013987713)
 
 ---
 
