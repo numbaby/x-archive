@@ -2,7 +2,17 @@
 
 ## 📅 November 19, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 20:20 UTC · @dair_ai
+
+> Self-improving agents are one of the most discussed ideas in AI right now. (bookmark it) This update gate for a personal health assistant rejected 20 of 21 risky self-proposed updates. Researchers built Safe Personal RSI for the Kicker assistant. The agent can only change its own instructions. Model weights and runtime code stay fixed. Each proposed update is tested against the current instructions on 29 executable email, calendar, health, and marketplace cases. Separate probes test authorization reuse, memory, and tool-output injection. Failing cases are repeated, and changes are temporarily undone to find which edit caused the failure. If no version passes, the current instructions stay. One admitted repair for GPT-5.6 Luna cut attack violations from 10.7% to 0% and raised safe task completion from 89.7% to 100%. Under stronger attacks, a repair moved from Qwen2.5-7B to Qwen3-14B, cutting violations from 69.0% to 17.9%. https://arxiv.org/abs/2611.23651 Chat with Paper: https://academy.dair.ai/papers/safe-personal-rsi-evaluating-and-repairing-personal-agent-updates-2611.23651
+
+![Self-improving agents are one of the most discussed ideas in AI right now. (bookmark it) This update gate for a personal health assistant rejected 20 of 21 risky self-proposed updates. Researchers bui](../../../../assets/images/2026/11/19/2123511637584036078-1.jpg)
+
+🔗 [View original post](https://x.com/dair_ai/status/2123511637584036078)
 
 ---
 

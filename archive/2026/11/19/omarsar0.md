@@ -2,7 +2,15 @@
 
 ## 📅 November 19, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 19:31 UTC · @omarsar0
+
+> We track our heart and our sleep every day. Focus is still mostly a guess. STASIS glasses read your eye movements throughout the day and tell you when your brain is at its peak. Eyes are a strong signal for attention. I like this as a way to plan deep work around real peak hours. Backed by YC and tested by NBA star Moses Moody, our glasses tell you when your brain peaks. Your ring tracks your heart. Your watch tracks your sleep. Nothing tracks the eyes and brain running the show. STASIS reads your 100,000+ daily eye movements to tell you: • When you’re a…
+
+🔗 [View original post](https://x.com/omarsar0/status/2123499330661122482)
 
 ---
 

@@ -2,7 +2,17 @@
 
 ## 📅 November 19, 2026
 
-> 6 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 19:58 UTC · @AiEvolutio58513
+
+> If you only email one group this week, make it the people who bought from you twice and then stopped. They know your product and liked it enough to order again. To me, they&apos;re one of the warmest groups on your list that isn&apos;t buying right now. The annoying part is pulling them out. Doing it by hand means stacking filters until the list looks right. In @omnisend, you type it the way you&apos;d say it: &quot;Customers who bought at least twice but haven&apos;t ordered in the last 60 days.&quot; It turns that into segment filters and shows you who matches before you save. If something&apos;s off, tell it what to change or edit the filters yourself. Omnisend can also suggest subject lines and help with a first draft. Edit it until it sounds like you. The segment builder and the writing help are both on the free plan. Try it on your own list: https://www.omnisend.com/?utm_source=chase
+
+![If you only email one group this week, make it the people who bought from you twice and then stopped. They know your product and liked it enough to order again. To me, they&apos;re one of the warmest ](../../../../assets/images/2026/11/19/2123506213774319929-1.png)
+
+🔗 [View original post](https://x.com/ecomchasedimond/status/2123506213774319929)
 
 ---
 
