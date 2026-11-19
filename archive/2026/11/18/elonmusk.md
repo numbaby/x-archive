@@ -2,7 +2,7 @@
 
 ## 📅 November 18, 2026
 
-> 35 post(s) archived.
+> 36 post(s) archived.
 
 ---
 
@@ -115,6 +115,14 @@
 ![The Starbase tower team on location with the first caught Starship🍌](../../../../assets/images/2026/11/18/2123097995679867195-1.jpg)
 
 🔗 [View original post](https://x.com/SpaceX/status/2123097995679867195)
+
+---
+
+### 🕐 12:42 UTC · @elonmusk
+
+> Back in 2015, Elon Musk opened SpaceX&apos;s new satellite engineering office in Seattle with an enormous ambition: “We want to revolutionize the satellite side of things just as we&apos;ve done with the rocket side of things.” Eleven years later, look at what that vision has become • 11,100+ Starlink satellites in orbit • Connectivity across 174 countries and markets • 13.6 MILLION consumer subscribers • Hundreds of thousands of additional enterprise customers • 3,800+ aircraft already equipped with Starlink • Satellite-to-phone connectivity operating across roughly 30 countries And these aren&apos;t just numbers Starlink is connecting families living far beyond the reach of fiber, bringing internet to schools in remote villages, keeping ships connected in the middle of oceans, and giving millions of airline passengers high-speed internet thousands of meters above Earth It&apos;s also helping save lives From rescuing people stranded in remote wilderness to restoring emergency communications after natural disasters, Starlink is reaching places where traditional networks simply aren&apos;t available What started as Elon standing on a stage in Seattle, describing his vision of a global satellite network, has become the largest satellite constellation humanity has ever built Media
+
+🔗 [View original post](https://x.com/XFreeze/status/2123034041452745036)
 
 ---
 

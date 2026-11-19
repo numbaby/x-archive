@@ -2,7 +2,15 @@
 
 ## 📅 November 19, 2026
 
-> 14 post(s) archived.
+> 15 post(s) archived.
+
+---
+
+### 🕐 05:31 UTC · @elonmusk
+
+> Exactly Elon Musk sets the record straight after years of being falsely accused of turning off Starlink to stop Ukraine&apos;s offensive strike against the Russian fleet in Sevastopol Even Walter Isaacson acknowledged that his book got this crucial detail wrong “And we&apos;ve not turned off Star…
+
+🔗 [View original post](https://x.com/elonmusk/status/2123288098331414533)
 
 ---
 
