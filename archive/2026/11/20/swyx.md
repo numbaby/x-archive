@@ -2,7 +2,17 @@
 
 ## 📅 November 20, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 18:17 UTC · @swyx
+
+> 🔜 why @j_schottenstein left @getdbt for @LangChain to build it into a $3B startup… ….and now they are having to reinvent the content, context (knowledge) and software factory from scratch! having inconsistent ways to define revenue is exactly why you&apos;d need knowledge factory for your company! centralize tacit or implicit knowledge, make those readily available to everyone a big part of ours at langchain is a bunch of definitions of metrics/skills for fetching data…
+
+![🔜 why @j_schottenstein left @getdbt for @LangChain to build it into a $3B startup… ….and now they are having to reinvent the content, context (knowledge) and software factory from scratch! having inco](../../../../assets/images/2026/11/20/2123843282082132335-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2123843282082132335)
 
 ---
 

@@ -2,7 +2,15 @@
 
 ## 📅 November 20, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 17:42 UTC · @omarsar0
+
+> Interesting insights on how B2B deals actually get won. The bottom line is that most losses trace back to deals that were never properly qualified. Buyers going quiet (34%) beat price (14%) as a loss reason in Q3. I also like that the report calls its findings patterns, not proof. Everything is drawn from 10,000+ deals observed in Reevo, not surveys. The best sales teams win 5x as often. We analyzed $1.2B+ in pipeline, 10,000+ deals, and 170,000+ emails and calls on @reevo_ai to find out how they do it. Check it out below 👇
+
+🔗 [View original post](https://x.com/omarsar0/status/2123834358553559423)
 
 ---
 

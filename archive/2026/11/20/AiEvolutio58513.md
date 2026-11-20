@@ -2,7 +2,25 @@
 
 ## 📅 November 20, 2026
 
-> 3 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 18:17 UTC · @AiEvolutio58513
+
+> Ecom folks, this is for you: Your reorder email can be too early and too late at the same time. Here&apos;s what I mean: Imagine three people buying the same protein powder. One runs out in 21 days. Another in 35. A third in 46. If all three get the same reorder email on day 30, you&apos;re 9 days late for one, 5 day…
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2123843241330323878)
+
+---
+
+### 🕐 18:11 UTC · @AiEvolutio58513
+
+> Your reorder email can be too early and too late at the same time. Here&apos;s what I mean: Imagine three people buying the same protein powder. One runs out in 21 days. Another in 35. A third in 46. If all three get the same reorder email on day 30, you&apos;re 9 days late for one, 5 days early for another, and 16 days early for the third. We spend so much time testing subject lines and offers. The timing and channel also deserve the same attention. That&apos;s the idea behind rePete from @bold_commerce, an AI reorder agent for Shopify brands. It uses order history to predict when someone may need more, then sends a timely nudge through email, SMS, on-site, and more. That helps brands reach repeat buyers who love the product but prefer buying on their own schedule. I also like how rePete charges. It&apos;s commission-only, with no monthly app fees, setup costs, or minimums. They only make money when they help your store make money. If you sell replenishable products on Shopify, take a look at rePete. And as a special bonus, if you install rePete through my link below, you’ll get $300 in rePete credit, which covers your first $10K in reorder revenue: https://apps.shopify.com/reorder-service?mref=bold&amp;bpromo=chasedimond
+
+![Your reorder email can be too early and too late at the same time. Here&apos;s what I mean: Imagine three people buying the same protein powder. One runs out in 21 days. Another in 35. A third in 46. ](../../../../assets/images/2026/11/20/2123841604272509310-1.jpg)
+
+🔗 [View original post](https://x.com/ecomchasedimond/status/2123841604272509310)
 
 ---
 

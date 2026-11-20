@@ -2,7 +2,15 @@
 
 ## 📅 November 20, 2026
 
-> 17 post(s) archived.
+> 20 post(s) archived.
+
+---
+
+### 🕐 17:27 UTC · @elonmusk
+
+> Try the Claudia Grok Bot! https://x.ai/bot/zvsgYtQHUcSKGRhAb_JzM Media Made with Grok @Bot https://m.youtube.com/watch?v=NkzscDL6VlE&amp;ra=m
+
+🔗 [View original post](https://x.com/anabology/status/2123830701166645603)
 
 ---
 
@@ -13,6 +21,16 @@
 ![Made with Grok @Bot https://m.youtube.com/watch?v=NkzscDL6VlE&amp;ra=m](../../../../assets/images/2026/11/20/2123827993382687217-1.jpg)
 
 🔗 [View original post](https://x.com/elonmusk/status/2123827993382687217)
+
+---
+
+### 🕐 17:03 UTC · @elonmusk
+
+> small updates in pstack v0.15.46 • lots of pruning, skills are now much shorter • gemini 4 neon is added as a panel reviewer it&apos;s autoupdated for grok bot / cursor users! if you want to change any of the model routing, just run /setup-pstack again https://x.ai/bot/plugin/9717366
+
+![small updates in pstack v0.15.46 • lots of pruning, skills are now much shorter • gemini 4 neon is added as a panel reviewer it&apos;s autoupdated for grok bot / cursor users! if you want to change an](../../../../assets/images/2026/11/20/2123824683862855898-1.png)
+
+🔗 [View original post](https://x.com/poteto/status/2123824683862855898)
 
 ---
 
@@ -47,6 +65,14 @@
 ![Members of the Starship production team with Starship 42 before its launch](../../../../assets/images/2026/11/20/2123809508187078839-1.jpg)
 
 🔗 [View original post](https://x.com/SpaceX/status/2123809508187078839)
+
+---
+
+### 🕐 15:50 UTC · @elonmusk
+
+> Caring about the working class means more than handing out uninspiring jobs. Make the factory cool and the work meaningful so people feel they’re building the future, not just following orders.
+
+🔗 [View original post](https://x.com/yunta_tsai/status/2123806218913529933)
 
 ---
 
