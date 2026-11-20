@@ -160688,6 +160688,19 @@
       }
     ]
   },
+  "2123671936475816292": {
+    "account": "ylecun",
+    "date": "2026-11-20",
+    "file": "data/posts/2026/11/2026-11-20.jsonl",
+    "fingerprint": "540a46b078afeb31a6ffd496ddad49af2df14fd1697b2bda9c53e0c0e4ae9779",
+    "media": [
+      {
+        "local_path": "assets/images/2026/11/20/2123671936475816292-1.jpg",
+        "sha256": "8aa97fe4b8bf7edf5c2de2c19639a834ddb0aa83398ae03243c336f347e81f9b",
+        "source_url": "https://pbs.twimg.com/media/HXeeLIqbQAAJnj_.jpg?name=orig"
+      }
+    ]
+  },
   "2123674470351310910": {
     "account": "elonmusk",
     "date": "2026-11-20",
@@ -160787,6 +160800,39 @@
     "date": "2026-11-20",
     "file": "data/posts/2026/11/2026-11-20.jsonl",
     "fingerprint": "174664c56bd0c94608b713af5d5b5267cad4e5ac8c40a4d93f96c996ef47a14d",
+    "media": []
+  },
+  "2123767076745818281": {
+    "account": "dair_ai",
+    "date": "2026-11-20",
+    "file": "data/posts/2026/11/2026-11-20.jsonl",
+    "fingerprint": "e66dc6eccebbf5ab62c78600fc11a7c178f7b06fc66665fcae31c47125cdfc6d",
+    "media": [
+      {
+        "local_path": "assets/images/2026/11/20/2123767076745818281-1.png",
+        "sha256": "3d1216d79ed53d016c7c11e082a860709602b4e2a941e063e265c36d5f120c20",
+        "source_url": "https://pbs.twimg.com/media/HXki5nNbwAAg7eQ.png?name=orig"
+      }
+    ]
+  },
+  "2123768329810903053": {
+    "account": "dair_ai",
+    "date": "2026-11-20",
+    "file": "data/posts/2026/11/2026-11-20.jsonl",
+    "fingerprint": "7c9e6cff6cd442049bb7d445f3a828882d5b8a12e1ef46d59326c9e3adacf736",
+    "media": [
+      {
+        "local_path": "assets/images/2026/11/20/2123768329810903053-1.jpg",
+        "sha256": "c6a3ded13b1e9e6e4d0c694036e99ccc5589d6042402a43c35664731b14a7ca0",
+        "source_url": "https://pbs.twimg.com/media/HXkkCkzbwAAIDfh.jpg?name=orig"
+      }
+    ]
+  },
+  "2123776722738774341": {
+    "account": "tunguz",
+    "date": "2026-11-20",
+    "file": "data/posts/2026/11/2026-11-20.jsonl",
+    "fingerprint": "0888e24467fd209d02deeb740e97f779fa69da858b70d5c52a8321a90fe817a1",
     "media": []
   }
 }

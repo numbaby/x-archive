@@ -2,7 +2,15 @@
 
 ## 📅 November 20, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 13:53 UTC · @tunguz
+
+> Acceleration will be accelerating - new version of mlx-signal-processing has been released. More speedups across the board. mlx-signal 0.1.2 (mlx-signal-processing) is out! ⚡️ GPU-accelerated scipy.signal for Apple Silicon, built on MLX + custom Metal kernels. Big end-to-end speedups, ~61× lower peak spectral memory, and native GPU FIR streaming state. 🧵 1/6
+
+🔗 [View original post](https://x.com/tunguz/status/2123776722738774341)
 
 ---
 
