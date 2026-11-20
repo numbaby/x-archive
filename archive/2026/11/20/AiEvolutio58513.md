@@ -2,7 +2,15 @@
 
 ## 📅 November 20, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 13:00 UTC · @AiEvolutio58513
+
+> Dario Amodei says engineers at Anthropic have stopped writing code: &quot;I have engineers within Anthropic who say I don&apos;t write any code anymore. I just let the model write the code. I edit it.&quot; &quot;We might be six to 12 months away from when the model is doing most, maybe all, of what SWEs do end to end.&quot; &quot;It&apos;s very hard for me to see how it could take longer than that... If I had to guess, I would guess that this goes faster than people imagine.&quot; Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media Sam Altman says his son will never be smarter than AI: &quot;My kid will never grow up... will never ever be smarter than an AI. That will never happen.&quot; &quot;They&apos;ll never know a world where products and services aren&apos;t way smarter than them and super capable.&quot; &quot;I already think college …
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2123763376044339710)
 
 ---
 
