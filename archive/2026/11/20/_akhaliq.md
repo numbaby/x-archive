@@ -2,7 +2,15 @@
 
 ## 📅 November 20, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 13:45 UTC · @_akhaliq
+
+> We serve almost 1 exabyte of open models and datasets over the internet per month. At that scale, we had to build our own CDN for AI downloads. 🌎 @hugoch and team made this live map of where the traffic flows and it&apos;s beautiful 😍 Media
+
+🔗 [View original post](https://x.com/julien_c/status/2123774636458696959)
 
 ---
 

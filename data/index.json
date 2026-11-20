@@ -160828,11 +160828,25 @@
       }
     ]
   },
+  "2123774636458696959": {
+    "account": "_akhaliq",
+    "date": "2026-11-20",
+    "file": "data/posts/2026/11/2026-11-20.jsonl",
+    "fingerprint": "bb14d213e94720e421fc13551d364c136fbbd1fa9f8b949463b3736168bfcd99",
+    "media": []
+  },
   "2123776722738774341": {
     "account": "tunguz",
     "date": "2026-11-20",
     "file": "data/posts/2026/11/2026-11-20.jsonl",
     "fingerprint": "0888e24467fd209d02deeb740e97f779fa69da858b70d5c52a8321a90fe817a1",
+    "media": []
+  },
+  "2123798008974180735": {
+    "account": "tunguz",
+    "date": "2026-11-20",
+    "file": "data/posts/2026/11/2026-11-20.jsonl",
+    "fingerprint": "7c5573784665393982d7636bb11ab13871a520f27cdc5e1f938a937cf06bd8b7",
     "media": []
   }
 }
