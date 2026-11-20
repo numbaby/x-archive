@@ -2,7 +2,17 @@
 
 ## 📅 November 20, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 07:43 UTC · @_akhaliq
+
+> app: https://huggingface.co/spaces/akhaliq/DepthPro2
+
+![app: https://huggingface.co/spaces/akhaliq/DepthPro2](../../../../assets/images/2026/11/20/2123683522166845709-1.jpg)
+
+🔗 [View original post](https://x.com/_akhaliq/status/2123683522166845709)
 
 ---
 

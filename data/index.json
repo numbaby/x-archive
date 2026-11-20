@@ -160667,5 +160667,18 @@
         "source_url": "https://pbs.twimg.com/media/HXjBS9JbYAAuIYY.jpg?name=orig"
       }
     ]
+  },
+  "2123683522166845709": {
+    "account": "_akhaliq",
+    "date": "2026-11-20",
+    "file": "data/posts/2026/11/2026-11-20.jsonl",
+    "fingerprint": "434e407e0c2e77ff5947db235d3a55169a80db18f55be430b2cb98a1bb4a1d16",
+    "media": [
+      {
+        "local_path": "assets/images/2026/11/20/2123683522166845709-1.jpg",
+        "sha256": "e9d694a6ba050e22f1db87cb056af30630b1a9172e1e279611ae9ef4ff3af9be",
+        "source_url": "https://pbs.twimg.com/card_img/2123683516307341312/EpKUG1QC?format=jpg&name=800x419"
+      }
+    ]
   }
 }
