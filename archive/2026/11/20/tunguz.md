@@ -2,7 +2,15 @@
 
 ## 📅 November 20, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 03:36 UTC · @tunguz
+
+> OAI are now GPU poor. Tokens go brrrrrr. Going to need more compute.
+
+🔗 [View original post](https://x.com/tunguz/status/2123621361905983719)
 
 ---
 

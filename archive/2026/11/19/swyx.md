@@ -2,7 +2,7 @@
 
 ## 📅 November 19, 2026
 
-> 10 post(s) archived.
+> 11 post(s) archived.
 
 ---
 
@@ -57,6 +57,14 @@
 > Anthropic raised about $140B and still has ~$132B on the balance sheet, per @tanayj. &quot;They burnt like under $10 billion to get to where they have.&quot; The Wing VC partner says the cash burn was the biggest surprise in Anthropic&apos;s S-1, &quot;and I mean that in a positive way.&quot; On @latentspacepod with @swyx, ahead of Anthropic&apos;s IPO. Is the low burn the real story of this IPO? Media ⚡️ $ANT IPOs tomorrow! We catch you up on everything we learned from the S-1 and the IPO roadshow. @tanayj talks us through the $9.9B compute and infrastructure bill and other deep dives. https://youtu.be/wX8nDtGIfYA Thanks to all the positive feedback on the @jaminball pod. Goo…
 
 🔗 [View original post](https://x.com/FounderClipsHQ/status/2123411646777307310)
+
+---
+
+### 🕐 08:04 UTC · @swyx
+
+> recommended viewing. my AIE talk is up! come hear how the grok @bot team ships so quickly without compromise on quality https://youtu.be/O_zcc6Xl12g
+
+🔗 [View original post](https://x.com/badlogicgames/status/2123326437730234433)
 
 ---
 

@@ -2,7 +2,17 @@
 
 ## 📅 November 20, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 03:05 UTC · @_akhaliq
+
+> Tencent just released the Hy4 base model on Hugging Face A 770B-parameter MoE multimodal foundation model with 49B active params, 1M-token context, and text, image, and video understanding.
+
+![Tencent just released the Hy4 base model on Hugging Face A 770B-parameter MoE multimodal foundation model with 49B active params, 1M-token context, and text, image, and video understanding.](../../../../assets/images/2026/11/20/2123613629182583057-1.jpg)
+
+🔗 [View original post](https://x.com/HuggingPapers/status/2123613629182583057)
 
 ---
 
