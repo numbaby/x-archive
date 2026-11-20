@@ -2,7 +2,15 @@
 
 ## 📅 November 20, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 11:00 UTC · @AiEvolutio58513
+
+> Elon Musk was asked which company he&apos;d buy stock in if it couldn&apos;t be one of his own: &quot;AI and robotics are going to be very important.&quot; &quot;Google is going to be pretty valuable in the future. They&apos;ve laid the groundwork for an immense amount of value creation from an AI standpoint.&quot; &quot;Nvidia is obvious at this point.&quot; &quot;There&apos;s an argument that companies that do AI and robotics and maybe space flight are going to be overwhelmingly... almost all the value.&quot; Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media Elon Musk says AI will flip inflation into deflation in about 3 years, and interest rates could go to zero: &quot;AI has not yet made enough of an impact on productivity to increase the goods and services faster than the increase in the money supply.&quot; &quot;I think it&apos;s 3 years... Goods a…
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2123733208202457502)
 
 ---
 
