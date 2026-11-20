@@ -2,7 +2,17 @@
 
 ## 📅 November 20, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 08:09 UTC · @swyx
+
+> whatever happened to @cursor_ai origin? anyone use this thing in anger yet? does it have actions/ci/cd yet? Cursor/Graphite’s @TomasReimers just announced Origin @cursor_ai’s long awaited Git competitor, scalable for agent workloads, extensible with api and mcp, and built in merge conflicts and co failure agent resolution
+
+![whatever happened to @cursor_ai origin? anyone use this thing in anger yet? does it have actions/ci/cd yet? Cursor/Graphite’s @TomasReimers just announced Origin @cursor_ai’s long awaited Git competit](../../../../assets/images/2026/11/20/2123690305736396925-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2123690305736396925)
 
 ---
 

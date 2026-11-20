@@ -2,7 +2,16 @@
 
 ## 📅 November 20, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 08:51 UTC · @Letstalk246
+
+
+![](../../../../assets/images/2026/11/20/2123700805941501959-1.jpg)
+
+🔗 [View original post](https://x.com/Letstalk246/status/2123700805941501959)
 
 ---
 
