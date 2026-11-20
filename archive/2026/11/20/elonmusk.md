@@ -2,7 +2,33 @@
 
 ## 📅 November 20, 2026
 
-> 12 post(s) archived.
+> 17 post(s) archived.
+
+---
+
+### 🕐 17:17 UTC · @elonmusk
+
+> Made with Grok @Bot https://m.youtube.com/watch?v=NkzscDL6VlE&amp;ra=m
+
+![Made with Grok @Bot https://m.youtube.com/watch?v=NkzscDL6VlE&amp;ra=m](../../../../assets/images/2026/11/20/2123827993382687217-1.jpg)
+
+🔗 [View original post](https://x.com/elonmusk/status/2123827993382687217)
+
+---
+
+### 🕐 16:34 UTC · @elonmusk
+
+> Neuralink’s Blindsight product is now just waiting for regulatory approval Elon Musk just gave a massive update on Neuralink&apos;s Blindsight &quot;And our next product is what we call Blindsight So Blindsight is a neural implant that interfaces directly with the visual cortex and enables people who are completely blind to see So it allows you to be wearing gla…
+
+🔗 [View original post](https://x.com/elonmusk/status/2123817232849567933)
+
+---
+
+### 🕐 16:31 UTC · @elonmusk
+
+> Starlink helps education BREAKING: Paraguay’s government receives 400 more Starlink kits to connect more schools across the country. 🇵🇾 • 800 rural schools already connected. • Goal: 1,600 educational institutions nationwide. • Next phase: expanding connectivity to hospitals and Family Health Units. S…
+
+🔗 [View original post](https://x.com/elonmusk/status/2123816520002482305)
 
 ---
 
@@ -21,6 +47,16 @@
 ![Members of the Starship production team with Starship 42 before its launch](../../../../assets/images/2026/11/20/2123809508187078839-1.jpg)
 
 🔗 [View original post](https://x.com/SpaceX/status/2123809508187078839)
+
+---
+
+### 🕐 14:00 UTC · @elonmusk
+
+> Morgan Stanley: SpaceX Morgan Stanley&apos;s latest report indicates that a single fully loaded Starship launch could generate approximately $400 million in annualized revenue for Starlink, with a revenue payback period of about 13 weeks and an EBIT payback period of about 19 weeks, surpassing even the profitability efficiency of the emerging neocloud business. This calculation is based on each Starship carrying 50 Starlink V3 satellites, with each satellite generating approximately $8 million in annualized incremental revenue. Assuming a variable cost of about $100 million per launch by 2030—comprising $60 million in launch costs and $40 million in payload costs—the payback period for Starship investments would be quite substantial. $SPCX
+
+![Morgan Stanley: SpaceX Morgan Stanley&apos;s latest report indicates that a single fully loaded Starship launch could generate approximately $400 million in annualized revenue for Starlink, with a rev](../../../../assets/images/2026/11/20/2123778402289144240-1.jpg)
+
+🔗 [View original post](https://x.com/pequityresearch/status/2123778402289144240)
 
 ---
 
@@ -53,6 +89,14 @@
 > Tesla’s AI, running on our little AI4 computer, can now reach Torment II in Diablo
 
 🔗 [View original post](https://x.com/elonmusk/status/2123726569206415815)
+
+---
+
+### 🕐 09:18 UTC · @elonmusk
+
+> Starlink is transforming a remote mountain water gate in Japan that sits completely outside mobile network coverage For years, workers had to travel roughly 35 minutes along a dangerous mountain road just to inspect the facility. During heavy rain, floods, or at night, reaching the site became even more dangerous Now KDDI and Japanese farm-tech company farmo have connected the Shinbori headworks in Sekikawa, Niigata, using Starlink Mini Here&apos;s how the system works: • Starlink Mini provides satellite internet where cellular networks don&apos;t reach • LoRa connects water-level sensors and the automated water gate • Solar panels power the equipment where grid electricity is difficult to access • Cloud monitoring gives operators real-time water levels, camera feeds, equipment status, and emergency alerts • Workers remotely open and close the water gate without physically visiting the site The results are already impressive: All 6 remote gate-control tests were SUCCESSFUL Workers now have visibility and control over infrastructure that previously required a dangerous mountain trip just to inspect This becomes especially important during floods and emergencies, when every minute matters and sending workers into dangerous conditions puts lives at risk The project will continue in Japan&apos;s FY2027, with plans to expand into automated water management, disaster prevention, and other agricultural applications This is another example of what Starlink is making possible Media
+
+🔗 [View original post](https://x.com/XFreeze/status/2123707452915065128)
 
 ---
 

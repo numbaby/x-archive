@@ -2,7 +2,15 @@
 
 ## 📅 November 20, 2026
 
-> 10 post(s) archived.
+> 11 post(s) archived.
+
+---
+
+### 🕐 16:37 UTC · @tunguz
+
+> Whether or not you think AI is overhyped is the new IQ test.
+
+🔗 [View original post](https://x.com/tunguz/status/2123817967972401163)
 
 ---
 
