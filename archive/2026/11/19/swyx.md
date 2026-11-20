@@ -2,7 +2,7 @@
 
 ## 📅 November 19, 2026
 
-> 11 post(s) archived.
+> 12 post(s) archived.
 
 ---
 
@@ -21,6 +21,16 @@
 ![yeah in nov 2026 this needs to die current end state of forge](../../../../assets/images/2026/11/19/2123537922670657753-1.jpg)
 
 🔗 [View original post](https://x.com/swyx/status/2123537922670657753)
+
+---
+
+### 🕐 20:31 UTC · @swyx
+
+> Vibe coding a game is fun until you don&apos;t know what your own characters do. @trq212 on keeping creative control as models get better: readable specs, custom languages, and a software renaissance. The Sweet Side of the Bitter Lesson. Watch: https://youtu.be/xRJMiaUoD_8
+
+![Vibe coding a game is fun until you don&apos;t know what your own characters do. @trq212 on keeping creative control as models get better: readable specs, custom languages, and a software renaissance.](../../../../assets/images/2026/11/19/2123514398438211840-1.jpg)
+
+🔗 [View original post](https://x.com/aiDotEngineer/status/2123514398438211840)
 
 ---
 

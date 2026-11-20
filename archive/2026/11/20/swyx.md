@@ -2,7 +2,17 @@
 
 ## 📅 November 20, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 06:08 UTC · @swyx
+
+> you cant be serious
+
+![you cant be serious](../../../../assets/images/2026/11/20/2123659761887625602-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2123659761887625602)
 
 ---
 
