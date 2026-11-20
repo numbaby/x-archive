@@ -2,7 +2,39 @@
 
 ## 📅 November 20, 2026
 
-> 20 post(s) archived.
+> 25 post(s) archived.
+
+---
+
+### 🕐 18:55 UTC · @elonmusk
+
+> Hear me out: “Singularity dot Com”, a dating site for digital superintelligences …
+
+🔗 [View original post](https://x.com/elonmusk/status/2123852660688494744)
+
+---
+
+### 🕐 18:34 UTC · @elonmusk
+
+> This is where the smart people are The fact that anyone can post here and reach the sharpest minds on the planet is a superpower only 𝕏 has
+
+🔗 [View original post](https://x.com/elonmusk/status/2123847352582897719)
+
+---
+
+### 🕐 18:30 UTC · @elonmusk
+
+> Haven’t read it, but probably mostly (80% or so) accurate I&apos;ve spent a decade covering @neuralink, including dozens of visits to the company and hundreds of hours with the patients. This is my 10,000-word feature story on Neuralink and what it means for The Merge. All as part of @life&apos;s glorious relaunch. https://new.life.com/stories-d…
+
+🔗 [View original post](https://x.com/elonmusk/status/2123846481488789866)
+
+---
+
+### 🕐 18:28 UTC · @elonmusk
+
+> I was just thinking that (for myself) stupidity doesn’t count unless I’m also really obstinate about it
+
+🔗 [View original post](https://x.com/elonmusk/status/2123845867526574261)
 
 ---
 
@@ -11,6 +43,16 @@
 > Try the Claudia Grok Bot! https://x.ai/bot/zvsgYtQHUcSKGRhAb_JzM Media Made with Grok @Bot https://m.youtube.com/watch?v=NkzscDL6VlE&amp;ra=m
 
 🔗 [View original post](https://x.com/anabology/status/2123830701166645603)
+
+---
+
+### 🕐 17:23 UTC · @elonmusk
+
+> Wait which version did I get?
+
+![Wait which version did I get?](../../../../assets/images/2026/11/20/2123829559711650060-1.jpg)
+
+🔗 [View original post](https://x.com/finkd/status/2123829559711650060)
 
 ---
 

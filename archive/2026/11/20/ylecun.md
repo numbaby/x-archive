@@ -2,7 +2,27 @@
 
 ## 📅 November 20, 2026
 
-> 3 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 13:01 UTC · @ylecun
+
+> Lawmakers released confidential information showing that Trump&apos;s Commerce Department under Howard Lutnick had approved the sale of 800,000+ advanced A.I. chips to Chinese companies for the year, as of May 11, including several Chinese military companies. https://trib.al/z8FNH5o
+
+![Lawmakers released confidential information showing that Trump&apos;s Commerce Department under Howard Lutnick had approved the sale of 800,000+ advanced A.I. chips to Chinese companies for the year, ](../../../../assets/images/2026/11/20/2123763587063685453-1.jpg)
+
+🔗 [View original post](https://x.com/KenRoth/status/2123763587063685453)
+
+---
+
+### 🕐 12:16 UTC · @ylecun
+
+> My latest Telegraph column argues that amid all the competing claims and counterclaims swirling around Nvidia and Jensen Huang, a more important story has been lost in the noise: the battle being waged behind the scenes between those who favour open systems and those determined to keep them closed. This illustrates a longstanding contradiction at the heart of American policy: between its professed commitment to free markets and its determination to control the global flow of strategic technology. (Plus, I briefly revisit the Ferranti affair.) https://www.telegraph.co.uk/business/2026/11/20/jensen-huangs-downfall-exposes-a-deep-divide-over-ai/
+
+![My latest Telegraph column argues that amid all the competing claims and counterclaims swirling around Nvidia and Jensen Huang, a more important story has been lost in the noise: the battle being wage](../../../../assets/images/2026/11/20/2123752355560611911-1.jpg)
+
+🔗 [View original post](https://x.com/izakaminska/status/2123752355560611911)
 
 ---
 
@@ -13,6 +33,16 @@
 ![Another banger paper dropped by Yann LeCun, Randall Balestriero, and Kerda Varaku. &quot;Counterfactual World Models: JEPAs That Reason About What If&quot; What if AI could predict what would have hap](../../../../assets/images/2026/11/20/2123671936475816292-1.jpg)
 
 🔗 [View original post](https://x.com/askalphaxiv/status/2123671936475816292)
+
+---
+
+### 🕐 04:44 UTC · @ylecun
+
+> https://www.dailyprincetonian.com/article/2026/11/princeton-news-broadfocus-princeton-phd-neuroscience-student-detained-by-immigration-customs-and-enforcement-ice
+
+![https://www.dailyprincetonian.com/article/2026/11/princeton-news-broadfocus-princeton-phd-neuroscience-student-detained-by-immigration-customs-and-enforcement-ice](../../../../assets/images/2026/11/20/2123638649472336269-1.jpg)
+
+🔗 [View original post](https://x.com/nathanieldaw/status/2123638649472336269)
 
 ---
 

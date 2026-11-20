@@ -2,7 +2,15 @@
 
 ## 📅 November 20, 2026
 
-> 11 post(s) archived.
+> 12 post(s) archived.
+
+---
+
+### 🕐 19:08 UTC · @tunguz
+
+> and all of this because a certain board didn’t want to go to jail smdh 🙄
+
+🔗 [View original post](https://x.com/tunguz/status/2123856037807530311)
 
 ---
 

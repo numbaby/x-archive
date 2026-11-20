@@ -2,7 +2,25 @@
 
 ## 📅 November 20, 2026
 
-> 5 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 18:37 UTC · @_akhaliq
+
+> Today we&apos;re launching @arcfront with @Naman_Bhalla and deep support from @asxna. In under a year, four of the five frontier labs became customers. In 2025 an AI solved all 12 problems at the ICPC World Finals. The best human team solved 11. I competed in two of those finals, so I know how big a feat that is. And yet, put that same AI inside a company as a finance manager, or in almost any other job, and it fails on day 1. Why is that? Media
+
+🔗 [View original post](https://x.com/anshuman_ssh/status/2123848140575182946)
+
+---
+
+### 🕐 16:07 UTC · @_akhaliq
+
+> Probing the &quot;Conscious&quot; Mind in VLMs New work introduces MC-Lens, a multimodal Jacobian lens that maps intermediate vision and language states to a shared concept space, revealing how concepts are accessed, selected, and used in vision-language models.
+
+![Probing the &quot;Conscious&quot; Mind in VLMs New work introduces MC-Lens, a multimodal Jacobian lens that maps intermediate vision and language states to a shared concept space, revealing how concep](../../../../assets/images/2026/11/20/2123810370397561027-1.jpg)
+
+🔗 [View original post](https://x.com/HuggingPapers/status/2123810370397561027)
 
 ---
 

@@ -2,7 +2,17 @@
 
 ## 📅 November 20, 2026
 
-> 5 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 19:09 UTC · @swyx
+
+> broooo https://x.com/nishanthooda_/status/2123581995288846611?a=FSJnFjyN6u-pR61QH94&amp;s=46 Happy Anthropic IPO day
+
+![broooo https://x.com/nishanthooda_/status/2123581995288846611?a=FSJnFjyN6u-pR61QH94&amp;s=46 Happy Anthropic IPO day](../../../../assets/images/2026/11/20/2123856303974121851-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2123856303974121851)
 
 ---
 
