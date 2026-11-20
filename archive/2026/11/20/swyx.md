@@ -2,7 +2,27 @@
 
 ## 📅 November 20, 2026
 
-> 6 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 22:13 UTC · @swyx
+
+> I host a lot of events both for personal and work and I wrote up how I do it in a #highROI way :) https://dx.tips/hosting
+
+![I host a lot of events both for personal and work and I wrote up how I do it in a #highROI way :) https://dx.tips/hosting](../../../../assets/images/2026/11/20/2123902565092143294-1.jpg)
+
+🔗 [View original post](https://x.com/MilksandMatcha/status/2123902565092143294)
+
+---
+
+### 🕐 20:00 UTC · @swyx
+
+> At Code Summit, @zachbruggeman said Inspect writes and ships ~75% of @tryramp&apos;s code. One agent setup for the whole company. Shared sessions. Screenshots and browser recordings that show the work holds up. Watch the full talk: https://youtu.be/MDI81OaZAD4
+
+![At Code Summit, @zachbruggeman said Inspect writes and ships ~75% of @tryramp&apos;s code. One agent setup for the whole company. Shared sessions. Screenshots and browser recordings that show the work](../../../../assets/images/2026/11/20/2123868990820712787-1.jpg)
+
+🔗 [View original post](https://x.com/aiDotEngineer/status/2123868990820712787)
 
 ---
 

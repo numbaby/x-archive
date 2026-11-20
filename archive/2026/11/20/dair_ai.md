@@ -2,7 +2,17 @@
 
 ## 📅 November 20, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 23:15 UTC · @dair_ai
+
+> Brilliant work from Google and colleagues. (bookmark it) Their research agent reaches a 76.0% medal rate on the complete MLE-Bench, the highest reported on the full benchmark. Autonomous research agents usually keep editing the codebase until a metric moves. On hard tasks, this often leaves them stuck in the wrong part of the solution space, because they never write down what they think is wrong. Pro² Agent addresses this with a Problem State. It is a structured list of the problems that block success, and the candidate fixes for each one. The agent runs controlled tests that update how important each problem is and how much each fix helps. With the standard 24 hours, it matches the best reported 70.7%. With 48 hours, it reaches 76.0%. Each task also produces research notes that humans can review and reuse. https://arxiv.org/abs/2611.25357 Chat with Paper: https://academy.dair.ai/papers/pro-2-agent-scientific-problem-probing-for-autonomous-ai-r-d-2611.25357
+
+![Brilliant work from Google and colleagues. (bookmark it) Their research agent reaches a 76.0% medal rate on the complete MLE-Bench, the highest reported on the full benchmark. Autonomous research agen](../../../../assets/images/2026/11/20/2123918068393144639-1.jpg)
+
+🔗 [View original post](https://x.com/dair_ai/status/2123918068393144639)
 
 ---
 
