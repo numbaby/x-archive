@@ -2,7 +2,15 @@
 
 ## 📅 November 20, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 16:00 UTC · @_akhaliq
+
+> Jeveration: a model that generates a 512 × 512 image in just 78 ms! A frozen vision-language model returns a whole 512 px image as one decision, in a single forward pass. Jeveration: System One Models Now Generate. https://arxiv.org/abs/2611.24738 - Try the demo: https://huggingface.co/spaces/linlinlinlinsdada/Jeveration Media
+
+🔗 [View original post](https://x.com/carol00892/status/2123808797009543293)
 
 ---
 

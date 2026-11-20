@@ -2,7 +2,15 @@
 
 ## 📅 November 20, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 16:19 UTC · @omarsar0
+
+> Introducing Hospital-bench, a new agent benchmark from @zavoai. It tests hospital operations work. Agents handle coverage checks, prior authorizations, claims, and records requests inside a simulated health system with 13 apps and 131 tools. 20 models ran 48 tasks. GPT-6.2 Astra led with a 62.4% mean score, while Claude Opus 5.5 fully passed the most tasks (17/48). Safety was a major challenge. Models made errors, including disclosing restricted patient records, incorrectly modifying paid claims, and acting beyond their authority. GPT-6.2 Astra and Gemini 4 Neon had no tasks zeroed due to harm, while some models had as many as 10. The results show that completing complex, multi-system workflows reliably and safely remains a major challenge for AI agents. Introducing Hospital-bench: the most comprehensive hospital operations simulation built to evaluate AI agents. Behind every hospital visit are hours of administrative work: insurance verification, prior authorizations, claims, billing, patient records, and paperwork spread acros…
+
+🔗 [View original post](https://x.com/omarsar0/status/2123813529245429868)
 
 ---
 

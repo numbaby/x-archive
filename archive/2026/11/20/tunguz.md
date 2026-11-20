@@ -2,7 +2,51 @@
 
 ## 📅 November 20, 2026
 
-> 5 post(s) archived.
+> 10 post(s) archived.
+
+---
+
+### 🕐 16:19 UTC · @tunguz
+
+> 🥺
+
+![🥺](../../../../assets/images/2026/11/20/2123813474300199161-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2123813474300199161)
+
+---
+
+### 🕐 16:11 UTC · @tunguz
+
+> LOL non sequiturs are at the ATH rn. Is there an AI bubble? I’ll answer that with an observation. Ashton Kutcher made $8 billion from the Anthropic IPO.
+
+🔗 [View original post](https://x.com/tunguz/status/2123811582169735522)
+
+---
+
+### 🕐 16:06 UTC · @tunguz
+
+> Yes. Wow.
+
+🔗 [View original post](https://x.com/tunguz/status/2123810164281430321)
+
+---
+
+### 🕐 15:52 UTC · @tunguz
+
+> Not wrong!
+
+![Not wrong!](../../../../assets/images/2026/11/20/2123806673697714283-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2123806673697714283)
+
+---
+
+### 🕐 15:20 UTC · @tunguz
+
+> A couple of points: 1. Despite what many think, there *are* ways that you can motivate really wealthy people to work hard that don’t involve public humiliation. There are LOTS of people in tech in particular who chose that field because of the outsize sense of agency and accomplishment that can be attained there. 2. The summer after my freshman year at Stanford I managed to get a job in a Physics lab. At that point I still had not declared my major, and the Professor whose lab it was (who ended up getting the Nobel prize a few years later) told me that if I don’t declare Physics he would, and I quote, “rip your arms out of their sockets and beat you over your head with the bloody ends.” Even a kid like me knew that was just a form of guy humor and didn’t take him *literally*, and ended up having a great time in that lab for the rest of my undergrad years. Our latest on Jensen Huang and Nvidia. https://www.nytimes.com/2026/11/20/technology/jensen-huang-nvidia-culture.html
+
+🔗 [View original post](https://x.com/tunguz/status/2123798530007429573)
 
 ---
 

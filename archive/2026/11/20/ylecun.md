@@ -2,7 +2,7 @@
 
 ## 📅 November 20, 2026
 
-> 1 post(s) archived.
+> 3 post(s) archived.
 
 ---
 
@@ -13,5 +13,23 @@
 ![Another banger paper dropped by Yann LeCun, Randall Balestriero, and Kerda Varaku. &quot;Counterfactual World Models: JEPAs That Reason About What If&quot; What if AI could predict what would have hap](../../../../assets/images/2026/11/20/2123671936475816292-1.jpg)
 
 🔗 [View original post](https://x.com/askalphaxiv/status/2123671936475816292)
+
+---
+
+### 🕐 03:56 UTC · @ylecun
+
+> Eva is a student at @PrincetonNeuro working with me, @brody_lab and Ben Eysenbach. She was abducted by ICE while trying to board a flight from SFN. Some thoughts below how we can help her. Our colleague Eva Yi Xie, a Princeton neuroscience PhD student, was detained by ICE at Reagan National Airport on her way home from SfN, where she’d just presented her poster. She’s being held in Chantilly, VA. Please help us bring her home. 📷
+
+🔗 [View original post](https://x.com/nathanieldaw/status/2123626558304776335)
+
+---
+
+### 🕐 03:07 UTC · @ylecun
+
+> Our colleague Eva Yi Xie, a Princeton neuroscience PhD student, was detained by ICE at Reagan National Airport on her way home from SfN, where she’d just presented her poster. She’s being held in Chantilly, VA. Please help us bring her home. 📷
+
+![Our colleague Eva Yi Xie, a Princeton neuroscience PhD student, was detained by ICE at Reagan National Airport on her way home from SfN, where she’d just presented her poster. She’s being held in Chan](../../../../assets/images/2026/11/20/2123614249251709199-1.jpg)
+
+🔗 [View original post](https://x.com/brody_lab/status/2123614249251709199)
 
 ---

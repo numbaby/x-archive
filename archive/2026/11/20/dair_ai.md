@@ -2,7 +2,17 @@
 
 ## 📅 November 20, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 15:53 UTC · @dair_ai
+
+> &quot;I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis.&quot; What a crazy timeline we are in. This is obviously huge for math if true. JUST IN: Riemann Hypothesis has been solved. https://alpo.ge/remark.pdf
+
+![&quot;I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis.&quot; What a crazy timeline we are in. This is obviously huge for math if true. JUST IN: Riemann Hypothesis h](../../../../assets/images/2026/11/20/2123807029416620336-1.png)
+
+🔗 [View original post](https://x.com/omarsar0/status/2123807029416620336)
 
 ---
 
