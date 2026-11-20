@@ -2,7 +2,23 @@
 
 ## 📅 November 20, 2026
 
-> 4 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 11:19 UTC · @elonmusk
+
+> Approvata la guida autonoma di Tesla in Italia: è il primo dei grandi Paesi europei ad approvarla. Complimenti al sindaco di Roma Gualtieri, che per primo l&apos;ha provata in città (ci siamo divertiti!), al ministro Salvini per la decisione lungimirante di approvarla al Presidente Meloni per il supporto verso le nuove tecnologie e all&apos;opposizione di Azione di Carlo Calenda per aver fatto proposte costruttive affinché ciò avvenisse. Orgoglio 🇮🇹🇺🇸
+
+🔗 [View original post](https://x.com/andst7/status/2123738109330223565)
+
+---
+
+### 🕐 11:19 UTC · @elonmusk
+
+> Yes it&apos;s pretty clear that if you want to have any meaningful conversation about tech you have to be on X
+
+🔗 [View original post](https://x.com/elonmusk/status/2123737976710848580)
 
 ---
 
@@ -29,6 +45,14 @@
 ![Great to have Elon at Giga Shanghai! During his brief visit to China, Elon made a special stop to thank our teams across Asia in person. Our Giga Shanghai team had a little something for him, too — a ](../../../../assets/images/2026/11/20/2123674470351310910-1.jpg)
 
 🔗 [View original post](https://x.com/Tesla_Asia/status/2123674470351310910)
+
+---
+
+### 🕐 03:20 UTC · @elonmusk
+
+> The magnitude of the consumer surplus for AI tools is mind boggling. My Grok subscription has probably already saved (made?) me more money than I am ever likely to spend on it.
+
+🔗 [View original post](https://x.com/jamesdouma/status/2123617446590570679)
 
 ---
 
