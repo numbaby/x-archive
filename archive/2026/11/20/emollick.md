@@ -2,7 +2,15 @@
 
 ## 📅 November 20, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 19:55 UTC · @emollick
+
+> The effective end of easy distillation from OpenAI and Anthropic models may be behind the relative slowdown in open weights model progress. We don’t know the extent to which distillation has been key to the rapid improvement in open weights, I guess we will find out quite soon. Distillation can reproduce powerful AI capabilities without the safeguards built around them. We’re sharing new research on our work to combat distillation of our models, how these capabilities transfer, and how we detect and disrupt coordinated attempts. These findings are help…
+
+🔗 [View original post](https://x.com/emollick/status/2123867811005014143)
 
 ---
 

@@ -160935,6 +160935,13 @@
     "fingerprint": "0888e24467fd209d02deeb740e97f779fa69da858b70d5c52a8321a90fe817a1",
     "media": []
   },
+  "2123778032645410917": {
+    "account": "demishassabis",
+    "date": "2026-11-20",
+    "file": "data/posts/2026/11/2026-11-20.jsonl",
+    "fingerprint": "43fbd16d81c0d556e86e2f9705b176644754a9edb94931928dd7ee672311f914",
+    "media": []
+  },
   "2123778402289144240": {
     "account": "elonmusk",
     "date": "2026-11-20",
@@ -161277,5 +161284,46 @@
         "source_url": "https://pbs.twimg.com/media/HXl0CtaaoAAFVnG.jpg?name=orig"
       }
     ]
+  },
+  "2123863490800828830": {
+    "account": "omarsar0",
+    "date": "2026-11-20",
+    "file": "data/posts/2026/11/2026-11-20.jsonl",
+    "fingerprint": "028869a9c844c9dfa8444724ea22ef1722e8fb32965d68106cc8d7134c662eaf",
+    "media": []
+  },
+  "2123864679382499402": {
+    "account": "tunguz",
+    "date": "2026-11-20",
+    "file": "data/posts/2026/11/2026-11-20.jsonl",
+    "fingerprint": "7083e992951c9828b3f3255d311341d34da84a44bd0d0cb77299815134c9d14d",
+    "media": [
+      {
+        "local_path": "assets/images/2026/11/20/2123864679382499402-1.jpg",
+        "sha256": "31448ff2e4de51449e888835988ec1a1b9430370639e4cfa5fc9429e4e02573c",
+        "source_url": "https://pbs.twimg.com/media/HXl7q5_XMAAhHyX.jpg?name=orig"
+      }
+    ]
+  },
+  "2123867811005014143": {
+    "account": "emollick",
+    "date": "2026-11-20",
+    "file": "data/posts/2026/11/2026-11-20.jsonl",
+    "fingerprint": "13325fa33d8db2577c3a65fc1cd6382ff5e59900ec2f316e5236fbd380248c68",
+    "media": []
+  },
+  "2123871861843075099": {
+    "account": "demishassabis",
+    "date": "2026-11-20",
+    "file": "data/posts/2026/11/2026-11-20.jsonl",
+    "fingerprint": "c9e3b8ead4de319471fd80821d109a2ef7d7bfbbbda7c7b911ed456507099430",
+    "media": []
+  },
+  "2123871863864492096": {
+    "account": "tunguz",
+    "date": "2026-11-20",
+    "file": "data/posts/2026/11/2026-11-20.jsonl",
+    "fingerprint": "e4b4e2a0b990c8b8158488fe45336e61e86c1362bedd425b1870ca39a8540c59",
+    "media": []
   }
 }

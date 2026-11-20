@@ -2,7 +2,25 @@
 
 ## 📅 November 20, 2026
 
-> 12 post(s) archived.
+> 14 post(s) archived.
+
+---
+
+### 🕐 20:11 UTC · @tunguz
+
+> - Kevin, 11 FEELS LIKE 1929 BUT WORSE
+
+🔗 [View original post](https://x.com/tunguz/status/2123871863864492096)
+
+---
+
+### 🕐 19:42 UTC · @tunguz
+
+> “The market will regulate itself.” The market:
+
+![“The market will regulate itself.” The market:](../../../../assets/images/2026/11/20/2123864679382499402-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2123864679382499402)
 
 ---
 

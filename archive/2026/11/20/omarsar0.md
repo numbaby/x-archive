@@ -2,7 +2,15 @@
 
 ## 📅 November 20, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 19:38 UTC · @omarsar0
+
+> Highly recommended read. Learn to build your own harness, folks. My belief—and that of many fully AI-native builders and companies—is that harnesses remain largely underexplored. Research shows a huge edge in custom harnesses. But little is known about why. Alex and colleagues have been exploring this direction and have noted that harnesses can act as compositional generalizers. In other words, harnesses can push LLMs further (with stronger generalization effects) through existing LLM capabilities. Harnesses like RLMs are a good recent example, with abstractions that unlock this. I have recently started seeing success in post-training used to co-evolve harnesses and models. I think this could explain why this is happening, but more research is needed to understand this better. I have experienced this with a variant of dynamic workflows I have implemented in my meta harness. Harnesses used to be a crutch for weak LLMs. In 2026 and onward, with stronger models, harnesses now offer a mechanism for composing an LLM’s existing and new capabilities to generalize well beyond their training environments. In our new paper, LM Harnesses are Compositional Gen…
+
+🔗 [View original post](https://x.com/omarsar0/status/2123863490800828830)
 
 ---
 

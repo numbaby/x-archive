@@ -2,7 +2,23 @@
 
 ## 📅 November 20, 2026
 
-> 1 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 20:11 UTC · @demishassabis
+
+> Fantastic to be collaborating with Merck on designing a new cancer drug - another important proof point of the rapid progress we’re making at Iso on reimagining drug discovery! Today, we enter a strategic research collaboration with @MSDInvents. The collaboration brings together Isomorphic Labs’ world-leading frontier AI capabilities with MSD’s deep discovery, development and manufacturing expertise. Read more: https://www.isomorphiclabs.com/articles/i…
+
+🔗 [View original post](https://x.com/demishassabis/status/2123871861843075099)
+
+---
+
+### 🕐 13:58 UTC · @demishassabis
+
+> Let me say this in no uncertain terms. Gemini Neon has solved the hardest problems I could throw at it, clearing a bar no model, not even Fable 5.2, could. I&apos;m not quite sure what happened here.
+
+🔗 [View original post](https://x.com/systematicls/status/2123778032645410917)
 
 ---
 
