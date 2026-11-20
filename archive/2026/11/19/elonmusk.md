@@ -2,7 +2,23 @@
 
 ## 📅 November 19, 2026
 
-> 32 post(s) archived.
+> 34 post(s) archived.
+
+---
+
+### 🕐 23:07 UTC · @elonmusk
+
+> Elon Musk explains why SpaceX catching Starship achieves the &quot;holy grail of rocketry,&quot; and can cut the cost of access to space by 100x: In 2025, SpaceX launched 2,200 tons to orbit, more than 80% of the global total. Elon Musk&apos;s goal with Starship is 1,000,000 tons to orbit per year, about 450x what SpaceX launched last year. Falcon 9 reuses its booster but throws away the upper stage on every flight. Starship is designed to bring back both. &quot;We&apos;ve had three booster catches, but this is the first ship catch, which means we&apos;ve now at least proven that all parts of Starship can be flown to space and recovered in good enough shape to be reflown.&quot; &quot;No one has ever taken a stage like that and created a truly reusable upper stage, and certainly not brought it back and had it land propulsively while being caught by giant chopsticks, which sounds like some kind of preposterous sci-fi book or something. But it&apos;s done.&quot; &quot;Starship can drop the cost of access to space by a factor of 100... and achieve a mass to orbit rate that is in the million ton per year range.&quot; &quot;This has been the holy grail of rocketry from the beginning, to have a fully reusable rocket system.&quot; &quot;The Space Shuttle was partially reusable, but the main tank… was thrown away on every flight… The shuttle orbiter, the plane-like thing, would take something like nine months to refurbish between flights.&quot; &quot;Whereas Starship is designed for complete reusability and to be reused immediately like an airplane. The booster lands, you can put another ship on top and take off immediately.&quot; &quot;The net effect of this, to put it into economic terms, is a hundredfold reduction in the cost of access to space, and maybe even eventually a thousandfold reduction.&quot; &quot;That&apos;s what&apos;s necessary in order to make life multiplanetary, in order to build a city on the Moon or Mars… You couldn&apos;t do it even if you had the whole budget of the United States government.&quot; Elon Musk and SpaceX have been working toward a fully reusable orbital rocket for more than two decades. Five days ago, they proved every part of Starship can fly to space and be recovered. Media
+
+🔗 [View original post](https://x.com/KanekoaTheGreat/status/2123553886925664397)
+
+---
+
+### 🕐 22:13 UTC · @elonmusk
+
+> Today I invited my Grok @bot to some meetings. (I just asked it to join. Simple as that). This is more than just a note taker. You can ask questions based on the conversation, summary, recap, advice, research. Im actually seeing the benefit
+
+🔗 [View original post](https://x.com/debs_obrien/status/2123540123815964810)
 
 ---
 

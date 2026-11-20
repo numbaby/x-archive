@@ -2,7 +2,23 @@
 
 ## 📅 November 19, 2026
 
-> 2 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 21:13 UTC · @ylecun
+
+> In this video, hear from CDS founding director Yann LeCun (@ylecun) about how our graduate programs prepare students for success in industry: a collaborative environment, capstone projects with New York companies, and faculty with industry affiliations. Media
+
+🔗 [View original post](https://x.com/NYUDataScience/status/2123524997444722751)
+
+---
+
+### 🕐 20:02 UTC · @ylecun
+
+> The real world is full of surprises, like a gust of wind while driving! Intelligent world models must reason about them, and imagine what would have happened under another action... We give JEPA world models this ability with provable guarantees 🧵⬇️ w/ @KerdaVaraku and @ylecun Media
+
+🔗 [View original post](https://x.com/randall_balestr/status/2123507263642161439)
 
 ---
 

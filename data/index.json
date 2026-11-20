@@ -160370,6 +160370,13 @@
       }
     ]
   },
+  "2123507263642161439": {
+    "account": "ylecun",
+    "date": "2026-11-19",
+    "file": "data/posts/2026/11/2026-11-19.jsonl",
+    "fingerprint": "a57738d350c168f61e5bbafe2a13b6c0ba5f20da3a393c9585fa4da75c9d0a33",
+    "media": []
+  },
   "2123511637584036078": {
     "account": "dair_ai",
     "date": "2026-11-19",
@@ -160430,6 +160437,13 @@
     "fingerprint": "56b431ce31ff7191e4806b68a466d0d362f67924d138d3b748d3c8fbaa5b018e",
     "media": []
   },
+  "2123524997444722751": {
+    "account": "ylecun",
+    "date": "2026-11-19",
+    "file": "data/posts/2026/11/2026-11-19.jsonl",
+    "fingerprint": "6612bec4d93f87d906fea02971c6532763763dbf3b210eeacc526075e1637998",
+    "media": []
+  },
   "2123529283368886709": {
     "account": "omarsar0",
     "date": "2026-11-19",
@@ -160450,6 +160464,13 @@
       }
     ]
   },
+  "2123540123815964810": {
+    "account": "elonmusk",
+    "date": "2026-11-19",
+    "file": "data/posts/2026/11/2026-11-19.jsonl",
+    "fingerprint": "74d8543ec231c87d3505842aa35542818a605376ca1d0649e806a6e962d179e2",
+    "media": []
+  },
   "2123541572490817605": {
     "account": "emollick",
     "date": "2026-11-19",
@@ -160464,6 +160485,13 @@
     "fingerprint": "8df081a35b8cbbae51f6a9f1c79fe8873936c4bf2dc036f60dccd0ba752d44bb",
     "media": []
   },
+  "2123553886925664397": {
+    "account": "elonmusk",
+    "date": "2026-11-19",
+    "file": "data/posts/2026/11/2026-11-19.jsonl",
+    "fingerprint": "51dc7de90f607793cd45996362d9d3165e63635692aa8140ca7a2c3d5d8322cd",
+    "media": []
+  },
   "2123558710362443783": {
     "account": "tunguz",
     "date": "2026-11-19",
@@ -160476,6 +160504,13 @@
     "date": "2026-11-19",
     "file": "data/posts/2026/11/2026-11-19.jsonl",
     "fingerprint": "982b6549f89e761a3db7df3529b84bb6f9732461c4076d12ad8c4fbbd51a3254",
+    "media": []
+  },
+  "2123567986565173289": {
+    "account": "demishassabis",
+    "date": "2026-11-20",
+    "file": "data/posts/2026/11/2026-11-20.jsonl",
+    "fingerprint": "c35149bb3cbf5c87d4d6e41494f3cdf5c7eef5f84c869baf64de6e1cf2532043",
     "media": []
   }
 }
