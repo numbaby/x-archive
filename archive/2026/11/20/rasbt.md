@@ -2,7 +2,17 @@
 
 ## 📅 November 20, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 21:52 UTC · @rasbt
+
+> Benchmarks loved it.
+
+![Benchmarks loved it.](../../../../assets/images/2026/11/20/2123897364503310431-1.jpg)
+
+🔗 [View original post](https://x.com/rasbt/status/2123897364503310431)
 
 ---
 

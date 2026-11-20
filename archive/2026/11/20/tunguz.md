@@ -2,7 +2,31 @@
 
 ## 📅 November 20, 2026
 
-> 15 post(s) archived.
+> 18 post(s) archived.
+
+---
+
+### 🕐 22:15 UTC · @tunguz
+
+> It&apos;s true, I did it once. Still have a big bump on my head from it. BREAKING: Jensen Huang reportedly painted a fake tunnel on a brick wall, tricking an employee into running headfirst into it.
+
+🔗 [View original post](https://x.com/tunguz/status/2123903047801905462)
+
+---
+
+### 🕐 21:53 UTC · @tunguz
+
+> So on top of it! 🫡 If you&apos;re in maths, pivot to physics.
+
+🔗 [View original post](https://x.com/tunguz/status/2123897574298116308)
+
+---
+
+### 🕐 21:52 UTC · @tunguz
+
+> All right, a J-curve transition it is.
+
+🔗 [View original post](https://x.com/tunguz/status/2123897292751020112)
 
 ---
 
