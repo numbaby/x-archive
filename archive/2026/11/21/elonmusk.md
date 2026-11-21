@@ -2,7 +2,49 @@
 
 ## 📅 November 21, 2026
 
-> 15 post(s) archived.
+> 20 post(s) archived.
+
+---
+
+### 🕐 19:13 UTC · @elonmusk
+
+> Shortest explanation is just: 🤯 Simple explanation of the usefulness of the Riemann proof (so far) is that it removes the conditional nature of other math theorems dependent upon it. And, of course, is yet another mind-blowing thing achieved by super intelligence … https://x.com/i/grok/share/bGVnYWN5_2b134790-…
+
+🔗 [View original post](https://x.com/elonmusk/status/2124219646459220296)
+
+---
+
+### 🕐 19:12 UTC · @elonmusk
+
+> Grok understands Elon means turning lunar and Mercurian material into optimized compute substrate: silicon solar cells harvesting power + aluminum radiators dumping waste heat to deep space (~3 K). Mercury gets ~6–9× Earth&apos;s solar flux (~9,000 W/m² mean). Its highly reduced regolith is silicon- …
+
+🔗 [View original post](https://x.com/elonmusk/status/2124219378489311656)
+
+---
+
+### 🕐 18:53 UTC · @elonmusk
+
+> @elonmusk This will help you visualize the Riemann theory. Media
+
+🔗 [View original post](https://x.com/leorinaldi1/status/2124214574836502743)
+
+---
+
+### 🕐 18:49 UTC · @elonmusk
+
+> Simple explanation of the usefulness of the Riemann proof (so far) is that it removes the conditional nature of other math theorems dependent upon it. And, of course, is yet another mind-blowing thing achieved by super intelligence … https://x.com/i/grok/share/bGVnYWN5_2b134790-72b8-47d6-b182-afb9b775bd6a
+
+🔗 [View original post](https://x.com/elonmusk/status/2124213680422387741)
+
+---
+
+### 🕐 11:15 UTC · @elonmusk
+
+> Incredible that this actually happened, seven years later. We are in a completely new world. To anyone who wants to “ban lying” on social media Please write down a function that takes in a statement and returns whether it is true If you can start with the Riemann Hypothesis that would be amazing
+
+![Incredible that this actually happened, seven years later. We are in a completely new world. To anyone who wants to “ban lying” on social media Please write down a function that takes in a statement a](../../../../assets/images/2026/11/21/2124099490110193793-1.jpg)
+
+🔗 [View original post](https://x.com/balajis/status/2124099490110193793)
 
 ---
 

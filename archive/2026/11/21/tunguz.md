@@ -2,7 +2,23 @@
 
 ## 📅 November 21, 2026
 
-> 14 post(s) archived.
+> 16 post(s) archived.
+
+---
+
+### 🕐 19:04 UTC · @tunguz
+
+> What if they have the proof but can&apos;t release it because they know this.
+
+🔗 [View original post](https://x.com/tunguz/status/2124217492252057779)
+
+---
+
+### 🕐 18:26 UTC · @tunguz
+
+> If P = NP it’s all over fr fr. P = NP is next. I really hope its not true, but if it is, God help us.
+
+🔗 [View original post](https://x.com/tunguz/status/2124207854924046387)
 
 ---
 

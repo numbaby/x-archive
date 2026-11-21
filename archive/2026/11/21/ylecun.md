@@ -2,7 +2,15 @@
 
 ## 📅 November 21, 2026
 
-> 5 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 17:37 UTC · @ylecun
+
+> I believe that, as human beings, we tend to overestimate the difference between what is &quot;average difficulty for humans&quot; and &quot;at the limits of human capabilities.&quot; I feel that we tend to downplay a machine that can do the former and be surprised by one that can do the latter.
+
+🔗 [View original post](https://x.com/Andrea__M/status/2124195384927129809)
 
 ---
 
