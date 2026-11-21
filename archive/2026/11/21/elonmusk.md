@@ -2,7 +2,17 @@
 
 ## 📅 November 21, 2026
 
-> 5 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 07:47 UTC · @elonmusk
+
+> Elon Musk with his brother Kimbal and sister Tosca in 1990.
+
+![Elon Musk with his brother Kimbal and sister Tosca in 1990.](../../../../assets/images/2026/11/21/2124047095460245567-1.jpg)
+
+🔗 [View original post](https://x.com/cb_doge/status/2124047095460245567)
 
 ---
 
@@ -19,6 +29,16 @@
 > We’ve had monkeys playing video while drinking banana smoothies for 5 years. Not a bad life. How it started vs how it&apos;s going In April 2021, Neuralink showed Pager the macaque playing MindPong with his brain Now a Neuralink patient is flying a plane in GTA VI with 2 joysticks and 12 buttons of control, all with his brain Before the implant, he used a mouth stick on an i…
 
 🔗 [View original post](https://x.com/elonmusk/status/2124044780099285426)
+
+---
+
+### 🕐 07:35 UTC · @elonmusk
+
+> Grok bot is still by far my most used personal agent True
+
+![Grok bot is still by far my most used personal agent True](../../../../assets/images/2026/11/21/2124044033886728272-1.jpg)
+
+🔗 [View original post](https://x.com/ArthurMacwaters/status/2124044033886728272)
 
 ---
 
