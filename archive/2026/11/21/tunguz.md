@@ -2,7 +2,15 @@
 
 ## 📅 November 21, 2026
 
-> 18 post(s) archived.
+> 19 post(s) archived.
+
+---
+
+### 🕐 22:45 UTC · @tunguz
+
+> ngl, that does feel very wrong i’m trying really hard to be excited about these (objectively awesome) scientific breakthroughs, but there’s something about all of this that just doesn’t sit quite right i think it’s the fact that these discoveries are being made using models that the rest of us plebs aren’t ev…
+
+🔗 [View original post](https://x.com/tunguz/status/2124273099625689269)
 
 ---
 

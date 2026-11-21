@@ -2,7 +2,17 @@
 
 ## 📅 November 21, 2026
 
-> 7 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 18:47 UTC · @ylecun
+
+> A young child has died from measles in Virginia, marking the state’s first measles-related death in 48 years. Virginia has reported 220 cases in 2026, more than the previous 34 years combined. The news comes just days after the U.S. lost its measles elimination status after 26 years
+
+![A young child has died from measles in Virginia, marking the state’s first measles-related death in 48 years. Virginia has reported 220 cases in 2026, more than the previous 34 years combined. The new](../../../../assets/images/2026/11/21/2124213033173991718-1.jpg)
+
+🔗 [View original post](https://x.com/RpsAgainstTrump/status/2124213033173991718)
 
 ---
 

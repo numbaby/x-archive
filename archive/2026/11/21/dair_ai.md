@@ -2,7 +2,15 @@
 
 ## 📅 November 21, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 22:54 UTC · @dair_ai
+
+> Recommended reading on building a &quot;knowledge factory&quot;. The biggest transformation in my agent setup recently is feeding it knowledge at the right time. This compounds in insane ways with proactive agents that can connect bits of knowledge over time. It&apos;s such a magical experience when your agent reminds you of an experiment or suggests you reach back out to a connection. There are no standards for how you build a knowledge factory. For instance, I use graphs of MD files. MD files are versatile and are the preferred language of LLM agents, and graphs provide structure, which turns out to help agents a ton. OKF is an interesting format for capturing semantics better, but I agree you don&apos;t want to be overprescriptive here. I have built several LLM Wikis (research papers, experimental results, etc.) that together make up my knowledge factory. In terms of building it, what I have found works best is interacting with your agents and co-evolving the knowledge factory as you go. No need to overcomplicate things initially. As a researcher, I&apos;ve built other forms, like an eval factory and a content factory, that build on top of this knowledge factory; they are all key to the software factory. Okay, I know I used the word &quot;factory&quot; too much, but you get the point. This compounds. all our agents at langchain (internal GTM &amp; content agents, LangSmith Engine) have a learning loop with similar pieces wrote about what we think makes up a &quot;knowledge factory&quot; https://x.com/i/article/2124180107669766144
+
+🔗 [View original post](https://x.com/omarsar0/status/2124275237042733374)
 
 ---
 

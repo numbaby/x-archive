@@ -2,7 +2,31 @@
 
 ## 📅 November 21, 2026
 
-> 24 post(s) archived.
+> 29 post(s) archived.
+
+---
+
+### 🕐 23:16 UTC · @elonmusk
+
+> Give Grok @Bot your hardest tasks Grok Bot planned a 5,000-person conference Ron Biscardi (@rbiscardi) says his team used Grok Bot for literally everything to set up the TomorrowX Summit at record speed: “Grok Bot is what made this whole event possible.” “My COO, who normally isn’t doing in-the-weeds stuff, had …
+
+🔗 [View original post](https://x.com/elonmusk/status/2124280710747840889)
+
+---
+
+### 🕐 22:35 UTC · @elonmusk
+
+> This is real-time AI video generation (no gaming engine!) using just half of one AI4 TRIP accelerator. Let that sink in … The crazier thing is that the right side uses less compute than what the left used to take. Extreme compute efficiency optimization.
+
+🔗 [View original post](https://x.com/elonmusk/status/2124270426402836626)
+
+---
+
+### 🕐 22:17 UTC · @elonmusk
+
+> v15 is 25x safer than v14 across the fleet. That’s hard to notice on any individual drive because most drives are already very safe. The difference only becomes clear when you aggregate millions of miles. All credit goes to the incredibly talented and dedicated @TeslaSI engineers who made this possible. It’s an honor to work alongside them. FSD v15 now starting to roll out – upgrading every part of the end-to-end driving network Safety 25x better handling of safety critical cases Tesla Reality View Adds a live visualization of the drive that lets you see &amp; control what FSD is planning to do Navigation for start &amp; e…
+
+🔗 [View original post](https://x.com/pduan/status/2124265867336966182)
 
 ---
 
@@ -27,6 +51,16 @@
 > In FSD V15, the Tesla AI computer re-renders reality with chevrons in the sky for turns like a video game. You can tap any point on the reality revisualizer to make your car go there. Media
 
 🔗 [View original post](https://x.com/elonmusk/status/2124238164512714925)
+
+---
+
+### 🕐 20:00 UTC · @elonmusk
+
+> FSD visualizations 6 years apart
+
+![FSD visualizations 6 years apart](../../../../assets/images/2026/11/21/2124231512237249008-1.jpg)
+
+🔗 [View original post](https://x.com/SawyerMerritt/status/2124231512237249008)
 
 ---
 
@@ -69,6 +103,16 @@
 > Simple explanation of the usefulness of the Riemann proof (so far) is that it removes the conditional nature of other math theorems dependent upon it. And, of course, is yet another mind-blowing thing achieved by super intelligence … https://x.com/i/grok/share/bGVnYWN5_2b134790-72b8-47d6-b182-afb9b775bd6a
 
 🔗 [View original post](https://x.com/elonmusk/status/2124213680422387741)
+
+---
+
+### 🕐 16:51 UTC · @elonmusk
+
+> FSD V12 Introduced end-to-end neural-network driving. FSD V13 built on that and reduced interventions. FSD V14 brought point-to-point travel and a huge leap in capability, helping FSD start to go mainstream. FSD V15 will bring: • Pothole avoidance • AI-based mapping and navigation rather than relying on conventional third-party maps. • A new user interface that will re-render reality in a &quot;mind-bending way.&quot; • Fleet intelligence that incorporates driving information collected across Tesla vehicles. • Voice integration, allowing drivers to request different routes conversationally (likely through Grok). • Improved parking, destination handling and trip planning. • 10x parameter count increase • New lane change and exiting behavior • And eventually (2027 for Model Y), FSD Unsupervised for personal cars (Tesla&apos;s robotaxis already run V15, and the personal Cybercabs being delivered next month likely will too).
+
+![FSD V12 Introduced end-to-end neural-network driving. FSD V13 built on that and reduced interventions. FSD V14 brought point-to-point travel and a huge leap in capability, helping FSD start to go main](../../../../assets/images/2026/11/21/2124183811202187404-1.jpg)
+
+🔗 [View original post](https://x.com/SawyerMerritt/status/2124183811202187404)
 
 ---
 
