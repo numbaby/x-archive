@@ -2,7 +2,17 @@
 
 ## 📅 November 21, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 17:55 UTC · @dair_ai
+
+> Can coding agents build better RAG systems than the best published human designs? AutoRAGBench gives an agent nine RAG development tasks to measure this. There is no starter code and no suggested approach. The agent gets six hours and one H800 GPU to analyze the data, build a pipeline, and refine it from experiments. GPT-6.1 Sol with Codex CLI averages 56.1. The composite human baseline, which takes the best published method on each task, averages 44.4. When the agent starts from a human-designed system instead of from scratch, it adds 16.6 points on average across seven tasks. The paper compares nine agent setups and also studies how each one&apos;s development process unfolds over the six hours. Paper: https://arxiv.org/abs/2611.25582 Chat with Paper: https://academy.dair.ai/papers/autoragbench-a-benchmark-for-llm-agents-automating-rag-system-development-2611.25582
+
+![Can coding agents build better RAG systems than the best published human designs? AutoRAGBench gives an agent nine RAG development tasks to measure this. There is no starter code and no suggested appr](../../../../assets/images/2026/11/21/2124199923424104874-1.png)
+
+🔗 [View original post](https://x.com/omarsar0/status/2124199923424104874)
 
 ---
 

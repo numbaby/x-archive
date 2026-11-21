@@ -2,7 +2,23 @@
 
 ## 📅 November 21, 2026
 
-> 12 post(s) archived.
+> 14 post(s) archived.
+
+---
+
+### 🕐 18:17 UTC · @tunguz
+
+> The only thing worse than having tech people in charge of tech policy is having non-tech people in charge of tech policy.
+
+🔗 [View original post](https://x.com/tunguz/status/2124205538292445447)
+
+---
+
+### 🕐 18:05 UTC · @tunguz
+
+> Oh yes it&apos;s an explosion all right.
+
+🔗 [View original post](https://x.com/tunguz/status/2124202648748605587)
 
 ---
 
