@@ -2,7 +2,15 @@
 
 ## 📅 November 21, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 13:00 UTC · @AiEvolutio58513
+
+> Elon Musk was asked what chance he gives that we&apos;re living in a simulation: &quot;Probably pretty high.&quot; &quot;It&apos;s gone from very simple video games where you&apos;ve got like Pong. You&apos;ve got two rectangles in a square just batting it back and forth, to photorealistic real-time games with millions of people playing simultaneously. And that&apos;s happened just in the span of 50 years.&quot; &quot;If that trend continues, video games will be indistinguishable from reality.&quot; &quot;So then what are the odds that we are in base reality?&quot; Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media Dario Amodei says engineers at Anthropic have stopped writing code: &quot;I have engineers within Anthropic who say I don&apos;t write any code anymore. I just let the model write the code. I edit it.&quot; &quot;We might be six to 12 months away from when the model is doing most, maybe all, of wha…
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2124125737926205532)
 
 ---
 
