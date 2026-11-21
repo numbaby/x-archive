@@ -2,7 +2,15 @@
 
 ## 📅 November 21, 2026
 
-> 17 post(s) archived.
+> 18 post(s) archived.
+
+---
+
+### 🕐 21:53 UTC · @tunguz
+
+> I wish Gary Marcus were still with us to see all of this.
+
+🔗 [View original post](https://x.com/tunguz/status/2124259842265378847)
 
 ---
 

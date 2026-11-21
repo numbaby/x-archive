@@ -2,7 +2,15 @@
 
 ## 📅 November 21, 2026
 
-> 6 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 17:45 UTC · @ylecun
+
+> Yann LeCun says when you train an LLM on human-produced knowledge, you&apos;re training it to accumulate what&apos;s already known That&apos;s not intelligence; that&apos;s memory It&apos;s rote learning, not reasoning, invention, creativity or adaptivity. It&apos;s not the intelligence we see in animals Media
+
+🔗 [View original post](https://x.com/haider1/status/2124197399052865698)
 
 ---
 

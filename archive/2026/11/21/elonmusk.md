@@ -2,7 +2,7 @@
 
 ## 📅 November 21, 2026
 
-> 23 post(s) archived.
+> 24 post(s) archived.
 
 ---
 
@@ -27,6 +27,16 @@
 > In FSD V15, the Tesla AI computer re-renders reality with chevrons in the sky for turns like a video game. You can tap any point on the reality revisualizer to make your car go there. Media
 
 🔗 [View original post](https://x.com/elonmusk/status/2124238164512714925)
+
+---
+
+### 🕐 19:39 UTC · @elonmusk
+
+> Here are the new FSD visualizations in FSD V15. It continuously streams a view from an arbitrary virtual camera situated above your vehicle. Upcoming navigation turns display directly in the driving visualization. Turn signals are quieter and fade out after a few clicks.
+
+![Here are the new FSD visualizations in FSD V15. It continuously streams a view from an arbitrary virtual camera situated above your vehicle. Upcoming navigation turns display directly in the driving v](../../../../assets/images/2026/11/21/2124226258196103492-1.jpg)
+
+🔗 [View original post](https://x.com/SawyerMerritt/status/2124226258196103492)
 
 ---
 
