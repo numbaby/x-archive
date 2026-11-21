@@ -2,7 +2,7 @@
 
 ## 📅 November 20, 2026
 
-> 8 post(s) archived.
+> 9 post(s) archived.
 
 ---
 
@@ -43,6 +43,14 @@
 ![🔜 why @j_schottenstein left @getdbt for @LangChain to build it into a $3B startup… ….and now they are having to reinvent the content, context (knowledge) and software factory from scratch! having inco](../../../../assets/images/2026/11/20/2123843282082132335-1.jpg)
 
 🔗 [View original post](https://x.com/swyx/status/2123843282082132335)
+
+---
+
+### 🕐 12:25 UTC · @swyx
+
+> We’re hearing a lot of shit about guys who play video games from women whose only hobby is phone.
+
+🔗 [View original post](https://x.com/BENZOTOOIE/status/2123754533738143744)
 
 ---
 

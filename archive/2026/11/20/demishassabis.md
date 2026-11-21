@@ -2,7 +2,17 @@
 
 ## 📅 November 20, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 23:27 UTC · @demishassabis
+
+> Yes, Gemini 4 Neon is *that* good. I subscribed to Ultra tier. Well done @Google
+
+![Yes, Gemini 4 Neon is *that* good. I subscribed to Ultra tier. Well done @Google](../../../../assets/images/2026/11/20/2123921122219708568-1.jpg)
+
+🔗 [View original post](https://x.com/kimmonismus/status/2123921122219708568)
 
 ---
 
