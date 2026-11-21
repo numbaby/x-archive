@@ -2,7 +2,23 @@
 
 ## 📅 November 21, 2026
 
-> 2 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 05:28 UTC · @emollick
+
+> Big win for the humanities. And the math people thought they had the key to everything. (Yes, yes, matrix multiplication is impressive, but it wouldn’t matter if it weren’t being done on representations of language. And their textbooks were written in words anyway.)
+
+🔗 [View original post](https://x.com/emollick/status/2124011965605380422)
+
+---
+
+### 🕐 05:22 UTC · @emollick
+
+> It is amazing that human language turned out to be so unreasonably effective at modeling the universe that training a system to predict what comes next in a sentence would get us this far.
+
+🔗 [View original post](https://x.com/emollick/status/2124010579836768572)
 
 ---
 
