@@ -2,7 +2,15 @@
 
 ## 📅 November 21, 2026
 
-> 16 post(s) archived.
+> 17 post(s) archived.
+
+---
+
+### 🕐 20:15 UTC · @tunguz
+
+> Remember how we treated each other like crap because of things we had no choice over and asserted our birthright over things that we had lucked out with? Well, AI remembers. AI remembers everything.
+
+🔗 [View original post](https://x.com/tunguz/status/2124235260925735328)
 
 ---
 

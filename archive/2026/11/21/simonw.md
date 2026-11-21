@@ -2,7 +2,15 @@
 
 ## 📅 November 21, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 19:28 UTC · @simonw
+
+> Here&apos;s the full comparison grid for Gemini 4 Carbon, Neon and Hydrogen across all of their reasoning levels https://static.simonwillison.net/static/2026/gemini-4-carbon-neon-hydrogen-with-xhigh.html
+
+🔗 [View original post](https://x.com/simonw/status/2124223349769609407)
 
 ---
 

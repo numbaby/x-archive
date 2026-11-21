@@ -2,7 +2,23 @@
 
 ## 📅 November 21, 2026
 
-> 7 post(s) archived.
+> 9 post(s) archived.
+
+---
+
+### 🕐 20:09 UTC · @omarsar0
+
+> To be fair, Opus 5.5 tends to do better at designing and producing these videos. But that doesn&apos;t matter to me. I like that Neon strikes a good balance between speed and knwoledge/intelligence, which I think we all want in frontier models. A daily driver needs to have those qualities, imo. Now I am going to continue testing it on hard and complex tasks. I have plenty of those related to research tasks.
+
+🔗 [View original post](https://x.com/omarsar0/status/2124233766873006380)
+
+---
+
+### 🕐 19:24 UTC · @omarsar0
+
+> P vs NP explainer. This is fun. Gemini Neon has really surprised me here. I was mostly doing these with Claude Opus 5.5. Media
+
+🔗 [View original post](https://x.com/omarsar0/status/2124222560128938370)
 
 ---
 

@@ -162074,5 +162074,33 @@
     "file": "data/posts/2026/11/2026-11-21.jsonl",
     "fingerprint": "68d80ad9e2791cc469dc843964030f9db1387686d143fc8d9fbc11f483a4b86b",
     "media": []
+  },
+  "2124222560128938370": {
+    "account": "omarsar0",
+    "date": "2026-11-21",
+    "file": "data/posts/2026/11/2026-11-21.jsonl",
+    "fingerprint": "e347b77e30f721797809d71656801ea8d16121d36ada8c195d96e57c4f625b5b",
+    "media": []
+  },
+  "2124223349769609407": {
+    "account": "simonw",
+    "date": "2026-11-21",
+    "file": "data/posts/2026/11/2026-11-21.jsonl",
+    "fingerprint": "74833eb4f817856b719b640e92c3c7bb445f139028f29d625a71692bc892c4b8",
+    "media": []
+  },
+  "2124233766873006380": {
+    "account": "omarsar0",
+    "date": "2026-11-21",
+    "file": "data/posts/2026/11/2026-11-21.jsonl",
+    "fingerprint": "8aa823ed240b6522494e7ba92436ea9110a5c38380eaab2bf4e780e1b3b6fac2",
+    "media": []
+  },
+  "2124235260925735328": {
+    "account": "tunguz",
+    "date": "2026-11-21",
+    "file": "data/posts/2026/11/2026-11-21.jsonl",
+    "fingerprint": "3852f9833a91d4cc86308559abe7480ac2c20eabde2d85cec04b3bbf121ee2fe",
+    "media": []
   }
 }
