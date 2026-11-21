@@ -2,7 +2,49 @@
 
 ## 📅 November 21, 2026
 
-> 5 post(s) archived.
+> 10 post(s) archived.
+
+---
+
+### 🕐 15:01 UTC · @tunguz
+
+> I mean, destroying your own tech industry is one of the ways you can ensure that the Chinese don’t benefit from it.
+
+🔗 [View original post](https://x.com/tunguz/status/2124156138581315598)
+
+---
+
+### 🕐 14:44 UTC · @tunguz
+
+> Even bolder prediction: this tweet will not age well. Bold prediction: P vs NP will hold out until at least 2027 ;)
+
+🔗 [View original post](https://x.com/tunguz/status/2124151938812104946)
+
+---
+
+### 🕐 14:43 UTC · @tunguz
+
+> Yes. The hardest message to get across right now is that AI is actually underhyped. Most people, including many who work in AI, seem to want it to fail. Perhaps that&apos;s human nature. The implications are enormous, largely unknown, and deeply unsettling
+
+🔗 [View original post](https://x.com/tunguz/status/2124151676999287233)
+
+---
+
+### 🕐 14:26 UTC · @tunguz
+
+> Waterboarding of underperforming managers was one of the standard practices at NVIDIA. Jensen personally supervised all of them.
+
+![Waterboarding of underperforming managers was one of the standard practices at NVIDIA. Jensen personally supervised all of them.](../../../../assets/images/2026/11/21/2124147332224565463-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2124147332224565463)
+
+---
+
+### 🕐 14:14 UTC · @tunguz
+
+> Yes. MLX rocks, easy and simple.
+
+🔗 [View original post](https://x.com/tunguz/status/2124144511198585158)
 
 ---
 
