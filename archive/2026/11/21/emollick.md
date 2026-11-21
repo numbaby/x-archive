@@ -1,0 +1,25 @@
+# 🐦 @emollick
+
+## 📅 November 21, 2026
+
+> 2 post(s) archived.
+
+---
+
+### 🕐 03:04 UTC · @emollick
+
+> Same thread This never gets old (&amp; also shows how hard forecasting AI is even for AI) “Hey Claude Fable &amp; GPT-6 Astra, Without looking anything up, when do you think we will solve the Exponential Time Hypothesis?” (I only show part of the answers for space)
+
+![Same thread This never gets old (&amp; also shows how hard forecasting AI is even for AI) “Hey Claude Fable &amp; GPT-6 Astra, Without looking anything up, when do you think we will solve the Exponent](../../../../assets/images/2026/11/21/2123975764664066542-1.png)
+
+🔗 [View original post](https://x.com/emollick/status/2123975764664066542)
+
+---
+
+### 🕐 02:51 UTC · @emollick
+
+> I think trying to track how much work AI can do autonomously is critical, and this is a useful counter to some of the most audacious claims about the state of autonomous AI research. But I do want to note that the focus on research tasks at the most advanced AI research organizations on the planet also runs the risk of substantially underestimating what AI can already do in terms of economically valuable tasks. Its worth separating the two (and I don&apos;t think Ramez is claiming they are not seperated). Most work is not frontier AI research, and there AI can be tremendously successful. Epoch&apos;s MirrorCode results, for example, show AI autonomously reimplementing software that the researchers estimate would take a humans 2-17 weeks. This is well-specified work, so it has very different boundary conditions. Plus, in the real world, some human intervention is fine (in my mind, vastly preferrable to no human role for a variety of reasons). Occasional guidance can still leave you with enormous productivity gains, even if that doesn’t satisfy the requirements for fully autonomous AI research. And even in the case of AI research, the same OpenAI report includes researchers estimating that a month of their team’s work would have taken three months without coding agents, on average. In short, RSI/AI-driven research progress may not tightly couple with progress on economically valuable tasks, and the variance and range on those tasks are less well understood. New from me: The most important graphs in AI are wrong. Specifically, measures of the length of task AIs can autonomously accomplish are dramatically different than real-world data from inside OpenAI and Google. 🧵 https://www.rameznaam.com/p/the-most-important-charts-in-ai-are
+
+🔗 [View original post](https://x.com/emollick/status/2123972584400204199)
+
+---
