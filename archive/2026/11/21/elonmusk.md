@@ -2,7 +2,31 @@
 
 ## 📅 November 21, 2026
 
-> 20 post(s) archived.
+> 23 post(s) archived.
+
+---
+
+### 🕐 20:40 UTC · @elonmusk
+
+> It’s high time we probed Uranus again! Much better images are needed (actually).
+
+🔗 [View original post](https://x.com/elonmusk/status/2124241570451054609)
+
+---
+
+### 🕐 20:27 UTC · @elonmusk
+
+> It’s like GTA Here are the new FSD visualizations in FSD V15. It continuously streams a view from an arbitrary virtual camera situated above your vehicle. Upcoming navigation turns display directly in the driving visualization. Turn signals are quieter and fade out after a few clicks.
+
+🔗 [View original post](https://x.com/elonmusk/status/2124238249686159590)
+
+---
+
+### 🕐 20:26 UTC · @elonmusk
+
+> In FSD V15, the Tesla AI computer re-renders reality with chevrons in the sky for turns like a video game. You can tap any point on the reality revisualizer to make your car go there. Media
+
+🔗 [View original post](https://x.com/elonmusk/status/2124238164512714925)
 
 ---
 

@@ -2,7 +2,17 @@
 
 ## 📅 November 21, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 21:00 UTC · @dair_ai
+
+> Brilliant work from Google on speculative decoding for Gemma 4. This matters a lot if your agents generate long outputs, because faster decoding lowers both latency and serving cost. The team built a multi-token prediction drafter directly into the model. It uses one shared drafting head that reads the backbone&apos;s own activations and its existing KV cache. That removes the separate prefill step a standalone drafter needs. A clustered vocabulary projection also cuts the cost of each draft step, which helps most on small devices. The speedups reach 3.1x for large models on servers. Small models get up to 2.3x on an H100 and up to 2.2x on a smartphone GPU. They also tested fine-tuning. When the backbone is adapted to a new domain, distilling the drafter with it needs up to 1.83x fewer target forward passes than tuning the backbone alone. The code for the domain adaptation recipes is public. https://arxiv.org/abs/2611.25813 Chat with Paper: https://academy.dair.ai/papers/efficient-and-robust-drafting-with-multi-token-prediction-2611.25813
+
+![Brilliant work from Google on speculative decoding for Gemma 4. This matters a lot if your agents generate long outputs, because faster decoding lowers both latency and serving cost. The team built a ](../../../../assets/images/2026/11/21/2124246507125903841-1.jpg)
+
+🔗 [View original post](https://x.com/dair_ai/status/2124246507125903841)
 
 ---
 
