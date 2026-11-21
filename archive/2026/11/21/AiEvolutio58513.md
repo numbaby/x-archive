@@ -2,7 +2,15 @@
 
 ## 📅 November 21, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 11:00 UTC · @AiEvolutio58513
+
+> Elon Musk says AI chips are about to start piling up unused: &quot;Chip production will probably outpace the ability to turn chips on.&quot; &quot;The constraint for server-side compute, concentrated compute, will be electricity. My guess is that people start getting to the point where they can&apos;t turn the chips on for large clusters towards the end of this year.&quot; &quot;The chips are going to be piling up and won&apos;t be able to be turned on.&quot; Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media Elon Musk was asked which company he&apos;d buy stock in if it couldn&apos;t be one of his own: &quot;AI and robotics are going to be very important.&quot; &quot;Google is going to be pretty valuable in the future. They&apos;ve laid the groundwork for an immense amount of value creation from an AI standpoint…
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2124095530594955358)
 
 ---
 
