@@ -2,7 +2,23 @@
 
 ## 📅 November 21, 2026
 
-> 10 post(s) archived.
+> 12 post(s) archived.
+
+---
+
+### 🕐 15:54 UTC · @tunguz
+
+> Levent Alpöge&apos;s Claude-assisted Riemann Hypothesis proof has been officially Lean verified. The Lean FRO and Mathlib Initiative have released a joint statement on the Lean verification of the Riemann Hypothesis. On November 20, Levent Alpöge released a proof of the Riemann Hypothesis as a Lean library of 17 million lines of code. Over the past day, the Lean and Mathlib…
+
+🔗 [View original post](https://x.com/tunguz/status/2124169502715744278)
+
+---
+
+### 🕐 15:32 UTC · @tunguz
+
+> He&apos;s an early Anthropic employee but he&apos;s 5&apos;11&quot;.
+
+🔗 [View original post](https://x.com/tunguz/status/2124163946756083861)
 
 ---
 

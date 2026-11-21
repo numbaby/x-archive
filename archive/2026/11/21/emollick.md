@@ -2,7 +2,15 @@
 
 ## 📅 November 21, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 16:08 UTC · @emollick
+
+> We really are in a (temporary?) place where a combination of expertise and being able to work with AI allows people to do incredible things. It is no coincidence that people proving Millennium Problems have all been great mathematicians, the models can&apos;t (yet) do it on their own Today in AI as complements: the Harvard valedictorian, Princeton PhD, HSF, who went into AI after working on Riemann for years, solved it. I didn&apos;t, you didn&apos;t, the other folks at the labs didn&apos;t. Human judgement about what is worthwhile, what is verified, what is possible...
+
+🔗 [View original post](https://x.com/emollick/status/2124173181065806006)
 
 ---
 

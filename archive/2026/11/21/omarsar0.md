@@ -2,7 +2,15 @@
 
 ## 📅 November 21, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 15:29 UTC · @omarsar0
+
+> Let me know below if you would like me to put together a list of resources, tools, etc to help you think and apply this approach more easily in your own workflows.
+
+🔗 [View original post](https://x.com/omarsar0/status/2124163271858999745)
 
 ---
 

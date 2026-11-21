@@ -2,7 +2,15 @@
 
 ## 📅 November 21, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 15:20 UTC · @ylecun
+
+> C&apos;était pour Jensen une manière, peut-être maladroite, de complimenter @arthurmensch sur son intelligence. Il dit clairement qu&apos;il a du mal à comprendre Arthur, non pas à cause de son accent, mais parce qu&apos;il vole au dessus de lui intellectuellement. De même que l&apos;accent british, l&apos;accent français donne au locuteur une aura d&apos;intellect supérieur du point de vue des américains.
+
+🔗 [View original post](https://x.com/ylecun/status/2124160929860338080)
 
 ---
 
