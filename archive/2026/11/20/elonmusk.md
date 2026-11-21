@@ -2,7 +2,7 @@
 
 ## 📅 November 20, 2026
 
-> 25 post(s) archived.
+> 27 post(s) archived.
 
 ---
 
@@ -11,6 +11,16 @@
 > Hear me out: “Singularity dot Com”, a dating site for digital superintelligences …
 
 🔗 [View original post](https://x.com/elonmusk/status/2123852660688494744)
+
+---
+
+### 🕐 18:43 UTC · @elonmusk
+
+> @elonmusk
+
+![@elonmusk](../../../../assets/images/2026/11/20/2123849846922899566-1.png)
+
+🔗 [View original post](https://x.com/reflex_division/status/2123849846922899566)
 
 ---
 
@@ -157,6 +167,16 @@
 > Tesla’s AI, running on our little AI4 computer, can now reach Torment II in Diablo
 
 🔗 [View original post](https://x.com/elonmusk/status/2123726569206415815)
+
+---
+
+### 🕐 09:45 UTC · @elonmusk
+
+> BREAKING: Tesla has released more photos from Elon Musk’s visit to Giga Shanghai, including moments with the team and a special gift designed and handmade by factory employees using leftover materials.
+
+![BREAKING: Tesla has released more photos from Elon Musk’s visit to Giga Shanghai, including moments with the team and a special gift designed and handmade by factory employees using leftover materials](../../../../assets/images/2026/11/20/2123714352905859195-1.jpg)
+
+🔗 [View original post](https://x.com/cb_doge/status/2123714352905859195)
 
 ---
 
