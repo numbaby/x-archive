@@ -2,7 +2,7 @@
 
 ## 📅 November 20, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
 
 ---
 
@@ -21,6 +21,14 @@
 > Fantastic to be collaborating with Merck on designing a new cancer drug - another important proof point of the rapid progress we’re making at Iso on reimagining drug discovery! Today, we enter a strategic research collaboration with @MSDInvents. The collaboration brings together Isomorphic Labs’ world-leading frontier AI capabilities with MSD’s deep discovery, development and manufacturing expertise. Read more: https://www.isomorphiclabs.com/articles/i…
 
 🔗 [View original post](https://x.com/demishassabis/status/2123871861843075099)
+
+---
+
+### 🕐 16:26 UTC · @demishassabis
+
+> Googleの世界モデル「Genie 4」が使えるようになったので、渋谷を歩いてみた 歩いている人まで破綻せずリアルタイムで生成されててすごい 振り向いたらここどこ?ってなったり、数年前の動画生成画質並みだけど可能性は感じる 生成中は10秒で約1ドル 信号待ちにもお金がかかる渋谷です Media
+
+🔗 [View original post](https://x.com/3DVR3/status/2123815205453066508)
 
 ---
 
