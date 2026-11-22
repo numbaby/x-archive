@@ -2,7 +2,39 @@
 
 ## 📅 November 22, 2026
 
-> 4 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 14:31 UTC · @tunguz
+
+> Biology and all of complex many-body problems are NP. We&apos;ll only get &quot;Lean for biology&quot; if P=NP. Only if we had Lean for biology
+
+🔗 [View original post](https://x.com/tunguz/status/2124511008118968340)
+
+---
+
+### 🕐 13:50 UTC · @tunguz
+
+> We now know that in the age of AI meteoric fall can happen to anyone at any time with no advance notice. But so can meteoric rise. The unhingiest of times.
+
+🔗 [View original post](https://x.com/tunguz/status/2124500894427316487)
+
+---
+
+### 🕐 13:47 UTC · @tunguz
+
+> 70 days to flatten the curve. BREAKING: Math projected to be solved in under 70 days at current pace.
+
+🔗 [View original post](https://x.com/tunguz/status/2124499998440038482)
+
+---
+
+### 🕐 13:36 UTC · @tunguz
+
+> mlx-geospatial 0.1.2 is out! Huge improvements on select algorithms on Apple Silicon. Go check it out: pip install -U mlx-geospatial 2,284× on M4 Max. 1,256× on M1 Ultra. mlx-geospatial v0.1.2 is out. Those peak ratios compare DuckDB counts on registered inputs with MLX pair arrays from a warm index. Synthetic workloads, minimum wall times, and exact_boundary=False for MLX. 1/4
+
+🔗 [View original post](https://x.com/tunguz/status/2124497197064741069)
 
 ---
 
