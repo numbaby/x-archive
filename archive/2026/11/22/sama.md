@@ -2,7 +2,23 @@
 
 ## 📅 November 22, 2026
 
-> 2 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 17:40 UTC · @sama
+
+> Labs agreed under the White House Accords to establish standards and best practices to improve the safety of their systems, and I believe a discussion about the use of perplexity can further these goals.
+
+🔗 [View original post](https://x.com/sama/status/2124558713646428663)
+
+---
+
+### 🕐 17:28 UTC · @sama
+
+> i meant &quot;field&quot; ugh
+
+🔗 [View original post](https://x.com/sama/status/2124555601745441130)
 
 ---
 
