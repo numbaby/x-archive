@@ -2,7 +2,15 @@
 
 ## 📅 November 22, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 13:00 UTC · @AiEvolutio58513
+
+> Elon Musk was asked what he&apos;d do if he had to start over with only $1,000: &quot;I did originally come to North America with like, I don&apos;t know, 2,500 bucks Canadian... one bag of books and one bag of clothes in Montreal at age 17. So that is how I started out.&quot; &quot;Either something truly catastrophic has happened, like civilization has melted, or I will be able to ask people to just give me money with the promise that I will have a high return.&quot; &quot;If you give me a dollar, you will get back much more than a dollar.&quot; Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media Elon Musk was asked what chance he gives that we&apos;re living in a simulation: &quot;Probably pretty high.&quot; &quot;It&apos;s gone from very simple video games where you&apos;ve got like Pong. You&apos;ve got two rectangles in a square just batting it back and forth, to photorealistic real-time games with mi…
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2124488113443733518)
 
 ---
 
