@@ -2,7 +2,33 @@
 
 ## 📅 November 22, 2026
 
-> 6 post(s) archived.
+> 11 post(s) archived.
+
+---
+
+### 🕐 02:13 UTC · @elonmusk
+
+> Looks like an SI curve SpaceX has now launched more payload mass to orbit in 20 years than the rest of the US combined since 1957.
+
+🔗 [View original post](https://x.com/elonmusk/status/2124325451908948451)
+
+---
+
+### 🕐 01:30 UTC · @elonmusk
+
+> I just had Grok @bot go through all of my Amazon orders and look for refunds that were never issued. It found $590.62 in missing refunds over several years, opened a support chat, talked to customer service, and got them to agree to issue the refunds. This product literally pays for itself 🤯
+
+![I just had Grok @bot go through all of my Amazon orders and look for refunds that were never issued. It found $590.62 in missing refunds over several years, opened a support chat, talked to customer s](../../../../assets/images/2026/11/22/2124314532126323042-1.jpg)
+
+🔗 [View original post](https://x.com/cstanley/status/2124314532126323042)
+
+---
+
+### 🕐 01:06 UTC · @elonmusk
+
+> Taking Tesla FSD V15 on the highway. Love all the floating arrows lol Media
+
+🔗 [View original post](https://x.com/SawyerMerritt/status/2124308533944672413)
 
 ---
 
@@ -11,6 +37,22 @@
 > If you zoom out a little further, you can see our simulation playing on the screen of the creators. Overheard in Palo Alto: GTA 6’s real-world mode just dropped on Teslas.
 
 🔗 [View original post](https://x.com/shivon/status/2124306728514949325)
+
+---
+
+### 🕐 00:46 UTC · @elonmusk
+
+> The chevrons also show you where FSD V15 intends to park and Elon said you can just tap the screen to adjust the precise location if you want it to choose a different spot/area Media
+
+🔗 [View original post](https://x.com/DillonLoomis/status/2124303507570221181)
+
+---
+
+### 🕐 00:33 UTC · @elonmusk
+
+> FSD XV is mind blowing @elonmusk Media
+
+🔗 [View original post](https://x.com/Chansoo/status/2124300108447547889)
 
 ---
 
