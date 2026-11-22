@@ -2,7 +2,23 @@
 
 ## 📅 November 22, 2026
 
-> 11 post(s) archived.
+> 14 post(s) archived.
+
+---
+
+### 🕐 03:14 UTC · @elonmusk
+
+> FSD is GTA irl This is NUTS. It goes around a Huge Branch in the Road v15
+
+🔗 [View original post](https://x.com/elonmusk/status/2124340719397781824)
+
+---
+
+### 🕐 02:46 UTC · @elonmusk
+
+> You are under hyped for Reality View. It is absolutely amazing. In the last clip, I was actually surprised when I looked up and the arrows weren&apos;t actually floating mid air 🤣 Media Media Media
+
+🔗 [View original post](https://x.com/DirtyTesLa/status/2124333580000297213)
 
 ---
 
@@ -45,6 +61,14 @@
 > The chevrons also show you where FSD V15 intends to park and Elon said you can just tap the screen to adjust the precise location if you want it to choose a different spot/area Media
 
 🔗 [View original post](https://x.com/DillonLoomis/status/2124303507570221181)
+
+---
+
+### 🕐 00:41 UTC · @elonmusk
+
+> ON MY GOD @Tesla FSD V15 lets you select any parking spot of your choice! Lots of arrows pop up and you just select your spot. Media
+
+🔗 [View original post](https://x.com/SawyerMerritt/status/2124302138771943728)
 
 ---
 

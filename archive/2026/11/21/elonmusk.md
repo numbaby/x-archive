@@ -2,7 +2,7 @@
 
 ## 📅 November 21, 2026
 
-> 31 post(s) archived.
+> 32 post(s) archived.
 
 ---
 
@@ -37,6 +37,14 @@
 > This is real-time AI video generation (no gaming engine!) using just half of one AI4 TRIP accelerator. Let that sink in … The crazier thing is that the right side uses less compute than what the left used to take. Extreme compute efficiency optimization.
 
 🔗 [View original post](https://x.com/elonmusk/status/2124270426402836626)
+
+---
+
+### 🕐 22:19 UTC · @elonmusk
+
+> I wonder how high Tesla FSD screen streaks are going to get in v15? 25x increase in safety critical situations is no joke My streak is still active at 36,674.6 miles 100k soon? 🤔
+
+🔗 [View original post](https://x.com/DavidMoss/status/2124266500332904799)
 
 ---
 
