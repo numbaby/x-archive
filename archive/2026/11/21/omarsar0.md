@@ -2,7 +2,25 @@
 
 ## 📅 November 21, 2026
 
-> 9 post(s) archived.
+> 11 post(s) archived.
+
+---
+
+### 🕐 23:36 UTC · @omarsar0
+
+> I have been using Gemini Neon all day to run some ML experiments, and it&apos;s doing things I find mind-blowing. It&apos;s finding connections across my LLM wikis on its own without being prompted. It&apos;s somehow more aware and more inclined to use knowledge I have built for my agents over time.
+
+🔗 [View original post](https://x.com/omarsar0/status/2124285776783425921)
+
+---
+
+### 🕐 23:12 UTC · @omarsar0
+
+> State of my knowledge factory. It&apos;s a graph of MD files. I have an automation that runs every day to find links, enhance the knowledge graph, add metadata to add more structure, and more. The next step for me is to move from a reactive to a more proactive, reflective knowledge factory (i.e., agents maintain it more closely to how I work with my own knowledge and, more importantly, how I update it). This is a harder problem, but I have some ideas I&apos;m experimenting with and will share more in the future.
+
+![State of my knowledge factory. It&apos;s a graph of MD files. I have an automation that runs every day to find links, enhance the knowledge graph, add metadata to add more structure, and more. The nex](../../../../assets/images/2026/11/21/2124279737384042970-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2124279737384042970)
 
 ---
 

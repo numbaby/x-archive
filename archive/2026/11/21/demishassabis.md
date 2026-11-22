@@ -2,7 +2,15 @@
 
 ## 📅 November 21, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 21:32 UTC · @demishassabis
+
+> It’s been a while since I felt a model was intelligent and fast at the same time and is too good to be true. Gemini Neon (Reasoning set to High) is that. Enjoying using it on Perplexity Computer. I’ve migrated some of my Teammates to this model as well. Congrats to @GoogleDeepMind!
+
+🔗 [View original post](https://x.com/AravSrinivas/status/2124254600723394644)
 
 ---
 

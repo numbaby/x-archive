@@ -2,7 +2,31 @@
 
 ## 📅 November 21, 2026
 
-> 19 post(s) archived.
+> 22 post(s) archived.
+
+---
+
+### 🕐 23:49 UTC · @tunguz
+
+> We’ll find out pretty soon that so much of what we take for granted in the intellectual foundations of our civilization has been completely confabulated. „Many of the most famous findings of the field turned out to be literally made up. Fabricated data, invented experiments that never took place.“
+
+🔗 [View original post](https://x.com/tunguz/status/2124289007815389213)
+
+---
+
+### 🕐 23:46 UTC · @tunguz
+
+> Le Proof Phat if it&apos;s 250k pages long then it&apos;s not really a lean proof is it
+
+🔗 [View original post](https://x.com/tunguz/status/2124288379768516890)
+
+---
+
+### 🕐 23:39 UTC · @tunguz
+
+> I want to make a brief statement about certain malicious attack on my tenure at NVIDIA by a current NVIDIA employee that has come to my attention. The attack makes false accusations about me that can easily be disputed by a simple Google search. I have contacted NVIDIA&apos;s legal compliance team regarding this matter, and intend to forcefully pursue it to the furthest extent. I will not make any further statements on this matter until this issue has been fully resolved.
+
+🔗 [View original post](https://x.com/tunguz/status/2124286608048259367)
 
 ---
 
