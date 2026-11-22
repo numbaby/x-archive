@@ -2,7 +2,25 @@
 
 ## 📅 November 22, 2026
 
-> 13 post(s) archived.
+> 15 post(s) archived.
+
+---
+
+### 🕐 23:25 UTC · @tunguz
+
+> 1. *really* good kernels and machine code is actually pretty hard to do at the highest level for the current generation of AI tools. I should know, I’ve spent last few months doing it for Apple silicon. 2. CUDA is not even in the top five of NVIDIA’s moats and hasn’t been for years. It feels like agent swarms have essentially filled the CUDA moat. 1. Fewer model types + agents make it easier to build optimized kernels 2. There is a trend for agents to write machine code directly, skipping CUDA altogether. NVIDIA has other moats, but none is this deep.
+
+🔗 [View original post](https://x.com/tunguz/status/2124645397251428853)
+
+---
+
+### 🕐 23:22 UTC · @tunguz
+
+> part of your job as a swe now is to scroll twitter
+
+![part of your job as a swe now is to scroll twitter](../../../../assets/images/2026/11/22/2124644612430299374-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2124644612430299374)
 
 ---
 

@@ -2,7 +2,7 @@
 
 ## 📅 November 22, 2026
 
-> 3 post(s) archived.
+> 5 post(s) archived.
 
 ---
 
@@ -22,6 +22,16 @@
 
 ---
 
+### 🕐 18:58 UTC · @swyx
+
+> I call this the &quot;courage carousel&quot;
+
+![I call this the &quot;courage carousel&quot;](../../../../assets/images/2026/11/22/2124578257748300122-1.jpg)
+
+🔗 [View original post](https://x.com/chrislakin/status/2124578257748300122)
+
+---
+
 ### 🕐 06:37 UTC · @swyx
 
 > something broke in the last. month or so and codex is unable to clear its own worktree hell despite me asking nicely. giving up
@@ -29,5 +39,13 @@
 ![something broke in the last. month or so and codex is unable to clear its own worktree hell despite me asking nicely. giving up](../../../../assets/images/2026/11/22/2124391769798533160-1.jpg)
 
 🔗 [View original post](https://x.com/swyx/status/2124391769798533160)
+
+---
+
+### 🕐 00:00 UTC · @swyx
+
+> Your agent runs for 10 hours. Your team deploys every two minutes. @FabianHedin on how @Lovable separates task history from running processes so agents can keep working through deployments. From AI Engineer Code Summit. Media
+
+🔗 [View original post](https://x.com/aiDotEngineer/status/2124291774671880239)
 
 ---
