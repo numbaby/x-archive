@@ -2,7 +2,43 @@
 
 ## 📅 November 22, 2026
 
-> 14 post(s) archived.
+> 18 post(s) archived.
+
+---
+
+### 🕐 10:30 UTC · @elonmusk
+
+> My personal design esthetic is homeless Batman
+
+🔗 [View original post](https://x.com/elonmusk/status/2124450538976629076)
+
+---
+
+### 🕐 10:27 UTC · @elonmusk
+
+> Zoom in, you’ll find it
+
+![Zoom in, you’ll find it](../../../../assets/images/2026/11/16/2122178701039137144-1.jpg)
+
+🔗 [View original post](https://x.com/elonmusk/status/2124449744600871080)
+
+---
+
+### 🕐 08:02 UTC · @elonmusk
+
+> Here is my initial FSD v15 review after driving with it all afternoon and evening: First off, Elon was right. This update is a BANGER! Tesla Reality View is out of this world and so insanely cool I’m still trying to process it all. FSD V15.0.1 brings so many improvements behind the scenes, in addition to the wildly cool UI. Tesla Reality View IS AMAZING! Pictures and video don’t do it any justice, this is something that has to be experienced to truly understand. Got to take a few friends tonight on drives to show them and every single person was blown away by it. The amount of detail it shows and generates is wild and so impressive. It shows reflection in the car, buildings, trees, turn arrows on the display and more. FSD v15 now has pothole avoidance! I had it swerve and avoid/straddle a few potholes tonight that were difficult for me to see in the dark. Another great new feature in FSD v15 is speed camera slowdown. As you approach a speed camera, it automatically slows smoothly to the speed limit if you are in a quicker profile. This is a huge quality of life improvement especially as more cities get speed cameras. Parking seems near unchanged from the last build, I feel it picking spots quicker especially at the supercharger I went to tonight. Seems to be preferring to park in the first or second open spot it sees which is great, but it tried to park in one handicap spot- otherwise good. By far, the coolest part is Tesla Reality View. Holy crap is it insane to watch while parking. It’s the best backup/360 camera money can buy and such a detailed and clear view. Another new change I haven’t seen many people talk about is the turn signal fade. On FSD, the turn signal sound gets quieter after a few clicks. This is so nice if you’re sitting at a red light and makes drives more peaceful. Quiet Mode is also so nice at night. It darkens the display and just shows arrival time; music, climate on the bottom and a quick grok button on the top. Another feature that makes it feel like a Robotaxi UI and a peaceful supervising experience. Another improvement is much better handling of dips and speed bumps. The past couple updates it’s been a bit too fast in my Model Y, and it’s now so smooth. The nag is definitely reduced. The last couple versions of v14.3 had been sometimes a bit strict, but definitely more relaxed in v15.0.1. Another thing I noticed is way less wiper washing, a very welcome change. Personalized parking preferences are SO cool. At home, I can click on a person icon on the map and choose street parking or driveway, and it backs into the driveway EXACTLY in the spot I park my Model Y. It leared where I park and knows it. It also now lets you choose which lot you want to park in if the mall or store has multiple lots, you can select it on the map, worked at the mall, Costco, and Home Depot tonight. I need to touch on Tesla Reality View again because it’s just that cool. It really feels like you’re in a video game like NFS or GTA. I’m blown away by this and didn’t expect it at all. Tesla teams COOKED with it, I’ve seen so many on X now wanting Teslas because of it. I drove down Rodeo Drive tonight as well as by the SpaceX Falcon 9 and the views were so cool. Another place it’s cool is in wooded areas or tree filled streets, the way it shows everything is spectacular. Parking garages also give a cool look to them with the roof incorporated into the top of the UI. I didn’t think FSD could get this much better, as it was already so good and it did. I absolutely can’t wait to see what else is coming in the future and driving this more on road trips. @elonmusk, you were right- V15 is incredible and super human! Huge congrats to the Tesla team on this, what a sick update. @TeslaSI and UI teams did a fantastic job, thank you all.
+
+![Here is my initial FSD v15 review after driving with it all afternoon and evening: First off, Elon was right. This update is a BANGER! Tesla Reality View is out of this world and so insanely cool I’m ](../../../../assets/images/2026/11/22/2124413163454255246-1.jpg)
+
+🔗 [View original post](https://x.com/BLKMDL3/status/2124413163454255246)
+
+---
+
+### 🕐 03:24 UTC · @elonmusk
+
+> Here&apos;s my 25-minute drive on @Tesla FSD V15 tonight. I go over the new Tesla Reality View, new parking behavior/options, navigation and more. Tesla Reality View is even more mind-blowing in person than how it appears online. It really is something special. It&apos;s the best &quot;Birds Eye&quot; view I&apos;ve ever seen. V15 will also park straight into your garage at home, does a much better job at handling debris in the road, potholes, etc. I&apos;ll have more footage in the coming days/weeks showing all this stuff, but here&apos;s a quick first impressions video: Media
+
+🔗 [View original post](https://x.com/SawyerMerritt/status/2124343282347978961)
 
 ---
 
