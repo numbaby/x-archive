@@ -2,7 +2,7 @@
 
 ## 📅 November 22, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
 
 ---
 
@@ -13,6 +13,14 @@
 ![New benchmark to test general physical agents. RoboQuest asks robots to search, inspect, and run physical tests before acting. The strongest model solved only 23.2% of tasks, even though the same mode](../../../../assets/images/2026/11/22/2124549311174427069-1.png)
 
 🔗 [View original post](https://x.com/omarsar0/status/2124549311174427069)
+
+---
+
+### 🕐 16:25 UTC · @omarsar0
+
+> Interesting to hear top mathematicians describe these incredible AI achievements in math as &quot;just evals for AI researchers&quot;. There are many takeaways, but the one I stick with is the importance of ambitious evals in pushing what&apos;s possible in verifiable domains (to advance understanding) and, more importantly, in open-ended domains (to advance real-world applicability). I also hear their concern that AI-driven solutions to these math problems aren&apos;t leading to much new human understanding of the field. That&apos;s an important discussion to have as we figure out how to move forward in the new era of accelerated discoveries. The evolved role of the practitioner or scientist is something we are all trying to figure out. As a professional in both, I constantly build for and with AI agents. I spend a lot of time augmenting my knowledge and toolbox with AI and developing a ton of evals to improve AI-powered systems for all kinds of work. This is helping me understand the world around me (economy, physics, health, people, networks, etc.) and prepare better for this new era of intelligent computer systems. Like Terence Tao, I believe in the Copernican view of intelligence: a richer, broader view that advocates for different forms of intelligence to coexist. Although not positioned this way (unfortunately), I believe the researchers making these breakthroughs in math with AI are the first signs of that. The quicker we can adapt, the more problems we can attempt to solve—hopefully with a sharper focus on real-world problems affecting the world today. Just thinking out loud about the current state of things, and hopefully offering words of encouragement to the younger practitioners and scientists who may feel lost about all that&apos;s happening today.
+
+🔗 [View original post](https://x.com/omarsar0/status/2124539875827314801)
 
 ---
 

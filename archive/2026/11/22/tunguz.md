@@ -2,7 +2,39 @@
 
 ## 📅 November 22, 2026
 
-> 8 post(s) archived.
+> 12 post(s) archived.
+
+---
+
+### 🕐 19:18 UTC · @tunguz
+
+> Yeah ... If you ever want to see how far we still need to go with these models just start a sufficiently complex project. The ratio of dazzling to frustration quickly inverts 😩😫😖
+
+🔗 [View original post](https://x.com/tunguz/status/2124583207148380520)
+
+---
+
+### 🕐 19:15 UTC · @tunguz
+
+> Soon ... Jensen Huang after being named NVIDIA’s new CEO
+
+🔗 [View original post](https://x.com/tunguz/status/2124582645300670916)
+
+---
+
+### 🕐 19:05 UTC · @tunguz
+
+> No distillation is illegal on stolen data.
+
+🔗 [View original post](https://x.com/tunguz/status/2124579973625233549)
+
+---
+
+### 🕐 19:01 UTC · @tunguz
+
+> This would go so hard! Some will say this is AI, but it isn’t.
+
+🔗 [View original post](https://x.com/tunguz/status/2124578984054952203)
 
 ---
 
