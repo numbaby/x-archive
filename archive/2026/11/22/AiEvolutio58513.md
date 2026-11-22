@@ -2,7 +2,15 @@
 
 ## 📅 November 22, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 11:00 UTC · @AiEvolutio58513
+
+> Elon Musk says his older sons agree AI will probably make their skills unnecessary, and they still want to go to college: &quot;Will these skills be necessary in the future? Probably not, because we&apos;re going to be in like a post-work society.&quot; &quot;I don&apos;t think you have to go to college, but I think if you do, you should try to learn as much as possible across a wide range of subjects.&quot; &quot;AI and robotics is a supersonic tsunami. This is really going to be the most radical change that we&apos;ve ever seen.&quot; Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media Elon Musk says AI chips are about to start piling up unused: &quot;Chip production will probably outpace the ability to turn chips on.&quot; &quot;The constraint for server-side compute, concentrated compute, will be electricity. My guess is that people start getting to the point where they ca…
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2124457954690908645)
 
 ---
 

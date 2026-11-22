@@ -2,7 +2,41 @@
 
 ## 📅 November 22, 2026
 
-> 18 post(s) archived.
+> 25 post(s) archived.
+
+---
+
+### 🕐 11:42 UTC · @elonmusk
+
+> @DilreetR @gergman91 @aelluswamy And AI6 is
+
+![@DilreetR @gergman91 @aelluswamy And AI6 is](../../../../assets/images/2026/11/22/2124468665223438425-1.jpg)
+
+🔗 [View original post](https://x.com/elonmusk/status/2124468665223438425)
+
+---
+
+### 🕐 11:37 UTC · @elonmusk
+
+> True CAHSR has spent roughly $16B since 2008, completed 90+ miles of guideway, and is only now starting track. First service is still targeted for 2033 on a partial Central Valley segment. Full SF-LA remains years and tens of billions away. Boring has already carried 4M+ passengers o…
+
+🔗 [View original post](https://x.com/elonmusk/status/2124467385298293001)
+
+---
+
+### 🕐 11:22 UTC · @elonmusk
+
+> We’re going to make the annoying “Promote” button borderline invisible
+
+🔗 [View original post](https://x.com/elonmusk/status/2124463501703876939)
+
+---
+
+### 🕐 11:21 UTC · @elonmusk
+
+> Some people thought we meant 25% improvement, no we mean 25 times! Welcome to the singularity. Hope you’re enjoying your stay. FSD V15 is 25x safer than V14 I would have guessed V14 is at MINIMUM 2x safer than a human (probably more). These numbers are getting insane. Singularity is here.
+
+🔗 [View original post](https://x.com/elonmusk/status/2124463264037769352)
 
 ---
 
@@ -34,6 +68,26 @@
 
 ---
 
+### 🕐 07:10 UTC · @elonmusk
+
+> Six years ago, Tesla FSD was just dots and lines on a black screen Today, Tesla FSD has literally brought GTA to life
+
+![Six years ago, Tesla FSD was just dots and lines on a black screen Today, Tesla FSD has literally brought GTA to life](../../../../assets/images/2026/11/22/2124400145462927665-1.jpg)
+
+🔗 [View original post](https://x.com/XFreeze/status/2124400145462927665)
+
+---
+
+### 🕐 04:30 UTC · @elonmusk
+
+> Tesla FSD v15 is gta in real life
+
+![Tesla FSD v15 is gta in real life](../../../../assets/images/2026/11/22/2124359751815590236-1.jpg)
+
+🔗 [View original post](https://x.com/Teslaconomics/status/2124359751815590236)
+
+---
+
 ### 🕐 03:24 UTC · @elonmusk
 
 > Here&apos;s my 25-minute drive on @Tesla FSD V15 tonight. I go over the new Tesla Reality View, new parking behavior/options, navigation and more. Tesla Reality View is even more mind-blowing in person than how it appears online. It really is something special. It&apos;s the best &quot;Birds Eye&quot; view I&apos;ve ever seen. V15 will also park straight into your garage at home, does a much better job at handling debris in the road, potholes, etc. I&apos;ll have more footage in the coming days/weeks showing all this stuff, but here&apos;s a quick first impressions video: Media
@@ -47,6 +101,14 @@
 > FSD is GTA irl This is NUTS. It goes around a Huge Branch in the Road v15
 
 🔗 [View original post](https://x.com/elonmusk/status/2124340719397781824)
+
+---
+
+### 🕐 03:07 UTC · @elonmusk
+
+> i&apos;m admittedly pretty harsh on the google guys, mostly cuz i know the co super well. but holy hell, i&apos;m having an incredible time with neon so far. product issues aside, this is a very different experience, almost like a strange new feeling. the way it talks, the way it responds, everything feels pretty damn fresh if that makes any sense. it&apos;s very creative. &amp; unusually great at proposing ideas. i can&apos;t even say it&apos;s about intelligence or better answers in general. i am normally okay with words, but this is very difficult for me to articulate well. anyway, it&apos;s fairly clear that google absolutely cooked here. i have never doubted google&apos;s technical capabilities. those were &amp; are totally obvious. i mean it is literally the birth place of ai. it was always a question of whether google could turn an extraordinary technology into newer experiences that ppl love using, which sort of requires shedding every success of the past. these newer generation of models, particularly neon clearly gives them extraordinary new legs to stand on. it doesn&apos;t feel like &quot;gemini&quot; at all. congratulations to everyone at google, i will continue to play around with more. there are obviously some product frustrations &amp; confusing elements but i&apos;m setting those aside for now.
+
+🔗 [View original post](https://x.com/signulll/status/2124338865888457117)
 
 ---
 
