@@ -2,7 +2,25 @@
 
 ## 📅 November 22, 2026
 
-> 4 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 03:47 UTC · @emollick
+
+> This is obviously not a dunk on any of these experts or forecasting groups, but it is an indicator that even the best forecasters and experts are still underestimating AI abilities.
+
+🔗 [View original post](https://x.com/emollick/status/2124348911553061167)
+
+---
+
+### 🕐 03:45 UTC · @emollick
+
+> Predictions made last MONTH (post Navier-Stokes) about when the Riemann Hypotheses would be solved: Metaculus: May 2035 LEAP Superforecasters: 10% chance of additional Millennium problem being solved in 2026. Terrance Tao: “some combination of humans and AIs in 2050 or something&quot;
+
+![Predictions made last MONTH (post Navier-Stokes) about when the Riemann Hypotheses would be solved: Metaculus: May 2035 LEAP Superforecasters: 10% chance of additional Millennium problem being solved ](../../../../assets/images/2026/11/22/2124348445649768955-1.jpg)
+
+🔗 [View original post](https://x.com/emollick/status/2124348445649768955)
 
 ---
 
