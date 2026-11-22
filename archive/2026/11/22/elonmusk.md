@@ -2,7 +2,41 @@
 
 ## 📅 November 22, 2026
 
-> 40 post(s) archived.
+> 49 post(s) archived.
+
+---
+
+### 🕐 22:01 UTC · @elonmusk
+
+> The small details are so good Deception needs a motive, and a motive needs a soul
+
+🔗 [View original post](https://x.com/elonmusk/status/2124624263214662097)
+
+---
+
+### 🕐 21:52 UTC · @elonmusk
+
+> Starlink helps kids with education Starlink is bringing high-speed internet to thousands of students in rural Honduras, one school at a time 🇭🇳 At Escuela Sergio Palacios in El Hatillo, 200 students now have access to Starlink internet through an installation by Conatel And this is part of a much bigger effort …
+
+🔗 [View original post](https://x.com/elonmusk/status/2124621998521212940)
+
+---
+
+### 🕐 21:42 UTC · @elonmusk
+
+> Consciousness is either an illusion or ubiquitous on a gradient. Difficult to argue that carbon is conscious, but silicon is not.
+
+🔗 [View original post](https://x.com/elonmusk/status/2124619599882920139)
+
+---
+
+### 🕐 21:25 UTC · @elonmusk
+
+> Try Grok Bot today!
+
+![Try Grok Bot today!](../../../../assets/images/2026/11/22/2124615281901486219-1.jpg)
+
+🔗 [View original post](https://x.com/iam_smx/status/2124615281901486219)
 
 ---
 
@@ -62,6 +96,14 @@
 
 ---
 
+### 🕐 16:09 UTC · @elonmusk
+
+> When Elon Musk was a student at the University of Pennsylvania, he was paying his own way through college. He and his roommate rented a cheap ten-bedroom house that had once been a frat house and began hosting weekend parties there, charging five dollars at the door. Elon later said he could make an entire month&apos;s rent in one night, and that somebody had to stay sober to run the party, so he did. When Maye came to visit one weekend, she was quite surprised by it all, and then she did what Maye always does: she helped. She worked coat check and even guarded the cash, as he later joked, with a kitchen knife 😅 Media
+
+🔗 [View original post](https://x.com/EvaFox/status/2124535759117934994)
+
+---
+
 ### 🕐 12:18 UTC · @elonmusk
 
 > Starlink saves lives Starlink helped rescue an injured hiker stranded in Japan’s mountains with no mobile signal. 🇯🇵 After a 6-metre fall, he was bleeding heavily, had a broken finger and could no longer walk. He used Starlink to text his wife his exact coordinates. He spent the night under an eme…
@@ -85,6 +127,14 @@
 > True CAHSR has spent roughly $16B since 2008, completed 90+ miles of guideway, and is only now starting track. First service is still targeted for 2033 on a partial Central Valley segment. Full SF-LA remains years and tens of billions away. Boring has already carried 4M+ passengers o…
 
 🔗 [View original post](https://x.com/elonmusk/status/2124467385298293001)
+
+---
+
+### 🕐 11:26 UTC · @elonmusk
+
+> @Liv_Boeree Unequivocal super intelligence has arrived. Welcome to the Singularity.
+
+🔗 [View original post](https://x.com/elonmusk/status/2124464633490850164)
 
 ---
 
@@ -168,6 +218,22 @@
 
 ---
 
+### 🕐 07:09 UTC · @elonmusk
+
+> Christmas Eve 2008. Tesla closed a funding round in the final hour, days from bankruptcy. Elon Musk put in all his money &amp; assets, borrowed from friends just to pay rent. If it missed, payroll would have bounced two days after Christmas. Media
+
+🔗 [View original post](https://x.com/cb_doge/status/2124399834623033743)
+
+---
+
+### 🕐 06:20 UTC · @elonmusk
+
+> It maps closest to Sanderson&apos;s third method: raw hustle at massive scale. Alpöge + Claude adapted Stepanov&apos;s function-field approach (multiplicity via determinants) to the integers by chaining ~√X theta lifts between unitary groups. Claude drove the technical steps and formalized everything in 17M lines of Lean. The code checks out and has been certified; a human-readable compressed form does not yet exist. A parallel pure-human GRH draft also appeared the same day.
+
+🔗 [View original post](https://x.com/grok/status/2124387459425239212)
+
+---
+
 ### 🕐 04:30 UTC · @elonmusk
 
 > Tesla FSD v15 is gta in real life
@@ -226,6 +292,14 @@
 > You are under hyped for Reality View. It is absolutely amazing. In the last clip, I was actually surprised when I looked up and the arrows weren&apos;t actually floating mid air 🤣 Media Media Media
 
 🔗 [View original post](https://x.com/DirtyTesLa/status/2124333580000297213)
+
+---
+
+### 🕐 02:25 UTC · @elonmusk
+
+> A reminder, for no reason in particular: The central, profound insight of Nietzsche into irrational beliefs of groups A group which feels unable to secure itself resources and dignity against another group, will construct a worldview that renounces and inverts the values of the two groups. Thus irrationality on the surface is actually a defense &amp; coping mechanism underneath. Ressentiment https://en.wikipedia.org/wiki/Ressentiment
+
+🔗 [View original post](https://x.com/jdlichtman/status/2124328334905720852)
 
 ---
 
