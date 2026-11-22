@@ -2,7 +2,15 @@
 
 ## 📅 November 22, 2026
 
-> 5 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 20:45 UTC · @ylecun
+
+> TIL: We have superintelligence but we still don&apos;t have level-5 autonomous driving. A task that most 17 year olds can learn in 20 hours of practice. And we have (you have) billions of hours of training data. We don&apos;t have robots that can come close to doing what an 8 year old can do with no prior training. And let&apos;s not talk about cats. That&apos;s a rather strange kind of superintelligence.
+
+🔗 [View original post](https://x.com/ylecun/status/2124605292402946483)
 
 ---
 
@@ -11,6 +19,16 @@
 > Dario&apos;s spiel since GPT-2 has always been about hyping the dangers so that open models would be made illegal and *he* would stay in control. He left OpenAI because he wasn&apos;t going to have control. It&apos;s like the Ottoman Empire banning the printing press for Arabic so they would keep in control of the dogma. It stops the population from freely accessing diverse knowledge. It&apos;s a new form of medieval obscurantism.
 
 🔗 [View original post](https://x.com/ylecun/status/2124550037912920090)
+
+---
+
+### 🕐 11:39 UTC · @ylecun
+
+> Trump&apos;s disdain for Europe -- too democratic, too liberal, too many immigrants -- shows in his willingness to cut a deal with Putin that would weaken Europe&apos;s defense against a dictatorial, imperialist Russia. https://trib.al/QhW7bb0
+
+![Trump&apos;s disdain for Europe -- too democratic, too liberal, too many immigrants -- shows in his willingness to cut a deal with Putin that would weaken Europe&apos;s defense against a dictatorial, ](../../../../assets/images/2026/11/22/2124467739653714100-1.jpg)
+
+🔗 [View original post](https://x.com/KenRoth/status/2124467739653714100)
 
 ---
 

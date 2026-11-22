@@ -2,7 +2,47 @@
 
 ## 📅 November 22, 2026
 
-> 33 post(s) archived.
+> 40 post(s) archived.
+
+---
+
+### 🕐 21:22 UTC · @elonmusk
+
+> Would this be the wrong note upon which to suggest using Grok Bot? The entire global economy is being held by a single thread of people forgetting to cancel auto-renewing subscriptions and people being too lazy to move their cash to higher yielding money market accounts. If every human ran a prompt for an agent to do it for them, the banking sy…
+
+🔗 [View original post](https://x.com/elonmusk/status/2124614639409606954)
+
+---
+
+### 🕐 21:02 UTC · @elonmusk
+
+> 360 degree vision that never tires Looking in every direction at once, at all times
+
+🔗 [View original post](https://x.com/elonmusk/status/2124609453274108083)
+
+---
+
+### 🕐 20:59 UTC · @elonmusk
+
+> This was done without AI/SI, but we will be using a lot of SI in the future I still can’t get over the fact that this happened. The precision of this, down to sub-meter accuracy when it was traveling at OVER 7,000 m/s!!! Think about that. In one second it was traveling over 7 km yet it could land on a dime. Incredible.
+
+🔗 [View original post](https://x.com/elonmusk/status/2124608788158447644)
+
+---
+
+### 🕐 20:52 UTC · @elonmusk
+
+> Tesla super intelligence software, chip design &amp; Terafab are fun places to work When we say we do end-to-end embodied AI architectures, it&apos;s in prod, shipped to millions of cars. The much larger world model is shared between Autopilot and Optimus and is very important for 3D labeling for Optimus. The effort is shared across my team, @lawsonfulton and Yekeun…
+
+🔗 [View original post](https://x.com/elonmusk/status/2124606900553863466)
+
+---
+
+### 🕐 20:28 UTC · @elonmusk
+
+> 😂
+
+🔗 [View original post](https://x.com/elonmusk/status/2124600936609841396)
 
 ---
 
@@ -11,6 +51,14 @@
 > 32 hour launch pad recycle. Great work by SpaceX team. Falcon 9 and NROL-136 lift off from pad 4E in California 32 hours after teams launched USSF-317, completing our fastest turnaround between launches from the same pad
 
 🔗 [View original post](https://x.com/elonmusk/status/2124589255565680900)
+
+---
+
+### 🕐 17:55 UTC · @elonmusk
+
+> I just did this with Grok @bot and with my Amazon order history export, it found $892 I’m owed since 2017 that falls into this class action lawsuit. Crazy! The keys to make this efficient were: 1. Get your order history exported by typing “request my data” in Amazon app search. It took 30 mins for them to email me a link to the export 2. Download the zip and upload to @bot chat and ask it to find an email about the class action in your inbox. It was in my spam which is why never knew about it before now 🤦‍♂️ 3. Ask it to figure out which groups you’re in and use the order history you attached to the convo, and your credit card info from the @bot Finances integration to find eligible transactions. 4. Finally ask it to file it all for you. If you have used Amazon at all in the last 9 years then it is extremely likely that they have taken advantage of you and owe you money. The deadline is December 1st. Less than 10 days to file your claim. It is your money and you need it NOW! If you don&apos;t have time, tag your grok…
+
+🔗 [View original post](https://x.com/trevin/status/2124562339181826173)
 
 ---
 
@@ -161,6 +209,15 @@
 > i&apos;m admittedly pretty harsh on the google guys, mostly cuz i know the co super well. but holy hell, i&apos;m having an incredible time with neon so far. product issues aside, this is a very different experience, almost like a strange new feeling. the way it talks, the way it responds, everything feels pretty damn fresh if that makes any sense. it&apos;s very creative. &amp; unusually great at proposing ideas. i can&apos;t even say it&apos;s about intelligence or better answers in general. i am normally okay with words, but this is very difficult for me to articulate well. anyway, it&apos;s fairly clear that google absolutely cooked here. i have never doubted google&apos;s technical capabilities. those were &amp; are totally obvious. i mean it is literally the birth place of ai. it was always a question of whether google could turn an extraordinary technology into newer experiences that ppl love using, which sort of requires shedding every success of the past. these newer generation of models, particularly neon clearly gives them extraordinary new legs to stand on. it doesn&apos;t feel like &quot;gemini&quot; at all. congratulations to everyone at google, i will continue to play around with more. there are obviously some product frustrations &amp; confusing elements but i&apos;m setting those aside for now.
 
 🔗 [View original post](https://x.com/signulll/status/2124338865888457117)
+
+---
+
+### 🕐 02:47 UTC · @elonmusk
+
+
+![](../../../../assets/images/2026/11/22/2124334030682529958-1.jpg)
+
+🔗 [View original post](https://x.com/raygyli/status/2124334030682529958)
 
 ---
 
