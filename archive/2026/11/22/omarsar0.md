@@ -2,7 +2,17 @@
 
 ## 📅 November 22, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 17:03 UTC · @omarsar0
+
+> New benchmark to test general physical agents. RoboQuest asks robots to search, inspect, and run physical tests before acting. The strongest model solved only 23.2% of tasks, even though the same models completed the underlying motor skills 72–81% of the time in isolation. The bottleneck was evidence gathering and decision-making. Agents often saw what they needed to inspect, but stopped exploring or committed too early. Reliable physical agents need better evidence tracking, planning, and recovery. Great work from @soujanyaporia and colleagues. Paper: https://arxiv.org/abs/2610.10388
+
+![New benchmark to test general physical agents. RoboQuest asks robots to search, inspect, and run physical tests before acting. The strongest model solved only 23.2% of tasks, even though the same mode](../../../../assets/images/2026/11/22/2124549311174427069-1.png)
+
+🔗 [View original post](https://x.com/omarsar0/status/2124549311174427069)
 
 ---
 
