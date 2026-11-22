@@ -2,7 +2,15 @@
 
 ## 📅 November 22, 2026
 
-> 12 post(s) archived.
+> 13 post(s) archived.
+
+---
+
+### 🕐 19:20 UTC · @tunguz
+
+> So now we know that it&apos;s possible to be a superior mathematician without being conscious. There are many other professions that we&apos;ll soon also find out that are in the same category.
+
+🔗 [View original post](https://x.com/tunguz/status/2124583738596102242)
 
 ---
 

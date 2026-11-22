@@ -2,7 +2,15 @@
 
 ## 📅 November 22, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 19:46 UTC · @swyx
+
+> by this metric we have seen more ai progress this year than in 2022-2025. is that true? doesn’t suuuper feel like it but who knows we could be cooked by algorithm and/or metric only translates at frontier math level
+
+🔗 [View original post](https://x.com/swyx/status/2124590240539259381)
 
 ---
 

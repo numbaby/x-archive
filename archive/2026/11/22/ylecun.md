@@ -2,7 +2,7 @@
 
 ## 📅 November 22, 2026
 
-> 3 post(s) archived.
+> 5 post(s) archived.
 
 ---
 
@@ -29,5 +29,25 @@
 ![Yann Lecun correcting the record on Jensen Huang.](../../../../assets/images/2026/11/22/2124373947864989881-1.png)
 
 🔗 [View original post](https://x.com/AlexTensor/status/2124373947864989881)
+
+---
+
+### 🕐 03:00 UTC · @ylecun
+
+> Trump&apos;s ICE detains a Princeton doctoral student. She had just attended a neuroscience conference in Washington DC when ICE detained her. Why? Because she had moved to the US from China? https://trib.al/RI5bD46
+
+![Trump&apos;s ICE detains a Princeton doctoral student. She had just attended a neuroscience conference in Washington DC when ICE detained her. Why? Because she had moved to the US from China? https://](../../../../assets/images/2026/11/22/2124337238603432207-1.jpg)
+
+🔗 [View original post](https://x.com/KenRoth/status/2124337238603432207)
+
+---
+
+### 🕐 00:47 UTC · @ylecun
+
+> Can a JEPA learn a map of the world in its &quot;head&quot;? This new paper by @ylecun, @mengyer, @yingwww_, @choang333, and @KuangYilun says yes, but only if you change how JEPA avoids collapse. What&apos;s interesting – the researchers firstly proposed a fix, called SVReg, but then discovered its content–geometry tradeoff and upgraded the solution. Here are the details: A planner in latent space needs two things: - Paths have to be smooth, so distance tells you if you&apos;re getting closer. That&apos;s geometry. - And the cube you&apos;re trying to move has to still be on the map. That&apos;s content. Typical stop-gradient and SIGReg often give you one and lose the other. SVReg stops the model from giving every frame the same code. It checks the spread along random directions and only steps in when it gets too small. Without stop-gradient, the model can also change what it encodes, dropping details it can’t reliably predict. But the title itself says that there is &quot;content–geometry tradeoff&quot;. The same predictability pressure erases things that change slowly and are hard to predict, like a block that sits still until the agent pushes it. So they built Slow SVReg, with 2 additions: 1. Slow channels: A few fixed dimensions get penalized if they change too fast between frames (an idea borrowed from slow feature analysis). 2. Gated residual predictor: Predicts the next state as current + gate × change (with the gate starting at 0.1), so unchanging features cost nothing to predict. The results: • 1P Medium maze: 92.9% success (vs. 21.2% stop-gradient) with way smoother paths (1.20 vs. 5.31 jaggedness). • PushT: 87.3% success (vs. 44.0% stop-gradient). • Efficiency: Nearly maxes out hard U-maze goals using just 20% of the data. And the most interesting part is city walks. Trained only on first-person frames and actions from 3D city blocks (no pose data), Slow SVReg pinpoints the agent within 1.6 meters (beating stop-gradient&apos;s 3.4 m and an untrained encoder&apos;s 25.9 m). The street layout pops right out in the plain principal components. So the JEPA line keeps circling the same question – what makes a latent good enough to plan in? LeJEPA made anti-collapse provable, LeHami added physics as a constraint. This paper shows the anti-collapse choice itself decides whether you get a map or a cloud of points.
+
+![Can a JEPA learn a map of the world in its &quot;head&quot;? This new paper by @ylecun, @mengyer, @yingwww_, @choang333, and @KuangYilun says yes, but only if you change how JEPA avoids collapse. What](../../../../assets/images/2026/11/22/2124303722671153346-1.jpg)
+
+🔗 [View original post](https://x.com/TheTuringPost/status/2124303722671153346)
 
 ---

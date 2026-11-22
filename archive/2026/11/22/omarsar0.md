@@ -2,7 +2,25 @@
 
 ## 📅 November 22, 2026
 
-> 4 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 19:42 UTC · @omarsar0
+
+> Recommended reading. I think it&apos;s a good initiative from OpenAI. How we measure frontier AI and a common, shared understanding of it are crucial. It makes it easier to assess progress, safety, etc. It&apos;s not as great as full technical reports (sad how fast the industry moved away from those during the acceleration), but it&apos;s a start towards more transparency. This is even more important as we move toward RSI, where measurement takes top priority. We decided to provide more transparency into pretraining progress at OpenAI for the sake of moving toward shared safety bars. In “Perplexity and Intelligence” I argue for common limits based on perplexity and other measurements, with progress beyond them gated on our ability to …
+
+🔗 [View original post](https://x.com/omarsar0/status/2124589425069859236)
+
+---
+
+### 🕐 19:25 UTC · @omarsar0
+
+> Banger paper from Google on ML engineering agents. Pay attention to this one, builders. It&apos;s a clever way to scale ML engineering by injecting bugs. (bookmark it) Repository-level coding benchmarks are saturating. BuggyMLE makes tasks harder on purpose by having agents inject controlled bugs into 222 working ML repositories. - A Code Complexity Index built from ten repo features predicts average solve rates across eight coding benchmarks with R^2 = 0.951. - On the graded MLE-Bench Lite variant, the best of 14 models drops from a 95% solve rate on the easiest tier to 9% on the hardest. - A Qwen3.5-9B trained on the bug curriculum rivals frontier models there and raises SWE-bench Lite from 24% to 33%. Patch size and code complexity are the strongest predictors of difficulty, so the generator can raise both to produce harder tasks and training data from the same repos. This is a great example of how to build harder tasks from your own repos to improve the overall system. https://arxiv.org/abs/2611.25088 Chat with Paper: https://academy.dair.ai/papers/buggymle-scaling-machine-learning-engineering-difficulty-with-bug-injection-2611.25088
+
+![Banger paper from Google on ML engineering agents. Pay attention to this one, builders. It&apos;s a clever way to scale ML engineering by injecting bugs. (bookmark it) Repository-level coding benchmar](../../../../assets/images/2026/11/22/2124584960464220408-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2124584960464220408)
 
 ---
 
