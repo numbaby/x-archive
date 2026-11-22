@@ -162355,11 +162355,25 @@
     "fingerprint": "01f1846cc9312e86483f13eb14ccce5b15ca5a1ac50d759d94715c4ab1139ca5",
     "media": []
   },
+  "2124298543427203084": {
+    "account": "elonmusk",
+    "date": "2026-11-22",
+    "file": "data/posts/2026/11/2026-11-22.jsonl",
+    "fingerprint": "1f6a9c1abb46d942d9ec5f5454010078ba5e95b0fe6234702710c2b7d2daff9c",
+    "media": []
+  },
   "2124299675155202489": {
     "account": "tunguz",
     "date": "2026-11-22",
     "file": "data/posts/2026/11/2026-11-22.jsonl",
     "fingerprint": "889aec47c18246e0e5d97ad14c7c5a9ec22d8ef20db0ad015482d930fb16f0d6",
+    "media": []
+  },
+  "2124306728514949325": {
+    "account": "elonmusk",
+    "date": "2026-11-22",
+    "file": "data/posts/2026/11/2026-11-22.jsonl",
+    "fingerprint": "2cae683cd31f19a596a576fb940d474380f3f8dc7b20005a36587c8079d248af",
     "media": []
   }
 }

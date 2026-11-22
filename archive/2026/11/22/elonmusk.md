@@ -2,7 +2,23 @@
 
 ## 📅 November 22, 2026
 
-> 4 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 00:59 UTC · @elonmusk
+
+> If you zoom out a little further, you can see our simulation playing on the screen of the creators. Overheard in Palo Alto: GTA 6’s real-world mode just dropped on Teslas.
+
+🔗 [View original post](https://x.com/shivon/status/2124306728514949325)
+
+---
+
+### 🕐 00:26 UTC · @elonmusk
+
+> Overheard in Palo Alto: GTA 6’s real-world mode just dropped on Teslas. Media
+
+🔗 [View original post](https://x.com/pduan/status/2124298543427203084)
 
 ---
 
