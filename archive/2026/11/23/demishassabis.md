@@ -2,7 +2,15 @@
 
 ## 📅 November 23, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 20:16 UTC · @demishassabis
+
+> Resetting Gemini quotas for everyone on Antigravity because we’re upgrading models across tiers! Paid Pro users will now have access to Carbon and Hydrogen will be available to all users as promised! And as always, keep swarming with Neon 🚀
+
+🔗 [View original post](https://x.com/_mohansolo/status/2124960419429458207)
 
 ---
 

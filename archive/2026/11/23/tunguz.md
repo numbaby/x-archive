@@ -2,7 +2,15 @@
 
 ## 📅 November 23, 2026
 
-> 14 post(s) archived.
+> 15 post(s) archived.
+
+---
+
+### 🕐 22:13 UTC · @tunguz
+
+> Banger &quot;Can you explain this gap in your resume?&quot;
+
+🔗 [View original post](https://x.com/tunguz/status/2124989751803695198)
 
 ---
 
