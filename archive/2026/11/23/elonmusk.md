@@ -2,7 +2,7 @@
 
 ## 📅 November 23, 2026
 
-> 14 post(s) archived.
+> 16 post(s) archived.
 
 ---
 
@@ -22,6 +22,14 @@
 
 ---
 
+### 🕐 16:42 UTC · @elonmusk
+
+> BREAKING: President Trump says he spoke with Elon Musk about Jensen Huang before his return as NVIDIA CEO, revealing Elon’s support for Jensen. “I spoke to him over the last week or so about it, and all he said is, Jensen’s a smart guy. Elon respects Jensen a lot. He respects him a lot.” Media
+
+🔗 [View original post](https://x.com/cb_doge/status/2124906448476094686)
+
+---
+
 ### 🕐 16:14 UTC · @elonmusk
 
 > BREAKING: Aer Lingus Chief Customer Officer Susanne Carberry praises @Starlink as the airline expands free Starlink Wi-Fi to European flights following a “fantastic” customer response on North American routes. “The response from our customers to Starlink Wi-Fi travelling to our North American destinations has been fantastic, so we’re delighted to start bringing that same experience to customers flying with us across Europe. “Our customers expect to be able to stay connected wherever they are, and that doesn’t stop when they step onboard an aircraft. “Bringing Starlink to our European fleet is about responding to that demand and giving customers the fast, reliable connectivity they increasingly expect when they travel. “Whether it’s keeping the kids entertained, catching up on work or getting a head start on the holiday, we want our customers to have more choice in how they spend their time with us.” — Susanne Carberry, Chief Customer Officer at Aer Lingus
@@ -29,6 +37,16 @@
 ![BREAKING: Aer Lingus Chief Customer Officer Susanne Carberry praises @Starlink as the airline expands free Starlink Wi-Fi to European flights following a “fantastic” customer response on North America](../../../../assets/images/2026/11/23/2124899403857318119-1.jpg)
 
 🔗 [View original post](https://x.com/cb_doge/status/2124899403857318119)
+
+---
+
+### 🕐 16:08 UTC · @elonmusk
+
+> BREAKING: Aer Lingus launches FREE Starlink Wi-Fi on European flights, with 29 short-haul aircraft to be connected in early 2027. • The expansion follows a “fantastic” response from passengers on its North American routes. • Spain, Portugal and Morocco are among the destinations planned for the rollout. • Passengers connected to Starlink on Aer Lingus’s A330 fleet used an average of 1.8 GB per device in October.
+
+![BREAKING: Aer Lingus launches FREE Starlink Wi-Fi on European flights, with 29 short-haul aircraft to be connected in early 2027. • The expansion follows a “fantastic” response from passengers on its ](../../../../assets/images/2026/11/23/2124897838656262339-1.jpg)
+
+🔗 [View original post](https://x.com/cb_doge/status/2124897838656262339)
 
 ---
 

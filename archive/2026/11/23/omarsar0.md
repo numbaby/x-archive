@@ -2,7 +2,23 @@
 
 ## 📅 November 23, 2026
 
-> 9 post(s) archived.
+> 11 post(s) archived.
+
+---
+
+### 🕐 18:30 UTC · @omarsar0
+
+> Great benchmark to measure the visual intelligence of frontier models. Copy Bench evaluates visual intelligence through tasks involving physics, WebGL, and shaders. GPT-6.2 Astra seems to be dominating all categories. Worth checking out, especially if you use models for these types of tasks. How good is AI at 3D, Physics, WebGL, shaders and games? We built a benchmark to measure the visual intelligence of frontier models. Introducing Copy Bench, the first in the @21st_dev Labs research series https://21st.dev/benchmarks/copy
+
+🔗 [View original post](https://x.com/omarsar0/status/2124933620783808682)
+
+---
+
+### 🕐 18:16 UTC · @omarsar0
+
+> MCP keeps proving to be the right interface for agent tools. @canva just made its MCP generally available. Agents can now generate editable designs and videos, remove backgrounds, resize creative, and export the final file. Everything comes back as an editable Canva design that you can review and tweak. Introducing the all-new Canva MCP, bringing Canva&apos;s design engine to the world! 🚀 Now open to any agent or developer, it makes it easier than ever to integrate Canva’s design tools and AI models into any product, agent, or workflow. We&apos;re building the design layer of the intern…
+
+🔗 [View original post](https://x.com/omarsar0/status/2124930193944871253)
 
 ---
 
