@@ -2,7 +2,15 @@
 
 ## 📅 November 23, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 09:13 UTC · @_akhaliq
+
+> GameWM Toward Next-Generation Video Games with Interaction-Centric World Models paper: https://huggingface.co/papers/2611.19247 Media
+
+🔗 [View original post](https://x.com/_akhaliq/status/2124793451241971994)
 
 ---
 
