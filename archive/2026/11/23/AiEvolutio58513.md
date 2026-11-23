@@ -2,7 +2,15 @@
 
 ## 📅 November 23, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 11:00 UTC · @AiEvolutio58513
+
+> Elon Musk says there are only three hard things about humanoid robots, and one is harder than everything else combined: &quot;The real-world intelligence, the hand, and scale manufacturing.&quot; &quot;I haven&apos;t seen any, even demo robots, that have a great hand, with all the degrees of freedom of a human hand. Optimus will have that.&quot; &quot;Everything had to be designed from physics first principles. There is no supply chain for this.&quot; &quot;From an electromechanical standpoint, the hand is more difficult than everything else combined.&quot; Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media Elon Musk says his older sons agree AI will probably make their skills unnecessary, and they still want to go to college: &quot;Will these skills be necessary in the future? Probably not, because we&apos;re going to be in like a post-work society.&quot; &quot;I don&apos;t think you have to go to college…
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2124820333706518547)
 
 ---
 
