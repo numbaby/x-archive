@@ -2,7 +2,15 @@
 
 ## 📅 November 23, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 20:20 UTC · @dair_ai
+
+> Learn more about using extraction models as verifiers for AI agents. https://x.com/i/article/2124957464999186432
+
+🔗 [View original post](https://x.com/dair_ai/status/2124961382030270535)
 
 ---
 

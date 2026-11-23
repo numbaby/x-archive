@@ -2,7 +2,23 @@
 
 ## 📅 November 23, 2026
 
-> 12 post(s) archived.
+> 15 post(s) archived.
+
+---
+
+### 🕐 20:19 UTC · @omarsar0
+
+> We need more determinism and verification in agents. You shouldn&apos;t throw reasoning LLMs at every problem. It&apos;s too expensive and unreliable. We have two classes of models to help improve reliability and verification in AI agents. Extraction and decision models. https://x.com/i/article/2124957464999186432
+
+🔗 [View original post](https://x.com/omarsar0/status/2124961081819086946)
+
+---
+
+### 🕐 20:16 UTC · @omarsar0
+
+> https://x.com/i/article/2124957464999186432
+
+🔗 [View original post](https://x.com/omarsar0/status/2124960223123136936)
 
 ---
 
@@ -11,6 +27,14 @@
 > Hadrian is launching a 1M sq ft factory and physical AI campus in San Francisco. This will help scale physical AI in SF. AI is moving into the physical world, and this is a big step. San Francisco is where the world&apos;s best engineers come to build what&apos;s next. Today that includes factories. The Factory is the Frontier.
 
 🔗 [View original post](https://x.com/omarsar0/status/2124951475340415440)
+
+---
+
+### 🕐 18:56 UTC · @omarsar0
+
+> Scenes from Nvidia headquarters as Jensen comes back. The Nvidia employees wanted him back more than anything. Grateful to the President, everyone in the administration, everyone who signed the petition, everyone who supported Jensen publicly, everyone who called the board, everyone on the board who fought for him, everyone. This is why America is the greatest country on earth. Every part of Jensen’s story would have only been possible in America. And remember that Gandalf the White was even better than Gandalf the Grey in every way. “Let’s get to work.” 🇺🇸 Media
+
+🔗 [View original post](https://x.com/GavinSBaker/status/2124940234932596890)
 
 ---
 
