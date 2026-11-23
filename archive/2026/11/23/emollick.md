@@ -2,7 +2,24 @@
 
 ## 📅 November 23, 2026
 
-> 1 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 05:28 UTC · @emollick
+
+
+![](../../../../assets/images/2026/11/23/2124736945070944749-1.jpg)
+
+🔗 [View original post](https://x.com/emollick/status/2124736945070944749)
+
+---
+
+### 🕐 04:27 UTC · @emollick
+
+> Not that AI discourse has ever been great, but &quot;of course LLMs are good at math&quot; both misses that &quot;good at math&quot; is an *slight* understatement in the context of solving the Reimann Hypothesis &amp; also ignores the fact that LLMs were not actually &quot;good at math&quot; until very recently.
+
+🔗 [View original post](https://x.com/emollick/status/2124721500821623181)
 
 ---
 

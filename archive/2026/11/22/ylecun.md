@@ -2,7 +2,7 @@
 
 ## 📅 November 22, 2026
 
-> 7 post(s) archived.
+> 8 post(s) archived.
 
 ---
 
@@ -19,6 +19,14 @@
 > Dario&apos;s spiel since GPT-2 has always been about hyping the dangers so that open models would be made illegal and *he* would stay in control. He left OpenAI because he wasn&apos;t going to have control. It&apos;s like the Ottoman Empire banning the printing press for Arabic so they would keep in control of the dogma. It stops the population from freely accessing diverse knowledge. It&apos;s a new form of medieval obscurantism.
 
 🔗 [View original post](https://x.com/ylecun/status/2124550037912920090)
+
+---
+
+### 🕐 16:13 UTC · @ylecun
+
+> Much of the commentary on AI and math seems to misunderstand what mathematicians actually do. Broadly, there are two kinds of work: 1) Proving or disproving conjectures using established mathematical ideas. AI generating a 250,000-page brute-force proof, or eventually a short, elegant one, isn’t the same as: 2)Inventing new mathematical objects, concepts, and fields. Calculus, Topology, Abstract Algebra, Graph Theory, and Matroid Theory (my thesis topic) all had to be imagined and developed. I don&apos;t think anyone is surprised that AI (especially neuro symbolic enabled models) can do the first. Wake me up when AI can do the latter. Anyone claiming &quot;all mathematics will be solved&quot; doesn&apos;t even know what mathematics is.
+
+🔗 [View original post](https://x.com/davidclowery/status/2124536732276162753)
 
 ---
 
