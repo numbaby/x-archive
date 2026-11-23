@@ -2,7 +2,15 @@
 
 ## 📅 November 23, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 13:00 UTC · @AiEvolutio58513
+
+> Jeff Bezos explains the decision rule that made him Amazon&apos;s &quot;chief slowdown officer&quot;: &quot;Most decisions are two-way doors.&quot; &quot;If it&apos;s a two-way door decision... It turns out to be the wrong decision, you can come back in and pick another door.&quot; &quot;Some decisions are so consequential and so important and so hard to reverse that they really are one-way door decisions. You go in that door, you&apos;re not coming back.&quot; &quot;When I was the CEO of Amazon, I often found myself in the position of being the chief slowdown officer.&quot; Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media Elon Musk was asked what he&apos;d do if he had to start over with only $1,000: &quot;I did originally come to North America with like, I don&apos;t know, 2,500 bucks Canadian... one bag of books and one bag of clothes in Montreal at age 17. So that is how I started out.&quot; &quot;Either something tru…
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2124850515129561352)
 
 ---
 

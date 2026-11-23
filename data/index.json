@@ -163461,5 +163461,26 @@
         "source_url": "https://pbs.twimg.com/media/HXzoxxhXgAA4mss.jpg?name=orig"
       }
     ]
+  },
+  "2124850515129561352": {
+    "account": "AiEvolutio58513",
+    "date": "2026-11-23",
+    "file": "data/posts/2026/11/2026-11-23.jsonl",
+    "fingerprint": "9c5b6a3e3faaae31107e432b2619faecd7e67196ea0f239b305f506de5c0e7e3",
+    "media": []
+  },
+  "2124856094547743072": {
+    "account": "tunguz",
+    "date": "2026-11-23",
+    "file": "data/posts/2026/11/2026-11-23.jsonl",
+    "fingerprint": "e685f92b06645a51f6a7b9e0e0b4591dfa7b23b48648aea1f9b9024f961a615c",
+    "media": []
+  },
+  "2124858167070789709": {
+    "account": "tunguz",
+    "date": "2026-11-23",
+    "file": "data/posts/2026/11/2026-11-23.jsonl",
+    "fingerprint": "add8cb2eaf6adc75de00538df8baa28c66a497da078ead3a0fc72ea8756ccde9",
+    "media": []
   }
 }
