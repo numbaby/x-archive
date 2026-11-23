@@ -2,7 +2,7 @@
 
 ## 📅 November 22, 2026
 
-> 50 post(s) archived.
+> 51 post(s) archived.
 
 ---
 
@@ -19,6 +19,14 @@
 > Starlink helps kids with education Starlink is bringing high-speed internet to thousands of students in rural Honduras, one school at a time 🇭🇳 At Escuela Sergio Palacios in El Hatillo, 200 students now have access to Starlink internet through an installation by Conatel And this is part of a much bigger effort …
 
 🔗 [View original post](https://x.com/elonmusk/status/2124621998521212940)
+
+---
+
+### 🕐 21:45 UTC · @elonmusk
+
+> Jessica Tarlov says when she finally decided to listen to the full audio of Trump&apos;s &quot;Fine People&quot; comments -- she found out he wasn&apos;t talking about Nazis. &quot;That was illuminating for me.&quot; Wow. How big of her to admit it was a lie all these years later...after actually listening to it. Democrats still regurgitate this hoax to this day. Media
+
+🔗 [View original post](https://x.com/WesternLensman/status/2124620232287277091)
 
 ---
 
