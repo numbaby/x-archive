@@ -2,7 +2,15 @@
 
 ## 📅 November 23, 2026
 
-> 11 post(s) archived.
+> 12 post(s) archived.
+
+---
+
+### 🕐 19:41 UTC · @omarsar0
+
+> Hadrian is launching a 1M sq ft factory and physical AI campus in San Francisco. This will help scale physical AI in SF. AI is moving into the physical world, and this is a big step. San Francisco is where the world&apos;s best engineers come to build what&apos;s next. Today that includes factories. The Factory is the Frontier.
+
+🔗 [View original post](https://x.com/omarsar0/status/2124951475340415440)
 
 ---
 

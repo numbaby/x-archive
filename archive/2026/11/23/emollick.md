@@ -2,7 +2,15 @@
 
 ## 📅 November 23, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 19:23 UTC · @emollick
+
+> See also https://x.com/ahall_research/status/2124889867968741878?a=ojMMMXHr5GiitpCijxo&amp;s=20 Frontier models can now propose technical social science research designs that experts grade more highly than the world&apos;s top political economist&apos;s---that&apos;s the finding from our new Free Systems eval, SnyderBench, in which we have PhD experts blind grade research proposals from …
+
+🔗 [View original post](https://x.com/emollick/status/2124946844543545356)
 
 ---
 

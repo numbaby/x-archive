@@ -2,7 +2,31 @@
 
 ## 📅 November 23, 2026
 
-> 10 post(s) archived.
+> 13 post(s) archived.
+
+---
+
+### 🕐 19:39 UTC · @tunguz
+
+> Generational talent. Breaking: Jim Cramer says avoid Nvidia and buy Anthropic Cramer admits $NVDA earnings were “fabulous” but to buy $ANT instead
+
+🔗 [View original post](https://x.com/tunguz/status/2124950891555856622)
+
+---
+
+### 🕐 19:36 UTC · @tunguz
+
+> I&apos;d love to check on him, but he blocked him a while back for calling his book undulated sycophantic hagiography. LMAO someone check up on tae kim
+
+🔗 [View original post](https://x.com/tunguz/status/2124950145791836439)
+
+---
+
+### 🕐 19:16 UTC · @tunguz
+
+> Never been more back. Media
+
+🔗 [View original post](https://x.com/tunguz/status/2124945262594732159)
 
 ---
 
