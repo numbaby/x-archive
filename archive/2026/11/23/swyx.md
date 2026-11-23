@@ -2,7 +2,23 @@
 
 ## 📅 November 23, 2026
 
-> 1 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 08:21 UTC · @swyx
+
+> microsoft answers the call!!!!! oh my, am I a @mustafasuleyman stan?? https://x.com/mustafasuleyman/status/2124663594449318173 i think we need @alexandr_wang to join in and that will be the tipping point for all labs to unite on this effort We fully support OpenAI&apos;s transparency initiative. Thanks to @merettm @markchen90 @gdb @sama for leading the way. We all got into this field to build safe AGI that is genuinely good for humanity. One of the hardest parts of AI safety is coordination, and this is a step in the ri…
+
+🔗 [View original post](https://x.com/swyx/status/2124780264916423021)
+
+---
+
+### 🕐 07:26 UTC · @swyx
+
+> @theallinpod also this FTX SBF quote https://x.com/aquariusacquah/status/2124618540997304647?a=Hfzl1YRgy_fJrLyv9BE&amp;s=20 @taimurabdaal hahaha
+
+🔗 [View original post](https://x.com/swyx/status/2124766474736976240)
 
 ---
 
