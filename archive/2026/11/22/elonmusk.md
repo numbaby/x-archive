@@ -2,7 +2,7 @@
 
 ## 📅 November 22, 2026
 
-> 51 post(s) archived.
+> 55 post(s) archived.
 
 ---
 
@@ -88,11 +88,27 @@
 
 ---
 
+### 🕐 20:10 UTC · @elonmusk
+
+> I warned Iceland in June 2025 but they chose to ignore me… Iceland is considered “the most gender-equal country in the world” but it doesn’t seem “equal” to me… Currently, they have a female President, Prime Minister, the head of every political party is a woman and the majority of cabinet is women. 68.8% of students who graduated colle…
+
+🔗 [View original post](https://x.com/GadSaad/status/2124596352256819377)
+
+---
+
 ### 🕐 19:42 UTC · @elonmusk
 
 > 32 hour launch pad recycle. Great work by SpaceX team. Falcon 9 and NROL-136 lift off from pad 4E in California 32 hours after teams launched USSF-317, completing our fastest turnaround between launches from the same pad
 
 🔗 [View original post](https://x.com/elonmusk/status/2124589255565680900)
+
+---
+
+### 🕐 18:28 UTC · @elonmusk
+
+> I&apos;ve been using @bot to help my fiancée and me plan our wedding, and it honestly feels like we have a hired full-time wedding planner. Over the last month, it helped us figure out our hotel room block. It found 15 hotels within 35 minutes of our venue, handled all the email correspondence, and got proposals with the details we needed to decide. Then it created a comparison sheet with the criteria we cared about and recommended a shortlist. Once we picked one, it helped us review the contract, negotiated with the hotel, and even signed it (w/ my permission, of course). The day after we signed, @bot proactively researched a shortlist of shuttle services and welcome-party venues, with emails already drafted for my review. I can&apos;t imagine planning a wedding without it. It&apos;s truly an amazing time to be alive.
+
+🔗 [View original post](https://x.com/danny_graziosi/status/2124570651755204813)
 
 ---
 
@@ -104,11 +120,27 @@
 
 ---
 
+### 🕐 17:40 UTC · @elonmusk
+
+> It’s almost unbelievable to have a CEO that works on so many things but still has this level of understanding of technical details at Tesla. Every time I’m fortunate enough to present to Elon, I’m blown away by how dedicated he is to learn about the technical progress and how much he cares about the low-level details while respecting each engineer’s work. Elon is so unique and It’s such an honor to work for him. In case anyone is curious: We’ve had a ~pixel-perfect world model since last year, which is critical for synthetic data generation. The (much) smaller version of that in the car is a conditional mean-flow model, based on the recent sequence of Tesla Universal Vision Encoder feat…
+
+🔗 [View original post](https://x.com/yilun_chen_/status/2124558617231925447)
+
+---
+
 ### 🕐 16:09 UTC · @elonmusk
 
 > When Elon Musk was a student at the University of Pennsylvania, he was paying his own way through college. He and his roommate rented a cheap ten-bedroom house that had once been a frat house and began hosting weekend parties there, charging five dollars at the door. Elon later said he could make an entire month&apos;s rent in one night, and that somebody had to stay sober to run the party, so he did. When Maye came to visit one weekend, she was quite surprised by it all, and then she did what Maye always does: she helped. She worked coat check and even guarded the cash, as he later joked, with a kitchen knife 😅 Media
 
 🔗 [View original post](https://x.com/EvaFox/status/2124535759117934994)
+
+---
+
+### 🕐 13:40 UTC · @elonmusk
+
+> I think we moved past this a little too quickly … SpaceX literally caught a rocket in mid air last week Media
+
+🔗 [View original post](https://x.com/StockMKTNewz/status/2124498163050713287)
 
 ---
 
