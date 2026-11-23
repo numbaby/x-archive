@@ -2,7 +2,17 @@
 
 ## 📅 November 23, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 15:59 UTC · @emollick
+
+> Walmart is determined not to make the same mistake with agentic commerce that it did with ecommerce. While Amazon is blocking agents, Walmart is embracing them - quite a reversal. And the new data from Stripe suggests agentic shopping may actually be kicking off &amp; is sticky.
+
+![Walmart is determined not to make the same mistake with agentic commerce that it did with ecommerce. While Amazon is blocking agents, Walmart is embracing them - quite a reversal. And the new data fro](../../../../assets/images/2026/11/23/2124895744775667767-1.jpg)
+
+🔗 [View original post](https://x.com/emollick/status/2124895744775667767)
 
 ---
 

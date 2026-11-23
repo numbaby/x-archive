@@ -2,7 +2,25 @@
 
 ## 📅 November 23, 2026
 
-> 3 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 15:54 UTC · @omarsar0
+
+> Open source AI is good. Good always prevails!
+
+🔗 [View original post](https://x.com/omarsar0/status/2124894375088189710)
+
+---
+
+### 🕐 15:44 UTC · @omarsar0
+
+> Recommended reading on why physical things may be the next big opportunity after code. Citrini Research argues that as AI makes software cheaper and easier to produce, the physical world becomes the bottleneck. That&apos;s why @antropirobotics interests me. They&apos;re building autonomous factories to make manufacturing faster and more accessible. We were promised flying cars and colonies on Mars. Instead, we&apos;re still waiting weeks to manufacture a simple metal part. Somehow, the world has accepted this as normal. We think it&apos;s absurd. At @antropirobotics , we&apos;re building autonomous factories to make hardware at software …
+
+![Recommended reading on why physical things may be the next big opportunity after code. Citrini Research argues that as AI makes software cheaper and easier to produce, the physical world becomes the b](../../../../assets/images/2026/11/23/2124891751328497781-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2124891751328497781)
 
 ---
 
