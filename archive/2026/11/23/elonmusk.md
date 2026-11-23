@@ -2,7 +2,33 @@
 
 ## 📅 November 23, 2026
 
-> 11 post(s) archived.
+> 14 post(s) archived.
+
+---
+
+### 🕐 17:30 UTC · @elonmusk
+
+> True The first room at the front door was Elon‘s. There was a mattress on the floor. When the young people arrived and were dancing upstairs, I thought the floor was going to collapse so I moved the mattress to the wall. I assumed just the middle would collapse. I put the door money …
+
+🔗 [View original post](https://x.com/elonmusk/status/2124918561617694750)
+
+---
+
+### 🕐 17:28 UTC · @elonmusk
+
+> Those who violate the law on this platform WILL be prosecuted, WHEREVER they may be in the world. This month, as part of its Cyber-Enabled Scam Initiative, the @DojCrimDiv opened an investigation into individuals suspected of utilizing stolen third-party payment credentials on @XMoney. We are dedicated to providing maximum cooperation to the @TheJusticeDept to bring swift ac…
+
+🔗 [View original post](https://x.com/elonmusk/status/2124917923391443211)
+
+---
+
+### 🕐 16:14 UTC · @elonmusk
+
+> BREAKING: Aer Lingus Chief Customer Officer Susanne Carberry praises @Starlink as the airline expands free Starlink Wi-Fi to European flights following a “fantastic” customer response on North American routes. “The response from our customers to Starlink Wi-Fi travelling to our North American destinations has been fantastic, so we’re delighted to start bringing that same experience to customers flying with us across Europe. “Our customers expect to be able to stay connected wherever they are, and that doesn’t stop when they step onboard an aircraft. “Bringing Starlink to our European fleet is about responding to that demand and giving customers the fast, reliable connectivity they increasingly expect when they travel. “Whether it’s keeping the kids entertained, catching up on work or getting a head start on the holiday, we want our customers to have more choice in how they spend their time with us.” — Susanne Carberry, Chief Customer Officer at Aer Lingus
+
+![BREAKING: Aer Lingus Chief Customer Officer Susanne Carberry praises @Starlink as the airline expands free Starlink Wi-Fi to European flights following a “fantastic” customer response on North America](../../../../assets/images/2026/11/23/2124899403857318119-1.jpg)
+
+🔗 [View original post](https://x.com/cb_doge/status/2124899403857318119)
 
 ---
 

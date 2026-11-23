@@ -2,7 +2,15 @@
 
 ## 📅 November 23, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 17:00 UTC · @ylecun
+
+> I&apos;m excited to introduce Embo! We are building the brain for intelligent robots to help people around the world. We believe intelligent robots will unlock an era of abundance, making goods and services affordable for everybody. But to deploy them at scale, robots need to work out of the box in unfamiliar scenarios. At Embo, we are building frontier AI models with a deep understanding of physical reality and fine-grained motor skills. Today&apos;s robot skills are fragile. Demonstrations can teach repetitive behaviors, but they cannot cover every object or situation a robot will encounter. We need general pretraining at internet scale to fill the gaps between individual tasks and practice to develop reliable motor skills. The world models our team has pioneered unlock a path to general robots. Our robot brain pretrains on massive amounts of internet video to learn about objects, physical interactions, and how tasks unfold. It then practices motor skills in diverse imagined scenarios to become robust to unexpected situations. Our team is behind seminal work in AI including Dreamer, VideoGPT, and Diffusion Forcing, with experience from DeepMind, Meta Superintelligence Labs, NVIDIA Cosmos, Berkeley, and MIT. We have raised a $110M Seed led by @a16z. We are excited to partner with them, @khoslaventures, DST Global, NVentures (@nvidia), @strikervp, and other strategic investors to bring reliable intelligent robots out into the world. @EmboAI Media
+
+🔗 [View original post](https://x.com/danijar/status/2124911019562811820)
 
 ---
 

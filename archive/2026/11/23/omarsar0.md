@@ -2,7 +2,41 @@
 
 ## 📅 November 23, 2026
 
-> 5 post(s) archived.
+> 9 post(s) archived.
+
+---
+
+### 🕐 17:45 UTC · @omarsar0
+
+> Models increasingly need training data that captures how people actually work. Perit brings human expertise into model training across audio, egocentric data, RL coding tasks, and enterprise datasets. Experts can propose tasks directly to labs and help shape what models learn. Love that. We joined YC at $2M in revenue. Less than 3 months later we&apos;re at $11M+ (5x), and we&apos;ve raised $5M from YC, @rrhoover, @RebelFund_VC , @robinhood ventures, @SchemaVentures and lots of great angels!
+
+🔗 [View original post](https://x.com/omarsar0/status/2124922367554060302)
+
+---
+
+### 🕐 17:36 UTC · @omarsar0
+
+> The next phase of proactive agents looks something like this. Demi builds and pulls in richer context so agents can work more proactively on tasks. This is also one of the most powerful use cases I&apos;ve seen decision models help to unlock. 1/7 This Thanksgiving, I&apos;m thankful for all the work Demi did before I asked. tl;dr: http://demi.ai is the first AI assistant that lives on your Mac, learns how you work, and does the work before you ask. Our invite-only beta is live today. The first 100 people to comment across…
+
+🔗 [View original post](https://x.com/omarsar0/status/2124920075262308419)
+
+---
+
+### 🕐 17:19 UTC · @omarsar0
+
+> More AI engineers should be running their own evals and fine-tunes. GPU access is usually the bottleneck. The Nebius Builder Program now includes free AI Cloud credits for Spot GPUs. That covers an afternoon on a B300 or up to a day on an H100, with no credit card. A great way to test your workload on new hardware. A B300 for an afternoon. An H100 for up to a day. Free on spot with AI Cloud. No credit card required. We&apos;re adding $25 in AI Cloud credits to the Nebius Builder Program so you can get hands-on with GPUs at spot prices. Spot pricing gets you idle GPU capacity at a fraction of on…
+
+🔗 [View original post](https://x.com/omarsar0/status/2124915685092393073)
+
+---
+
+### 🕐 17:19 UTC · @omarsar0
+
+> Sign up here https://dev.nebius.com/builders
+
+![Sign up here https://dev.nebius.com/builders](../../../../assets/images/2026/09/10/2098077742579458133-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2124915687147614451)
 
 ---
 
