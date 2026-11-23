@@ -2,7 +2,17 @@
 
 ## 📅 November 23, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 13:58 UTC · @swyx
+
+> NVIDIA Board reinstates Jensen Huang as President, CEO and Board Director. Read the release: https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director
+
+![NVIDIA Board reinstates Jensen Huang as President, CEO and Board Director. Read the release: https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director](../../../../assets/images/2026/11/23/2124865060397019480-1.jpg)
+
+🔗 [View original post](https://x.com/nvidianewsroom/status/2124865060397019480)
 
 ---
 

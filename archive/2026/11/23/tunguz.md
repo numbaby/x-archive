@@ -2,7 +2,35 @@
 
 ## 📅 November 23, 2026
 
-> 7 post(s) archived.
+> 10 post(s) archived.
+
+---
+
+### 🕐 15:32 UTC · @tunguz
+
+> How does he do it all the time?!?!?!!?! Oh god he&apos;s CEO for life
+
+🔗 [View original post](https://x.com/tunguz/status/2124888905233191180)
+
+---
+
+### 🕐 15:05 UTC · @tunguz
+
+> Wow!
+
+![Wow!](../../../../assets/images/2026/11/23/2124882017166950451-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2124882017166950451)
+
+---
+
+### 🕐 14:42 UTC · @tunguz
+
+> Second Coming of Jensen Huang
+
+![Second Coming of Jensen Huang](../../../../assets/images/2026/11/23/2124876211662819697-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2124876211662819697)
 
 ---
 
