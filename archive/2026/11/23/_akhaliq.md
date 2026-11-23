@@ -2,7 +2,17 @@
 
 ## 📅 November 23, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 09:28 UTC · @_akhaliq
+
+> AlphaAnything Extending Pretrained RGB Generators to RGBA paper: https://huggingface.co/papers/2610.32413 model: https://huggingface.co/WLuLi/AlphaAnything
+
+![AlphaAnything Extending Pretrained RGB Generators to RGBA paper: https://huggingface.co/papers/2610.32413 model: https://huggingface.co/WLuLi/AlphaAnything](../../../../assets/images/2026/11/23/2124797213272690972-1.jpg)
+
+🔗 [View original post](https://x.com/_akhaliq/status/2124797213272690972)
 
 ---
 
