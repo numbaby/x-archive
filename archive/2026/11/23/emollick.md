@@ -2,7 +2,25 @@
 
 ## 📅 November 23, 2026
 
-> 5 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 21:02 UTC · @emollick
+
+> And each model behaves differently as well, so be careful if offered an easy solution to influencing AI preferences. As soon as anything enters the context window, things change a lot.
+
+🔗 [View original post](https://x.com/emollick/status/2124971840997040163)
+
+---
+
+### 🕐 20:56 UTC · @emollick
+
+> But in our research on AI shopping, we discovered that every pattern in agent preferences collapses remarkably easily. Change the order of the sites that the AI sees, have a conversation with the AI first, change a headline... and AI suggestions change. https://gail.wharton.upenn.edu/research-and-insights/technical-report-agentic-shopping/ Agents may be the biggest distribution opportunity ever - working 24/7 on our behalf, with our wallets How do you attract their attention? We @a16z partnered with @promptingco on more than 10,000 runs across the four leading agents - our takeaways 👇 (cc @venturetwins)
+
+![But in our research on AI shopping, we discovered that every pattern in agent preferences collapses remarkably easily. Change the order of the sites that the AI sees, have a conversation with the AI f](../../../../assets/images/2026/11/23/2124970360445796544-1.png)
+
+🔗 [View original post](https://x.com/emollick/status/2124970360445796544)
 
 ---
 
