@@ -2,7 +2,15 @@
 
 ## 📅 November 23, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 02:06 UTC · @ylecun
+
+> 1/12 OpenAI&apos;s perplexity post made me angry enough that me and my agents ran some experiments over the weekend.
+
+🔗 [View original post](https://x.com/ziv_ravid/status/2124685983488643267)
 
 ---
 

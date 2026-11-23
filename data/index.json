@@ -163307,6 +163307,13 @@
     "fingerprint": "00733e5ef8b4505cac786a417edb38df544ab1a6e73df29b72465f1dfa31f5e7",
     "media": []
   },
+  "2124685983488643267": {
+    "account": "ylecun",
+    "date": "2026-11-23",
+    "file": "data/posts/2026/11/2026-11-23.jsonl",
+    "fingerprint": "3fa93426d75355e91ac75d4912b0f177dc074b8662b41556f7a4033507caeeb8",
+    "media": []
+  },
   "2124688460128858569": {
     "account": "tunguz",
     "date": "2026-11-23",
@@ -163441,5 +163448,18 @@
     "file": "data/posts/2026/11/2026-11-23.jsonl",
     "fingerprint": "f11c472c1655ecf2f7867ca5d13221d71aa3075daaeedbf3096d59a70f6c8f59",
     "media": []
+  },
+  "2124829074623185113": {
+    "account": "Letstalk246",
+    "date": "2026-11-23",
+    "file": "data/posts/2026/11/2026-11-23.jsonl",
+    "fingerprint": "d0a32df9c3108d0bba8a3138f38668747e6d23d1c6d00b3b92cbe23510f9878f",
+    "media": [
+      {
+        "local_path": "assets/images/2026/11/23/2124829074623185113-1.jpg",
+        "sha256": "fdc9de33b5edbbf8d3d244325b20422a2fed146e5e2c4b672ec4042e5698f5a0",
+        "source_url": "https://pbs.twimg.com/media/HXzoxxhXgAA4mss.jpg?name=orig"
+      }
+    ]
   }
 }
