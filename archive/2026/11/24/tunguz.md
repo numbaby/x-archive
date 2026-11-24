@@ -2,7 +2,23 @@
 
 ## 📅 November 24, 2026
 
-> 21 post(s) archived.
+> 23 post(s) archived.
+
+---
+
+### 🕐 22:49 UTC · @tunguz
+
+> In other words, p(doom) = 4% now. JUST IN: Anthropic claims it has reduced the likelihood of Claude AI models escaping their security sandboxes by up to 96% using new safety measures.
+
+🔗 [View original post](https://x.com/tunguz/status/2125361216222843301)
+
+---
+
+### 🕐 22:34 UTC · @tunguz
+
+> Your vibes are your brand. Protect them at all costs.
+
+🔗 [View original post](https://x.com/tunguz/status/2125357418733605066)
 
 ---
 

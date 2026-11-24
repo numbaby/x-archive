@@ -2,7 +2,17 @@
 
 ## 📅 November 24, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 15:36 UTC · @ylecun
+
+> You folks were well aware of my clearly defined issues with the management of this company. If you listened to me, I saved you from a historic loss in just a few days. You are welcome.
+
+![You folks were well aware of my clearly defined issues with the management of this company. If you listened to me, I saved you from a historic loss in just a few days. You are welcome.](../../../../assets/images/2026/11/24/2125252248926396658-1.jpg)
+
+🔗 [View original post](https://x.com/BrianRoemmele/status/2125252248926396658)
 
 ---
 

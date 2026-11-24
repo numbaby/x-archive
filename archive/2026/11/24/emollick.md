@@ -2,7 +2,15 @@
 
 ## 📅 November 24, 2026
 
-> 8 post(s) archived.
+> 9 post(s) archived.
+
+---
+
+### 🕐 22:56 UTC · @emollick
+
+> The story here is looking like a story in robotics and 3D design. The latest frontier models have a tremendous general capability for diverse hard problems that we used to think would require specialized models or approaches. Bitter lesson everywhere. We’re sharing a new preprint showing wet lab validation of intrinsic protein design capabilities of the GPT-6 family of models. Our models can design new protein shapes and sequences using reasoning and code, without calling specialized biology models to generate them. https://o…
+
+🔗 [View original post](https://x.com/emollick/status/2125363024169222530)
 
 ---
 
