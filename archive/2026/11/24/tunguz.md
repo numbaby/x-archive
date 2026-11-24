@@ -2,7 +2,49 @@
 
 ## 📅 November 24, 2026
 
-> 9 post(s) archived.
+> 14 post(s) archived.
+
+---
+
+### 🕐 14:35 UTC · @tunguz
+
+> They are so early. Anthropic just fell below its IPO price.
+
+🔗 [View original post](https://x.com/tunguz/status/2125236967575343491)
+
+---
+
+### 🕐 14:32 UTC · @tunguz
+
+> Most people in the US *still* don&apos;t realize how profoundly ALL of the economy is now downstream from AI.
+
+🔗 [View original post](https://x.com/tunguz/status/2125236134196208095)
+
+---
+
+### 🕐 14:27 UTC · @tunguz
+
+> A message to all of my dear former Nvidia colleagues: Huang in there.
+
+🔗 [View original post](https://x.com/tunguz/status/2125234864425517404)
+
+---
+
+### 🕐 14:09 UTC · @tunguz
+
+> Being an Nvidia investor is not for the faint of heart.
+
+![Being an Nvidia investor is not for the faint of heart.](../../../../assets/images/2026/11/24/2125230295255265631-1.png)
+
+🔗 [View original post](https://x.com/tunguz/status/2125230295255265631)
+
+---
+
+### 🕐 13:43 UTC · @tunguz
+
+> Croatia FTW! I&apos;m trying to bring these family values to the States. Average age people leave their parental home in the EU, 2025: 🇭🇷31.5 🇬🇷30.9 🇸🇰30.9 🇪🇸30.2 🇮🇹30.2 🇵🇹28.8 🇸🇮28.8 🇧🇬27.9 🇲🇹27.5 🇷🇴27.4 🇭🇺27.3 🇨🇾27.0 🇮🇪26.9 🇵🇱26.8 🇱🇺26.6 🇪🇺26.3 🇧🇪26.2 🇨🇿25.8 🇱🇻25.7 🇦🇹25.2 🇩🇪24.1 🇫🇷23.8 🇳🇱23.4 🇸🇪23.1 …
+
+🔗 [View original post](https://x.com/tunguz/status/2125223667797721563)
 
 ---
 
