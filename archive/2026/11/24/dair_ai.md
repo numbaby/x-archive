@@ -2,7 +2,17 @@
 
 ## 📅 November 24, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 15:52 UTC · @dair_ai
+
+> This is a fascinating research topic and matters a lot in a world of RSI. It investigated whether an LLM can tell from the first 20% of a training run how it will end. The strongest LLMs can. They match or beat dedicated curve-fitting methods, but only when the run is logged in detail. Researchers built Tea Leaves from 682 real runs across pretraining, fine-tuning, and RL. The forecaster sees the config, description, code, and early curve, then predicts the rest. Across 11 LLMs, the strongest matched the best curve fitter on smooth loss curves (skill 0.66 against 0.62) and led on noisy RL reward curves (0.43 against 0.13). More information helped more than more effort. Related runs in the prompt cut loss-curve error by 39%, while tools added little. On sparsely logged runs, every method lost most of its skill. A small open model trained on public runs matched the best LLM on loss curves. Research agents today train every run to the end. Log densely, give your agent related runs, and use its forecasts to rank which runs get more compute. https://arxiv.org/abs/2611.30141 Chat with Paper: https://academy.dair.ai/papers/reading-the-tea-leaves-again-can-large-language-models-predict-language-model-tr-2611.30141
+
+![This is a fascinating research topic and matters a lot in a world of RSI. It investigated whether an LLM can tell from the first 20% of a training run how it will end. The strongest LLMs can. They mat](../../../../assets/images/2026/11/24/2125256189831508395-1.png)
+
+🔗 [View original post](https://x.com/omarsar0/status/2125256189831508395)
 
 ---
 

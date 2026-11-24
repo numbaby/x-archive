@@ -2,7 +2,15 @@
 
 ## 📅 November 24, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 16:21 UTC · @omarsar0
+
+> Cool idea to better manage all your agent skills. Skillsync lets you publish a skill once and install it into Claude or ChatGPT with one click. And you can even earn from your skills. The skills you build for your agents are your real edge right now, they&apos;re scattered across github, slack and dare I say google drive today we’re introducing skillsync, the substack for skills publish your skills, get people and agents to pay to use them got skills?
+
+🔗 [View original post](https://x.com/omarsar0/status/2125263600533058031)
 
 ---
 

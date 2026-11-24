@@ -2,7 +2,23 @@
 
 ## 📅 November 24, 2026
 
-> 5 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 16:42 UTC · @emollick
+
+> There is no established playbook for what to do as a result, and these teams are often crossing department boundaries (marketing, legal, engineering, sales) with their work that is making reactions especially fraught as they threaten existing structures, traditions, and rules.
+
+🔗 [View original post](https://x.com/emollick/status/2125268803206398206)
+
+---
+
+### 🕐 16:38 UTC · @emollick
+
+> Thing I am hearing from a number of big firms, from manufacturers to financial services: we have scattered teams of 2-3 people using AI that are doing the work of dozens of folks in a fraction of the time, creating large-scale management fights over the implications and politics.
+
+🔗 [View original post](https://x.com/emollick/status/2125267894644916669)
 
 ---
 
