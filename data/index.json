@@ -164352,5 +164352,26 @@
         "source_url": "https://pbs.twimg.com/tweet_video_thumb/HX4gN7qWgAAuoA2.jpg"
       }
     ]
+  },
+  "2125175890048876864": {
+    "account": "tunguz",
+    "date": "2026-11-24",
+    "file": "data/posts/2026/11/2026-11-24.jsonl",
+    "fingerprint": "8c9527bd569318796b2f8ba4695dc240b799908b5dd15f83d89ed9df9f32f10e",
+    "media": []
+  },
+  "2125178828943184363": {
+    "account": "elonmusk",
+    "date": "2026-11-24",
+    "file": "data/posts/2026/11/2026-11-24.jsonl",
+    "fingerprint": "edc76b93534ec2805d77ca10513918589d3520f727e032be48dca0ac44f84f59",
+    "media": []
+  },
+  "2125182741142712451": {
+    "account": "AiEvolutio58513",
+    "date": "2026-11-24",
+    "file": "data/posts/2026/11/2026-11-24.jsonl",
+    "fingerprint": "b834f95e4f83fdeb6dcfb3db9275d50df787b1c62d3fa02f8dd4ccf0a0b3d274",
+    "media": []
   }
 }

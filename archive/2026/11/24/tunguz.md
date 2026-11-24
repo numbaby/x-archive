@@ -2,7 +2,15 @@
 
 ## 📅 November 24, 2026
 
-> 5 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 10:33 UTC · @tunguz
+
+> Two ants … more ants …🐜🐜🐜🐜🐜 BREAKING: Jensen Huang admitted to having more affairs than previously revealed during a Sunday meeting with Nvidia&apos;s board. — WSJ
+
+🔗 [View original post](https://x.com/tunguz/status/2125175890048876864)
 
 ---
 

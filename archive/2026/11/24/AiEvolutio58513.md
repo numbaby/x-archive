@@ -2,7 +2,15 @@
 
 ## 📅 November 24, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 11:00 UTC · @AiEvolutio58513
+
+> Elon Musk says movies, games and podcasts are going to be &quot;overwhelmingly AI generated,&quot; and the one thing that gets more valuable is being there in person: &quot;Real-time movies and video games, real-time video generation, I think, is where things are headed.&quot; &quot;The AI could certainly emulate a scarred human being quite well.&quot; &quot;When digital media is ubiquitous and you can just have anything digitally essentially for free... the scarce commodity will be live events.&quot; Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media Elon Musk says there are only three hard things about humanoid robots, and one is harder than everything else combined: &quot;The real-world intelligence, the hand, and scale manufacturing.&quot; &quot;I haven&apos;t seen any, even demo robots, that have a great hand, with all the degrees of freedo…
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2125182741142712451)
 
 ---
 
