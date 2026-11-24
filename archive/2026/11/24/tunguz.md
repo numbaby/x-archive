@@ -2,7 +2,23 @@
 
 ## 📅 November 24, 2026
 
-> 18 post(s) archived.
+> 20 post(s) archived.
+
+---
+
+### 🕐 19:51 UTC · @tunguz
+
+> Men would sacrifice everything in order to win the AI race, even going to therapy. JUST IN: Jensen Huang reveals he&apos;s undergoing 90 minutes of therapy every day following his ouster &amp; reinstatement, saying it has been helping him “a lot.”
+
+🔗 [View original post](https://x.com/tunguz/status/2125316363048669230)
+
+---
+
+### 🕐 19:09 UTC · @tunguz
+
+> Are you being greedy when others are fearful?
+
+🔗 [View original post](https://x.com/tunguz/status/2125305946909954052)
 
 ---
 

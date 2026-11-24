@@ -2,7 +2,23 @@
 
 ## 📅 November 24, 2026
 
-> 5 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 19:46 UTC · @omarsar0
+
+> Voice models need independent evals more than ever. @Voicearena_ai benchmarks speech-to-text, text-to-speech, diarization, dictation, and voice agents. The new entity benchmark scores 90 models the same way across seven English accents. The full harness is open on GitHub, so you can check the numbers yourself. Drop 6/15 Today we are adding an Entity dataset to the Voice Arena ASR Leaderboard 🧵 7 English accents. 90 models. 718 speakers. 4,739 audio clips. 1.7M+ entity evaluations. We test how accurately ASR models transcribe critical information: names, emails, addresses, medical ter…
+
+🔗 [View original post](https://x.com/omarsar0/status/2125315192795865553)
+
+---
+
+### 🕐 19:16 UTC · @omarsar0
+
+> Love to see this new post-training era. Open-weight models are accelerating rapidly all at once. The article shares good post-training tips and recipes. Recommended read. US open-weight models have caught up. We post-trained four US models from @meta, @nvidia, @reflection_ai and @thinkymachines with the Harvey Tenet recipe we used on Kimi K3. They are now competitive with non-US models, and Muse Spark Open is the first model to pass 30% all-pass …
+
+🔗 [View original post](https://x.com/omarsar0/status/2125307511624618228)
 
 ---
 
