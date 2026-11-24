@@ -2,7 +2,15 @@
 
 ## 📅 November 24, 2026
 
-> 20 post(s) archived.
+> 21 post(s) archived.
+
+---
+
+### 🕐 20:47 UTC · @tunguz
+
+> Local AI is privacy. Local AI is privacy.
+
+🔗 [View original post](https://x.com/tunguz/status/2125330414202151328)
 
 ---
 

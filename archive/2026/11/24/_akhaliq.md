@@ -2,7 +2,15 @@
 
 ## 📅 November 24, 2026
 
-> 7 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 20:09 UTC · @_akhaliq
+
+> AVTR Adaptive Multimodal Reasoning with Visual Imagination paper: https://huggingface.co/papers/2611.24161 app: https://huggingface.co/spaces/shenxq/AVTR Media
+
+🔗 [View original post](https://x.com/_akhaliq/status/2125320949117735044)
 
 ---
 
