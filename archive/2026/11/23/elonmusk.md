@@ -2,7 +2,23 @@
 
 ## 📅 November 23, 2026
 
-> 23 post(s) archived.
+> 26 post(s) archived.
+
+---
+
+### 🕐 21:57 UTC · @elonmusk
+
+> My favorite product we’ve ever made. The dream from V1 was a Starlink smaller and thinner than a tablet that works for hours and delivers incredible performance. So proud of the team that made it real. Getting online with Mini 2 is simple. Press the button and you&apos;re connected in 60 seconds, with a rechargeable battery that lasts up to 4.5 hours, or plug in with USB-C. Preorders are open by invitation in the US. Get notified when it&apos;s available → https://starlink.com/mini-2
+
+🔗 [View original post](https://x.com/johnfederspiel/status/2124985724210712664)
+
+---
+
+### 🕐 20:56 UTC · @elonmusk
+
+> Getting online with Mini 2 is simple. Press the button and you&apos;re connected in 60 seconds, with a rechargeable battery that lasts up to 4.5 hours, or plug in with USB-C. Preorders are open by invitation in the US. Get notified when it&apos;s available → https://starlink.com/mini-2 Media
+
+🔗 [View original post](https://x.com/Starlink/status/2124970272327602448)
 
 ---
 
@@ -109,6 +125,14 @@
 > .@POTUS: &quot;It&apos;s very exciting news... We have to protect our geniuses — and he&apos;s a great genius.&quot; Media
 
 🔗 [View original post](https://x.com/RapidResponse47/status/2124887036494839905)
+
+---
+
+### 🕐 14:48 UTC · @elonmusk
+
+> Jensen Huang says he loves working with Elon Musk And he explains why. Musk uses Nvidia&apos;s technology three ways at once. Training his own AI models. Deploying them, like Grok, where demand is skyrocketing. And renting it out. Very few companies do all three. Musk also loves the place where computing meets the physical build-out. Jensen: &quot;Nobody knows more about energy than he does.&quot; So they went after a new market together. Data centers in space. Their two engineering teams were working super closely to create a new type of server. A new architecture that might work great in space, and on Earth. https://x.com/firesidealpha/status/2110731226776789366/video/1 Media
+
+🔗 [View original post](https://x.com/NarutoNolimits/status/2124877757817704933)
 
 ---
 

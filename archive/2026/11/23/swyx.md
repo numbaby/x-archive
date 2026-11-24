@@ -2,7 +2,17 @@
 
 ## 📅 November 23, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 17:30 UTC · @swyx
+
+> Phonic 1.1 (High) is the new #1 on the Artificial Analysis Speech to Speech Index at 89.1, taking the top spot from Phonic&apos;s own Phonic 1 (87.1), released less than a month ago Congratulations to @phonic_co on the release! 🧵
+
+![Phonic 1.1 (High) is the new #1 on the Artificial Analysis Speech to Speech Index at 89.1, taking the top spot from Phonic&apos;s own Phonic 1 (87.1), released less than a month ago Congratulations to](../../../../assets/images/2026/11/23/2124918494110298127-1.jpg)
+
+🔗 [View original post](https://x.com/ArtificialAnlys/status/2124918494110298127)
 
 ---
 
