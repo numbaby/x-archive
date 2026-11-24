@@ -2,7 +2,15 @@
 
 ## 📅 November 24, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 17:59 UTC · @omarsar0
+
+> Great chance to get hands-on with post-training. @whitecircle is running a post-training competition on Halo, their open-source post-training framework. OpenAI, Google DeepMind, Mistral, and Gemma are among the partners. Participants get $1.5M in compute, and there&apos;s $200K+ in prizes. It runs online from Dec 1 to Dec 10. Applications close Nov 30. We’re running the largest post-training competition ever! Together with: @OpenAI @GoogleDeepMind @MistralAI @modal @baseten @Lovable @OpenRouter @nebiusai @awscloud @OpenAIDevs @googlegemma Sign up now at http://whitecircle.com/halo/competition - $1.5m in compute for participant…
+
+🔗 [View original post](https://x.com/omarsar0/status/2125288309538615585)
 
 ---
 

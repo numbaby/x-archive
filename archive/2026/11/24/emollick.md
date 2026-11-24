@@ -2,7 +2,15 @@
 
 ## 📅 November 24, 2026
 
-> 7 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 17:52 UTC · @emollick
+
+> From the author In testing GPT-6.2, I used it to make a significant historical discovery which I detail in the post below. This suggests that the process of research and discovery we’re already seeing in verifiable domains like math is starting to generalize to non-deterministic fields like his…
+
+🔗 [View original post](https://x.com/emollick/status/2125286494340624399)
 
 ---
 

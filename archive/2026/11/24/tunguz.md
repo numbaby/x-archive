@@ -2,7 +2,31 @@
 
 ## 📅 November 24, 2026
 
-> 15 post(s) archived.
+> 18 post(s) archived.
+
+---
+
+### 🕐 18:47 UTC · @tunguz
+
+> I hope they use XGBoost, otherwise they are ngmi. JUST IN: Three founding members of xAI launch Epochal, aiming to build AI that can predict future events with “superhuman accuracy.”
+
+🔗 [View original post](https://x.com/tunguz/status/2125300195437007044)
+
+---
+
+### 🕐 18:34 UTC · @tunguz
+
+> This is huge! Today we’re releasing *SciNet: The Anatomy of Science*, an open database that maps every scientific discipline down to its research tasks. It describes what scientists spend their time on and helps us understand where AI has potential to accelerate discovery. 🧵
+
+🔗 [View original post](https://x.com/tunguz/status/2125297013684126077)
+
+---
+
+### 🕐 18:15 UTC · @tunguz
+
+> This is great news. Just this week I accidentally ended up in chat part getting frustrated with the fact that it could not see my computer. Hi. We’re beginning to roll out the combined Chat and Work experience to a small group of Pro users to learn from feedback before we roll out more broadly. Let us know what you think and where we can improve!
+
+🔗 [View original post](https://x.com/tunguz/status/2125292144462381317)
 
 ---
 

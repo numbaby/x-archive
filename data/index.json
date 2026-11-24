@@ -164421,6 +164421,13 @@
     "fingerprint": "f16ab5dc5f94d0190683fe57dea49c4c1aa415de2c257b0d4850d7ab53f6b820",
     "media": []
   },
+  "2125200179502739528": {
+    "account": "_akhaliq",
+    "date": "2026-11-24",
+    "file": "data/posts/2026/11/2026-11-24.jsonl",
+    "fingerprint": "85a08696a35c1d25fc7bb67958b51493581e091cd6a8d6110375c277da21a1dc",
+    "media": []
+  },
   "2125212894761734368": {
     "account": "AiEvolutio58513",
     "date": "2026-11-24",
@@ -164440,6 +164447,13 @@
         "source_url": "https://pbs.twimg.com/media/HX5BE8cWcAEYigq.jpg?name=orig"
       }
     ]
+  },
+  "2125215715955298786": {
+    "account": "_akhaliq",
+    "date": "2026-11-24",
+    "file": "data/posts/2026/11/2026-11-24.jsonl",
+    "fingerprint": "a4aa47ca8d44df7dabdbe6194fa3b7e52eb5e3b6f34870e82b9b1769266d00f2",
+    "media": []
   },
   "2125220048478298234": {
     "account": "dair_ai",
@@ -164514,6 +164528,19 @@
     "file": "data/posts/2026/11/2026-11-24.jsonl",
     "fingerprint": "ae48d3c6ef0a24050fc0662aeb551d38f9c79fbfe545726d2132c9603d45e992",
     "media": []
+  },
+  "2125235490567897265": {
+    "account": "_akhaliq",
+    "date": "2026-11-24",
+    "file": "data/posts/2026/11/2026-11-24.jsonl",
+    "fingerprint": "74fbf7402c51ab08fa3d18e5986aab1974c0e5a806d8de8ff2977828907d67c5",
+    "media": [
+      {
+        "local_path": "assets/images/2026/11/24/2125235490567897265-1.jpg",
+        "sha256": "5b9f0a1ed9aba052701ea738e1c568206aa8d6abf9abc9ba3d54e3da12eb8c53",
+        "source_url": "https://pbs.twimg.com/media/HX4g0rfbUAAaLrS.jpg?name=orig"
+      }
+    ]
   },
   "2125236134196208095": {
     "account": "tunguz",
@@ -164640,6 +164667,13 @@
       }
     ]
   },
+  "2125260192317141114": {
+    "account": "_akhaliq",
+    "date": "2026-11-24",
+    "file": "data/posts/2026/11/2026-11-24.jsonl",
+    "fingerprint": "79546752325c2e7066ea2f86b2a206021814404e8c15ee424738aa57bf46679c",
+    "media": []
+  },
   "2125260653560562086": {
     "account": "elonmusk",
     "date": "2026-11-24",
@@ -164700,5 +164734,61 @@
         "source_url": "https://pbs.twimg.com/media/HX55ND1XAAAZU39.jpg?name=orig"
       }
     ]
+  },
+  "2125274360369815717": {
+    "account": "_akhaliq",
+    "date": "2026-11-24",
+    "file": "data/posts/2026/11/2026-11-24.jsonl",
+    "fingerprint": "5ea03f3cd80c4db7b7b3795b946e04ed4b4be0053994003b7c6cf7dcc40c311a",
+    "media": []
+  },
+  "2125286494340624399": {
+    "account": "emollick",
+    "date": "2026-11-24",
+    "file": "data/posts/2026/11/2026-11-24.jsonl",
+    "fingerprint": "3cc3ddd1bde2c47b8529a2159f8b00bf6fbbeb5f581064e7a9b3a0b50d2e2c4a",
+    "media": []
+  },
+  "2125288309538615585": {
+    "account": "omarsar0",
+    "date": "2026-11-24",
+    "file": "data/posts/2026/11/2026-11-24.jsonl",
+    "fingerprint": "accf1d8dcd74f1c78a23f2a2a8a8547b11959c8929680ba6fcababbc9c488399",
+    "media": []
+  },
+  "2125292098165612585": {
+    "account": "bcherny",
+    "date": "2026-11-24",
+    "file": "data/posts/2026/11/2026-11-24.jsonl",
+    "fingerprint": "1733bccc1dc2586362c24e74fd55ee17377e8ed7d6433635a1534639ad2311dc",
+    "media": []
+  },
+  "2125292144462381317": {
+    "account": "tunguz",
+    "date": "2026-11-24",
+    "file": "data/posts/2026/11/2026-11-24.jsonl",
+    "fingerprint": "557f4fa51458a9843d1171c23bafed601e76120bcb9d026f23ebcb1a69f3fa61",
+    "media": []
+  },
+  "2125295056211103898": {
+    "account": "_akhaliq",
+    "date": "2026-11-24",
+    "file": "data/posts/2026/11/2026-11-24.jsonl",
+    "fingerprint": "ff435077f1d7ab7b20c773a51018165ad76764abff85c7d50b778b0eefb2d103",
+    "media": []
+  },
+  "2125297013684126077": {
+    "account": "tunguz",
+    "date": "2026-11-24",
+    "file": "data/posts/2026/11/2026-11-24.jsonl",
+    "fingerprint": "18e215b989216a4519a61ca8f61e314b34c8f760cf544240e6caa81dbe3ad8cb",
+    "media": []
+  },
+  "2125300195437007044": {
+    "account": "tunguz",
+    "date": "2026-11-24",
+    "file": "data/posts/2026/11/2026-11-24.jsonl",
+    "fingerprint": "ec08bc82f5a6ce33e46e4ae91358381502b5ccffd6850fd91c518956caf3ce29",
+    "media": []
   }
 }
