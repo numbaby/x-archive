@@ -164339,5 +164339,18 @@
         "source_url": "https://pbs.twimg.com/media/HX4P08QW4AA_9Uc.jpg?name=orig"
       }
     ]
+  },
+  "2125171502542672300": {
+    "account": "tunguz",
+    "date": "2026-11-24",
+    "file": "data/posts/2026/11/2026-11-24.jsonl",
+    "fingerprint": "6493f2a77ea9369b4bd4d84b6fbb2d50c0b6444039abd4aa02c39cda5e5d761d",
+    "media": [
+      {
+        "local_path": "assets/images/2026/11/24/2125171502542672300-1.jpg",
+        "sha256": "03eedeaa9665336c5ea70c43eebdfda986e232f2fbc3a03f0236f4c029200e83",
+        "source_url": "https://pbs.twimg.com/tweet_video_thumb/HX4gN7qWgAAuoA2.jpg"
+      }
+    ]
   }
 }

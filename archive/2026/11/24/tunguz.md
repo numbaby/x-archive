@@ -2,7 +2,17 @@
 
 ## 📅 November 24, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 10:15 UTC · @tunguz
+
+> They should, and I know exactly the person to play him. Will they make a movie about the Jensen Huang drama like they did with Sam Altman? If so, what should it be called?
+
+![They should, and I know exactly the person to play him. Will they make a movie about the Jensen Huang drama like they did with Sam Altman? If so, what should it be called?](../../../../assets/images/2026/11/24/2125171502542672300-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2125171502542672300)
 
 ---
 
