@@ -2,7 +2,17 @@
 
 ## 📅 November 24, 2026
 
-> 14 post(s) archived.
+> 15 post(s) archived.
+
+---
+
+### 🕐 14:59 UTC · @tunguz
+
+> The five directors rn: FT Exclusive: SpaceX and Tesla have entrusted five directors with the fate of the largest merger of all time, with the quintet hashing out the terms of a potential $3.5tn combination and racing to complete the deal before the end of the year. https://ft.trib.al/qrgpsOo
+
+![The five directors rn: FT Exclusive: SpaceX and Tesla have entrusted five directors with the fate of the largest merger of all time, with the quintet hashing out the terms of a potential $3.5tn combin](../../../../assets/images/2026/11/24/2125242916990013584-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2125242916990013584)
 
 ---
 

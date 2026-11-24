@@ -2,7 +2,25 @@
 
 ## 📅 November 24, 2026
 
-> 3 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 15:07 UTC · @emollick
+
+> There is a lot of focus on AI-aided discoveries in quantitative fields, but they can go beyond that, too: Historian Mark Humphries asked GPT-6.2 Astra to look at an anonymous 1808 sketchbook at Yale and it found the author, an obscure French aristocrat. https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical
+
+![There is a lot of focus on AI-aided discoveries in quantitative fields, but they can go beyond that, too: Historian Mark Humphries asked GPT-6.2 Astra to look at an anonymous 1808 sketchbook at Yale a](../../../../assets/images/2026/11/24/2125245031842042301-1.jpg)
+
+🔗 [View original post](https://x.com/emollick/status/2125245031842042301)
+
+---
+
+### 🕐 06:34 UTC · @emollick
+
+> The guy proved the Riemann Hypothesis. There&apos;s virtually no doubt that the proof is correct. It is impossible to overstate the magnitude of this intellectual achievement. Mozart had a lifelong fondness for scatological humour. His letters are full of jokes about farting and defecation, and he even composed a six-voice canon entitled &quot;Leck mich im Arsch&quot; (&quot;Lick my arse&quot;). None of this has diminished his standing as one of the greatest musical geniuses of all time. I think @__alpoge__ can joke about whatever he wants, and communicate in any sort of style he wants without worrying about losing the respect of his mathematical peers. @__alpoge__ Good way to completely lose the respect of your peers I guess.
+
+🔗 [View original post](https://x.com/ObhishekSaha/status/2125115749450514931)
 
 ---
 

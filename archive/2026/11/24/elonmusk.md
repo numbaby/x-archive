@@ -2,7 +2,17 @@
 
 ## 📅 November 24, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 15:19 UTC · @elonmusk
+
+> All systems are looking good, and weather is favorable for liftoff. Propellant load is about to begin for Falcon 9’s launch of the USSF-266 mission from California → https://spacex.com/launches/ussf266
+
+![All systems are looking good, and weather is favorable for liftoff. Propellant load is about to begin for Falcon 9’s launch of the USSF-266 mission from California → https://spacex.com/launches/ussf26](../../../../assets/images/2026/11/24/2125247855409692869-1.jpg)
+
+🔗 [View original post](https://x.com/SpaceX/status/2125247855409692869)
 
 ---
 
