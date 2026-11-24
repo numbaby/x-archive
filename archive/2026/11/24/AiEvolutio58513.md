@@ -2,7 +2,15 @@
 
 ## 📅 November 24, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 13:00 UTC · @AiEvolutio58513
+
+> Sam Altman says he&apos;s seeing &quot;the first signs&quot; of an AI compute bubble: &quot;I&apos;m not worried about our compute buildout plans. I am worried about the world&apos;s compute buildout plans.&quot; &quot;I am seeing the first signs of what feels to me like unsustainable silliness of random new neoclouds popping up, people claiming that they&apos;re going to build gigantic amounts of compute next year that I think they don&apos;t have the revenue to support or a buyer.&quot; &quot;You can imagine a world where there are some people that made dumb financial decisions. That happens in kind of like every boom.&quot; Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media Jeff Bezos explains the decision rule that made him Amazon&apos;s &quot;chief slowdown officer&quot;: &quot;Most decisions are two-way doors.&quot; &quot;If it&apos;s a two-way door decision... It turns out to be the wrong decision, you can come back in and pick another door.&quot; &quot;Some decisions are so consequential…
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2125212894761734368)
 
 ---
 

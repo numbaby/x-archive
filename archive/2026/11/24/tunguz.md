@@ -2,7 +2,31 @@
 
 ## 📅 November 24, 2026
 
-> 6 post(s) archived.
+> 9 post(s) archived.
+
+---
+
+### 🕐 13:32 UTC · @tunguz
+
+> More mlx-learn feature improvements. Today we are adding a much faster LinearRegression - up to 18X improvement over the sklearn version on Apple Silicon. mlx-learn 0.1.7 is out on PyPI! LinearRegression now fits up to 18× faster than scikit-learn on Apple silicon: 24.1 ms vs 433 ms at 256,000 rows × 128 features on an M4 Max. Plus exact radius-neighbor search. 🧵 1/7
+
+🔗 [View original post](https://x.com/tunguz/status/2125221136065815037)
+
+---
+
+### 🕐 12:02 UTC · @tunguz
+
+> Yeah, all those headwinds suck, and are going to mess things up in substantive ways for all of us in the coming couple of years. But in terms of AI development it will be just an extremely minor inconvenience. I mean, the current trajectory is already hyperexponential, so the worst case scenario is we still get an exponential growth.
+
+🔗 [View original post](https://x.com/tunguz/status/2125198283265998995)
+
+---
+
+### 🕐 11:36 UTC · @tunguz
+
+> My hot take: we already have enough raw infrastructure to withstand all of the most adverse structural headwinds. AI models are now powerful enough to optimize the living daylights out of the current compute. I should know, I’ve been doing it on a string budget for months. That, in turn, will lead to even more powerful AI. All of which assumes we don’t get *any* major algorithmic breakthroughs for better AI models themselves, which is extremely implausible. In other words, there is no putting this genie back in the bottle. What matters is not Mr. Huang’s libido; what matters is that the technological revolution of artificial intelligence is running into powerful, structural headwinds: rising short- and long-term interest rates, a major political backlash, and an intensification of Cold War II.
+
+🔗 [View original post](https://x.com/tunguz/status/2125191912768327904)
 
 ---
 

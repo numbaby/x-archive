@@ -164374,6 +164374,13 @@
     "fingerprint": "b834f95e4f83fdeb6dcfb3db9275d50df787b1c62d3fa02f8dd4ccf0a0b3d274",
     "media": []
   },
+  "2125191912768327904": {
+    "account": "tunguz",
+    "date": "2026-11-24",
+    "file": "data/posts/2026/11/2026-11-24.jsonl",
+    "fingerprint": "6bfedd894e638c608e8b83ba916779eddf377ed5ef760c1093970be64a3ba304",
+    "media": []
+  },
   "2125197263559422040": {
     "account": "Letstalk246",
     "date": "2026-11-24",
@@ -164399,5 +164406,39 @@
         "source_url": "https://pbs.twimg.com/media/HX43rhLXwAAFqGF.jpg?name=orig"
       }
     ]
+  },
+  "2125198283265998995": {
+    "account": "tunguz",
+    "date": "2026-11-24",
+    "file": "data/posts/2026/11/2026-11-24.jsonl",
+    "fingerprint": "f16ab5dc5f94d0190683fe57dea49c4c1aa415de2c257b0d4850d7ab53f6b820",
+    "media": []
+  },
+  "2125212894761734368": {
+    "account": "AiEvolutio58513",
+    "date": "2026-11-24",
+    "file": "data/posts/2026/11/2026-11-24.jsonl",
+    "fingerprint": "718e25c7f61473667f5e9035f3bb7a6c5c2907d3a1f3f2fdfab77355e496fb41",
+    "media": []
+  },
+  "2125220048478298234": {
+    "account": "dair_ai",
+    "date": "2026-11-24",
+    "file": "data/posts/2026/11/2026-11-24.jsonl",
+    "fingerprint": "9cdd7816cdc37fc30c2cb6f29de4e45aafecd4b2882d47ee892d993ddd51802a",
+    "media": [
+      {
+        "local_path": "assets/images/2026/11/24/2125220048478298234-1.jpg",
+        "sha256": "d4b85c5a91fb1fbc274b04782d2aa3a87d0d49c0e0faaf0d48435baa646839eb",
+        "source_url": "https://pbs.twimg.com/tweet_video_thumb/HX5L5b6WgAAH6Cu.jpg"
+      }
+    ]
+  },
+  "2125221136065815037": {
+    "account": "tunguz",
+    "date": "2026-11-24",
+    "file": "data/posts/2026/11/2026-11-24.jsonl",
+    "fingerprint": "e2894b83c0ee6dfd2bf03c547f83344ac207fa67041b03603d3f96115409fd00",
+    "media": []
   }
 }
