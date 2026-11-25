@@ -165202,6 +165202,13 @@
     "fingerprint": "b7b1bd56d99a9cb182944412f3b107681574c678f4def6c3865ccbb197a7a245",
     "media": []
   },
+  "2125402576145572334": {
+    "account": "sama",
+    "date": "2026-11-25",
+    "file": "data/posts/2026/11/2026-11-25.jsonl",
+    "fingerprint": "07e888feb9b48e5218c1adfb85361a9fcdbbe0b4ae1738c1bead632421941113",
+    "media": []
+  },
   "2125411174993010839": {
     "account": "elonmusk",
     "date": "2026-11-25",
@@ -165508,6 +165515,19 @@
     "fingerprint": "4f9a5bb0d00b07887837114404055a91133e5855943082406b8b54dbdc2c7d5e",
     "media": []
   },
+  "2125560020355916082": {
+    "account": "ylecun",
+    "date": "2026-11-25",
+    "file": "data/posts/2026/11/2026-11-25.jsonl",
+    "fingerprint": "5e9daaf5189039464b3f5a605b1b185891e8274916a3f0a00bbf345dffdfaac1",
+    "media": [
+      {
+        "local_path": "assets/images/2026/11/25/2125560020355916082-1.jpg",
+        "sha256": "318a135c79e7f7651e5125a642ea297ec88ea9d4b95907a3dd4fe0510d105ad2",
+        "source_url": "https://pbs.twimg.com/media/HX-BFg6WEAAWuSG.jpg?name=orig"
+      }
+    ]
+  },
   "2125562598380953757": {
     "account": "_akhaliq",
     "date": "2026-11-25",
@@ -165811,6 +165831,80 @@
     "date": "2026-11-25",
     "file": "data/posts/2026/11/2026-11-25.jsonl",
     "fingerprint": "7c680fd21670a4b469b06d93e2389b25de1046ae158d484898ce21b21f774666",
+    "media": []
+  },
+  "2125636625061282146": {
+    "account": "tunguz",
+    "date": "2026-11-25",
+    "file": "data/posts/2026/11/2026-11-25.jsonl",
+    "fingerprint": "2c8fba742b35769394d07a875ddf4c2523da1f77d1aa24f0b5747a2e0dae5d56",
+    "media": []
+  },
+  "2125636838295540160": {
+    "account": "tunguz",
+    "date": "2026-11-25",
+    "file": "data/posts/2026/11/2026-11-25.jsonl",
+    "fingerprint": "3a42d64861ebe8d255c7dad19ebe6c0843df4ad4d21abbe5950a788fc82903a7",
+    "media": []
+  },
+  "2125638081848250634": {
+    "account": "swyx",
+    "date": "2026-11-25",
+    "file": "data/posts/2026/11/2026-11-25.jsonl",
+    "fingerprint": "db3c75453e158f95ade86bf1ed221a2f32867baceaf8903feb3605a6927b7255",
+    "media": [
+      {
+        "local_path": "assets/images/2026/11/25/2125638081848250634-1.jpg",
+        "sha256": "008b807c106ed07cd58db921312d45a2e490dfc144735b1dfe1d5f109dc2218b",
+        "source_url": "https://pbs.twimg.com/media/HX_IYX7bAAAlQqc.jpg?name=orig"
+      }
+    ]
+  },
+  "2125638790593274259": {
+    "account": "sama",
+    "date": "2026-11-25",
+    "file": "data/posts/2026/11/2026-11-25.jsonl",
+    "fingerprint": "44f673628cd1b5fa92e26f6b660884029753d1b0eb58424917742d64a8106950",
+    "media": []
+  },
+  "2125639418849714280": {
+    "account": "sama",
+    "date": "2026-11-25",
+    "file": "data/posts/2026/11/2026-11-25.jsonl",
+    "fingerprint": "2b6897344334b7566c73279c27b2e099637a785eaf514370094d1626da5832c8",
+    "media": []
+  },
+  "2125646032729935976": {
+    "account": "omarsar0",
+    "date": "2026-11-25",
+    "file": "data/posts/2026/11/2026-11-25.jsonl",
+    "fingerprint": "2eea7c4d18da606416603396fa4b3661ea4919deec371966d3f95b9c8d9e3d47",
+    "media": [
+      {
+        "local_path": "assets/images/2026/11/25/2125646032729935976-1.jpg",
+        "sha256": "c55da80eb5bbba7f8e87a33dfa2475594d5e118c54caa1ec918a614e15f2f0cc",
+        "source_url": "https://pbs.twimg.com/media/HX_PjdmWAAAsEXY.jpg?name=orig"
+      }
+    ]
+  },
+  "2125646034810335575": {
+    "account": "omarsar0",
+    "date": "2026-11-25",
+    "file": "data/posts/2026/11/2026-11-25.jsonl",
+    "fingerprint": "8ae9de7e46763af287dc8b1922f52166115cfbb83ac3edc276bfc57f55529e53",
+    "media": [
+      {
+        "local_path": "assets/images/2026/11/25/2125646034810335575-1.jpg",
+        "sha256": "bbfbb52be850d3af8e4bd5d6a6af6c6203d168563f7670bbaaea1c72b1057250",
+        "source_url": "https://pbs.twimg.com/card_img/2125298897715097600/UfgvKEtE?format=jpg&name=800x419"
+      }
+    ]
+  },
+  "2125646929510178987": {
+    "account": "tunguz",
+    "date": "2026-11-25",
+    "file": "data/posts/2026/11/2026-11-25.jsonl",
+    "fingerprint": "942dafb5afa4dc6ab3eb8bd74aa1e7bb07d7b2746733e6c9b308e8b291a40183",
     "media": []
   }
 }

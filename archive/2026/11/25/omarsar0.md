@@ -2,7 +2,27 @@
 
 ## 📅 November 25, 2026
 
-> 6 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 17:41 UTC · @omarsar0
+
+> The architecture diagram in the Telos-Live-1 technical blog is worth a closer look. Being able to correct an AI while it’s still working would make voice interaction much more useful. Telos-Live-1 is a research preview that keeps listening while speaking or using tools. Its micro-turn architecture combines streaming video, multi-channel audio, text, and model outputs in one evolving sequence. But staying open to new input is only half the story. The model also needs to tell a correction from a pause or someone else talking. A transcript can flatten a pause, an interruption, or two people talking at once into clean turns. Telos trains on real interactions that preserve those signals. It also learns from human-involved task environments where it has to decide when to hand work off and keep the conversation going. Full blog here: https://teloslab.com/research/introducing-telos-live-1 Introducing Telos-Live-1, our first omni-modal, full-duplex model. It can see, hear and talk with you at the same time, and keep the conversation going while it searches, uses tools or operates computers. Full Tech blog: https://teloslab.com/research/introducing-telos-live-1
+
+![The architecture diagram in the Telos-Live-1 technical blog is worth a closer look. Being able to correct an AI while it’s still working would make voice interaction much more useful. Telos-Live-1 is ](../../../../assets/images/2026/11/25/2125646032729935976-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2125646032729935976)
+
+---
+
+### 🕐 17:41 UTC · @omarsar0
+
+> Building something where this matters? Talk to Telos: https://teloslab.com/contact?from=omarsar0
+
+![Building something where this matters? Talk to Telos: https://teloslab.com/contact?from=omarsar0](../../../../assets/images/2026/11/25/2125646034810335575-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2125646034810335575)
 
 ---
 

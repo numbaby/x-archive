@@ -2,7 +2,31 @@
 
 ## 📅 November 25, 2026
 
-> 11 post(s) archived.
+> 14 post(s) archived.
+
+---
+
+### 🕐 17:44 UTC · @tunguz
+
+> Two weeks to bend the lightcone.
+
+🔗 [View original post](https://x.com/tunguz/status/2125646929510178987)
+
+---
+
+### 🕐 17:04 UTC · @tunguz
+
+> This morning I asked Siri how many days were left in the year. It sent me to an external website. John Ternus and Tim Cook watching Apple gain +30% YTD and becoming most valuable company in the world again as the AI trade implodes while Apple invested a total of $38 on AI capex and Siri still can’t set an alarm clock
+
+🔗 [View original post](https://x.com/tunguz/status/2125636838295540160)
+
+---
+
+### 🕐 17:03 UTC · @tunguz
+
+> It&apos;s so over. BREAKING: U.S. economic growth surges to 4.3% in the third quarter, nearly doubling the previous quarter&apos;s 2.2% pace.
+
+🔗 [View original post](https://x.com/tunguz/status/2125636625061282146)
 
 ---
 

@@ -2,7 +2,17 @@
 
 ## 📅 November 25, 2026
 
-> 8 post(s) archived.
+> 9 post(s) archived.
+
+---
+
+### 🕐 17:09 UTC · @swyx
+
+> really hurtful to be a new media founder when old media is dying this quickly. like; its not a &quot;haha they suck this is a skill issue&quot; thing, it&apos;s a &quot;we need to figure out what they couldn&apos;t with 31 years of experience&quot; NEWS YOU CAN USE: Goodbye from Salon &quot;Today, after 31 years, we are saddened to announce that Salon is ceasing publication.&quot;
+
+![really hurtful to be a new media founder when old media is dying this quickly. like; its not a &quot;haha they suck this is a skill issue&quot; thing, it&apos;s a &quot;we need to figure out what they](../../../../assets/images/2026/11/25/2125638081848250634-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2125638081848250634)
 
 ---
 
