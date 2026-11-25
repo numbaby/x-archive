@@ -2,7 +2,15 @@
 
 ## 📅 November 25, 2026
 
-> 17 post(s) archived.
+> 20 post(s) archived.
+
+---
+
+### 🕐 09:07 UTC · @elonmusk
+
+> @LorienEllen I am having some of the most fun with programming ever. I am creating things I haven&apos;t seen any one else make. I THINK I am going have a game that I sell to people at the end of all this, for sure, and i&apos;m convinced some of this passion will shine through. yay more airplanes
+
+🔗 [View original post](https://x.com/notch/status/2125516788473467263)
 
 ---
 
@@ -19,6 +27,24 @@
 > Grok is so much fun on Tesla road trips! My dad and stepmom got a Model Y Performance last week and called me from the road today asking how to create a free X account so they could get more Grok credits in the car I’m like, what?? You don’t need an X account to use Grok in the car? “No, we ran out of credits.” I didn’…
 
 🔗 [View original post](https://x.com/elonmusk/status/2125516475712844116)
+
+---
+
+### 🕐 08:53 UTC · @elonmusk
+
+> @jacobeverly @richgel999 It’s garbage and blocked some set theory work I was doing, accusing me of distillation. This was with 1-2 hours a day of promoting on a company account. Anthropic can’t keep sabotaging customers’ work like this.
+
+🔗 [View original post](https://x.com/TimSweeneyEpic/status/2125513144353411115)
+
+---
+
+### 🕐 07:03 UTC · @elonmusk
+
+> A solo developer just vibe-coded his first game and made $1.33 million on Steam in just one week. His game, Slotbound, has sold over 200,000 copies in six days and has a 91% Very Positive rating. The dev openly admitted using AI for coding and parts of the game’s visuals. “AI was involved throughout the project, especially with coding and parts of the visual workflow.”
+
+![A solo developer just vibe-coded his first game and made $1.33 million on Steam in just one week. His game, Slotbound, has sold over 200,000 copies in six days and has a 91% Very Positive rating. The ](../../../../assets/images/2026/11/25/2125485386009084378-1.jpg)
+
+🔗 [View original post](https://x.com/Pirat_Nation/status/2125485386009084378)
 
 ---
 
