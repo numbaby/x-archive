@@ -2,7 +2,23 @@
 
 ## 📅 November 25, 2026
 
-> 36 post(s) archived.
+> 38 post(s) archived.
+
+---
+
+### 🕐 16:14 UTC · @elonmusk
+
+> Innovacer is streamlining healthcare operations with Grok Voice, with over 5M patient interactions and 90% reduction in processing time 5M+ patient voice interactions in six months, up from ~250K. Grok Voice now expands what Innovaccer’s Gravity Voice AI can do: → 3x referral intakes → 90% less documentation time → 25+ languages, HIPAA-eligible Voice AI is moving from answering questions to doing work.
+
+🔗 [View original post](https://x.com/SpaceXSI/status/2125624230918451492)
+
+---
+
+### 🕐 16:11 UTC · @elonmusk
+
+> If you ever questioned why Democrats lost their minds when DOGE looked under the hood of USAID — you know now. It’s the biggest money laundering scam perpetrated on the American taxpayer in U.S. history. I took it on as MO AG in MO v Biden and led the Rescissions bill in the Senate that ripped away $9B from the corrupt organization — but so much more must be done. I’ve seen the leftist NGO industrial complex and what they are willing to do with money and power and it’s mind boggling. It’s even bigger than USAID and the Democrats are coming into Congress with the stated purpose of empowering the foreign policy establishment all over again. To counter this Republicans should rally around the idea of cutting the outrageous funding we send overseas. Enough. Also, DOJ should investigate further. How far does the corruption go? The American people deserve to know.
+
+🔗 [View original post](https://x.com/Eric_Schmitt/status/2125623323484635604)
 
 ---
 

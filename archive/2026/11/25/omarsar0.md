@@ -2,7 +2,23 @@
 
 ## 📅 November 25, 2026
 
-> 4 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 15:21 UTC · @omarsar0
+
+> Been having lots of interesting conversations with researchers and founders around evals and RSI lately. Came in very optimistic about the opportunities. But I came out needing to adjust my ambition scale. I am not being ambitious enough. Absolutely insane what people are building behind the scenes. Prepare yourselves for the next few months of mind-blowing results and discoveries. But it&apos;s not easy work. It&apos;s folks going back to the fundamentals and building from first principles. Those are the people and companies I love working with. So much to build and share. Stay tuned! If you are building ambitious things with RSI or doing research around it, let&apos;s connect.
+
+🔗 [View original post](https://x.com/omarsar0/status/2125610714937102669)
+
+---
+
+### 🕐 14:48 UTC · @omarsar0
+
+> One of the most incredible results I&apos;ve seen from using self-improving loops and memory. It&apos;s impressive to see the @livingbrain memory system used to solve 15 conjectures. It shows how far you can push today&apos;s agents given a proper memory system. Three days after the Riemann Hypothesis was proved in Lean, our agents had used it to prove 17 results. Six are named conjectures that were open until 20 November, including the Lindelöf hypothesis, Erdős Problem 985 and Euler’s idoneal numbers. Some had been open for more than …
+
+🔗 [View original post](https://x.com/omarsar0/status/2125602580004749356)
 
 ---
 

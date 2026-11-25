@@ -2,7 +2,33 @@
 
 ## 📅 November 25, 2026
 
-> 5 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 16:27 UTC · @swyx
+
+> as seen on anthropic blog! https://x.com/RLanceMartin/status/2125627070084796562 we recently migrated the Claude Messages API from Python to Rust. in this new eng blog, we share how we used the Python API as an oracle, set up verification loops, and had a team of agents fix diffs until Rust matched production&apos;s observable behavior. https://www.anthropic.com/…
+
+🔗 [View original post](https://x.com/swyx/status/2125627500487393285)
+
+---
+
+### 🕐 16:26 UTC · @swyx
+
+> &quot;Cost per task is a misleading metric; the scarce resource is human attention, not token cost.&quot; beware the pareto frontier charts that make you believe you can reduce every model to 2 numbers; it can hide some AWFUL reliability issues👏 AI benchmarks are more realistic than ever. But they still have bugs (e.g., failing correct work) and mostly measure what&apos;s easy, not what matters. Here&apos;s my breakdown of 12 public evals: how they&apos;re built, where they break, and what to measure instead. https://eugeneyan.com/wri…
+
+![&quot;Cost per task is a misleading metric; the scarce resource is human attention, not token cost.&quot; beware the pareto frontier charts that make you believe you can reduce every model to 2 number](../../../../assets/images/2026/11/25/2125627281230205435-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2125627281230205435)
+
+---
+
+### 🕐 16:01 UTC · @swyx
+
+> Last commute before Thanksgiving, last podcast 🎧 @latentspacepod with @swyx and the @bfl_ml founding team: → &quot;The philosophical beauty of working on diffusion models&quot; → Open weights are all about community → A founding offsite in a French chalet? Always a good idea 🏔️
+
+🔗 [View original post](https://x.com/ManojMachGen/status/2125620779714748843)
 
 ---
 

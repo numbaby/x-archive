@@ -2,7 +2,25 @@
 
 ## 📅 November 25, 2026
 
-> 9 post(s) archived.
+> 11 post(s) archived.
+
+---
+
+### 🕐 16:16 UTC · @tunguz
+
+> When I first arrived in the US I was clueless about many of the inappropriate conversation topics for the Thanksgiving dinner. Made tonnes of faux pas. I wish someone had shared a similar list with me back than, it would have saved me so much trouble.
+
+![When I first arrived in the US I was clueless about many of the inappropriate conversation topics for the Thanksgiving dinner. Made tonnes of faux pas. I wish someone had shared a similar list with me](../../../../assets/images/2026/11/25/2125624771312537996-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2125624771312537996)
+
+---
+
+### 🕐 16:14 UTC · @tunguz
+
+> The last shall be first, and the first last.
+
+🔗 [View original post](https://x.com/tunguz/status/2125624113246982334)
 
 ---
 
