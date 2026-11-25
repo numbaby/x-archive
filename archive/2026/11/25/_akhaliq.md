@@ -2,7 +2,15 @@
 
 ## 📅 November 25, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 07:58 UTC · @_akhaliq
+
+> Nvidia just released Nemotron-Labs-VisualCreation Pixel as Code for Agentic Visual Creation paper: https://huggingface.co/papers/2611.31358 Media
+
+🔗 [View original post](https://x.com/_akhaliq/status/2125499465587208669)
 
 ---
 
