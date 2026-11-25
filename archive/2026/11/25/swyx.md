@@ -2,7 +2,25 @@
 
 ## 📅 November 25, 2026
 
-> 2 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 04:35 UTC · @swyx
+
+> literally if you turn your brain off you are just choosing not to listen at this point https://x.com/swyx/status/2125371136943022423 notable that a lot of the recent anthropic (and ant-alum) talks have been very specific about how much there is still left to do for human engineers, and if you are feeling depressed/anxious you need only look here / point your efforts towards AGI-aligned problems*: - assume mul…
+
+🔗 [View original post](https://x.com/swyx/status/2125448165197570547)
+
+---
+
+### 🕐 04:18 UTC · @swyx
+
+> hey is silicon valley okay because wtf &quot;Basically most jobs are UBI right now.&quot; Morph founder @tejasybhakta argues that AI could create even more bullshit jobs rather than lead to mass unemployment: &quot;Most people are in jobs that don&apos;t need to exist. These procurement officers that are putting out this paperwork that …
+
+![hey is silicon valley okay because wtf &quot;Basically most jobs are UBI right now.&quot; Morph founder @tejasybhakta argues that AI could create even more bullshit jobs rather than lead to mass unemp](../../../../assets/images/2026/11/25/2125444028527468699-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2125444028527468699)
 
 ---
 

@@ -2,7 +2,17 @@
 
 ## 📅 November 25, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 03:31 UTC · @omarsar0
+
+> Great new benchmark to test agents on everyday work. I like that you can use it to test an agent&apos;s reliability across multiple attempts. Tested on 12 models. Cool to see open-source harnesses show competitiveness. The best AI agents still fail about 4 in 10 everyday tasks. ShellBench, out today: 100 real-world tasks, 12 models, 5 harnesses, 53,100 graded runs. Top score: 62.5%. Passing all three attempts: 48.8%. Open-source harnesses held their own. https://openclaw.ai/blog/shellbench
+
+![Great new benchmark to test agents on everyday work. I like that you can use it to test an agent&apos;s reliability across multiple attempts. Tested on 12 models. Cool to see open-source harnesses sho](../../../../assets/images/2026/11/25/2125432098848653663-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2125432098848653663)
 
 ---
 
