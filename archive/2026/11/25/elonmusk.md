@@ -2,7 +2,41 @@
 
 ## 📅 November 25, 2026
 
-> 30 post(s) archived.
+> 36 post(s) archived.
+
+---
+
+### 🕐 14:49 UTC · @elonmusk
+
+> The $NVDA board was right to bring back @JensenHuang. I argue in the Economist why: He is the key to stopping AI from becoming the preserve of a few, argues the venture capitalist https://www.economist.com/by-invitation/2026/11/25/nvidia-was-right-to-bring-back-jensen-huang-writes-sarah-guo?taid=6b06bd72eacbd000018a6a33&amp;utm_campaign=trueanthem&amp;utm_medium=social…
+
+🔗 [View original post](https://x.com/saranormous/status/2125602695545504105)
+
+---
+
+### 🕐 14:39 UTC · @elonmusk
+
+> Nothing is safe besides my 6% interest in my X money account 😎
+
+![Nothing is safe besides my 6% interest in my X money account 😎](../../../../assets/images/2026/11/25/2125600376464224591-1.jpg)
+
+🔗 [View original post](https://x.com/DirtyTesLa/status/2125600376464224591)
+
+---
+
+### 🕐 14:20 UTC · @elonmusk
+
+> Since we’re talking about USAID again, here’s a reminder that John Bolton was their head of Policy and Budget and they gave him a hand grenade trophy as a farewell present. Media
+
+🔗 [View original post](https://x.com/alx/status/2125595540104818690)
+
+---
+
+### 🕐 14:01 UTC · @elonmusk
+
+> 别再说马斯克挺黄仁勋只是演戏了。 看看去年黄仁勋亲自飞去 SpaceX 见马斯克的这段视频，这段交情，早就在十年前焊死了。 2016 年，黄仁勋发布全世界第一台 AI 超算 DGX-1。那是当时最顶尖的机器，可发布完，台下一片安静，一张订单都没有。 直到去年 10 月，老黄带着最新一代 DGX Spark 去 SpaceX 找马斯克，当面提起那次冷场，他依然记得清清楚楚： “全场一片安静。只有一个人例外。那个人，就是你。” 马斯克脱口而出：“我当时觉得，这主意太棒了。” 就凭这一句，那台初代机器被送到了当时的 OpenAI，也顺手点燃了今天的 AI 时代。 再看这个月。 11 月 13 日，黄仁勋还在谷底、能否回归毫无定数，马斯克公开站出来签请愿书； 11 月 23 日，老黄官宣复职，他只淡淡丢下一句：It is done。 转头人就直接现身英伟达总部，和老黄一起庆祝。 把这两件事放一起看，最戳人的根本不是他们如今多风光，而是这两个时间点—— 一次产品还没卖出去，一次人还没回去。两次，马斯克都没等结果。 世人习惯等尘埃落定才选边站，顶级强者之间最稀缺的，恰恰是看不清结局时的那次托底。 Media
+
+🔗 [View original post](https://x.com/ZhouTalks/status/2125590799933116580)
 
 ---
 
@@ -13,6 +47,24 @@
 ![One of my friends asked Grok Bot to sort out his family’s Bali visas. 5 visas issued. Arrival cards submitted. QR code delivered. He approved the payments on his phone. Grok Bot handled the rest. Grok](../../../../assets/images/2026/11/25/2125589527507116342-1.png)
 
 🔗 [View original post](https://x.com/cb_doge/status/2125589527507116342)
+
+---
+
+### 🕐 13:40 UTC · @elonmusk
+
+> Ramon Salcido took his three young daughters to a county dump, slit their throats, and left them for dead. He murdered a total of seven people that day, including two of his own daughters. Gavin Newsom just granted Salcido clemency.
+
+![Ramon Salcido took his three young daughters to a county dump, slit their throats, and left them for dead. He murdered a total of seven people that day, including two of his own daughters. Gavin Newso](../../../../assets/images/2026/11/25/2125585420159189385-1.png)
+
+🔗 [View original post](https://x.com/RapidResponse47/status/2125585420159189385)
+
+---
+
+### 🕐 13:36 UTC · @elonmusk
+
+> F*ck YES... Grok Bot runs my Etsy shop now, 2,318 orders in 5 weeks and I&apos;ve never packed a single box Elon Musk says Grok Bot can find you the real Black Friday deals, mine is the one selling them, and Etsy paid me $14,212 before Black Friday even started 6 bots, a shift each, I haven&apos;t drawn a single design: → 6 AM: Scout reads what climbed in Etsy search overnight and picks 3 gift ideas → 8 AM: Designer makes 40 ornaments in Grok Imagine and turns every pet photo a buyer sends into a custom one in 4 minutes → 10 AM: Lister writes the title and all 13 tags, then puts each design on a mockup photo → 1 PM: Pricer runs a real 30% off, never a fake &quot;was&quot; price, the deal bots catch those now → 4 PM: Concierge answers every buyer message in under 10 minutes → Midnight: Analyst kills every listing with 0 sales in 14 days and clones the winners Printify prints and ships every order, I never touch one Why Etsy never pulled the shop: line 1 of every listing says it was made with AI, the shops that hide it lose everything Give your first bot one gift idea and the Scout job tonight, the other 5 can wait From that first bot to a crew of 6, the whole setup is in the guide below ↓ Media Grok Bot can now make your calls, sort your inbox and run your week while you sleep Most people still use it like a chatbot Everything it can do in one guide: first bot, routines, a full team, calls, and 5 rules that keep it off your money ↓ https://x.com/i/article/2119765899368…
+
+🔗 [View original post](https://x.com/distortgeekin/status/2125584444064993429)
 
 ---
 
