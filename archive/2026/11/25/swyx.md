@@ -2,7 +2,17 @@
 
 ## 📅 November 25, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 05:33 UTC · @swyx
+
+> 🆕 Gemini 4 Neon marks @GoogleDeepMind&apos;s full return as a Frontier Lab https://latent.space/p/ainews-gemini-4-neon-marks-gdm-s-full-return-as-a-frontier-lab/ - @opencode: Neon has “become our team&apos;s default model.” - @poteto is “daily driving gemini neon in cursor.” - @dhh: Neon “cut Omarchy boot time in half!!” - @rauchg: Neon won his LLM evals - @ProximalHQ: Neon #3 on FrontierSWE at 62.4%, “on par with Opus 5.5.” - @iScienceLuvr: “Neon autoresearch just works.” - @theo: “Why the fuck is nobody talking about Neon?” - @TimSweeneyEpic: “Gemini 4 Neon is amazing!” - @__tinygrad__ : “I don&apos;t think Anthropic is the frontier anymore.” - @PromptLLM says advice from Neon left them “speechless.” - @demishassabis replies to @SemiAnalysis_ with “Apology accepted.” - @sundarpichai says Neon “set a new Day-1 usage record on our paid APIs.” @OfficialLoganK , @_mohansolo, @koraykv, @melvinjohnsonp and team cooked!!
+
+![🆕 Gemini 4 Neon marks @GoogleDeepMind&apos;s full return as a Frontier Lab https://latent.space/p/ainews-gemini-4-neon-marks-gdm-s-full-return-as-a-frontier-lab/ - @opencode: Neon has “become our team](../../../../assets/images/2026/11/25/2125462912366182853-1.jpg)
+
+🔗 [View original post](https://x.com/latentspacepod/status/2125462912366182853)
 
 ---
 
