@@ -2,7 +2,17 @@
 
 ## 📅 November 25, 2026
 
-> 10 post(s) archived.
+> 11 post(s) archived.
+
+---
+
+### 🕐 19:25 UTC · @_akhaliq
+
+> Easily the most fun I have these days is shaping and supporting applied AI research. It&apos;s not a muscle I had before starting Katanemo 6 years ago, and somewhere along the way I just fell in love with the joy of sitting with a hard AI research question and seeing where it goes. I&apos;m over the moon about the work I get to share today: Leto, utility-centric agent memory. Shuguang started with a deceptively simple question: why do we judge agent memory by how faithfully it remembers the past, rather than how useful that memory is to the future? Almost every system today optimizes for recall. But remembering something accurately and knowing whether it actually matters are two very different problems. So we tried approaching memory as a prediction problem instead. Across personalization benchmarks, Leto came in +16.3% points ahead on PrefEval and +3.1 on PERMA. It took the top spot overall on MemoryArena across five long-horizon environments, and matched raw conversation retrieval on long-context tasks while using fewer tokens. We will publish the full research paper to ACL 2027 but who want access now: https://arxiv.org/abs/2611.33005 cc @_akhaliq
+
+![Easily the most fun I have these days is shaping and supporting applied AI research. It&apos;s not a muscle I had before starting Katanemo 6 years ago, and somewhere along the way I just fell in love ](../../../../assets/images/2026/11/25/2125672236065702032-1.jpg)
+
+🔗 [View original post](https://x.com/salman_paracha/status/2125672236065702032)
 
 ---
 

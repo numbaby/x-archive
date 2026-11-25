@@ -2,7 +2,15 @@
 
 ## 📅 November 25, 2026
 
-> 11 post(s) archived.
+> 12 post(s) archived.
+
+---
+
+### 🕐 21:26 UTC · @omarsar0
+
+> Not surprised that Google pulled off this incredible Gemini Neon model. About 2+ months after Gemini 3.8 Flash, which I&apos;ve already been using heavily in my harnesses. Something is compounding. Good foundations and evals are important in a world of RSI. Confirmed that recent Gemini flash models might be early results of a recursive self-improvement (RSI) flywheel. RSI is in full swing. Compounding effects will drastically change model progress. Flash models are shipping faster, with improvements in efficiency &amp; performance.
+
+🔗 [View original post](https://x.com/omarsar0/status/2125702626222424467)
 
 ---
 

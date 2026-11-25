@@ -2,7 +2,15 @@
 
 ## 📅 November 25, 2026
 
-> 14 post(s) archived.
+> 15 post(s) archived.
+
+---
+
+### 🕐 21:44 UTC · @tunguz
+
+> oof, I’m now officially not having any sympathy for him anymore Terence Tao says once tech companies generate AI-powered math proofs, there are no good options It&apos;s like a power plant creating toxic nuclear waste: you can sit on it, release it, or pay someone to treat it. The best option is not to produce it at all Solving math problems isn&apos;…
+
+🔗 [View original post](https://x.com/tunguz/status/2125707298416791989)
 
 ---
 
