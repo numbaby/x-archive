@@ -2,7 +2,23 @@
 
 ## 📅 November 25, 2026
 
-> 15 post(s) archived.
+> 17 post(s) archived.
+
+---
+
+### 🕐 09:06 UTC · @elonmusk
+
+> Starlink Five years ago, Starlink wasn&apos;t on a single ship. Now it&apos;s on 66,866. That&apos;s more ships than every provider had combined back then. Before Starlink, if you were a sailor, your internet came from Inmarsat. An unlimited plan cost €3,259 a month for 2 Mbps, and the whole crew had t…
+
+🔗 [View original post](https://x.com/elonmusk/status/2125516563277328690)
+
+---
+
+### 🕐 09:06 UTC · @elonmusk
+
+> Grok is so much fun on Tesla road trips! My dad and stepmom got a Model Y Performance last week and called me from the road today asking how to create a free X account so they could get more Grok credits in the car I’m like, what?? You don’t need an X account to use Grok in the car? “No, we ran out of credits.” I didn’…
+
+🔗 [View original post](https://x.com/elonmusk/status/2125516475712844116)
 
 ---
 
