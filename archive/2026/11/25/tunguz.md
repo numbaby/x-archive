@@ -2,7 +2,23 @@
 
 ## 📅 November 25, 2026
 
-> 5 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 03:26 UTC · @tunguz
+
+> Nah, I had spent the early days of my PhD looking into this. What if gravity isn’t a pull from mass, but a push from entropy? https://www.quantamagazine.org/is-gravity-just-entropy-rising-long-shot-idea-gets-another-look-20250613/
+
+🔗 [View original post](https://x.com/tunguz/status/2125430958169915419)
+
+---
+
+### 🕐 03:14 UTC · @tunguz
+
+> 2027 will be the year when centuries happen.
+
+🔗 [View original post](https://x.com/tunguz/status/2125427809770508636)
 
 ---
 

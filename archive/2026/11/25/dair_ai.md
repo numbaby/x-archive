@@ -2,7 +2,17 @@
 
 ## 📅 November 25, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 03:47 UTC · @dair_ai
+
+> This new benchmark, ShellBench, offers a solid set of tasks for testing your agents and harnesses on real-world everyday tasks. 100 day-to-day tasks based on real user requests, graded on correctness and safety. IMO, it has a good set of tasks that you would want to test personal agents on. Great work from the cracked teams at @parsewaveai, @openclaw, and @kaggle. We partnered with @openclaw and @Parsewaveai to reproduce ShellBench on Kaggle Benchmarks. This is the first official benchmark from the OpenClaw Foundation that rigorously evaluates frontier models on 100 real-world personal AI tasks, from reconciling receipts and planning trav…
+
+![This new benchmark, ShellBench, offers a solid set of tasks for testing your agents and harnesses on real-world everyday tasks. 100 day-to-day tasks based on real user requests, graded on correctness ](../../../../assets/images/2026/11/25/2125436155550171639-1.jpg)
+
+🔗 [View original post](https://x.com/omarsar0/status/2125436155550171639)
 
 ---
 
