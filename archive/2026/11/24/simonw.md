@@ -2,7 +2,17 @@
 
 ## 📅 November 24, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 23:21 UTC · @simonw
+
+> To accompany the video from my recent talk at @aiDotEngineer, here&apos;s an expanded version of my argument that we&apos;ve seen three key inflection points with LLM over the past twelve months https://simonwillison.net/2026/Nov/24/llm-inflection-points/
+
+![To accompany the video from my recent talk at @aiDotEngineer, here&apos;s an expanded version of my argument that we&apos;ve seen three key inflection points with LLM over the past twelve months https](../../../../assets/images/2026/11/24/2125369126877286662-1.jpg)
+
+🔗 [View original post](https://x.com/simonw/status/2125369126877286662)
 
 ---
 

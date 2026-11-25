@@ -2,7 +2,15 @@
 
 ## 📅 November 24, 2026
 
-> 7 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 22:22 UTC · @omarsar0
+
+> You can now make a movie trailer for $19.20. This one took 12 generations on MAGI-2 on Higgsfield, 20 seconds each. Eight CENTS a second. And open weights are coming soon (400B parameters... this thing is huge). Fucking incredible. Media Introducing MAGI-2, exclusively on Higgsfield. Up to 30 seconds of frontier 1080p quality, with 0.08$ per second of generation. Open weights video model with 400B parameters coming soon. Now available exclusively on Higgsfield and via Higgsfield API.
+
+🔗 [View original post](https://x.com/mattshumer_/status/2125354482565280090)
 
 ---
 

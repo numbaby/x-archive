@@ -2,7 +2,23 @@
 
 ## 📅 November 24, 2026
 
-> 3 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 22:13 UTC · @ylecun
+
+> The Anthropic Brain Drain has accelerated. Expected dozens before the end of the year. These will be the folks that made Anthropic actually have great products. The shell of the company will be Dario and cohorts. 👀 Tom Blomfield (@t_blom) has left Anthropic.
+
+🔗 [View original post](https://x.com/BrianRoemmele/status/2125352023365484606)
+
+---
+
+### 🕐 16:53 UTC · @ylecun
+
+> Very much appreciate Kevin bringing these safetyist funding networks to everyone&apos;s attention. It&apos;s a real issue. But it&apos;s important to understand that they are not always aligned and certainly not controlled by the labs. In fact, often they work against them. Coefficient Giving, founded by Anthropic investor Dustin Moskowitz, spent hundreds of millions on both journalism and policy outfits that shaped the Jensen Huang story. Here&apos;s how this works. Dustin Moskowitz invested billions of dollars of his Anthropic stock into Good Ventures…
+
+🔗 [View original post](https://x.com/martin_casado/status/2125271569866076414)
 
 ---
 
@@ -33,5 +49,13 @@
 ![Coefficient Giving, founded by Anthropic investor Dustin Moskowitz, spent hundreds of millions on both journalism and policy outfits that shaped the Jensen Huang story. Here&apos;s how this works. Dus](../../../../assets/images/2026/11/24/2125098838587330898-1.jpg)
 
 🔗 [View original post](https://x.com/kevinnbass/status/2125098838587330898)
+
+---
+
+### 🕐 01:28 UTC · @ylecun
+
+> 🇺🇸 Anthropic is training Claude to think it might have rights... and that could give it grievances against the humans using it Harvard cognitive scientist Steven Pinker signed last week&apos;s statement calling Anthropic &quot;not a safe AI company,&quot; and the way Claude is trained is one of his reasons: &quot;They are also training their chatbots, like Claude, to consider that it itself may be conscious, and it itself might have rights that humans might impinge on.&quot; Planes get outside inspectors and crash investigations, so why should a company that now answers to shareholders decide on its own what its AI believes about itself? @sapinker Media 🇺🇸 Silicon Valley&apos;s AI prophets say their own technology could end humanity. Then they say that&apos;s exactly why you should let them build it without interference. Steven Pinker, cognitive scientist at Harvard and one of the world&apos;s most influential public intellectuals, says the…
+
+🔗 [View original post](https://x.com/MarioNawfal/status/2125038787499532477)
 
 ---

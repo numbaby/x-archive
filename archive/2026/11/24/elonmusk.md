@@ -2,7 +2,45 @@
 
 ## 📅 November 24, 2026
 
-> 5 post(s) archived.
+> 9 post(s) archived.
+
+---
+
+### 🕐 23:00 UTC · @elonmusk
+
+> Starlink SpaceX has agreed to forgo $738 million in U.S. federal broadband subsidies and instead provide free @Starlink hardware to eligible American households. NTIA: &quot;To ensure that no consumer at a Covered BSL is left behind, the provider (SpaceX) will serve the covered BSLs as this a…
+
+🔗 [View original post](https://x.com/elonmusk/status/2125363942977597554)
+
+---
+
+### 🕐 21:33 UTC · @elonmusk
+
+> Falcon 9 launches USSF-266 to orbit from pad 4E in California
+
+![Falcon 9 launches USSF-266 to orbit from pad 4E in California](../../../../assets/images/2026/11/24/2125342179216261600-1.jpg)
+
+🔗 [View original post](https://x.com/SpaceX/status/2125342179216261600)
+
+---
+
+### 🕐 21:14 UTC · @elonmusk
+
+> Geordie and Jess Flanagan run two home businesses on Salt Spring Island, B.C. Starlink keeps them connected at home and on remote job sites where other services drop out → https://starlink.com/saltspring
+
+![Geordie and Jess Flanagan run two home businesses on Salt Spring Island, B.C. Starlink keeps them connected at home and on remote job sites where other services drop out → https://starlink.com/saltspr](../../../../assets/images/2026/11/24/2125337322468295036-1.jpg)
+
+🔗 [View original post](https://x.com/Starlink/status/2125337322468295036)
+
+---
+
+### 🕐 19:42 UTC · @elonmusk
+
+> SpaceX has agreed to forgo $738 million in U.S. federal broadband subsidies and instead provide free @Starlink hardware to eligible American households. NTIA: &quot;To ensure that no consumer at a Covered BSL is left behind, the provider (SpaceX) will serve the covered BSLs as this agreement provides. This includes providing customer premises equipment at no cost to new subscribers, so that households at covered BSL do not face the upfront equipment costs. Additionally, the provider’s broadband service will be subject to the same delivery timelines and performance testing requirements applicable to all recipients of BEAD funds.&quot; Under the new agreement, SpaceX would: • Provide free Starlink hardware to eligible households. • Guarantee minimum download speeds of 100 Mbps and upload speeds of 20 Mbps. • Offer a low-cost monthly internet plan. • Commit to providing service for 10 years. • Continue to comply with federal performance testing requirements. The agreement will save American taxpayers hundreds of millions of dollars while accelerating high-speed internet access in underserved rural communities. In exchange, SpaceX would be exempt from most BEAD-related financial audits, procurement requirements and administrative reporting, while remaining subject to network performance testing.
+
+![SpaceX has agreed to forgo $738 million in U.S. federal broadband subsidies and instead provide free @Starlink hardware to eligible American households. NTIA: &quot;To ensure that no consumer at a Cov](../../../../assets/images/2026/11/24/2125314062997467640-1.png)
+
+🔗 [View original post](https://x.com/SawyerMerritt/status/2125314062997467640)
 
 ---
 

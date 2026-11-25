@@ -2,7 +2,23 @@
 
 ## 📅 November 25, 2026
 
-> 2 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 01:30 UTC · @tunguz
+
+> through a mirror, darkly yet a smidgeon less darkly today
+
+🔗 [View original post](https://x.com/tunguz/status/2125401600432742609)
+
+---
+
+### 🕐 01:17 UTC · @tunguz
+
+> I believe so. Gödel’s theorems are a bigger mathematical achievement than the Riemann hypothesis.
+
+🔗 [View original post](https://x.com/tunguz/status/2125398554109682162)
 
 ---
 

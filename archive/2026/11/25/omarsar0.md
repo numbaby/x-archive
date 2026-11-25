@@ -2,7 +2,15 @@
 
 ## 📅 November 25, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 01:31 UTC · @omarsar0
+
+> Teams are shipping faster. Viktor&apos;s cofounder says he merged 228 PRs from two hours of coding with Viktor. That&apos;s insane! Merged PRs per engineer on their team went from about 20 a week in August to 195 in the week of Nov 9. Hand your next PR to @viktor_com, free to start. Here&apos;s a little guide on how we ship with Viktor Code. Also: from 2 hours of coding I merged 228 PRs. Enjoy.
+
+🔗 [View original post](https://x.com/omarsar0/status/2125401901839601794)
 
 ---
 
