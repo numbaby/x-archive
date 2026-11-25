@@ -2,7 +2,15 @@
 
 ## 📅 November 25, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 14:06 UTC · @rasbt
+
+> Code reviews today feel like slapping gazillions of unit tests onto your colleague&apos;s code. But who reviews the tests? :)
+
+🔗 [View original post](https://x.com/rasbt/status/2125591837691793581)
 
 ---
 

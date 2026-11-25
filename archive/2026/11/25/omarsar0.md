@@ -2,7 +2,17 @@
 
 ## 📅 November 25, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 14:35 UTC · @omarsar0
+
+> Banger paper from NVIDIA on sandboxes for agent exploration. (bookmark it) Sandboxes are an important primitive for scaling with agents. There are some interesting ideas here for supporting stateful agent exploration. It live-forks an entire running container, including processes, memory, files, and network, using copy-on-write. Clones share the pages that stay the same, and only the pages that change use new memory. It needs no root access, kernel changes, or hardware virtualization, and runs on Linux, macOS, and Windows through WSL 2. TimeTravelContainer cloned EDA tool environments 84.1x faster, cut memory by 31 to 72%, and sped up end-to-end agent runs by 1.7 to 9.4x. https://arxiv.org/abs/2611.32255 Chat with Paper: https://academy.dair.ai/papers/timetravelcontainer-a-live-forking-sandbox-for-stateful-agent-exploration-2611.32255
+
+![Banger paper from NVIDIA on sandboxes for agent exploration. (bookmark it) Sandboxes are an important primitive for scaling with agents. There are some interesting ideas here for supporting stateful a](../../../../assets/images/2026/11/25/2125599144102531334-1.png)
+
+🔗 [View original post](https://x.com/omarsar0/status/2125599144102531334)
 
 ---
 

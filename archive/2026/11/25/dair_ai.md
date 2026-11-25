@@ -2,7 +2,17 @@
 
 ## 📅 November 25, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 14:26 UTC · @dair_ai
+
+> Great practical paper from the University of Waterloo on agent costs. To lower agent costs, you want the frontier model to lead every task, with a small local model handling routine subtasks. (bookmark it) Delegent is built on Claude Code. The frontier model plans and makes the main coding changes. It hands code reading, test runs, and corpus search to subagents running a small language model on your own hardware. With a 27B FP8 model, frontier cost fell 67% on long-horizon coding and 59% on agentic search, with no loss in task performance. A 2B model that fits on a laptop still cut coding cost by 66%. No router or model was trained. One short instruction, which keeps the main coding tasks with the frontier model, accounts for most of the savings. At API prices, the 27B model adds 3 to 10 cents per coding task. If your agent bill is high, check how much of the frontier model&apos;s spend goes to reading files and running tests, and move that work to a local model. Paper: https://arxiv.org/abs/2611.33098 Chat with Paper: https://academy.dair.ai/papers/delegent-a-multi-agent-harness-that-reduces-cost-without-sacrificing-performance-2611.33098
+
+![Great practical paper from the University of Waterloo on agent costs. To lower agent costs, you want the frontier model to lead every task, with a small local model handling routine subtasks. (bookmar](../../../../assets/images/2026/11/25/2125596877966213596-1.jpg)
+
+🔗 [View original post](https://x.com/dair_ai/status/2125596877966213596)
 
 ---
 

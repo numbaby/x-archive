@@ -2,7 +2,15 @@
 
 ## 📅 November 25, 2026
 
-> 8 post(s) archived.
+> 9 post(s) archived.
+
+---
+
+### 🕐 13:45 UTC · @tunguz
+
+> I actually take a square root, so we have about 6 days before that happens. HOW TO PREDICT AI PROGRESS: take the most bullish timeline and divide it by two. by that logic we’ll have a major breakthrough in P vs NP in the next ~3 weeks rather than by the end of 2026.
+
+🔗 [View original post](https://x.com/tunguz/status/2125586780930068853)
 
 ---
 

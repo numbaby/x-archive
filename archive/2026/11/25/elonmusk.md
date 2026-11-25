@@ -2,7 +2,41 @@
 
 ## 📅 November 25, 2026
 
-> 22 post(s) archived.
+> 30 post(s) archived.
+
+---
+
+### 🕐 13:56 UTC · @elonmusk
+
+> One of my friends asked Grok Bot to sort out his family’s Bali visas. 5 visas issued. Arrival cards submitted. QR code delivered. He approved the payments on his phone. Grok Bot handled the rest. Grok Bot can do almost anything.
+
+![One of my friends asked Grok Bot to sort out his family’s Bali visas. 5 visas issued. Arrival cards submitted. QR code delivered. He approved the payments on his phone. Grok Bot handled the rest. Grok](../../../../assets/images/2026/11/25/2125589527507116342-1.png)
+
+🔗 [View original post](https://x.com/cb_doge/status/2125589527507116342)
+
+---
+
+### 🕐 13:21 UTC · @elonmusk
+
+> I think this clip of Nick Bostrom is quite under-appreciated He inverts “if anyone builds it everyone dies” to “if nobody builds it everyone dies” and posits superintelligence as poised to extend lives to 1200 to 1400 years Media one assumption i want to question about AI is that we&apos;ll eventually figure out the “best future” and then the remaining task will be getting everyone to agree to it. people want different things, and what they want can change. where more intelligence will help is in making those…
+
+🔗 [View original post](https://x.com/garrytan/status/2125580632814412155)
+
+---
+
+### 🕐 13:18 UTC · @elonmusk
+
+> And these same people kept calling us conspiracy theorists and now its all proven Government coordinated with big tech to silence dissent NEW - USAID files: The purpose of &quot;fact-checkers&quot; is to &quot;debunk information in a way that aligns with the objectives of government partners&quot;; all this is done in &quot;closed spaces.&quot;
+
+🔗 [View original post](https://x.com/Timcast/status/2125579861750071747)
+
+---
+
+### 🕐 13:12 UTC · @elonmusk
+
+> 🚨 JUST IN: After the release of the USAID files, Elon Musk just amplified this BOMBSHELL confirming USAID built a global color revolution machine — and it&apos;s ALL coming out now - Over $1B in USAID awards went to Georgia from 2008 to 2025, including $26M for &quot;Elections and Political Processes&quot; - When Georgia tried to force NGOs to disclose foreign funding, the same network launched mass protests - Since USAID funding was cut, right-wing candidates have won in Bolivia, Chile, Honduras, Costa Rica, Peru, Ecuador and Colombia - USAID funded 5 pillars in target countries: &quot;independent&quot; media, lawyers, election monitors, activist training, and governance data - In Georgia, USAID and NED money built the network that toppled President Shevardnadze in the 2003 Rose Revolution - USAID-backed ISFED trained 3,000 election observers and ran a parallel vote count that declared the election fraudulent - USAID helped fund Rustavi 2, which became the opposition&apos;s main TV outlet - After the revolution, Liberty Institute activists were placed into top government posts, including the National Security Council @DataRepublican This is what the Democrats will do on STEROIDS if they ever take back full power in America. Their goal: mass government coercion and collusion with NGOs, tech firms and media outlets in the SHADOWS, and make it as HARD as possible to break up Media Yes
+
+🔗 [View original post](https://x.com/EricLDaugh/status/2125578306611187824)
 
 ---
 
@@ -19,6 +53,32 @@
 > Yes This older article is worth a revisit. USAID was a global regime change machine. My book UNELECTED goes into how this apparatus was constructed over a century-plus.
 
 🔗 [View original post](https://x.com/elonmusk/status/2125576163720642762)
+
+---
+
+### 🕐 12:54 UTC · @elonmusk
+
+> Global Marxists don’t label themselves “Global Marxists” Propaganda is called “Countering Disinformation” Sovereign politics, called “Right wing Extremism” Radical revolutions, “Democracy building” Raising taxes, “Human Rights” Eroding free markets, “Good Governance” Money laundering through institutes, “AID” USAID’s funding partners are called U.S. Senators and Congressmen http://usaid.gov
+
+![Global Marxists don’t label themselves “Global Marxists” Propaganda is called “Countering Disinformation” Sovereign politics, called “Right wing Extremism” Radical revolutions, “Democracy building” Ra](../../../../assets/images/2026/11/25/2125573728977191043-1.jpg)
+
+🔗 [View original post](https://x.com/Petermarocco/status/2125573728977191043)
+
+---
+
+### 🕐 11:59 UTC · @elonmusk
+
+> Grok Bot is the best assistant I ever had
+
+🔗 [View original post](https://x.com/melvindvivas/status/2125559990572445797)
+
+---
+
+### 🕐 10:44 UTC · @elonmusk
+
+> By 2030 every company will have more bots than employees.
+
+🔗 [View original post](https://x.com/TonyChanBuilds/status/2125541007173280174)
 
 ---
 
@@ -43,6 +103,14 @@
 > Grok is so much fun on Tesla road trips! My dad and stepmom got a Model Y Performance last week and called me from the road today asking how to create a free X account so they could get more Grok credits in the car I’m like, what?? You don’t need an X account to use Grok in the car? “No, we ran out of credits.” I didn’…
 
 🔗 [View original post](https://x.com/elonmusk/status/2125516475712844116)
+
+---
+
+### 🕐 08:53 UTC · @elonmusk
+
+> concerning 🚨 30 things the USAID files exposed about the Biden administration. 👇 1. Oct 2022: USAID&apos;s head of disinformation wrote, &quot;We need to get through the midterms without any leaks!&quot; 2. Oct 2022: The White House disinformation plan was scrapped because it &quot;failed to square the chal…
+
+🔗 [View original post](https://x.com/brivael/status/2125513228738584796)
 
 ---
 
