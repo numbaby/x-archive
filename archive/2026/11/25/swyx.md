@@ -2,7 +2,17 @@
 
 ## 📅 November 25, 2026
 
-> 9 post(s) archived.
+> 10 post(s) archived.
+
+---
+
+### 🕐 17:54 UTC · @swyx
+
+> &quot;A swarm of agents can produce more work in a single day than a person can review in our lifetime.&quot; The No AI Slop Manifesto by @dexhorthy, @swyx, @TejasKumar_ and others, born at @aiDotEngineer&apos;s Code Summit, pushes back. Summarized by @philippacsany: https://realpython.com/no-ai-slop-manifesto/?utm_source=x&amp;utm_medium=social&amp;utm_campaign=2026-11-25
+
+![&quot;A swarm of agents can produce more work in a single day than a person can review in our lifetime.&quot; The No AI Slop Manifesto by @dexhorthy, @swyx, @TejasKumar_ and others, born at @aiDotEngi](../../../../assets/images/2026/11/25/2125649422423843011-1.jpg)
+
+🔗 [View original post](https://x.com/realpython/status/2125649422423843011)
 
 ---
 

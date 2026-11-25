@@ -2,7 +2,39 @@
 
 ## 📅 November 25, 2026
 
-> 38 post(s) archived.
+> 42 post(s) archived.
+
+---
+
+### 🕐 19:17 UTC · @elonmusk
+
+> Thanks Ron ❤️ My greatest privilege is being able to work with the incredibly talented people of SpaceX, Tesla, Neuralink and Boring Company, without whom I would be able to accomplish nothing. “Watching Elon engineer is like watching Michael Jordan play basketball…” - SpaceX Director. October 2026 That was a response to my question &quot;Is Elon really an incredible engineer?&quot; from a SpaceX Director in a recent conversation with me. So not only is @elonmusk a super enginee…
+
+🔗 [View original post](https://x.com/elonmusk/status/2125670205456257409)
+
+---
+
+### 🕐 19:12 UTC · @elonmusk
+
+> Interesting No, I do not believe that we should “surrender human free will” to AI systems, and it’s absurd to suggest that I do. I have written hundreds of pages of essays and a constant theme in them is the need for AI to be governed by legitimate democratic processes. For millennia (going…
+
+🔗 [View original post](https://x.com/elonmusk/status/2125669066388209784)
+
+---
+
+### 🕐 19:07 UTC · @elonmusk
+
+> SpaceX Colossus 3 will greatly benefit the Arizona community Our supercompute site in Cochise County has been designed with Arizona in mind: no gas plant, no industrial water use, and a dry-cooling closed-loop water system. SpaceX will also invest $50B+ into the area, bringing 1,000 local permanent jobs and up to 5,500 construction jobs t…
+
+🔗 [View original post](https://x.com/elonmusk/status/2125667762324541673)
+
+---
+
+### 🕐 17:23 UTC · @elonmusk
+
+> This is genuinely horrifying and tyrannical. Almost every group and individual claiming to be a &quot;disinformation expert&quot; or &quot;anti-disinformation group&quot; is not just a fraud but an authoritarian fraud devoted to forcibly suppressing political dissent: GDI put nearly every major conservative news outlet in America on an ad blacklist to financially assassinate their businesses. GDI killed $200 million in ad revenue to media outlets reporting the wrong &quot;narratives.&quot; GDI was recommended to USAID by the US intelligence community.
+
+🔗 [View original post](https://x.com/ggreenwald/status/2125641635622973620)
 
 ---
 

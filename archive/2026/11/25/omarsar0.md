@@ -2,7 +2,15 @@
 
 ## 📅 November 25, 2026
 
-> 9 post(s) archived.
+> 11 post(s) archived.
+
+---
+
+### 🕐 18:59 UTC · @omarsar0
+
+> A good model for me is one that just works with the tools and harness I use. Gemini Neon is legit the best at that. I don&apos;t use Antigravity. I use Pi, and it just fricking works! Now I&apos;m waiting for Google&apos;s move to allow me to use their subscription in any harness.
+
+🔗 [View original post](https://x.com/omarsar0/status/2125665584000241915)
 
 ---
 
@@ -57,6 +65,14 @@
 ![Banger paper from NVIDIA on sandboxes for agent exploration. (bookmark it) Sandboxes are an important primitive for scaling with agents. There are some interesting ideas here for supporting stateful a](../../../../assets/images/2026/11/25/2125599144102531334-1.png)
 
 🔗 [View original post](https://x.com/omarsar0/status/2125599144102531334)
+
+---
+
+### 🕐 14:09 UTC · @omarsar0
+
+> magi-2 made this AI video for $2.4 cant believe higgsfield will open source this 400B parameters model soon Media
+
+🔗 [View original post](https://x.com/EHuanglu/status/2125592808845345017)
 
 ---
 
