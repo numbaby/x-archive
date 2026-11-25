@@ -2,7 +2,15 @@
 
 ## 📅 November 25, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 11:00 UTC · @AiEvolutio58513
+
+> Elon Musk&apos;s advice to young founders: stop chasing money directly. &quot;Anyone who wants to make more than they take has my respect. That&apos;s the main thing you should aim for.&quot; &quot;If you want to create something valuable financially, you don&apos;t pursue that. It&apos;s best to actually pursue providing useful products and services. If you do that, then money will come as a natural consequence.&quot; &quot;If somebody&apos;s trying to make a company work, they should expect to grind super hard... Just be focused on having the output be worth more than the input.&quot; Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media Elon Musk says movies, games and podcasts are going to be &quot;overwhelmingly AI generated,&quot; and the one thing that gets more valuable is being there in person: &quot;Real-time movies and video games, real-time video generation, I think, is where things are headed.&quot; &quot;The AI could certain…
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2125545086322962529)
 
 ---
 
