@@ -2,7 +2,15 @@
 
 ## 📅 November 25, 2026
 
-> 8 post(s) archived.
+> 9 post(s) archived.
+
+---
+
+### 🕐 18:35 UTC · @omarsar0
+
+> Big launch for robotics builders. Abstract just launched an API that runs a robot&apos;s AI in the cloud, so the robot itself needs no GPU. Eight robotics models are accessible through one API key. This is a great idea as we move into the era of robotics. We&apos;ve raised $2.5M from HF0 to build fast &amp; secure inference for robots. Abstract runs your robot&apos;s AI in our cloud with a 30ms round trip, so the robot doesn&apos;t need a GPU on board and costs less to build. One API key gets you eight robot models, π0.5 and MolmoAct2 included. We&apos;…
+
+🔗 [View original post](https://x.com/omarsar0/status/2125659550728716644)
 
 ---
 

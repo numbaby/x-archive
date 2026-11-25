@@ -2,7 +2,15 @@
 
 ## 📅 November 25, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 17:19 UTC · @simonw
+
+> It&apos;s only been two weeks? I&apos;ve made 194 commits to my open source projects that were co-authored by Fable 5.2 It’s been two weeks since we released Claude Fable 5.2. Here’s what people have been exploring with it: Where the letter A came from, one alphabet at a time.
+
+🔗 [View original post](https://x.com/simonw/status/2125640464863056148)
 
 ---
 

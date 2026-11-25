@@ -165826,6 +165826,19 @@
     "fingerprint": "b19e66f45ee37d8bad768ffe9aab32a2f085857b2739bed553b10c02eaee6e8e",
     "media": []
   },
+  "2125627613632938384": {
+    "account": "demishassabis",
+    "date": "2026-11-25",
+    "file": "data/posts/2026/11/2026-11-25.jsonl",
+    "fingerprint": "010bdce9b3592ad76e5e4767cc0bae3443c9106496d993c335409cd9a8e9aa87",
+    "media": [
+      {
+        "local_path": "assets/images/2026/11/25/2125627613632938384-1.jpg",
+        "sha256": "07c9aeda62226b444124f558e526673e5fd02265a6a5241b378b46ab96ca1e85",
+        "source_url": "https://pbs.twimg.com/media/HX--xGmXsAAtoNF.jpg?name=orig"
+      }
+    ]
+  },
   "2125630274520457326": {
     "account": "simonw",
     "date": "2026-11-25",
@@ -165874,6 +165887,13 @@
     "fingerprint": "2b6897344334b7566c73279c27b2e099637a785eaf514370094d1626da5832c8",
     "media": []
   },
+  "2125640464863056148": {
+    "account": "simonw",
+    "date": "2026-11-25",
+    "file": "data/posts/2026/11/2026-11-25.jsonl",
+    "fingerprint": "af98f07bf6997ab9ee3e1d77eee0274c26e4c3633a2d4c4df737bf5552f8b9bb",
+    "media": []
+  },
   "2125646032729935976": {
     "account": "omarsar0",
     "date": "2026-11-25",
@@ -165906,5 +165926,25 @@
     "file": "data/posts/2026/11/2026-11-25.jsonl",
     "fingerprint": "942dafb5afa4dc6ab3eb8bd74aa1e7bb07d7b2746733e6c9b308e8b291a40183",
     "media": []
+  },
+  "2125659550728716644": {
+    "account": "omarsar0",
+    "date": "2026-11-25",
+    "file": "data/posts/2026/11/2026-11-25.jsonl",
+    "fingerprint": "2889ec7f6e4eb22592c965e9c8d53e327cf396d8782db27ca39b9b6da8e8952b",
+    "media": []
+  },
+  "2125663033993437651": {
+    "account": "demishassabis",
+    "date": "2026-11-25",
+    "file": "data/posts/2026/11/2026-11-25.jsonl",
+    "fingerprint": "d57385d86b644c14d8ce91aaea679c4286898cb0df34b61a985e774277c6f417",
+    "media": [
+      {
+        "local_path": "assets/images/2026/11/25/2125663033993437651-1.jpg",
+        "sha256": "d395e4329e56cd2cba813a263a40b7a933e24181ab895388143de20144253b70",
+        "source_url": "https://pbs.twimg.com/media/HX_fFtnXAAAWcKQ.jpg?name=orig"
+      }
+    ]
   }
 }
