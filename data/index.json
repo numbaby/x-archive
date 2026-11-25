@@ -164802,6 +164802,13 @@
       }
     ]
   },
+  "2125269463562076646": {
+    "account": "elonmusk",
+    "date": "2026-11-24",
+    "file": "data/posts/2026/11/2026-11-24.jsonl",
+    "fingerprint": "2aadcdd1f87b07ef4cdb39ad277687d8eecb1cdad6222dccb749708517a1c5ae",
+    "media": []
+  },
   "2125271569866076414": {
     "account": "ylecun",
     "date": "2026-11-24",
@@ -165168,5 +165175,32 @@
     "file": "data/posts/2026/11/2026-11-25.jsonl",
     "fingerprint": "2475dbe28621c7a8ab85dbabe4394f4af59657349e09380b20b37e4a22289bf7",
     "media": []
+  },
+  "2125413614169522335": {
+    "account": "elonmusk",
+    "date": "2026-11-25",
+    "file": "data/posts/2026/11/2026-11-25.jsonl",
+    "fingerprint": "680be65094f15e511bf8414b436a1bbe9bdfdce871e1eb079e1b3b057b5344e9",
+    "media": []
+  },
+  "2125425491351896212": {
+    "account": "tunguz",
+    "date": "2026-11-25",
+    "file": "data/posts/2026/11/2026-11-25.jsonl",
+    "fingerprint": "d32c45aa3c697351d5106adc2e3cb228d937bd29f818c28fb3e52d675faa45d5",
+    "media": []
+  },
+  "2125426861899755973": {
+    "account": "rasbt",
+    "date": "2026-11-25",
+    "file": "data/posts/2026/11/2026-11-25.jsonl",
+    "fingerprint": "5e2d66aa0a1a03b1931ddb9e1ed253ef79f0e93002ebb32e07f6fb1313eae677",
+    "media": [
+      {
+        "local_path": "assets/images/2026/11/25/2125426861899755973-1.jpg",
+        "sha256": "b0c576c9184dcb9d1c949f923e4b7b4e0b7660cfa5d66628a89c51102c9ef446",
+        "source_url": "https://pbs.twimg.com/media/HX8IHy1XEAA9zwq.jpg?name=orig"
+      }
+    ]
   }
 }

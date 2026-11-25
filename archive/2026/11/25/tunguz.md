@@ -2,7 +2,15 @@
 
 ## 📅 November 25, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 03:05 UTC · @tunguz
+
+> Very interesting. I learned something new about my mother tongue today. I guess I&apos;ve taken melodic Croatian songs for granted my whole life. Interesting linguistic curiosity. Among Slavic languages, Croatian is distinguished for being great for melodic catchy songs. This is due to its clear pure vowels and Mediterranean intonation influences that came from Venetian/Italian. A great example is this old summer hit. Thi…
+
+🔗 [View original post](https://x.com/tunguz/status/2125425491351896212)
 
 ---
 

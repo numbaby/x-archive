@@ -2,7 +2,7 @@
 
 ## 📅 November 24, 2026
 
-> 9 post(s) archived.
+> 10 post(s) archived.
 
 ---
 
@@ -41,6 +41,14 @@
 ![SpaceX has agreed to forgo $738 million in U.S. federal broadband subsidies and instead provide free @Starlink hardware to eligible American households. NTIA: &quot;To ensure that no consumer at a Cov](../../../../assets/images/2026/11/24/2125314062997467640-1.png)
 
 🔗 [View original post](https://x.com/SawyerMerritt/status/2125314062997467640)
+
+---
+
+### 🕐 16:45 UTC · @elonmusk
+
+> Visiting family in Slovenia, so naturally I onboarded my brother-in-law&apos;s company to @bot. One hour in, it&apos;s watching competitor prices, editing products and stock in their Magento store, doing SEO, and finding public tenders, so they can cancel the paid tool that does only that. Crazy how early we are. They had no idea it could do this, they just needed someone to show them. Round two is later this week.
+
+🔗 [View original post](https://x.com/larsencc/status/2125269463562076646)
 
 ---
 
