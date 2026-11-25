@@ -2,7 +2,15 @@
 
 ## 📅 November 25, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 13:00 UTC · @AiEvolutio58513
+
+> Elon Musk explains how he&apos;d pick a stock: &quot;Do you like the products or services of that company? Do you like the product roadmap?&quot; &quot;You also want to believe in the team. If you think, well, that&apos;s a talented and hardworking team. They make good products today. They seem to be still motivated to make things in the future, then I&apos;d say that&apos;s a good company to invest in.&quot; &quot;A company is just a group of people assembled to create products and services... then you should buy the stock of that company and then don&apos;t worry too much about the daily fluctuations.&quot; Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media Sam Altman says he&apos;s seeing &quot;the first signs&quot; of an AI compute bubble: &quot;I&apos;m not worried about our compute buildout plans. I am worried about the world&apos;s compute buildout plans.&quot; &quot;I am seeing the first signs of what feels to me like unsustainable silliness of random new neoclouds…
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2125575326327820583)
 
 ---
 

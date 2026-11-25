@@ -2,7 +2,15 @@
 
 ## 📅 November 25, 2026
 
-> 7 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 12:36 UTC · @tunguz
+
+> Yup, I&apos;ve been saying this for years. &quot;Basically most jobs are UBI right now.&quot; Morph founder @tejasybhakta argues that AI could create even more bullshit jobs rather than lead to mass unemployment: &quot;Most people are in jobs that don&apos;t need to exist. These procurement officers that are putting out this paperwork that …
+
+🔗 [View original post](https://x.com/tunguz/status/2125569272269189163)
 
 ---
 

@@ -2,7 +2,23 @@
 
 ## 📅 November 25, 2026
 
-> 20 post(s) archived.
+> 22 post(s) archived.
+
+---
+
+### 🕐 13:06 UTC · @elonmusk
+
+> Hmm From the USAID files: The purpose of fact-checkers is to &quot;debunk information in a way that aligns with the objectives of government partners.&quot; Wow. Just wow. We were all living inside an epistemic bubble.
+
+🔗 [View original post](https://x.com/elonmusk/status/2125576951364731018)
+
+---
+
+### 🕐 13:03 UTC · @elonmusk
+
+> Yes This older article is worth a revisit. USAID was a global regime change machine. My book UNELECTED goes into how this apparatus was constructed over a century-plus.
+
+🔗 [View original post](https://x.com/elonmusk/status/2125576163720642762)
 
 ---
 
