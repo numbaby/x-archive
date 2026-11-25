@@ -2,7 +2,7 @@
 
 ## 📅 November 25, 2026
 
-> 13 post(s) archived.
+> 15 post(s) archived.
 
 ---
 
@@ -46,11 +46,29 @@
 
 ---
 
+### 🕐 04:20 UTC · @elonmusk
+
+> BREAKING: Elon Musk with @JensenHuang at Nvidia
+
+![BREAKING: Elon Musk with @JensenHuang at Nvidia](../../../../assets/images/2026/11/25/2125444500034322719-1.jpg)
+
+🔗 [View original post](https://x.com/teslaownersSV/status/2125444500034322719)
+
+---
+
 ### 🕐 03:31 UTC · @elonmusk
 
 > The USAID Files is one of the most disgusting reads I have ever come across. The deep state functions like an AWFL mafia that invites tech CEOs for boba teas and then leans on them to &quot;share their values&quot; for globomarxist domination. I think I&apos;m going to be sick. Now on https://USAID.gov, you can read internal memos and communications showing how the agency actually operated behind the scenes https://usaid.gov
 
 🔗 [View original post](https://x.com/kylenabecker/status/2125432257066537024)
+
+---
+
+### 🕐 03:27 UTC · @elonmusk
+
+> USAID sounded nice. US AID. As in the US is aiding the poor in need. That’s not what USAID was. It was the US Agency for International Development. Funding Leftist causes and silencing opposition. It spread Communism. It wasn’t about feeding the poor. It created the poor.
+
+🔗 [View original post](https://x.com/C_3C_3/status/2125431028655542285)
 
 ---
 
