@@ -2,7 +2,15 @@
 
 ## 📅 November 25, 2026
 
-> 44 post(s) archived.
+> 47 post(s) archived.
+
+---
+
+### 🕐 20:54 UTC · @elonmusk
+
+> We’ve received FDA approval to launch LINK, the first pivotal trial for an implantable brain-computer interface in the US. This builds off of our work with 30+ participants with Neuralink to date. Those with ALS may be eligible. To learn more: https://neuralink.com/trials/device-control/ Media
+
+🔗 [View original post](https://x.com/neuralink/status/2125694580544680185)
 
 ---
 
@@ -11,6 +19,14 @@
 > A share of SpaceX for every child in America. Another share coming next year directly from Elon. This is great for the country imo. No better way to teach the next generation about the virtues of capitalism. Love to see more companies and founders do this. Happy Thanksgiving! SpaceX is building the infrastructure of the future and working to make life multiplanetary. We believe ownership of the company creating these systems should extend to the next generation of Americans. Today, we are committing one SpaceX share to millions of American children t…
 
 🔗 [View original post](https://x.com/GavinSBaker/status/2125690108279926929)
+
+---
+
+### 🕐 19:56 UTC · @elonmusk
+
+> Happy Thanksgiving! Space X + @elonmusk = 2 shares of SpaceX stock for every child under 18 who has claimed their 530A account!! All 70 MILLION kids are eligible - but you MUST download &amp; claim your child’s acct to get your free shares! Do it now! 🇺🇸🤍🦃 @TrumpAccounts SpaceX is building the infrastructure of the future and working to make life multiplanetary. We believe ownership of the company creating these systems should extend to the next generation of Americans. Today, we are committing one SpaceX share to millions of American children t…
+
+🔗 [View original post](https://x.com/altcap/status/2125680126004486294)
 
 ---
 
@@ -43,6 +59,14 @@
 > SpaceX Colossus 3 will greatly benefit the Arizona community Our supercompute site in Cochise County has been designed with Arizona in mind: no gas plant, no industrial water use, and a dry-cooling closed-loop water system. SpaceX will also invest $50B+ into the area, bringing 1,000 local permanent jobs and up to 5,500 construction jobs t…
 
 🔗 [View original post](https://x.com/elonmusk/status/2125667762324541673)
+
+---
+
+### 🕐 18:59 UTC · @elonmusk
+
+> Less than two months after Starlink Mobile launched in Kazakhstan, 3M+ @_Beeline_kz customers are staying connected on their phones in cellular dead zones. For the first time, rural communities can text, use apps, maps and more 🛰️📱 3 million Beeline Kazakhstan customers have used the Starlink service. @Starlink
+
+🔗 [View original post](https://x.com/Starlink/status/2125665653432713405)
 
 ---
 
