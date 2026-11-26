@@ -2,7 +2,15 @@
 
 ## 📅 November 26, 2026
 
-> 14 post(s) archived.
+> 15 post(s) archived.
+
+---
+
+### 🕐 18:49 UTC · @tunguz
+
+> She is literally the definition of an idiotic imbecile. They don’t come much purer than that. She&apos;s offering teaching to *checks notes* the creator of Lean You can&apos;t make this shit up holy shit
+
+🔗 [View original post](https://x.com/tunguz/status/2126025460077437156)
 
 ---
 

@@ -2,7 +2,17 @@
 
 ## 📅 November 26, 2026
 
-> 12 post(s) archived.
+> 13 post(s) archived.
+
+---
+
+### 🕐 18:21 UTC · @elonmusk
+
+> Half of the English settlers who arrived on the Mayflower were dead after the first winter… The first harvest in 1621 gave the 53 survivors a reason to gather, celebrate and be thankful. Eventually, a few wooded colonies would become the most powerful nation in history.
+
+![Half of the English settlers who arrived on the Mayflower were dead after the first winter… The first harvest in 1621 gave the 53 survivors a reason to gather, celebrate and be thankful. Eventually, a](../../../../assets/images/2026/11/26/2126018532060061963-1.jpg)
+
+🔗 [View original post](https://x.com/Geiger_Capital/status/2126018532060061963)
 
 ---
 

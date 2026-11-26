@@ -166178,6 +166178,19 @@
       }
     ]
   },
+  "2125759745655210113": {
+    "account": "omarsar0",
+    "date": "2026-11-26",
+    "file": "data/posts/2026/11/2026-11-26.jsonl",
+    "fingerprint": "4114fa4ecda95f81905720ba9f81ddf05558b5dd79cad26f1ef19d669d671dcc",
+    "media": [
+      {
+        "local_path": "assets/images/2026/11/26/2125759745655210113-1.jpg",
+        "sha256": "0cef1a786cdf69acaa0e63c7f09c29a45b1a86aeee01104ff3b1292449b6b6bb",
+        "source_url": "https://pbs.twimg.com/tweet_video_thumb/HYA2sWeaYAEjrs9.jpg"
+      }
+    ]
+  },
   "2125763031753793762": {
     "account": "ylecun",
     "date": "2026-11-26",
@@ -166657,6 +166670,39 @@
     "date": "2026-11-26",
     "file": "data/posts/2026/11/2026-11-26.jsonl",
     "fingerprint": "a3622e2f54a0914237acf7c80cff5b9d4ca7c9684268f6e78004532cbd1390c6",
+    "media": []
+  },
+  "2126018532060061963": {
+    "account": "elonmusk",
+    "date": "2026-11-26",
+    "file": "data/posts/2026/11/2026-11-26.jsonl",
+    "fingerprint": "597de847c65672350764364beae603403b3858def96dc855fbd984da0d4e7e12",
+    "media": [
+      {
+        "local_path": "assets/images/2026/11/26/2126018532060061963-1.jpg",
+        "sha256": "f6e5e7939343d786de57c611ac6ec6d91366d4bafc91a68aefa06f71ff587c3c",
+        "source_url": "https://pbs.twimg.com/media/HYEilkLXsAAdJk9.jpg?name=orig"
+      }
+    ]
+  },
+  "2126020086255473108": {
+    "account": "Letstalk246",
+    "date": "2026-11-26",
+    "file": "data/posts/2026/11/2026-11-26.jsonl",
+    "fingerprint": "188e1e484741da46f5ecdd80ebc00bfc7604cc93418ed223ec2af8ec9dd2449e",
+    "media": [
+      {
+        "local_path": "assets/images/2026/11/26/2126020086255473108-1.jpg",
+        "sha256": "744830f6e57394292c6d4c03991092f1f77ff7b994674f00cbf8aed9f7417fab",
+        "source_url": "https://pbs.twimg.com/media/HYEj_piX0AAHsSr.jpg?name=orig"
+      }
+    ]
+  },
+  "2126025460077437156": {
+    "account": "tunguz",
+    "date": "2026-11-26",
+    "file": "data/posts/2026/11/2026-11-26.jsonl",
+    "fingerprint": "f068af7f210f32a0c996565bc0dc95326e67246a3095c38033a0a4de5b100608",
     "media": []
   }
 }
