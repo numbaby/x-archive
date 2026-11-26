@@ -2,7 +2,23 @@
 
 ## 📅 November 26, 2026
 
-> 4 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 14:59 UTC · @tunguz
+
+> It’s also really good for *algorithm design and optimization*, but that’s not what most SWEs care about. It&apos;s incredible how good Astra 6.2 is at so many domains such as material science, hardware design, RSI, chip design, finance, legal. While also being really bad at software engineering relative to the leading models. Very interesting as explains why twitter hates it.
+
+🔗 [View original post](https://x.com/tunguz/status/2125967694675464394)
+
+---
+
+### 🕐 14:16 UTC · @tunguz
+
+> If you are not recursively self improving, you are ngmi.
+
+🔗 [View original post](https://x.com/tunguz/status/2125956843055063395)
 
 ---
 
