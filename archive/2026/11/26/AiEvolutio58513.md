@@ -2,7 +2,15 @@
 
 ## 📅 November 26, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 13:04 UTC · @AiEvolutio58513
+
+> Jensen Huang says if he were a student today, the first thing he would do is learn AI: &quot;If I were a student today the first thing I would do is to learn AI.&quot; &quot;How do I learn to interact with ChatGPT, how do I learn to interact with Gemini Pro, and how do I learn to interact with Grok?&quot; &quot;If I want to be a lawyer, how can I use AI to be a better lawyer? If I want to be a better doctor, how can I use AI to be a better doctor?&quot; &quot;The next generation doesn&apos;t have to ask that question but it has to ask obviously next question, how can I use AI to do my job better?&quot; Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media Elon Musk explains how he&apos;d pick a stock: &quot;Do you like the products or services of that company? Do you like the product roadmap?&quot; &quot;You also want to believe in the team. If you think, well, that&apos;s a talented and hardworking team. They make good products today. They seem to be st…
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2125938707656327619)
 
 ---
 

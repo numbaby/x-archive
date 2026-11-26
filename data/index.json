@@ -166178,6 +166178,13 @@
       }
     ]
   },
+  "2125763031753793762": {
+    "account": "ylecun",
+    "date": "2026-11-26",
+    "file": "data/posts/2026/11/2026-11-26.jsonl",
+    "fingerprint": "78c4485b9f5b24a5a4fa83a79879bc7fd2fe4dd7a1cbb1aeafb18ff0fa6cf20e",
+    "media": []
+  },
   "2125779541952246039": {
     "account": "karpathy",
     "date": "2026-11-26",
@@ -166394,6 +166401,13 @@
     "date": "2026-11-26",
     "file": "data/posts/2026/11/2026-11-26.jsonl",
     "fingerprint": "512d6abd7be88eabef250d5e05c6dfda6064f9bddc0bff89d2ddc584ad54b773",
+    "media": []
+  },
+  "2125938707656327619": {
+    "account": "AiEvolutio58513",
+    "date": "2026-11-26",
+    "file": "data/posts/2026/11/2026-11-26.jsonl",
+    "fingerprint": "771962c736ea0db21f6148e00f0dc2cffbeb5dd7fa1aad2210bcd515b75dad31",
     "media": []
   }
 }
