@@ -2,7 +2,17 @@
 
 ## 📅 November 25, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 20:01 UTC · @demishassabis
+
+> PSA, we tried to make it super easy for your coding agent of choice to use Gemini Neon and all of our models via the Gemini API CLI we shipped a few weeks ago! It is open source and just requires an API key to get started: https://github.com/google-gemini/gemini-api-cli
+
+![PSA, we tried to make it super easy for your coding agent of choice to use Gemini Neon and all of our models via the Gemini API CLI we shipped a few weeks ago! It is open source and just requires an A](../../../../assets/images/2026/11/25/2125681386388422775-1.jpg)
+
+🔗 [View original post](https://x.com/OfficialLoganK/status/2125681386388422775)
 
 ---
 

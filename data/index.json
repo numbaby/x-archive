@@ -166082,6 +166082,19 @@
     "fingerprint": "4f4cef722c669a6d9b670646286bf68fe7d9304d039305fe141e2d655f958859",
     "media": []
   },
+  "2125681386388422775": {
+    "account": "demishassabis",
+    "date": "2026-11-25",
+    "file": "data/posts/2026/11/2026-11-25.jsonl",
+    "fingerprint": "f8e9f44a5d6f32755514c94c1d1682ba09c2eda9d93f99c999029c491994e3e7",
+    "media": [
+      {
+        "local_path": "assets/images/2026/11/25/2125681386388422775-1.jpg",
+        "sha256": "545c590051dc6f817c87c244949bc571365016d181d7042ad5b0e86924a2c43f",
+        "source_url": "https://pbs.twimg.com/card_img/2125303156301090816/bFlEZ3zN?format=jpg&name=800x419"
+      }
+    ]
+  },
   "2125690108279926929": {
     "account": "elonmusk",
     "date": "2026-11-25",
