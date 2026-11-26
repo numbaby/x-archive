@@ -2,7 +2,15 @@
 
 ## 📅 November 26, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 10:56 UTC · @AiEvolutio58513
+
+> Sam Altman was asked how OpenAI, with $13 billion in revenue, can commit to $1.4 trillion in spending: &quot;First of all, we&apos;re doing well more revenue than that. Second of all, Brad, if you want to sell your shares, I&apos;ll find you a buyer.&quot; &quot;I think there&apos;s a lot of people who would love to buy OpenAI shares.&quot; &quot;There are not many times that I want to be a public company, but one of the rare times it&apos;s appealing is when those people are writing these ridiculous OpenAI is about to go out of business...&quot; &quot;I would love to tell them they could just short the stock and I would love to see them get burned on that.&quot; Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media Elon Musk&apos;s advice to young founders: stop chasing money directly. &quot;Anyone who wants to make more than they take has my respect. That&apos;s the main thing you should aim for.&quot; &quot;If you want to create something valuable financially, you don&apos;t pursue that. It&apos;s best to actually pursue …
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2125906489437200717)
 
 ---
 

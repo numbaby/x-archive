@@ -2,7 +2,15 @@
 
 ## 📅 November 26, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 07:49 UTC · @simonw
+
+> New website for Datasette Charts, which includes a galllery showing all of the chart types and annotations in one place https://charts.datasette.io/gallery/
+
+🔗 [View original post](https://x.com/simonw/status/2125859570925154590)
 
 ---
 
