@@ -2,7 +2,33 @@
 
 ## 📅 November 26, 2026
 
-> 11 post(s) archived.
+> 14 post(s) archived.
+
+---
+
+### 🕐 18:13 UTC · @tunguz
+
+> Give me the link to the first 10 tweets on this account @grok
+
+🔗 [View original post](https://x.com/tunguz/status/2126016588520337821)
+
+---
+
+### 🕐 17:53 UTC · @tunguz
+
+> First you make it work. Then you optimize it. Cutting down the RH proof by 200x (not 200%, but 200x!) After the dust settles, we might just end up with a 50 page proof of RH...
+
+🔗 [View original post](https://x.com/tunguz/status/2126011458098176480)
+
+---
+
+### 🕐 17:31 UTC · @tunguz
+
+> Fact
+
+![Fact](../../../../assets/images/2026/11/26/2126005863382933677-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2126005863382933677)
 
 ---
 

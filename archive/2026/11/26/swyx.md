@@ -2,7 +2,15 @@
 
 ## 📅 November 26, 2026
 
-> 6 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 17:08 UTC · @swyx
+
+> my AI Engineer Code Summit talk - brownfield factories: faster. cheaper. safer, freeing attention for your demand factory! thanks to @swyx and @aiDotEngineer who put on a great show as always Automate the software people already rely on. @BuiltByJustin of @diffusionio on brownfield factories: preserve the behavior customers depend on, then make it faster, cheaper and safer. Full Code Summit talk: https://youtu.be/1S4hx3wgvBE
+
+🔗 [View original post](https://x.com/BuiltByJustin/status/2126000102737392055)
 
 ---
 
