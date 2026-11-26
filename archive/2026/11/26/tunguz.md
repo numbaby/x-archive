@@ -2,7 +2,15 @@
 
 ## 📅 November 26, 2026
 
-> 15 post(s) archived.
+> 16 post(s) archived.
+
+---
+
+### 🕐 19:29 UTC · @tunguz
+
+> Next year Halloween will fall on Friday the 13th and a full moon. That only happens once every 420 years.
+
+🔗 [View original post](https://x.com/tunguz/status/2126035744259293695)
 
 ---
 

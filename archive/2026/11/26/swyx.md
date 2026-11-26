@@ -2,7 +2,15 @@
 
 ## 📅 November 26, 2026
 
-> 7 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 19:53 UTC · @swyx
+
+> Everyone’s talking about GTM Engineering, so @swyx and I sat down with @jeffbarg (Head of AI, @clay) to discuss how @clay builds go-to-market agents. We get into: ⚬ why Clay&apos;s lead-qualification evals have been saturated for a year ⚬ how you could score all 40M companies in Clay&apos;s dataset for about $1,500 ⚬ why Clay doesn&apos;t want its own agent to beat Clay + @claudeai Code ⚬ why Clay&apos;s users hate the model selector ⚬ how @OpenAI cancelled Clay&apos;s ChatGPT Apps launch 2 days out - after spending 25% of their resources on it ...and much, much more. Enjoy! Timestamps 0:00 Intro 0:55 Meet Jeff Barg, Head of AI at Clay 3:27 What a GTM engineer actually is 8:21 Selling Avenue to Clay at 5 people 16:10 An AI-forward company with zero people on AI 18:45 Claygents vs. Sculptor 24:49 Why Clay rebuilt its agent around a coding agent 27:48 When post-training and open-weight models pay off 30:35 Qualifying every company in the world for $1,500 32:40 Where you still need frontier intelligence 34:16 Why users hate the model selector 37:09 How Clay evals its agent 42:15 No Temporal, no LangGraph: Clay&apos;s hand-rolled stack 45:44 What broke when agents scaled 48:26 Why Clay&apos;s agent shouldn&apos;t beat Clay + Claude Code 54:26 OpenAI cancelled Clay&apos;s launch two days out 1:00:11 Workflows: from user backlash to agent-built 1:09:59 Why agents still can&apos;t debug their own traces Link in the comments. Media
+
+🔗 [View original post](https://x.com/realbasilchatha/status/2126041706655056010)
 
 ---
 
