@@ -2,7 +2,15 @@
 
 ## 📅 November 26, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 16:29 UTC · @sama
+
+> Ven was one of the earliest believers that we could use our then-current model to solve millenium prize problems. There are a lot of brilliant people in the world, but being brilliant and also having correctly-placed confidence and courage to keep pushing on something that others don&apos;t think is possible is a very valuable thing and fairly rare. I am grateful so many people at OpenAI have this combination. ven chandrasekaran’s proposal for a quantum theory of vacuum gravity in 4d https://arxiv.org/abs/2611.34924
+
+🔗 [View original post](https://x.com/sama/status/2125990371897557278)
 
 ---
 

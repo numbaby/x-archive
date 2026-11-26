@@ -166510,5 +166510,119 @@
     "file": "data/posts/2026/11/2026-11-26.jsonl",
     "fingerprint": "0fa675c38182000fdc01a6dbc5d49cde1b2c2e70d7e03c5bc4675a365f1de9c0",
     "media": []
+  },
+  "2125990371897557278": {
+    "account": "sama",
+    "date": "2026-11-26",
+    "file": "data/posts/2026/11/2026-11-26.jsonl",
+    "fingerprint": "e1509609dcea97b553d228e4897a8b9e330ed2df69b9483cb8a8175e2a4bfb87",
+    "media": []
+  },
+  "2125992743440925029": {
+    "account": "swyx",
+    "date": "2026-11-26",
+    "file": "data/posts/2026/11/2026-11-26.jsonl",
+    "fingerprint": "15159f023b359aa68f4a713baecd74f013eb2d6abf68de477aa7ff4514d23d08",
+    "media": [
+      {
+        "local_path": "assets/images/2026/10/13/2110065576764686421-1.jpg",
+        "sha256": "abc7239833bdc1d2b34c0f7d4248c12775406bddd9aac40a43fca0d18ecc8344",
+        "source_url": "https://pbs.twimg.com/card_img/2125992699060994052/ETxSpivW?format=jpg&name=800x419"
+      }
+    ]
+  },
+  "2125993331482345858": {
+    "account": "swyx",
+    "date": "2026-11-26",
+    "file": "data/posts/2026/11/2026-11-26.jsonl",
+    "fingerprint": "6ec4a7635fa8e98ea00c9147667607a3e15db535c56bf04f0a8a8facf590f7f8",
+    "media": [
+      {
+        "local_path": "assets/images/2026/11/26/2125993331482345858-1.jpg",
+        "sha256": "f275cf3028efbee025c580f20184a4a1d251122cb112e0c425c6303d254256a6",
+        "source_url": "https://pbs.twimg.com/media/HYEHDD4aMAAWYZZ.jpg?name=orig"
+      }
+    ]
+  },
+  "2125995865525629084": {
+    "account": "swyx",
+    "date": "2026-11-26",
+    "file": "data/posts/2026/11/2026-11-26.jsonl",
+    "fingerprint": "fa3f254003667a55dee7e1735d1252f4c6b06dd5735354629037a7f54ff9d427",
+    "media": [
+      {
+        "local_path": "assets/images/2026/11/26/2125995865525629084-1.jpg",
+        "sha256": "87fa84a3b23a93bbb89e733afb5648ca2caf5a208eaeeedc579423d314a35167",
+        "source_url": "https://pbs.twimg.com/media/HYENuETbsAAy_l1.jpg?name=orig"
+      }
+    ]
+  },
+  "2125995984035438717": {
+    "account": "omarsar0",
+    "date": "2026-11-26",
+    "file": "data/posts/2026/11/2026-11-26.jsonl",
+    "fingerprint": "74f318388fe5602fb30858607bddc0587457925dd3ef861e8a6365cbc935d40c",
+    "media": []
+  },
+  "2125996759570895157": {
+    "account": "swyx",
+    "date": "2026-11-26",
+    "file": "data/posts/2026/11/2026-11-26.jsonl",
+    "fingerprint": "863088ab53f31e6865f235ab5770edbf08ffd69e2fe77e9b3010f5847a9aef1e",
+    "media": [
+      {
+        "local_path": "assets/images/2026/11/26/2125996759570895157-1.jpg",
+        "sha256": "88f7c5e5e4258212af813bd0d282dd778a947cc39c9b79b7f2be30068ed4e8e3",
+        "source_url": "https://pbs.twimg.com/media/HYEOyA9bEAAocvt.jpg?name=orig"
+      }
+    ]
+  },
+  "2125997076618301786": {
+    "account": "swyx",
+    "date": "2026-11-26",
+    "file": "data/posts/2026/11/2026-11-26.jsonl",
+    "fingerprint": "b8334a66b4753251e688fa149a704f539c093aae21eb13d4d2b2bec75732ce34",
+    "media": [
+      {
+        "local_path": "assets/images/2026/11/26/2125997076618301786-1.jpg",
+        "sha256": "84438736fb3b56f63cd0595cb3bce122321d6bc38afb90b56f64fce8a332a370",
+        "source_url": "https://img.youtube.com/vi/Qe9d9dWyED0/maxresdefault.jpg"
+      }
+    ]
+  },
+  "2125998873252605954": {
+    "account": "simonw",
+    "date": "2026-11-26",
+    "file": "data/posts/2026/11/2026-11-26.jsonl",
+    "fingerprint": "6af09a152f2288d4a23eb7f28b3277bad6a9a7b4136453b02954a68b93367109",
+    "media": []
+  },
+  "2125999332386349209": {
+    "account": "simonw",
+    "date": "2026-11-26",
+    "file": "data/posts/2026/11/2026-11-26.jsonl",
+    "fingerprint": "080f7e7f6190e3ff807051ca35d0bd168bc03638d932eac5f62249bbb1ccf33c",
+    "media": []
+  },
+  "2126000682079515070": {
+    "account": "tunguz",
+    "date": "2026-11-26",
+    "file": "data/posts/2026/11/2026-11-26.jsonl",
+    "fingerprint": "a259fe6140e0ebb37ebb57b988f0881cff9b216d4939b33f717f6216303799de",
+    "media": []
+  },
+  "2126001390531330468": {
+    "account": "tunguz",
+    "date": "2026-11-26",
+    "file": "data/posts/2026/11/2026-11-26.jsonl",
+    "fingerprint": "d09b9241ab83f62d1f05610168efcbc85ddbc5da9894b2641be208ab790295c2",
+    "media": []
+  },
+  "2126001917977612370": {
+    "account": "tunguz",
+    "date": "2026-11-26",
+    "file": "data/posts/2026/11/2026-11-26.jsonl",
+    "fingerprint": "ada00f8cab24b36e4ebab3a08939537536b0c02eb4c9a789857ccb2416547fff",
+    "media": []
   }
 }

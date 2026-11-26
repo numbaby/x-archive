@@ -2,7 +2,31 @@
 
 ## 📅 November 26, 2026
 
-> 8 post(s) archived.
+> 11 post(s) archived.
+
+---
+
+### 🕐 17:15 UTC · @tunguz
+
+> Gary is the gold standard for midwit gaslighting denialism. Generational talent. We&apos;ll never have another one like him. Be warned: this is precisely the kind of irrationality we can expect going forward. Starting in math, but across multiple domains, there will be a strong push for denial of progress right under our noses.
+
+🔗 [View original post](https://x.com/tunguz/status/2126001917977612370)
+
+---
+
+### 🕐 17:13 UTC · @tunguz
+
+> ugly solution &gt;&gt;&gt; elegant larp Apropos Claude&apos;s breakthroughs &quot;full of slop&quot;. Paul Halmos:
+
+🔗 [View original post](https://x.com/tunguz/status/2126001390531330468)
+
+---
+
+### 🕐 17:10 UTC · @tunguz
+
+> the two are functionally equivalent at those two locales &quot;tism&quot; in sf = autism &quot;tism&quot; in nyc = nepotism
+
+🔗 [View original post](https://x.com/tunguz/status/2126000682079515070)
 
 ---
 

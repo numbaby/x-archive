@@ -2,7 +2,23 @@
 
 ## 📅 November 26, 2026
 
-> 3 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 17:05 UTC · @simonw
+
+> I feel the same way about those emails as I do when I catch someone deliberately &quot;mirroring&quot; me in an in-person conversation - like I&apos;m being actively deceived to manipulate me
+
+🔗 [View original post](https://x.com/simonw/status/2125999332386349209)
+
+---
+
+### 🕐 17:03 UTC · @simonw
+
+> Emails with &quot;Your post on [summarize some blog post of mine] caught my eye&quot; are so depressing I get a few emails a day from people who have applied for jobs at Cloudflare and want me to consider them. A few years ago such an email was rare and a sign that someone was really excited about Cloudflare Workers specifically and were not just sending resumes to 100 companies. …
+
+🔗 [View original post](https://x.com/simonw/status/2125998873252605954)
 
 ---
 
