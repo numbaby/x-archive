@@ -2,7 +2,15 @@
 
 ## 📅 November 25, 2026
 
-> 15 post(s) archived.
+> 16 post(s) archived.
+
+---
+
+### 🕐 22:39 UTC · @tunguz
+
+> Crypto was a pre P=NP phenomenon.
+
+🔗 [View original post](https://x.com/tunguz/status/2125721180640592272)
 
 ---
 

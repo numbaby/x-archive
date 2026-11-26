@@ -2,7 +2,7 @@
 
 ## 📅 November 25, 2026
 
-> 12 post(s) archived.
+> 13 post(s) archived.
 
 ---
 
@@ -11,6 +11,14 @@
 > Not surprised that Google pulled off this incredible Gemini Neon model. About 2+ months after Gemini 3.8 Flash, which I&apos;ve already been using heavily in my harnesses. Something is compounding. Good foundations and evals are important in a world of RSI. Confirmed that recent Gemini flash models might be early results of a recursive self-improvement (RSI) flywheel. RSI is in full swing. Compounding effects will drastically change model progress. Flash models are shipping faster, with improvements in efficiency &amp; performance.
 
 🔗 [View original post](https://x.com/omarsar0/status/2125702626222424467)
+
+---
+
+### 🕐 19:54 UTC · @omarsar0
+
+> MAGI-2 is live, exclusively on Higgsfield. Now you can try the largest near-SOTA video model for free. &gt; $0.08 per second of generation &gt; 480B parameters, about 28B active at a time &gt; Up to 30 seconds at 1080p and up to 20 references Best deal for Black Friday with up to 70% OFF. Open weights coming soon. Available now on Higgsfield, and via Higgsfield MCP. Media
+
+🔗 [View original post](https://x.com/higgsfield/status/2125679477459910964)
 
 ---
 

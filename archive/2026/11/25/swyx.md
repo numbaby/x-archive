@@ -2,7 +2,15 @@
 
 ## 📅 November 25, 2026
 
-> 10 post(s) archived.
+> 11 post(s) archived.
+
+---
+
+### 🕐 22:24 UTC · @swyx
+
+> any prizes for guessing whos next [AINews 26 Nov 2026] here we go again... with the Math proofs and with the Ant-&gt;OAI moves: https://latent.space/p/ainews-math-proofs-are-landing-faster-than-we-can-read-them/ 2 in 1 ainews issue today, hot off the presses!
+
+🔗 [View original post](https://x.com/swyx/status/2125717383839162505)
 
 ---
 

@@ -2,7 +2,23 @@
 
 ## 📅 November 25, 2026
 
-> 42 post(s) archived.
+> 44 post(s) archived.
+
+---
+
+### 🕐 20:36 UTC · @elonmusk
+
+> A share of SpaceX for every child in America. Another share coming next year directly from Elon. This is great for the country imo. No better way to teach the next generation about the virtues of capitalism. Love to see more companies and founders do this. Happy Thanksgiving! SpaceX is building the infrastructure of the future and working to make life multiplanetary. We believe ownership of the company creating these systems should extend to the next generation of Americans. Today, we are committing one SpaceX share to millions of American children t…
+
+🔗 [View original post](https://x.com/GavinSBaker/status/2125690108279926929)
+
+---
+
+### 🕐 19:21 UTC · @elonmusk
+
+> SpaceX is building the infrastructure of the future and working to make life multiplanetary. We believe ownership of the company creating these systems should extend to the next generation of Americans. Today, we are committing one SpaceX share to millions of American children to give the next generation a stake in building a more exciting future → https://ir.spacex.com/updates/releases-details/2026/SpaceX-to-Invest-in-the-Next-Generation-of-Americans-2026-r_LYQ5cH94/default.aspx
+
+🔗 [View original post](https://x.com/SpaceX/status/2125671356339499494)
 
 ---
 
