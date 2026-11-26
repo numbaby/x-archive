@@ -166759,6 +166759,13 @@
     "fingerprint": "179e0a01858df605977abcecdcbabcee9b9b8999e972d98b34b596c66bfb63a2",
     "media": []
   },
+  "2126056111988244795": {
+    "account": "swyx",
+    "date": "2026-11-26",
+    "file": "data/posts/2026/11/2026-11-26.jsonl",
+    "fingerprint": "efc42b0e820c1a69b75c407d4f6d0060d4dbb15c230a65e2c1f660ce9cce3837",
+    "media": []
+  },
   "2126060716817842377": {
     "account": "tunguz",
     "date": "2026-11-26",
@@ -166777,6 +166784,13 @@
     "date": "2026-11-26",
     "file": "data/posts/2026/11/2026-11-26.jsonl",
     "fingerprint": "12da2a661c1e95013222fa6a7c6dae839d14a0758c39de9666bc0519e07e75a0",
+    "media": []
+  },
+  "2126072968761721013": {
+    "account": "swyx",
+    "date": "2026-11-26",
+    "file": "data/posts/2026/11/2026-11-26.jsonl",
+    "fingerprint": "5fbd1c3d1071885a4b596d80649aae80bd3cf9ba926b575cad2b124d0bdb1d74",
     "media": []
   }
 }

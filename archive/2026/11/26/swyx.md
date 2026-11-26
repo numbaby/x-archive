@@ -2,7 +2,23 @@
 
 ## 📅 November 26, 2026
 
-> 8 post(s) archived.
+> 10 post(s) archived.
+
+---
+
+### 🕐 21:57 UTC · @swyx
+
+> another good one is https://x.com/dharmesh/status/2125751491634008548 - when you refound in public, there&apos;s a few good things here: 1. critical feedback from people who aren&apos;t paid to say yes to you 2. you are putting a human face on an otherwise corporate feel 3. turn an &quot;incumbent&quot; into an &quot;underdog&quot; story twitter &quot;isn&apos;t real&quot; (99% of your customers won&apos;t actually ever even see your tweets, though 80% of your influencers might) so its actually a pretty safe space to think in public as long as you stay inside overton Notes From the HubSpot Refounding, Day 14 (Wed, Nov 25): I&apos;ve been spending a lot of time today *thinking* about strategy and market opportunity. Here&apos;s what&apos;s rattling around in my brain: Agentic Coding has been a massive use case for AI and has produced a ton of economic value…
+
+🔗 [View original post](https://x.com/swyx/status/2126072968761721013)
+
+---
+
+### 🕐 20:50 UTC · @swyx
+
+> This was a fun talk. It&apos;s 40 minutes of material crammed into 20 minutes. I recommend further speedrunning it on 1.5x. Thanks to @swyx and @aiDotEngineer for inviting me! (Oh and swyx spends 11 billion tokens/day.) 这 tm 也太疯狂了！前亚马逊、谷歌 40 年老兵 Steve Yegge，自掏腰包开了 22 个 Claude Max 账号、每天狂烧 50 亿 Token，4 个月干完了 60 年的开发积压。 他拿真金白银帮所有人提前踩完未来 18 个月的坑，看完这 21 分钟你能直接拿走 4 条硬核心法： 1. 别逆着“苦涩教训”造轮子：别写大而全的编排框架去教模型变聪明，模型自己会进化。做好心理准备，每代新模型出来就把旧工厂推倒重写。 2. 定期暴力清理“上下文垃圾山”：Agent 天生抗拒删文字，你随口一句话都会被记成铁律越积越厚。必须定期拉个新模型进场，狠…
+
+🔗 [View original post](https://x.com/Steve_Yegge/status/2126056111988244795)
 
 ---
 
