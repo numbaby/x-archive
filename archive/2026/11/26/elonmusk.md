@@ -2,7 +2,15 @@
 
 ## 📅 November 26, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 06:01 UTC · @elonmusk
+
+> The share from SpaceX will be transferred next month. The share directly from me will be transferred when my lockup expires in June next year.
+
+🔗 [View original post](https://x.com/elonmusk/status/2125832205301878841)
 
 ---
 

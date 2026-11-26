@@ -2,7 +2,15 @@
 
 ## 📅 November 26, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 05:58 UTC · @emollick
+
+> Microsoft is such an interesting case. One part on the frontier of AI, to the point where the CEO of AI is warning of the threshold we are crossing, while much of the rest of the organization is the torchbearer for the “AI is a just a normal technology like any other” camp. We are crossing a threshold. Safety and alignment work is the only thing that matters.
+
+🔗 [View original post](https://x.com/emollick/status/2125831416491692310)
 
 ---
 
