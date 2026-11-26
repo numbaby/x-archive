@@ -2,7 +2,23 @@
 
 ## 📅 November 26, 2026
 
-> 6 post(s) archived.
+> 8 post(s) archived.
+
+---
+
+### 🕐 15:35 UTC · @tunguz
+
+> If you lose Croats ... Nearly 17,000 Croatian citizens left Germany in the first nine months of 2026, compared with just over 7,000 arrivals. The latest figures reveal a continuing shift in migration between Croatia and Germany… https://www.croatiaweek.com/croatians-leaving-germany-migration-2026/
+
+🔗 [View original post](https://x.com/tunguz/status/2125976685195546867)
+
+---
+
+### 🕐 15:34 UTC · @tunguz
+
+> I would have much, much more sympathy for the academic researchers bemoaning the advent of AI which is overtaking cores of many of their disciplines were it not for the fact that Academia has spent the better part of the last three quarters of a century erecting barriers to entry, gatekeeping access to the knowledge creation and dissemination venues, and jealously hoarding status end legitimacy.
+
+🔗 [View original post](https://x.com/tunguz/status/2125976465577517263)
 
 ---
 
