@@ -2,7 +2,15 @@
 
 ## 📅 November 26, 2026
 
-> 14 post(s) archived.
+> 16 post(s) archived.
+
+---
+
+### 🕐 21:23 UTC · @elonmusk
+
+> Super appreciate your support. Tesla wouldn’t be where it is without our awesome customers. Happy Thanksgiving to all of our owners, employees &amp; advocates ❤️🇺🇸
+
+🔗 [View original post](https://x.com/elonmusk/status/2126064330022265197)
 
 ---
 
@@ -11,6 +19,14 @@
 > ❤️❤️ Happy Thanksgiving! ❤️❤️
 
 🔗 [View original post](https://x.com/elonmusk/status/2126045116624216127)
+
+---
+
+### 🕐 18:59 UTC · @elonmusk
+
+> The team has been cooking over the last few weeks! You should now see an additional 11% more usage out of your plan, and up to 50% more usage for routines! Excited to share more soon on how we optimized our routine harness to remove inference requests for simple and repetitive tasks! Lot more optimizations in the works this week too! The Grok Bot harness team is 100% focused on helping you get more usage out of your plan
+
+🔗 [View original post](https://x.com/SamSokolin/status/2126027973568466949)
 
 ---
 

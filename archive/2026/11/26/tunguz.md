@@ -2,7 +2,17 @@
 
 ## 📅 November 26, 2026
 
-> 16 post(s) archived.
+> 17 post(s) archived.
+
+---
+
+### 🕐 21:09 UTC · @tunguz
+
+> Thanksgiving, Florida style. 🐊
+
+![Thanksgiving, Florida style. 🐊](../../../../assets/images/2026/11/26/2126060716817842377-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2126060716817842377)
 
 ---
 
