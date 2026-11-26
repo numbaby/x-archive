@@ -2,7 +2,25 @@
 
 ## 📅 November 26, 2026
 
-> 9 post(s) archived.
+> 12 post(s) archived.
+
+---
+
+### 🕐 08:59 UTC · @elonmusk
+
+> Boring Co has built a lot of tunnels under Vegas 2.3 miles through Las Vegas, starting at the Westgate Resort and ending across from UNLV’s Thomas &amp; Mack Center (and then to Airport). When these twin tunnels open to the public, 14 additional Loop stations open too.
+
+🔗 [View original post](https://x.com/elonmusk/status/2125877031816630636)
+
+---
+
+### 🕐 08:37 UTC · @elonmusk
+
+> Fraudsters always complain the loudest when they’re exposed. Just look at what happened with USAID “One lesson I remember from PayPal days: Do you know who complained the loudest? Fraudsters. There would be immediate over the top indignation from the fraudsters. We&apos;re going to see outrageous stuff from fraudsters as we continue cracking down, they&apos;re the loudest” -Elon Musk https://x.com/iam_smx/status/2037940795970371657/photo/1
+
+![Fraudsters always complain the loudest when they’re exposed. Just look at what happened with USAID “One lesson I remember from PayPal days: Do you know who complained the loudest? Fraudsters. There wo](../../../../assets/images/2026/11/26/2125871653976518874-1.jpg)
+
+🔗 [View original post](https://x.com/iam_smx/status/2125871653976518874)
 
 ---
 
@@ -71,6 +89,16 @@
 > Every child in America will receive two SpaceX shares, one from the company and one from me personally
 
 🔗 [View original post](https://x.com/elonmusk/status/2125797463047258119)
+
+---
+
+### 🕐 00:35 UTC · @elonmusk
+
+> Here’s the Trump account sign-up page. https://trumpaccounts.gov
+
+![Here’s the Trump account sign-up page. https://trumpaccounts.gov](../../../../assets/images/2026/11/26/2125750151256092942-1.jpg)
+
+🔗 [View original post](https://x.com/WayneVaughan/status/2125750151256092942)
 
 ---
 
