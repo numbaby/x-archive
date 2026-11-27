@@ -2,7 +2,41 @@
 
 ## 📅 November 27, 2026
 
-> 5 post(s) archived.
+> 9 post(s) archived.
+
+---
+
+### 🕐 16:44 UTC · @tunguz
+
+> Here is my quote from the blog post for the Future of Work Commission that I published a month ago: &quot;The most dramatic recent development has been in pure mathematics. This year, AI models began solving open problems that had stymied mathematicians for decades. In September, OpenAI published a proposed solution to the Navier–Stokes Millennium Prize problem, accompanied by a proof formalized in Lean. The Clay Mathematics Institute subsequently said the problem appeared to have been settled, while emphasizing its evaluation process. OpenAI released more than 700 mathematical manuscripts, with results at different stages of verification. The field is being rapidly upended, and how mathematicians adapt may show how other professions will adjust as AI overtakes their work.&quot; https://aiworkforcecommission.org/how-recent-ai-model-advances-are-reshaping-tech-jobs
+
+![Here is my quote from the blog post for the Future of Work Commission that I published a month ago: &quot;The most dramatic recent development has been in pure mathematics. This year, AI models began ](../../../../assets/images/2026/11/27/2126356599795044808-1.png)
+
+🔗 [View original post](https://x.com/tunguz/status/2126356599795044808)
+
+---
+
+### 🕐 16:41 UTC · @tunguz
+
+> This is a fair and honest perspective, and along the lines of something I&apos;ve been saying for months. Mathematicians are going through possibly the fastest automation event of any profession ever; certainly more than software engineers, which have automated incrementally from the start. Please give us a bit of grace while we absorb the shock, and brace yourselves for yours!
+
+🔗 [View original post](https://x.com/tunguz/status/2126355830341545998)
+
+---
+
+### 🕐 16:18 UTC · @tunguz
+
+> Here is the 10,000 ft big picture perspective on what I had set out to do. Most programs of unifying General Relativity (GR) with the Standard Model (SM) set out from the perspective that *geometry* is fundamental, GR is a theory of geometrodynamics, so let&apos;s try to make SM another gemetrodynamic theory. My thesis has been that SM is actually fundamental, that it&apos;s essentially a theory of transformations of *fields* which are object in a Hilbert space of functions, so how about we try to *field theorize* GR instead.
+
+🔗 [View original post](https://x.com/tunguz/status/2126349947645620681)
+
+---
+
+### 🕐 15:47 UTC · @tunguz
+
+> In other words, we have our &quot;spies&quot; in their datacenters, and they are *literally* begging us to *sell* them more of them. BREAKING: Nvidia&apos;s powerful Blackwell AI chips discovered at a Chinese data center linked to Alice Huang, despite U.S. export restrictions. — Bloomberg
+
+🔗 [View original post](https://x.com/tunguz/status/2126342274691043487)
 
 ---
 

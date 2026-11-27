@@ -2,7 +2,25 @@
 
 ## 📅 November 27, 2026
 
-> 3 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 16:30 UTC · @swyx
+
+> google has a new tibo, spawning just as neon is the hottest frontier model in the world. banked resets and all this is a completely revitalized GDM unlike which we have not seen since basically Gemini 2.5 in my memory. writeup coming @latentspacepod but basically the # of frontier and near-frontier labs has ~doubled every year since 2023 and that’s by far the biggest existence disproof that the bitter lesson is the sole determinant of ai industrial economics. @saranormous calls it model neurodiversity and basically its the single most impt macro factor driving the life/death of agent labs and ai engineering. wow, didn’t expect a hello world to hit 50k+ views and take me past 1k followers 🥹 to give thanks: i’m cooking up banked reset &amp; fixing papercuts 🧚🏻‍♀️ how can @antigravity be improved?
+
+🔗 [View original post](https://x.com/swyx/status/2126352854394790172)
+
+---
+
+### 🕐 14:00 UTC · @swyx
+
+> Your LLM might be overkill. @michellechen of @Cloudflare on the path from serving giant models to training small decision models, with a CI triage demo that uses fewer calls and tokens. Full Code Summit talk: https://youtu.be/cYcYfM9Mvwo
+
+![Your LLM might be overkill. @michellechen of @Cloudflare on the path from serving giant models to training small decision models, with a CI triage demo that uses fewer calls and tokens. Full Code Summ](../../../../assets/images/2026/11/27/2126315113565097985-1.jpg)
+
+🔗 [View original post](https://x.com/aiDotEngineer/status/2126315113565097985)
 
 ---
 

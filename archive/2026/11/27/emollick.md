@@ -2,7 +2,15 @@
 
 ## 📅 November 27, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 15:58 UTC · @emollick
+
+> It may not last for long, but for now you need some level of expertise in a subject to use AI for novel discoveries. It is just too easy to produce exciting results from the models that fail because you don’t know the checks to run or wider context or can’t “smell” a problem. As much as I&apos;d love this to be true: the Indus script has NOT been &quot;cracked&quot; 🧵 We downloaded the paper&apos;s code and ran it. Then we swapped Tamil for Japanese, a language with no known link to the Indus. The code &quot;decoded&quot; the seals in Japanese too. More details below:
+
+🔗 [View original post](https://x.com/emollick/status/2126345004746707119)
 
 ---
 

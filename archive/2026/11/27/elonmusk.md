@@ -2,7 +2,49 @@
 
 ## 📅 November 27, 2026
 
-> 5 post(s) archived.
+> 10 post(s) archived.
+
+---
+
+### 🕐 18:03 UTC · @elonmusk
+
+> My observation is that giving money to “non-profits” rarely benefits the people and often results in hurting civilization by creating a self-perpetuating “cause of the day” bureaucracy that cares only about getting more money. Such “charities” are often merely a means of a wealthy donor buying power over people and governments, while appearing to be a “philanthropist”. Much better to give directly to the people and let them decide what they want to do.
+
+🔗 [View original post](https://x.com/elonmusk/status/2126376500584702103)
+
+---
+
+### 🕐 18:02 UTC · @elonmusk
+
+> Tim Urban on @elonmusk: &quot;He&apos;s truly trying to do these big things for the right reasons.&quot; Media
+
+🔗 [View original post](https://x.com/teslaownersSV/status/2126376230920626285)
+
+---
+
+### 🕐 17:21 UTC · @elonmusk
+
+> Grok @Bot keeps getting better Gavin Baker says Grok Bot feels like another ChatGPT moment because it turns hours of Claude Code work into seconds: &quot;You see these 23-year-old kids and just the way they use AI, they&apos;re just fluent and native in it. I just feel like maybe in a way that no matter how hard I try,…
+
+🔗 [View original post](https://x.com/elonmusk/status/2126365899410341931)
+
+---
+
+### 🕐 13:47 UTC · @elonmusk
+
+> Our gift is about so much more than money. It’s about teaching an entire generation of young Americans the power of investing, compound interest and ownership. 🇺🇸🚀
+
+![Our gift is about so much more than money. It’s about teaching an entire generation of young Americans the power of investing, compound interest and ownership. 🇺🇸🚀](../../../../assets/images/2026/11/27/2126311994995171813-1.jpg)
+
+🔗 [View original post](https://x.com/MichaelDell/status/2126311994995171813)
+
+---
+
+### 🕐 09:59 UTC · @elonmusk
+
+> &quot;If printing money would end poverty, printing diplomas would end stupidity.&quot; Javier Milei. This is France&apos;s problem in one sentence. We did with degrees what central banks do with money: we printed them until they were worth nothing. The master&apos;s degree has become a debased currency. And like all inflation, it leaves no visible victims. It quietly destroys the signal. The result: average people, holding some forgettable master&apos;s from a second-rate university, sincerely believe they belong to the elite. They have the title. They have the stamp. They expect the status that&apos;s supposed to come with it. And when reality refuses to hand it over, they conclude the system is unfair. But that&apos;s not even the real tragedy. The real tragedy is that when everyone has the same degree, the degree says nothing. Truly brilliant people become invisible, drowned in a sea of identical CVs. We built a machine that makes mediocrity comfortable and excellence undetectable. A country doesn&apos;t move forward because of how many graduates it produces. It moves forward because of a handful of exceptional people it knows how to spot, fund, and let build. France doesn&apos;t need more graduates. It needs more brilliant people, recognized as brilliant for what they built, not for the paper on their wall. Your degree says what you studied. What you built says who you are. Printing diplomas never created intelligence. Only inflation.
+
+🔗 [View original post](https://x.com/brivael/status/2126254601028477111)
 
 ---
 
