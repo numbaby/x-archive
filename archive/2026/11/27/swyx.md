@@ -2,7 +2,17 @@
 
 ## 📅 November 27, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 06:29 UTC · @swyx
+
+> beating cursor and t3code on day 0. strong start Rex is live in the App Store. It requires a Rex Server running on another device so maybe a hint that a full public release is imminent… in the meantime enjoy the startup animation and screenshots. 😎 https://apps.apple.com/us/app/rex-by-superlogical/id6813649254
+
+![beating cursor and t3code on day 0. strong start Rex is live in the App Store. It requires a Rex Server running on another device so maybe a hint that a full public release is imminent… in the meantim](../../../../assets/images/2026/11/27/2126201671026180469-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2126201671026180469)
 
 ---
 

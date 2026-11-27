@@ -2,7 +2,17 @@
 
 ## 📅 November 26, 2026
 
-> 16 post(s) archived.
+> 19 post(s) archived.
+
+---
+
+### 🕐 21:30 UTC · @elonmusk
+
+> Lying about Gary Gygax won&apos;t ever change the fact he co-created Dungeons &amp; Dragons. Intentionally trying to harm his legacy won&apos;t ever lessen his influence on the hobby. You can kick and scream all you want, but the man&apos;s legacy is forever. 🎲
+
+![Lying about Gary Gygax won&apos;t ever change the fact he co-created Dungeons &amp; Dragons. Intentionally trying to harm his legacy won&apos;t ever lessen his influence on the hobby. You can kick and](../../../../assets/images/2026/11/26/2126065966966583541-1.png)
+
+🔗 [View original post](https://x.com/CorpseKings/status/2126065966966583541)
 
 ---
 
@@ -37,6 +47,16 @@
 ![Half of the English settlers who arrived on the Mayflower were dead after the first winter… The first harvest in 1621 gave the 53 survivors a reason to gather, celebrate and be thankful. Eventually, a](../../../../assets/images/2026/11/26/2126018532060061963-1.jpg)
 
 🔗 [View original post](https://x.com/Geiger_Capital/status/2126018532060061963)
+
+---
+
+### 🕐 09:00 UTC · @elonmusk
+
+> Dawn Ward was charged with racially aggravated assault after a man at Euston station accused her of a racist slur. Dawn says she never said a word of it. Her lawyer didn&apos;t think she would go to jail, but warned her the worst case was jail. When she told her children what she was charged with, her youngest daughter Aston was 10. Aston asked if prison would let her out at least once a week to see them, or if she would come home every day. Dawn told her she wouldn&apos;t go to prison, because she didn&apos;t want her daughter worrying. That question made her want to fight more than ever. The case hung over her for two years, and a trial meant to last three days ran to nine. In the end all 12 jurors found her not guilty, and they waited outside the gates to tell her she should never have been in that courtroom.
+
+![Dawn Ward was charged with racially aggravated assault after a man at Euston station accused her of a racist slur. Dawn says she never said a word of it. Her lawyer didn&apos;t think she would go to j](../../../../assets/images/2026/11/26/2125877220166271364-1.jpg)
+
+🔗 [View original post](https://x.com/jamesenglish0/status/2125877220166271364)
 
 ---
 
@@ -87,6 +107,14 @@
 > Elon is a lovely dad. He plays with them. He loves seeing his kids and his older kids come visit him and they&apos;re so nice. They actually visit me too and stay with me. When he&apos;s with his kids, no one else exists, he just plays with them. ❤️ — Maye Musk Media
 
 🔗 [View original post](https://x.com/cb_doge/status/2125861926882381859)
+
+---
+
+### 🕐 07:53 UTC · @elonmusk
+
+> Please retweet this It shows which side the police are on 🚨🇬🇧 British Family pulled over by Police for having British Flags in British England Police everywhere will soon get to a point where they need to ‘pick a side’
+
+🔗 [View original post](https://x.com/JohnCleese/status/2125860436054872446)
 
 ---
 

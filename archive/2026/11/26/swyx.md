@@ -2,7 +2,7 @@
 
 ## 📅 November 26, 2026
 
-> 10 post(s) archived.
+> 11 post(s) archived.
 
 ---
 
@@ -93,5 +93,15 @@
 > the amount of saas founders having to refound their decade+ old company is visibly going up in the timeline and 1) its causing a reckoning with lazy saas lockin business models, 2) it’s kinda cool that we all get to see them work thru this problem live Refounding Zapier means answering a lot of hard questions. Like: &quot;Why use Zapier, when Claude connects to my apps?&quot; The short answer: use them together. Your agent does the thinking. Zapier MCP plugs it into 10,000+ apps so it can take real actions in the tools you need. @Zapier…
 
 🔗 [View original post](https://x.com/swyx/status/2125969097276178943)
+
+---
+
+### 🕐 01:57 UTC · @swyx
+
+> Sensational talk on Gemini 4&apos;s post training by @melvinjohnsonp Watch it and it&apos;s no surprise the Gemini 4 series (esp Gemini 4 Neon) is sooooo good. Also... I find it crazy Melvin didn&apos;t even mention Neon in the talk! So all of this was said knowing there was another element coming! 🧵
+
+![Sensational talk on Gemini 4&apos;s post training by @melvinjohnsonp Watch it and it&apos;s no surprise the Gemini 4 series (esp Gemini 4 Neon) is sooooo good. Also... I find it crazy Melvin didn&apos](../../../../assets/images/2026/11/26/2125770995097371070-1.jpg)
+
+🔗 [View original post](https://x.com/mrdbourke/status/2125770995097371070)
 
 ---
