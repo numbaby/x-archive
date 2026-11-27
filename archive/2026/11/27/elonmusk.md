@@ -2,7 +2,15 @@
 
 ## 📅 November 27, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 07:52 UTC · @elonmusk
+
+> True I used to think Trump Accounts were only for newborns because of the $1,000 government contribution. So I never bothered to set one up for my kids. Out of my three children, two are already adults (over 18), so they aren’t eligible. But my youngest is still under 18, and yesterd…
+
+🔗 [View original post](https://x.com/elonmusk/status/2126222666994737622)
 
 ---
 
