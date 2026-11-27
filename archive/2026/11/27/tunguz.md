@@ -2,7 +2,15 @@
 
 ## 📅 November 27, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 12:07 UTC · @tunguz
+
+> Hilbert space being ontologically prior to spacetime is *literally* the main insight behind my PhD thesis. If correct, OpenAI’s new tensor geometry results suggest that distance, Euclidean geometry and curvature constraints can emerge from algebraic information laws. This lends some mathematical support to the hypothesis that Hilbert space is ontologically prior to spacetime. https:/…
+
+🔗 [View original post](https://x.com/tunguz/status/2126286817729360188)
 
 ---
 
