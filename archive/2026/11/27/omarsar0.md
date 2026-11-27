@@ -2,7 +2,23 @@
 
 ## 📅 November 27, 2026
 
-> 2 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 20:55 UTC · @omarsar0
+
+> I have been reading a few papers on the subject and running some experiments, and I will share an overview and some exciting themes for both researchers and builders in the space. I have lots of thoughts on how collective intelligence is measured and how it could help diffuse AI adoption. Right now, this is mostly in the hands of a few hardcore engineers and researchers (including myself), but I think it will become more accessible with better AI interfaces, models, and experiences. Just stay prepared. Stay tuned for more notes.
+
+🔗 [View original post](https://x.com/omarsar0/status/2126419667300524415)
+
+---
+
+### 🕐 19:35 UTC · @omarsar0
+
+> We need more labs building what comes after Transformers for reasoning models. Congrats @zuzanna_pathway on the recognition for doing this important work and for the Forbes feature. Deeply grateful to be on the cover of Forbes and to share my story and @pathway_com’s. From my childhood debate club in a small(er) city in Poland to building Post-Transformer AI for the world. 🦅 Plus, I guess I wash up alright. Thanks @ForbesPolska!
+
+🔗 [View original post](https://x.com/omarsar0/status/2126399562684281193)
 
 ---
 

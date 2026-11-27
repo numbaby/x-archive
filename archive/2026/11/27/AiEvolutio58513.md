@@ -2,7 +2,17 @@
 
 ## 📅 November 27, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 20:25 UTC · @AiEvolutio58513
+
+> My notes on email marketing: 12 things I&apos;d tell most brands
+
+![My notes on email marketing: 12 things I&apos;d tell most brands](../../../../assets/images/2026/11/27/2126412184817459302-1.jpg)
+
+🔗 [View original post](https://x.com/ecomchasedimond/status/2126412184817459302)
 
 ---
 

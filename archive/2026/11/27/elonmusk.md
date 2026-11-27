@@ -2,7 +2,79 @@
 
 ## 📅 November 27, 2026
 
-> 20 post(s) archived.
+> 30 post(s) archived.
+
+---
+
+### 🕐 21:29 UTC · @elonmusk
+
+> The goal with Grok Bots is to enable you to build a whole company! This is the biggest differentiator between another consumer friendly bot like Muse. Grok Bot feels like a team. The other feels like a servant.
+
+🔗 [View original post](https://x.com/elonmusk/status/2126428324012446090)
+
+---
+
+### 🕐 21:24 UTC · @elonmusk
+
+> Major improvements land every week for Grok Bot Grok Bot is actually the first autonomous AI agent that I&apos;m still using after months. Other agents I tried in the past couldn&apos;t hold me as a user for more than a few weeks. Main things I use Grok Bot for: – tracking AI news for content ideas – tracking startups raising money so …
+
+🔗 [View original post](https://x.com/elonmusk/status/2126426934431404067)
+
+---
+
+### 🕐 21:14 UTC · @elonmusk
+
+> Tesla super vision Human driver: *fails to find road* FSD V15: lmao
+
+🔗 [View original post](https://x.com/elonmusk/status/2126424460639313922)
+
+---
+
+### 🕐 21:13 UTC · @elonmusk
+
+> Upgrades Grok Bot team shipped in the last few days: • Flights, hotels, and rental cars bookings in chat • 11% more usage out of each plan • Up to 50% more usage for routines • Google Ads and Google Analytics connectors • Smarter Slack Bots • QuickBooks connector
+
+🔗 [View original post](https://x.com/elonmusk/status/2126424190475501877)
+
+---
+
+### 🕐 20:39 UTC · @elonmusk
+
+> Yeah Elon Musk: &quot;I lived in the Fremont and Nevada factories for three years, fixing that production line, running around like a maniac through every part of that factory.&quot; &quot;Living with the team, I slept on the floor so that the team, who was going through a hard time, could see me o…
+
+🔗 [View original post](https://x.com/elonmusk/status/2126415725548228614)
+
+---
+
+### 🕐 20:32 UTC · @elonmusk
+
+> When using Grok Bots, it is important to create Bots with specialized roles, just like a human company. You can then have a manager bot oversee and coordinate their work. Just like a human employee, if you overload a single bot with a massive array of work, it will start dropping some of the balls.
+
+🔗 [View original post](https://x.com/elonmusk/status/2126413886576590925)
+
+---
+
+### 🕐 20:29 UTC · @elonmusk
+
+> We can’t scale a negative gross margin business. That’s just impossible. Muse is a personal assistant, but doesn’t apply the level of heavy-hitter AI needed to operate a company at serious scale. If Grok Bots are providing high value on par with having excellent employees, then the monthly cost can be quite high, but still deliver outstanding RoI. However, if we do something dumb, like making it complicated to upgrade to higher usage tiers (a mistake we’ve made before), then we need to fix that.
+
+🔗 [View original post](https://x.com/elonmusk/status/2126413161607692773)
+
+---
+
+### 🕐 20:16 UTC · @elonmusk
+
+> I am very impressed with the Grok Bot intelligence for any task. I am advising the team, and they have really exciting features planned, like playbooks. Every model has its strengths and weaknesses. Grok @Bot aims to use whichever one does the best job for the task you give it! Neon is looking particularly promising, but Opus is also excellent in most cases.
+
+🔗 [View original post](https://x.com/adeoressi/status/2126409945184870490)
+
+---
+
+### 🕐 20:03 UTC · @elonmusk
+
+> By 2042 SpaceX will be operating the Starlink network, a million-satellite Starmind constellation comprising about 1/3 of global compute, will have sent manned expeditions to Mars, and will be supporting a manned base on the Moon and, quite possibly, Mars. There&apos;s every possibility of diversifying into asteroid mining, orbital refining and manufacturing, and orbital solar power. An orbital solar power array about the size of Montenegro, which could be built by disassembling a small asteroid, would double the planet&apos;s current electrical power budget. An array a mere 5x larger would double humanity&apos;s primary energy consumption. So yes, a $16T market cap is entirely plausible. This math sounds great until you realize that Space X stock compounding at 15% per year for the next 16 years means the market capitalization will be $16T Current US GDP is roughly $33 trillion, implying that Space X would be roughly half the size of the US economy today
+
+🔗 [View original post](https://x.com/martianwyrdlord/status/2126406477392785477)
 
 ---
 
@@ -93,6 +165,16 @@
 ![15-year-olds in California are now forced to use a booster seat in a car unless they pass a test... but they can change their gender without parental consent. Make it make sense.](../../../../assets/images/2026/11/27/2126361405217509537-1.jpg)
 
 🔗 [View original post](https://x.com/libsoftiktok/status/2126361405217509537)
+
+---
+
+### 🕐 13:48 UTC · @elonmusk
+
+> Another day of using @bot to its peak potential. Had my Chief look for Duos in stock and alert me when one was available nearby 🤌🏼
+
+![Another day of using @bot to its peak potential. Had my Chief look for Duos in stock and alert me when one was available nearby 🤌🏼](../../../../assets/images/2026/11/27/2126312123655430496-1.jpg)
+
+🔗 [View original post](https://x.com/aswincode/status/2126312123655430496)
 
 ---
 
