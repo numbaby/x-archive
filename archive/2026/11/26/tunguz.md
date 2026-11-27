@@ -2,7 +2,15 @@
 
 ## 📅 November 26, 2026
 
-> 17 post(s) archived.
+> 18 post(s) archived.
+
+---
+
+### 🕐 23:55 UTC · @tunguz
+
+> I was there. There were literally riots in the streets. People here are still in denial about how huge the Riemann hypothesis bombshell is. I guess you had to be there in 1995 to know how deeply the proof of Fermat&apos;s Last Theorem reshaped the society
+
+🔗 [View original post](https://x.com/tunguz/status/2126102492341792824)
 
 ---
 
