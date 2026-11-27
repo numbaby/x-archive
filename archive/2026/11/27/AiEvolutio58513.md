@@ -2,7 +2,15 @@
 
 ## 📅 November 27, 2026
 
-> 1 post(s) archived.
+> 2 post(s) archived.
+
+---
+
+### 🕐 10:56 UTC · @AiEvolutio58513
+
+> Jensen Huang says his only regret with OpenAI is that Nvidia didn&apos;t put in more money: &quot;This is likely going to be the next multi-trillion dollar hyperscale company. And who doesn&apos;t want to be an investor in that?&quot; &quot;My only regret is that they invited us to invest early on...&quot; &quot;We were so poor, you know, that we were so poor, we didn&apos;t invest enough, you know, and I should have given them all my money.&quot; Interested in AI? Follow @AiEvolutio58513 and never fall behind. I track ChatGPT, Claude, and every tool quietly changing how we work and create, then hand you the tested signals. Media Sam Altman was asked how OpenAI, with $13 billion in revenue, can commit to $1.4 trillion in spending: &quot;First of all, we&apos;re doing well more revenue than that. Second of all, Brad, if you want to sell your shares, I&apos;ll find you a buyer.&quot; &quot;I think there&apos;s a lot of people who would…
+
+🔗 [View original post](https://x.com/AiEvolutio58513/status/2126268834487349422)
 
 ---
 

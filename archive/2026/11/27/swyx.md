@@ -2,7 +2,7 @@
 
 ## 📅 November 27, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
 
 ---
 
@@ -13,6 +13,16 @@
 ![beating cursor and t3code on day 0. strong start Rex is live in the App Store. It requires a Rex Server running on another device so maybe a hint that a full public release is imminent… in the meantim](../../../../assets/images/2026/11/27/2126201671026180469-1.jpg)
 
 🔗 [View original post](https://x.com/swyx/status/2126201671026180469)
+
+---
+
+### 🕐 02:02 UTC · @swyx
+
+> no way
+
+![no way](../../../../assets/images/2026/11/27/2126134487197340083-1.jpg)
+
+🔗 [View original post](https://x.com/zainhas/status/2126134487197340083)
 
 ---
 
