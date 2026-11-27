@@ -2,7 +2,15 @@
 
 ## 📅 November 27, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 22:30 UTC · @omarsar0
+
+> Aside from being my daily driver, Gemini Neon is the best for research outputs. It&apos;s also fantastic for research planning and running experiments. I even built a new editor for doing rapid research with Neon. Notice I don&apos;t even use the chat anymore. I just write and make requests right in the editor (ie., inline). This is a good example of the part I am most excited about: how frontier models push new experiences and interfaces. If you are curious, WebMCP is powering the collaborative experience. But I feel like it only works well when you have a model that truly understands your intent and is collaborative. Gemini Neon has that vibe. And we can only get more creative from here. Media
+
+🔗 [View original post](https://x.com/omarsar0/status/2126443580759687281)
 
 ---
 
