@@ -2,7 +2,23 @@
 
 ## 📅 November 27, 2026
 
-> 2 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 02:55 UTC · @emollick
+
+> Ambition is being left to the AI Labs and for-profit startups. It doesn&apos;t have to be that way!
+
+🔗 [View original post](https://x.com/emollick/status/2126147781731480061)
+
+---
+
+### 🕐 02:48 UTC · @emollick
+
+> And that was something we started in the GPT-4 era, you can be even more ambitious today, and models cost so much less (GPT-4 level models can run on a smartphone). Yet I see very few major not-for-profit efforts that are thinking about making giant leaps to solve hard problems.
+
+🔗 [View original post](https://x.com/emollick/status/2126146031952044346)
 
 ---
 
