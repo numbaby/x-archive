@@ -167060,5 +167060,19 @@
         "source_url": "https://pbs.twimg.com/media/HYILqdBWYAEQOn3.jpg?name=orig"
       }
     ]
+  },
+  "2126285551838089375": {
+    "account": "omarsar0",
+    "date": "2026-11-27",
+    "file": "data/posts/2026/11/2026-11-27.jsonl",
+    "fingerprint": "29a05197bea7b24d8b4d34b391e5c7e6dfc410c0e5ff0a2ba8338c7efdff1ef1",
+    "media": []
+  },
+  "2126300579442110472": {
+    "account": "AiEvolutio58513",
+    "date": "2026-11-27",
+    "file": "data/posts/2026/11/2026-11-27.jsonl",
+    "fingerprint": "6c9d4ac2b207511d43356596b32dfe6b435d1d6053dc71e58761aba0a073c9dd",
+    "media": []
   }
 }
