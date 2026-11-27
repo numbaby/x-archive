@@ -2,7 +2,17 @@
 
 ## 📅 November 27, 2026
 
-> 4 post(s) archived.
+> 5 post(s) archived.
+
+---
+
+### 🕐 14:22 UTC · @tunguz
+
+> In case you want to read more: https://a.co/d/0bH7cJeN
+
+![In case you want to read more: https://a.co/d/0bH7cJeN](../../../../assets/images/2026/11/27/2126320692706832750-1.jpg)
+
+🔗 [View original post](https://x.com/tunguz/status/2126320692706832750)
 
 ---
 

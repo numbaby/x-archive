@@ -167088,5 +167088,18 @@
     "file": "data/posts/2026/11/2026-11-27.jsonl",
     "fingerprint": "6c9d4ac2b207511d43356596b32dfe6b435d1d6053dc71e58761aba0a073c9dd",
     "media": []
+  },
+  "2126320692706832750": {
+    "account": "tunguz",
+    "date": "2026-11-27",
+    "file": "data/posts/2026/11/2026-11-27.jsonl",
+    "fingerprint": "bcafa2baff31b74720df40577ff13be31a6af10df6e9aabe32879524eeb25df9",
+    "media": [
+      {
+        "local_path": "assets/images/2026/11/27/2126320692706832750-1.jpg",
+        "sha256": "ca6a038f1e1725c0841f90341018b426f2d933a2b60e128959c138f87724ab4d",
+        "source_url": "https://pbs.twimg.com/card_img/2125592962180710400/YAO9WKxW?format=jpg&name=800x419"
+      }
+    ]
   }
 }
