@@ -2,7 +2,31 @@
 
 ## 📅 November 27, 2026
 
-> 17 post(s) archived.
+> 20 post(s) archived.
+
+---
+
+### 🕐 19:56 UTC · @elonmusk
+
+> This will be fully automated and sped up to be &lt;5 mins 🚀 Starship stacking is an incredible sight. 🤩 A time-lapse captures Ship 42 being stacked onto Booster 22 at Starbase. The main lift reportedly takes just around 30 minutes, while the final alignment and precise docking process takes considerably longer. Imagine the engineerin…
+
+🔗 [View original post](https://x.com/elonmusk/status/2126404709628129388)
+
+---
+
+### 🕐 19:30 UTC · @elonmusk
+
+> Beautiful engineering Media
+
+🔗 [View original post](https://x.com/elonmusk/status/2126398247552037042)
+
+---
+
+### 🕐 19:27 UTC · @elonmusk
+
+> Every model has its strengths and weaknesses. Grok @Bot aims to use whichever one does the best job for the task you give it! Neon is looking particularly promising, but Opus is also excellent in most cases. I stopped using Claude about two weeks ago because it was becoming increasingly difficult/combative/manipulative to work with. Switched to Grok Bot as a test run for repeated tasks and had it scan my computers for regular file clean up. It found 22+ GBs of temp files, and bloat …
+
+🔗 [View original post](https://x.com/elonmusk/status/2126397498071670827)
 
 ---
 
