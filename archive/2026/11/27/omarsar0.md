@@ -2,7 +2,23 @@
 
 ## 📅 November 27, 2026
 
-> 5 post(s) archived.
+> 7 post(s) archived.
+
+---
+
+### 🕐 22:44 UTC · @omarsar0
+
+> Check it out: https://d2l.ai/
+
+🔗 [View original post](https://x.com/omarsar0/status/2126447008873328640)
+
+---
+
+### 🕐 22:36 UTC · @omarsar0
+
+> For some weird reason, the end of the clip got cut off. But here are the results from the small requests I made. Overall, the outputs from Neon are delicious and much easier to consume. Media
+
+🔗 [View original post](https://x.com/omarsar0/status/2126445190433128844)
 
 ---
 

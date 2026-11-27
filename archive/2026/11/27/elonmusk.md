@@ -2,7 +2,59 @@
 
 ## 📅 November 27, 2026
 
-> 30 post(s) archived.
+> 39 post(s) archived.
+
+---
+
+### 🕐 22:10 UTC · @elonmusk
+
+> Give each Bot a specific job, just like people in a company Here&apos;s an example of how I manage my Grok Bots like a company. I currently have more than 30 bots.
+
+🔗 [View original post](https://x.com/elonmusk/status/2126438463520350588)
+
+---
+
+### 🕐 22:08 UTC · @elonmusk
+
+> This is the way Interestingly enough, I have one bot named “Grok”. It’s my “everything” bot. I noticed some ball dropping so I created more bots focusing on smaller tasks. Instantly noticed improvement. What’s important, however, are that the bots can still talk to each other. I ask “Are you fa…
+
+🔗 [View original post](https://x.com/elonmusk/status/2126438150314631286)
+
+---
+
+### 🕐 22:08 UTC · @elonmusk
+
+> Give Grok Bot your hardest problems My dad works at a steel fabrication company in Slovenia. Every order starts as a PDF of technical drawings, and someone has to type every dimension and part table into Excel to work out how much steel to buy. Estimators often spend about an hour per drawing sheet on that. This w…
+
+🔗 [View original post](https://x.com/elonmusk/status/2126438008748384711)
+
+---
+
+### 🕐 21:49 UTC · @elonmusk
+
+> I&apos;ve had Grok @Bot find the best Black Friday deals for me all day, and it&apos;s actually working really well. Already saved $445 on a few kitchen stools and $200 on a TV. Having useful agents is really going to change the way we shop.
+
+![I&apos;ve had Grok @Bot find the best Black Friday deals for me all day, and it&apos;s actually working really well. Already saved $445 on a few kitchen stools and $200 on a TV. Having useful agents i](../../../../assets/images/2026/11/27/2126433262801502577-1.jpg)
+
+🔗 [View original post](https://x.com/SawyerMerritt/status/2126433262801502577)
+
+---
+
+### 🕐 21:34 UTC · @elonmusk
+
+> Elon Musk on how to get the most out of Grok Bots: organize them like a real company Create multiple Grok Bots with specialized roles, such as coding, data analysis, financial management, expense tracking, email management, travel planning and daily operations, with a manager bot overseeing and coordinating their work Just like a human employee, overloading a single bot with too many responsibilities leads to tasks being missed The same principles of specialization, delegation and management that make human companies efficient also apply to autonomous SI agents You’re essentially building your own digital workforce with Grok Bots When using Grok Bots, it is important to create Bots with specialized roles, just like a human company. You can then have a manager bot oversee and coordinate their work. Just like a human employee, if you overload a single bot with a massive array of work, it will start droppin…
+
+![Elon Musk on how to get the most out of Grok Bots: organize them like a real company Create multiple Grok Bots with specialized roles, such as coding, data analysis, financial management, expense trac](../../../../assets/images/2026/11/27/2126429392071262477-1.jpg)
+
+🔗 [View original post](https://x.com/XFreeze/status/2126429392071262477)
+
+---
+
+### 🕐 21:34 UTC · @elonmusk
+
+> Worth trying holy sh*t, let Grok Bot watch you work for one week, it will change your life... it finds everything that&apos;s wasting your time, then builds the bots that do it all for you. you can save hours every week, without changing a single thing about how you work. here&apos;s the prompt, paste…
+
+🔗 [View original post](https://x.com/elonmusk/status/2126429365504229400)
 
 ---
 
@@ -19,6 +71,14 @@
 > Major improvements land every week for Grok Bot Grok Bot is actually the first autonomous AI agent that I&apos;m still using after months. Other agents I tried in the past couldn&apos;t hold me as a user for more than a few weeks. Main things I use Grok Bot for: – tracking AI news for content ideas – tracking startups raising money so …
 
 🔗 [View original post](https://x.com/elonmusk/status/2126426934431404067)
+
+---
+
+### 🕐 21:23 UTC · @elonmusk
+
+> My dad works at a steel fabrication company in Slovenia. Every order starts as a PDF of technical drawings, and someone has to type every dimension and part table into Excel to work out how much steel to buy. Estimators often spend about an hour per drawing sheet on that. This week they set up @bot in about an hour. Now they drop in the PDF and the spreadsheet with all the calculations comes out.
+
+🔗 [View original post](https://x.com/larsencc/status/2126426739391816118)
 
 ---
 
@@ -51,6 +111,14 @@
 > When using Grok Bots, it is important to create Bots with specialized roles, just like a human company. You can then have a manager bot oversee and coordinate their work. Just like a human employee, if you overload a single bot with a massive array of work, it will start dropping some of the balls.
 
 🔗 [View original post](https://x.com/elonmusk/status/2126413886576590925)
+
+---
+
+### 🕐 20:32 UTC · @elonmusk
+
+> 🚨 FSD v15 Reality View in heavy rain. Windshield completely blurred, yet the visualization stays sharp. Cars, lanes, road markings, everything crystal clear. This is what supervised autonomy looks like when weather turns bad. Europe has plenty of rainy days. Time to let more drivers use this. #FSD #Tesla https://x.com/TSLA_Bitcoin/status/2126229287481049332/video/1 Media
+
+🔗 [View original post](https://x.com/Rustavi/status/2126413760021618949)
 
 ---
 
@@ -165,6 +233,14 @@
 ![15-year-olds in California are now forced to use a booster seat in a car unless they pass a test... but they can change their gender without parental consent. Make it make sense.](../../../../assets/images/2026/11/27/2126361405217509537-1.jpg)
 
 🔗 [View original post](https://x.com/libsoftiktok/status/2126361405217509537)
+
+---
+
+### 🕐 16:28 UTC · @elonmusk
+
+> Transparency builds trust. X Head of Safety @michaelo on open, verifiable safety decisions for brands from his recent Brand &amp; AI Safety Summit keynote. X’s @michaelo shares why platforms should make safety decisions transparent and verifiable for brands in @Adweek: https://adweek.com/social-marketing/show-your-work-platforms-must-make-safety-decisions-that-brands-can-verify
+
+🔗 [View original post](https://x.com/XBusiness/status/2126352483454992883)
 
 ---
 

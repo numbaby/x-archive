@@ -2,7 +2,17 @@
 
 ## 📅 November 27, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 22:44 UTC · @dair_ai
+
+> Drop everything and go read this. It&apos;s honestly one of the best practical deep learning books out there. This is the second edition. It covers the basic and advanced topics, LLMs, and the math behind deep learning.
+
+![Drop everything and go read this. It&apos;s honestly one of the best practical deep learning books out there. This is the second edition. It covers the basic and advanced topics, LLMs, and the math be](../../../../assets/images/2026/11/27/2126447006537400471-1.png)
+
+🔗 [View original post](https://x.com/omarsar0/status/2126447006537400471)
 
 ---
 
