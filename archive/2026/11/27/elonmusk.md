@@ -2,7 +2,39 @@
 
 ## 📅 November 27, 2026
 
-> 10 post(s) archived.
+> 17 post(s) archived.
+
+---
+
+### 🕐 19:00 UTC · @elonmusk
+
+> Grok Build upgrades Grok Build just got a solid upgrade for headless agents, MCP integrations, and remote terminal workflows Headless sessions can now include images returned by MCP tools in streaming and JSON output, positional prompts automatically run headless when no interactive terminal is ava…
+
+🔗 [View original post](https://x.com/elonmusk/status/2126390700660920546)
+
+---
+
+### 🕐 18:52 UTC · @elonmusk
+
+> Accurate Gavin Baker says SpaceX engineers believe they have solved orbital compute and are actually stressed about Starship reusability “I think catching the Starship, that was amazing. It was a huge moment for SpaceX.” “I will just say having spent a lot of time at Starbase, the SpaceX…
+
+🔗 [View original post](https://x.com/elonmusk/status/2126388828852105325)
+
+---
+
+### 🕐 18:52 UTC · @elonmusk
+
+> Grok Bot is great at finding you the best deals on the Internet JUST IN: Shopify reveals Grok Bot and other agents are playing a &quot;real role&quot; this shopping season, and calls it the first agentic Black Friday Harley Finkelstein (President): &quot;The reason I mention that is those are very specific products. And I think one of the new things that&apos;s…
+
+🔗 [View original post](https://x.com/elonmusk/status/2126388636325499201)
+
+---
+
+### 🕐 18:21 UTC · @elonmusk
+
+> Must Listen to the end! @GavinNewsom rises above politics &amp; nails it. “I emphatically encourage people to claim their Trump Account… don’t fall prey to the political cynicism… this is your money. It is direct, tangible, results oriented, not lost in bureaucracy.” 🎯🇺🇸🚀 Media
+
+🔗 [View original post](https://x.com/altcap/status/2126380906843979898)
 
 ---
 
@@ -30,6 +62,16 @@
 
 ---
 
+### 🕐 17:03 UTC · @elonmusk
+
+> 15-year-olds in California are now forced to use a booster seat in a car unless they pass a test... but they can change their gender without parental consent. Make it make sense.
+
+![15-year-olds in California are now forced to use a booster seat in a car unless they pass a test... but they can change their gender without parental consent. Make it make sense.](../../../../assets/images/2026/11/27/2126361405217509537-1.jpg)
+
+🔗 [View original post](https://x.com/libsoftiktok/status/2126361405217509537)
+
+---
+
 ### 🕐 13:47 UTC · @elonmusk
 
 > Our gift is about so much more than money. It’s about teaching an entire generation of young Americans the power of investing, compound interest and ownership. 🇺🇸🚀
@@ -37,6 +79,16 @@
 ![Our gift is about so much more than money. It’s about teaching an entire generation of young Americans the power of investing, compound interest and ownership. 🇺🇸🚀](../../../../assets/images/2026/11/27/2126311994995171813-1.jpg)
 
 🔗 [View original post](https://x.com/MichaelDell/status/2126311994995171813)
+
+---
+
+### 🕐 13:40 UTC · @elonmusk
+
+> 15 year olds in California may to have to ride in a booster seat starting in January? We&apos;re now well into the territory of self-parody. This law should go.
+
+![15 year olds in California may to have to ride in a booster seat starting in January? We&apos;re now well into the territory of self-parody. This law should go.](../../../../assets/images/2026/11/27/2126310099475956175-1.png)
+
+🔗 [View original post](https://x.com/paulg/status/2126310099475956175)
 
 ---
 
@@ -71,6 +123,16 @@
 ![Working hard to make Blindsight happen. Happy Thanksgiving from the Neuralink team!](../../../../assets/images/2026/11/27/2126181706118160696-1.jpg)
 
 🔗 [View original post](https://x.com/djseo/status/2126181706118160696)
+
+---
+
+### 🕐 02:57 UTC · @elonmusk
+
+> While white liberals in Boston officially recognize Thanksgiving as a “Day of Mourning,” I‘d like to take a moment to remember the Huron who were constantly displaced by the Iroquois. The Apache who were displaced, enslaved, tortured, raped and scalped by the Comanche. The Pueblo, who were often enslaved as part of a wider slave trade run by the Navajo nations. Maybe we can revisit the awful and inhumane wars between the Blackfoot and Cree nations? Perhaps we can make a statue to the inhumane treatment of captured Kiowa women and children at the hands of the Osage? Will we forget the long running and inhumane conflicts between the Lakota alliances against the Cheyenne? You see, American history is far more complex than your white liberal professors taught you. And all those atrocities didn’t end until the white man came and conquered this land and colonized the fuck out of it. YOU’RE WELCOME. 🇺🇸 P.s. But sorry about the blankets. That was our bad. &apos;National Day of Mourning&apos; in Plymouth, MA: &quot;And until this country...and all settler colonial projects are dismantled, we will continue to live in the time of the pilgrims...we cannot allow their crimes to be sanitized and forgotten. And that is why...we have gathered on this h…
+
+![While white liberals in Boston officially recognize Thanksgiving as a “Day of Mourning,” I‘d like to take a moment to remember the Huron who were constantly displaced by the Iroquois. The Apache who w](../../../../assets/images/2026/11/27/2126148322838605889-1.jpg)
+
+🔗 [View original post](https://x.com/LuckyMcGee/status/2126148322838605889)
 
 ---
 

@@ -2,7 +2,23 @@
 
 ## 📅 November 27, 2026
 
-> 9 post(s) archived.
+> 11 post(s) archived.
+
+---
+
+### 🕐 19:07 UTC · @tunguz
+
+> Ontology? In this AI economy?
+
+🔗 [View original post](https://x.com/tunguz/status/2126392462000185374)
+
+---
+
+### 🕐 19:01 UTC · @tunguz
+
+> You really thought that AI that’s powerful enough to figure out all of nature’s secrets can’t find out all of yours? LOL
+
+🔗 [View original post](https://x.com/tunguz/status/2126391045319733611)
 
 ---
 
