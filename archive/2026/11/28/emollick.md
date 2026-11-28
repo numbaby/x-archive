@@ -2,7 +2,15 @@
 
 ## 📅 November 28, 2026
 
-> 2 post(s) archived.
+> 3 post(s) archived.
+
+---
+
+### 🕐 03:12 UTC · @emollick
+
+> Outside of whatever is happening in cryptography, I suspect we are going to see more cases where AI progress in seemingly abstract fields has implications for vital technologies that most people did not realize are related.
+
+🔗 [View original post](https://x.com/emollick/status/2126514496781025710)
 
 ---
 
