@@ -2,7 +2,15 @@
 
 ## 📅 November 27, 2026
 
-> 5 post(s) archived.
+> 6 post(s) archived.
+
+---
+
+### 🕐 23:56 UTC · @emollick
+
+> It would be useful for your AI agent/cloud project to get access to a better cloud machine for a bit when needed (for more tokens). For example, if your Claude Project or Grokbot or whatever is making a movie, giving it temporary access to a machine with a GPU would help a bunch.
+
+🔗 [View original post](https://x.com/emollick/status/2126465135434748034)
 
 ---
 
