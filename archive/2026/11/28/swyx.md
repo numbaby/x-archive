@@ -2,7 +2,27 @@
 
 ## 📅 November 28, 2026
 
-> 2 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 04:09 UTC · @swyx
+
+> @michellechen https://www.youtube.com/watch?v=cYcYfM9Mvwo
+
+![@michellechen https://www.youtube.com/watch?v=cYcYfM9Mvwo](../../../../assets/images/2026/11/28/2126528949073453544-1.jpg)
+
+🔗 [View original post](https://x.com/swyx/status/2126528949073453544)
+
+---
+
+### 🕐 04:09 UTC · @swyx
+
+> worthwhile talk on whats going on with the neolab reinventions Feels like the most straightforward way these days get an offer from Anthropic or OpenAI is “work at Cloudflare” (which itself is hard enough to do fwiw)
+
+![worthwhile talk on whats going on with the neolab reinventions Feels like the most straightforward way these days get an offer from Anthropic or OpenAI is “work at Cloudflare” (which itself is hard en](../../../../assets/images/2026/11/28/2126528882262348003-1.png)
+
+🔗 [View original post](https://x.com/swyx/status/2126528882262348003)
 
 ---
 
