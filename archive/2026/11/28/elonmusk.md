@@ -2,7 +2,41 @@
 
 ## 📅 November 28, 2026
 
-> 10 post(s) archived.
+> 15 post(s) archived.
+
+---
+
+### 🕐 05:16 UTC · @elonmusk
+
+> Maybe there is some merit to envy minimization It took me a while to realize that for a huge number of people the primary motivator behind “tax the rich” wasn’t receiving and spending additional money. It was the taking of it.
+
+🔗 [View original post](https://x.com/elonmusk/status/2126545857373741563)
+
+---
+
+### 🕐 04:53 UTC · @elonmusk
+
+> Still hard to believe that this actually happened Media
+
+🔗 [View original post](https://x.com/elonmusk/status/2126539857581511160)
+
+---
+
+### 🕐 04:47 UTC · @elonmusk
+
+> You can actually do this Cybercab &amp; Chill 🍿
+
+🔗 [View original post](https://x.com/elonmusk/status/2126538472508801049)
+
+---
+
+### 🕐 04:35 UTC · @elonmusk
+
+> This. ♥️
+
+![This. ♥️](../../../../assets/images/2026/11/28/2126535428950122702-1.jpg)
+
+🔗 [View original post](https://x.com/cb_doge/status/2126535428950122702)
 
 ---
 
@@ -19,6 +53,16 @@
 > ❤️ I hope everyone had a wonderful day.
 
 🔗 [View original post](https://x.com/elonmusk/status/2126505770988548516)
+
+---
+
+### 🕐 02:24 UTC · @elonmusk
+
+> i still think about this ngl
+
+![i still think about this ngl](../../../../assets/images/2026/11/28/2126502483275251954-1.jpg)
+
+🔗 [View original post](https://x.com/alpaysh/status/2126502483275251954)
 
 ---
 
