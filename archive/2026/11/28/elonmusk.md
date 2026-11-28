@@ -2,7 +2,33 @@
 
 ## 📅 November 28, 2026
 
-> 15 post(s) archived.
+> 20 post(s) archived.
+
+---
+
+### 🕐 06:35 UTC · @elonmusk
+
+> 🎯 @WallStreetMav Therapy:
+
+🔗 [View original post](https://x.com/elonmusk/status/2126565603016425859)
+
+---
+
+### 🕐 06:25 UTC · @elonmusk
+
+> It is very useful Google&apos;s own Logan Kilpatrick, who works on Gemini, says he uses Grok Bot almost every day 👀
+
+🔗 [View original post](https://x.com/elonmusk/status/2126563155157344530)
+
+---
+
+### 🕐 05:21 UTC · @elonmusk
+
+> Anthropic releases a statement and clarification on Claude sabotaging your work -- on Friday night after Thanksgiving. Surprising part is they were not prepared for this backlash. Though stories have been going on for months. Something broke. https://huggingnews.com/ai/anthropic-denies-claude-sabotaged-code-attributes-errors-to-overcaution-b6c08f2a Claude has not been trained to sabotage work. Yes, it sometimes makes mistakes, and other agents might identify them, but this isn’t sabotage. There have been a few screenshots floating around of an outdated Fable 5 system card. For the first two days of Fable 5&apos;s launch in June…
+
+![Anthropic releases a statement and clarification on Claude sabotaging your work -- on Friday night after Thanksgiving. Surprising part is they were not prepared for this backlash. Though stories have ](../../../../assets/images/2026/11/28/2126547116763783377-1.jpg)
+
+🔗 [View original post](https://x.com/ivan_bezdomny/status/2126547116763783377)
 
 ---
 
@@ -97,6 +123,22 @@
 > Yup Mark Zuckerberg, on Joe Rogan: They &quot;pushed us super hard to take down things that were honestly true.&quot; &quot;Anything that says that vaccines might have side effects, you basically need to take down.&quot; Who? &quot;People in the Biden Administration.&quot;
 
 🔗 [View original post](https://x.com/elonmusk/status/2126489832977473981)
+
+---
+
+### 🕐 01:29 UTC · @elonmusk
+
+> Therapy is such a funny concept. It’s basically: “wow, I have so many problems in my life. I should talk to some idiot who voted for Kamala Harris..”
+
+🔗 [View original post](https://x.com/WallStreetMav/status/2126488665761423423)
+
+---
+
+### 🕐 01:27 UTC · @elonmusk
+
+> ELON IS TELLING YOU HOW TO USE GROK BOT. When using Grok Bots, it is important to create Bots with specialized roles, just like a human company. You can then have a manager bot oversee and coordinate their work. Just like a human employee, if you overload a single bot with a massive array of work, it will start droppin…
+
+🔗 [View original post](https://x.com/ducksays/status/2126488241255924042)
 
 ---
 
