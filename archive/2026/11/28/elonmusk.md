@@ -2,7 +2,33 @@
 
 ## 📅 November 28, 2026
 
-> 6 post(s) archived.
+> 9 post(s) archived.
+
+---
+
+### 🕐 02:37 UTC · @elonmusk
+
+> ❤️ I hope everyone had a wonderful day.
+
+🔗 [View original post](https://x.com/elonmusk/status/2126505770988548516)
+
+---
+
+### 🕐 01:40 UTC · @elonmusk
+
+> Super intelligent AI eliminates any company’s software advantage ALERT🚨: On Dwarkesh’s (cousin) pod, Jensen said that TPU and Trainium wouldn&apos;t come to the industry-standard InferenceX benchmark, implying that their perf per $ wasn&apos;t good. This week, both came to InferenceX, and Google &amp; Amazon have demonstrated 1.5–2.5x better perf per $ at…
+
+🔗 [View original post](https://x.com/elonmusk/status/2126491449722302494)
+
+---
+
+### 🕐 01:39 UTC · @elonmusk
+
+> Even in modern times, prosperity generally is correlated with lower fertility rate This is a very bad thing for civilization Birth rate collapse in civilizations throughout history occurs whenever there is a long period of prosperity and no serious external threats. Rome had a very high birth rate during existential wars with Carthage and then very low after they had destroyed all external threats and…
+
+![Even in modern times, prosperity generally is correlated with lower fertility rate This is a very bad thing for civilization Birth rate collapse in civilizations throughout history occurs whenever the](../../../../assets/images/2026/11/28/2126491123036434603-1.jpg)
+
+🔗 [View original post](https://x.com/ArthurMacwaters/status/2126491123036434603)
 
 ---
 
