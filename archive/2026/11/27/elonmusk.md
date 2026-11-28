@@ -2,7 +2,7 @@
 
 ## 📅 November 27, 2026
 
-> 39 post(s) archived.
+> 42 post(s) archived.
 
 ---
 
@@ -138,6 +138,14 @@
 
 ---
 
+### 🕐 20:13 UTC · @elonmusk
+
+> Disgusting. Taliban strip Afghan women of their names replacing them with &apos;granny&apos; or &apos;goat&apos; in bizarre new crackdown https://trib.al/dnEzri4
+
+🔗 [View original post](https://x.com/piersmorgan/status/2126409036530905107)
+
+---
+
 ### 🕐 20:03 UTC · @elonmusk
 
 > By 2042 SpaceX will be operating the Starlink network, a million-satellite Starmind constellation comprising about 1/3 of global compute, will have sent manned expeditions to Mars, and will be supporting a manned base on the Moon and, quite possibly, Mars. There&apos;s every possibility of diversifying into asteroid mining, orbital refining and manufacturing, and orbital solar power. An orbital solar power array about the size of Montenegro, which could be built by disassembling a small asteroid, would double the planet&apos;s current electrical power budget. An array a mere 5x larger would double humanity&apos;s primary energy consumption. So yes, a $16T market cap is entirely plausible. This math sounds great until you realize that Space X stock compounding at 15% per year for the next 16 years means the market capitalization will be $16T Current US GDP is roughly $33 trillion, implying that Space X would be roughly half the size of the US economy today
@@ -194,6 +202,14 @@
 
 ---
 
+### 🕐 18:51 UTC · @elonmusk
+
+> Wanna Race? Vegas Loop versus Surface Drive along Paradise Road in Las Vegas Third part of the “Wanna Race Trilogy” Media
+
+🔗 [View original post](https://x.com/boringcompany/status/2126388429919543501)
+
+---
+
 ### 🕐 18:21 UTC · @elonmusk
 
 > Must Listen to the end! @GavinNewsom rises above politics &amp; nails it. “I emphatically encourage people to claim their Trump Account… don’t fall prey to the political cynicism… this is your money. It is direct, tangible, results oriented, not lost in bureaucracy.” 🎯🇺🇸🚀 Media
@@ -241,6 +257,14 @@
 > Transparency builds trust. X Head of Safety @michaelo on open, verifiable safety decisions for brands from his recent Brand &amp; AI Safety Summit keynote. X’s @michaelo shares why platforms should make safety decisions transparent and verifiable for brands in @Adweek: https://adweek.com/social-marketing/show-your-work-platforms-must-make-safety-decisions-that-brands-can-verify
 
 🔗 [View original post](https://x.com/XBusiness/status/2126352483454992883)
+
+---
+
+### 🕐 15:03 UTC · @elonmusk
+
+> Women in Afghanistan no longer have the right to have a name. The UN? Silent. The media? Silent. Amnesty International? Silent. Mehdi Hasan? Silent. Ms. Rachel? Silent.
+
+🔗 [View original post](https://x.com/EYakoby/status/2126331054067765355)
 
 ---
 
