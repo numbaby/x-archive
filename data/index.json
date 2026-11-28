@@ -167048,6 +167048,13 @@
     "fingerprint": "5af2e79b7ba97a15775091dde694c197463c53bf657937c500c72aebb91d2447",
     "media": []
   },
+  "2126235569873399828": {
+    "account": "demishassabis",
+    "date": "2026-11-27",
+    "file": "data/posts/2026/11/2026-11-27.jsonl",
+    "fingerprint": "be638a42f2e3327608287df3ae3fbaac0e2c450d1dece43df310490e922a143b",
+    "media": []
+  },
   "2126252454022897830": {
     "account": "Letstalk246",
     "date": "2026-11-27",
@@ -167871,6 +167878,26 @@
     "date": "2026-11-28",
     "file": "data/posts/2026/11/2026-11-28.jsonl",
     "fingerprint": "a60b55b36d19b8eb14d749b6a17a8cc7b967f7e70ebfcad0e6b4d7726b8aaa89",
+    "media": []
+  },
+  "2126559174435934583": {
+    "account": "Letstalk246",
+    "date": "2026-11-28",
+    "file": "data/posts/2026/11/2026-11-28.jsonl",
+    "fingerprint": "478916b4b042777aa2e266c703386090252a3a356c59e70273fb086cac3531e0",
+    "media": [
+      {
+        "local_path": "assets/images/2026/11/28/2126559174435934583-1.jpg",
+        "sha256": "267c44cf51affad344c4498ab658f4aaa60c3347f57ab3f676de50c73a93ef2c",
+        "source_url": "https://pbs.twimg.com/media/HYMOStUWQAAvl-f.jpg?name=orig"
+      }
+    ]
+  },
+  "2126564206702899646": {
+    "account": "emollick",
+    "date": "2026-11-28",
+    "file": "data/posts/2026/11/2026-11-28.jsonl",
+    "fingerprint": "108fc32c079c26762c0ada8d8a17adb71c2d0e52228a95f344387a80d55d0aa9",
     "media": []
   }
 }

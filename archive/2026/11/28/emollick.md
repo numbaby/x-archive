@@ -2,7 +2,15 @@
 
 ## 📅 November 28, 2026
 
-> 3 post(s) archived.
+> 4 post(s) archived.
+
+---
+
+### 🕐 06:29 UTC · @emollick
+
+> A note on demos: AI models are impressive when talking about AI. Ask them to make a music video or a slide deck or an explainer about AI/&quot;themselves&quot; and they will deliver you something creative &amp; unnerving But ask for the same for a non-AI topic and you can see more rough edges
+
+🔗 [View original post](https://x.com/emollick/status/2126564206702899646)
 
 ---
 
